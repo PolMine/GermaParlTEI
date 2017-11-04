@@ -10,5 +10,4 @@ The data comes with a CLARIN PUB+BY+NC+SA license. That means:
 
 **SA** - ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-The [CLARIN licenses](https://www.clarin.eu/content/license-categories) are modelled on the Creative Commons licenses. See the [CC Attribution-NonCommercial-ShareAlike 3.0 Unported$
-
+The [CLARIN licenses](https://www.clarin.eu/content/license-categories) are modelled on the Creative Commons licenses. See the [CC Attribution-NonCommercial-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-nc-sa/3.0/) for further explanations.
