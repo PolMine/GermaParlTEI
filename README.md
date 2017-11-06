@@ -1,4 +1,4 @@
-# GermaParl - Corpus of Plenary Protocols (German Bundestag)
+# GermaParl - Corpus of Plenary Protocols
 
 The GermaParl corpus has been prepared in the
 [PolMine Project](https://polmine.github.io/) based on the
