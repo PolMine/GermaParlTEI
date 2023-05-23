@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-07</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2013/0920/dokumente/protokolle/plenarprotokolle/plenarprotokolle/17097.txt</url>
-        <date>2015-10-20 19:56:42</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -35,8 +35,8 @@
   </teiHeader>
   <text>
     <body>
-      <div type="agenda_item" n="1" what="debate" desc="a) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Verkehr...">
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+      <div type="agenda_item" n="1" what="debate" desc="Debatte">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Die Sitzung ist eröffnet. Nehmen Sie bitte Platz.</p>
           <p>Guten Morgen, liebe Kolleginnen und Kollegen! Ich begrüße Sie herzlich. Mitteilungen gibt es diesmal nicht, sodass wir gleich in unsere Tagesordnung einsteigen können.</p>
@@ -68,7 +68,7 @@
           <p>Ich eröffne die Aussprache und erteile zunächst der Landesministerin Tanja Gönner das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Tanja Gönner" parliamentary_group="NA" role="federal_council" position="Ministerin" party=" CDU" name=" Tanja Gönner">
+        <sp who="Tanja Gönner" parliamentary_group="NA" role="federal_council" position="Ministerin" who_original="Tanja Gönner" party="CDU" name="Tanja Gönner">
           <speaker>Tanja Gönner, Ministerin (Baden-Württemberg):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine sehr geehrten Damen und Herren Abgeordnete!</p>
           <stage type="interjection">(Peter Friedrich [SPD]: Wahlkampf!)</stage>
@@ -109,14 +109,16 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Anhaltender Beifall bei der CDU/CSU und der FDP - Christian Lange [Backnang] [SPD]: Abschiedsapplaus!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege, das geht nicht von Ihrer Redezeit ab.</p>
           <stage type="interjection">(Heiterkeit bei der SPD und dem BÜND-NIS 90/DIE GRÜNEN)</stage>
           <p>Ich erteile das Wort dem Kollegen Florian Pronold für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Florian Pronold" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Florian Pronold">
+      </div>
+      <div type="agenda_item" n="2" what="debate" desc="Debatte">
+        <sp who="Florian Pronold" parliamentary_group="SPD" role="mp" position="NA" who_original="Florian Pronold" party="SPD" name="Florian Pronold">
           <speaker>Florian Pronold (SPD):</speaker>
           <p>So viel Vorapplaus habe ich vonseiten von Schwarz-Gelb noch nie bekommen. Ich bedanke mich sehr herzlich dafür.</p>
           <stage type="interjection">(Heiterkeit bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN - Stefan Müller [Erlangen] [CDU/CSU]: Das kommt so schnell auch nicht mehr vor!)</stage>
@@ -141,12 +143,14 @@
           <p>Deswegen, sehr geehrte Damen und Herren von Schwarz-Gelb: Nicht an den Worten, an den Taten sollt ihr sie erkennen. Wenn es tatsächlich einen Infrastrukturkonsens in der Frage "Rheintal" geben sollte, warum haben Sie dann einen gemeinsamen Antrag verweigert, und warum stellen Sie nicht heute die Mittel zur Verfügung, sodass es zu einem echten Lärmschutz vor Ort kommen kann? Von Ihnen kommt leider nur Wahlkampfgetöse.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Ich erteile das Wort dem Kollegen Patrick Döring für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Patrick Döring" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Patrick Döring">
+      </div>
+      <div type="agenda_item" n="3" what="debate" desc="Debatte">
+        <sp who="Patrick Döring" parliamentary_group="FDP" role="mp" position="NA" who_original="Patrick Döring" party="FDP" name="Patrick Döring">
           <speaker>Patrick Döring (FDP):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Nachdem auch dieser Versuch, Gemeinsamkeiten herauszustellen, gescheitert ist, will ich einen Versuch wagen, deutlich zu machen, dass wir in der Sache in Wahrheit gar nicht so weit auseinander sind.</p>
           <p>Ihnen, sehr geehrter Herr Kollege Pronold, fällt es einfach schwer, anzuerkennen, dass die wesentlichen Fortschritte bei den Verbesserungen der Planungen, den Zusagen für mehr Lärmschutz, der Veränderung des technischen Regelwerkes für Schienenbonus und lärmabhängige Trassenpreise in dieser Wahlperiode von dieser Koalition, von diesen Koalitionsfraktionen und diesem Ministerium umgesetzt werden. Deshalb lassen wir uns an den Taten messen, geschätzter Kollege Pronold, geschätzte Kolleginnen und Kollegen.</p>
@@ -176,12 +180,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Die Kollegin Karin Binder ist die nächste Rednerin für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Karin Binder" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Karin Binder">
+      </div>
+      <div type="agenda_item" n="4" what="debate" desc="Debatte">
+        <sp who="Karin Binder" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Karin Binder" party="DIE LINKE" name="Karin Binder">
           <speaker>Karin Binder (DIE LINKE):</speaker>
           <p>Vielen Dank, Herr Präsident. - Meine Damen und Herren! Liebe Kolleginnen und Kollegen! Es ist wichtig, mehr Güter auf die Schiene zu bringen. Das sehen auch die Menschen am Oberrhein so. Deshalb treten sie dafür ein, dass die Rheintalbahn um ein drittes und viertes Gleis ergänzt wird, und zwar für den Güterverkehr. Die Menschen dort brauchen keine Hochgeschwindigkeitstrasse, wie die Bahn sie nach wie vor in der Planung hat, sie brauchen einen funktionierenden Personennahverkehr.</p>
           <p>Das haben sie auch in den Projektbeirat eingebracht, der nach heftigen Protesten eingerichtet wurde. Hier sieht man, wie wichtig Bürgerbeteiligung ist. Die Kompetenz und das Fachwissen, die von den Initiativen und den Umweltverbänden eingebracht wurden, haben zu einem Nachdenken über Landschaftsverbrauch und über die Existenzsicherung der dortigen Landwirte geführt. Das und einiges mehr haben ich und meine Fraktion von den Menschen dort erfahren. Darüber haben wir mit den Initiativen, mit Bürgermeistern, mit Ratsvertreterinnen und -vertretern diskutiert. Das ist für mich der beste Beweis dafür, wie wichtig diese Beteiligung ist.</p>
@@ -199,21 +205,25 @@
           <p>Das Heimtückische ist: Diese Züge kommen leise an. Man hört sie erst, wenn sie schon da sind. Da helfen auch Anzeigetafeln nicht. Ein sehbehinderter Mensch kann eine Anzeigetafel nicht lesen. Wir brauchen die Durchsagen, die auch früher auf Bahnsteigen zu hören waren: "Vorsicht, ein Zug fährt durch!" Aber die Bahn hat in den vergangenen Jahren jährlich 15 000 Mitarbeiter eingespart. Daran erkennt man: Hier werden Kosten gespart, hier wird an der Sicherheit gespart, und hier wird bei den Menschen gespart. Das muss aufhören.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Kollegin.</p>
         </sp>
-        <sp who="Karin Binder" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Karin Binder">
+      </div>
+      <div type="agenda_item" n="5" what="debate" desc="Debatte">
+        <sp who="Karin Binder" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Karin Binder" party="DIE LINKE" name="Karin Binder">
           <speaker>Karin Binder (DIE LINKE):</speaker>
           <p>Durch Projekte wie Stuttgart 21 wird uns das notwendige Geld genommen, um hier für Sicherheit und Lärmschutz zu sorgen. Sorgen Sie heute dafür, dass sich das ändert, und stimmen Sie unseren vorliegenden Anträgen zu.</p>
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort hat nun der Kollege Winfried Hermann für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Winfried Hermann" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Winfried Hermann">
+      </div>
+      <div type="agenda_item" n="6" what="debate" desc="Debatte">
+        <sp who="Winfried Hermann" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Winfried Hermann" party="GRUENE" name="Winfried Hermann">
           <speaker>Winfried Hermann (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Liebe Bürgerinnen und Bürger im Rheintal, wir wissen, dass Sie heute sehr aufmerksam auf diese Debatte schauen; denn sie ist auch Ihre Debatte. Sie haben jahrelang beharrliche Überzeugungsarbeit vor Ort geleistet. Sie haben viele Abgeordnete eingeladen. Sie haben uns klargemacht, dass im Rheintal so nicht weitergebaut werden kann. Insofern: Herzlichen Dank für Ihr Engagement, mit dem Sie diese Debatte ermöglicht haben!</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der CDU/CSU und des Abg. Patrick Döring [FDP])</stage>
@@ -251,18 +261,20 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält jetzt der Kollege Steffen Bilger für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Steffen Bilger" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Steffen Bilger">
+      </div>
+      <div type="agenda_item" n="7" what="debate" desc="Debatte">
+        <sp who="Steffen Bilger" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Steffen Bilger" party="CDU" name="Steffen Bilger">
           <speaker>Steffen Bilger (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Gestatten Sie auch mir an dieser Stelle, zuerst einmal den Anwohnern entlang der Rheintalbahn zu danken. Sie engagieren sich in Bürgerinitiativen und sind konstruktiv an der Lösung und nicht nur am so weitverbreiteten Denken an den eigenen Kirchturm interessiert.</p>
           <p>Bei all meinen Besuchen im Rheintal konnte auch ich mich eindrücklich davon überzeugen, wie viel Verständnis die Anwohner für die ökonomische und ökologische Notwendigkeit der Rheintalbahn haben. Oft wurde in Gesprächen deutlich gemacht: Wir stehen zum Schienenverkehr und zur Rheintalbahn. Dabei muss man wissen, dass es durch das Bahnprojekt für die Menschen dort, anders etwa als bei Stuttgart 21, im Prinzip fast nur Nachteile gibt. Auch deshalb haben die Anwohner unseren Respekt für ihre positive Grundhaltung verdient.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
           <p>Der Ausbau der Schienenstrecke im Rheingraben als Zulauf zum Gotthard-Basistunnel ist genauso notwendig wie die Verlagerung des Güterverkehrs von der Straße auf die Schiene.</p>
-          <p>(Zurufe von der SPD: Oh)!</p>
+          <stage type="interjection">(Zurufe von der SPD: Oh)!</stage>
           <p>Die Frage ist hier also nicht, ob ausgebaut wird, sondern wie. Die ersten Überlegungen dazu sind für Mensch und Umwelt in der Tat nicht akzeptabel gewesen.</p>
           <stage type="interjection">(Uwe Beckmeyer [SPD]: Aha!)</stage>
           <p>Wir haben daraus und aus langjährigen Versäumnissen gelernt und fordern die Bundesregierung in unserem Koalitionsantrag beispielsweise auf, den bereits seit Jahren planfestgestellten Raststatter Tunnel zu realisieren. Wir brauchen solche und andere Maßnahmen, um die notwendige Akzeptanz des Jahrhundertprojekts nicht zu gefährden; denn eines ist klar: Die Menschen an der Rheintalbahn oder woanders sind nicht mehr bereit, vermeidbaren Schienenlärm einfach so hinzunehmen. Das ist verständlich und nachvollziehbar.</p>
@@ -285,12 +297,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Ich erteile das Wort nun der Kollegin Ute Kumpf von der SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Ute Kumpf" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ute Kumpf">
+      </div>
+      <div type="agenda_item" n="8" what="debate" desc="Debatte">
+        <sp who="Ute Kumpf" parliamentary_group="SPD" role="mp" position="NA" who_original="Ute Kumpf" party="SPD" name="Ute Kumpf">
           <speaker>Ute Kumpf (SPD):</speaker>
           <p>Herr Präsident! Meine lieben Kolleginnen und Kollegen! Eine Bemerkung vorneweg: Wenn wir heute mit unseren Positionen so nahe beieinanderstehen, dann ist das nicht Ihr Verdienst, Herr Döring, oder Ihres, Frau Gönner.</p>
           <stage type="interjection">(Patrick Döring [FDP]: Das habe ich auch gesagt! So ist das!)</stage>
@@ -334,12 +348,14 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Werner Simmling ist der nächste Redner für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Werner Simmling" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Werner Simmling">
+      </div>
+      <div type="agenda_item" n="9" what="debate" desc="Debatte">
+        <sp who="Werner Simmling" parliamentary_group="FDP" role="mp" position="NA" who_original="Werner Simmling" party="FDP" name="Werner Simmling">
           <speaker>Werner Simmling (FDP):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Lassen Sie mich zu Beginn meiner Ausführungen feststellen, dass wir hier in diesem Hohen Hause bei der Debatte zur Rheintalbahn doch entgegen allem Anschein, den soeben auch Frau Kumpf erweckt hat, in vielen Punkten einig sind. Lassen Sie uns in diesem Sinne vor allem für die Bürgerinnen und Bürger im Rheintal weiterarbeiten. Ich glaube, es macht keinen Sinn, in der Vergangenheit zu graben und zu sagen, der eine habe das nicht und der andere habe jenes nicht gemacht.</p>
           <p>Wir führen mit der heutigen Debatte fort, was in Baden-Württemberg, speziell am südlichen Oberrhein, bereits selbstverständlich ist. Bürgerinitiativen, Kommunalpolitik, Landräte, Regierungspräsident und Landesregierung arbeiten seit Jahren eng und vertrauensvoll an Lösungen für einen anwohner- und umweltfreundlichen Ausbau der Rheintalbahn. Mit der Gründung des Projektbeirats im Jahr 2009 wurde diese Zusammenarbeit institutionalisiert. Unter Mitwirkung aller Projektbeteiligten, darunter Vertreter der DB AG, des Bundes, des Landes und der Bürgerinitiativen, wird sehr erfolgreich gearbeitet. Hervorheben - das wurde heute schon einmal gesagt - möchte ich die Beschlüsse der Sitzung vom 8. Februar dieses Jahres, die, wie ich finde, einen Meilenstein markieren.</p>
@@ -353,12 +369,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Nächster Redner ist der Kollege Herbert Behrens für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Herbert Behrens" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Herbert Behrens">
+      </div>
+      <div type="agenda_item" n="10" what="debate" desc="Debatte">
+        <sp who="Herbert Behrens" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Herbert Behrens" party="DIE LINKE" name="Herbert Behrens">
           <speaker>Herbert Behrens (DIE LINKE):</speaker>
           <p>Herr Präsident! Werte Kolleginnen und Kollegen! Die IG BOHR hat in gewisser Weise lange gebohrt, bis sie es geschafft hat, dass ihre Interessen im Bundestag prominente Berücksichtigung finden; gleich acht Anträge befassen sich mit ihren Anliegen. Die Interessengemeinschaft Bahnprotest an Ober- und Hochrhein ist für uns ein beeindruckendes Beispiel für Bürgerengagement, aber auch für Planungsfantasie, wie wir sie brauchen. Die Mitglieder der Bürgerinitiativen haben es geschafft, Betroffene zu organisieren und sie zu bewegen, ihre Interessen in die Hand zu nehmen. Sie nehmen damit ihre Verantwortung für sich selber wahr. Es sind nicht wir, die die Verantwortung für sie übernehmen; das tun sie selber. Wir haben einfach nur unsere Aufgabe zu erfüllen und ihren Interessen nachzukommen.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -384,11 +402,13 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält der Kollege Alexander Bonde für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Alexander Bonde" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Alexander Bonde">
+      </div>
+      <div type="agenda_item" n="11" what="debate" desc="Debatte">
+        <sp who="Alexander Bonde" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Alexander Bonde" party="GRUENE" name="Alexander Bonde">
           <speaker>Alexander Bonde (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! Für uns in der Region des Rheintals in Südbaden ist es wichtig, dass wir es zum ersten Mal seit Jahren schaffen, im Bundestag tatsächlich ein Signal zu setzen, das die Menschen vor Ort unterstützt. Wir müssen beim Ausbau der Rheintalbahn zu verlässlichen Alternativen kommen, die die Frage des Lärms, aber auch die Frage der Erschütterungsbelastung der Bevölkerung ernst nehmen.</p>
           <p>Wenn man wie die Kollegin Andreae und ich seit Jahren mit Initiativen in diesem Parlament scheitert, dann freut man sich, dass es - auch wenn der Wahlkampf sicher bei der Terminierung der Debatte heute zu einer so schönen Zeit eine Rolle gespielt hat - endlich so weit ist, dass auch die Koalitionsfraktionen bereit sind, einen Schritt zu gehen und ein Signal zu setzen. Dazu will ich sagen: Das hilft uns allen.</p>
@@ -409,12 +429,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Peter Götz hat nun das Wort für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Peter Götz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Götz">
+      </div>
+      <div type="agenda_item" n="12" what="debate" desc="Debatte">
+        <sp who="Peter Götz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Götz" party="CDU" name="Peter Götz">
           <speaker>Peter Götz (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Meine sehr geehrten Damen und Herren! Wenn wir heute über die Rheintalbahn debattieren, so ist dies auch eine Chance, ein wenig auf die Differenziertheit der Strecke aufmerksam zu machen. Der Ausbau der Rheintalbahn ist, wie wir alle übereinstimmend feststellen, ein Infrastrukturprojekt von bedeutender europäischer Dimension. Diese Einschätzung hat sich auch in der Wirtschaftlichkeitsstudie, die das Bundesministerium in Auftrag gegeben hat, widergespiegelt. Durch sie wird bestätigt, dass die Leistungsfähigkeit der vorhandenen zweigleisigen Bahnlinie am Oberrhein nur durch einen stufenweisen viergleisigen Ausbau verbessert werden kann. Teilbereiche zwischen Rastatt und Offenburg sind bereits realisiert. Über die Trassenführung in Südbaden, zwischen Offenburg und Basel, wird, wie wir von allen Vorrednern gehört haben, intensiv gerungen.</p>
           <p>Ich möchte einen Teilbereich der Trasse ansprechen, in welchem die Realisierung des Ausbaus von allen Akteuren auf regionaler Ebene vollinhaltlich unterstützt wird. Es geht um den nordbadischen Streckenabschnitt der Rheintalbahn, und zwar zwischen Karlsruhe und Rastatt. In diesem Bereich überschneiden sich die Transversale Rotterdam-Genua, von der wir bereits gehört haben, als wichtigste kontinentale Nord-Süd-Verbindung und die Magistrale Paris-Budapest, die als zentrale Ost-West-Verbindung über Stuttgart, Ulm und Wendlingen verläuft. Das heißt, zwischen Rastatt und Karlsruhe überlagern sich zwei der wichtigsten europäischen Schienenstrecken des transeuropäischen Netzes.</p>
@@ -431,12 +453,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP und der Abg. Dr. Valerie Wilms [BÜNDNIS 90/DIE GRÜNEN])</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Ich erteile das Wort dem Kollegen Gustav Herzog für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Gustav Herzog" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gustav Herzog">
+      </div>
+      <div type="agenda_item" n="13" what="debate" desc="Debatte">
+        <sp who="Gustav Herzog" parliamentary_group="SPD" role="mp" position="NA" who_original="Gustav Herzog" party="SPD" name="Gustav Herzog">
           <speaker>Gustav Herzog (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Einen schönen guten Morgen! Ich wünsche insbesondere denjenigen Kolleginnen und Kollegen einen schönen guten Morgen, die gestern Abend noch bis 22 Uhr über die Ausweitung der Mauterhebung diskutiert haben.</p>
           <stage type="interjection">(Patrick Döring [FDP]: Sie sind immer noch hier!)</stage>
@@ -471,12 +495,14 @@
           <p>Vielen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält nun der Kollege Peter Weiß für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Peter Weiß" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Weiß">
+      </div>
+      <div type="agenda_item" n="14" what="debate" desc="Debatte">
+        <sp who="Peter Weiß (Emmendingen)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Weiß (Emmendingen)" party="CDU" name="Peter Weiß">
           <speaker>Peter Weiß (Emmendingen) (CDU/CSU):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Der Aus- und Neubau der Rheintalbahn von heute zwei auf künftig vier Gleise ist - das wurde schon mehrmals betont - in der Tat eines der bedeutendsten Schienenverkehrsvorhaben in Deutschland und eines, bei dem - so besagen es ja die Prognosen - die meisten Verkehre zu erwarten sind. Die Prognosen gehen davon aus, dass dort eines Tages über 700 Züge pro Tag verkehren, die Mehrheit davon Güterzüge. Deshalb freue ich mich als Abgeordneter, der ich diese wunderschöne Region im Bundestag vertreten darf, dass mit der heutigen Debatte das gesamte Parlament die Bedeutung dieser Strecke würdigt und Aufträge erteilt, daraus für die künftigen Planungen und die Verwirklichung dieses Projekts die entsprechenden Konsequenzen zu ziehen.</p>
           <p>Da ich mich mit dem Thema schon lange befasse, möchte ich vor allen Dingen die Rednerinnen und Redner von Grün und Rot erinnern: In früheren Jahren ist uns bei allen Besprechungen, die wir im Bundesverkehrsministerium oder mit der Bahn geführt haben, immer gesagt worden, dass erstens die Änderungswünsche der Region in den laufenden Planfeststellungsverfahren abgearbeitet werden sollen, neue Planaufträge nicht infrage kommen. Zweitens komme es nicht infrage, den Schienenbonus abzuschaffen oder nicht zu berücksichtigen. Das war der Stand der vergangenen Jahre.</p>
@@ -504,12 +530,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Armin Schuster ist der nächste Redner für die CDU/ CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Armin Schuster" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Armin Schuster">
+      </div>
+      <div type="agenda_item" n="15" what="debate" desc="Debatte">
+        <sp who="Armin Schuster (Weil am Rhein)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Armin Schuster (Weil am Rhein)" party="CDU" name="Armin Schuster">
           <speaker>Armin Schuster (Weil am Rhein) (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine lieben Kolleginnen und Kollegen! Sehr verehrte Damen und Herren! Als neugewählter Abgeordneter hatte ich Ende 2009 einige Sorgen - das gebe ich zu -, wie ich die berechtigten Erwartungen der Bürger am Oberrhein, in meinem Wahlkreis, erfüllen soll. Die Sorgen rührten daher, dass meine Vorgängerin - SPD und ihres Zeichens jahrelang Regierungsmitglied - mit ihren Parteikollegen und dem Verkehrsminister jahrelang nichts in Sachen Baden 21 bewegen konnte. Als neuer Abgeordneter hat man da natürlich die Sorge, dass man das auch nicht hinbekommt.</p>
           <p>Aber - Herr Döring hat das sehr schön erläutert - wir haben es geschafft.</p>
@@ -564,12 +592,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Thomas Strobl ist der letzte Redner zu diesem Tagesordnungspunkt.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Thomas Strobl" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Thomas Strobl">
+      </div>
+      <div type="agenda_item" n="16" what="debate" desc="Debatte">
+        <sp who="Thomas Strobl (Heilbronn)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Thomas Strobl (Heilbronn)" party="CDU" name="Thomas Strobl">
           <speaker>Thomas Strobl (Heilbronn) (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine sehr verehrten Damen und Herren! Es gibt bei diesem Thema erfreuliche Gemeinsamkeiten; es gibt aber auch ein paar Unterschiede. Übereinstimmung besteht darin, dass die Güter von der Straße auf die Schiene gebracht werden müssen. Das ist ein zentrales Gebot der Stunde, sowohl wirtschaftlich als auch ökologisch.</p>
           <stage type="interjection">(Ute Kumpf [SPD]: Das ist auch 1996 vertraglich festgelegt worden!)</stage>
@@ -596,22 +626,24 @@
           <p>gegen die Interessen der Menschen in Südbaden, gegen den Lärmschutz, und Sie beteiligen sich nicht konstruktiv an dieser Debatte.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege Strobl, der Kollege Bonde möchte dazu gerne eine Bemerkung machen.</p>
         </sp>
-        <sp who="Thomas Strobl" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Thomas Strobl">
+      </div>
+      <div type="agenda_item" n="17" what="debate" desc="Debatte">
+        <sp who="Thomas Strobl (Heilbronn)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Thomas Strobl (Heilbronn)" party="CDU" name="Thomas Strobl">
           <speaker>Thomas Strobl (Heilbronn) (CDU/CSU):</speaker>
           <p>Aber gerne. - Bitte.</p>
           <stage type="interjection">(Arnold Vaatz [CDU/CSU]: Jetzt sind wir ganz gespannt!)</stage>
         </sp>
-        <sp who="Alexander Bonde" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Alexander Bonde">
+        <sp who="Alexander Bonde" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Alexander Bonde" party="GRUENE" name="Alexander Bonde">
           <speaker>Alexander Bonde (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Werter Kollege Strobl, nun stehen wir beide im Wahlkampf in Baden-Württemberg, Sie als Generalsekretär Ihrer Partei, ich als Landesvorstandsmitglied der meinigen. Ich kann daher verstehen, dass man manchmal Termine durcheinanderbringt.</p>
           <p>Ich würde Sie gerne bitten, mir zu bestätigen, dass es in dem von Ihnen genannten Antrag aus dem Landtag von Baden-Württemberg einen Forderungsteil gab, der aus einer ganzen Reihe von Punkten bestand, dass einer davon ein Bekenntnis zum Bahnprojekt Stuttgart 21 war und dass es Versuche gab, eine getrennte Abstimmung über diese Sachverhalte herbeizuführen, was von den antragstellenden Fraktionen im Landtag nicht gewünscht war. Herr Strobl, sind wir uns einig, dass wir uns beim Projekt Stuttgart 21 nicht einig sind, und wären Sie nicht genauso verwundert gewesen wie ich, wenn meine Landtagsfraktion einem Antrag pro Stuttgart 21 zugestimmt hätte?</p>
           <stage type="interjection">(Gustav Herzog [SPD]: Eine gute Frage!)</stage>
         </sp>
-        <sp who="Thomas Strobl" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Thomas Strobl">
+        <sp who="Thomas Strobl (Heilbronn)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Thomas Strobl (Heilbronn)" party="CDU" name="Thomas Strobl">
           <speaker>Thomas Strobl (Heilbronn) (CDU/CSU):</speaker>
           <p>Verehrter Herr Kollege Bonde, noch einmal: Dieser Änderungsantrag trägt die Überschrift "Klares Bekenntnis zu Baden 21".</p>
           <stage type="interjection">(Gustav Herzog [SPD]: Nicht nur die Überschrift! - Dr. Anton Hofreiter [BÜNDNIS 90/ DIE GRÜNEN]: Haben Sie schon verstanden, dass in diesem Haus auch der Inhalt des Antrags gilt? Wollen Sie behaupten, im Landtag von Baden-Württemberg gilt nur die Überschrift?)</stage>
@@ -649,12 +681,14 @@
           <p>Ich danke für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Zu einer Kurzintervention erhält der Kollege Hermann das Wort.</p>
           <stage type="interjection">(Patrick Döring [FDP]: Er hat doch schon geredet!)</stage>
         </sp>
-        <sp who="Winfried Hermann" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Winfried Hermann">
+      </div>
+      <div type="agenda_item" n="18" what="debate" desc="Debatte">
+        <sp who="Winfried Hermann" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Winfried Hermann" party="GRUENE" name="Winfried Hermann">
           <speaker>Winfried Hermann (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Vielen Dank, Herr Präsident. - Ich persönlich und die Grünen sind bei mehreren Punkten angesprochen worden. Ich würde gern etwas dazu sagen.</p>
           <p>Sowohl der Kollege Schuster als auch der Kollege Strobl haben, glaube ich, deutlich gemacht, dass sie eine große Sorge haben: die Landtagswahl in Baden-Württemberg in zehn Tagen.</p>
@@ -674,21 +708,25 @@
           <stage type="interjection">(Zuruf von der CDU/CSU: Ja! Wie Ihre Pressemitteilung!)</stage>
           <p>Weil Sie all Ihre Reden damit bestritten haben, uns zu unterstellen, - NA</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege!</p>
         </sp>
-        <sp who="Winfried Hermann" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Winfried Hermann">
+      </div>
+      <div type="agenda_item" n="19" what="debate" desc="Debatte">
+        <sp who="Winfried Hermann" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Winfried Hermann" party="GRUENE" name="Winfried Hermann">
           <speaker>Winfried Hermann (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>- wir hätten uns nicht für ein gemeinsames Vorgehen starkgemacht, war es aber notwendig. Ihr Verhalten finde ich peinlich.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der LINKEN - Arnold Vaatz [CDU/CSU]: Dummes Zeug!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Zur Erwiderung Herr Kollege Strobl.</p>
         </sp>
-        <sp who="Thomas Strobl" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Thomas Strobl">
+      </div>
+      <div type="agenda_item" n="20" what="debate" desc="Debatte">
+        <sp who="Thomas Strobl (Heilbronn)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Thomas Strobl (Heilbronn)" party="CDU" name="Thomas Strobl">
           <speaker>Thomas Strobl (Heilbronn) (CDU/CSU):</speaker>
           <p>Herr Kollege Hermann, auf diese Art und Weise kommen Sie aus dieser Nummer nicht heraus.</p>
           <stage type="interjection">(Lachen bei Abgeordneten des BÜNDNIS-SES 90/DIE GRÜNEN)</stage>
@@ -720,7 +758,7 @@
           <p>und in Wahrheit auch über die Ökologie.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Dr. Anton Hofreiter [BÜNDNIS 90/DIE GRÜNEN]: Unglaublich! Ihr braucht euch wirklich nicht darüber zu wundern, dass ihr überall abgewählt werdet! - Kerstin Andreae [BÜNDNIS 90/DIE GRÜNEN]: Eine Unverschämtheit! Das wird euch noch leid tun! - Alexander Bonde [BÜNDNIS 90/DIE GRÜNEN]: Schäbigkeit hat einen Namen!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über die Beschlussempfehlungen des Ausschusses für Verkehr, Bau und Stadtentwicklung. Der Ausschuss empfiehlt unter Buchstabe a seiner Beschlussempfehlung die Annahme des Antrags der Fraktionen der CDU/CSU und der FDP auf Drucksache 17/4861 mit dem Titel "Anwohnerfreundlicher Ausbau der Rheintalbahn". Wer stimmt für diese Beschlussempfehlung? - Wer stimmt dagegen? - Wer enthält sich? - Damit ist diese Beschlussempfehlung mit den Stimmen der Koalition bei Enthaltung der Oppositionsfraktionen angenommen.</p>
@@ -735,8 +773,8 @@
           <stage type="interjection">(Unterbrechung von 10.57 bis 12.15 Uhr)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="2" what="government_declaration|debate" desc="Liebe Kolleginnen und Kollegen, ich mache Sie darauf aufmerksam, dass ich die Mi...">
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+      <div type="agenda_item" n="21" what="debate" desc="Debatte">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Liebe Kolleginnen und Kollegen! Die unterbrochene Sitzung ist wieder eröffnet.</p>
           <p>Die Fraktionen haben sich auf eine Änderung der heutigen Tagesordnung verständigt. Es ist vorgesehen, die Sitzung mit einer Regierungserklärung des Bundesministers des Auswärtigen zur aktuellen Entwicklung in Libyen und einer anschließenden Aussprache von einer Dreiviertelstunde fortzusetzen. Anschließend werden wir in der Tagesordnung mit der Beratung des Tagesordnungspunkts 29 fortfahren. Der Tagesord-nungspunkt 28 - Entgeltgleichheit zwischen Männern und Frauen - soll abgesetzt werden. Sind Sie damit einverstanden? - Das ist der Fall. Dann verfahren wir so.</p>
@@ -746,14 +784,14 @@
           <p>- Von der Fraktionsebene herunter auf die Plenarsaalebene. Da sind sie auf dem Weg nach unten, wie Sie alle auch waren. - Die Fraktionssitzung ist zu Ende, wird mir gerade gesagt, und die Kolleginnen und Kollegen kommen. Ich denke, wir können noch 30 Sekunden warten.</p>
           <p>Ich rufe den Zusatzpunkt 6 auf:</p>
           <p>Abgabe einer Regierungserklärung durch den Bundesminister des Auswärtigen</p>
-          <p>zu den aktuellen Entwicklungen in Libyen </p>
-          <stage type="interjection">(UN-Resolution)</stage>
+          <p>zu den aktuellen Entwicklungen in Libyen</p>
+          <p>(UN-Resolution)</p>
           <p>Ich erteile das Wort zur Abgabe einer Regierungserklärung Herrn Minister Guido Westerwelle. Bitte schön.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="3" what="government_declaration" desc="Abgabe einer Regierungserklärung durch den Bundesminister des Auswärtigen">
-        <sp who="Dr. Guido Westerwelle" parliamentary_group="NA" role="government" position="Bundesminister des Auswärtigen" party="FDP" name="Guido Westerwelle">
+      <div type="agenda_item" n="22" what="debate" desc="Debatte">
+        <sp who="Guido Westerwelle" parliamentary_group="NA" role="government" position="Bundesminister des Auswärtigen" who_original="Guido Westerwelle" party="FDP" name="Guido Westerwelle">
           <speaker>Dr. Guido Westerwelle, Bundesminister des Auswärtigen:</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Kolleginnen und Kollegen! Der Sicherheitsrat der Vereinten Nationen hat heute Nacht nach einer intensiven Beratung eine weitere Resolution zur Situation in Libyen verabschiedet. Deutschland hat sich bei der Abstimmung über diese Resolution enthalten, genauso wie Brasilien, Indien, China und Russland. Zehn Staaten haben für die Resolution gestimmt, darunter die Vereinigten Staaten von Amerika und die drei Mitglieder der Europäischen Union, die dem Sicherheitsrat derzeit angehören.</p>
           <p>Ich will Ihnen vorab sagen: Diese Entscheidung ist uns nicht leichtgefallen. Ihr ist ein schwieriger Abwägungsprozess vorausgegangen. Wir haben am Mittwoch hier eine ausführliche, sehr konstruktive Debatte geführt, und wir haben trotz mancher Unterschiedlichkeit und mancher Kontroverse in der Innenpolitik über die Partei- und Fraktionsgrenzen hinweg alle eine gemeinsame Haltung: Wir verurteilen die Verbrechen des Diktators Gaddafi. Mit diesem Mann kann nicht mehr zusammengearbeitet werden. Er muss gehen. Er spricht nicht mehr für das libysche Volk.</p>
@@ -790,12 +828,14 @@
           <p>Wir haben es uns nicht leichtgemacht. Ich weiß, dass es niemandem von Ihnen leichtfällt, sich hierüber eine Meinung zu bilden. Aber für uns ist klar: In der Abwägung der Argumente sind wir zu dem Ergebnis gekommen, dass wir uns mit deutschen Soldaten an einem solchen Kampfeinsatz in Libyen nicht beteiligen werden. Deswegen hat sich die Bundesregierung, hat sich Deutschland im Sicherheitsrat der Vereinten Nationen enthalten. Ich bitte um Ihre Unterstützung für diese Position und danke für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Ich eröffne die Aussprache und erteile Kollegen Rolf Mützenich für die SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Rolf Mützenich" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rolf Mützenich">
+      </div>
+      <div type="agenda_item" n="23" what="debate" desc="Debatte">
+        <sp who="Rolf Mützenich" parliamentary_group="SPD" role="mp" position="NA" who_original="Rolf Mützenich" party="SPD" name="Rolf Mützenich">
           <speaker>Dr. Rolf Mützenich (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Ohne Zweifel, Herr Bundesaußenminister: Das ist eine, fast würde ich sagen, beispiellose Debatte, die wir hier haben, weil wir so schnell zu einer Regierungserklärung nach der Entscheidung im Sicherheitsrat gekommen sind. Ich glaube, es ist auch nicht falsch, wenn man sagt, dass es offensichtlich quer durch die Fraktionen unterschiedliche Auffassungen in dieser Frage gibt und auch geben wird. An der Aufmerksamkeit, mit der alle Kolleginnen und Kollegen Ihrer Rede zugehört haben, hat man schon gesehen, dass es - vielleicht bis auf den einen oder anderen Teil - für die große Mehrheit des Deutschen Bundestages keine einfache Frage ist. Dieses Dilemma bleibt heute und wird wahrscheinlich auch in den nächsten Tagen bleiben.</p>
           <p>Niemand wird wahrscheinlich zu einfachen Lösungen kommen. Aber ich glaube, an die Bundesregierung und auch ganz besonders an Sie, Herr Bundesaußenminister, darf man die Frage richten, ob die Motive, die Sie hier in der Regierungserklärung und auch in der Regierungserklärung am Mittwoch genannt haben, so uneigennützig sind und nur von einer internationalen Frage geleitet sind</p>
@@ -823,21 +863,23 @@
           <p>Die Frage ist in der UN-Charta ganz klar geregelt: In der UN-Charta steht, dass man einem Beschluss des Sicherheitsrates zustimmen und dann auf nationaler Ebene schauen kann, wie man mit diesem Beschluss umgeht. Zehn Länder, die Sie eben ganz bewusst nicht genannt haben - darunter sind zum Beispiel drei afrikanische Länder und ein arabisches Land -, haben zugestimmt. Sie wissen, dass sie nicht mitmachen werden. Aber Sie unterstellen, dass ein Ja automatisch bedeutet hätte, dass die Bundesregierung bei der Frage einer Beteiligung anders hätte handeln müssen. Nein, das stimmt nicht.</p>
           <p>Wenn Sie in der Politik souverän sein wollen, müssen Sie sich eher fragen: An welcher Stelle wollen Sie im Sicherheitsrat dabei sein? Wollen Sie bei den zehn Ländern dabei sein, die zugestimmt haben, darunter drei europäische Staaten, drei afrikanische Staaten und ein arabischer Staat? Ich finde, Sie hätten auf dieses Dilemma hinweisen sollen.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, gestatten Sie eine Zwischenfrage des Kollegen Spatz?</p>
         </sp>
-        <sp who="Dr. Rolf Mützenich" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rolf Mützenich">
+      </div>
+      <div type="agenda_item" n="24" what="debate" desc="Debatte">
+        <sp who="Rolf Mützenich" parliamentary_group="SPD" role="mp" position="NA" who_original="Rolf Mützenich" party="SPD" name="Rolf Mützenich">
           <speaker>Dr. Rolf Mützenich (SPD):</speaker>
           <p>Ja, bitte schön.</p>
           <stage type="interjection">(Rita Pawelski [CDU/CSU]: Hätten Sie mit Ja gestimmt?)</stage>
         </sp>
-        <sp who="Joachim Spatz" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Joachim Spatz">
+        <sp who="Joachim Spatz" parliamentary_group="FDP" role="mp" position="NA" who_original="Joachim Spatz" party="FDP" name="Joachim Spatz">
           <speaker>Joachim Spatz (FDP):</speaker>
           <p>Herr Kollege Mützenich, darf ich in aller Bescheidenheit fragen, ob Sie bereit sind, uns endlich auch einmal die Position der SPD darzulegen?</p>
           <stage type="interjection">(Beifall bei der FDP, der CDU/CSU und der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Rolf Mützenich" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rolf Mützenich">
+        <sp who="Rolf Mützenich" parliamentary_group="SPD" role="mp" position="NA" who_original="Rolf Mützenich" party="SPD" name="Rolf Mützenich">
           <speaker>Dr. Rolf Mützenich (SPD):</speaker>
           <p>Wissen Sie, genau das ist doch der Punkt.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU und der LINKEN - Zurufe von der FDP: Genau!)</stage>
@@ -857,13 +899,15 @@
           <p>Ich glaube, dass die Menschen vom Tahrir-Platz jetzt, nach der Entscheidung der Bundesregierung, einen ganz anderen Blick auf Deutschland haben; denn Sie haben die europäische Position verlassen und trauen sich nicht, gegen jemanden vorzugehen, der ein Mörder ist, der die Menschen bombardiert, der die Menschen einfach erschießt, weil sie auf der Seite anderer sind.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN - Christian Lindner [FDP]: Was will die SPD?)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, gestatten Sie eine weitere Zwischenfrage?</p>
         </sp>
-        <sp who="Dr. Rolf Mützenich" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rolf Mützenich">
+      </div>
+      <div type="agenda_item" n="25" what="debate" desc="Debatte">
+        <sp who="Rolf Mützenich" parliamentary_group="SPD" role="mp" position="NA" who_original="Rolf Mützenich" party="SPD" name="Rolf Mützenich">
           <speaker>Dr. Rolf Mützenich (SPD):</speaker>
-          <p>Ja, gleich, wenn ich den Gedanken noch zu Ende führen darf. - Sie müssen sich doch fragen: Welche Entscheidung im Sicherheitsrat der Vereinten Nationen hätte möglicherweise eine Verhaltensänderung Gaddafis bewirkt, und zwar nicht die Verhaltensänderung von gestern? </p>
+          <p>Ja, gleich, wenn ich den Gedanken noch zu Ende führen darf. - Sie müssen sich doch fragen: Welche Entscheidung im Sicherheitsrat der Vereinten Nationen hätte möglicherweise eine Verhaltensänderung Gaddafis bewirkt, und zwar nicht die Verhaltensänderung von gestern?</p>
           <p>Es ist doch ganz klar: Der Beschluss im Sicherheitsrat der Vereinten Nationen hat deutlich gemacht, dass Gaddafi erst danach zu Gesprächen über eine Waffenruhe bereit gewesen ist. Auch das müssen Sie sich doch fragen, wenn Sie hier sagen: Wir stehen in einem Dilemma. Natürlich, das spreche ich Ihnen doch gar nicht ab. Aber der entscheidende Punkt ist: Welche Schlussfolgerungen ziehen Sie daraus? Die Verhaltensänderung Gaddafis hat sich erst aus der gestrigen Beschlussfassung des Sicherheitsrats der Vereinten Nationen ergeben.</p>
           <p>Jetzt sagen Sie: Wir wollen nicht mit deutschen Bodentruppen dorthin.</p>
           <stage type="interjection">(Johannes Singhammer [CDU/CSU]: Was wollen Sie denn?)</stage>
@@ -875,23 +919,27 @@
           <stage type="interjection">(Zuruf von der CDU/CSU: Das ist ein ganz anderer Gedanke!)</stage>
           <p>mit Anteilen der Bundeswehr an den Einsätzen der AWACS erfolge zurzeit auf der Grundlage des Mandats von Active Endeavour. Sie haben sich nicht hier hingestellt und gesagt, Sie ziehen diese Bundeswehrsoldaten aus der AWACS-Überwachung zurück. Das hätte ich von einer Regierungserklärung hier erwartet. Sie tun so, als seien alle Fragen beantwortet gewesen. Das ist eben nicht der Fall.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, gestatten Sie jetzt die Zwischenfrage?</p>
         </sp>
-        <sp who="Dr. Rolf Mützenich" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rolf Mützenich">
+      </div>
+      <div type="agenda_item" n="26" what="debate" desc="Debatte">
+        <sp who="Rolf Mützenich" parliamentary_group="SPD" role="mp" position="NA" who_original="Rolf Mützenich" party="SPD" name="Rolf Mützenich">
           <speaker>Dr. Rolf Mützenich (SPD):</speaker>
           <p>Deswegen glaube ich: Ihr Dilemma, das Sie selbst zu verantworten haben, ist, dass Sie sich wegen der innenpolitischen Brille ohne Not in diese Situation gebracht haben. - Bitte.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Bitte schön, Herr Kollege.</p>
         </sp>
-        <sp who="Marco Buschmann" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Marco Buschmann">
+      </div>
+      <div type="agenda_item" n="27" what="debate" desc="Debatte">
+        <sp who="Marco Buschmann" parliamentary_group="FDP" role="mp" position="NA" who_original="Marco Buschmann" party="FDP" name="Marco Buschmann">
           <speaker>Marco Buschmann (FDP):</speaker>
           <p>Herr Kollege Dr. Mützenich, wären Sie so freundlich, wenn Sie schon dem Kollegen Spatz die Frage nicht beantwortet haben, die er gestellt hat, mir erstens die Frage zu beantworten, wie die Haltung der SPD-Fraktion in der Sache ist, und mir zweitens zu sagen, ob Sie der Ansicht sind, dass Sie sich in der Haltung, zu was auch immer Sie hier vorgetragen haben, einig fühlen mit dem von uns sehr geschätzten Kollegen Steinmeier?</p>
         </sp>
-        <sp who="Dr. Rolf Mützenich" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rolf Mützenich">
+        <sp who="Rolf Mützenich" parliamentary_group="SPD" role="mp" position="NA" who_original="Rolf Mützenich" party="SPD" name="Rolf Mützenich">
           <speaker>Dr. Rolf Mützenich (SPD):</speaker>
           <p>Ich habe Ihnen eben Folgendes gesagt: Wenn Sie für Ihre Fraktion sagen können, das sei für Sie alles klar, wenn Sie das so für sich behaupten können, ist das klar. Ich kann für meine Fraktion nicht behaupten, dass das klar ist. Das habe ich eben gesagt. Ich habe vorhin an dieser Stelle, glaube ich, eine sehr ehrliche Erklärung abgegeben.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
@@ -908,14 +956,16 @@
           <p>Ich glaube, das wäre die richtige Konsequenz gewesen. Den Mut, den Sie gestern nicht aufgebracht haben, hätte ich mir von Ihnen gewünscht.</p>
           <stage type="interjection">(Beifall bei der SPD - Zurufe von der FDP sowie der Abg. Dr. Dagmar Enkelmann [DIE LINKE])</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, es gibt noch eine Zwischenfrage.</p>
           <stage type="interjection">(Abg. Dr. Rolf Mützenich [SPD] begibt sich zu seinem Platz)</stage>
           <p>Das Wort hat nun Kollege Ruprecht Polenz für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Ruprecht Polenz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ruprecht Polenz">
+      </div>
+      <div type="agenda_item" n="28" what="debate" desc="Debatte">
+        <sp who="Ruprecht Polenz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ruprecht Polenz" party="CDU" name="Ruprecht Polenz">
           <speaker>Ruprecht Polenz (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine lieben Kolleginnen und Kollegen! Lieber Herr Kollege Mützenich, nach Ihrem Beitrag fällt es nicht ganz leicht, sachlich zu dem Thema zu sprechen, für das wir heute Vormittag hier zusammengekommen sind.</p>
           <stage type="interjection">(Dr. Rolf Mützenich [SPD]: Das ist auch nicht einfach!)</stage>
@@ -932,16 +982,18 @@
           <stage type="interjection">(Abg. Thomas Oppermann [SPD] meldet sich zu einer Zwischenfrage)</stage>
           <p>- Bitte schön.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Bitte schön, Kollege Oppermann.</p>
         </sp>
-        <sp who="Thomas Oppermann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Thomas Oppermann">
+      </div>
+      <div type="agenda_item" n="29" what="debate" desc="Debatte">
+        <sp who="Thomas Oppermann" parliamentary_group="SPD" role="mp" position="NA" who_original="Thomas Oppermann" party="SPD" name="Thomas Oppermann">
           <speaker>Thomas Oppermann (SPD):</speaker>
           <p>Vielen Dank. Das kam postwendend. - Herr Polenz, Sie wollen sich jetzt der Frage zuwenden, wie sich Deutschland verhält. Vorher will ich Sie aber fragen - diese Fragen haben Sie noch nicht beantwortet -, ob der UN-Sicherheitsratsbeschluss aus Sicht der CDU/ CSU-Fraktion richtig oder falsch war.</p>
           <stage type="interjection">(Christian Lindner [FDP]: Das hat er gerade erläutert!)</stage>
         </sp>
-        <sp who="Ruprecht Polenz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ruprecht Polenz">
+        <sp who="Ruprecht Polenz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ruprecht Polenz" party="CDU" name="Ruprecht Polenz">
           <speaker>Ruprecht Polenz (CDU/CSU):</speaker>
           <p>Es war richtig, dass Deutschland sich enthalten hat. Auch der Beschluss als solcher war richtig. Sonst hätten wir ja dagegengestimmt.</p>
           <stage type="interjection">(Lachen bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN - Edelgard Bulmahn [SPD]: Das ist im Widerspruch zu dem, was Sie gerade gesagt haben!)</stage>
@@ -959,19 +1011,21 @@
           <p>Nun zu der Frage: Wie soll sich Deutschland weiter verhalten? Ich glaube, wenn wir das heute im Plenum des Bundestages diskutieren, kommt es darauf an, dass wir uns Optionen für die weiteren Beratungen in der NATO und in der Europäischen Union offenhalten und dann von der Regierung weitere Erklärungen und Festlegungen erwarten. Das können wir aus der heutigen Sicht nicht beurteilen. Ich würde nicht sagen: Jawohl, in jedem Fall wäre es richtiger, wenn sich Deutschland militärisch beteiligen würde. So weit würde ich heute nach den Informationen, die ich als Parlamentarier habe, nicht gehen. Insofern ist es klug, dass die Regierung die verschiedenen Möglichkeiten weiter überdenkt.</p>
           <p>Auf der anderen Seite, Herr Außenminister: Wir haben im Sicherheitsrat und auch in der Europäischen Union der Aussage zugestimmt: Gaddafi muss weg, seine Zeit ist abgelaufen. Wir haben im Sicherheitsrat einer Resolution zugestimmt, dass Gaddafi vor den Internationalen Strafgerichtshof soll. Wir haben uns bereit erklärt, Sanktionen mitzutragen. Da klafft eine operative Lücke. Denn Sanktionen wirken mittel- bis längerfristig; sie wirken in der Regel nicht sofort. Mir sind jedenfalls keine Sanktionen bekannt, die sofort eine derart weitgehende Verhaltensänderung bewirkt hätten, sodass Gaddafi festgesetzt wird.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, gestatten Sie eine Zwischenfrage des Kollegen Rainer Arnold?</p>
         </sp>
-        <sp who="Ruprecht Polenz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ruprecht Polenz">
+      </div>
+      <div type="agenda_item" n="30" what="debate" desc="Debatte">
+        <sp who="Ruprecht Polenz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ruprecht Polenz" party="CDU" name="Ruprecht Polenz">
           <speaker>Ruprecht Polenz (CDU/CSU):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Rainer Arnold" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rainer Arnold">
+        <sp who="Rainer Arnold" parliamentary_group="SPD" role="mp" position="NA" who_original="Rainer Arnold" party="SPD" name="Rainer Arnold">
           <speaker>Rainer Arnold (SPD):</speaker>
           <p>Sie sprachen davon, wie wir uns als Parlamentarier verhalten. Deshalb meine Frage: Trifft die Meldung zu, dass die Bundesregierung in Ihrer Fraktionssitzung erklärt hat, sie erwäge einen Einsatz von AWACS in Afghanistan, um so die NATO für einen Einsatz in Libyen zu entlasten? Wie bewerten Sie die Auswirkungen auf die Bündnisse, wenn die Deutschen ihr Personal von den jetzt schon vor Libyen fliegenden AWACS unverzüglich abziehen?</p>
         </sp>
-        <sp who="Ruprecht Polenz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ruprecht Polenz">
+        <sp who="Ruprecht Polenz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ruprecht Polenz" party="CDU" name="Ruprecht Polenz">
           <speaker>Ruprecht Polenz (CDU/CSU):</speaker>
           <p>Das wird eine der Fragen sein, die jetzt in der NATO besprochen werden müssen.</p>
           <stage type="interjection">(Dr. Rolf Mützenich [SPD]: Warum hat das der Außenminister hier nicht gesagt?)</stage>
@@ -980,23 +1034,25 @@
           <p>Das würde der Bundestag auf Antrag der Bundesregierung zu beschließen haben, wenn die Bundesregierung einen entsprechenden Antrag vorlegen will. Gleichzeitig hatten wir - wir erinnern uns beide - eine Diskussion über AWACS in Afghanistan geführt; Sie kennen die Vorgeschichte. Die AWACS-Flugzeuge werden weiter dort gebraucht. Die NATO muss entscheiden, wo der deutsche Einsatz gebraucht wird. Ich finde es richtig, dass der Verteidigungsminister das in der NATO klären wird. Darüber ist in der Fraktion gesprochen worden. Im Übrigen wollte ich Ihnen eigentlich keine weitergehenden Auskünfte über unsere Fraktionssitzung geben.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Gestatten Sie eine weitere Zwischenfrage des Kollegen Mützenich?</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Nein! Ausgerechnet der, der selber keine Antworten geben kann!)</stage>
         </sp>
-        <sp who="Ruprecht Polenz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ruprecht Polenz">
+      </div>
+      <div type="agenda_item" n="31" what="debate" desc="Debatte">
+        <sp who="Ruprecht Polenz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ruprecht Polenz" party="CDU" name="Ruprecht Polenz">
           <speaker>Ruprecht Polenz (CDU/CSU):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Dr. Rolf Mützenich" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rolf Mützenich">
+        <sp who="Rolf Mützenich" parliamentary_group="SPD" role="mp" position="NA" who_original="Rolf Mützenich" party="SPD" name="Rolf Mützenich">
           <speaker>Dr. Rolf Mützenich (SPD):</speaker>
           <p>Herr Kollege Polenz, wie verstehen Sie eine Regierungserklärung des Außenministers, mit der das Parlament und die Öffentlichkeit über eine solch wichtige Frage informiert werden sollen, nachdem offensichtlich nur Ihnen in der Fraktionssitzung die Information gegeben worden ist, wie mit dem Einsatz von AWACS-Flugzeugen umgegangen werden soll</p>
           <stage type="interjection">(Otto Fricke [FDP]: Hat er doch gesagt! Was soll das denn?)</stage>
           <p>und ob es möglicherweise ein weiteres Mandat des Deutschen Bundestags geben wird?</p>
           <stage type="interjection">(Christoph Schnurr [FDP]: Das ist unnötig!)</stage>
         </sp>
-        <sp who="Ruprecht Polenz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ruprecht Polenz">
+        <sp who="Ruprecht Polenz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ruprecht Polenz" party="CDU" name="Ruprecht Polenz">
           <speaker>Ruprecht Polenz (CDU/CSU):</speaker>
           <p>Wir haben nicht konkret über Mandatierungen gesprochen, und außerdem geht es um die weitere Diskussion im Bündnis. Ich habe versucht, klarzumachen, dass die NATO gerade im Planungsprozess ist. Deutschland hat zugestimmt, dass die NATO Planungen für humanitäre Hilfe einschließlich dafür notwendiger militärischer Maßnahmen unternimmt. Die Bundesregierung hat eine Planung Richtung Flugverbotszone passieren lassen. Das ist der Stand in der NATO.</p>
           <p>Die NATO-Beratungen gehen jetzt weiter. Sie fragen mich eigentlich, was bei den NATO-Beratungen herauskommt. - Es ist im Moment noch gar nicht klar, ob die NATO sich überhaupt an einer Operation auf der Grundlage der Sicherheitsratsresolution beteiligt. Jedenfalls ist mir nicht bekannt, dass diese Entscheidung schon gefallen wäre. Es kann sehr gut sein, dass es beispielweise nur eine sogenannte Coalition of the Willing gibt. Insbesondere Frankreich, aber auch Großbritannien und die USA haben gesagt, dass sie gegebenenfalls dabei wären. Es ist noch gar nicht ausgemacht, dass es eine NATO-Mission wird.</p>
@@ -1013,23 +1069,27 @@
           <p>Ich hoffe, dass es auf der Basis des gestern Beschlossenen gelingt, die Hoffnungen, die die Menschen in Bengasi jetzt in die internationale Staatengemeinschaft und das Verhalten von Gaddafi setzen, nicht zu enttäuschen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort zu einer Kurzintervention erteile ich Kollegin Heidemarie Wieczorek-Zeul.</p>
         </sp>
-        <sp who="Heidemarie Wieczorek-Zeul" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Heidemarie Wieczorek-Zeul">
+      </div>
+      <div type="agenda_item" n="32" what="debate" desc="Debatte">
+        <sp who="Heidemarie Wieczorek-Zeul" parliamentary_group="SPD" role="mp" position="NA" who_original="Heidemarie Wieczorek-Zeul" party="SPD" name="Heidemarie Wieczorek-Zeul">
           <speaker>Heidemarie Wieczorek-Zeul (SPD):</speaker>
           <p>Meine Kurzintervention wird sehr kurz sein. - Liebe Kolleginnen und Kollegen, es gibt das international, von der Generalversammlung der Vereinten Nationen akzeptierte Prinzip, das auf den Erfahrungen in Ruanda und dem dortigen Völkermord basiert: das Prinzip der Schutzverantwortung, Responsibility to Protect. Ich finde es eine Schande, dass sich die Bundesregierung als Mitglied des UN-Sicherheitsrates in dieser Situation enthalten hat. Gegenüber Despoten kann es bei solchen Entscheidungen keine Enthaltung geben.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN - Sevim Daðdelen [DIE LINKE]: Kriegstreiberei ist das!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Liebe Kolleginnen und Kollegen, wir sollten uns in diesem Hause nicht wechselseitig Kriegstreiberei vorwerfen. Das ist eine Stillosigkeit, die hier eine Grenzüberschreitung ist.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU, der SPD, der FDP und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Das Wort hat nun Kollege Jan van Aken für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Jan van Aken" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Jan van Aken">
+      </div>
+      <div type="agenda_item" n="33" what="debate" desc="Debatte">
+        <sp who="Jan van Aken" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Jan van Aken" party="DIE LINKE" name="Jan van Aken">
           <speaker>Jan van Aken (DIE LINKE):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! In diesen Tagen scheint die Welt manchmal aus den Fugen zu geraten. Bei all den Katastrophenmeldungen weiß ich manchmal gar nicht mehr, welche mich am meisten erschüttert. Gestern Nacht hat der UN-Sicherheitsrat einen Kriegseinsatz in Libyen beschlossen. Da geht es nicht nur um eine Flugverbotszone, sondern es wurde auch genehmigt, dass Gaddafis Truppen flächendeckend bombardiert werden. Herr Polenz, es wurde auch genehmigt, dass - zumindest zeitlich begrenzt - ausländische Bodentruppen auf libyschem Gebiet eingesetzt werden dürfen. Das Einzige, was ausgeschlossen wurde, sind Besatzungskräfte. Für einige Tage, für einige Wochen können aber auch große Kontingente ausländischer Truppen in Libyen Krieg führen. Wir finden diesen Kriegseinsatz falsch.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -1041,12 +1101,14 @@
           <p>Herr Mützenich, wenn ich Sie hier heute höre, muss ich sagen: Sie von der SPD sind im Moment die größten Kriegstreiber im Bundestag.</p>
           <stage type="interjection">(Beifall bei der LINKEN - Thomas Oppermann [SPD]: Sie haben doch nicht alle Tassen im Schrank!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, ich erteile Ihnen einen Ordnungsruf. Ich habe gerade dazu gemahnt, dass wir uns wechselseitig nicht solche Vorwürfe machen.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Jan van Aken" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Jan van Aken">
+      </div>
+      <div type="agenda_item" n="34" what="debate" desc="Debatte">
+        <sp who="Jan van Aken" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Jan van Aken" party="DIE LINKE" name="Jan van Aken">
           <speaker>Jan van Aken (DIE LINKE):</speaker>
           <p>Ich nehme diesen Ordnungsruf mit Stolz an.</p>
           <stage type="interjection">(Dr. Rolf Mützenich [SPD]: Pfui! - Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Der Kopf ist schon ganz rot!)</stage>
@@ -1079,12 +1141,14 @@
           <p>Ich bedanke mich bei Ihnen.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Rainer Stinner für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Rainer Stinner" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Rainer Stinner">
+      </div>
+      <div type="agenda_item" n="35" what="debate" desc="Debatte">
+        <sp who="Rainer Stinner" parliamentary_group="FDP" role="mp" position="NA" who_original="Rainer Stinner" party="FDP" name="Rainer Stinner">
           <speaker>Dr. Rainer Stinner (FDP):</speaker>
           <p>Vielen Dank für den Beifall. - Herr Präsident! Liebe Kolleginnen und Kollegen! Wenn ich mir den bisherigen Verlauf dieser Debatte vor Augen führe, dann stellt sich mir die Frage, ob dieses Parlament bzw. einige Redner angemessen auf die schwierige Situation reagieren.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
@@ -1106,20 +1170,22 @@
           <p>dann kann ich nur sagen: Ich finde es peinlich, dass gerade die Goslar-Partei in diesem Hause eine solche Argumentation verfolgt.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, gestatten Sie eine Zwischenfrage des Kollegen Hans-Peter Bartels?</p>
         </sp>
-        <sp who="Dr. Rainer Stinner" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Rainer Stinner">
+      </div>
+      <div type="agenda_item" n="36" what="debate" desc="Debatte">
+        <sp who="Rainer Stinner" parliamentary_group="FDP" role="mp" position="NA" who_original="Rainer Stinner" party="FDP" name="Rainer Stinner">
           <speaker>Dr. Rainer Stinner (FDP):</speaker>
           <p>Ja, Herr Bartels, immer gerne.</p>
         </sp>
-        <sp who="Dr. Hans-Peter Bartels" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hans-Peter Bartels">
+        <sp who="Hans-Peter Bartels" parliamentary_group="SPD" role="mp" position="NA" who_original="Hans-Peter Bartels" party="SPD" name="Hans-Peter Bartels">
           <speaker>Dr. Hans-Peter Bartels (SPD):</speaker>
           <p>Herr Kollege Stinner, da Sie über eine klare Position verfügen: Werden Sie es als richtig oder falsch beurteilen, wenn es nach dieser Resolution zu Luftschlägen anderer gegen Einrichtungen in Libyen kommt?</p>
           <stage type="interjection">(Zurufe von der FDP: Ah!)</stage>
         </sp>
-        <sp who="Dr. Rainer Stinner" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Rainer Stinner">
+        <sp who="Rainer Stinner" parliamentary_group="FDP" role="mp" position="NA" who_original="Rainer Stinner" party="FDP" name="Rainer Stinner">
           <speaker>Dr. Rainer Stinner (FDP):</speaker>
           <p>Vielen Dank, Herr Bartels. - Wir haben - der Außenminister hat es gesagt - den UN-Sicherheitsratsbeschluss nicht abgelehnt. Vielmehr haben wir konsequent und stringent gesagt - -</p>
           <stage type="interjection">(Zuruf von der SPD: Sehr klar, die Position! Dann können Sie die Luftschläge ja begrüßen!)</stage>
@@ -1128,50 +1194,54 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Gestatten Sie eine weitere Zwischenfrage des Kollegen Oppermann?</p>
         </sp>
-        <sp who="Dr. Rainer Stinner" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Rainer Stinner">
+      </div>
+      <div type="agenda_item" n="37" what="debate" desc="Debatte">
+        <sp who="Rainer Stinner" parliamentary_group="FDP" role="mp" position="NA" who_original="Rainer Stinner" party="FDP" name="Rainer Stinner">
           <speaker>Dr. Rainer Stinner (FDP):</speaker>
           <p>Bitte schön, Herr Oppermann.</p>
           <stage type="interjection">(Patrick Meinhardt [FDP]: Er erklärt jetzt die Position der SPD!)</stage>
         </sp>
-        <sp who="Thomas Oppermann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Thomas Oppermann">
+        <sp who="Thomas Oppermann" parliamentary_group="SPD" role="mp" position="NA" who_original="Thomas Oppermann" party="SPD" name="Thomas Oppermann">
           <speaker>Thomas Oppermann (SPD):</speaker>
           <p>Einen Punkt haben Sie eben offengelassen. Wir haben vorhin festgestellt, dass die Union sagt: Der Beschluss des UN-Sicherheitsrates war richtig. Es war richtig, dass andere ihn gefasst haben. Sie haben die Frage allerdings nicht beantwortet: Finden Sie es richtig oder falsch, wenn dieser Beschluss durch Intervention, durch Durchsetzung des Flugverbots mit militärischen Mitteln umgesetzt wird?</p>
         </sp>
-        <sp who="Dr. Rainer Stinner" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Rainer Stinner">
+        <sp who="Rainer Stinner" parliamentary_group="FDP" role="mp" position="NA" who_original="Rainer Stinner" party="FDP" name="Rainer Stinner">
           <speaker>Dr. Rainer Stinner (FDP):</speaker>
           <p>Ich sage es Ihnen gerne noch einmal, Herr Oppermann. Da dies ein völkerrechtlich verbindlicher Beschluss der Vereinten Nationen ist, sind natürlich auch die daraus folgenden Konsequenzen völkerrechtlich legitimiert, und wir werden sie mittragen.</p>
           <stage type="interjection">(Beifall bei der FDP - Thomas Oppermann [SPD]: Ich habe eine Zusatzfrage!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Gestatten Sie eine Nachfrage?</p>
         </sp>
-        <sp who="Dr. Rainer Stinner" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Rainer Stinner">
+      </div>
+      <div type="agenda_item" n="38" what="debate" desc="Debatte">
+        <sp who="Rainer Stinner" parliamentary_group="FDP" role="mp" position="NA" who_original="Rainer Stinner" party="FDP" name="Rainer Stinner">
           <speaker>Dr. Rainer Stinner (FDP):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Thomas Oppermann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Thomas Oppermann">
+        <sp who="Thomas Oppermann" parliamentary_group="SPD" role="mp" position="NA" who_original="Thomas Oppermann" party="SPD" name="Thomas Oppermann">
           <speaker>Thomas Oppermann (SPD):</speaker>
           <p>Sie haben meine Frage nicht beantwortet.</p>
           <stage type="interjection">(Lachen bei der FDP)</stage>
         </sp>
-        <sp who="Dr. Rainer Stinner" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Rainer Stinner">
+        <sp who="Rainer Stinner" parliamentary_group="FDP" role="mp" position="NA" who_original="Rainer Stinner" party="FDP" name="Rainer Stinner">
           <speaker>Dr. Rainer Stinner (FDP):</speaker>
           <p>Doch, das habe ich.</p>
         </sp>
-        <sp who="Thomas Oppermann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Thomas Oppermann">
+        <sp who="Thomas Oppermann" parliamentary_group="SPD" role="mp" position="NA" who_original="Thomas Oppermann" party="SPD" name="Thomas Oppermann">
           <speaker>Thomas Oppermann (SPD):</speaker>
           <p>Ich möchte deshalb eine Zusatzfrage stellen. - Sie haben eben erklärt: Wenn der Beschluss des UN-Sicherheitsrates umgesetzt wird, dann ist das völkerrechtlich korrekt.</p>
         </sp>
-        <sp who="Dr. Rainer Stinner" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Rainer Stinner">
+        <sp who="Rainer Stinner" parliamentary_group="FDP" role="mp" position="NA" who_original="Rainer Stinner" party="FDP" name="Rainer Stinner">
           <speaker>Dr. Rainer Stinner (FDP):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Thomas Oppermann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Thomas Oppermann">
+        <sp who="Thomas Oppermann" parliamentary_group="SPD" role="mp" position="NA" who_original="Thomas Oppermann" party="SPD" name="Thomas Oppermann">
           <speaker>Thomas Oppermann (SPD):</speaker>
           <p>Ich habe Sie gefragt, ob Sie als FDP es politisch richtig finden, wenn jetzt die internationale Gemeinschaft</p>
           <stage type="interjection">(Patrick Meinhardt [FDP]: Billiger Versuch!)</stage>
@@ -1179,7 +1249,7 @@
           <stage type="interjection">(Zurufe von der FDP: Da kommen Sie selber nicht mehr hinterher, was Sie denken! Sie selber haben Ihre eigene Frage nicht verstanden!)</stage>
           <p>Finden Sie das politisch richtig, oder finden Sie das politisch falsch?</p>
         </sp>
-        <sp who="Dr. Rainer Stinner" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Rainer Stinner">
+        <sp who="Rainer Stinner" parliamentary_group="FDP" role="mp" position="NA" who_original="Rainer Stinner" party="FDP" name="Rainer Stinner">
           <speaker>Dr. Rainer Stinner (FDP):</speaker>
           <p>Herr Kollege Oppermann, Ihrer Fraktion gebricht es offensichtlich nicht nur an der Fähigkeit, sich eine eigene Meinung zu bilden, sondern auch an der Fähigkeit, zuzuhören.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
@@ -1189,7 +1259,7 @@
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Thomas Oppermann [SPD]: Jetzt haben Sie endlich eine Antwort gegeben!)</stage>
           <p>Sie können versuchen, zu camouflieren. Aber aus der Ecke, Herr Mützenich, dass diese SPD außenpolitisch nicht handlungsfähig ist, kommen Sie heute nicht mehr heraus.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
-          <p>Meine Damen und Herren, bedauerlicherweise müssen wir uns aber nicht nur mit der SPD befassen, sondern uns auch fragen, wie es weitergehen kann. Auf Ihre mehrfach gestellte Frage habe ich geantwortet. Die Regierung hat stringent argumentiert. </p>
+          <p>Meine Damen und Herren, bedauerlicherweise müssen wir uns aber nicht nur mit der SPD befassen, sondern uns auch fragen, wie es weitergehen kann. Auf Ihre mehrfach gestellte Frage habe ich geantwortet. Die Regierung hat stringent argumentiert.</p>
           <p>Ich sage Ihnen aber auch völlig klar - das ist Konsens in meiner Fraktion und, ich glaube, auch in der anderen Regierungsfraktion; im Gegensatz zur SPD, die offensichtlich keine Möglichkeit hatte, sich abzustimmen, und interessanterweise von vornherein keine Sitzung anberaumt hat, hatten wir eine Fraktionssitzung dazu; an dem, was Sie heute hier vorgetragen haben, sieht man das Ergebnis -, dass wir an dem politischen Ziel - das hat der Außenminister noch einmal eindeutig klargestellt; es geht um eine politische Argumentation -, den Diktator Gaddafi zu entmachten, unverändert und unvermindert festhalten und dass Deutschland, vertreten durch die Bundesregierung, unterhalb der unmittelbaren Beteiligung an einer militärischen Aktion natürlich seinen Beitrag leisten wird.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
           <p>Offen gesagt, stehe ich nicht mit einem fertigen Plan hier; den habe ich nicht. Das kann auch keiner erwarten. Ich sage Ihnen aber zu, dass wir dafür sorgen und einen Beitrag dazu leisten werden, dass die Bundesregierung alle Möglichkeiten ventiliert. Das fängt bei der Verstärkung der Sanktionen an. Ich persönlich gehe so weit und sage: Wir müssen überlegen, ob die Sanktionen noch ein ganzes Stück verstärkt werden müssen, um den Diktator wirklich zu treffen. Bei diesen Überlegungen dürfen wir auch das Thema Öl nicht aussparen. Ich sage auch, dass wir alle Möglichkeiten nutzen wollen und sollen, um zum Beispiel an den Grenzen humanitäre Hilfe für Flüchtlinge zu leisten. Ich sage, an dieses Haus gewendet, auch, dass wir in dieser Ausnahmesituation natürlich überlegen müssen, ob wir für einen begrenzten Zeitraum nicht auch libyschen Flüchtlingen, die täglich vor dem Erschießen fliehen, die Möglichkeit geben sollten, das Mittelmeer zu überschreiten.</p>
@@ -1200,11 +1270,13 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Renate Künast für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Renate Künast" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Renate Künast">
+      </div>
+      <div type="agenda_item" n="39" what="debate" desc="Debatte">
+        <sp who="Renate Künast" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Renate Künast" party="GRUENE" name="Renate Künast">
           <speaker>Renate Künast (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! In aller Ruhe und dem Thema angemessen: Ich glaube, wir alle stehen hier schweren Herzens.</p>
           <stage type="interjection">(Zurufe von der LINKEN: Oh! - Gegenruf der Abg. Heidemarie Wieczorek-Zeul [SPD]: Ja, das ist auch so! - Iris Gleicke [SPD]: Die Reaktion der Linken spricht für sich!)</stage>
@@ -1215,11 +1287,13 @@
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
           <p>In aller Ruhe und Klarheit: Das ist unser Ausgangspunkt.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Frau Kollegin, gestatten Sie eine Zwischenfrage des Kollegen Liebich von der Fraktion Die Linke?</p>
         </sp>
-        <sp who="Renate Künast" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Renate Künast">
+      </div>
+      <div type="agenda_item" n="40" what="debate" desc="Debatte">
+        <sp who="Renate Künast" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Renate Künast" party="GRUENE" name="Renate Künast">
           <speaker>Renate Künast (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Nein.</p>
           <stage type="interjection">(Zurufe von der LINKEN: Oh!)</stage>
@@ -1243,21 +1317,25 @@
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
           <p>Mit welchem Auftrag und mit welcher Maßnahme wollen Sie vorgehen? Wo sind Ihre Anträge? Warten Sie nicht ab! Verhindern Sie nicht die Planung! Wir wollen, dass Deutschland jetzt eine aktive Rolle beim Waffen-embargo, beim Schutz der Flüchtlinge in der Region - mit der Erklärung, Flüchtlinge bei uns aufzunehmen - und bei der Unterbindung der Finanzströme und des Ölgeschäfts einnimmt.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Frau Kollegin, Sie müssen zum Schluss kommen.</p>
         </sp>
-        <sp who="Renate Künast" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Renate Künast">
+      </div>
+      <div type="agenda_item" n="41" what="debate" desc="Debatte">
+        <sp who="Renate Künast" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Renate Künast" party="GRUENE" name="Renate Künast">
           <speaker>Renate Künast (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Jetzt wollen wir den Bundesaußenminister für die Menschenrechte kämpfen sehen. Bisher haben Sie eine zu große Passivität gezeigt, Herr Westerwelle. Wir wollen, dass Deutschland steht.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort zu einer Kurzintervention erteile ich Kollegen Stefan Liebich.</p>
-          <stage type="interjection">(Beifall bei der LINKEN) </stage>
+          <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Stefan Liebich" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Stefan Liebich">
+      </div>
+      <div type="agenda_item" n="42" what="debate" desc="Debatte">
+        <sp who="Stefan Liebich" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Stefan Liebich" party="DIE LINKE" name="Stefan Liebich">
           <speaker>Stefan Liebich (DIE LINKE):</speaker>
           <p>Frau Künast, Sie haben keine Frage zugelassen. Deswegen nutze ich dieses Instrument.</p>
           <p>Sie haben Bezug auf das Konzept "Responsibility to Protect" genommen. Egal wie man dazu steht - es ist völkerrechtlich durchaus umstritten und hebelt die UN-Charta nicht aus -: Wenn Sie Bezug auf den Beschluss nehmen, der jetzt im UN-Sicherheitsrat gefasst wurde, und sagen, das sei durch die Responsibility to Protect begründet, sage ich Ihnen drei Dinge:</p>
@@ -1268,24 +1346,28 @@
           <p>Wenn Sie tatsächlich Menschenrechtsverletzungen als hinreichenden Grund für einen Militäreinsatz benennen, werden Sie viele Kriege führen wollen. Ich hoffe: Das will auch Bündnis 90/Die Grünen nicht.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Frau Künast, Sie haben das Wort.</p>
         </sp>
-        <sp who="Renate Künast" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Renate Künast">
+      </div>
+      <div type="agenda_item" n="43" what="debate" desc="Debatte">
+        <sp who="Renate Künast" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Renate Künast" party="GRUENE" name="Renate Künast">
           <speaker>Renate Künast (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ich weise auf die letzten Sätze meines Redebeitrags hin, in denen ich gesagt habe, was alles im zivilen Bereich noch zu tun ist, Herr Liebich. Es gibt noch viel zu tun. Dieses "noch viel zu tun" heißt aber nicht, dass damit alles andere ausgeschlossen werden muss.</p>
           <p>Ich verweise darauf, dass die Responsibility to Protect auch drohende Verbrechen im Blick hat. Das ist Verantwortung für die, die sich aktiv für Menschenrechte einsetzen wollen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Dr. Götzer für die Fraktion Bündnis 90/Die Grünen.</p>
           <stage type="interjection">(Heiterkeit - Zurufe von der CDU/CSU: Oh!)</stage>
           <p>- Entschuldigen Sie bitte, ich hatte gerade noch Frau Künast im Blick. Natürlich spricht der Kollege Dr. Wolfgang Götzer für die Unionsfraktion. Da ist gar kein Missverständnis möglich.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Dr. Wolfgang Götzer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Wolfgang Götzer">
+      </div>
+      <div type="agenda_item" n="44" what="debate" desc="Debatte">
+        <sp who="Wolfgang Götzer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Götzer" party="CSU" name="Wolfgang Götzer">
           <speaker>Dr. Wolfgang Götzer (CDU/CSU):</speaker>
           <p>Vielen Dank, Frau Präsidentin. - Auf diese Idee würde ich auch niemals kommen.</p>
           <stage type="interjection">(Heiterkeit und Beifall bei Abgeordneten der CDU/CSU und der FDP - Zuruf von der CDU/ CSU: Vernünftig!)</stage>
@@ -1312,13 +1394,13 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Ich rufe die Tagesordnungspunkte 29 a bis 29 c auf:</p>
           <p>a) Beratung des Antrags der Abgeordneten Maria Michalk, Ingrid Fischbach, Karl Schiewerling, weiterer Abgeordneter und der Fraktion der CDU/CSU sowie der Abgeordneten Gabriele Molitor, Heinz Lanfermann, Dr. Heinrich L. Kolb, weiterer Abgeordneter und der Fraktion der FDP</p>
           <p>Für eine umfassende Umsetzung der UN-Behindertenrechtskonvention - Nationaler Aktionsplan als Leitlinie</p>
-          <p>- Drucksache 17/4862 -  </p>
+          <p>- Drucksache 17/4862 -</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Arbeit und Soziales (f)</p>
           <p>Auswärtiger Ausschuss</p>
@@ -1338,7 +1420,7 @@
           <p>Haushaltsausschuss</p>
           <p>b) Beratung des Antrags der Abgeordneten Dr. Ilja Seifert, Dr. Martina Bunge, Diana Golze, weiterer Abgeordneter und der Fraktion DIE LINKE</p>
           <p>Kostenvorbehalt in § 13 des Zwölften Buches Sozialgesetzbuch streichen - Selbstbestimmtes Leben für Menschen mit Behinderungen gewährleisten</p>
-          <p>- Drucksache 17/4911 -  </p>
+          <p>- Drucksache 17/4911 -</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Arbeit und Soziales (f)</p>
           <p>Innenausschuss</p>
@@ -1349,10 +1431,10 @@
           <p>zu der Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen</p>
           <p>Europäische Strategie zugunsten von Menschen mit Behinderungen 2010-2020: Erneuertes Engagement für ein barrierefreies Europa</p>
           <p>Ratsdok. 16489/10 und KOM(2010) 636 endg.</p>
-          <p>hier:  Stellungnahme des Deutschen Bundestages gemäß Artikel 23 Absatz 2 des Grundgesetzes </p>
+          <p>hier: Stellungnahme des Deutschen Bundestages gemäß Artikel 23 Absatz 2 des Grundgesetzes</p>
           <p>i. V. m. § 9 des Gesetzes über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag in Angelegenheiten der Europäischen Union</p>
           <p>Europäische Strategie zugunsten von Menschen mit Behinderungen 2010 bis 2020 unterstützen</p>
-          <p>- Drucksache 17/5043 -  </p>
+          <p>- Drucksache 17/5043 -</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Arbeit und Soziales (f)</p>
           <p>Rechtsausschuss</p>
@@ -1364,8 +1446,8 @@
           <p>Ich eröffne die Aussprache. Das Wort hat der Parlamentarische Staatssekretär Fuchtel.</p>
         </sp>
       </div>
-      <div type="agenda_item" n="4" what="debate" desc="a) Beratung des Antrags der Abgeordneten Maria Michalk, Ingrid Fischbach, Karl S...">
-        <sp who="Hans-Joachim Fuchtel" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin für Arbeit und Soziales" party="CDU" name="Hans-Joachim Fuchtel">
+      <div type="agenda_item" n="45" what="debate" desc="Debatte">
+        <sp who="Hans-Joachim Fuchtel" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin für Arbeit und Soziales" who_original="Hans-Joachim Fuchtel" party="CDU" name="Hans-Joachim Fuchtel">
           <speaker>Hans-Joachim Fuchtel, Parl. Staatssekretär bei der Bundesministerin für Arbeit und Soziales:</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Es geht bei diesem Tagesordnungspunkt um die Umsetzung der UN-Behindertenrechtskonvention in Deutschland. Ich darf Ihnen sagen: Die Vorarbeiten zum Nationalen Aktionsplan stoßen auf ein ganz außergewöhnliches Interesse. Dafür möchte ich mich bei allen Beteiligten herzlich bedanken.</p>
           <p>Nicht nur bei den Verbänden ist großes Interesse vorhanden, sondern vor allem bei den Behinderten selbst. Dies verdient riesige Anerkennung und Respekt. Ich freue mich, dass eine so große Resonanz erfolgt ist. Unser Haus setzt konzeptionell auf diese Art der Beteiligung. Unisono wird bestätigt: Es ist der richtige Weg. Eine überwältigende Anzahl an guten Ideen und Anregungen ist die Folge. Selbstverständlich müssen diese Ideen und Anregungen auf ihre Machbarkeit hin überprüft werden. Nur wenn wir dies tun, setzen wir die notwendigen Zeichen der Ermutigung. Es bedarf hierbei einer etwas längeren Bearbeitung als ursprünglich geplant. Wir haben den Verbänden und allen Beteiligten nochmals die Möglichkeit gegeben, dies zu reflektieren. Wir haben den Termin, zu dem der Nationale Aktionsplan im Bundeskabinett behandelt werden soll, flexibel gestaltet. Aller Voraussicht nach wird dies im Juni 2011 der Fall sein.</p>
@@ -1373,7 +1455,7 @@
           <p>Das Dritte, was ich zu diesem Zeitpunkt sagen möchte, ist, dass diese Aufgabe an das anschließt, was wir in der Vergangenheit in diesem Haus in der Regel interfraktionell vorangebracht haben. Ich erinnere zunächst an die Erweiterung von Art. 3 Grundgesetz. In Abs. 3 wurde der Satz hinzugefügt:</p>
           <p>Niemand darf wegen seiner Behinderung benachteiligt werden.</p>
           <p>Ich erinnere an die Einführung eines eigenständigen Buches im Sozialgesetzbuch - SGB IX -, und ich erinnere schließlich an das Bundesgleichstellungsgesetz.</p>
-          <p>Dem folgt nun der Nationale Aktionsplan. Dies ist konsequent, und dafür ist es an der Zeit. Erfolgreiche inklusive Arbeit auf diesem Gebiet, der gesellschaftlichen Teilhabe der Menschen, ist finanziell nicht messbar. Zahlen sagen ganz gewiss auch nicht alles. Einige finanzielle Daten zeigen aber, dass die Bundesrepublik Deutschland hier nicht bei null anfängt: Mehr als 47 Milliarden Euro wurden 2009 in Deutschland allein für die Leistungen zur Pflege, für Eingliederungshilfe und für Rehabilitationszwecke ausgegeben. Das sind ganz sicher stattliche Summen. Auch im internationalen Vergleich ist hier eine Spitzenposition festzustellen. </p>
+          <p>Dem folgt nun der Nationale Aktionsplan. Dies ist konsequent, und dafür ist es an der Zeit. Erfolgreiche inklusive Arbeit auf diesem Gebiet, der gesellschaftlichen Teilhabe der Menschen, ist finanziell nicht messbar. Zahlen sagen ganz gewiss auch nicht alles. Einige finanzielle Daten zeigen aber, dass die Bundesrepublik Deutschland hier nicht bei null anfängt: Mehr als 47 Milliarden Euro wurden 2009 in Deutschland allein für die Leistungen zur Pflege, für Eingliederungshilfe und für Rehabilitationszwecke ausgegeben. Das sind ganz sicher stattliche Summen. Auch im internationalen Vergleich ist hier eine Spitzenposition festzustellen.</p>
           <p>Wir haben also keinen Grund, uns zu verstecken. Allerdings gibt es auch keinen Grund zur Selbstgerechtigkeit oder gar Selbstzufriedenheit; denn noch immer wissen wir bei weitem nicht genug über die Situation der Menschen mit Behinderungen in unserem Land. Deswegen ist eine der wichtigsten Erkenntnisse, die wir in der Zwischenzeit haben, dass die Datenlage sehr lückenhaft und auf jeden Fall nicht ausreichend ist, um ein vollständiges Bild zu erhalten.</p>
           <p>Deswegen wird eine der wesentlichen Maßnahmen des Nationalen Aktionsplans sein, die Behindertenberichterstattung der Bundesregierung völlig neu aufzustellen. Der neue Bericht soll Kompass sein für die künftige Behindertenpolitik der Bundesregierung.</p>
           <p>Bei der Bearbeitung dieses Themas haben wir auch schon sehr viele positive Aspekte gesehen. Einer der positivsten Aspekte ist für mich, dass es den Werkstätten für Behinderte in der Zwischenzeit gelungen ist, durch Zertifizierung Arbeit, die ansonsten ins Ausland abgewandert wäre, in Deutschland zu halten.</p>
@@ -1381,12 +1463,14 @@
           <p>Vielen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat die Kollegin Hiller-Ohm für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Gabriele Hiller-Ohm" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gabriele Hiller-Ohm">
+      </div>
+      <div type="agenda_item" n="46" what="debate" desc="Debatte">
+        <sp who="Gabriele Hiller-Ohm" parliamentary_group="SPD" role="mp" position="NA" who_original="Gabriele Hiller-Ohm" party="SPD" name="Gabriele Hiller-Ohm">
           <speaker>Gabriele Hiller-Ohm (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Seit März 2009 ist die UN-Konvention über die Rechte der Menschen mit Behinderungen in Deutschland in Kraft. Im Mai 2011 will die Bundesregierung nun endlich ihren Aktionsplan für die Umsetzung der Konvention in Deutschland vorlegen. Die offizielle Frist zur Abgabe des Aktionsplans ist damit bereits um zwei Monate überschritten.</p>
           <p>Das ist kein gutes Aushängeschild für unser Land. Diese Verzögerung ist auch fachlich nicht nachvollziehbar. Wir haben mit dem von Rot-Grün durchgesetzten Sozialgesetzbuch IX bereits eine sehr gute Grundlage für die Umsetzung der Konvention geschaffen.</p>
@@ -1439,12 +1523,14 @@
           <p>Ich möchte an dieser Stelle meiner Kollegin Silvia Schmidt, unserer behindertenpolitischen Sprecherin, gute Besserung wünschen. Sie hätte sehr gerne heute an dieser Debatte teilgenommen. Leider ist sie erkrankt und kann deshalb nicht hier sein. Gute Besserung, Silvia!</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der FDP - Dr. Heinrich L. Kolb [FDP]: Bei Genesungswünschen klatschen wir!)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die FDP-Fraktion hat die Kollegin Molitor das Wort.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Gabriele Molitor" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Gabi Molitor">
+      </div>
+      <div type="agenda_item" n="47" what="debate" desc="Debatte">
+        <sp who="Gabriele Molitor" parliamentary_group="FDP" role="mp" position="NA" who_original="Gabriele Molitor" party="FDP" name="Gabriele Molitor">
           <speaker>Gabriele Molitor (FDP):</speaker>
           <p>Frau Präsidentin! Verehrte Kolleginnen und Kollegen! Frau Hiller-Ohm, ich schätze Sie persönlich sehr. Doch ich muss mich über Ihre Ausführungen sehr wundern. Sie haben nämlich die Regelbedarfsstufe 3 im Zusammenhang mit den Hartz-IV-Debatten angesprochen. Wie mir meine Kollegen mitgeteilt haben, ist das, was Sie vorgebracht haben, nicht Ihr Kernanliegen gewesen.</p>
           <stage type="interjection">(Dr. Heinrich L. Kolb [FDP]: Wirklich nicht!)</stage>
@@ -1468,12 +1554,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die Fraktion Die Linke hat die Kollegin Dr. Bunge das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Martina Bunge" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Martina Bunge">
+      </div>
+      <div type="agenda_item" n="48" what="debate" desc="Debatte">
+        <sp who="Martina Bunge" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Martina Bunge" party="DIE LINKE" name="Martina Bunge">
           <speaker>Dr. Martina Bunge (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Vor uns liegen drei Anträge rund um die UN-Behindertenrechtskonvention. Sie haben sicher Ilja Seifert als Redner der Linksfraktion in der Debatte erwartet. Ich übernehme heute seinen Part, weil mein Kollege Dr. Ilja Seifert, zugleich Vorsitzender des Allgemeinen Behindertenverbandes in Deutschland, derzeit in Thüringen seinem tödlich verunglückten Stellvertreter, Dr. Karl Schran, die letzte Ehre erweist.</p>
           <p>Der Allgemeine Behindertenverband trägt den Zusatz "Für Selbstbestimmung und Würde" in seinem Namen; das ist eigentlich das Credo, das auch die UN-Behindertenrechtskonvention durchzieht.</p>
@@ -1494,17 +1582,19 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Kurth für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Markus Kurth" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Markus Kurth">
+      </div>
+      <div type="agenda_item" n="49" what="debate" desc="Debatte">
+        <sp who="Markus Kurth" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Markus Kurth" party="GRUENE" name="Markus Kurth">
           <speaker>Markus Kurth (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Verehrte Kolleginnen und Kollegen! Liebe Zuhörerinnen und Zuhörer! Die UN-Konvention über die Rechte der Menschen mit Behinderung ist - man kann es gar nicht deutlich und oft genug betonen - ein wegweisendes Menschenrechtsdokument, das Menschenrechte erstmals nicht nur als Abwehrrechte gegen den Staat formuliert, sondern als Anspruchsrechte auf Befähigung und Teilhabe.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
           <p>Diese Befähigung - das muss man sehr deutlich machen - ist Voraussetzung für Freiheit und auch für das aktive Wahrnehmen von klassischen Menschenrechten. Die UN-Menschenrechtskonvention ist auch deshalb ein so bedeutendes Dokument, das erste große Menschenrechtsdokument des 21. Jahrhunderts, weil sie sich - wenn man sie genau liest, stellt man das fest - auch mit dem Freiheitsbegriff auseinandersetzt. Freiheit ist nicht nur die Abwesenheit von Regeln, wie es sogenannte Ultraliberale sehen, Freiheit beschränkt sich nicht nur auf die Abwehr von Übergriffen, sondern Freiheit setzt auch voraus, dass die Personen die Möglichkeit haben, ihre individuellen Teilhabewünsche zu entfalten, zu artikulieren und wirklich in die Tat umzusetzen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
-          <p>Um das einmal am Beispiel des Rechts auf Freizügigkeit und freie Wahl des Wohnortes konkret zu machen: Die Wahrnehmung dieses Rechts ist für Menschen mit körperlichen, aber teilweise auch geistigen Einschränkungen nur möglich, wenn es befähigende Voraussetzungen gibt, zum Beispiel Assistenz in der Wohnung oder Barrierefreiheit oder einen sogenannten inklusiven Sozialraum, das heißt eine Wohnumgebung, die das selbstständige Sich-Versorgen und die selbstständige Entfaltung im Wohnumfeld ermöglicht. </p>
+          <p>Um das einmal am Beispiel des Rechts auf Freizügigkeit und freie Wahl des Wohnortes konkret zu machen: Die Wahrnehmung dieses Rechts ist für Menschen mit körperlichen, aber teilweise auch geistigen Einschränkungen nur möglich, wenn es befähigende Voraussetzungen gibt, zum Beispiel Assistenz in der Wohnung oder Barrierefreiheit oder einen sogenannten inklusiven Sozialraum, das heißt eine Wohnumgebung, die das selbstständige Sich-Versorgen und die selbstständige Entfaltung im Wohnumfeld ermöglicht.</p>
           <p>Die Schaffung solcher Voraussetzungen wie Assistenz und Barrierefreiheit kostet natürlich Geld. Damit kommen wir zum Punkt: Diese gibt es nicht zum Nulltarif. Wenn man sich mit der Umsetzung der UN-Behindertenrechtskonvention auseinandersetzt, muss man auch das Thema Haushalts- und Kostenvorbehalte offensiv ansprechen. Ich finde, meine Damen und Herren von der Koalition, Ihr Antrag ist diesbezüglich mehr als kleinmütig; ich kann das nicht anders sagen. Sie versuchen zwar, in die richtige Richtung zu gehen, Ihr Antrag ist aber trotzdem kleinmütig.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
           <p>Bevor Sie Ihre Forderungen an die Bundesregierung aufzählen, machen Sie als Erstes die Einschränkung: "im Rahmen der zur Verfügung stehenden Haushaltsmittel".</p>
@@ -1518,12 +1608,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die Unionsfraktion hat die Kollegin Michalk das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie des Abg. Patrick Kurth [Kyffhäuser] [FDP])</stage>
         </sp>
-        <sp who="Maria Michalk" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Maria Michalk">
+      </div>
+      <div type="agenda_item" n="50" what="debate" desc="Debatte">
+        <sp who="Maria Michalk" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Maria Michalk" party="CDU" name="Maria Michalk">
           <speaker>Maria Michalk (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Mit dem heute von den Koalitionsfraktionen vorgelegten Antrag bekräftigen wir öffentlich unsere große, umfassende Unterstützung bei der Umsetzung des Übereinkommens über die Rechte von Menschen mit Behinderung.</p>
           <p>Es ist schon gesagt worden, dass das Vertragswerk seit dem 26. März 2009 gilt. Liebe Kollegin Hiller-Ohm, zu dieser Zeit stellte Ihre Fraktion die Behindertenbeauftragte. Die Frage ist, warum man damals nicht sofort angefangen hat, zu arbeiten.</p>
@@ -1545,22 +1637,26 @@
           <p>Der Deutsche Industrie- und Handelskammertag fordert mit Blick auf den drohenden Fachkräftemangel, die derzeit etwa 1 000 Sonderregelungen - das muss man sich einmal überlegen! - für die Ausbildung von behinderten jungen Menschen bundesweit zu vereinheitlichen und damit deutlich zu reduzieren. Das verbessert die Transparenz hinsichtlich der erworbenen Qualifikationen und erleichtert behinderten Menschen den Einstieg in die Ausbildung und später in die Berufswelt.</p>
           <p>Man könnte noch viele weitere Beispiele aufführen. Deshalb ist es wichtig, dass wir diesen Dialog führen und uns nicht gegenseitig Vorwürfe machen. Es mag ja sein, dass wir bei dem einen oder anderen Punkt unterschiedlicher Meinung sind.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollegin Michalk, achten Sie bitte auf die Zeit.</p>
         </sp>
-        <sp who="Maria Michalk" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Maria Michalk">
+      </div>
+      <div type="agenda_item" n="51" what="debate" desc="Debatte">
+        <sp who="Maria Michalk" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Maria Michalk" party="CDU" name="Maria Michalk">
           <speaker>Maria Michalk (CDU/CSU):</speaker>
           <p>Aber die Menschen mit Behinderung erwarten von uns zu Recht, dass wir diesen Prozess gemeinsam gestalten. Darauf freue ich mich.</p>
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Kober für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Pascal Kober">
+      </div>
+      <div type="agenda_item" n="52" what="debate" desc="Debatte">
+        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" who_original="Pascal Kober" party="FDP" name="Pascal Kober">
           <speaker>Pascal Kober (FDP):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Als Mitkoalitionär findet es die FDP sehr begrüßenswert, dass die Bundesregierung gerade dabei ist, einen Nationalen Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention auf den Weg zu bringen. Dass das etwas länger dauert, sehen wir als Hinweis auf die Qualität, die im Gespräch mit Bund, Ländern und Kommunen erzielt werden soll. Es ist gut, dass wir alle Ebenen mit einbeziehen. Es ist außerdem gut, dass die Bundesregierung alle Betroffenen bzw. deren Vertreter mit einbezieht.</p>
           <p>Lieber Herr Kurth, liebe Frau Hiller-Ohm, wir sollten uns nicht immer nur auf die Finanzierungsfrage konzentrieren, denn sonst setzen Sie sich einer Diskussion darüber aus, was Sie als SPD in elf Jahren und Sie als Grüne in sieben Jahren Regierungsbeteiligung geleistet haben</p>
@@ -1568,20 +1664,22 @@
           <p>und was Sie gegenwärtig in den Ländern, in denen Sie Regierungsverantwortung tragen, leisten. Das müssten wir dann sehr genau beobachten. Wir würden Sie dann beispielsweise zu Ihrer Position hinsichtlich der Hörberatungsstelle hier in Berlin-Neukölln und zur Kürzung des Blindengeldes befragen.</p>
           <stage type="interjection">(Markus Kurth [BÜNDNIS 90/DIE GRÜNEN]: Können Sie mal was zu dem Länderrecht in Baden-Württemberg erzählen? - Gabriele Hiller-Ohm [SPD]: Das musste jetzt ja kommen!)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollege Kober, gestatten Sie eine Frage der Kollegin Rawert?</p>
         </sp>
-        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Pascal Kober">
+      </div>
+      <div type="agenda_item" n="53" what="debate" desc="Debatte">
+        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" who_original="Pascal Kober" party="FDP" name="Pascal Kober">
           <speaker>Pascal Kober (FDP):</speaker>
           <p>Sehr gerne.</p>
         </sp>
-        <sp who="Mechthild Rawert" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Mechthild Rawert">
+        <sp who="Mechthild Rawert" parliamentary_group="SPD" role="mp" position="NA" who_original="Mechthild Rawert" party="SPD" name="Mechthild Rawert">
           <speaker>Mechthild Rawert (SPD):</speaker>
           <p>Kollege Kober, wir sind sehr gerne bereit, uns beobachten zu lassen, wie wir mit Menschenrechten umgehen; denn das trägt zur Transparenz bei. Meine Frage lautet: Welche der Maßnahmen können Sie tatsächlich umsetzen, wenn Sie nicht über zusätzliche Finanzierung reden wollen?</p>
           <stage type="interjection">(Dr. Martin Lindner [Berlin] [FDP]: Rot-Rot in Berlin! Schließen von Hörberatungsstellen usw.!)</stage>
         </sp>
-        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Pascal Kober">
+        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" who_original="Pascal Kober" party="FDP" name="Pascal Kober">
           <speaker>Pascal Kober (FDP):</speaker>
           <p>Frau Kollegin, Sie haben nicht ganz genau zugehört.</p>
           <stage type="interjection">(Mechthild Rawert [SPD]: Doch!)</stage>
@@ -1589,32 +1687,36 @@
           <stage type="interjection">(Mechthild Rawert [SPD]: Ich werde dann noch mal nachfragen!)</stage>
           <p>Ich glaube, dass wir auch und gerade in den Bereichen Chancen haben, in denen es nicht immer gleich um neue Gelder geht. Wenn wir lernen, umzudenken und neue Perspektiven einzunehmen, dann können wir insbesondere bei der Schaffung neuer Infrastruktur Behinderungen von Menschen ausschließen. Das ist der entscheidende Punkt. Wir müssen lernen, dass die Behinderung nicht in den Menschen verortet ist, sondern dass die Behinderung zum großen Teil in der Umwelt verortet ist, die wir um die Menschen herum errichten.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollege Kober, es gibt offensichtlich innerfraktionellen Abstimmungsbedarf. Der Kollege Lindner möchte Ihnen eine Frage stellen.</p>
           <stage type="interjection">(Markus Kurth [BÜNDNIS 90/DIE GRÜNEN]: Das würde ich jetzt nicht zulassen!)</stage>
         </sp>
-        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Pascal Kober">
+      </div>
+      <div type="agenda_item" n="54" what="debate" desc="Debatte">
+        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" who_original="Pascal Kober" party="FDP" name="Pascal Kober">
           <speaker>Pascal Kober (FDP):</speaker>
           <p>In Ordnung.</p>
         </sp>
-        <sp who="Dr. Martin Lindner" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Martin Lindner">
+        <sp who="Martin Lindner (Berlin)" parliamentary_group="FDP" role="mp" position="NA" who_original="Martin Lindner (Berlin)" party="FDP" name="Martin Lindner">
           <speaker>Dr. Martin Lindner (Berlin) (FDP):</speaker>
           <p>Kollege Kober, gerade hat sich die Kollegin Rawert aus Berlin so engagiert geäußert, als sie nach unserem Engagement für Menschen mit Behinderung fragte. Wie finden Sie es, dass Rot-Rot, also SPD und Die Linke, die sich hier als echte und wahre Verteidiger der Behinderten erheblich exponieren, in Berlin, wo sie zusammen regieren, einen großen Kampf gegen die Hörberatungsstelle in Neukölln führen - Frau Knaake-Werner hatte sich als linke Senatorin mit großem Engagement gegen diese Hörberatungsstelle eingesetzt - und auch das Blindengeld gekürzt haben?</p>
           <stage type="interjection">(Markus Kurth [BÜNDNIS 90/DIE GRÜNEN]: Es geht doch jetzt nicht um Berliner Lokalpolitik!)</stage>
           <p>Wie sehen Sie die Realpolitik von SPD und Linken in Berlin im Zusammenhang mit den Reden, die hier im Bundestag geschwungen werden?</p>
           <stage type="interjection">(Iris Gleicke [SPD]: Auch Zwischenfragen werden geschwungen!)</stage>
         </sp>
-        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Pascal Kober">
+        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" who_original="Pascal Kober" party="FDP" name="Pascal Kober">
           <speaker>Pascal Kober (FDP):</speaker>
           <p>Lieber Kollege Lindner, Sie bestätigen im Grunde meine Ausführungen. Wir sollten nicht mit dem Finger auf andere zeigen und auch nicht falsche Erwartungen bei den betroffenen Menschen wecken, dass alles, wenn man denn nur wollte oder wenn man nur guten Herzens sei, finanzierbar ist. Sie werden im Laufe der Diskussion über den Aktionsplan, den die Bundesregierung auf den Weg bringt, und zukünftig auch in der Diskussion über die Umsetzung von Maßnahmen aufgrund dieses Aktionsplanes genau beobachten können, was von den Mitbewerbern im politischen Bereich gefordert wird und was sie dort, wo sie in Regierungsverantwortung sind, tatsächlich umsetzen. - Vielen Dank, Herr Lindner.</p>
           <stage type="interjection">(Beifall der Abg. Maria Michalk [CDU/CSU] - Christian Lindner [FDP]: Danke schön! - Zurufe von der SPD: Oh!)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Vorsorglich weise ich darauf hin, dass ich keine weiteren Fragen bei diesem Redebeitrag zulasse; denn wir wollen die Redezeit ja nicht auf wundersame Weise verdreifachen. - Bitte.</p>
         </sp>
-        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Pascal Kober">
+      </div>
+      <div type="agenda_item" n="55" what="debate" desc="Debatte">
+        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" who_original="Pascal Kober" party="FDP" name="Pascal Kober">
           <speaker>Pascal Kober (FDP):</speaker>
           <p>Ich denke, wir sollten die Chancen nutzen und mit allen politisch Beteiligten - Bund, Länder und Kommunen - und den Betroffenen miteinander im Gespräch bleiben. Wir sollten auch darauf hinweisen, dass die Bundesrepublik weltweit für die Menschen, die von Behinderung betroffen sind, eine Verantwortung hat. Deshalb ist es begrüßenswert - das freut mich insbesondere als Mitglied des Ausschusses für Menschenrechte und Humanitäre Hilfe -, dass unser Bundesminister für wirtschaftliche Zusammenarbeit und Entwicklung mit Nachdruck das Anliegen verfolgt, den Gedanken der Inklusion stärker in die Entwicklungszusammenarbeit einzuführen.</p>
           <stage type="interjection">(Beifall der Abg. Gabriele Molitor [FDP])</stage>
@@ -1622,12 +1724,14 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die Unionsfraktion hat der Kollege Lehrieder das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Paul Lehrieder">
+      </div>
+      <div type="agenda_item" n="56" what="debate" desc="Debatte">
+        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Paul Lehrieder" party="CSU" name="Paul Lehrieder">
           <speaker>Paul Lehrieder (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen! Liebe Kollegen! Ich möchte zu Beginn meiner Rede meine Freude zum Ausdruck bringen, dass neben Herrn Staatssekretär Fuchtel auch der Behindertenbeauftragte unserer Regierung, Herr Hubert Hüppe, dieser Diskussion beiwohnt und genau aufpasst, worüber wir diskutieren.</p>
           <stage type="interjection">(Mechthild Rawert [SPD]: Der Staatssekretär!)</stage>
@@ -1650,7 +1754,7 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird Überweisung der Vorlagen auf den Drucksachen 17/4862, 17/4911 und 17/5043 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? - Das ist der Fall. Dann sind die Überweisungen so beschlossen.</p>
@@ -1682,8 +1786,8 @@
           <stage type="interjection">(Beifall bei der LINKEN - Dr. Martin Lindner [Berlin] [FDP]: Jetzt wollen wir noch ein bisschen linke Klientelpolitik genießen!)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="5" what="debate" desc="ZP 3 Beratung des Antrags der Abgeordneten Dr. Gregor Gysi, Jan van Aken, Christ...">
-        <sp who="Heike Hänsel" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Heike Hänsel">
+      <div type="agenda_item" n="57" what="debate" desc="Debatte">
+        <sp who="Heike Hänsel" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Heike Hänsel" party="DIE LINKE" name="Heike Hänsel">
           <speaker>Heike Hänsel (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Sehr geehrte Damen und Herren! Seit heute Nacht kennen wir den neuen Beschluss des UN-Sicherheitsrates für eine Flugverbotszone über Libyen. Es ist ein umfassendes Mandat und enthält viele weitere Elemente. Wir sagen: Das ist ein Mandat für einen Kriegseinsatz in Libyen. Dies lehnen wir hier strikt ab.</p>
           <stage type="interjection">(Beifall bei der LINKEN - Dr. Martin Lindner [Berlin] [FDP]: Dazu habt ihr schon gesprochen!)</stage>
@@ -1715,11 +1819,13 @@
           <p>Herr Minister Westerwelle verlor in seiner Regierungserklärung kein Wort zu Saudi-Arabien. Er hat kein Wort zum Einmarsch in Bahrain gesagt. Im Gegenteil: Die Rüstungsexporte nach Saudi-Arabien gehen weiter. Heckler &amp; Koch aus Baden-Württemberg liefert Gewehre nach Saudi-Arabien. Es soll sogar eine Fabrik für die Produktion einer der tödlichsten Waffen - es geht um G-36-Gewehre - gebaut werden. Wir sagen: Das kann so nicht weitergehen. Wir müssen diese Rüstungspolitik beenden. Rüstungsexporte sind Milliardengeschäfte mit dem Tod. Wer diese genehmigt, macht sich mitverantwortlich für Krieg, Konflikte, Elend und Tod.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollegin Hänsel, achten Sie bitte auf die Zeit.</p>
         </sp>
-        <sp who="Heike Hänsel" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Heike Hänsel">
+      </div>
+      <div type="agenda_item" n="58" what="debate" desc="Debatte">
+        <sp who="Heike Hänsel" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Heike Hänsel" party="DIE LINKE" name="Heike Hänsel">
           <speaker>Heike Hänsel (DIE LINKE):</speaker>
           <p>Ich komme zum Schluss. - Ich komme nämlich aus Baden-Württemberg, und ich kenne unsere Rüstungsschmieden.</p>
           <stage type="interjection">(Dr. Martin Lindner [Berlin] [FDP]: Deswegen machen Sie auch Wahlkampf!)</stage>
@@ -1729,12 +1835,14 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der LINKEN - Dr. Martin Lindner [Berlin] [FDP]: Damit Sie für Baden-Württemberg noch ein bisschen Wahlkampf machen, sitzen wir hier rum!)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die Unionsfraktion hat der Kollege Fritz das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Erich G. Fritz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Erich G. Fritz">
+      </div>
+      <div type="agenda_item" n="59" what="debate" desc="Debatte">
+        <sp who="Erich G. Fritz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Erich G. Fritz" party="CDU" name="Erich G. Fritz">
           <speaker>Erich G. Fritz (CDU/CSU):</speaker>
           <p>Meine sehr verehrten Damen und Herren! Zum Schluss haben wir ja noch einmal erfahren, was die Motivation für diesen Antrag der Linken war.</p>
           <stage type="interjection">(Heike Hänsel [DIE LINKE]: Genau darum geht es: Sind Sie für Friedenspolitik oder für Rüstungslieferungen?)</stage>
@@ -1763,13 +1871,15 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Die Kollegin Bulmahn hat für die SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Jörn Wunderlich [DIE LINKE]: Die Kurzintervention!)</stage>
           <p>- Entschuldigung. Das war mein Fehler. Der Kollege Jan van Aken hat später die Gelegenheit zu einer Kurzintervention.</p>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Edelgard Bulmahn">
+      </div>
+      <div type="agenda_item" n="60" what="debate" desc="Debatte">
+        <sp who="Edelgard Bulmahn" parliamentary_group="SPD" role="mp" position="NA" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Edelgard Bulmahn (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine sehr geehrten Herren und Damen! Es hat erhebliche Fortschritte bei der Einschränkung von Rüstungsexporten und deren Kontrolle gegeben. Trotzdem zeigen die Zahlen zu den aktuellen Rüstungsexporten, die das renommierte schwedische Forschungsinstitut SIPRI diese Woche vorgelegt hat, dass zwischen 2006 und 2010 das Volumen des weltweiten Handels mit Waffen und anderen Rüstungsgütern um 24 Prozent gestiegen ist. Deutschland liegt dabei mit einem Anteil von 8 Prozent am Weltrüstungshandel im Jahr 2009 auf dem dritten Platz der globalen Rüstungsexportstatistik. Das ist Anlass, darüber zu diskutieren; das sage ich ausdrücklich.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN - Dr. Martin Lindner [Berlin] [FDP]: Unter welchem Außenminister war das? Außenminister Steinmeier!)</stage>
@@ -1819,38 +1929,46 @@
           <p>Es gibt einen weiteren Punkt, der verändert werden muss. Bis heute wird der Deutsche Bundestag immer erst nachträglich über die durchgeführten Rüstungsexporte informiert, leider oft erst sehr lange nachdem sie durchgeführt worden sind. Das heißt, wir brauchen nicht nur die Pflicht zur zeitnahen Berichterstattung, sondern wir müssen auch erreichen, dass, so wie auch in anderen europäischen Parlamenten, der Deutsche Bundestag parallel zu den Entscheidungen informiert wird und auch die Möglichkeit der Einflussnahme hat. Ich halte das für einen ganz entscheidenden Punkt, um tatsächlich Transparenz herzustellen und das politische Ziel der effektiven Rüstungsexportkontrolle und das Ziel restriktiver Rüstungsexporte tatsächlich zu realisieren.</p>
           <p>Die Vorschläge, die die Gemeinsame Konferenz Kirche und Entwicklung gemacht hat, gehen genau in diese Richtung. Ich will sie ausdrücklich unterstützen. Ich begrüße sie sehr und hoffe, dass wir hier vielleicht doch zu einer gemeinsamen Entscheidung kommen.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollegin Bulmahn, jetzt müssen Sie doch zum Schluss kommen. Ich habe den Ordnungsruf, den Sie für mich übernommen haben, schon draufgeschlagen.</p>
           <stage type="interjection">(Heiterkeit)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Edelgard Bulmahn">
+      </div>
+      <div type="agenda_item" n="61" what="debate" desc="Debatte">
+        <sp who="Edelgard Bulmahn" parliamentary_group="SPD" role="mp" position="NA" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Edelgard Bulmahn (SPD):</speaker>
           <p>Ich will einen letzten Punkt ganz kurz ansprechen.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Ein Satz.</p>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Edelgard Bulmahn">
+      </div>
+      <div type="agenda_item" n="62" what="debate" desc="Debatte">
+        <sp who="Edelgard Bulmahn" parliamentary_group="SPD" role="mp" position="NA" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Edelgard Bulmahn (SPD):</speaker>
           <p>Er bezieht sich auf die internationale Kontrolle des Waffenhandels, den Arms Trade Treaty. Hier kommt es darauf an, dass wir eine möglichst große Zahl von Staaten auf grundlegende Prinzipien zur Begrenzung und Kontrolle von Rüstungstransfers verpflichten und damit völkerrechtlich bindende Richtlinien für alle Rüstungsexporte entwickeln.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollegin Bulmahn, jetzt ist meine Geduld wirklich erschöpft.</p>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Edelgard Bulmahn">
+      </div>
+      <div type="agenda_item" n="63" what="debate" desc="Debatte">
+        <sp who="Edelgard Bulmahn" parliamentary_group="SPD" role="mp" position="NA" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Edelgard Bulmahn (SPD):</speaker>
           <p>Es lohnt sich, darüber zu diskutieren, weil es darum geht, Sicherheit herzustellen und Menschenleben zu schützen.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort zu einer Kurzintervention hat jetzt der Kollege van Aken.</p>
         </sp>
-        <sp who="Jan van Aken" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Jan van Aken">
+      </div>
+      <div type="agenda_item" n="64" what="debate" desc="Debatte">
+        <sp who="Jan van Aken" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Jan van Aken" party="DIE LINKE" name="Jan van Aken">
           <speaker>Jan van Aken (DIE LINKE):</speaker>
           <p>Herr Fritz, ich bin grundsätzlich gegen jede Art von Rüstungsexporten, weil ich es grundsätzlich falsch finde, dass Deutschland auch nur einen einzigen Euro daran verdient, dass sich andere Menschen gegenseitig totschießen.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -1859,22 +1977,26 @@
           <p>Ein letzter Punkt. Wichtig ist doch auch, endlich den Bau der deutschen Waffenfabriken in Saudi-Arabien zu stoppen. Im Moment werden dort zwei Fabriken gebaut: eine, in der das Sturmgewehr G 36 hergestellt werden soll, und eine weitere, in der die Munition dafür produziert werden soll. Wenn dieser Bau heute nicht gestoppt wird, kann Saudi-Arabien im nächsten Jahr anfangen, beides zu produzieren. Dann kann es 50 Jahre lang dieses hochmoderne deutsche Sturmgewehr in alle Welt exportieren. Wenn Sie und Herr Westerwelle es wirklich ernst damit meinen, dass wir auf der Seite der Menschen in Bahrain stehen, dann sollten Sie unserem Antrag zustimmen; das wünsche ich mir. Wir sollten einfach sagen: Ab sofort keine Exporte mehr nach Saudi-Arabien. Könnten Sie dem zustimmen oder nicht? Wenn nicht, warum nicht?</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollege Fritz, Sie haben das Wort.</p>
         </sp>
-        <sp who="Erich G. Fritz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Erich G. Fritz">
+      </div>
+      <div type="agenda_item" n="65" what="debate" desc="Debatte">
+        <sp who="Erich G. Fritz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Erich G. Fritz" party="CDU" name="Erich G. Fritz">
           <speaker>Erich G. Fritz (CDU/CSU):</speaker>
           <p>Herr van Aken, Sie wissen natürlich genau, dass diese Ja/Nein-Frage so nicht zu beantworten ist. Wenn Sie eine Rede in dieser Debatte gehalten hätten, dann hätten Sie das alles vortragen können. Eigentlich haben Sie sich nur zu dieser Kurzintervention gemeldet, um Ihren Vortrag nachzuholen.</p>
           <p>Wenn Sie bestreiten, dass wir eine restriktive Politik betreiben, dann bitte ich Sie wirklich einmal, Vergleiche mit anderen Staaten dieser Welt anzustellen. Es gibt sicher Länder, die in Sachen Transparenz noch weiter sind. Wie die Kollegin eben beschrieben hat, gibt es Parlamente, die vor der Durchführung wichtiger Projekte einbezogen werden. Über all das kann man reden. Aber man kann nicht durch die Verabschiedung von Anträgen im Nachhinein Verträge annullieren. Man kann an einem Freitagnachmittag auch nicht mal eben die Republik in einem Punkt aus den Angeln heben.</p>
           <p>Länder haben berechtigterweise Interessen, natürlich auch im Rüstungsbereich. Da Ihre Fraktion die Souveränität dieser Länder nicht beeinträchtigen kann, werden Sie daran nichts ändern.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Dr. Lindner für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU - Heike Hänsel [DIE LINKE]: Jetzt wird es unterirdisch!)</stage>
         </sp>
-        <sp who="Dr. Martin Lindner" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Martin Lindner">
+      </div>
+      <div type="agenda_item" n="66" what="debate" desc="Debatte">
+        <sp who="Martin Lindner (Berlin)" parliamentary_group="FDP" role="mp" position="NA" who_original="Martin Lindner (Berlin)" party="FDP" name="Martin Lindner">
           <speaker>Dr. Martin Lindner (Berlin) (FDP):</speaker>
           <p>Frau Präsidentin! Verehrte Damen! Meine Herren! Ich weiß leider nicht, warum wir uns zu dieser Stunde noch so intensiv mit diesem lächerlichen Schaufensterantrag der Linken beschäftigen sollen,</p>
           <stage type="interjection">(Zurufe von der LINKEN)</stage>
@@ -1883,20 +2005,24 @@
           <stage type="interjection">(Heike Hänsel [DIE LINKE]: Das ist eine Verharmlosung! - Weitere Zurufe von der LINKEN)</stage>
           <p>- Frau Präsidentin, fordern Sie Ihre Fraktion dazu auf, mir die Gelegenheit zu geben, hier ungestört zu reden.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Zurzeit ist keine Fraktion meine Fraktion; vielmehr versuche ich, hier ganz allgemein die Ordnung aufrechtzuerhalten.</p>
           <stage type="interjection">(Iris Gleicke [SPD]: Allerdings!)</stage>
         </sp>
-        <sp who="Dr. Martin Lindner" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Martin Lindner">
+      </div>
+      <div type="agenda_item" n="67" what="debate" desc="Debatte">
+        <sp who="Martin Lindner (Berlin)" parliamentary_group="FDP" role="mp" position="NA" who_original="Martin Lindner (Berlin)" party="FDP" name="Martin Lindner">
           <speaker>Dr. Martin Lindner (Berlin) (FDP):</speaker>
           <p>Gut. Dann machen Sie das.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das gilt heute allerdings für alle Seiten dieses Hauses, wenn ich das anmerken darf.</p>
         </sp>
-        <sp who="Dr. Martin Lindner" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Martin Lindner">
+      </div>
+      <div type="agenda_item" n="68" what="debate" desc="Debatte">
+        <sp who="Martin Lindner (Berlin)" parliamentary_group="FDP" role="mp" position="NA" who_original="Martin Lindner (Berlin)" party="FDP" name="Martin Lindner">
           <speaker>Dr. Martin Lindner (Berlin) (FDP):</speaker>
           <p>Letztlich geht es hier gar nicht um diesen Antrag. Dieser Antrag ist nicht geeignet, uns in dieser Frage wirklich weiterzubringen, weil er all das auslässt.</p>
           <p>Frau Kollegin Bulmahn, wenn Sie mit Verweis auf diesen Report sagen, zwischen 2006 und 2010 seien die Exporte gestiegen, dann fragen Sie sich doch einmal, wer damals im Bundessicherheitsrat saß. Da saß Außenminister Steinmeier. Mich wundert es in diesem Zusammenhang, wenn erst Jahre später, wenn man in der Opposition ist, solche Sprüche geklopft werden.</p>
@@ -1923,23 +2049,27 @@
           <stage type="interjection">(Beifall bei der FDP)</stage>
           <p>Wir treten als FDP für die Wahrung der Sicherheitsinteressen dieses Landes und unserer Verbündeten ein. Wir verwahren uns auch gegen den Vorwurf, wir würden blind einfach exportieren.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollege Lindner, achten Sie bitte auf die Zeit.</p>
         </sp>
-        <sp who="Dr. Martin Lindner" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Martin Lindner">
+      </div>
+      <div type="agenda_item" n="69" what="debate" desc="Debatte">
+        <sp who="Martin Lindner (Berlin)" parliamentary_group="FDP" role="mp" position="NA" who_original="Martin Lindner (Berlin)" party="FDP" name="Martin Lindner">
           <speaker>Dr. Martin Lindner (Berlin) (FDP):</speaker>
           <p>Aber wir haben natürlich unsere Unternehmen, die in diesem Bereich tätig sind, im Blick. So kommen wir zu einer vernünftigen, ausgewogenen Politik - in der Zukunft ebenso wie in der Vergangenheit.</p>
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Bevor wir diese Debatte ernsthaft und mit der angemessenen Aufmerksamkeit zu Ende bringen, möchte ich, ohne dass ich den sicherlich im Protokoll vermerkten Zuruf des Kollegen Wunderlich wiederholen möchte, diesen ausdrücklich rügen.</p>
           <p>Das Wort hat die Kollegin Katja Keul.</p>
           <stage type="interjection">(Heike Hänsel [DIE LINKE]: Und meine Intervention? Ich wurde direkt angesprochen! Vielen herzlichen Dank, Frau Präsidentin!)</stage>
         </sp>
-        <sp who="Katja Keul" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Katja Keul">
+      </div>
+      <div type="agenda_item" n="70" what="debate" desc="Debatte">
+        <sp who="Katja Keul" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Katja Keul" party="GRUENE" name="Katja Keul">
           <speaker>Katja Keul (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Kollege Lindner, Ihr Beitrag gerade war, glaube ich, der beste Beweis dafür, dass Ihre Koalition keine restriktive Rüstungsexportpolitik beabsichtigt.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN)</stage>
@@ -1967,20 +2097,22 @@
           <p>Uns Grünen ist vor allem mehr parlamentarische Kontrolle der Rüstungsexporte wichtig. Der Bundestag muss in die Genehmigungsverfahren einbezogen werden.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollegin Keul, lassen Sie eine Zwischenfrage des Kollegen Fischer zu?</p>
         </sp>
-        <sp who="Katja Keul" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Katja Keul">
+      </div>
+      <div type="agenda_item" n="71" what="debate" desc="Debatte">
+        <sp who="Katja Keul" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Katja Keul" party="GRUENE" name="Katja Keul">
           <speaker>Katja Keul (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ja, gerne.</p>
         </sp>
-        <sp who="Hartwig Fischer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hartwig Fischer">
+        <sp who="Hartwig Fischer (Göttingen)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hartwig Fischer (Göttingen)" party="CDU" name="Hartwig Fischer">
           <speaker>Hartwig Fischer (Göttingen) (CDU/CSU):</speaker>
           <p>Frau Kollegin Keul, ist Ihnen bekannt, dass in den vergangenen zwei Jahren Deutschland die höchsten Rüstungsexporte hatte und dass diese Tatsache aus Aufträgen resultiert, die während der rot-grünen Regierungszeit genehmigt worden sind? Wie erklären Sie diesen Sinneswandel?</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Katja Keul" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Katja Keul">
+        <sp who="Katja Keul" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Katja Keul" party="GRUENE" name="Katja Keul">
           <speaker>Katja Keul (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Wenn das so gewesen ist, müssen wir das ändern.</p>
           <stage type="interjection">(Dr. Martin Lindner [Berlin] [FDP]: Das könnt ihr nicht mehr ändern, weil ihr nicht mehr regiert! Die Vergangenheit könnt nicht einmal ihr korrigieren!)</stage>
@@ -1988,17 +2120,19 @@
           <stage type="interjection">(Dr. Martin Lindner [Berlin] [FDP]: Als der Fischer Außenminister war, habt ihr nichts gefordert!)</stage>
           <p>Die Zahlen liegen allesamt bereits vor. Es gibt keinen ersichtlichen Grund, die Vorlage des Berichtes über Monate hinauszuzögern.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollegin Keul, jetzt müssen Sie bitte auf die Zeit achten.</p>
         </sp>
-        <sp who="Katja Keul" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Katja Keul">
+      </div>
+      <div type="agenda_item" n="72" what="debate" desc="Debatte">
+        <sp who="Katja Keul" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Katja Keul" party="GRUENE" name="Katja Keul">
           <speaker>Katja Keul (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Weitere konkrete Vorschläge zur Verbesserung der Kontrollmechanismen sind in Arbeit. Sie sind alle herzlich eingeladen, daran mitzuwirken. Lassen Sie uns gemeinsam für eine restriktive und für eine an der Friedenspolitik ausgerichtete Rüstungskontrolle Sorge tragen.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Bevor ich die Debatte schließe, verweise ich all diejenigen, die im Moment ein wenig aufgeregt sind, auf § 27 unserer Geschäftsordnung, der das Thema Worterteilung und Wortmeldung, darin auch Kurzinterventionen und Zwischenfragen, zum Inhalt hat. In der nächsten Sitzungswoche können wir dann sicher entsprechend wieder in die Debatte einsteigen.</p>
           <p>Ich schließe die Aussprache.</p>
@@ -2009,6 +2143,7 @@
           <p>Wir sind damit am Schluss unserer heutigen Tagesordnung.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 23. März 2011, 13 Uhr, ein.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluss: 15.18 Uhr)</stage>
         </sp>
       </div>
     </body>

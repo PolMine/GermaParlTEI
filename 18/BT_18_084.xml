@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-07</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://www.bundestag.de/blob/359784/c65a2ff20a394e8caec5d0c529875670/18084-data.txt</url>
-        <date>2015-10-20 20:01:36</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -35,16 +35,16 @@
   </teiHeader>
   <text>
     <body>
-      <div type="agenda_item" n="1" what="interrogation" desc="Befragung der Bundesregierung ">
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+      <div type="agenda_item" n="1" what="interrogation" desc="Befragung der Bundesregierung">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Nehmen Sie bitte Platz. Die Sitzung ist eröffnet.</p>
           <p>Liebe Kolleginnen und Kollegen! Ich begrüße Sie herzlich und rufe unseren ersten Tagesord-nungspunkt, den Tagesordnungspunkt 1, auf:</p>
-          <p>Befragung der Bundesregierung </p>
+          <p>Befragung der Bundesregierung</p>
           <p>Die Bundesregierung hat als Thema der heuti-gen Kabinettssitzung mitgeteilt: Entwurf eines Gesetzes zur Änderung des Bundesminister-gesetzes und des Gesetzes über die Rechts-verhältnisse der Parlamentarischen Staatssek-retäre.</p>
           <p>Hierzu erteile ich dem Bundesinnenminister für seinen einleitenden Bericht das Wort. Wenn es, wie absehbar, Fragen dazu gibt, wäre ich im Übri-gen dankbar, wenn mir die Geschäftsführer die Wortmeldungen aus den Fraktionen jetzt schon mitteilten; dann kann man diese schon ein biss-chen vorsortieren.</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Mit dem vom Präsidenten genannten Gesetzent-wurf wird geregelt, dass amtierende und ehemali-ge Mitglieder der Bundesregierung anzuzeigen haben, wenn sie beabsichtigen, innerhalb von 18 Monaten nach ihrem Ausscheiden aus der Bun-desregierung einer Erwerbstätigkeit oder sonsti-gen Beschäftigung außerhalb des öffentlichen Dienstes nachzugehen.</p>
           <p>Die angestrebte Beschäftigung kann dann un-tersagt werden, wenn durch ihre Aufnahme öffent-liche Interessen beeinträchtigt werden können. Die Untersagung soll in der Regel ein Jahr nicht überschreiten. In Ausnahmefällen kann der Zeit-raum bis zu 18 Monate betragen.</p>
@@ -55,85 +55,85 @@
           <p>Mit dem Gesetz soll der Anschein einer vorein-genommenen Amtsführung im Hinblick auf späte-re Karriereaussichten oder durch die private Ver-wertung von Amtswissen nach dem Ausscheiden aus dem Amt verhindert werden. Zugleich schüt-zen die Vorschriften den Betroffenen vor Unsi-cherheiten und ungerechtfertigter Kritik, insbe-sondere dann, wenn das beratende Gremium und das Kabinett sagen: Hier ist kein Interessenkon-flikt zu befürchten.</p>
           <p>Das beendet meinen einführenden Bericht.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Vielen Dank. – Ich bitte nun zunächst um Wortmeldungen zu dem vorgestellten Thema der heutigen Kabinettssitzung.</p>
           <p>Die erste Wortmeldung hat die Kollegin Wawzyniak.</p>
         </sp>
-        <sp who="Halina Wawzyniak" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Halina Wawzyniak">
+        <sp who="Halina Wawzyniak" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Halina Wawzyniak" party="DIE LINKE" name="Halina Wawzyniak">
           <speaker>Halina Wawzyniak (DIE LINKE):</speaker>
           <p>Herr de Maizière, erlauben Sie mir, bevor ich meine Frage stelle, einen gewissen Unmut auszu-drücken. Gestern haben wir in der Süddeutschen Zeitung einen Teil des Gesetzentwurfes lesen können. Er ist zitiert worden. Nach § 48 Absatz 2 der Gemeinsamen Geschäftsordnung der Bun-desministerien ist es eigentlich üblich, dass der Gesetzentwurf den Fraktionen zur Verfügung ge-stellt wird. Nach meinem Kenntnisstand haben wir ihn nicht bekommen. Das ist, vorsichtig gesagt, suboptimal.</p>
           <p>Meine Frage ist: Sie haben gesagt, dass es sich um eine Kannregelung handelt. Mich interes-siert, warum Sie sich für eine Regelung entschie-den haben, nach der die angestrebte Beschäfti-gung untersagt werden kann, und warum Sie nicht zunächst eine Pflichtkarenzzeit eingeführt haben, also eine Umkehrung des Verhältnisses in der Form, dass sozusagen ein Wechsel genehmigt werden kann. Jetzt soll es nur möglich sein, die-sen Wechsel zu untersagen. Warum dieses Ver-hältnis?</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Frau Abgeordnete, wir haben den Anwendungs-bereich breit gewählt. Deswegen folgt daraus eine Kannregelung. Was meine ich damit? Der Anwen-dungsbereich bezieht sich auf Erwerbstätigkeiten, die alle entgeltlichen, auch freiberufliche oder selbstständige Tätigkeiten umfassen, aber auch sonstige Beschäftigungsverhältnisse, also auch unentgeltliche Tätigkeiten. Das gilt selbstver-ständlich auch in Fällen, in denen ein Minister o-der eine Ministerin in seinen oder ihren ehemali-gen Beruf zurückkehrt. Wenn der Bereich so weit gefasst ist, dann ist es nicht sinnvoll, eine zwin-gende Karenzzeit einzuführen.</p>
           <p>Das ist im Übrigen ein Eingriff in das in Arti-kel 12 Grundgesetz verankerte Grundrecht, die Freiheit der Berufsausübung. Das muss natürlich auch verhältnismäßig sein.</p>
           <p>Wenn wir den Wechsel von der Politik in die Wirtschaft, der Wirtschaft in die Politik oder ande-ren öffentlichen oder privaten Bereichen in die Po-litik wollen und nicht nur Berufspolitiker haben wollen, die keinerlei Berufserfahrung haben, dann kommt es nicht darauf an, dass man überhaupt keine Tätigkeit mehr ausübt, nachdem man Mit-glied der Bundesregierung war, sondern es kommt darauf an, ob ein Interessenkonflikt vor-liegt – das ist der entscheidende Punkt –, ob also zu befürchten ist, dass aus der Tätigkeit in der Bundesregierung ein besonderer Vorteil erwächst oder ob aus den Beziehungen aufgrund der Mit-gliedschaft zur Bundesregierung besondere Vor-teile für den zukünftigen Arbeitgeber entstehen. Dieser Interessenkonflikt soll verhindert werden; nur der. Deswegen ist eine solche Kannregelung sehr präzise und sehr sinnvoll.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
-          <p>Ich erinnere noch einmal an unser Zeitregime: jeweils eine Minute. Da es viele Fragen gibt, gibt es auch viele Möglichkeiten, zu antworten. </p>
+          <p>Ich erinnere noch einmal an unser Zeitregime: jeweils eine Minute. Da es viele Fragen gibt, gibt es auch viele Möglichkeiten, zu antworten.</p>
           <p>Die nächste Frage stellt die Kollegin Haßel-mann.</p>
           <p>Britta Haßelmann (BÜNDNIS 90/DIE GRÜ-NEN):</p>
           <p>Vielen Dank, Herr Präsident. Vielen Dank auch, Herr Minister, für die Ausführungen. – Meine Fra-ge lautet: Warum wird die in der Europäischen Kommission -geltende Karenzzeitregelung für ausgeschiedene Kommissionsmitglieder von 18 Monaten bei dem heute verabschiedeten Ge-setzentwurf der Bundesregierung unterlaufen? Warum haben Sie sich für einen Regelzeitraum von 12 Monaten entschieden?</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Die Regelung der Europäischen Kommission war für uns ein maßgeblicher Punkt. Wir haben in diesem Gesetzentwurf vor allen Dingen eine strenge Anzeigepflicht geregelt, von der ich nicht genau weiß, ob sie in der Kommission auch so streng ist. Dies soll auch zu Rechtssicherheit für den Betroffenen führen. Vor diesem Hintergrund ist die Sollbestimmung von einem Jahr bis zu ma-ximal 18 Monaten, glaube ich, eine richtige Abwä-gung zwischen dem Wunsch von jemandem, der aus der Bundesregierung ausscheidet oder als Parlamentarischer Staatssekretär ausscheidet, wieder in seinen alten Beruf zurückzukehren oder einen neuen Beruf auszuüben, und der Verhinde-rung der Erweckung des Anscheins einer Interes-senverknüpfung.</p>
           <p>Das A und O – das hat die Abgeordnete der Linken schon gefragt – ist: Machen wir eine strenge Frist ohne Ermessen, oder machen wir eine Kannregelung, die auf den Interessenunter-schied abstellt?</p>
           <p>Wenn man eine Kannregelung macht, die auf den Interessenkonflikt abstellt, dann muss man auch bei der Dauer der Karenzzeit flexibel sein: Es kann weniger als ein Jahr sein, es kann aber auch bis zu 18 Monaten sein. Die Tatsache, dass wir uns durch ein Gremium beraten lassen und des-sen Empfehlung auch veröffentlicht wird, zeigt, dass im Einzelfall eine kluge Abwägung erfolgen muss und wird.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Minister, bei uns ist die Zeitvorgabe nicht ganz so flexibel wie die Regelung, die Sie gerade vorstellen. Deswegen will ich noch einmal daran erinnern.</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Okay, ich antworte kürzer.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Die nächste Frage hat die Kollegin Sitte.</p>
         </sp>
-        <sp who="Dr. Petra Sitte" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Petra Sitte">
+        <sp who="Petra Sitte" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Petra Sitte" party="DIE LINKE" name="Petra Sitte">
           <speaker>Dr. Petra Sitte (DIE LINKE):</speaker>
           <p>Herr Minister, meine Frage bezieht sich auf die dreiköpfige Kommission, die am Ende beraten soll, Empfehlungen geben soll. Da gab es ja mal eine Ethikkommission; ich weiß jetzt nicht genau, wie sie am Ende in diesem Gesetz bezeichnet wird. Warum haben Sie sich für dieses Konstrukt entschieden, und welche Verbindlichkeit wird die Empfehlung der Kommission vor diesem Hinter-grund am Ende wirklich haben?</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Wir haben uns für diese Konstruktion entschie-den, damit nicht der Eindruck entsteht, dass die Bundesregierung über ehemalige Kollegen sozu-sagen alleine entscheidet. Es sollte ein auswärti-ges Element hinzukommen, aber, ehrlich gesagt, nicht der Deutsche Bundestag; denn es geht da ja um eine Entscheidung der Bundesregierung. Über die Frage der Interessenkollision bei Abgeordne-ten nach ihrem Ausscheiden muss der Deutsche Bundestag entscheiden. In der Kommission sollen aber Leute sein, die mit der Materie vertraut sind, die Bundesminister waren, die andere öffentliche Einrichtungen geleitet haben. Durch die Tatsache, dass eine Empfehlung der Kommission zwingend vorliegen muss und veröffentlicht wird, und auf-grund der Qualität der Leute, die in ihr vertreten sind, wird diese Empfehlung ein ziemlich überra-gendes Gewicht bekommen.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Keul.</p>
         </sp>
-        <sp who="Katja Keul" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Katja Keul">
+        <sp who="Katja Keul" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Katja Keul" party="GRUENE" name="Katja Keul">
           <speaker>Katja Keul (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Vielen Dank. – Herr Minister, ich wollte an die-ser Stelle ursprünglich die Frage nach den Sank-tionen stellen, die verhängt werden, wenn jemand eine Tätigkeit ausübt, bei der eine Interessenkolli-sion besteht. Aber jetzt habe ich eine ganz andere Frage: Sie haben ja gerade davon gesprochen, dass es ein Übergangsgeld geben soll. Ist es denn ein zusätzliches Übergangsgeld oder ein verlängerter Bezug des Übergangsgeldes, oder ist es das ganz normale Übergangsgeld, das je-dem Minister zusteht?</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Es ist das ganz normale Übergangsgeld, des-sen Bezugsdauer aber gegebenenfalls bei kurzen Amtszeiten für die Dauer der Karenzzeit entspre-chend verlängert wird – kein zusätzliches Geld.</p>
           <stage type="interjection">(Halina Wawzyniak [DIE LINKE]: Wow!)</stage>
           <p>Zur ersten Frage, die Sie nicht gestellt haben, aber gerne gestellt hätten, will ich gerne sagen: Es gibt keine Sanktionen. Die öffentliche Kritik wird schon ihre Wirkung entfalten.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Kassner.</p>
         </sp>
-        <sp who="Kerstin Kassner" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Kerstin Kassner">
+        <sp who="Kerstin Kassner" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Kerstin Kassner" party="DIE LINKE" name="Kerstin Kassner">
           <speaker>Kerstin Kassner (DIE LINKE):</speaker>
           <p>Vielen Dank, Herr Präsident. – Sehr geehrter Herr Innenminister de Maizière, ich habe die Fra-ge: Wie würde sich der Wechsel der Parlamenta-rischen Staatssekretärin im Verkehrsministerium zum Verband kommunaler Unternehmen gestal-ten, falls dieses Gesetz mit den entsprechenden Karenzzeiten schon in Kraft wäre?</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Die Parlamentarische Staatssekretärin Reiche ist noch gar nicht gewählt. Deswegen stellt sich die Frage nicht.</p>
           <stage type="interjection">(Volker Beck [Köln] [BÜNDNIS 90/DIE GRÜNEN]: Die Anzeigepflicht wäre schon gegeben!)</stage>
           <p>Es käme dann auf die Abwägung im Einzelfall an.</p>
           <p>Jedenfalls will ich sagen: Wir haben die Tätig-keit im öffentlichen Dienst insoweit ausgenom-men, weil wir davon ausgehen, dass der öffentli-che Dienst per se gemeinwohlorientiert ist. Neh-men wir mal an, ein Parlamentarischer Staatssek-retär wird Landesminister: Dann wird man ja keine Karenzzeit und auch kein solches Verfahren ver-langen. Oder nehmen wir an, ein Minister über-nimmt eine andere öffentliche Funktion, wird Prä-sident der Bundesbank oder so: Da wird man auch keine Karenzzeit verlangen; das ist ja öffentlicher Dienst. Anders verhält es sich bei Bundesbeteili-gungen; da gilt die Regelung. Der VKU ist als Verein organisiert. Von daher wäre das schon einmal keine Tätigkeit im öffentlichen Dienst.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Kollege Beck.</p>
           <p>Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜ-NEN):</p>
@@ -143,41 +143,41 @@
           <p>Dr. Thomas de Maizière, Bundesminis-ter des Innern:</p>
           <p>Herr Abgeordneter Beck, ich lese § 6 b des Gesetzentwurfes als eigenständige Regelung. Ei-ne Untersagung kann demzufolge auch erfolgen, wenn keine Anzeige vorgelegen hat; denn sonst wäre die entsprechende Entscheidung in der Tat von der Anzeigepflicht abhängig. Aber das können wir im Laufe der Gesetzesberatungen sicher noch einmal klarstellen.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Kollege Petzold.</p>
         </sp>
-        <sp who="Harald Petzold" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Harald Petzold">
+        <sp who="Harald Petzold (Havelland)" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Harald Petzold (Havelland)" party="DIE LINKE" name="Harald Petzold">
           <speaker>Harald Petzold (Havelland) (DIE LINKE):</speaker>
           <p>Vielen Dank, Herr Präsident. – Herr Innenminis-ter, ich möchte Sie fragen, was die Gründe dafür waren, dass sich die Bundesregierung für eine Anzeigepflicht mit grundsätzlicher Genehmigung entschieden hat und nicht für eine Genehmi-gungspflicht mit grundsätzlichem Tätigkeitsver-bot?</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Herr Abgeordneter, ich habe die Frage nicht ganz genau verstanden.</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Wir auch nicht!)</stage>
           <p>Es ist aber so: Die Bundesregierung weiß nicht genau, was ein ehemaliger Bundesminister tut. Es muss auch möglich sein, dass ein ehemaliger Bundesminister oder eine ehemalige Bundesmi-nisterin Gespräche über eine mögliche Tätigkeit führt. Diese müssen ja nicht zum Erfolg führen. Deswegen ist die Anzeigepflicht – das ergibt sich aus der Begründung – an einen gewissen Konkre-tisierungsgrad geknüpft; das ist auch richtig so. Es ist von daher richtig, als ersten Anknüpfungs-punkt die Anzeige des Betroffenen vorzusehen statt eine Ermittlungsbefugnis der Bundesregie-rung gegenüber ehemaligen Mitgliedern, die an-bahnende Gespräche führen.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Kollege Krischer.</p>
         </sp>
-        <sp who="Oliver Krischer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Oliver Krischer">
+        <sp who="Oliver Krischer" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Oliver Krischer" party="GRUENE" name="Oliver Krischer">
           <speaker>Oliver Krischer (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Bundesminister, seit wann ist der Bundes-regierung der mögliche Wechsel der Parlamenta-rischen Staatssekretärin Katherina Reiche zum VKU bekannt? Welche Konsequenzen hätte das, wenn die Regelungen, die im neuen Gesetzent-wurf enthalten sind, bereits gelten würden, bzw. gibt es in der aktuellen Situation schon Konse-quenzen in Bezug auf die mögliche Tätigkeit der Kollegin Katherina Reiche?</p>
           <stage type="interjection">(Marian Wendt [CDU/CSU]: Ist schon be-antwortet worden!)</stage>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Einen Teil der Fragen habe ich schon in meiner Antwort auf die Frage einer Kollegin der Linken beantwortet.</p>
           <p>Wann das der Bundesregierung insgesamt be-kannt war, weiß ich nicht. Mir, als federführendem Minister, war das seit einigen Tagen aus der Presse bekannt; vorher wusste ich das nicht. Die Überlegungen hinsichtlich einer Karenzzeit hinge-gen entstammen der Koalitionsvereinbarung und entsprangen aus Gesprächen, die wir im vergan-genen Herbst geführt haben. Der erste Entwurf ei-nes solchen Gesetzes ist lange vor Weihnachten erarbeitet worden. Wir sind auch in die Ressort-abstimmung gegangen, und zwar lange vor dem von Ihnen genannten Vorgang. Von daher sehe ich da keinen Zusammenhang – jedenfalls nicht vonseiten der Bundesregierung.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Baerbock.</p>
           <p>Annalena Baerbock (BÜNDNIS 90/DIE GRÜ-NEN):</p>
           <p>Herr Minister, daran anknüpfend, da die Frage nach einer Karenzzeit und Verhalten von Politikern nicht nur die Regierung, sondern auch die Politik im Allgemeinen betrifft, die Frage: Inwieweit ist für den Übergangszeitraum, bis das Gesetz in Kraft tritt, innerhalb der Bundesregierung eine Selbst-verpflichtung vorgesehen, damit kurz vor der Ver-abschiedung des Gesetzes nicht sozusagen noch einmal schnell ein nahtloser Übergang erfolgen kann? Inwieweit wirken Minister, die derzeit einen solchen Schritt in Erwägung ziehen, an der Ge-setzgebung mit?</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Die Minister, die im Amt sind, planen nicht schon jetzt ihre Erwerbstätigkeit nach dem Aus-scheiden, weil sie ja die Absicht haben, möglichst lange Mitglied der Bundesregierung zu bleiben;</p>
           <stage type="interjection">(Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN]: Na ja! Man weiß es nicht!)</stage>
@@ -189,29 +189,29 @@
           <p>– Ja, die Mitglieder der Bundesregierung und die Parlamentarischen Staatssekretäre der aktuellen Bundesregierung wissen, was sich gehört.</p>
           <stage type="interjection">(Lachen bei Abgeordneten des BÜND-NISSES 90/DIE GRÜNEN – Britta Haß-elmann [BÜNDNIS 90/DIE GRÜNEN]: Das sehen wir ja an Frau Reiche!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
-          <p>Frau Wawzyniak. </p>
+          <p>Frau Wawzyniak.</p>
         </sp>
-        <sp who="Halina Wawzyniak" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Halina Wawzyniak">
+        <sp who="Halina Wawzyniak" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Halina Wawzyniak" party="DIE LINKE" name="Halina Wawzyniak">
           <speaker>Halina Wawzyniak (DIE LINKE):</speaker>
           <p>Ich würde die Bundesregierung gerne fragen, warum sie sich nicht für eine angemessene, er-forderliche und rechtskonforme Regelung ent-schieden hat, die so aussehen könnte, dass sich die Karenzzeit an der Dauer des Amtes, dem sich daraus ergebenden Anspruch auf Übergangsgeld und der Ressortzuständigkeit orientiert. Dann hät-ten Sie auch nicht das Problem mit dem Über-gangsgeld, das Sie angesprochen haben, und müssten nicht § 14 Absatz 2 Bundesministerge-setz ändern, der das Übergangsgeld an den Zeit-raum der Wahrnehmung des Amtes koppelt. Nach Ihrem Vorschlag würde es – das haben Sie auch gesagt – ein zusätzliches Übergangsgeld geben. Insofern bin ich auf Ihren Vorschlag zur Änderung von § 14 Absatz 2 Bundesministergesetz ge-spannt.</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Ich glaube, dass die Regelung, die wir vorge-schlagen haben, viel flexibler ist als die starre Ab-stellung auf die Amtszeit. Ich will Ihnen ein Bei-spiel nennen: Wenn ein Minister nur kurze Zeit im Amt gewesen ist – diesen Fall hatten wir vor kur-zem –, dann hielte ich es, obwohl er nur wenige Monate im Amt war, für ein Problem, wenn er meinetwegen im Landwirtschaftsbereich eine Er-werbstätigkeit übernehmen würde. Dagegen wür-de der jetzige Landwirtschaftsminister, der viele Jahre Staatssekretär im Verteidigungsministerium gewesen ist, meines Erachtens nicht ohne Weite-res, wenn er jetzt aus dem Amt schiede, eine Tä-tigkeit im Rüstungsbereich übernehmen können, weil er ganz lange Staatssekretär im Verteidi-gungsministerium war. Das heißt, es kommt nicht auf die Länge der Amtszeit an, sondern es kommt darauf an, ob ein Interessenkonflikt zu befürchten ist.</p>
           <p>Außerdem muss man berücksichtigen, dass die Länge der Amtszeit auch ein bisschen mit dem Lebensalter zusammenhängt. Normalerweise ist, wenn man 65 Jahre oder älter ist – bei Herrn Schäuble ist das immer etwas anders –, der Wunsch, erwerbstätig zu sein, geringer.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Aber in der Regel ist die Lebenszeit länger als die Amtszeit.</p>
           <stage type="interjection">(Heiterkeit)</stage>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Ja, aber wenn man mit 40 Jahren ausscheidet, ist das Interesse an einer Erwerbstätigkeit größer, als wenn man mit 60 Jahren ausscheidet. Deswe-gen ist die Länge der Amtszeit da kein richtiges Kriterium.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Haßelmann.</p>
           <p>Britta Haßelmann (BÜNDNIS 90/DIE GRÜ-NEN):</p>
@@ -220,63 +220,63 @@
           <stage type="interjection">(Marian Wendt [CDU/CSU]: Schröder! Fi-scher! – Manfred Grund [CDU/CSU]: Berninger!)</stage>
           <p>Mich würde Folgendes interessieren: Würden Sie sagen, dass das schwere Fälle sind – von Kla-eden könnte ich noch nennen –, bei denen man annehmen würde, dass eine Karenzzeit von 18 Monaten gerechtfertigt ist, weil klar ist, dass das Insiderwissen – ich sage das jetzt mit meinen Worten – aus der Tätigkeit in der Regierung für das Unternehmen, in das sie wechseln, sehr rele-vant ist? – Ich meine, Herr Niebel war Mitglied des Bundes-sicherheitsrates und ging zur Rüs-tungsindustrie. Herr Pofalla war im Kanzleramt in federführender Funktion für die Bahn zuständig und ging jetzt zur Bahn. Wie muss ich mir vor die-sem Hintergrund die Abwägung – 12 oder 18 Mo-nate – vorstellen?</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Ich möchte zu den Einzelfällen nicht Stellung nehmen. Wir würden dann ja auch eine Empfeh-lung des beratenden Gremiums bekommen. Aber in der Tat ist für die Bemessung der Dauer dieser Untersagung der Nutzen des im Amt erworbenen Wissens ein Kriterium, und zwar das entscheiden-de.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Kassner.</p>
         </sp>
-        <sp who="Kerstin Kassner" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Kerstin Kassner">
+        <sp who="Kerstin Kassner" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Kerstin Kassner" party="DIE LINKE" name="Kerstin Kassner">
           <speaker>Kerstin Kassner (DIE LINKE):</speaker>
           <p>Danke, Herr Präsident. – Sehr geehrter Herr de Maizière, Sie hatten auf meine Frage geantwortet, dass Frau Reiche noch nicht gewählt sei. Deshalb möchte ich meine Frage wiederholen und sie all-gemein formulieren, damit auch die Besucher hier im Saal und andere erfahren, wie man sich das vorstellen kann: Was passiert, wenn ein Mitglied der Bundesregierung ausscheidet und in absehba-rer Zeit eine Tätigkeit übernimmt, die nicht dem öffentlichen Dienst zuzuordnen ist? Was muss da passieren?</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Ich zitiere aus der Begründung, Frau Abgeord-nete. Dort heißt es:</p>
           <p>Die Anzeigepflicht entsteht, sobald die Ab-sicht, eine Erwerbstätigkeit oder Beschäfti-gung aufzunehmen, ein konkretes Stadium er-reicht hat. Ein solches ist erreicht, wenn Vor-bereitungen für die Aufnahme einer Beschäf-tigung getroffen werden, insbesondere wenn Verhandlungen über ein Beschäftigungsver-hältnis vor dem Abschluss stehen oder wenn beabsichtigt ist, auf ein angebotenes Be-schäftigungsverhältnis einzugehen.</p>
           <p>Das heißt, die Nachfrage von irgendeinem Ver-band oder irgendeinem Unternehmen: „Könnten Sie sich vorstellen, bei uns zu arbeiten?“, reicht noch nicht aus. Wenn man aber darauf eingehen will und fragt: „Wann soll es denn losgehen? Was ist mein Aufgabenprofil? Wie wird das bezahlt?“, dann soll vor dem Abschluss der Verhandlungen, also bevor vollendete Tatsachen geschaffen wer-den, die Anzeigepflicht entstehen. All das wird sich in einer Spruchpraxis erweisen.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Keul.</p>
         </sp>
-        <sp who="Katja Keul" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Katja Keul">
+        <sp who="Katja Keul" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Katja Keul" party="GRUENE" name="Katja Keul">
           <speaker>Katja Keul (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ich möchte an meine vorherige Frage bezüglich des Übergangsgeldes anknüpfen. Sie hatten er-klärt, dass es durchaus länger gezahlt wird, wenn eine solche Tätigkeit nicht genehmigt wird. Das verstehe ich nicht ganz. Sie sagen – theoretisch ist es natürlich so –, dass sich alle Mitglieder der Bundesregierung an Recht und Gesetz halten. Der Missbrauch liegt aber sozusagen auf der Hand: Wenn ich mir eine Tätigkeit suche, die offensicht-lich mit einer Interessenkollision verbunden ist, und mir diese untersagt wird, dann bekomme ich länger Übergangsgeld. Das kann eigentlich nicht die Konsequenz sein; denn ich kann mir doch je-derzeit, wenn mir eine Tätigkeit aufgrund einer In-teressenkollision untersagt wird, eine andere Tä-tigkeit suchen; denn ich bin ja nicht erwerbsunfä-hig.</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Wenn man eine andere Tätigkeit wahrnimmt, gibt es auch kein Übergangsgeld. So würde ich das jedenfalls auslegen:</p>
           <p>Wird die Aufnahme einer Erwerbstätigkeit o-der sonstigen Beschäftigung untersagt, so wird das Übergangsgeld – das Übergangsgeld, nicht irgendein anderes – für die Dauer der Untersagung gewährt.</p>
           <p>Wenn man dann eine andere gut bezahlte Tä-tigkeit annimmt, gibt es auch kein Übergangsgeld. Das ergibt sich auch aus den allgemeinen Rege-lungen über die Inanspruchnahme des Über-gangsgeldes. Dafür muss ich hier keine sonstigen Regelungen vorsehen.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege Beck.</p>
           <p>Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜ-NEN):</p>
           <p>Wir haben ja noch keine Erfahrungen dazu, aber Ihr Haus wird sich natürlich mit großer Ex-pertise Gedanken gemacht haben, wann was der Fall sein soll, also wann zum Beispiel eine Unter-sagung erfolgt. Dazu habe ich eine konkrete Nachfrage. Sie schreiben in § 6 b, dass Tätigkei-ten in den Angelegenheiten oder Bereichen nicht ausgeübt werden dürfen, in denen das Mitglied der Bundesregierung während seiner Amtszeit tätig war. Das Gleiche gilt dann analog für Parlamenta-rische Staatssekretäre.</p>
           <p>Deshalb habe ich die abstrakte Frage, ob ein Parlamentarischer Staatssekretär im Ministerium für Verkehr und digitale Infrastruktur, wenn er zum Verband kommunaler Unternehmen gehen würde, nicht unter diese Regelung fallen würde. Zu den kommunalen Unternehmen gehören ja Verkehrs-unternehmen und Energieunternehmen. In meiner Heimatstadt betreibt die GEW das -lokale Ener-gieunternehmen und auch eine Telefongesell-schaft. Das betrifft also die digitale Infrastruktur.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege Beck, Sie achten bitte auf die Re-dezeit.</p>
           <p>Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜ-NEN):</p>
           <p>Würde ein solcher Fall unter diese Regelung fallen?</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Das ist jetzt die Variante einer schon zweimal gestellten Frage. Ich könnte auch abstrakt die Frage stellen, ob dann, wenn ein Landesumwelt-minister Bundesminister würde und hauptamtlicher Geschäftsführer der Verbraucherverbände wäre, auch eine Interessenkollision zu vermuten wäre.</p>
           <stage type="interjection">(Volker Beck [Köln] [BÜNDNIS 90/DIE GRÜ-NEN]: Fragen stellt das Parlament!)</stage>
           <p>Der Punkt ist: Weil wir das nicht im Vorhinein wissen, haben wir – so machen das Juristen – ei-nen unbestimmten Rechtsbegriff formuliert und dann ein Verfahren gewählt, das zu einem siche-ren Ergebnis führt. In diesem Fall heißt das: Wir haben das Gremium und das Kabinett, und die Entscheidung wird veröffentlicht. Dann wird sich das herausstellen. Ob dann die Aufsichtsratstätig-keit für ein Unternehmen, das Energieleitungen herstellt, unter die Regelung fallen würde oder nicht, müsste man im Einzelfall sehen.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Ich habe jetzt noch einmal Wortmeldungen von Frau Wawzyniak, Frau Haßelmann, Herrn Petzold und Frau Keul. Da waren jetzt, teilweise schon mit erkennbar großzügiger Auslegung des Frage-rechts, Fragemöglichkeiten gegeben. Ich habe den Eindruck: Dann ist es auch für heute gut, zu-mal wir über ein Gesetzesvorhaben reden, über das am Ende nicht die Regierung, sondern der Deutsche Bundestag zu beschließen hat, sodass sich manche der Nachfragen und Konkretisie-rungswünsche in diesem Gesetzgebungsverfah-ren ausdrücken können. – Frau Wawzyniak.</p>
           <stage type="interjection">(Volker Beck [Köln] [BÜNDNIS 90/DIE GRÜNEN]: Man muss dazu wissen, was man sich dabei gedacht hat!)</stage>
         </sp>
-        <sp who="Halina Wawzyniak" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Halina Wawzyniak">
+        <sp who="Halina Wawzyniak" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Halina Wawzyniak" party="DIE LINKE" name="Halina Wawzyniak">
           <speaker>Halina Wawzyniak (DIE LINKE):</speaker>
           <p>Bevor ich die Frage stelle, möchte ich zunächst Folgendes sagen: Nach dem Ministergesetz ist es so, dass man, wenn man sechs Monate Minister war, sechs Monate lang Übergangsgeld bekommt. Ich bin gespannt, wie es dann bei einem Jahr Ka-renzzeit ohne Übergangsgeld sein soll. Sie haben ja das Übergangsgeld gesagt.</p>
           <p>Zweitens will ich sagen, dass ich es ausge-sprochen traurig finde, dass wir offensichtlich die einzige Fraktion sind, die diesen Gesetzentwurf nicht kennt. Aber das scheint offensichtlich der Umgang zu sein.</p>
@@ -285,13 +285,13 @@
           <p>Nein, das kann ich nicht bestätigen. – Ich möchte aber die Gelegenheit nutzen, um zu sa-gen, dass es relativ wenige Bundesländer gibt, die eine solche Regelung haben. Das Bundesland, in dem Sie seit vielen Jahren mitregieren, hat eine solche Regelung für Landesminister noch nicht getroffen.</p>
           <stage type="interjection">(Halina Wawzyniak [DIE LINKE]: Ja, und?)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Haßelmann.</p>
           <p>Britta Haßelmann (BÜNDNIS 90/DIE GRÜ-NEN):</p>
           <p>Das macht es in der Sache nicht besser, Herr de Maizière.</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Nein, das ist klar.</p>
           <p>Britta Haßelmann (BÜNDNIS 90/DIE GRÜ-NEN):</p>
@@ -299,7 +299,7 @@
           <p>Ich habe eine ganz konkrete Frage: Wenn Sie sagen, dass das der Rahmen für das Gesetz ist, dass Sie diesen Entwurf jetzt in die parlamentari-schen Beratungen geben wollen – das scheint ja jetzt Ihre Absicht zu sein –, beabsichtigen Sie dann, Frau Katherina Reiche für den Fall, dass sie heute zur Hauptgeschäftsführerin des Verbandes kommunaler Unternehmen gewählt wird, ihren Geschäftsbereich zu entziehen? Denn sie ist ja im Ministerium für Verkehr tätig. Dort ist sie für Re-gionalisierungsmittel, für Entflechtungsmittel, für digitale Wirtschaft etc. zuständig. Nach den von Ihnen gesetzten Maßstäben müsste das dann die logische Konsequenz sein.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Ich will zunächst etwas zu den 14 Monaten sa-gen: 14 Monate für eine neue Bundesregierung finde ich angesichts der Tatsache, dass es 50, 60 Jahre lang keine solche Regelung gegeben hat, nicht besonders langsam. Das muss ich so sa-gen.</p>
           <stage type="interjection">(Volker Beck [Köln] [BÜNDNIS 90/DIE GRÜNEN]: Sie sind schon eine Weile Bundesminister, oder?)</stage>
@@ -309,15 +309,15 @@
           <stage type="interjection">(Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN]: Wieso der Minister?)</stage>
           <p>– Weil der Minister die Aufteilung der Zuständig-keiten zwischen den Parlamentarischen Staats-sekretären und beamteten Staatssekretären nach der Ressorthoheit im eigenen Haus vornimmt. So ist das.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Petzold.</p>
         </sp>
-        <sp who="Harald Petzold" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Harald Petzold">
+        <sp who="Harald Petzold (Havelland)" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Harald Petzold (Havelland)" party="DIE LINKE" name="Harald Petzold">
           <speaker>Harald Petzold (Havelland) (DIE LINKE):</speaker>
           <p>Vielen Dank, Herr Präsident. – Herr Innenminis-ter, ich möchte Sie bitten, uns noch einmal die Zusammensetzung dieser Kommission, die befin-den soll, kurz zu beschreiben.</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Nach dem Gesetzentwurf sollen die Mitglieder Funktionen an der Spitze staatlicher oder gesell-schaftlicher Institutionen wahrgenommen haben, also nicht mehr im Amt sein, oder über Erfahrung in einem wichtigen politischen Amt verfügen. Sie werden auf Vorschlag der Bundesregierung je-weils zu Beginn einer Wahlperiode des Deutschen Bundestages vom Bundespräsidenten berufen und sind ehrenamtlich tätig. Die Mitglieder dieses Gremiums sind auch nach ihrem Ausscheiden zur Verschwiegenheit über die ihnen bei ihrer Tätig-keit bekannt gewordenen Angelegenheiten ver-pflichtet.</p>
           <p>Damit kein Missverständnis aufkommt: Die Bundesregierung wird diese Mitglieder nicht erst zu Beginn der nächsten Legislaturperiode berufen, sondern natürlich sofort nach Inkrafttreten.</p>
@@ -325,28 +325,28 @@
           <p>– Das sind ganz einfache Menschen, die diese Er-fahrung haben. Wir denken an die Zahl drei. Auch das wird natürlich öffentlich mitgeteilt. Hoffentlich sind es ganz einfache Menschen.</p>
           <stage type="interjection">(Lachen bei Abgeordneten des BÜND-NISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Es wird nicht ganz einfach sein, drei ganz ein-fache Menschen in diesem Land zu finden; aber dem sehen wir dann mit Interesse entgegen. – Frau Kollegin Keul.</p>
         </sp>
-        <sp who="Katja Keul" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Katja Keul">
+        <sp who="Katja Keul" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Katja Keul" party="GRUENE" name="Katja Keul">
           <speaker>Katja Keul (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr de Maizière, wir hatten ja beide in der letz-ten Legislatur des Öfteren die Gelegenheit, uns mit dem Soldatengesetz zu beschäftigen. Da gibt es ja eine ähnliche Regel. In § 20 a des Soldaten-gesetzes ist eine Anzeigepflicht von fünf Jahren vorgesehen. Bei einer Interessenkollision kann ei-ne entsprechende Tätigkeit für fünf Jahre unter-sagt werden. Wer dagegen verstößt, erhält Dis-ziplinarmaßnahmen bis hin zu Strafverfahren. Aber dort ist die Logik: Wenn ich aufgrund von Interes-senkollisionen innerhalb der fünf Jahre eine Tätig-keit nicht ausüben darf, erhalte ich nicht etwa eine Entschädigung, sondern muss mir schlicht einen anderen Job suchen. Ich verstehe Sie jetzt so, dass es hier nicht vergleichbar geregelt werden soll.</p>
           <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNIS-SES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Das verstehen Sie richtig. Das Übergangsgeld wird für die Zeit der Untersagung verlängert; das ist kein zusätzliches. So ist es.</p>
           <stage type="interjection">(Katja Keul [BÜNDNIS 90/DIE GRÜNEN]: Das ist doch aber ein zusätzliches, wenn es verlängert wird!)</stage>
           <p>– Die Dauer wird verlängert.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Gibt es Fragen zu anderen Themen der heuti-gen Kabinettssitzung? – Das ist offenkundig nicht der Fall.</p>
           <stage type="interjection">(Zurufe von der LINKEN: Doch!)</stage>
           <p>– Kabinettssitzung? – Okay, Frau Sitte, bitte schön.</p>
         </sp>
-        <sp who="Dr. Petra Sitte" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Petra Sitte">
+        <sp who="Petra Sitte" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Petra Sitte" party="DIE LINKE" name="Petra Sitte">
           <speaker>Dr. Petra Sitte (DIE LINKE):</speaker>
           <p>Danke schön. – Wenn das, was ich gelesen habe, richtig ist, dann haben Sie sich heute im Kabinett mit einem Gesetzentwurf im Hinblick auf ausreisende Dschihadisten beschäftigt. – Jetzt ni-cken Sie; dann kann ich meine Frage also stellen.</p>
           <p>Im Kontext dieser ganzen Diskussion ist immer wieder – ich weiß natürlich nicht, ob dazu auch etwas in diesem Gesetzentwurf steht – über den Ausweisentzug gesprochen worden. Nun habe ich mich gefragt: Wie kann das eigentlich mit dem Grundgesetz zusammenpassen? Da war ich dem früheren Präsidenten des Bundesverfassungsge-richts Hans-Jürgen Papier sehr dankbar, der öf-fentlich gesagt hat, er halte das für rechtlich frag-würdig. Ausreisefreiheit sei ein zentrales Men-schenrecht, sagte er und fügte hinzu – ich zitiere –:</p>
@@ -354,57 +354,57 @@
           <p>Niemand dürfe aus vagen Verdachtsgründen da-ran gehindert werden, das Land zu verlassen. Dies wäre weder mit dem Grundgesetz noch mit der Europäischen Menschenrechtskonvention vereinbar.</p>
           <p>Nun frage ich Sie – unabhängig davon, ob dazu etwas in dem Gesetzentwurf steht; erst recht na-türlich, wenn dazu etwas drinsteht –: Wie stehen Sie zu dieser Aussage?</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Darf ich das beantworten? Das war nämlich nicht Gegenstand der Kabinettsberatung, Herr Präsident. Aber ich beantworte die Frage gerne.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Bitte.</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Gut, ich darf. – Wir haben heute auf Vorschlag meines Kollegen Maas in der Tat beschlossen, den Paragrafen im Strafgesetzbuch zum Thema Reisen zu erweitern. Den anderen Gesetzentwurf, über den Sie gesprochen haben, habe ich vor ei-nigen Wochen im Rahmen einer Regierungsbe-fragung erläutert. Wir hatten am letzten Freitag die erste Lesung exakt dieses Gesetzentwurfes.</p>
           <p>Dessen ungeachtet beantworte ich die Frage wie folgt: Ich teile die Auffassung von Herrn Pro-fessor -Papier ausdrücklich nicht. Ich finde es richtig, dazu beizutragen, dass aus Deutschland kein Terrorismus in die Welt exportiert wird. Schon nach geltendem Recht können die Ausreise mittels eines Passes und die Ausreise generell untersagt werden, wenn eine Gefahr für die öffent-liche Sicherheit und Ordnung vorliegt. Insofern hätte dieses Petitum schon viel früher erfolgen müssen.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Eine Nachfrage? – Frau Sitte.</p>
         </sp>
-        <sp who="Dr. Petra Sitte" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Petra Sitte">
+        <sp who="Petra Sitte" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Petra Sitte" party="DIE LINKE" name="Petra Sitte">
           <speaker>Dr. Petra Sitte (DIE LINKE):</speaker>
           <p>Nur um die Peinlichkeit von mir zu nehmen: Ich habe mich im Kern meiner Frage auf genau diesen Gesetzentwurf bezogen. Wenn man googelt und zu ungenau hinschaut, passieren solche Fehler manchmal.</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Alles klar.</p>
         </sp>
-        <sp who="Dr. Petra Sitte" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Petra Sitte">
+        <sp who="Petra Sitte" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Petra Sitte" party="DIE LINKE" name="Petra Sitte">
           <speaker>Dr. Petra Sitte (DIE LINKE):</speaker>
           <p>Danke.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das muss nicht beantwortet werden. – Kollege Koenigs, dazu?</p>
           <stage type="interjection">(Tom Koenigs [BÜNDNIS 90/DIE GRÜ-NEN]: Nein, nicht dazu!)</stage>
           <p>– Nicht dazu.</p>
           <p>Zu einer Frage an die Bundesregierung zu ei-nem anderen Thema hat sich Frau Pothmer ge-meldet. Weitere Wortmeldungen notiere ich gerne.</p>
         </sp>
-        <sp who="Brigitte Pothmer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Brigitte Pothmer">
+        <sp who="Brigitte Pothmer" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Brigitte Pothmer" party="GRUENE" name="Brigitte Pothmer">
           <speaker>Brigitte Pothmer (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ich habe eine Frage zu den Mindestlohnrege-lungen. Es ist ja so, dass ganz offensichtlich so-wohl innerhalb der Bundesregierung als auch in-nerhalb der Koalitionsfraktionen sehr unterschied-liche Auffassungen darüber bestehen, wann die Mindestlohnregelungen überprüft oder ob sie gar ausgesetzt werden sollen. So sagt Bundesar-beitsministerin Nahles, dass sie eine Prüfung bis zum Sommer dieses Jahres vornehmen will, die Bundeskanzlerin spricht von einer Überprüfung bis Ostern dieses Jahres, und die CSU will sogar ein Moratorium, was die Kontrollen betrifft. Ich frage die Bundesregierung: Kann sie uns heute und hier zusichern, dass es kein Kontrollmoratorium geben wird und dass die Überprüfung der Regelungen zum Mindestlohn wie vorgesehen am 1. März die-ses Jahres in vollem Umfang stattfinden kann?</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Herr Präsident, jetzt muss ich eine Frage zur Geschäftsordnung stellen. Ich habe sie so ver-standen, dass sich die Befragung eines Mitglieds der Bundesregierung auf das bezieht, was heute im Kabinett erörtert worden ist. Das Thema Min-destlohn ist heute nicht erörtert worden. Wenn da-raus jetzt eine allgemeine Regierungsbefragung werden soll, was ja in der Diskussion ist – –</p>
           <stage type="interjection">(Uwe Kekeritz [BÜNDNIS 90/DIE GRÜ-NEN]: Genau! Da sind wir jetzt!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Nein, nein, nein. Das ist nicht in der Diskussi-on. Das ist geltende Geschäftsordnung.</p>
           <stage type="interjection">(Brigitte Pothmer [BÜNDNIS 90/DIE GRÜNEN]: Ja!)</stage>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Gut, dann will ich die Frage gerne beantworten.</p>
           <stage type="interjection">(Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN]: Das wäre schön!)</stage>
@@ -412,71 +412,71 @@
           <stage type="interjection">(Brigitte Pothmer [BÜNDNIS 90/DIE GRÜNEN]: Das heißt, die Kontrollen be-ginnen am 1. März?)</stage>
           <p>– Ich habe gesagt: Es ist ein Gesetz in Kraft ge-treten, und das gilt.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Kollege Koenigs.</p>
         </sp>
-        <sp who="Tom Koenigs" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Tom Koenigs">
+        <sp who="Tom Koenigs" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Tom Koenigs" party="GRUENE" name="Tom Koenigs">
           <speaker>Tom Koenigs (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Minister, ist heute im Kabinett die gesetz-liche Grundlage für das Deutsche Institut für Men-schenrechte beschlossen worden?</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Nein.</p>
           <stage type="interjection">(Tom Koenigs [BÜNDNIS 90/DIE GRÜ-NEN]: Gibt es eine Begründung?)</stage>
           <p>– Ja. Das stand nicht auf der Tagesordnung.</p>
           <stage type="interjection">(Heiterkeit bei Abgeordneten der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Kollegin Keul, Sie wollen jetzt sicher fra-gen, warum das nicht auf der Tagesordnung stand.</p>
         </sp>
-        <sp who="Katja Keul" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Katja Keul">
+        <sp who="Katja Keul" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Katja Keul" party="GRUENE" name="Katja Keul">
           <speaker>Katja Keul (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herrn Lammert interessiert das offensichtlich sehr. Soll ich diese Frage jetzt stellen? Dann müssten Sie mich aber hinterher noch einmal drannehmen. Ich denke, wir alle wissen, warum dieses Thema nicht auf der Tagesordnung stand.</p>
           <p>Ich möchte Sie Folgendes fragen: Sie haben heute im Kabinett ja auch über Strafverschärfun-gen im Hinblick auf die Reisetätigkeit und die Ter-rorismusfinanzierung gesprochen. Wir kennen bisher nur den Referentenentwurf und hatten jede Menge Fragen dazu, über die wir im Rechtsaus-schuss ausführlich gesprochen haben und die ich in diesem Kreise gar nicht wiederholen will. Das ist ein sehr komplexes verfassungsrechtliches Problem.</p>
           <p>Wie kam es aber eigentlich, dass das plötzlich schon kabinettsreif war? Das ging jetzt doch ein bisschen schnell. Wie viele Bundesländer haben bisher zum Beispiel die Gelegenheit genutzt, Stel-lung zu diesem Gesetzentwurf zu nehmen?</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Über die Einzelheiten der Länderanhörungen kann ich jetzt keine Auskunft geben. Ich kann Ihnen aber sagen, dass mein Kollege Maas ur-sprünglich angekündigt hatte, den Gesetzentwurf schon im Januar 2015 vorzulegen. Jetzt ist es der 4. Februar geworden.</p>
           <p>Das ist auch überhaupt keine neue Angelegen-heit; wir haben darüber schon im September, Ok-tober, November letzten Jahres diskutiert. Die Ressortabstimmung geschah zügig, was ange-sichts der Terrorlage auch angemessen war. Deswegen haben wir das heute beschlossen.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Haßelmann.</p>
           <p>Britta Haßelmann (BÜNDNIS 90/DIE GRÜ-NEN):</p>
           <p>Vielen Dank. – Herr Minister, Sie haben gerade schon auf die Frage meiner Kollegin Pothmer eine knappe Antwort gegeben. Mich interessiert in die-sem Zusammenhang die Antwort auf die Frage: Planen Sie, Veränderungen im Hinblick auf das Thema „Bürokratieaufwand und Evaluation“ vorzu-nehmen, oder planen Sie, Veränderungen sehr grundsätzlicher Art – das wurde auch von der CSU durch Herrn Seehofer angekündigt – in Be-zug auf ganze Komplexe des Gesetzes vorzu-nehmen?</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Frau Abgeordnete Haßelmann, es macht wenig Sinn, jetzt von dem nicht zuständigen Minister Aussagen darüber zu erwarten, wenn die zustän-dige Ministerin sagt, dass sie sich den gesamten Sachverhalt – Ehrenamt, Sport, soziales Engage-ment und Ähnliches – erst einmal angucken will. Wenn die zuständige Ministerin sich das ange-guckt hat und wenn wir darüber in der Regierung beraten haben, dann wird meine Kollegin Nahles, so wie ich sie kenne, einen klugen Vorschlag dazu machen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD – Vol-ker Beck [Köln] [BÜNDNIS 90/DIE GRÜ-NEN]: So viel Liebe und Freundschaft war selten!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Hänsel, bitte schön.</p>
         </sp>
-        <sp who="Heike Hänsel" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Heike Hänsel">
+        <sp who="Heike Hänsel" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Heike Hänsel" party="DIE LINKE" name="Heike Hänsel">
           <speaker>Heike Hänsel (DIE LINKE):</speaker>
           <p>Danke schön. – Herr Minister, gestern wurden dem Innenministerium 7 000 Unterschriften gegen ein mögliches deutsch-mexikanisches Sicher-heitsabkommen übergeben. War das Sicherheits-abkommen in irgendeiner Weise heute Thema der Kabinettssitzung? Wenn nicht: Bis wann soll es nach den Planungen Thema sein?</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Frau Abgeordnete, mir ist das Thema natürlich wohlbekannt. Ich bin auch von Abgeordneten des Deutschen Bundestages darauf angesprochen worden. Zusammen mit dem Auswärtigen Amt verhandeln wir sowohl mit Mexiko als auch mit ganz vielen anderen Ländern über Sicherheitsab-kommen, bei denen es um die Zusammenarbeit mit den Sicherheitsbehörden geht.</p>
           <p>Ich habe aber die Bitte zur Kenntnis genommen, dass dieses Abkommen mit Mexiko auch ange-sichts der dortigen Zustände nicht zügig abge-schlossen wird, und wir sind mit dem Auswärtigen Amt darüber im Gespräch, dass dieses Abkom-men alles andere als eilbedürftig ist.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Pothmer noch einmal.</p>
         </sp>
-        <sp who="Brigitte Pothmer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Brigitte Pothmer">
+        <sp who="Brigitte Pothmer" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Brigitte Pothmer" party="GRUENE" name="Brigitte Pothmer">
           <speaker>Brigitte Pothmer (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Vielen Dank, Herr Präsident. – Herr Minister, können Sie uns hier heute zusichern, dass die 1 600 Stellen, die die Finanzkontrolle Schwarzar-beit erhalten soll, um den gesetzlichen Mindest-lohn zu überprüfen, der Finanzkontrolle Schwarz-arbeit in vollem Umfang zur Verfügung gestellt werden,</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Das sind Schaufensterfragen!)</stage>
           <p>insbesondere vor dem Hintergrund der Tatsache, dass der Finanzminister öffentlich die Auffassung vertreten hat, dass es sinnvoller wäre, einen Teil dieser Stellen zur Verbrechensbekämpfung zu nutzen und der Polizei zur Verfügung zu stellen, als einen solchen bürokratischen Aufwand in Be-zug auf den Mindestlohn zu betreiben?</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Nein.</p>
           <stage type="interjection">(Brigitte Pothmer [BÜNDNIS 90/DIE GRÜNEN]: Das können Sie uns nicht versprechen?)</stage>
@@ -485,24 +485,24 @@
           <p>Deswegen war meine Antwort: Nein. Über den Einsatz der Zollbeamten, die ja noch gar nicht da sind, entscheidet der Bundesfinanzminister. Des-wegen möchte ich für den Bundesfinanzminister keine Zusicherung in die eine oder andere Rich-tung abgeben.</p>
           <stage type="interjection">(Volker Beck [Köln] [BÜNDNIS 90/DIE GRÜ-NEN]: Das Finanzministerium ist ja da!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Weitere Wortmeldungen gibt es nicht. – Vielen Dank an den Innenminister.</p>
           <p>Ich schließe hiermit die Regierungsbefragung.</p>
           <p>Ich rufe unseren Tagesordnungspunkt 2 auf:</p>
           <p>Fragestunde</p>
-          <p>Drucksache 18/3887 </p>
+          <p>Drucksache 18/3887</p>
           <p>Ich rufe, wie üblich, die mündlichen Fragen in der Reihenfolge der Geschäftsbereiche der Bundesregierung auf, die Ihnen aus den Un-terlagen bekannt ist. Ich beginne mit dem Bun-desministerium der Justiz und für Verbraucher-schutz. Zur Beantwortung steht der Kollege Chris-tian Lange zur Verfügung.</p>
           <p>Ich rufe die Frage 1 des Kollegen Tom Koenigs auf:</p>
           <p>Welcher inhaltliche Dissens liegt den seit September 2014 andauernden Ressortverhandlungen bzw. der Arbeit der Ko-alitionsarbeitsgruppe zur gesetzlichen Grundlage für das Deut-sche Institut für Menschenrechte e. V., DIMR, zugrunde?</p>
         </sp>
       </div>
       <div type="agenda_item" n="2" what="question_time" desc="Fragestunde">
-        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" party="SPD" name="Christian Lange">
+        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" who_original="Christian Lange" party="SPD" name="Christian Lange">
           <speaker>Christian Lange, Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz:</speaker>
           <p>Vielen Dank, Herr Präsident. Wenn Sie gestat-ten, möchte ich gerne die Fragen 1, 2 und 3 we-gen des Sachzusammenhangs gemeinsam be-antworten.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Wenn die Beteiligten damit einverstanden sind</p>
           <stage type="interjection">(Volker Beck [Köln] [BÜNDNIS 90/DIE GRÜNEN]: Wenn es zu keinem Verlust des Fragerechts führt!)</stage>
@@ -511,315 +511,315 @@
           <p>und die Frage 3 des Kollegen Volker Beck auf:</p>
           <p>In welcher Form sind zum gegenwärtigen Stand die Rechts-form und die Beibehaltung der Unabhängigkeit – das Aufga-benfeld – des DIMR zwischen den Ressorts der Bundesregie-rung bzw. den Koalitionsfraktionen von CDU/CSU und SPD streitig?</p>
         </sp>
-        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" party="SPD" name="Christian Lange">
+        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" who_original="Christian Lange" party="SPD" name="Christian Lange">
           <speaker>Christian Lange, Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz:</speaker>
           <p>Wunderbar. – Dann will ich die drei Fragen wie folgt beantworten: Die Beratungen innerhalb der Koalition dauern derzeit noch an. Eine hierzu ge-bildete Arbeitsgruppe der Koalition prüft derzeit verschiedene Optionen hinsichtlich der für ein Na-tionales Menschenrechtsinstitut nach den Pariser Prinzipien angemessenen Rechtsform ebenso wie die Frage des Umfangs der Aufgaben des Insti-tuts. Dabei verfolgen Ressorts und Koalitionsfrak-tionen gemeinsam das Ziel, bei der Schaffung ei-ner stabilen Grundlage für das Deutsche Institut für Menschenrechte e. V. die Unabhängigkeit des Instituts uneingeschränkt zu erhalten, wie es den Pariser Prinzipien entspricht.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Bitte schön, Herr Kollege Koenigs.</p>
         </sp>
-        <sp who="Tom Koenigs" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Tom Koenigs">
+        <sp who="Tom Koenigs" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Tom Koenigs" party="GRUENE" name="Tom Koenigs">
           <speaker>Tom Koenigs (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Danke sehr für diese sehr aufschlussreiche Antwort. – Treffen Berichte zu, dass das Bundes-kanzleramt das Verfahren angehalten hat, nach-dem die Ressortabstimmung schon einvernehm-lich abgeschlossen war?</p>
         </sp>
-        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" party="SPD" name="Christian Lange">
+        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" who_original="Christian Lange" party="SPD" name="Christian Lange">
           <speaker>Christian Lange, Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz:</speaker>
           <p>Herr Kollege, da Sie das Bundeskanzleramt an-sprechen und der Kollege hier gerade sitzt, möch-te ich die Frage gerne ans Kanzleramt abgeben.</p>
         </sp>
-        <sp who="Tom Koenigs" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Tom Koenigs">
+        <sp who="Tom Koenigs" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Tom Koenigs" party="GRUENE" name="Tom Koenigs">
           <speaker>Tom Koenigs (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ich bin begeistert.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Staatsminister.</p>
         </sp>
-        <sp who="Dr. Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" party="CDU" name="Helge Braun">
+        <sp who="Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" who_original="Helge Braun" party="CDU" name="Helge Braun">
           <speaker>Dr. Helge Braun, Staatsminister bei der Bun-deskanzlerin:</speaker>
           <p>Könnten Sie die Frage bitte wiederholen? Ich habe gerade nicht aufgepasst.</p>
           <stage type="interjection">(Volker Beck [Köln] [BÜNDNIS 90/DIE GRÜNEN]: Sind Sie mit Ihrem Amt über-fordert?)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das ist schon in Ordnung. Die Frage war nicht an ihn gerichtet.</p>
         </sp>
-        <sp who="Tom Koenigs" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Tom Koenigs">
+        <sp who="Tom Koenigs" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Tom Koenigs" party="GRUENE" name="Tom Koenigs">
           <speaker>Tom Koenigs (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Gerne. Ich habe zu leise gesprochen. – Treffen Berichte zu, dass das Bundeskanzleramt das Ver-fahren angehalten hat, nachdem die Ressortab-stimmung schon einvernehmlich abgeschlossen war?</p>
         </sp>
-        <sp who="Dr. Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" party="CDU" name="Helge Braun">
+        <sp who="Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" who_original="Helge Braun" party="CDU" name="Helge Braun">
           <speaker>Dr. Helge Braun, Staatsminister bei der Bun-deskanzlerin:</speaker>
           <p>Beim Deutschen Institut für Menschenrechte? – Das kann ich Ihnen nicht bestätigen. In dem Mo-ment, in dem die Ressortabstimmung einvernehm-lich abgeschlossen wird, kommt es in der Konse-quenz logischerweise zur Befassung im Kabinett. Aus der Tatsache, dass das Thema noch nicht im Kabinett war, können Sie schließen, dass die Ressortabstimmung noch nicht abgeschlossen ist.</p>
         </sp>
-        <sp who="Tom Koenigs" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Tom Koenigs">
+        <sp who="Tom Koenigs" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Tom Koenigs" party="GRUENE" name="Tom Koenigs">
           <speaker>Tom Koenigs (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Hat die Bundeskanzlerin bzw. das Bundeskanz-leramt Bedenken gegen den Gesetzentwurf des Bundesjustizministers?</p>
         </sp>
-        <sp who="Dr. Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" party="CDU" name="Helge Braun">
+        <sp who="Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" who_original="Helge Braun" party="CDU" name="Helge Braun">
           <speaker>Dr. Helge Braun, Staatsminister bei der Bun-deskanzlerin:</speaker>
           <p>Die Bundesregierung insgesamt befasst sich gerade mit dem Thema und befindet sich in der Ressortabstimmung. Aus der Tatsache, dass die-se noch nicht abgeschlossen ist, können Sie er-sehen, dass in der Bundesregierung noch nicht über alle Punkte dieses Gesetzentwurfs Einver-nehmen besteht. Sofern das noch nicht der Fall ist, gehört aber die Frage, welche Bedenken das im Einzelnen sind und von welchem Bundesminis-terium diese oder ob sie vom Bundeskanzleramt artikuliert werden, zum exekutiven Eigenverant-wortungsbereich der Bundesregierung.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Kollege Beck.</p>
           <p>Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜ-NEN):</p>
           <p>Ich wende mich an das Bundesjustizministeri-um, weil es um die fachliche Frage geht, inwiefern den Pariser Kriterien bei dem Gesetzentwurf Rechnung getragen werden soll oder kann. Teilen Sie meine Rechtsauffassung, dass es mit den Pa-riser Kriterien nicht vereinbar wäre, beschränkte man die Zuständigkeit des Institutes auf folgende Tätigkeiten: entweder auf Ersuchen der betreffen-den Behörden oder in Ausübung einer enumerati-ven Befugnis, die eine selbstständige Stellung-nahme zu Menschenrechtsverletzungen im In- und Ausland nicht mehr zulassen würden? Wenn nein: Worauf gründen Sie Ihre Rechtsauffassung be-züglich der Pariser Kriterien?</p>
         </sp>
-        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" party="SPD" name="Christian Lange">
+        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" who_original="Christian Lange" party="SPD" name="Christian Lange">
           <speaker>Christian Lange, Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz:</speaker>
           <p>Herr Kollege, ich will Ihnen zunächst einmal sagen, wie nach unseren Vorstellungen die Unab-hängigkeit des Instituts umgesetzt werden soll. Die Unabhängigkeit des Instituts wird nach unse-rer Auffassung dadurch gewährleistet, dass die von unserem Haus entwickelte gesetzliche Grund-lage weitgehend den Status quo des derzeit be-stehenden Deutschen Instituts für Menschenrech-te abbildet. Damit bildet die gesetzliche Grundlage außerdem den einstimmigen Bundestagsbe-schluss aus dem Jahr 2000 ab, durch den das Institut ursprünglich gegründet wurde. Der Ent-wurf greift so die Tatsache auf, dass an der Un-abhängigkeit des Instituts bisher keine Zweifel laut geworden sind.</p>
           <p>Entsprechend dem Bundestagsbeschluss aus dem Jahr 2000 bleibt das Institut für Menschen-rechte ein eingetragener Verein. Diese Rechts-form hat sich in der Praxis bewährt und ermöglicht es dem Institut, entsprechend den Pariser Prinzi-pien unabhängig zu arbeiten. Durch die Struktur eines Vereins, der verschiedenen Mitgliedern of-fensteht, ist unserer Auffassung nach die ge-forderte pluralistische Zusammensetzung des In-stituts gewährleistet – alles Voraussetzungen der Pariser Prinzipien. Außerdem gibt es im Rahmen des Vereinsrechts keine Rechtsaufsicht. Das ist ein ganz wesentlicher Punkt, der sich aus den Pa-riser Prinzipien ergibt. Die Kontrolle wird grund-sätzlich von der Mitgliederversammlung ausgeübt.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Kollege Beck.</p>
           <p>Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜ-NEN):</p>
           <p>Das hat nicht meine Frage beantwortet, son-dern Sie haben eine nicht gestellte Frage beant-wortet. Ich habe Sie nach Ihrer Rechtsauffassung gefragt, weil es im Bereich des parlamentarischen Raumes und der Bundesregierung auch andere Entwürfe gibt, die offensichtlich im Vergleich mit Ihren Vorschlägen diskutiert werden, die ich durchaus unterstützenswert finde. Aber wenn die-se Vorschläge in der Bundesregierung offensicht-lich nicht abgestimmt werden können und keine Kabinettsreife erreichen, dann ist die Frage, ob dem entgegenstehende Vorstellungen überhaupt mit den Pariser Kriterien vereinbar sind. Deshalb frage ich Sie noch einmal, ob Sie mit mir der Auf-fassung sind, dass eine Beschränkung der Tätig-keit des Institutes auf bloße Behördenersuchen und eine enumerativ beschränkte Aufzählung von Bekanntmachungen, menschenrechtlichen Verträ-gen und Vereinbarungen dem nicht gerecht wird. Denn in Ihrem Entwurf wird durchaus richtig fest-gestellt, dass ein unabhängiges Menschenrechts-institut selbstständig zu Menschenrechtsverlet-zungen im In- und Ausland Stellung beziehen kön-nen muss. In diesem Zusammenhang will ich nur wissen, ob wir darüber die gleiche Rechtsauffas-sung haben, und vielleicht, weil Sie das gerade angesprochen haben – –</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Nein, Herr Kollege Beck. Sie reden jetzt schon deutlich über die Zeit.</p>
           <p>Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜ-NEN):</p>
           <p>Okay, dann soll er das erst einmal beantworten. Ich habe noch mindestens zwei Nachfragen. Ich bin Fragesteller.</p>
         </sp>
-        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" party="SPD" name="Christian Lange">
+        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" who_original="Christian Lange" party="SPD" name="Christian Lange">
           <speaker>Christian Lange, Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz:</speaker>
           <p>Ich habe Ihnen deshalb unseren Entwurf vorge-tragen, weil wir der Auffassung sind, dass nur durch unseren Entwurf den Pariser Kriterien Ge-nüge getan wird. Daraus können Sie den Umkehr-schluss selbst ziehen, Herr Kollege.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Nur zur Geschäftslage, Herr Kollege Beck: Sie haben eine Frage; zu der haben Sie jetzt zwei Zu-satzfragen gestellt. Das entspricht völlig unserem Reglement.</p>
           <stage type="interjection">(Volker Beck [Köln] [BÜNDNIS 90/DIE GRÜNEN]: Und dann habe ich zu den Fragen des Herrn Koenigs auch die Mög-lichkeit, Nachfragen zu stellen!)</stage>
           <p>– Richtig, und dazu hat der Kollege Koenigs sich auch noch einmal zu Wort gemeldet. Er bekommt nachher auch noch einmal das Wort. Dazwischen bekommt Frau Jantz das Wort, und es gibt eine ganze Reihe weiterer Nachfragen.</p>
         </sp>
-        <sp who="Christina Jantz" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Christina Jantz">
+        <sp who="Christina Jantz" parliamentary_group="SPD" role="mp" position="NA" who_original="Christina Jantz" party="SPD" name="Christina Jantz">
           <speaker>Christina Jantz (SPD):</speaker>
           <p>Herr Präsident! Ich möchte an die Frage eines Kollegen anschließen und meine Frage direkt an Herrn Braun richten. Sie haben ausgeschlossen, dass die Einbringung des Referentenentwurfs ins Kabinett seitens Ihres Hauses verhindert wurde, bzw. Sie haben ausgeschlossen, dass Ihr Haus dafür verantwortlich ist. Daran schließt sich meine Frage an. Sie haben ein bisschen verklausuliert dargestellt, dass ein Ministerium dafür verantwort-lich ist, also dass die Ressortabstimmung entge-gen der Annahme nicht stattgefunden habe. Ich bitte Sie, dazu noch einmal ganz genau Stellung zu beziehen, zumal wir auch beispielsweise der Süddeutschen Zeitung und weiteren Medien ein-deutig entnehmen konnten, dass die Verhinderung aus Ihrem Hause kam.</p>
         </sp>
-        <sp who="Dr. Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" party="CDU" name="Helge Braun">
+        <sp who="Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" who_original="Helge Braun" party="CDU" name="Helge Braun">
           <speaker>Dr. Helge Braun, Staatsminister bei der Bun-deskanzlerin:</speaker>
           <p>Liebe Frau Kollegin, ich bitte Sie um Verständ-nis. Ich habe nichts ausgeschlossen, sondern ich habe darauf hingewiesen, dass die Bundesregie-rung als ein Kollegialorgan grundsätzlich dann zu dem Regelungsinhalt eines Gesetzentwurfs Stel-lung nimmt, wenn sie darüber Einigkeit erzielt und das dadurch dokumentiert hat, dass sie ihn im Bundeskabinett beschlossen hat. Das ist beim Entwurf zur Schaffung einer gesetzlichen Grund-lage für das Deutsche Institut für Menschenrechte noch nicht der Fall. Es gibt einen Gesetzentwurf des zuständigen Ministeriums. Die Ressortab-stimmung ist eingeleitet, und sie ist noch nicht abgeschlossen. Die Frage, warum sie noch nicht abgeschlossen ist, welche Ministerien oder ob das Bundeskanzleramt dagegen Einwände hatten und welcher Natur diese sind, gehört naturgemäß zum exekutiven Verantwortungsbereich der Bundesre-gierung. Dazu nehmen wir öffentlich und auch ge-genüber dem Bundestag keine Stellung, sondern erst dann, wenn die Bundesregierung als Ganzes sich dazu eine Meinung gebildet hat. Deshalb kann ich weder einzelne Ministerien noch das Bundeskanzleramt davon ausnehmen oder konkret einschließen, sondern das muss unseren weiteren Beratungen so lange anheimgestellt werden, bis der vorliegende Gesetzentwurf Kabinettsreife hat.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
-          <p>Ich bitte noch einmal, die Ein-Minuten-Regelung im Blick zu behalten. – Nächste Frage: Frau Haß-elmann. </p>
+          <p>Ich bitte noch einmal, die Ein-Minuten-Regelung im Blick zu behalten. – Nächste Frage: Frau Haß-elmann.</p>
           <p>Britta Haßelmann (BÜNDNIS 90/DIE GRÜ-NEN):</p>
           <p>Vielen Dank. – Meine Frage richtet sich an Herrn Braun vom Kanzleramt und bezieht sich auf die Frage von Herrn Koenigs. Herr Braun, ich will Ihnen noch einmal die Gelegenheit geben, wahr-heitsgemäß zu antworten. Sie haben das so kate-gorisch ausgeschlossen. Hat das Kanzleramt den Gesetzentwurf angehalten?</p>
         </sp>
-        <sp who="Dr. Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" party="CDU" name="Helge Braun">
+        <sp who="Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" who_original="Helge Braun" party="CDU" name="Helge Braun">
           <speaker>Dr. Helge Braun, Staatsminister bei der Bun-deskanzlerin:</speaker>
           <p>Die Frage, welche Organisationseinheit inner-halb der Bundesregierung Bedenken gegen einen Gesetzentwurf hat, der infolgedessen seine Kabi-nettsreife noch nicht erhält, ist nicht Gegenstand unserer öffentlichen Äußerungen, sondern gehört zum Kernbereich exekutiver Eigenverantwortung.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Barley.</p>
         </sp>
-        <sp who="Dr. Katarina Barley" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Katarina Barley">
+        <sp who="Katarina Barley" parliamentary_group="SPD" role="mp" position="NA" who_original="Katarina Barley" party="SPD" name="Katarina Barley">
           <speaker>Dr. Katarina Barley (SPD):</speaker>
           <p>Ich habe eine inhaltliche Frage zu dem Gesetz-entwurf. Sieht er konkrete Aufgabenzuweisungen an das Deutsche Institut für Menschenrechte vor, und, wenn ja, welche sind das?</p>
         </sp>
-        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" party="SPD" name="Christian Lange">
+        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" who_original="Christian Lange" party="SPD" name="Christian Lange">
           <speaker>Christian Lange, Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz:</speaker>
           <p>Frau Kollegin, der Gesetzentwurf greift die Auf-gaben auf, die dem Deutschen Institut für Men-schenrechte durch den Bundestagsbeschluss aus dem Jahr 2000 übertragen worden sind. Diese gelten ihrerseits wiederum auf der Basis der Prin-zipien von Paris. Nach dem Bundestagsbeschluss wird das Institut tätig insbesondere im Bereich der Öffentlichkeit über die Menschenrechtslage im In- und Ausland. Es trägt durch Forschung zur Quali-fizierung der Menschenrechtsarbeit bei, betreibt Politikberatung und menschenrechtsbezogene Bil-dungsarbeit im Inland, tauscht sich mit vergleich-baren Einrichtungen im Ausland aus und begleitet verschiedene internationale Menschenrechtsme-chanismen. Der Gesetzentwurf übernimmt diese Aufgabenbeschreibung.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Koenigs.</p>
         </sp>
-        <sp who="Tom Koenigs" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Tom Koenigs">
+        <sp who="Tom Koenigs" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Tom Koenigs" party="GRUENE" name="Tom Koenigs">
           <speaker>Tom Koenigs (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Meine Frage richtet sich wiederum an den Kol-legen Braun. Es ist abzusehen, dass die Bundes-regierung den A-Status nicht wird halten können; denn bereits im März beschließt die Kommission über den Status. Was plant denn die Bundeskanz-lerin, um die drohende Blamage durch den Verlust des A-Status abzuwenden?</p>
         </sp>
-        <sp who="Dr. Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" party="CDU" name="Helge Braun">
+        <sp who="Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" who_original="Helge Braun" party="CDU" name="Helge Braun">
           <speaker>Dr. Helge Braun, Staatsminister bei der Bun-deskanzlerin:</speaker>
           <p>Die Zuständigkeit für das Thema liegt im Be-reich des Justizministeriums. Natürlich hat die Bundesregierung als Ganzes ein großes Interes-se, den A-Status zu erhalten. Deshalb gehe ich davon aus, dass wir so rechtzeitig die notwendi-gen Schritte innerhalb der Bundesregierung einlei-ten, dass wir im Ergebnis ein Signal senden kön-nen, das uns den A-Status erhalten lässt.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Koenigs.</p>
         </sp>
-        <sp who="Tom Koenigs" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Tom Koenigs">
+        <sp who="Tom Koenigs" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Tom Koenigs" party="GRUENE" name="Tom Koenigs">
           <speaker>Tom Koenigs (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Da dies aber so drängt und die Kanzlerin die Richtlinienkompetenz hat, müsste sich die Kanzle-rin doch nun einmischen. Sonst sind die Fristen nicht einzuhalten. Da sich die verschiedenen Mini-sterien untereinander streiten, ist das doch der Moment, in dem die Kanzlerin ihrerseits sagen sollte: Jetzt kommt einmal in die Puschen! – Wa-rum macht sie das nicht?</p>
         </sp>
-        <sp who="Dr. Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" party="CDU" name="Helge Braun">
+        <sp who="Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" who_original="Helge Braun" party="CDU" name="Helge Braun">
           <speaker>Dr. Helge Braun, Staatsminister bei der Bun-deskanzlerin:</speaker>
           <p>Sie können davon ausgehen, dass im Augen-blick die gesamte Bundesregierung – das schließt die Bundeskanzlerin selbstverständlich genauso ein wie die beteiligten Ressortminister und die an-deren Vertreter des Bundeskanzleramts – daran arbeitet, den A-Status zu erhalten.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Kollege Fechner.</p>
         </sp>
-        <sp who="Dr. Johannes Fechner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Johannes Fechner">
+        <sp who="Johannes Fechner" parliamentary_group="SPD" role="mp" position="NA" who_original="Johannes Fechner" party="SPD" name="Johannes Fechner">
           <speaker>Dr. Johannes Fechner (SPD):</speaker>
           <p>Herr Staatssekretär Lange, ich habe eine Frage zu den Pariser Prinzipien. Soll im Institut eine Viel-falt von gesellschaftlichen Gruppen repräsentiert sein? Im Vorfeld gab es Kritik, weil das derzeit nicht der Fall sein soll. Wie beurteilen Sie die ak-tuelle Situation?</p>
         </sp>
-        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" party="SPD" name="Christian Lange">
+        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" who_original="Christian Lange" party="SPD" name="Christian Lange">
           <speaker>Christian Lange, Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz:</speaker>
           <p>Ich beurteile die aktuelle Situation so, Herr Kol-lege, dass inzwischen die geforderte gesellschaft-liche Vielfalt erreicht ist. Ich sage bewusst „inzwi-schen“, weil es diesbezüglich im Jahr 2008, also vor fast sieben Jahren, tatsächlich einmal Kritik vom Akkreditierungsausschuss gab. Zu diesem Zeitpunkt hatte der Verein allerdings nur 14 Mit-glieder. Der Akkreditierungsausschuss hat diesen Punkt später nicht noch einmal beanstandet. Das deckt sich mit meiner Sicht auf die Vielfältigkeit der Vertretung. Das Problem ist aus unserer Sicht gelöst. Mittlerweise ist die Zahl der Vereinsmit-glieder auf 60 angewachsen. Mitglieder sind – wie gefordert – eine ganze Bandbreite von Organisati-onen, die an der Förderung und dem Schutz der Menschenrechte beteiligt sind. Wer derzeit Mit-glied ist, kann man auf der Internetseite des Insti-tuts sehen.</p>
           <p>Nach unseren Vorstellungen können sich au-ßerdem alle natürlichen und juristischen Personen mit Bezug zum Schutz und zur Förderung der Menschenrechte zum Zweck der Aufnahme an das Kuratorium des Deutschen Instituts für Menschen-rechte wenden.</p>
           <p>Natürlich können auch die Mitglieder des Kurato-riums Vereinsmitglieder vorschlagen. Ich erwähne das deshalb, Herr Kollege, weil im Kuratorium schon immer zwei Mitglieder dieses Hauses sitzen, sodass wir alle auch hier direkt im Bundestag Ansprechpartner haben, die wir mit Ideen, wer noch vertreten sein sollte, ansprechen können.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Kollege Wiese.</p>
         </sp>
-        <sp who="Dirk Wiese" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dirk Wiese">
+        <sp who="Dirk Wiese" parliamentary_group="SPD" role="mp" position="NA" who_original="Dirk Wiese" party="SPD" name="Dirk Wiese">
           <speaker>Dirk Wiese (SPD):</speaker>
           <p>Ich habe ebenfalls eine Frage an Herrn Staats-sekretär Lange. Vielleicht können Sie Stellung da-zu nehmen, welche Aufgabe das Deutsche Institut für Menschenrechte nach den Pariser Prinzipien wahrnehmen sollte. Können Sie das einmal darle-gen?</p>
         </sp>
-        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" party="SPD" name="Christian Lange">
+        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" who_original="Christian Lange" party="SPD" name="Christian Lange">
           <speaker>Christian Lange, Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz:</speaker>
           <p>Herr Kollege, die Pariser Prinzipien befassen sich in einem eigenen Abschnitt damit, welche Zuständigkeiten und Aufgaben eine nationale Menschenrechtsinstitution haben soll. Wichtig ist hier vor allem das Recht, der Regierung, dem Parlament und anderen Organen in beratender Ei-genschaft Empfehlungen, Vorschläge und Berich-te vorzulegen. Des Weiteren sollen die Aufgaben die Information der Öffentlichkeit, die Bildungsar-beit im Inland und wissenschaftliche Forschung und Publikationen umfassen.</p>
           <p>Die Pariser Prinzipien lassen dabei an ver-schiedenen Stellen deutlich erkennen, dass sich die nationalen Menschenrechtsinstitutionen maß-geblich mit der Menschenrechtslage im Inland be-fassen. So heißt es dort unter anderem, dass sie die Aufgabe haben, Berichte über die allgemeine Lage der Menschenrechte im Land zu erstellen und die Regierung auf Fälle von Menschenrechts-verletzung im ganzen Land aufmerksam zu ma-chen.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Kollege Bartke.</p>
         </sp>
-        <sp who="Dr. Matthias Bartke" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Matthias Bartke">
+        <sp who="Matthias Bartke" parliamentary_group="SPD" role="mp" position="NA" who_original="Matthias Bartke" party="SPD" name="Matthias Bartke">
           <speaker>Dr. Matthias Bartke (SPD):</speaker>
           <p>Vielen Dank, Herr Präsident. – Herr Staatssek-retär Lange, auch von mir noch eine Frage zu den Pariser Prinzipien. Können Sie benennen, was aus Ihrer Sicht die wichtigsten Punkte der Pariser Prinzipien insbesondere in Bezug auf das Deut-sche Institut für Menschenrechte sind?</p>
         </sp>
-        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" party="SPD" name="Christian Lange">
+        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" who_original="Christian Lange" party="SPD" name="Christian Lange">
           <speaker>Christian Lange, Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz:</speaker>
           <p>Die wichtigsten Punkte der Pariser Prinzipien sind aus meiner Sicht die, die sich direkt auf die Unabhängigkeit beziehen. Die nationale Men-schenrechtsinstitution, hier also das Deutsche Institut für Menschenrechte, muss von der Regie-rung unabhängig sein. Sie darf also nicht Weisun-gen der Regierung unterworfen sein. Auch jeder andere Mechanismus, der das Institut de facto den Wünschen oder Anweisungen einer Regie-rung unterwerfen würde, ist nicht erlaubt. Außer-dem muss die Institution nach den Pariser Prinzi-pien über ausreichende Finanzmittel verfügen. Schließlich verlangen die Pariser Prinzipien auch, dass die nationalen Institutionen im nationalen Recht abgesichert sind, also die gefragte gesetz-liche Grundlage haben.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Schwabe.</p>
         </sp>
-        <sp who="Frank Schwabe" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Frank Schwabe">
+        <sp who="Frank Schwabe" parliamentary_group="SPD" role="mp" position="NA" who_original="Frank Schwabe" party="SPD" name="Frank Schwabe">
           <speaker>Frank Schwabe (SPD):</speaker>
           <p>Ich habe eine Frage an das Bundeskanzleramt. Ich will Ihnen natürlich sehr gerne abnehmen und glaube auch, dass es so ist, dass Sie sich der Bedeutung bewusst sind und Sie natürlich alles tun wollen, um außenpolitischen Schaden von Deutschland abzuwenden, und auch dafür sorgen, dass unsere Glaubwürdigkeit in Menschenrechts-fragen international nicht untergraben wird, gerade angesichts des Vorsitzes im UN-Menschenrechtsrat.</p>
           <p>Vielleicht können Sie uns den Zeitplan darlegen. Wie sind eigentlich die entsprechenden Zeitpläne in Genf? Wenn ich es richtig verstehe, steht dort eine Entscheidung Mitte März an. Wann ist aus Ih-rer Sicht eigentlich die letzte Möglichkeit, dass aus Deutschland ein Signal kommt, das uns inter-national in die Situation bringt, dass der A-Status erhalten bleiben kann?</p>
         </sp>
-        <sp who="Dr. Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" party="CDU" name="Helge Braun">
+        <sp who="Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" who_original="Helge Braun" party="CDU" name="Helge Braun">
           <speaker>Dr. Helge Braun, Staatsminister bei der Bun-deskanzlerin:</speaker>
           <p>Diese konkreten fachlichen Fragen, wie es in Genf weitergeht, muss Ihnen der Kollege aus dem zuständigen Ressort beantworten. Aber wir alle in der Bundesregierung sind uns der Eilbedürftigkeit des Vorhabens bewusst, und deshalb arbeiten wir auch intensiv an einer Einigung.</p>
           <stage type="interjection">(Volker Beck [Köln] [BÜNDNIS 90/DIE GRÜNEN]: Das haben Sie vor zwei Wo-chen auch schon gesagt!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Kollege Beck.</p>
           <p>Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜ-NEN):</p>
           <p>Darf ich zwei Fragen auf einmal stellen?</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Vielleicht sind nach der ersten Frage alle offe-nen Punkte beantwortet.</p>
           <p>Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜ-NEN):</p>
           <p>Es geht um zwei unterschiedliche Fragestellun-gen.</p>
           <p>Teilt das Justizministerium die Auffassung, dass eine Zuordnung des Deutschen Instituts für Menschenrechte zu einem Geschäftsbereich in-nerhalb der Bundesregierung in Konflikt mit den Pariser Kriterien zum Thema Unabhängigkeit stünde, und, wenn nein, wie begründen Sie Ihre Haltung?</p>
         </sp>
-        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" party="SPD" name="Christian Lange">
+        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" who_original="Christian Lange" party="SPD" name="Christian Lange">
           <speaker>Christian Lange, Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz:</speaker>
           <p>Das Bundesministerium der Justiz und für Ver-braucherschutz ist der Auffassung, dass nur der Vereinsstatus, wie wir ihn derzeit haben, den Pari-ser Prinzipien entspricht, und dementsprechend haben wir unseren Gesetzentwurf ausgestaltet. Der Grund dafür liegt darin, dass wir vermeiden müssen, dass es eine Fach- und Rechtsaufsicht gibt. Diese Fach- und Rechtsaufsicht wird durch die Rechtsform „e. V.“ vermieden. Deshalb haben wir diesen Vorschlag gemacht. Das entspricht im Übrigen der Praxis hier in der Bundesrepublik.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Zweite Nachfrage, Herr Beck.</p>
           <p>Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜ-NEN):</p>
           <p>Ich habe eine Frage zu den Folgen, wie sie das Kanzleramt schon angesprochen hat. Welche Staaten haben den A-Status nach den Pariser Kri-terien in der Vergangenheit verloren bzw. nicht er-reicht? Ich habe ein gewisses Verständnis, wenn Sie das jetzt nicht sagen können; dann hätte ich diese Frage aber gerne schriftlich beantwortet.</p>
         </sp>
-        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" party="SPD" name="Christian Lange">
+        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" who_original="Christian Lange" party="SPD" name="Christian Lange">
           <speaker>Christian Lange, Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz:</speaker>
           <p>Die Antwort kann ich Ihnen gerne schriftlich lie-fern; die nötigen Informationen sind vorhanden.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Kollege Hoffmann.</p>
         </sp>
-        <sp who="Alexander Hoffmann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Alexander Hoffmann">
+        <sp who="Alexander Hoffmann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Alexander Hoffmann" party="CSU" name="Alexander Hoffmann">
           <speaker>Alexander Hoffmann (CDU/CSU):</speaker>
           <p>Vielen Dank, Herr Präsident. – Ich habe eine Frage an den Staatssekretär Lange. Der Status wird ja durch das ICC verliehen. Nun wurden Insti-tutionen in Afghanistan, Nigeria, Venezuela, Aser-baidschan und Russland im A Status akkreditiert. Welche Aussagekraft hat demnach dieser Status für die Bewertung der Lage der Menschenrechte in einem Land?</p>
           <stage type="interjection">(Volker Beck [Köln] [BÜNDNIS 90/DIE GRÜ-NEN]: Das ist ja gar nicht die Funktion!)</stage>
         </sp>
-        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" party="SPD" name="Christian Lange">
+        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" who_original="Christian Lange" party="SPD" name="Christian Lange">
           <speaker>Christian Lange, Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz:</speaker>
           <p>Keine. Der Status gibt vielmehr nur wieder, welche Rechtsstellung das Institut hat und welche Rechte damit verbunden sind. Das ist auch unser Ziel. Deswegen wollen wir den A-Status erhalten. Ich kann Ihnen einmal darstellen, was das alles für Folgen hat, wenn man den A-Status hat bzw. wenn man ihn nicht mehr hat:</p>
           <p>Zum einen ist der A-Status ein internationales Gütesiegel, das unterstreicht, wie ernsthaft die Beobachtung des Menschenrechtsschutzes in dem jeweiligen Land durch die Institution erfolgt. Würde in dieser Zeit das Deutsche Institut für Menschenrechte herabgestuft, wäre dies für viele Gegner der Bundesrepublik auf UN-Ebene ein willkommenes Argument, zu sagen, Deutschland beobachte den Menschenrechtsschutz im eigenen Land selbst nicht mehr ausreichend. Den damit verbundenen außenpolitischen Schaden wollen wir – es ist schon erwähnt worden – abwenden.</p>
           <p>Zum anderen folgen dem A-Status wichtige Mitwirkungsrechte auf UN-Ebene. Nur Institutio-nen mit dem A-Status haben Teilnahme- und Re-derecht im UN-Menschenrechtsrat. Sie dürfen im UPR-Verfahren – das ist das Überprüfungsverfah-ren des UN-Menschenrechtsrats für die Mitglied-staaten der Vereinten Nationen – einen eigenen Bericht zur Menschenrechtslage in ihrem Staat einreichen.</p>
           <p>Außerdem haben Institute mit A-Status das Recht auf Teilnahme an allen Fachausschüssen zu Menschenrechtspakten der Vereinten Nationen und können dort eigene Parallelberichte über die Umsetzung des jeweiligen Menschenrechtspakts in ihrem Heimatstaat vorlegen. Zudem geht durch den Verlust des A-Status die Möglichkeit verloren, auf die Akkreditierungspolitik des dafür zuständi-gen International Coordinating Commitee, ICC, überhaupt Einfluss zu nehmen. Auch das wollen wir sicherstellen.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege Brunner.</p>
         </sp>
-        <sp who="Dr. Karl-Heinz Brunner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Karl-Heinz Brunner">
+        <sp who="Karl-Heinz Brunner" parliamentary_group="SPD" role="mp" position="NA" who_original="Karl-Heinz Brunner" party="SPD" name="Karl-Heinz Brunner">
           <speaker>Dr. Karl-Heinz Brunner (SPD):</speaker>
           <p>Vielen Dank, Herr Präsident. – Meine Frage an Sie, Herr Staatssekretär, geht in die gleiche Rich-tung – sie überschneidet sich mit der des Kolle-gen Hoffmann –: Welche Zeitschiene ist erforder-lich, um den Verlust des A-Status und damit die von Ihnen dargestellten Folgen für die Bundesre-publik Deutschland, Stichwort „Einflussnahme der Bundesrepublik Deutschland und die damit ver-bundenen Menschenrechtsfragen“, zu vermeiden?</p>
         </sp>
-        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" party="SPD" name="Christian Lange">
+        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" who_original="Christian Lange" party="SPD" name="Christian Lange">
           <speaker>Christian Lange, Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz:</speaker>
           <p>Herr Kollege, der Akkreditierungsausschuss tagt Ende März. Wir haben diesen Termin fest im Blick. Ich gehe davon aus, dass ein Gesetzent-wurf, wenn die Koalitionsarbeitsgruppen zu einem Ergebnis kommen, schnell auf den Weg gebracht werden kann, zum Beispiel im Wege eines frakti-onsübergreifenden Gesetzentwurfs. Ein solcher Gesetzentwurf ist nicht zustimmungspflichtig; das heißt, der Bundesrat kann dieses Vorgehen nicht aufhalten. Wir sind der Auffassung, dass wir die-sen föderalen Aspekt dem Akkreditierungsaus-schuss durchaus vermitteln können.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Hänsel.</p>
         </sp>
-        <sp who="Heike Hänsel" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Heike Hänsel">
+        <sp who="Heike Hänsel" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Heike Hänsel" party="DIE LINKE" name="Heike Hänsel">
           <speaker>Heike Hänsel (DIE LINKE):</speaker>
           <p>Danke schön, Herr Präsident. – Bei mir klingen jetzt schon ein wenig die Ohren, wenn ich hier Fragen höre, die sozusagen die Bedeutung des A-Status relativieren wollen. Deshalb meine Nach-frage ans Bundeskanzleramt: Teilt das Bundes-kanzleramt die Meinung, dass es unbedingt wich-tig ist, den A-Status des Deutschen Instituts für Menschenrechte zu erhalten, und dass man nicht anfangen darf, das unter Verweis auf andere Län-der zu relativieren?</p>
         </sp>
-        <sp who="Dr. Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" party="CDU" name="Helge Braun">
+        <sp who="Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" who_original="Helge Braun" party="CDU" name="Helge Braun">
           <speaker>Dr. Helge Braun, Staatsminister bei der Bun-deskanzlerin:</speaker>
           <p>Die Bundesregierung als Ganzes strebt den Er-halt des A-Status an.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Weitere Nachfragen liegen zu diesem Komplex nicht mehr vor. Wir kommen jetzt aber natürlich noch zu den Fragen der Kollegin Britta Haßel-mann, die sicher implizit, mindestens teilweise, beantwortet sind. Aber vielleicht will der Staats-sekretär noch etwas Ergänzendes sagen; sicher will die Kollegin noch etwas nachfragen.</p>
           <stage type="interjection">(Volker Beck [Köln] [BÜNDNIS 90/DIE GRÜ-NEN]: Die Antwort kann nur Ja heißen!)</stage>
           <p>Ich rufe zunächst die Frage 4 der Kollegin Haß-elmann auf:</p>
           <p>Ist für die Kabinettssitzung am 25. Februar 2015 die Verab-schiedung eines Gesetzentwurfs zur Schaffung einer gesetzli-chen Grundlage für das DIMR vorgesehen?</p>
         </sp>
-        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" party="SPD" name="Christian Lange">
+        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" who_original="Christian Lange" party="SPD" name="Christian Lange">
           <speaker>Christian Lange, Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz:</speaker>
           <p>Ich beantworte die Frage gern. Da die Tages-ordnung für den 25. Februar 2015 noch nicht vor-liegt, kann ich Ihnen diese Frage nicht beantwor-ten.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Dann kommen wir zur Frage 5 der Kollegin Haßelmann:</p>
           <p>Wann haben die letzten Ressortgespräche (vergleiche Ant-wort des Parlamentarischen Staatssekretärs beim Bundesminis-ter der Justiz und für Verbraucherschutz Christian Lange in der Fragestunde des Deutschen Bundestages vom 28. Januar 2015, Protokoll Seite 7709) zur Schaffung einer gesetzlichen Grundlage für das DIMR stattgefunden?</p>
         </sp>
-        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" party="SPD" name="Christian Lange">
+        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz" who_original="Christian Lange" party="SPD" name="Christian Lange">
           <speaker>Christian Lange, Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucher-schutz:</speaker>
           <p>Die Frage beantworte ich wie folgt: Ich habe in der angesprochenen Fragestunde darauf hinge-wiesen, dass die Ressortabstimmung noch läuft.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Nachfrage, Kollege Beck. – Ach so, Frau Haß-elmann; bitte, ja gern.</p>
           <p>Britta Haßelmann (BÜNDNIS 90/DIE GRÜ-NEN):</p>
           <p>Genau. Ich habe auch noch eine Nachfrage, wie von Ihnen schon angekündigt.</p>
           <p>Meine Frage richtet sich wieder ans Kanzler-amt. – Herr Braun, Sie haben meinem Kollegen Koenigs bei der Beantwortung gerade zugesi-chert, dass wir das mit dem Gesetzentwurf bis März hinkriegen. Das ist notwendig, damit wir den A-Status nicht verlieren, weil Ende März die Kon-ferenz stattfindet, auf der darüber entschieden wird. Der Kollege Lange hat gesagt: Auf der Ta-gesordnung der Kabinettssitzung am 25. Februar steht das Thema bislang nicht. – Deshalb meine Frage: Beabsichtigt die Bundesregierung, dieses Thema in Form eines Gesetzentwurfs auf die Ta-gesordnung der Kabinettssitzung am 25. Februar oder am 4. März zu setzen? Das sind die beiden letzten Möglichkeiten, einen Gesetzentwurf vor der internationalen Entscheidung Ende März ins parlamentarische Verfahren zu bringen.</p>
         </sp>
-        <sp who="Dr. Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" party="CDU" name="Helge Braun">
+        <sp who="Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" who_original="Helge Braun" party="CDU" name="Helge Braun">
           <speaker>Dr. Helge Braun, Staatsminister bei der Bun-deskanzlerin:</speaker>
           <p>Sehr geehrte Frau Kollegin, mir tut es leid, dass ich Ihrem Anspruch, Ihnen mehr zu erzählen, nicht gerecht werden kann. Aber solange die Ressort-abstimmung noch nicht abgeschlossen ist, kann auch kein Termin für die Beratung im Kabinett festgelegt werden. Der wird in aller Regel am Montag der laufenden Woche für den jeweiligen Mittwoch bestimmt. Ein konkreter Kabinettstermin steht dementsprechend derzeit noch nicht fest.</p>
           <p>Britta Haßelmann (BÜNDNIS 90/DIE GRÜ-NEN):</p>
           <p>Aber wenn die Befassung im Kabinett in den Sternen steht, wie können Sie meinem Kollegen Koenigs dann versichern, dass wir den Termin für den Erhalt des A Status Ende März halten? Das würde nur funktionieren, wenn die Richtlinienkom-petenz der Kanzlerin in der Frage wahrgenommen wird. Das haben Sie verneint, aber gleichzeitig zugesichert: Wir halten den Termin im März. – Sie haben mir jetzt gesagt, Sie könnten nichts dazu sagen, ob in den beiden Kabinettssitzungen, die vorher stattfinden, das Thema beraten wird oder nicht. Dann trifft doch die Aussage, die Sie gerade getroffen haben, nicht zu.</p>
         </sp>
-        <sp who="Dr. Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" party="CDU" name="Helge Braun">
+        <sp who="Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" who_original="Helge Braun" party="CDU" name="Helge Braun">
           <speaker>Dr. Helge Braun, Staatsminister bei der Bun-deskanzlerin:</speaker>
           <p>Ich möchte noch einmal darauf hinweisen, dass ich mir das, was Sie mir schon in Ihren Fragen unterstellen, ausdrücklich nicht zu eigen mache. Das Grundproblem ist, dass Sie hier die ganze Zeit zu einem Sachverhalt fragen, der noch nicht die Kabinettsreife hat und über den die Bundesre-gierung Ihnen deshalb weder zum Regelungsum-fang noch zum Zeitplan so detailliert Auskunft ge-ben kann, wie Sie das gern möchten. Das ist eine sinnvolle Regelung im Sinne auch einer sachge-rechten Arbeit. Deshalb kann ich Ihnen nicht sa-gen, welche Ressorts oder Personen sich an wel-cher Stelle wie eingelassen haben. Deshalb kann ich Ihnen auch zum Zeitplan weder positiv noch negativ etwas sagen. Die Bundesregierung ent-scheidet im Zuge jeder Kabinettssitzung, ob das Thema dort aufgerufen wird, und das hängt davon ab, ob bis dahin die offenen Fragen geklärt sind und damit die Ressortabstimmung abgeschlossen ist.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Aus den Auskünften ergibt sich eigentlich kon-kludent, dass das Thema, wenn es der Regierung so wichtig ist, wie dargestellt, in einer der beiden nächsten Kabinettssitzungen behandelt werden muss.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN – Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN]: Das war ja meine Frage!)</stage>
           <p>Nachfrage des Kollegen Beck.</p>
         </sp>
-        <sp who="Volker Beck" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Volker Beck">
+        <sp who="Volker Beck (Köln)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Volker Beck (Köln)" party="GRUENE" name="Volker Beck">
           <speaker>Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Mit Blick auf die Anregung des Präsidenten: Kann uns die Bundesregierung angesichts der in-ternationalen Sitzungen zum Erhalt des A-Status im März sagen, wie und wann sie das Beratungs-verfahren abschließen will, um den Termin im März nicht zu reißen, weil das die unmittelbare Folge hätte, dass wir den A-Status verlieren? Sie haben vorhin gesagt, dass Sie das auf jeden Fall vermeiden wollen. Dann müssen Sie ja eine Vor-stellung haben, wie Sie dieses Ziel beratungs-technisch erreichen. – Sie sind gefragt, Herr Staatsminister.</p>
         </sp>
-        <sp who="Dr. Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" party="CDU" name="Helge Braun">
+        <sp who="Helge Braun" parliamentary_group="NA" role="government" position="Staatsminister bei der Bun-deskanzlerin" who_original="Helge Braun" party="CDU" name="Helge Braun">
           <speaker>Dr. Helge Braun, Staatsminister bei der Bun-deskanzlerin:</speaker>
           <p>Ich sage es noch einmal: Ich kann Ihnen über die Abläufe dazu innerhalb der Bundesregierung keine Auskunft geben. Warten Sie das doch ein-fach mal ab. Wir sind gerne bereit, dann im Deut-schen Bundestag auch Rede und Antwort zu ste-hen. Wir streben an, den A-Status zu erhalten. Den konkreten Kabinettsberatungstermin können wir Ihnen derzeit nicht mitteilen.</p>
           <stage type="interjection">(Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN]: Aber das geht so nicht! Wir werden ihn verlieren, Herr Braun! – Vol-ker Beck [Köln] [BÜNDNIS 90/DIE GRÜ-NEN]: Ich halte Sie für überbezahlt, Herr Staatsminister!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Damit sind die Fragen zu diesem Geschäftsbe-reich erschöpft.</p>
           <p>Wir kommen zum Geschäftsbereich des Bun-desministeriums der Finanzen. Die Frage 6 der Abgeordneten Sabine Zimmermann wird schriftlich beantwortet.</p>
@@ -829,7 +829,7 @@
           <p>Wir kommen damit zum Geschäftsbereich des Bundesministeriums für Gesundheit. Hier steht die Parlamentarische Staatssekretärin Frau Wid-mann-Mauz zur Beantwortung zur Verfügung. Ich rufe die Frage 14 der Kollegin Scharfenberg auf:</p>
           <p>Was beabsichtigt die Bundesregierung konkret zu tun, um die in der vom Pflegebevollmächtigten der Bundesregierung, Karl-Josef Laumann, in Auftrag gegebenen und vorgestellten Studie des Instituts für Arbeitsmarkt- und Berufsforschung der Bundesagentur für Arbeit zur Vergütung in den Pflegeberufen „Was man in den Pflegeberufen in Deutschland verdient“ aufge-zeigten eklatanten Lohnunterschiede zwischen den Berufsgrup-pen der Kranken- und der Altenpflegekräfte einerseits und die regionalen Unterschiede in der Bezahlung sowohl von Kranken- als auch von Altenpflegekräften andererseits anzugleichen?</p>
         </sp>
-        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" party="CDU" name="Annette Widmann-Mauz">
+        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" who_original="Annette Widmann-Mauz" party="CDU" name="Annette Widmann-Mauz">
           <speaker>Annette Widmann-Mauz, Parl. Staatssekretärin beim Bundesminister für Gesundheit:</speaker>
           <p>Frau Kollegin Scharfenberg, auf Grundlage der gesetzlichen und tariflichen Regelungen sind die Entscheidungen über die Höhe der Vergütungen und die Arbeitszeit in den Arbeitsverträgen zwi-schen den einzelnen Pflegeeinrichtungen und den Beschäftigten zu treffen.</p>
           <p>Der Gesetzgeber hat eine Reihe von Regelun-gen mit Bezug auf die Vergütungen getroffen. Das Bundesministerium für Arbeit und Soziales hat aufgrund von Entscheidungen der Pflegekommis-sion durch die Pflege-arbeitsbedingungenverordnung geregelt, dass der Mindestlohn für Beschäftigte in der Pflege ab 1. Januar 2015 um 40 Cent je Stunde auf 9,40 Euro pro Stunde in den alten Bundesländern einschließlich Berlin und um 65 Cent je Stunde auf 8,65 Euro pro Stunde in den neuen Bundesländern – ohne Berlin – steigt. In zwei Schritten soll er bis zum Januar 2017 weiter steigen und dann 10,20 Euro pro Stunde im Westen und 9,50 Euro pro Stunde im Osten betragen.</p>
@@ -837,77 +837,77 @@
           <p>Der Gesetzgeber hat zudem mit dem ersten Pflegestärkungsgesetz die Anerkennung der Wirt-schaftlichkeit von tariflicher und kirchenarbeits-rechtlicher Entlohnung der Beschäftigten in Pfle-geeinrichtungen in Vergütungsvereinbarungen ab dem 1. Januar gesetzlich festgeschrieben. Für Pflegeeinrichtungen werden damit Anreize ge-setzt, die Mitarbeiterinnen und Mitarbeiter ent-sprechend zu entlohnen. Gleichzeitig erhalten die Kostenträger ein Nachweisrecht, dass die finanzi-ellen Mittel auch tatsächlich bei den Beschäftigten ankommen. Das gilt sowohl für Pflegefachkräfte als auch für Pflegehilfskräfte.</p>
           <p>Im Rahmen der „Ausbildungs- und Qualifizie-rungsoffensive Altenpflege“ haben sich Verbände, Kostenträger und Gewerkschaften dazu bekannt, dass eine leistungsgerechte Vergütung der Pfle-gekräfte für die Attraktivität des Berufsfeldes wichtig und im Rahmen der Vergütungs- und Ta-rifverhandlungen stärker zu berücksichtigen ist.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Kollegin Scharfenberg.</p>
         </sp>
-        <sp who="Elisabeth Scharfenberg" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Elisabeth Scharfenberg">
+        <sp who="Elisabeth Scharfenberg" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Elisabeth Scharfenberg" party="GRUENE" name="Elisabeth Scharfenberg">
           <speaker>Elisabeth Scharfenberg (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Vielen Dank, Frau Staatssekretärin. – Meine erste Nachfrage ist: Nach welchen Kriterien soll denn künftig geprüft werden – das hat der Pflege-bevollmächtigte Karl-Josef Laumann in einer Pressemitteilung zur Studie zur Vergütung in der Pflege vorgeschlagen –, ob ein angemessener Lohn auch tatsächlich gezahlt wird? Was ist ein angemessener Lohn, und sollen die Pflegekassen das regelmäßig oder nur anlassbezogen überprü-fen?</p>
         </sp>
-        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" party="CDU" name="Annette Widmann-Mauz">
+        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" who_original="Annette Widmann-Mauz" party="CDU" name="Annette Widmann-Mauz">
           <speaker>Annette Widmann-Mauz, Parl. Staatssekretärin beim Bundesminister für Gesundheit:</speaker>
           <p>Frau Kollegin Scharfenberg, ich habe bei der Beantwortung Ihrer Frage gerade ausgeführt, dass das Pflegestärkungsgesetz den Kostenträ-gern die Möglichkeit gibt, nachzuprüfen, ob Tarif-lohn gezahlt wird; das steht den Kostenträgern of-fen. Ansonsten werden die Vergütungsvereinba-rungen zwischen den Vertragspartnern getroffen und sind dadurch auch nicht in dem Maße durch den Gesetzgeber kontrollierbar.</p>
         </sp>
-        <sp who="Elisabeth Scharfenberg" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Elisabeth Scharfenberg">
+        <sp who="Elisabeth Scharfenberg" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Elisabeth Scharfenberg" party="GRUENE" name="Elisabeth Scharfenberg">
           <speaker>Elisabeth Scharfenberg (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Die Studie zur Vergütung in der Pflege hat ge-zeigt, dass es eine enorme Schieflage im Verhält-nis zwischen der Vergütung in der Krankenpflege und der Vergütung in der Altenpflege gibt. Meine Frage ist daher: Was soll denn strukturell in der Altenpflege bzw. bei der Vergütung in der Alten-pflege geändert werden, damit Altenpflegekräfte flächendeckend mehr verdienen?</p>
         </sp>
-        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" party="CDU" name="Annette Widmann-Mauz">
+        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" who_original="Annette Widmann-Mauz" party="CDU" name="Annette Widmann-Mauz">
           <speaker>Annette Widmann-Mauz, Parl. Staatssekretärin beim Bundesminister für Gesundheit:</speaker>
           <p>Zunächst einmal ist diese Studie ein wichtiger Beitrag dazu, dass in Bezug auf die Vergütungs-bedingungen Transparenz entsteht. Dazu hat die-se Studie einen wichtigen Beitrag geleistet; denn dadurch sind den verantwortlichen Vertragspart-nern sowohl die Vergütungs-unterschiede zwi-schen der Altenpflege und der Krankenpflege als auch die regionalen Unterschiede stärker bewusst geworden.</p>
           <p>Interessant an der Studie ist auch die Höhe des Anteils der Teilzeitkräfte; denn das Gesamtvergü-tungs-niveau hängt natürlich sehr von der wö-chentlichen Arbeitszeit ab. Hier hat die Bundesre-gierung bereits in der Vergangenheit durch die „Initiative Neue Qualität der Arbeit“ wichtige Hilfe-stellungen gegeben, zum Beispiel bei der Gestal-tung von Dienstplänen bei den Einrichtungsträ-gern. Sie richtet sich nach den Wünschen der Be-schäftigten, sowohl in familiärer Hinsicht als auch in Bezug auf deren persönliche und berufliche Le-bensgestaltung, und orientiert sich gleichzeitig an den Wünschen der betroffenen Pflegenden nach mehr Vollzeitkräften und Vollzeitstellen und gibt ihnen wichtige Hilfestellungen.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Wir kommen zur Frage 15 der Kollegin Elisa-beth Scharfenberg:</p>
           <p>Hält die Bundesregierung nach wie vor an der Strategie fest, eine generalistische Pflegeausbildung umzusetzen, wie vom Pflegebevollmächtigten der Bundesregierung, Karl-Josef Laumann, in der Pressemitteilung zur Studie über die Vergütung in den Pflegeberufen gefordert, und welche Einschätzung hat die Bundesregierung dazu, wie sich die gemeinsame Ausbil-dung auf die Entwicklung der Löhne für den Bereich der Kran-ken- und der Altenpflege entwickeln wird?</p>
         </sp>
-        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" party="CDU" name="Annette Widmann-Mauz">
+        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" who_original="Annette Widmann-Mauz" party="CDU" name="Annette Widmann-Mauz">
           <speaker>Annette Widmann-Mauz, Parl. Staatssekretärin beim Bundesminister für Gesundheit:</speaker>
           <p>Frau Kollegin Scharfenberg, auf Ihre Frage antworte ich wie folgt: Die Bundesregierung erar-beitet derzeit einen Entwurf für ein Pflegeberufe-gesetz, durch das die Ausbildungen in der Alten-pflege, der Gesundheits- und Krankenpflege sowie der Gesundheits- und Kinderkrankenpflege zu ei-ner neuen, generalistisch ausgerichteten Pflege-ausbildung zusammengeführt werden. Dabei wird an die Vorarbeiten der letzten Legislaturperiode angeknüpft, die gemeinsam mit der Arbeits- und Sozialministerkonferenz der Länder diskutiert wor-den sind.</p>
           <p>Es werden die Grundlagen für ein einheitliches Berufsbild Pflege geschaffen, das sich den Anfor-derungen an die Pflege der Zukunft anpasst. Es gilt, den jungen Menschen, die sich für den Pfle-geberuf entscheiden, eine qualitativ hochwertige und zeitgemäße Ausbildung zu bieten, die dem breiten beruflichen Spektrum und den Entwicklun-gen in der Gesellschaft und im Gesundheitswesen Rechnung trägt und Entwicklungspfade öffnet. Die Verantwortung für die Vereinbarung der Höhe an-gemessener tariflicher Vergütungen obliegt auch weiterhin den Tarifvertragsparteien.</p>
         </sp>
-        <sp who="Elisabeth Scharfenberg" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Elisabeth Scharfenberg">
+        <sp who="Elisabeth Scharfenberg" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Elisabeth Scharfenberg" party="GRUENE" name="Elisabeth Scharfenberg">
           <speaker>Elisabeth Scharfenberg (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Vielen Dank, Frau Staatssekretärin. – Meine erste Nachfrage ist: Welche Auswirkung hätte denn nach Einschätzung der Bundesregierung ei-ne generalistische Ausbildung auf den Fachkräf-temangel im Arbeitsfeld Altenpflege?</p>
         </sp>
-        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" party="CDU" name="Annette Widmann-Mauz">
+        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" who_original="Annette Widmann-Mauz" party="CDU" name="Annette Widmann-Mauz">
           <speaker>Annette Widmann-Mauz, Parl. Staatssekretärin beim Bundesminister für Gesundheit:</speaker>
           <p>Frau Kollegin Scharfenberg, neben einer weite-ren Steigerung der Attraktivität des Pflegeberufes durch zusätzliche Entwicklungsmöglichkeiten und die Aufwertung des Berufsfeldes geht es insbe-sondere um eine qualitative Verbesserung der Pflegeausbildung und eine umfassende Moderni-sierung ihrer Inhalte.</p>
           <p>Die Idee einer vereinheitlichten Pflegeausbil-dung ist im Übrigen auch nicht neu. Fachpoliti-sche Forderungen zielen seit langem auf diese Neukonzeption der Pflegeausbildung im Sinne ei-nes generalistischen Berufsprofils ab. Modellvor-haben haben gezeigt, dass eine dreijährige ein-heitliche Pflegeausbildung im Sinne eines neuen allgemeinen Pflegeberufs gerade die Kompeten-zen besonders vermittelt, die angesichts zuneh-mend komplexer werdender Pflegesituationen und unterschiedlichster Pflegekontexte besonders notwendig sind.</p>
           <p>Die vereinheitlichte Pflegeausbildung wird auch eine Antwort auf die Herausforderungen der de-mografischen Entwicklung, der Alterung der Ge-sellschaft, sein. Es entstehen neue Pflegebedarfe, und zwar in den Krankenhäusern und in den Pfle-geeinrichtungen. Darauf reagiert die neue Pflege-ausbildung. Das kommt den Pflegenden und den zu Pflegenden zugute. Ein einheitliches Berufsbild Pflege verstärkt außerdem insbesondere das be-rufliche Selbstverständnis der Pflegefachkräfte im Kontext anderer Gesundheitsfachberufe und führt damit auch zu einer stärkeren beruflichen Identifi-kation.</p>
           <p>Unterschiedliche Tätigkeitsfelder in der Pflege ermöglichen es den Pflegenden auch, den Umfang ihrer Berufstätigkeit an ihre persönliche Entwick-lung und Lebenssituation anzupassen. Das ist insbesondere in der Kranken- und Altenpflege wichtig.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Bitte achten Sie auf die Zeit.</p>
         </sp>
-        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" party="CDU" name="Annette Widmann-Mauz">
+        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" who_original="Annette Widmann-Mauz" party="CDU" name="Annette Widmann-Mauz">
           <speaker>Annette Widmann-Mauz, Parl. Staatssekretärin beim Bundesminister für Gesundheit:</speaker>
           <p>Zudem leisten wir einen wichtigen Beitrag dazu, dass die Ausbildung kostenfrei ist, was bisher insbesondere in der Altenpflege in einzelnen Bun-desländern ein erhebliches Problem darstellt.</p>
         </sp>
-        <sp who="Elisabeth Scharfenberg" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Elisabeth Scharfenberg">
+        <sp who="Elisabeth Scharfenberg" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Elisabeth Scharfenberg" party="GRUENE" name="Elisabeth Scharfenberg">
           <speaker>Elisabeth Scharfenberg (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Vielen Dank. – Die Studie zur Vergütung in der Pflege hat ganz deutlich gezeigt, dass in der Krankenpflege mehr verdient wird als in der Alten-pflege, dass Fachkräfte in der Altenpflege etwa so viel verdienen wie Hilfskräfte in der Krankenpfle-ge. Das ist eine erhebliche Schieflage. Ist nicht zu befürchten, dass eine Ausbildung, die generalis-tisch für mehrere Pflegeberufe qualifiziert, die ausgebildeten Pflegekräfte dahin treiben wird, wo besser bezahlt wird, mit den entsprechenden Fol-gen für die schlechter entlohnten Bereiche, sprich: für die Altenpflege?</p>
         </sp>
-        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" party="CDU" name="Annette Widmann-Mauz">
+        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" who_original="Annette Widmann-Mauz" party="CDU" name="Annette Widmann-Mauz">
           <speaker>Annette Widmann-Mauz, Parl. Staatssekretärin beim Bundesminister für Gesundheit:</speaker>
           <p>Frau Kollegin Scharfenberg, diese Entwicklung befürchten wir nicht. Im Gegenteil. Wir erhoffen uns durch die generalistische Pflegeausbildung eine insgesamt stärkere Attraktivität der Pflegebe-rufe in der Alten- wie in der Krankenpflege. Ange-sichts des drohenden Fachkräftemangels sind dieses Mehr an Attraktivität und die höheren und besseren Qualifikationen, die in allen Einsatzbe-reichen erforderlich sind, die beste Gewähr dafür, dass wir in allen Bereichen eine deutliche Verbes-serung der Vergütungssituation dauerhaft be-werkstelligen können.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Zimmermann.</p>
         </sp>
-        <sp who="Pia Zimmermann" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Pia-Beate Zimmermann">
+        <sp who="Pia Zimmermann" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Pia Zimmermann" party="DIE LINKE" name="Pia Zimmermann">
           <speaker>Pia Zimmermann (DIE LINKE):</speaker>
           <p>Vielen Dank, Herr Präsident. – Frau Widmann-Mauz, ich habe eine Frage zum Koalitionsvertrag. Dort heißt es, dass es ein einheitliches Berufsbild mit einer gemeinsamen Grundausbildung und ei-ner darauf aufbauenden Spezialisierung für die Al-ten-, Kranken- und Kinderkrankenpflegeausbil-dung geben soll. Meine Frage ist: Soll diese Spe-zialisierung Teil der dreijährigen Ausbildung sein, oder soll die Spezialisierung nach der Ausbildung stattfinden?</p>
         </sp>
-        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" party="CDU" name="Annette Widmann-Mauz">
+        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" who_original="Annette Widmann-Mauz" party="CDU" name="Annette Widmann-Mauz">
           <speaker>Annette Widmann-Mauz, Parl. Staatssekretärin beim Bundesminister für Gesundheit:</speaker>
           <p>Frau Kollegin Zimmermann, das entsprechende Berufsgesetz befindet sich derzeit in der Ressort-abstimmung innerhalb der Bundesregierung. So-bald diese Abstimmung abgeschlossen ist, werde ich Sie darüber gerne an dieser Stelle oder im Ausschuss ausführlich informieren.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Damit sind wir am Ende dieses Geschäftsbe-reiches.</p>
           <p>Ich rufe den Geschäftsbereich des Bundesmi-nisteriums für Verkehr und digitale Infrastruktur auf. Die Fragen 16 und 17 der Abgeordneten Sa-bine Leidig, die Fragen 18 und 19 des Abgeordne-ten Herbert Behrens sowie die Frage 20 des Ab-geordneten Oliver Krischer werden schriftlich be-antwortet.</p>
@@ -917,79 +917,79 @@
           <p>Ich rufe die Frage 25 des Abgeordneten Uwe Kekeritz auf:</p>
           <p>Inwiefern treffen die Schilderungen im Nachrichtenmagazin Der Spiegel (vergleiche Ausgabe vom 24. Januar 2015 „Gegen Ethos und Gewissen“) zu, wonach der Staatssekretär beim Bundesminister für wirtschaftliche Zusammenarbeit und Ent-wicklung, Dr. Friedrich Kitschelt, die damalige Abteilungsleiterin U. M. in ihrem Büro aufgesucht und in aggressiver Weise auf-gefordert habe, die Bewertung ihrer Mitarbeiterin G. H. abzu-senken, und wie hat sich das daraufhin erfolgte Gespräch zwi-schen U. M. und dem Bundesminister Dr. Gerd Müller im Minis-terbüro zugetragen, wo U. M. den Bundesminister über den – aus ihrer Sicht – Versuch der „Nötigung“ durch den Staatssekre-tär Dr. Friedrich Kitschelt in Kenntnis gesetzt hat?</p>
         </sp>
-        <sp who="Hans-Joachim Fuchtel" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusam-menarbeit und Entwicklung" party="CDU" name="Hans-Joachim Fuchtel">
+        <sp who="Hans-Joachim Fuchtel" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusam-menarbeit und Entwicklung" who_original="Hans-Joachim Fuchtel" party="CDU" name="Hans-Joachim Fuchtel">
           <speaker>Hans-Joachim Fuchtel, Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusam-menarbeit und Entwicklung:</speaker>
           <p>Kann ich beide Fragen zusammen beantworten?</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Dann rufe ich auch die Frage 26 des Abgeord-neten Uwe Kekeritz auf:</p>
           <p>Kann das Bundesministerium für wirtschaftliche Zusammen-arbeit und Entwicklung plausibel darlegen, wie der erst wenige Wochen im Amt befindliche Nachfolger von U. M. die Mitarbei-terin G. H. objektiver beurteilen kann als deren langjährige Vor-gesetzte U. M., und welche Konsequenzen erwägt der Bundes-minister Dr. Gerd Müller, sollte die Staatsanwaltschaft tatsäch-lich Klage gegen den Staatssekretär Dr. Friedrich Kitschelt we-gen Nötigung erheben oder diesen gar verurteilen?</p>
         </sp>
-        <sp who="Hans-Joachim Fuchtel" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusam-menarbeit und Entwicklung" party="CDU" name="Hans-Joachim Fuchtel">
+        <sp who="Hans-Joachim Fuchtel" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusam-menarbeit und Entwicklung" who_original="Hans-Joachim Fuchtel" party="CDU" name="Hans-Joachim Fuchtel">
           <speaker>Hans-Joachim Fuchtel, Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusam-menarbeit und Entwicklung:</speaker>
           <p>Herr Kollege Kekeritz, zwei ganz klare Antwor-ten: Erstens. Die in der von Ihnen zitierten Be-richterstattung erhobenen Vorwürfe sind unbe-gründet.</p>
           <p>Zweitens. Das Beurteilungsverfahren lief nach den Grundsätzen ab, wie sie von der Bundeslauf-bahnverordnung festgelegt sind.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Bitte, Herr Kekeritz.</p>
         </sp>
-        <sp who="Uwe Kekeritz" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Uwe Kekeritz">
+        <sp who="Uwe Kekeritz" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Uwe Kekeritz" party="GRUENE" name="Uwe Kekeritz">
           <speaker>Uwe Kekeritz (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Verstehe ich Sie richtig, Herr Fuchtel, dass es das Gespräch zwischen Frau Müller und dem Herrn Minister nicht gab? Was wurde von Herrn Minister Müller tatsächlich an Frau Müller zurück-gespiegelt? Inwieweit war das Gespräch zwischen Frau Müller und Herrn Kitschelt vorher mit dem Minister abgesprochen?</p>
         </sp>
-        <sp who="Hans-Joachim Fuchtel" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusam-menarbeit und Entwicklung" party="CDU" name="Hans-Joachim Fuchtel">
+        <sp who="Hans-Joachim Fuchtel" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusam-menarbeit und Entwicklung" who_original="Hans-Joachim Fuchtel" party="CDU" name="Hans-Joachim Fuchtel">
           <speaker>Hans-Joachim Fuchtel, Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusam-menarbeit und Entwicklung:</speaker>
           <p>Ich habe Ihnen noch nicht gesagt, dass ich da-zu keine Ausführungen mache. Ich wollte Ihnen erst einmal einleitend sagen, wie der Rahmen aussieht.</p>
           <p>Ich möchte Ihnen weiter sagen, dass ich als Dienstherr eine Fürsorgepflicht gegenüber allen Bediensteten des Hauses habe. Des Weiteren ha-be ich im Interesse der Mitarbeiterinnen und Mit-arbeiter den Datenschutz zu wahren. Zudem habe ich die Aufgabe, dafür zu sorgen, dass am heuti-gen Tage kein Präzedenzfall geschaffen wird, wo-nach künftig alle Gespräche, Benotungen und Konkurrenzen in Ministerien, die es täglich gibt, in diesem Plenum zur Debatte kommen.</p>
           <p>Uwe Kekeritz (BÜNDNIS 90/DIE GRÜ-NEN):</p>
           <p>Kann ich also davon ausgehen, dass die Staatsanwaltschaft von sich aus nicht ermitteln wird?</p>
         </sp>
-        <sp who="Hans-Joachim Fuchtel" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusam-menarbeit und Entwicklung" party="CDU" name="Hans-Joachim Fuchtel">
+        <sp who="Hans-Joachim Fuchtel" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusam-menarbeit und Entwicklung" who_original="Hans-Joachim Fuchtel" party="CDU" name="Hans-Joachim Fuchtel">
           <speaker>Hans-Joachim Fuchtel, Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusam-menarbeit und Entwicklung:</speaker>
           <p>Sie versuchen hier, mit Suggestivfragen ir-gendwelche Ergebnisse zu erzielen. Wir zwei sind schon zu lange alte Hasen, als dass dies klappen könnte.</p>
           <p>Insofern sage ich Ihnen: Es gab natürlich ein Gespräch zwischen Frau Müller, der Abteilungslei-terin, und Herrn Dr. Kitschelt. Dies diente der Übergabe der Urkunde zur Bestellung der Frau Müller zur Ministerialdirektorin auf Lebenszeit. Es gab auch ein Gespräch zwischen Frau Müller und dem Minister, dessen zentraler Gegenstand die Frage der Besetzung einer internationalen Spit-zenposition war. Abschließend darf ich Ihnen sa-gen: Aufgrund ihrer besonderen Erfahrungen und Leistungen wurde dieser Ministerialdirektorin vom BMZ die einflussreiche, multilaterale Position ei-ner Exekutivdirektorin bei der Weltbank – es ist im internationalen Bereich eigentlich die einfluss-reichste Position – übertragen.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Staatssekretär, achten Sie bitte auf die Zeit. – Herr Kekeritz, Sie haben zwei Fragen ge-stellt. Jetzt können Sie zur zweiten Frage wiede-rum zwei Zusatzfragen stellen.</p>
         </sp>
-        <sp who="Uwe Kekeritz" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Uwe Kekeritz">
+        <sp who="Uwe Kekeritz" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Uwe Kekeritz" party="GRUENE" name="Uwe Kekeritz">
           <speaker>Uwe Kekeritz (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ich stelle eine Frage, die in die gleiche Rich-tung geht. Ich möchte jetzt von Ihnen ganz allge-mein wissen: Wie viele solcher Umbewertungen sind in Ihrem Hause schon vorgekommen, und inwieweit gibt es öfter Schwierigkeiten bei der Bewertung von Mitarbeiterinnen und Mitarbeitern? – Das betrifft nicht den Datenschutz; denn es geht mir nicht um Namen, sondern um Zahlen.</p>
         </sp>
-        <sp who="Hans-Joachim Fuchtel" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusam-menarbeit und Entwicklung" party="CDU" name="Hans-Joachim Fuchtel">
+        <sp who="Hans-Joachim Fuchtel" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusam-menarbeit und Entwicklung" who_original="Hans-Joachim Fuchtel" party="CDU" name="Hans-Joachim Fuchtel">
           <speaker>Hans-Joachim Fuchtel, Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusam-menarbeit und Entwicklung:</speaker>
           <p>Ich habe Ihnen hier schon klar gesagt, wie das Verfahren aussieht. Es gibt eine Bundeslauf-bahnverordnung und eine Verordnung für die Be-wertung. Sie müssen eingehalten werden. Das be-trifft alle Beamten, die eine andere Verwendung bekommen sollen und können oder beispielsweise vor einer Beförderung stehen. Dann muss jedes Mal ein solches Verfahren durchgeführt werden.</p>
           <p>Ich betone nochmals, dass ich nicht all die Fälle zählen kann. Denn das würde bedeuten, dass wir die Bürokratie in den Ministerien weiter ausbauen müssten, und das kann nicht einmal in Ihrem Inte-resse sein.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Außerdem hätte die Redezeit dafür auch nicht mehr zur Verfügung gestanden. – Jetzt hat der Kollege Kekeritz noch eine letzte Zusatzfrage.</p>
         </sp>
-        <sp who="Uwe Kekeritz" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Uwe Kekeritz">
+        <sp who="Uwe Kekeritz" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Uwe Kekeritz" party="GRUENE" name="Uwe Kekeritz">
           <speaker>Uwe Kekeritz (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Genau. – Ich habe das Gefühl, dass Sie mir die Frage 26 eigentlich nicht richtig beantwortet ha-ben. Es stellt sich die Frage, inwieweit die Bewer-tung einer Mitarbeiterin, eines Mitarbeiters durch jemanden korrigiert werden kann, der überhaupt nicht in diesem Bereich tätig war. Wie ist so et-was möglich?</p>
         </sp>
-        <sp who="Hans-Joachim Fuchtel" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusam-menarbeit und Entwicklung" party="CDU" name="Hans-Joachim Fuchtel">
+        <sp who="Hans-Joachim Fuchtel" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusam-menarbeit und Entwicklung" who_original="Hans-Joachim Fuchtel" party="CDU" name="Hans-Joachim Fuchtel">
           <speaker>Hans-Joachim Fuchtel, Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusam-menarbeit und Entwicklung:</speaker>
           <p>Sie können vielleicht von außen nicht beurtei-len, wer da tätig war und wer nicht. Es ist eine Bewertung, die im Hause vorgenommen werden muss. Dazu darf ich Ihnen schlichtweg sagen: Hier handelt es sich um den Kernbereich exekuti-ver Eigenverantwortung des Ministeriums. Das gilt nicht nur für mein Ministerium, sondern es ist generell so. Das ist auch der Grund dafür, dass bisher keine Debatte über eine solche Materie stattgefunden hat und die Debatte heute die erste dieser Art gewesen wäre.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Hänsel.</p>
         </sp>
-        <sp who="Heike Hänsel" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Heike Hänsel">
+        <sp who="Heike Hänsel" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Heike Hänsel" party="DIE LINKE" name="Heike Hänsel">
           <speaker>Heike Hänsel (DIE LINKE):</speaker>
           <p>Danke schön. – Herr Staatssekretär, offensicht-lich stimmt bei den Vorgängen etwas nicht. Sonst würde das ja nicht solche Wellen schlagen, sonst würde auch keine Mitarbeiterin den Rechtsweg beschreiten wollen. Das heißt, Sie können das nicht wegdiskutieren und sagen: „Wir haben hier innere Abläufe, und das wird hier nicht diskutiert“, zumal Good Governance ein sehr beliebtes Schwerpunktthema der Entwicklungszusammen-arbeit der Bundesregierung ist. Sie sprechen im-mer von Good-Governance-Kriterien usw. Dann kommt es mit Blick auf die Glaubwürdigkeit natür-lich schlecht, wenn man im eigenen Ministerium solche Fälle hat, die doch sehr fragwürdig sind.</p>
           <p>Bisher haben Sie nicht plausibel erklärt, warum nicht eine langjährige Mitarbeiterin eine Bewer-tung vornimmt, sondern jemand, der viel kürzer im Ministerium arbeitet und daher die Arbeit der Kol-legin gar nicht in ausreichendem Maße beurteilen kann. Meine Frage: Ziehen Sie denn irgendwelche Schlüsse daraus, um diese Sache zu heilen?</p>
         </sp>
-        <sp who="Hans-Joachim Fuchtel" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusam-menarbeit und Entwicklung" party="CDU" name="Hans-Joachim Fuchtel">
+        <sp who="Hans-Joachim Fuchtel" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusam-menarbeit und Entwicklung" who_original="Hans-Joachim Fuchtel" party="CDU" name="Hans-Joachim Fuchtel">
           <speaker>Hans-Joachim Fuchtel, Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusam-menarbeit und Entwicklung:</speaker>
           <p>Sehen Sie, ich bin 20 Jahre lang aktiver Anwalt gewesen. Deswegen passe ich auf jeden Buch-staben auf. Mir gefällt an Ihrer Wortmeldung schon nicht, dass Sie statt von „Fall“ von „Fällen“ sprechen. Dazu gibt es selbst nach der Presse-verlautbarung des betreffenden Magazins keinen Anlass. Daher entnehme ich Ihrer Frage, dass es Ihnen eher um Agitation geht als um die Mitarbei-terinnen und Mitarbeiter in dem betroffenen Haus.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Zu diesem Geschäftsbereich sehe ich keine weiteren Nachfragen.</p>
           <stage type="interjection">(Heike Hänsel [DIE LINKE]: Ach, das war die Antwort?)</stage>
@@ -1000,93 +1000,93 @@
           <p>Ich rufe die Frage 34 des Abgeordneten Wolf-gang Gehrcke auf:</p>
           <p>Welche Kenntnisse hat die Bundesregierung über die Mos-kauer Syrien-Konferenz (news.ORF.at: „Syrien-Gespräche be-ginnen in Moskau“ vom 25. Januar 2015, http://orf.at/sto ries/2262607/), an der gewaltfreie demokratische Organisatio-nen der syrischen Opposition sowie Regierungsvertreter teil-nahmen, und welche Organisationen und Persönlichkeiten der syrischen Opposition haben nach Kenntnis der Bundesregie-rung an der Konferenz teilgenommen?</p>
         </sp>
-        <sp who="Michael Roth" parliamentary_group="NA" role="government" position="Staatsminister im Auswärtigen Amt" party="SPD" name="Michael Roth">
+        <sp who="Michael Roth" parliamentary_group="NA" role="government" position="Staatsminister im Auswärtigen Amt" who_original="Michael Roth" party="SPD" name="Michael Roth">
           <speaker>Michael Roth, Staatsminister im Auswärtigen Amt:</speaker>
           <p>Ich danke Ihnen herzlich, Herr Präsident. – Herr Kollege Gehrcke, Sie beziehen sich auf die Syri-en-Konferenz in Moskau, die vom 26. bis 29. Januar auf Einladung der russischen Regie-rung stattfand. Vonseiten der syrischen Oppositi-on wurden ausdrücklich keine Organisationen, sondern nur Einzelpersönlichkeiten eingeladen. Inwieweit diese eingeladenen Persönlichkeiten wiederum Organisationen nahestehen, die als ge-waltfrei, oppositionell und demokratisch zu be-zeichnen sind, ist innerhalb der syrischen Opposi-tion umstritten.</p>
           <p>Die angereisten Personen bilden nur einen sehr kleinen Ausschnitt aus dem Spektrum der syri-schen Opposition ab. Eine offizielle Liste seitens der russischen Regierung liegt uns nicht vor, aber wir haben recherchiert und im Netz eine Liste der Teilnehmer gefunden. Ich biete gerne an, Ihnen diese Liste im Anschluss an die Fragestunde zur Verfügung zu stellen. Vonseiten der Nichtregie-rungsorganisationen haben etwas mehr als 30 Personen teilgenommen. Die Namen haben wir aufgeführt, aber ich kann keinen Anspruch auf Vollständigkeit erheben.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Sie haben eine Nachfrage, Herr Gehrcke.</p>
         </sp>
-        <sp who="Wolfgang Gehrcke" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Wolfgang Gehrcke">
+        <sp who="Wolfgang Gehrcke" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Wolfgang Gehrcke" party="DIE LINKE" name="Wolfgang Gehrcke">
           <speaker>Wolfgang Gehrcke (DIE LINKE):</speaker>
           <p>Herr Staatsminister, ich bin natürlich dankbar, wenn Sie mir diese Liste geben. Ich war so frei, sie mir ebenfalls aus dem Netz zu ziehen. Wir können ja gucken, ob wir die gleiche haben; das unterstelle ich einmal.</p>
           <p>Zu meiner Frage. Wie bewertet die Bundesre-gierung die Ergebnisse dieser Konferenz in Mos-kau? Dass die Konferenz stattgefunden hat, ist auch von der UNO sehr positiv beurteilt worden. Dass man Einzelpersonen und nicht Organisatio-nen einlädt, halte ich für diplomatisch sehr schlau; sonst hätte sie nämlich nicht stattgefunden.</p>
           <p>Im Ergebnis hat sie, glaube ich, ein Zehnpunk-teprogramm gezeitigt. Ich würde gerne wissen, ob die Bundesregierung sich mit diesen Ergebnissen auseinandergesetzt hat und wie Sie sie bewerten?</p>
         </sp>
-        <sp who="Michael Roth" parliamentary_group="NA" role="government" position="Staatsminister im Auswärtigen Amt" party="SPD" name="Michael Roth">
+        <sp who="Michael Roth" parliamentary_group="NA" role="government" position="Staatsminister im Auswärtigen Amt" who_original="Michael Roth" party="SPD" name="Michael Roth">
           <speaker>Michael Roth, Staatsminister im Auswärtigen Amt:</speaker>
           <p>Herr Kollege Gehrcke, der Bundesregierung liegen derzeit keine direkten Informationen vor. Das heißt, ich müsste mit Ihnen allein auf der Grundlage von Medienberichterstattung ins Ge-spräch kommen. Wir haben auch noch keine In-formationen von den Veranstaltern bzw. von den Teilnehmern der Konferenz.</p>
           <p>Worauf wir uns beziehen können, das sind die abschließenden Äußerungen des russischen Me-diators -Witalij Naumkin, der eine eigene Interpre-tation des Konsenses der Teilnehmer vorgenom-men hat, der elf Punkte umfasst. Herr Präsident, wenn es die Zeit erlaubt, dann kann ich die elf Punkte gerne vortragen.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das erlaubt die Zeit sicher nicht.</p>
         </sp>
-        <sp who="Michael Roth" parliamentary_group="NA" role="government" position="Staatsminister im Auswärtigen Amt" party="SPD" name="Michael Roth">
+        <sp who="Michael Roth" parliamentary_group="NA" role="government" position="Staatsminister im Auswärtigen Amt" who_original="Michael Roth" party="SPD" name="Michael Roth">
           <speaker>Michael Roth, Staatsminister im Auswärtigen Amt:</speaker>
           <p>Dann müsste der Kollege Gehrcke noch einmal nachfragen und sich dazu ins Benehmen setzen.</p>
           <p>Im Übrigen wissen Sie, Herr Kollege, dass sich die Bundesregierung seit der blutigen Nieder-schlagung der Bürgerproteste im Jahr 2011 stets für eine politische Lösung des Syrien-Konflikts eingesetzt hat. Für uns ist aber das Kommuniqué von Genf 2012 die wesentliche Grundlage. Für uns spielen die Vereinten Nationen als Schirmherr dieses schwierigen Prozesses die zentrale Rolle.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Gehrcke.</p>
         </sp>
-        <sp who="Wolfgang Gehrcke" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Wolfgang Gehrcke">
+        <sp who="Wolfgang Gehrcke" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Wolfgang Gehrcke" party="DIE LINKE" name="Wolfgang Gehrcke">
           <speaker>Wolfgang Gehrcke (DIE LINKE):</speaker>
           <p>Herr Staatsminister, ich bin nächste Woche in Moskau. Ich biete Ihnen an, die Informationen mit-zubringen. Ich habe mich heute im Außenministe-rium angemeldet, um Informationen zu erhalten. Ich biete Ihnen an: Im Austausch für die Liste bringe ich Ihnen Informationen mit. Dann können wir uns darüber unterhalten.</p>
           <p>Ich frage vor dem Hintergrund der immer grau-siger werdenden Ereignisse in Syrien – dieser Tage die Verbrennung des jordanischen Piloten bei lebendigem Leibe und die Enthauptung des ja-panischen Journalisten –: Ist es nicht notwendig, mit aller Kraft alle politischen Formationen, die gegen IS in Stellung gehen können, zusammen-zubringen und in diese Richtung sehr viel Druck zu entwickeln?</p>
         </sp>
-        <sp who="Michael Roth" parliamentary_group="NA" role="government" position="Staatsminister im Auswärtigen Amt" party="SPD" name="Michael Roth">
+        <sp who="Michael Roth" parliamentary_group="NA" role="government" position="Staatsminister im Auswärtigen Amt" who_original="Michael Roth" party="SPD" name="Michael Roth">
           <speaker>Michael Roth, Staatsminister im Auswärtigen Amt:</speaker>
           <p>Ich kann Ihnen in Ihrer Bewertung zustimmen: Was wir derzeit erleben, ist grauenhaft und ent-setzt uns immer wieder aufs Neue. Es fällt auch mir schwer, Worte dafür zu finden.</p>
           <p>Ich bin natürlich immer an einem guten Mitei-nander mit dem Bundestag interessiert. Sollten Sie Informationen haben, können Sie uns diese natürlich gerne zur Verfügung stellen.</p>
           <p>Mit Blick auf die notwendigen Gespräche und den politischen Dialog will ich noch einmal darauf hinweisen, dass Gespräche zwischen den Opposi-tionellen einerseits und der syrischen Regierung andererseits selbstverständlich notwendig sind. In diese Gespräche müssen aber alle wichtigen Op-positionsgruppen institutionell eingebunden wer-den. Für die Bundesregierung gehört auch die Na-tionale Koalition dazu. Ohne diese Einbeziehung sehen wir kaum Aussicht auf Erfolg.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Hänsel.</p>
         </sp>
-        <sp who="Heike Hänsel" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Heike Hänsel">
+        <sp who="Heike Hänsel" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Heike Hänsel" party="DIE LINKE" name="Heike Hänsel">
           <speaker>Heike Hänsel (DIE LINKE):</speaker>
           <p>Danke. – Herr Staatsminister, ich habe noch ei-ne Nachfrage. Sie sagten gerade, dass Sie auf das UN-Format fokussieren. Aber Sie bewegen sich natürlich auch außerhalb des UN-Formats in diesem Club der Freunde Syriens. Dort pflegen Sie – zumindest war das in den letzten Jahren so – enge Kontakte zur Opposition. Aus Ihrer Sicht hat er mittlerweile den legitimen Anspruch, die Regierung zu stellen. Für Sie ist Assad ja gar nicht mehr der legitime Vertreter Syriens. Zumin-dest sah die letzte Bundesregierung das so. Ich weiß nicht, ob Sie das auch so sehen. Wer ist für Sie legitimer Ansprechpartner in Syrien, und wel-che Initiativen ergreift der Club der Freunde Syri-ens für eine Konfliktlösung? Über Kontakte mit der Opposition usw. hört man überhaupt nichts. Viel-leicht könnten Sie ein paar Sätze dazu sagen. Wie arbeitet im Moment eigentlich der angehängte Treuhandfonds mit immerhin 30 Millionen Euro? Vielleicht könnten Sie ein paar Punkte erläutern. Wenn Sie nicht alles beantworten können, nehme ich gerne auch eine schriftliche Antwort.</p>
           <p>Danke.</p>
         </sp>
-        <sp who="Michael Roth" parliamentary_group="NA" role="government" position="Staatsminister im Auswärtigen Amt" party="SPD" name="Michael Roth">
+        <sp who="Michael Roth" parliamentary_group="NA" role="government" position="Staatsminister im Auswärtigen Amt" who_original="Michael Roth" party="SPD" name="Michael Roth">
           <speaker>Michael Roth, Staatsminister im Auswärtigen Amt:</speaker>
           <p>Wenn Sie das wünschen, Frau Kollegin, biete ich natürlich an, Ihnen eine breite Information schriftlich zukommen zu lassen. Im Vorgriff darauf will ich auf die zentrale Rolle des Beauftragten der Vereinten Nationen hinweisen, Staffan de Mistura. Wir stehen in sehr engem Kontakt mit dem Beauf-tragten, weil er für uns einer der entscheidenden Akteure ist, wenn es darum geht, die verschiede-nen Gruppierungen an einen Tisch zu bringen.</p>
           <p>Unsere Erwartung an die derzeitige syrische Regierung ist eindeutig, weil bislang jeglicher Bei-trag zu einer Dialoglösung fehlt. Ich will ein paar Punkte nennen, die wesentlich sind, um den von uns geforderten politischen Prozess zu erleich-tern. Dabei geht es nicht um den militärischen Prozess. Es geht unter anderem um die Freilas-sung von politischen Gefangenen, es geht um die Einstellung der Bombardierung von Zivilisten, und es geht vor allem natürlich darum, dass die VN-Resolutionen zur humanitären Hilfe in Syrien un-verzüglich umgesetzt werden.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Ich rufe jetzt die Frage 35 des Kollegen Gehrcke auf:</p>
           <p>Kann die Bundesregierung bestätigen, dass die Konferenz-teilnehmer sich auf einen Zehnpunkteplan einigten, der die Auf-hebung der Sanktionen gegen Syrien fordert, den Rücktritt von Staatspräsident Baschar al-Assad nicht mehr als Vorbedingung für eine Beteiligung an einer Übergangsregierung nennt und die ausländische Intervention im syrischen Konflikt verurteilt, und welche Schlussfolgerungen zieht die Bundesregierung aus die-ser Entwicklung im Hinblick auf eine Unterstützung der geplan-ten Fortsetzung der Gespräche zwischen der syrischen Regie-rung und der syrischen Opposition in Moskau?</p>
         </sp>
-        <sp who="Michael Roth" parliamentary_group="NA" role="government" position="Staatsminister im Auswärtigen Amt" party="SPD" name="Michael Roth">
+        <sp who="Michael Roth" parliamentary_group="NA" role="government" position="Staatsminister im Auswärtigen Amt" who_original="Michael Roth" party="SPD" name="Michael Roth">
           <speaker>Michael Roth, Staatsminister im Auswärtigen Amt:</speaker>
           <p>Herr Präsident, ich bin davon ausgegangen, dass ich diese Frage schon beantwortet habe.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Dann erkundige ich mich einmal beim Kollegen Gehrcke, ob er das auch so sieht.</p>
         </sp>
-        <sp who="Michael Roth" parliamentary_group="NA" role="government" position="Staatsminister im Auswärtigen Amt" party="SPD" name="Michael Roth">
+        <sp who="Michael Roth" parliamentary_group="NA" role="government" position="Staatsminister im Auswärtigen Amt" who_original="Michael Roth" party="SPD" name="Michael Roth">
           <speaker>Michael Roth, Staatsminister im Auswärtigen Amt:</speaker>
           <p>Ich kann sie aber noch einmal beantworten.</p>
         </sp>
-        <sp who="Wolfgang Gehrcke" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Wolfgang Gehrcke">
+        <sp who="Wolfgang Gehrcke" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Wolfgang Gehrcke" party="DIE LINKE" name="Wolfgang Gehrcke">
           <speaker>Wolfgang Gehrcke (DIE LINKE):</speaker>
           <p>Ich wollte Ihnen die Chance geben – ich würde sie auch gerne hören –, die elf Punkte vorzutra-gen. Genau darauf bezieht sich diese Frage. Ich spreche allerdings von zehn Punkten. Wahr-scheinlich ist ein elfter Punkt hinzugekommen, den ich auch gerne hören würde.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Dafür stehen genau 100 Sekunden zur Verfü-gung. – Bitte schön.</p>
         </sp>
-        <sp who="Michael Roth" parliamentary_group="NA" role="government" position="Staatsminister im Aus-wärtigen Amt" party="SPD" name="Michael Roth">
+        <sp who="Michael Roth" parliamentary_group="NA" role="government" position="Staatsminister im Aus-wärtigen Amt" who_original="Michael Roth" party="SPD" name="Michael Roth">
           <speaker>Michael Roth, Staatsminister im Aus-wärtigen Amt:</speaker>
           <p>Ich will es ganz kurz machen. Schon in meinen einleitenden Erläuterungen habe ich darauf hinge-wiesen, dass wir noch keine Information von den Veranstaltern und Teilnehmenden hatten. Ich kann mich also nur auf die Pressekonferenz beziehen. Dort sind die sogenannten Moskauer Prinzipien erwähnt worden.</p>
-          <p>Ich will jetzt schnell die elf Punkte vortragen: </p>
+          <p>Ich will jetzt schnell die elf Punkte vortragen:</p>
           <p>Erstens. Einhaltung der Souveränität, Eintracht und territorialen Integrität Syriens.</p>
           <p>Zweitens. Der Kampf gegen den internationalen Terrorismus in all seinen Formen.</p>
           <p>Drittens. Die Beilegung der Krise im Land mit friedlichen politischen Mitteln. Hierbei wurden auch die Prinzipien des Genfer Kommuniqués vom 30. Juni 2012 erwähnt.</p>
@@ -1100,19 +1100,19 @@
           <p>Elftens. Die Aufhebung der gegen das syrische Volk verhängten Sanktionen.</p>
           <p>Das sind die elf Punkte.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Damit ist die Zeit auch erschöpft. Der Kollege Gehrcke hat aber noch eine Zusatzfrage.</p>
         </sp>
-        <sp who="Wolfgang Gehrcke" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Wolfgang Gehrcke">
+        <sp who="Wolfgang Gehrcke" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Wolfgang Gehrcke" party="DIE LINKE" name="Wolfgang Gehrcke">
           <speaker>Wolfgang Gehrcke (DIE LINKE):</speaker>
           <p>Ich finde, Herr Staatsminister, das, was dort in Moskau erarbeitet worden ist, ist ein recht ver-nünftiges Programm. Ein ähnliches Programm ist jetzt auch in Kairo auf einer Konferenz erarbeitet worden. Kann das die Bundesregierung nicht auch ihrerseits als Vorlage gegenüber dem Vertreter der Vereinten Nationen nehmen, wenn es darum geht, die Unterstützung Deutschlands für eine nicht gewaltsame Lösung der Syrienfrage, soweit es überhaupt möglich ist, aktiver zu betreiben? Syrien verschwindet aus den Schlagzeilen, auch aus unserer Politik. Das darf nicht sein.</p>
         </sp>
-        <sp who="Michael Roth" parliamentary_group="NA" role="government" position="Staatsminister im Auswärtigen Amt" party="SPD" name="Michael Roth">
+        <sp who="Michael Roth" parliamentary_group="NA" role="government" position="Staatsminister im Auswärtigen Amt" who_original="Michael Roth" party="SPD" name="Michael Roth">
           <speaker>Michael Roth, Staatsminister im Auswärtigen Amt:</speaker>
           <p>Ich habe schon eingangs deutlich gemacht, dass erstens jeder Beitrag, der den notwendigen politischen Prozess voranbringt, von uns er-wünscht ist und dass wir ihn zweitens selbstver-ständlich auch unterstützen. Wir sind aber ebenso der Auffassung, dass die gesamte Breite der Op-position Syriens einbezogen werden muss. Drit-tens sind wir der Auffassung, dass die zentralen Gespräche unter dem Dach der Vereinten Natio-nen geführt werden sollen. Für uns bleibt das Kommuniqué von Genf dafür die Grundlage. Wenn Russland einen konstruktiven Beitrag zu leisten vermag, ist dieser willkommen.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Die Fragen 36 und 37 der Abgeordneten Sevim Dağdelen werden schriftlich beantwortet.</p>
           <p>Ich rufe den Geschäftsbereich des Bundesmi-nisteriums des Innern auf. Die Frage 38 des Ab-geordneten Volker Beck wird schriftlich beantwor-tet.</p>
@@ -1123,6 +1123,7 @@
           <p>– Wir treffen uns dann nach Schluss der Sitzung beinahe unauffällig am Rande des Plenums.</p>
           <p>Ich bedanke mich bei allen Anwesenden und berufe die nächste Sitzung des Deutschen Bun-destags auf morgen, Donnerstag, den 5. Februar 2015, 9 Uhr, ein.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluss: 14.48 Uhr)</stage>
         </sp>
       </div>
     </body>

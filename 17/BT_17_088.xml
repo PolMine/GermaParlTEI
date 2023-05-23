@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-07</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2013/0920/dokumente/protokolle/plenarprotokolle/plenarprotokolle/17088.txt</url>
-        <date>2015-10-20 19:56:40</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -35,8 +35,8 @@
   </teiHeader>
   <text>
     <body>
-      <div type="agenda_item" n="1" what="debate" desc="- Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses ...">
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+      <div type="agenda_item" n="1" what="debate" desc="Debatte">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Die Sitzung ist eröffnet.</p>
           <p>Nehmen Sie bitte Platz. Guten Morgen, liebe Kolleginnen und Kollegen!</p>
@@ -64,7 +64,7 @@
           <p>Ich eröffne die Aussprache und erteile das Wort zunächst der Kollegin Birgit Homburger für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Birgit Homburger" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Birgit Homburger">
+        <sp who="Birgit Homburger" parliamentary_group="FDP" role="mp" position="NA" who_original="Birgit Homburger" party="FDP" name="Birgit Homburger">
           <speaker>Birgit Homburger (FDP):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Wenn man die Lage in Afghanistan von außen betrachtet - oft genug wird sie gerade auch hier nur oberflächlich betrachtet -, dann sieht man häufig nur die Probleme und den Anstieg von Sicherheitsvorfällen in den letzten Jahren. Man sieht eben nur wenig die Fortschritte und auch nicht, dass das damit zu tun hat, dass wir in Afghanistan zwischenzeitlich eben nicht nur punktuell arbeiten, sondern in der Fläche vertreten sind.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
@@ -94,12 +94,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Nächster Redner ist der Kollege Sigmar Gabriel für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Sigmar Gabriel" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Sigmar Gabriel">
+      </div>
+      <div type="agenda_item" n="2" what="debate" desc="Debatte">
+        <sp who="Sigmar Gabriel" parliamentary_group="SPD" role="mp" position="NA" who_original="Sigmar Gabriel" party="SPD" name="Sigmar Gabriel">
           <speaker>Sigmar Gabriel (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Liebe Kolleginnen und Kollegen! Der Deutsche Bundestag entscheidet heute erneut über die Entsendung unserer Soldatinnen und Soldaten nach Afghanistan. Im zehnten Jahr des Einsatzes ist das wohl die schwierigste Aufgabe, die Abgeordnete hier wahrnehmen müssen. Viel zu viele haben inzwischen ihr Leben verloren oder kehren traumatisiert oder verletzt zurück. Die Tragödien in den betroffenen Familien können wir wohl höchstens erahnen. Es ist richtig, sich heute für den Mut und die Tapferkeit all derjenigen zu bedanken, die sich in Afghanistan für ein Ende des Terrors, ein Ende der Gewalt und eine bessere Zukunft einsetzen. Wir Sozialdemokraten tun dies ausdrücklich.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
@@ -169,11 +171,13 @@
           <p>Moderne Führung sieht jedenfalls anders aus. Eine moderne Führung aber braucht die Bundeswehr heute mehr denn je. Der Erfolg der Bundeswehr in der Vergangenheit und noch mehr in der Zukunft basiert auf ihrer inneren Zivilität. Darauf wollen sich Menschen verlassen, die zur Bundeswehr gehen. Dazu gehören nicht zuletzt das Recht auf Anhörung und auf rechtliches Gehör sowie der Schutz vor Willkür. Das gilt für Mannschaften, Unteroffiziere, Seekadetten ebenso wie für Offiziere und Kommandeure. Wer dieses Recht verletzt, verstößt eklatant gegen die Prinzipien der Inneren Führung der Bundeswehr und des Staatsbürgers in Uniform, wie sie die Sozialdemokraten Georg Leber und Helmut Schmidt tief in der Bundeswehr verankert haben. Wir werden nicht zulassen, dass diese Erfolgsgeschichte durch Ihre Regierung kaputt gemacht wird.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege Gabriel, Sie berücksichtigen bitte die Zeit.</p>
         </sp>
-        <sp who="Sigmar Gabriel" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Sigmar Gabriel">
+      </div>
+      <div type="agenda_item" n="3" what="debate" desc="Debatte">
+        <sp who="Sigmar Gabriel" parliamentary_group="SPD" role="mp" position="NA" who_original="Sigmar Gabriel" party="SPD" name="Sigmar Gabriel">
           <speaker>Sigmar Gabriel (SPD):</speaker>
           <p>Das geschieht alles nur, weil sich der Minister inzwischen fernsteuern lässt. Wie die Frankfurter Allgemeine Zeitung treffend schreibt, gibt es eine strategische Verbindung, eine strategische Partnerschaft zwischen der Bild-Zeitung und dem Minister. Der Bild-Zeitung ist nichts vorzuwerfen. Sie will eine gute Auflage.</p>
           <stage type="interjection">(Zurufe von der CDU/CSU: Oh! Oh! - Volker Kauder [CDU/CSU]: Man sieht die Schleimspur!)</stage>
@@ -184,12 +188,14 @@
           <p>Das ist das Ergebnis von etwas mehr als einem Jahr. Das werden wir nicht hinnehmen.</p>
           <stage type="interjection">(Anhaltender Beifall bei der SPD - Beifall beim BÜNDNIS 90/DIE GRÜNEN - Florian Hahn [CDU/CSU]: Thema verfehlt!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält nun der Kollege Dr. Andreas Schockenhoff für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Andreas Schockenhoff" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Andreas Schockenhoff">
+      </div>
+      <div type="agenda_item" n="4" what="debate" desc="Debatte">
+        <sp who="Andreas Schockenhoff" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Andreas Schockenhoff" party="CDU" name="Andreas Schockenhoff">
           <speaker>Dr. Andreas Schockenhoff (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine lieben Kolleginnen und Kollegen! Sie haben wohl heute Morgen die Presseberichte über die Aktuelle Stunde vorgestern gelesen, Herr Gabriel. Darin ist nachzulesen, dass Ihre Fraktion bei der Debatte über die Vorfälle in der Bundeswehr wirklich ein sehr schwaches Bild abgegeben hat.</p>
           <stage type="interjection">(Dr. Karl A. Lamers [Heidelberg] [CDU/ CSU]: So ist es! - Thomas Oppermann [SPD]: Das stand im Bayernkurier!)</stage>
@@ -219,12 +225,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält nun der Kollege Gregor Gysi für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Gregor Gysi">
+      </div>
+      <div type="agenda_item" n="5" what="debate" desc="Debatte">
+        <sp who="Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Gregor Gysi" party="DIE LINKE" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (DIE LINKE):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Mit der Bombardierung Belgrads, einem völkerrechtswidrigen Krieg, bildete sich in Deutschland eine Kriegskoalition aus Union, SPD, FDP und Grünen.</p>
           <stage type="interjection">(Dr. Karl A. Lamers [Heidelberg] [CDU/ CSU]: Ungeheuerlich so etwas! - Zuruf von der FDP: Das kann doch wohl nicht wahr sein!)</stage>
@@ -284,11 +292,13 @@
           <p>Meine Forderung lautet ganz einfach - und ich will mich nur an SPD und Grüne wenden -: Liebe Mitglieder der Fraktionen von SPD und Grünen, treten Sie endlich und für immer aus der Kriegskoalition aus!</p>
           <stage type="interjection">(Anhaltender Beifall bei der LINKEN - Zuruf von der CDU/CSU: Ich verwahre mich gegen den Ausdruck "Kriegskoalition"!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Jürgen Trittin ist der nächste Redner für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Jürgen Trittin" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Jürgen Trittin">
+      </div>
+      <div type="agenda_item" n="6" what="debate" desc="Debatte">
+        <sp who="Jürgen Trittin" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Jürgen Trittin" party="GRUENE" name="Jürgen Trittin">
           <speaker>Jürgen Trittin (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Herr Gysi, ich habe auch vor der Position, die Sie hier formuliert haben, Respekt. Aber eines kann ich Ihnen nicht durchgehen lassen: Sie können sich nicht im Deutschen Bundestag hinstellen und sagen, die Menschen in Afghanistan seien von den Taliban genauso bedroht wie von der NATO. Wer einen Einsatz der NATO und einer Reihe weiterer Staaten - darunter viele muslimische Staaten - auf der Basis eines Mandates der Vereinten Nationen in eins setzt mit Terroristen und Verbrechern, der hat den Schuss nun wirklich nicht gehört.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der CDU/CSU, der SPD und der FDP)</stage>
@@ -329,12 +339,14 @@
           <p>Deswegen sagt die Mehrheit meiner Fraktion zwar nicht Nein zur Präsenz der Soldatinnen und Soldaten dort. Aber wir können Ihrem schwammigen Mandat der Konjunktive nicht zustimmen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält der Kollege Henning Otte für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Henning Otte" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Henning Otte">
+      </div>
+      <div type="agenda_item" n="7" what="debate" desc="Debatte">
+        <sp who="Henning Otte" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Henning Otte" party="CDU" name="Henning Otte">
           <speaker>Henning Otte (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! Der Antrag der Bundesregierung zur Fortsetzung des ISAF-Mandats in Afghanistan ist ein richtiger, ein notwendiger und für unsere Soldaten ein gefährlicher Einsatz. Die heutige Entscheidung zur Verlängerung des Mandates macht sich niemand von uns leicht. Es ist notwendig, den von Rot-Grün im Jahre 2001 begonnenen Weg, das Land Afghanistan vom Terrorismus zu befreien und zivile friedliche Strukturen zu etablieren, fortzusetzen, um ihn zu einem Erfolg zu führen. Das Ziel dieses Einsatzes ist, das Land Afghanistan zu stabilisieren und damit auch die Sicherheit Deutschlands zu stärken.</p>
           <p>Die afghanische Regierung hat sich verpflichtet, ab 2014 eine selbsttragende Sicherheit zu erreichen. Dazu wollen wir mit der Verlängerung dieses Mandates einen Beitrag leisten. Es ist ehrlich, zu sagen, dass sich der Einsatz weitaus schwieriger gestaltet, als dies zu Beginn im Jahr 2001 von Rot-Grün vermutet wurde. Die Intensität der Einsätze ist vielleicht sogar unterschätzt worden, die politischen Ziele sind bestimmt überschätzt worden.</p>
@@ -348,12 +360,14 @@
           <p>Hier gibt es einen offenen Dissens in diesem Haus. CDU/CSU, FDP und SPD stehen zu dieser Verantwortung. Die Grünen, Herr Trittin, wollen mit ihrem Entschließungsantrag einen für die Taliban nachvollziehbaren Plan des Abzugs haben. Wer - wie die Grünen - ein bisschen zustimmt, sich ein bisschen enthält, aber meistens dagegen stimmt, der erweckt den Eindruck, er laufe Umfragewerten nach, schadet dem Ansehen Deutschlands in der Welt und gefährdet die Sicherheit unserer Soldatinnen und Soldaten.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Claudia Roth [Augsburg] [BÜNDNIS 90/DIE GRÜNEN]: Jetzt kommt es aber echt dicke!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege Otte, einen Augenblick. - Gestatten Sie eine Zwischenfrage des Kollegen Ströbele?</p>
           <stage type="interjection">(Zurufe von der CDU/CSU und der FDP: Nein!)</stage>
         </sp>
-        <sp who="Henning Otte" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Henning Otte">
+      </div>
+      <div type="agenda_item" n="8" what="debate" desc="Debatte">
+        <sp who="Henning Otte" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Henning Otte" party="CDU" name="Henning Otte">
           <speaker>Henning Otte (CDU/CSU):</speaker>
           <p>Nein. Herr Ströbele sollte erst einmal versuchen, in der eigenen Fraktion zu Wort zu kommen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
@@ -362,12 +376,14 @@
           <p>Lieber Herr Gabriel, wer meint, in einer solchen Debatte um eine Mandatsverlängerung hier im Plenum aktuelle Vorwürfe in die Diskussion einbringen zu sollen, sollte bedenken, dass man solche Äußerungen nicht mit Kalkül, sondern mit Bedacht tätigen sollte. Ich hielt es nicht für angemessen, dass Sie uns heute diese Diskussion um aktuelle Vorwürfe aufzwingen wollten. Es ist, wie ich finde, vielmehr wichtiger, dass wir unseren Soldaten mit dem zur Entscheidung stehenden Parlamentsauftrag eine klare Rückendeckung geben und ihnen das volle Vertrauen für ihren schweren Auftrag aussprechen. Sie stehen ein für unser Land. Sie verdienen unsere Unterstützung. Deswegen stimmt die CDU/CSU-Bundestagsfraktion dieser Mandatsverlängerung zu.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Nächster Redner ist der Kollege Djir-Sarai für die FDP-Fraktion. Bevor ich Ihnen, Herr Djir-Sarai, allerdings das Wort gebe, darf ich Sie einen Augenblick um Geduld bitten. Der Kollege Ströbele hatte unmittelbar im Anschluss an die Rede des Kollegen Otte um die Möglichkeit einer Kurzintervention gebeten. Das sollten wir dann auch sofort abwickeln.</p>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Hans-Christian Ströbele" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Hans-Christian Ströbele">
+      </div>
+      <div type="agenda_item" n="9" what="debate" desc="Debatte">
+        <sp who="Hans-Christian Ströbele" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Hans-Christian Ströbele" party="GRUENE" name="Hans-Christian Ströbele">
           <speaker>Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Kollege, Sie haben leider meine Zwischenfrage nicht zugelassen, nachdem Sie davon gesprochen haben, dass das, was wir wollen, die Soldaten in Afghanistan in Gefahr bringt.</p>
           <p>Ich stelle fest, dass Sie hier und heute einem Mandat zustimmen wollen, was für Afghanistan bedeutet, dass der Krieg ein Jahr fortgesetzt wird - mit einer sicheren Option für weitere drei Jahre. Im letzten Jahr, im Jahr 2010, hat dieser Krieg weit über 10 000 Opfer in Afghanistan gekostet; weit über 10 000 Menschen wurden in diesem Krieg getötet. Wenn Sie diesen Krieg jetzt zunächst um ein Jahr und danach noch einmal um drei Jahre verlängern, nehmen Sie billigend in Kauf, dass weitere Zehntausende von Menschen in Afghanistan im Krieg umkommen. Da frage ich Sie und auch alle anderen, die jetzt zustimmen wollen: Wollen Sie das wirklich in Kauf nehmen, und wollen Sie weiter behaupten, dass eine Beendigung des Krieges in der Form, dass in allen Teilen des Landes, in denen das heute schon möglich ist, ein Waffenstillstand verkündet und eingehalten wird,</p>
@@ -381,12 +397,14 @@
           <p>und diese Bundesregierung führt Krieg in Afghanistan. Das heißt, wir haben eine kriegführende Kanzlerin und einen kriegführenden Verteidigungsminister, also einen Kriegsminister.</p>
           <stage type="interjection">(Beifall bei der LINKEN - Hartwig Fischer [Göttingen] [CDU/CSU]: Sie kriegen von Ihrer eigenen Fraktion keine Redezeit mehr!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort hat nun der Kollege Djir-Sarai für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Bijan Djir-Sarai" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Bijan Djir-Sarai">
+      </div>
+      <div type="agenda_item" n="10" what="debate" desc="Debatte">
+        <sp who="Bijan Djir-Sarai" parliamentary_group="FDP" role="mp" position="NA" who_original="Bijan Djir-Sarai" party="FDP" name="Bijan Djir-Sarai">
           <speaker>Dr. Bijan Djir-Sarai (FDP):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Seitdem dieses Haus vor fast zehn Jahren das erste Mal das ISAF-Mandat beschlossen hat, hat sich vieles in Afghanistan verändert: Mehr als 13 000 Kilometer Straßen wurden gebaut, es wurde in die Infrastruktur investiert, es wurden Schulen gebaut, die medizinische Versorgung und die Energieversorgung wurden verbessert. Dies alles sind Erfolge für die Menschen in Afghanistan. Durch den tagtäglichen Einsatz der Bundeswehr und der Entwicklungsexperten am Hindukusch ist vieles besser geworden.</p>
           <p>Ein wesentlicher Pfeiler unserer Strategie ist und bleibt daher der zivile Aufbau. Minister Niebel hat in seiner Regierungserklärung die Erfolge speziell auf diesem Gebiet deutlich herausgestellt. Es ist ein großer Erfolg, dass sich die Situation für die Bevölkerung in Afghanistan, speziell für Frauen und Kinder, deutlich verbessert hat. Das alles ist erst durch den internationalen Einsatz möglich geworden.</p>
@@ -403,12 +421,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Roderich Kiesewetter ist der nächste Redner für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Roderich Kiesewetter" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Roderich Kiesewetter">
+      </div>
+      <div type="agenda_item" n="11" what="debate" desc="Debatte">
+        <sp who="Roderich Kiesewetter" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Roderich Kiesewetter" party="CDU" name="Roderich Kiesewetter">
           <speaker>Roderich Kiesewetter (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Mit Blick auf die Linke: Es ist schon erstaunlich, dass hier nicht der kommunistische Wolf gesprochen hat, sondern der Schafspelz.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der FDP - Lachen bei Abgeordneten der LINKEN)</stage>
@@ -435,12 +455,14 @@
           <p>Ganz herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Letzter Redner ist der Kollege Florian Hahn für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Florian Hahn" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Florian Hahn">
+      </div>
+      <div type="agenda_item" n="12" what="debate" desc="Debatte">
+        <sp who="Florian Hahn" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Florian Hahn" party="CSU" name="Florian Hahn">
           <speaker>Florian Hahn (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Sehr geehrte Kolleginnen und Kollegen! Es ist mir absolut unverständlich, dass in Talkshows, in Diskussionsrunden und auch von einem kleinen Teil hier in diesem Hohen Hause immer wieder behauptet wird, dass die afghanische Bevölkerung den sofortigen Abzug der internationalen Truppen möchte. Diese Behauptung ist entweder naiv oder vorsätzlich falsch.</p>
           <stage type="interjection">(Zuruf von der LINKEN): Oder richtig!)</stage>
@@ -463,11 +485,13 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Zu einer Kurzintervention erhält die Kollegin Heike Hänsel das Wort.</p>
         </sp>
-        <sp who="Heike Hänsel" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Heike Hänsel">
+      </div>
+      <div type="agenda_item" n="13" what="debate" desc="Debatte">
+        <sp who="Heike Hänsel" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Heike Hänsel" party="DIE LINKE" name="Heike Hänsel">
           <speaker>Heike Hänsel (DIE LINKE):</speaker>
           <p>Danke schön, Herr Präsident. - Sehr geehrter Herr Kollege Hahn, Sie haben wie sämtliche Vorredner einschließlich Herrn Trittins gesagt, die NATO würde die Lebenssituation der Menschen in Afghanistan verbessern. Deshalb frage ich Sie: Würden Sie erstens zur Kenntnis nehmen, dass der Einsatz von Streubomben, von weißem Phosphor, dass gezielte Tötungen, Entführungen und die Vorfälle in Abu Ghureib keine Verbesserung der Lebenssituation der Menschen darstellen, sondern dass sie das als Terror wahrnehmen? Würden Sie zweitens zur Kenntnis nehmen, dass Sie in Afghanistan ein Warlord-System mit Kriegsverbrechern in wichtigen Funktionen aufbauen, die jahrzehntelang das Land terrorisiert haben</p>
           <stage type="interjection">(Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Wer hat denn Milosevic getroffen?)</stage>
@@ -478,12 +502,12 @@
           <p>Wir haben eine afghanische Delegation von zehn Personen eingeladen. Sie sollten einmal hören, was diese Menschen zu berichten haben. - Ich komme zum Schluss. - Ich habe gestern den Auswärtigen Ausschuss, den Entwicklungsausschuss und den Menschenrechtsausschuss eingeladen, sich anzuhören, was die Afghaninnen und Afghanen zu sagen haben. Es ist bis auf den Kollegen Leibrecht niemand gekommen. Das empfinde ich wirklich als beschämend. Sie haben kein Interesse an der Lebenssituation der afghanischen Bevölkerung.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Weitere Wortmeldungen liegen mir nicht vor. Ich schließe damit die Aussprache.</p>
-          <p>Wir kommen zur Abstimmung über die Beschlussempfehlung des Auswärtigen Ausschusses auf der Drucksache 17/4561 zum Antrag der Bundesregierung zur Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an dem Einsatz der Internationalen Sicherheitsunterstützungstruppe in Afghanistan unter Führung der NATO. Zur Beschlussempfehlung des Ausschusses liegen mir zahlreiche Erklärungen zur Abstimmung nach § 31 der Geschäftsordnung vor, die wir dem Protokoll dieser Debatte beifügen.</p>
+          <p>Wir kommen zur Abstimmung über die Beschlussempfehlung des Auswärtigen Ausschusses auf der Drucksache 17/4561 zum Antrag der Bundesregierung zur Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an dem Einsatz der Internationalen Sicherheitsunterstützungstruppe in Afghanistan unter Führung der NATO. Zur Beschlussempfehlung des Ausschusses liegen mir zahlreiche Erklärungen zur Abstimmung nach § 31 der Geschäftsordnung vor, die wir dem Protokoll dieser Debatte beifügen.1</p>
           <p>Der Ausschuss empfiehlt in seiner Beschlussempfehlung, den Antrag auf Drucksache 17/4402 anzunehmen. Über diese Beschlussempfehlung stimmen wir jetzt namentlich ab. Ich darf darum bitten, dass Sie darauf achten, ob die Stimmkarten, die Sie verwenden, auch tatsächlich Ihren Namen tragen. Darf ich die Schriftführerinnen und Schriftführer bitten, mir ein Signal zu geben, wenn die Urnen besetzt sind? - Das ist offensichtlich der Fall. Dann eröffne ich die Abstimmung.</p>
-          <p>Gibt es noch eine Kollegin oder einen Kollegen, die bzw. der ihre bzw. seine Stimmkarte nicht abgegeben hat? - Das ist nicht erkennbar. Dann schließe ich die Abstimmung und bitte die Schriftführerinnen und Schriftführer, mit der Auszählung zu beginnen. Das Ergebnis der Abstimmung geben wir Ihnen später bekannt.</p>
+          <p>Gibt es noch eine Kollegin oder einen Kollegen, die bzw. der ihre bzw. seine Stimmkarte nicht abgegeben hat? - Das ist nicht erkennbar. Dann schließe ich die Abstimmung und bitte die Schriftführerinnen und Schriftführer, mit der Auszählung zu beginnen. Das Ergebnis der Abstimmung geben wir Ihnen später bekannt.2</p>
           <p>Ich darf Sie nun bitten, wieder Platz zu nehmen, weil wir eine Reihe weiterer Abstimmungen und anschließend, wie Sie wissen, einen Wahlgang durchzuführen haben. - Könnten Sie, Herr Kollege Solms, mir vielleicht behilflich sein, den Fanclub, der sich um Sie herum versammelt hat, und Sie, Frau Kollegin Ernstberger, auch Ihren Freundeskreis auf die noch hinreichend vorhandenen Sitzplätze zu verteilen? - Herr Kollege Kauder, können wir jetzt mit den Abstimmungen fortfahren?</p>
           <stage type="interjection">(Volker Kauder [CDU/CSU]: Bitte!)</stage>
           <p>- Ich bedanke mich.</p>
@@ -512,15 +536,15 @@
           <p>Bevor Sie die Stimmkarte in eine der Wahlurnen werfen, übergeben Sie bitte Ihren Wahlausweis einer der Schriftführerinnen oder einem der Schriftführer an den Wahlurnen. Der Nachweis der Teilnahme an der Wahl kann nur durch die Abgabe des Wahlausweises erbracht werden.</p>
           <p>Die Schriftführerinnen und Schriftführer bitte ich, darauf zu achten, dass vor der Stimmabgabe tatsächlich der Wahlausweis übergeben wird.</p>
           <p>Ich darf nun die Schriftführerinnen und Schriftführer bitten, die vorgegebenen Plätze einzunehmen und mir zu signalisieren, wenn alle Wahlurnen besetzt sind. - Das ist offensichtlich der Fall. Dann eröffne ich den Wahlgang.</p>
-          <p>Liebe Kolleginnen und Kollegen, ist noch ein Mitglied des Hauses anwesend, das seine Stimmkarte nicht abgegeben hat? - Das ist nicht der Fall. Dann schließe ich den Wahlgang. Ich bitte die Schriftführerinnen und Schriftführer, mit der Auszählung zu beginnen. Das Ergebnis der Wahl geben wir Ihnen später bekannt.</p>
+          <p>Liebe Kolleginnen und Kollegen, ist noch ein Mitglied des Hauses anwesend, das seine Stimmkarte nicht abgegeben hat? - Das ist nicht der Fall. Dann schließe ich den Wahlgang. Ich bitte die Schriftführerinnen und Schriftführer, mit der Auszählung zu beginnen. Das Ergebnis der Wahl geben wir Ihnen später bekannt.3</p>
           <p>Ich rufe die Tagesordnungspunkte 20 a und 20 b auf:</p>
           <p>a) Beratung des Antrags der Abgeordneten Kathrin Senger-Schäfer, Dr. Martina Bunge, Agnes Alpers, weiterer Abgeordneter und der Fraktion DIE LINKE</p>
           <p>Kopfpauschale in der Pflege verhindern - Humane und solidarische Pflegeabsicherung gewährleisten</p>
           <p>- Drucksache 17/4425 -</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Gesundheit (f)</p>
-          <p>Ausschuss für Arbeit und Soziales </p>
-          <p>Ausschuss für Familie, Senioren, Frauen und Jugend </p>
+          <p>Ausschuss für Arbeit und Soziales</p>
+          <p>Ausschuss für Familie, Senioren, Frauen und Jugend</p>
           <p>Ausschuss für Bildung, Forschung und Technikfolgenabschätzung</p>
           <p>b) Beratung der Großen Anfrage der Abgeordneten Kathrin Senger-Schäfer, Dr. Martina Bunge, Inge Höger, weiterer Abgeordneter und der Fraktion DIE LINKE</p>
           <p>Umsetzung des neuen Pflegebegriffs (gemäß dem Bericht des Beirats zur Überprüfung des Pflegebedürftigkeitsbegriffs)</p>
@@ -531,8 +555,8 @@
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="2" what="debate" desc="a) Beratung des Antrags der Abgeordneten Kathrin Senger-Schäfer, Dr. Martina Bun...">
-        <sp who="Kathrin Senger-Schäfer" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Kathrin Senger-Schäfer">
+      <div type="agenda_item" n="14" what="debate" desc="Debatte">
+        <sp who="Kathrin Senger-Schäfer" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Kathrin Senger-Schäfer" party="DIE LINKE" name="Kathrin Senger-Schäfer">
           <speaker>Kathrin Senger-Schäfer (DIE LINKE):</speaker>
           <p>Herr Präsident! Werte Kolleginnen und Kollegen! Ich sage Ihnen: So geht das nicht! Wer gute Pflege benötigt, muss in jedem Fall, egal ob arm oder reich, sehr gute Qualität erhalten.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -570,22 +594,26 @@
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
           <p>Nur so können wir die vielen Probleme, die sich im Pflegebereich und in anderen Bereichen stellen, mit den pflegebedürftigen Menschen, den Angehörigen und den Beschäftigten lösen. Menschen, die im Alter Pflege brauchen, gehören selbstverständlich zu unserer Gesellschaft.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Frau Kollegin, Sie müssen bitte zum Ende kommen.</p>
         </sp>
-        <sp who="Kathrin Senger-Schäfer" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Kathrin Senger-Schäfer">
+      </div>
+      <div type="agenda_item" n="15" what="debate" desc="Debatte">
+        <sp who="Kathrin Senger-Schäfer" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Kathrin Senger-Schäfer" party="DIE LINKE" name="Kathrin Senger-Schäfer">
           <speaker>Kathrin Senger-Schäfer (DIE LINKE):</speaker>
           <p>Das sind meine letzten beiden Sätze. - Wie human eine Gesellschaft ist, sieht man daran, wie man mit den Schwächsten umgeht. Darüber, liebe Kolleginnen und Kollegen der Regierung, sollten Sie nachdenken.</p>
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Für die CDU/CSU-Fraktion hat nun Kollege Johannes Singhammer das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Johannes Singhammer">
+      </div>
+      <div type="agenda_item" n="16" what="debate" desc="Debatte">
+        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Johannes Singhammer (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Weil wir hier über einen Antrag der Linken debattieren, sage ich: Die Pflegeversicherung ist nicht auf der Suche nach dem Weg zum Kommunismus gefunden worden,</p>
           <stage type="interjection">(Harald Weinberg [DIE LINKE]: So ein Bart, Herr Singhammer! So ein Bart!)</stage>
@@ -606,11 +634,13 @@
           <p>Damit ziehen wir die Konsequenzen daraus, dass eine rein umlagefinanzierte, lohnabhängige Pflegeversicherung an ihre Grenzen stoßen wird. In diesem und in den nächsten Jahren ist die Pflegeversicherung solide finanziert. Aber wir müssen - das zeichnet kluge Politik aus - auch für den Zeitraum vorsorgen, in dem sehr viele Menschen pflegebedürftig werden können. Deswegen werden wir einen Kapitalstock aufbauen. Wir werden ihn so ausgestalten, dass vier Ziele erreicht werden:</p>
           <p>Erstens müssen die Mittel sozial gerecht aufgebracht werden. Niemand darf dabei überfordert werden. Deshalb müssen wir insbesondere darauf achten, dass ein solcher Kapitalstock auch für sozial Schwächere finanzierbar ist.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, gestatten Sie eine Zwischenfrage der Kollegin Ferner?</p>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Johannes Singhammer">
+      </div>
+      <div type="agenda_item" n="17" what="debate" desc="Debatte">
+        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Johannes Singhammer (CDU/CSU):</speaker>
           <p>Ich gestatte die Zwischenfrage gern, schlage aber vor: Hören Sie sich erst einmal meine vier Punkte an</p>
           <stage type="interjection">(Elke Ferner [SPD]: Gut!)</stage>
@@ -624,17 +654,19 @@
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
           <p>Es steht allerdings nirgendwo, dass eine solche Rücklage vererbt werden kann oder dass sie bei Nichtnotwendigkeit eines Pflegebedarfs zurückgezahlt wird. Das ist im Übrigen auch das Prinzip der privaten Vorsorge, der privaten Krankenversicherung. Auch da gibt es kein Recht auf Vererbung. Wichtig ist, dass dieser Kapitalstock sicher bleibt, und zwar genau für den Zweck, für den er angelegt worden ist. - So, Frau Ferner.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Frau Kollegin, bitte schön.</p>
         </sp>
-        <sp who="Elke Ferner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Elke Ferner">
+      </div>
+      <div type="agenda_item" n="18" what="debate" desc="Debatte">
+        <sp who="Elke Ferner" parliamentary_group="SPD" role="mp" position="NA" who_original="Elke Ferner" party="SPD" name="Elke Ferner">
           <speaker>Elke Ferner (SPD):</speaker>
           <p>Sie haben, wie den Tickermeldungen heute zu entnehmen ist, gestern gesagt, dass Sie quasi eine kollektive Reserve aufbauen wollen. Das beißt sich ein bisschen damit, Herr Singhammer, dass Sie zunächst gesagt haben, dass die Formulierungen im Koalitionsvertrag weiterhin Bestand haben. Vielleicht kann Herr Lanfermann, der ja schon dagegen geschossen hat, das gleich in seiner Rede aufklären. Würden Sie, Herr Singhammer, der Öffentlichkeit sagen, dass der Aufbau einer Kapitalreserve, in welcher Form auch immer, bedeutet, dass es jetzt eine Beitragsanhebung gibt, um in Zukunft eine Beitragsanhebung zu vermeiden?</p>
           <stage type="interjection">(Jens Spahn [CDU/CSU]: Das liegt in der Natur der Sache!)</stage>
           <p>Können Sie der staunenden Öffentlichkeit auch erzählen, wie stark die Beiträge erhöht werden und ob die Beiträge abhängig vom Einkommen erhoben werden oder ob Sie auch da eine Kopfpauschale einführen wollen?</p>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Johannes Singhammer (CDU/CSU):</speaker>
           <p>Liebe Frau Kollegin Ferner, ich habe Ihnen gerade die Grundsätze unseres Kapitalstocks beschrieben. Dieser Kapitalstock wird - auch das kann ich Ihnen ankündigen - gemeinsam von der Koalition beschlossen werden; wir werden gemeinsam zu Lösungen kommen. Wir werden die Lösungen so gestalten, dass sie sozial gerecht sind,</p>
           <stage type="interjection">(Elke Ferner [SPD]: Das wäre etwas Neues!)</stage>
@@ -659,7 +691,7 @@
           <p>Wir machen mit einer durchgerechneten Finanzierung, einem klaren Plan und vor allem einem entschlossenen Anpacken seriöse Politik.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Liebe Kolleginnen und Kollegen, ich darf die Debatte für einen Moment unterbrechen und Ihnen die Ergebnisse der namentlichen Abstimmung und der Wahl mitteilen.</p>
           <p>Ich gebe Ihnen zunächst das von den Schriftführerinnen und Schriftführern ermittelte Ergebnis der namentlichen Abstimmung über die Beschlussempfehlung des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an dem Einsatz der Internationalen Sicherheitsunterstützungstruppe in Afghanistan" bekannt: abgegebene Stimmen 579. Mit Ja haben gestimmt 420, mit Nein 116, Enthaltungen gab es 43. Die Beschlussempfehlung ist damit angenommen.</p>
@@ -700,7 +732,7 @@
           <p>Alexander Dobrindt</p>
           <p>Thomas Dörflinger</p>
           <p>Marie-Luise Dött</p>
-          <p>Dr. Thomas  Feist</p>
+          <p>Dr. Thomas Feist</p>
           <p>Enak Ferlemann</p>
           <p>Ingrid Fischbach</p>
           <p>Hartwig Fischer (Göttingen)</p>
@@ -728,7 +760,7 @@
           <p>Markus Grübel</p>
           <p>Manfred Grund</p>
           <p>Monika Grütters</p>
-          <p>Dr. Karl-Theodor Freiherr </p>
+          <p>Dr. Karl-Theodor Freiherr</p>
           <p>zu Guttenberg</p>
           <p>Olav Gutting</p>
           <p>Florian Hahn</p>
@@ -775,7 +807,7 @@
           <p>Gunther Krichbaum</p>
           <p>Dr. Günter Krings</p>
           <p>Rüdiger Kruse</p>
-          <p>Bettina  Kudla</p>
+          <p>Bettina Kudla</p>
           <p>Dr. Hermann Kues</p>
           <p>Günter Lach</p>
           <p>Dr. Karl A. Lamers (Heidelberg)</p>
@@ -805,7 +837,7 @@
           <p>Marlene Mortler</p>
           <p>Dr. Gerd Müller</p>
           <p>Stefan Müller (Erlangen)</p>
-          <p>Nadine Schön  (St. Wendel)</p>
+          <p>Nadine Schön (St. Wendel)</p>
           <p>Dr. Philipp Murmann</p>
           <p>Michaela Noll</p>
           <p>Dr. Georg Nüßlein</p>
@@ -989,7 +1021,7 @@
           <p>Dr. Frank-Walter Steinmeier</p>
           <p>Christoph Strässer</p>
           <p>Franz Thönnes</p>
-          <p>Wolfgang  Tiefensee</p>
+          <p>Wolfgang Tiefensee</p>
           <p>Ute Vogt</p>
           <p>Andrea Wicklein</p>
           <p>Heidemarie Wieczorek-Zeul</p>
@@ -1013,7 +1045,7 @@
           <p>Marco Buschmann</p>
           <p>Sylvia Canel</p>
           <p>Helga Daub</p>
-          <p>Reiner  Deutschmann</p>
+          <p>Reiner Deutschmann</p>
           <p>Dr. Bijan Djir-Sarai</p>
           <p>Patrick Döring</p>
           <p>Mechthild Dyckmans</p>
@@ -1085,7 +1117,8 @@
           <p>Dr. Claudia Winterstein</p>
           <p>Dr. Volker Wissing</p>
           <p>Hartfrid Wolff (Rems-Murr)</p>
-          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>BÜNDNIS 90/</p>
+          <p>DIE GRÜNEN</p>
           <p>Marieluise Beck (Bremen)</p>
           <p>Cornelia Behm</p>
           <p>Hans-Josef Fell</p>
@@ -1116,7 +1149,7 @@
           <p>Gerold Reichenbach</p>
           <p>Sönke Rix</p>
           <p>Werner Schieder (Weiden)</p>
-          <p>Dr. Carsten  Sieling</p>
+          <p>Dr. Carsten Sieling</p>
           <p>Sonja Steffen</p>
           <p>Kerstin Tack</p>
           <p>Rüdiger Veit</p>
@@ -1169,8 +1202,8 @@
           <p>Dorothee Menzner</p>
           <p>Kornelia Möller</p>
           <p>Niema Movassat</p>
-          <p>Wolfgang Ne kovic</p>
-          <p>Petra  Pau</p>
+          <p>Wolfgang Nekovic</p>
+          <p>Petra Pau</p>
           <p>Jens Petermann</p>
           <p>Richard Pitterle</p>
           <p>Yvonne Ploetz</p>
@@ -1193,15 +1226,16 @@
           <p>Halina Wawzyniak</p>
           <p>Harald Weinberg</p>
           <p>Jörn Wunderlich</p>
-          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>BÜNDNIS 90/</p>
+          <p>DIE GRÜNEN</p>
           <p>Katja Dörner</p>
           <p>Bettina Herlitzius</p>
           <p>Winfried Hermann</p>
           <p>Dr. Anton Hofreiter</p>
-          <p>Uwe  Kekeritz</p>
+          <p>Uwe Kekeritz</p>
           <p>Memet Kilic</p>
           <p>Sven-Christian Kindler</p>
-          <p>Maria  Klein-Schmeink</p>
+          <p>Maria Klein-Schmeink</p>
           <p>Ute Koczy</p>
           <p>Sylvia Kotting-Uhl</p>
           <p>Agnes Krumwiede</p>
@@ -1228,7 +1262,8 @@
           <p>Dr. h. c. Wolfgang Thierse</p>
           <p>FDP</p>
           <p>Joachim Günther (Plauen)</p>
-          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>BÜNDNIS 90/</p>
+          <p>DIE GRÜNEN</p>
           <p>Kerstin Andreae</p>
           <p>Volker Beck (Köln)</p>
           <p>Birgitt Bender</p>
@@ -1273,7 +1308,9 @@
           <p>Wir setzen damit die Debatte zu unserem jetzigen Tagesordnungspunkt fort, und ich erteile Kollegin Hilde Mattheis für die SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Hilde Mattheis" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hilde Mattheis">
+      </div>
+      <div type="agenda_item" n="19" what="debate" desc="Debatte">
+        <sp who="Hilde Mattheis" parliamentary_group="SPD" role="mp" position="NA" who_original="Hilde Mattheis" party="SPD" name="Hilde Mattheis">
           <speaker>Hilde Mattheis (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Ich hätte gerne damit begonnen, Herr Singhammer, Sie zu loben.</p>
           <stage type="interjection">(Willi Zylajew [CDU/CSU]: Dann tun Sie das doch!)</stage>
@@ -1295,12 +1332,14 @@
           <p>Herr Rösler, es ist Zeit, dass etwas passiert. Die Pflegepolitik ist kein Bereich, in dem es um Eitelkeiten geht. Es geht vielmehr darum: Wie kann man den Menschen helfen? Ich fordere Sie auf: Greifen Sie die Empfehlungen des Beirates auf. Wehren Sie sich gegen die Versuche der Einführung eines Pflegebegriffs light. Seien Sie so souverän, zu sagen: Meine Vorgängerin Ulla Schmidt hat bei der Pflege Gutes getan; wir knüpfen daran an.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Heinz Lanfermann für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Heinz Lanfermann" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Heinz Lanfermann">
+      </div>
+      <div type="agenda_item" n="20" what="debate" desc="Debatte">
+        <sp who="Heinz Lanfermann" parliamentary_group="FDP" role="mp" position="NA" who_original="Heinz Lanfermann" party="FDP" name="Heinz Lanfermann">
           <speaker>Heinz Lanfermann (FDP):</speaker>
           <p>Herzlichen Dank. - Herr Präsident! Meine lieben Kolleginnen und Kollegen! Wir sprechen hier über insgesamt zwei Vorlagen der Linksfraktion. Ich muss Ihnen ganz ehrlich sagen: Nachdem Sie vorhin in diesem Hause so eindrucksvoll bewiesen haben, dass Sie mit der Bewältigung der eigenen Vergangenheit nicht zurechtkommen,</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Kathrin Senger-Schäfer [DIE LINKE]: Wie bitte? Was soll das denn heißen? - Dr. Dagmar Enkelmann [DIE LINKE]: Es geht um etwas ganz anderes, Herr Lanfermann! Aber das haben Sie wahrscheinlich noch nicht mitbekommen!)</stage>
@@ -1351,22 +1390,26 @@
           <stage type="interjection">(Patrick Schnieder [CDU/CSU]: Sehr richtig!)</stage>
           <p>Sie schielen ja immer darauf und überlegen sich, wie Sie es vereinnahmen können.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Kollege, Sie müssen zum Schluss kommen.</p>
         </sp>
-        <sp who="Heinz Lanfermann" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Heinz Lanfermann">
+      </div>
+      <div type="agenda_item" n="21" what="debate" desc="Debatte">
+        <sp who="Heinz Lanfermann" parliamentary_group="FDP" role="mp" position="NA" who_original="Heinz Lanfermann" party="FDP" name="Heinz Lanfermann">
           <speaker>Heinz Lanfermann (FDP):</speaker>
           <p>Ich danke Ihnen für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Christian Lange [Backnang] [SPD]: Es war einmal! - Jens Spahn [CDU/CSU]: Punktlandung!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Es war leider keine Punktlandung. Der Kollege hatte schon deutlich überzogen.</p>
           <stage type="interjection">(Jens Spahn [CDU/CSU]: Gefühlte Punktlandung! - Gegenruf des Abg. Christian Lange [Backnang] [SPD]: In jeder Hinsicht!)</stage>
           <p>Nunmehr hat Kollegin Elisabeth Scharfenberg für die Fraktion Bündnis 90/Die Grünen das Wort.</p>
         </sp>
-        <sp who="Elisabeth Scharfenberg" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Elisabeth Scharfenberg">
+      </div>
+      <div type="agenda_item" n="22" what="debate" desc="Debatte">
+        <sp who="Elisabeth Scharfenberg" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Elisabeth Scharfenberg" party="GRUENE" name="Elisabeth Scharfenberg">
           <speaker>Elisabeth Scharfenberg (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Sehr geehrte Kolleginnen und Kollegen! Herr Minister, was ist denn da los? Ich dachte schon, es geschehen noch Zeichen und Wunder. Da wurde ich heute Morgen mit der Meldung geweckt, dass die Koalition endlich auf den Pfad der Vernunft zurückkehre</p>
           <stage type="interjection">(Jens Spahn [CDU/CSU]: Den haben wir nie verlassen!)</stage>
@@ -1419,12 +1462,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun die Parlamentarische Staatssekretärin Annette Widmann-Mauz.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" party="CDU" name="Annette Widmann-Mauz">
+      </div>
+      <div type="agenda_item" n="23" what="debate" desc="Debatte">
+        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" who_original="Annette Widmann-Mauz" party="CDU" name="Annette Widmann-Mauz">
           <speaker>Annette Widmann-Mauz, Parl. Staatssekretärin beim Bundesminister für Gesundheit:</speaker>
           <p>Sehr geehrter Herr Präsident! Meine sehr verehrten Kolleginnen und Kollegen! Mit der Finanzierungsreform der gesetzlichen Krankenversicherung hat diese Koalition bereits bewiesen, dass sie Probleme anpacken und vernünftige Lösungen finden kann. Wenn Sie unseren Koalitionsvertrag in der Öffentlichkeit ständig missinterpretieren - ich könnte auch sagen: manipulieren -, dann ist das Ihr Problem.</p>
           <stage type="interjection">(Lachen bei Abgeordneten der SPD - Christian Lange [Backnang] [SPD]: Sind Sie schon so schwach?)</stage>
@@ -1441,19 +1486,21 @@
           <p>Wir wollen eine Reform mit Langzeitwirkung. Das gelingt uns nur gemeinsam mit den Menschen, für die dieses System bestimmt ist. Deshalb werden wir auch nicht mit der Finanzierungsdebatte beginnen, sondern zunächst mit den Menschen reden, die Pflege betrifft. Das sind alle pflegebedürftigen Menschen, ihre Angehörigen und die Pflegekräfte. Ihnen hören wir zu, und dann handeln wir. Das ist eine sinnvolle Vorgehensweise. Deshalb hat Minister Dr. Rösler auch im Dezember letzten Jahres damit begonnen, den Pflegedialog mit den Beteiligten zu führen.</p>
           <p>Mit den Expertinnen und Experten und mit den Betroffenen haben wir zunächst über den Fachkräftemangel gesprochen. Denn wir alle wissen doch, was eine gute Pflege ausmacht und dass sie mit gut ausgebildeten Fachkräften und entsprechend verfügbaren Betreuungskräften steht und fällt.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Frau Kollegin, gestatten Sie eine Zwischenfrage des Kollegen Seifert?</p>
         </sp>
-        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" party="CDU" name="Annette Widmann-Mauz">
+      </div>
+      <div type="agenda_item" n="24" what="debate" desc="Debatte">
+        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" who_original="Annette Widmann-Mauz" party="CDU" name="Annette Widmann-Mauz">
           <speaker>Annette Widmann-Mauz, Parl. Staatssekretärin beim Bundesminister für Gesundheit:</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Dr. Ilja Seifert" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Ilja Seifert">
+        <sp who="Ilja Seifert" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Ilja Seifert" party="DIE LINKE" name="Ilja Seifert">
           <speaker>Dr. Ilja Seifert (DIE LINKE):</speaker>
           <p>Frau Staatssekretärin, habe ich Sie jetzt richtig verstanden, dass Sie die Ergebnisse der Gohde-Kommission, die ja jahrelang getagt hat und von Ihrer Regierung eingesetzt wurde, im Grunde genommen wegschmeißen und jetzt von vorne anfangen, um herauszukriegen, was ein vernünftiger Pflegebegriff ist? Wenn das der Fall sein sollte, dann haben Sie die Menschen, die das wirklich brauchen, bitter enttäuscht.</p>
         </sp>
-        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" party="CDU" name="Annette Widmann-Mauz">
+        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" who_original="Annette Widmann-Mauz" party="CDU" name="Annette Widmann-Mauz">
           <speaker>Annette Widmann-Mauz, Parl. Staatssekretärin beim Bundesminister für Gesundheit:</speaker>
           <p>Herr Seifert, ich weiß nicht, ob Sie mir in den letzten Minuten richtig zugehört haben.</p>
           <stage type="interjection">(Dr. Ilja Seifert [DIE LINKE]: Ja, habe ich!)</stage>
@@ -1484,20 +1531,22 @@
           <stage type="interjection">(Jörn Wunderlich [DIE LINKE]: Wollen, wollen, wollen!)</stage>
           <p>Auch andere Initiativen sind unterstützenswert. Sie haben das Thema Familienzeit angesprochen. Ich verweise zum Beispiel auf das hervorragende Modell der Zeitspende. Damit können sozial verantwortliche Unternehmen ihren Beschäftigten anbieten, sich zeitweise um die Betreuung und Unterstützung von pflegebedürftigen Menschen zu kümmern.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Frau Kollegin, gestatten Sie eine Zwischenfrage der Kollegin Rawert?</p>
         </sp>
-        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" party="CDU" name="Annette Widmann-Mauz">
+      </div>
+      <div type="agenda_item" n="25" what="debate" desc="Debatte">
+        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" who_original="Annette Widmann-Mauz" party="CDU" name="Annette Widmann-Mauz">
           <speaker>Annette Widmann-Mauz, Parl. Staatssekretärin beim Bundesminister für Gesundheit:</speaker>
           <p>Ja, bitte.</p>
         </sp>
-        <sp who="Mechthild Rawert" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Mechthild Rawert">
+        <sp who="Mechthild Rawert" parliamentary_group="SPD" role="mp" position="NA" who_original="Mechthild Rawert" party="SPD" name="Mechthild Rawert">
           <speaker>Mechthild Rawert (SPD):</speaker>
           <p>Frau Staatssekretärin, Sie haben davon gesprochen, dass ausländische Haushaltshilfen nun auch pflegerische Grundtätigkeiten ausüben dürfen. Sind Sie der Meinung, dass die gesetzlichen Grundlagen im Hinblick auf die Arbeitnehmerfreizügigkeit, die für die neuen EU-Beitrittsländer am 1. Mai in Kraft tritt, ausreichen?</p>
           <p>Ich habe eine zweite Frage. Die Bundesregierung hat den Ersten Gleichstellungsbericht überreicht bekommen, der eine Frauenquote, die Einführung des Mindestlohns und die Aufhebung des Ehegattensplittings empfiehlt. Welche Bedeutung hat der Gleichstellungsbericht für den Bereich Pflege, insbesondere für die Situation pflegender Angehöriger?</p>
         </sp>
-        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" party="CDU" name="Annette Widmann-Mauz">
+        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" who_original="Annette Widmann-Mauz" party="CDU" name="Annette Widmann-Mauz">
           <speaker>Annette Widmann-Mauz, Parl. Staatssekretärin beim Bundesminister für Gesundheit:</speaker>
           <p>Zunächst zur Freizügigkeit, Frau Kollegin Rawert. Die Freizügigkeit ab dem Frühjahr wird noch mehr Möglichkeiten bieten, dass auch ausländische Pflegekräfte, Hilfskräfte und Betreuungskräfte in Deutschland tätig sein können. Die rechtlichen Bedingungen für eine sozialversicherungspflichtige Beschäftigung sind gegeben.</p>
           <p>Wir wissen, dass viele Menschen, die derzeit teilweise auch illegal Menschen aus dem europäischen Ausland beschäftigen, ein großes Bedürfnis nach Hilfestellung haben. Deshalb sind diese Themen Bestandteil der Pflegedialoge.</p>
@@ -1513,12 +1562,14 @@
           <p>Herzlichen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Karl Lauterbach für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Karl Lauterbach" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Karl Lauterbach">
+      </div>
+      <div type="agenda_item" n="26" what="debate" desc="Debatte">
+        <sp who="Karl Lauterbach" parliamentary_group="SPD" role="mp" position="NA" who_original="Karl Lauterbach" party="SPD" name="Karl Lauterbach">
           <speaker>Dr. Karl Lauterbach (SPD):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Zunächst einmal muss auch ich einräumen, dass ich Herrn Singhammer heute gerne gratuliert hätte. Aber es gibt offenbar keinen Anlass. Ich bin mir nicht im Klaren darüber, was gilt. Ich will aber klar sagen: Wenn Ihr Ansatz der war, dass eine individualisierte Kapitaldeckung unsinnig ist, dann hätten Sie damit recht, ohne Wenn und Aber. Diese Übung haben wir schon einmal gehabt. Das ist eine kleine Zusatzversicherung, die einen hohen bürokratischen Aufwand bringt und bei der die Abschlusskosten so hoch sind, dass man die ersten 20 Jahre einzahlt, um die Abschlusskosten zu decken, sodass selbst die private Assekuranz, die privaten Krankenversicherungen, an dieser Versicherung kein Interesse haben. Die ist normalerweise ein sehr maßgeblicher Ratgeber zumindest für die FDP und für Herrn Rösler. Wenn somit selbst die private Assekuranz das nicht verfolgt, dann müssten Sie doch sagen: Das räumen wir ab. - Heute wäre eine gute Gelegenheit dazu gewesen. Jetzt wissen wir wieder nichts. Aber die Argumente sind stabil. Das kann zu nichts führen; das ist Bürokratie pur.</p>
           <p>Es ist im Übrigen auch auf der folgenden Grundlage Unsinn: Wenn der eine eine solche Kapitaldeckung hat, der andere aber nicht und beide Menschen im selben Zimmer liegen, dann kann es den Pflegekräften doch nicht ernsthaft zugemutet werden, dass der eine Patient anders gepflegt wird als der andere. Eine Zweiklassenpflege, wie sie vielleicht dem einen oder anderen FDP-Ideologen noch recht wäre, ist doch dem Personal und den Menschen nicht zuzumuten. Daher sage ich: Räumen Sie das Ding ab, machen Sie sich sauber, verabschieden Sie sich davon!</p>
@@ -1555,12 +1606,14 @@
           <p>Ich danke Ihnen für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD - Heinz Lanfermann [FDP]: Jetzt haben Sie schon Orientierungsprobleme!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Willi Zylajew für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Willi Zylajew" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Willi Zylajew">
+      </div>
+      <div type="agenda_item" n="27" what="debate" desc="Debatte">
+        <sp who="Willi Zylajew" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Willi Zylajew" party="CDU" name="Willi Zylajew">
           <speaker>Willi Zylajew (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Das Interessante beim Kollegen Lauterbach ist, dass er - wohl vom Dozieren her darauf trainiert - immer wieder zu Dingen spricht, die nicht auf der Tagesordnung stehen. Von den Linken liegen ein Antrag und eine Große Anfrage zur Beratung vor. Herr Lauterbach, wenn Sie das im Protokoll nachlesen, werden Sie feststellen, dass Sie keinen einzigen Satz dazu gesagt haben.</p>
           <stage type="interjection">(Dr. Karl Lauterbach [SPD]: Das stimmt!)</stage>
@@ -1602,12 +1655,14 @@
           <p>Ich bedanke mich für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Ilja Seifert für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Ilja Seifert" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Ilja Seifert">
+      </div>
+      <div type="agenda_item" n="28" what="debate" desc="Debatte">
+        <sp who="Ilja Seifert" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Ilja Seifert" party="DIE LINKE" name="Ilja Seifert">
           <speaker>Dr. Ilja Seifert (DIE LINKE):</speaker>
           <p>Herr Präsident! Meine lieben Kolleginnen und Kollegen! Herr Zylajew, ich weiß nicht, was ich von diesem Lob halten soll. Sie schaffen es jedenfalls nicht, mich gegen meine Kollegin auszuspielen.</p>
           <stage type="interjection">(Beifall bei der LINKEN - Jens Spahn [CDU/ CSU]: Das ist schade!)</stage>
@@ -1622,19 +1677,21 @@
           <p>Wir machen mit, wenn wir dazu kommen, die Bedürfnisse derer, die jetzt auf Hilfe angewiesen sind, zu decken und nicht immer weiter in die Zukunft zu schauen. Was im Jahr 2050 sein wird, interessiert heute keinen Menschen. Wir müssen jetzt den Leuten helfen, die Hilfe brauchen.</p>
           <p>Sie haben die Regierung beauftragt, einen neuen Pflegebegriff zu erarbeiten. Der Beirat zur Überprüfung des Pflegebedürftigkeitsbegriffs unter Vorsitz von Jürgen Gohde hat einen sehr guten Vorschlag vorgelegt. Ich hatte diesen Beirat im Vorhinein kritisiert. Als das Ergebnis auf dem Tisch lag, habe ich mich für meine Kritik entschuldigt. Ursprünglich dachte ich, dass seine Mitglieder nur ein Gefälligkeitsgutachten erstellen. Sie haben aber richtig ordentliche Arbeit geleistet.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten der SPD)</stage>
-          <p>Sie sagen, dass es nicht um "satt, sauber, trocken" geht, sondern um die Ermöglichung von Teilhabe, auch wenn jemand auf fremde Hilfe angewiesen ist - ob das in jungen Jahren ist, wie bei Menschen mit Behinderung, oder im Alter. </p>
+          <p>Sie sagen, dass es nicht um "satt, sauber, trocken" geht, sondern um die Ermöglichung von Teilhabe, auch wenn jemand auf fremde Hilfe angewiesen ist - ob das in jungen Jahren ist, wie bei Menschen mit Behinderung, oder im Alter.</p>
           <p>In jedem Falle wollen die Menschen teilhaben. Jemand, der im Sterben liegt, hat natürlich ein anderes Teilhabebedürfnis als jemand, der noch sein ganzes Leben vor sich hat, arbeiten geht und seine Freizeit genießen will. Es ist völlig klar, dass wir das auseinanderhalten müssen. Es geht, wie gesagt, darum, Teilhabe zu ermöglichen, und nicht darum, die Heime vollzubekommen. Vor diesem Problem stehen wir zurzeit.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten der SPD)</stage>
           <p>Es gibt ein Umsetzungsproblem. Frau Staatssekretärin, wir brauchen daher keine Kommission, die sich einen neuen Begriff ausdenkt. Wir müssen vielmehr den Begriff, der ausgearbeitet worden ist, mit Leben erfüllen. Dazu hat unser heutiger Antrag, wie ich finde, eine sehr gute Diskussionsgrundlage geliefert. Lassen Sie uns auf dem Wege weitermachen. Dann kommen wir auch zu einem Ergebnis, welches den Menschen, die heute Probleme haben, helfen wird.</p>
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort als letzter Redner zu diesem Tagesordnungspunkt hat Kollege Steffen-Claudio Lemme für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Steffen-Claudio Lemme" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Steffen-Claudio Lemme">
+      </div>
+      <div type="agenda_item" n="29" what="debate" desc="Debatte">
+        <sp who="Steffen-Claudio Lemme" parliamentary_group="SPD" role="mp" position="NA" who_original="Steffen-Claudio Lemme" party="SPD" name="Steffen-Claudio Lemme">
           <speaker>Steffen-Claudio Lemme (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Herr Dr. Rösler und Frau Staatssekretärin Widmann-Mauz! Der Grundsatz meiner Fraktion ist: Das Lebensrisiko, pflegebedürftig zu werden, darf nicht privatisiert werden.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN - Jens Spahn [CDU/CSU]: Das hat auch keiner vor!)</stage>
@@ -1655,7 +1712,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird die Überweisung der Vorlage auf Drucksache 17/4425 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? - Das ist offensichtlich der Fall. Dann ist die Überweisung so beschlossen.</p>
@@ -1663,7 +1720,7 @@
           <p>Ich rufe die Tagesordnungspunkte 21 a und 21 b auf:</p>
           <p>a) Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) zu der Unterrichtung durch die Bundesregierung</p>
           <p>Dritter Bericht der Bundesregierung über die Umsetzung des Aktionsplans "Zivile Krisenprävention, Konfliktlösung und Friedenskonsolidierung"</p>
-          <p>- Drucksachen  17/2300,  17/2971  Nr. 1.2, 17/4272 -</p>
+          <p>- Drucksachen 17/2300, 17/2971 Nr. 1.2, 17/4272 -</p>
           <p>Berichterstattung:</p>
           <p>Abgeordnete Roderich Kiesewetter</p>
           <p>Edelgard Bulmahn</p>
@@ -1677,15 +1734,15 @@
           <p>Auswärtiger Ausschuss (f)</p>
           <p>Verteidigungsausschuss</p>
           <p>Ausschuss für Menschenrechte und Humanitäre Hilfe</p>
-          <p>Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung </p>
+          <p>Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung</p>
           <p>Ausschuss für die Angelegenheiten der Europäischen Union</p>
           <p>Nach einer interfraktionellen Vereinbarung ist für die Aussprache eine halbe Stunde vorgesehen. - Ich höre dazu keinen Widerspruch. Dann ist das so beschlossen.</p>
           <p>Ich eröffne die Aussprache und erteile Joachim Spatz für die FDP-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="3" what="debate" desc="a) Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses...">
-        <sp who="Joachim Spatz" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Joachim Spatz">
+      <div type="agenda_item" n="30" what="debate" desc="Debatte">
+        <sp who="Joachim Spatz" parliamentary_group="FDP" role="mp" position="NA" who_original="Joachim Spatz" party="FDP" name="Joachim Spatz">
           <speaker>Joachim Spatz (FDP):</speaker>
           <p>Herr Präsident! Meine lieben Kolleginnen und Kollegen! Ich fühle mich leider Gottes ein bisschen an meine Zeit im Bayerischen Landtag erinnert, in dem, als es um Bildungspolitik ging, viele Kollegen den Saal verlassen haben, sodass die Kolleginnen und Kollegen des entsprechenden Ausschusses wieder unter sich waren. Das ist schade,</p>
           <stage type="interjection">(Christian Lange [Backnang] [SPD]: Ihr habt es doch in der Hand!)</stage>
@@ -1709,12 +1766,14 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU sowie der Abg. Kerstin Müller [Köln] [BÜND-NIS 90/DIE GRÜNEN])</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Edelgard Bulmahn für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Edelgard Bulmahn">
+      </div>
+      <div type="agenda_item" n="31" what="debate" desc="Debatte">
+        <sp who="Edelgard Bulmahn" parliamentary_group="SPD" role="mp" position="NA" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Edelgard Bulmahn (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine sehr geehrten Herren und Damen! Willy Brandt prägte vor vielen Jahren den Satz:</p>
           <p>Nicht der Krieg, der Frieden ist der Vater aller Dinge.</p>
@@ -1749,12 +1808,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Roderich Kiesewetter für die CDU/ CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Roderich Kiesewetter" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Roderich Kiesewetter">
+      </div>
+      <div type="agenda_item" n="32" what="debate" desc="Debatte">
+        <sp who="Roderich Kiesewetter" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Roderich Kiesewetter" party="CDU" name="Roderich Kiesewetter">
           <speaker>Roderich Kiesewetter (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Zunächst einmal haben wir allen Grund, froh zu sein, dass wir seit einem Dreivierteljahr den Unterausschuss "Zivile Krisenprävention und vernetzte Sicherheit" haben.</p>
           <stage type="interjection">(Dr. Rainer Stinner [FDP]: So ist es! Das ist neu und besser!)</stage>
@@ -1764,19 +1825,21 @@
           <p>Ich möchte jetzt nicht weiter auf den Aktionsplan und den Bericht dazu eingehen, sondern einige Punkte, die Sie, Frau Bulmahn, angesprochen haben, aufgreifen. Ihr Antrag enthält viele wichtige Punkte, und insbesondere Ihre Empfehlungen können wir weitestgehend mittragen. Folgendes kann ich jedoch nicht teilen: Ihre Kritik am Haushaltsansatz, an den angeblich mangelnden Strukturen und auch an der Gewichtung der zivilen Krisenprävention in der Arbeit der Bundesregierung.</p>
           <p>Mit der Konstituierung des Unterausschusses vollziehen wir geradezu die parlamentarische Vernetzung mit der politischen Leitungsebene in den Ressorts. Ferner hat der Ressortkreis im letzten Jahr mit den konzeptionellen Arbeiten zu der Frage begonnen, was vernetzte Sicherheit ist; sicherlich ist da noch viel zu leisten. Diese Aufgabe wird aber gemeinsam mit dem Zentrum für Internationale Friedenseinsätze und der SWP durchgeführt. Ich glaube, hier ist keinerlei Kritik angebracht. Selbst in unserem Koalitionsvertrag stellen wir politische und diplomatische Mittel an die erste Stelle; sie haben bei der Krisenprävention und -bewältigung Vorrang.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, gestatten Sie eine Zwischenfrage des Kollegen Raabe?</p>
         </sp>
-        <sp who="Roderich Kiesewetter" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Roderich Kiesewetter">
+      </div>
+      <div type="agenda_item" n="33" what="debate" desc="Debatte">
+        <sp who="Roderich Kiesewetter" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Roderich Kiesewetter" party="CDU" name="Roderich Kiesewetter">
           <speaker>Roderich Kiesewetter (CDU/CSU):</speaker>
           <p>Gerne.</p>
         </sp>
-        <sp who="Dr. Sascha Raabe" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Sascha Raabe">
+        <sp who="Sascha Raabe" parliamentary_group="SPD" role="mp" position="NA" who_original="Sascha Raabe" party="SPD" name="Sascha Raabe">
           <speaker>Dr. Sascha Raabe (SPD):</speaker>
           <p>Sehr geehrter Herr Kollege, Sie sagten, dass Sie unsere Kritik am Haushaltsansatz - an der finanziellen Ausstattung der kommenden Haushalte - nicht teilen. Hier geht es um die Frage, wie man die zivile Krisenprävention umsetzen kann. Ist Ihnen bekannt, dass sich die Organisationen, die die zivile Krisenprävention, die Frau Heidemarie Wieczorek-Zeul sehr erfolgreich eingeführt und beim Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung angesiedelt hat, durchführen und in allen Ländern hervorragende Arbeit leisten, zu Recht auf das Wort der Vorgängerin von Herrn Niebel verlassen haben, dass die entsprechenden Mittel kontinuierlich gesteigert werden? Es gibt nämlich auf der ganzen Welt viele Gebiete, in denen die zivile Krisenprävention sinnvoll eingesetzt wird. Ist Ihnen auch bekannt, dass die Mittel dafür gemäß der finanziellen Vorausschau, der Finanzplanung, eher zurückgefahren als gesteigert werden? Wie verträgt sich das mit Ihrer Aussage, dass finanziell alles zum Besten gestellt sei?</p>
         </sp>
-        <sp who="Roderich Kiesewetter" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Roderich Kiesewetter">
+        <sp who="Roderich Kiesewetter" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Roderich Kiesewetter" party="CDU" name="Roderich Kiesewetter">
           <speaker>Roderich Kiesewetter (CDU/CSU):</speaker>
           <p>Danke, Herr Kollege. - Das habe ich nicht gesagt. Ich wollte in meiner Rede genau darauf eingehen. Damit wir etwas Zeit sparen, möchte ich diesen Teil vorziehen, um damit auch Ihre Fragen zu beantworten. Ich nenne ein paar entscheidende Punkte.</p>
           <p>Sicherlich ist die zivile Krisenprävention integraler Bestandteil unseres Politikansatzes. Aber im Hinblick auf den finanziellen Anteil vergleichen wir hier Äpfel mit Birnen. Sie selbst haben der Einführung der Schuldenbremse zugestimmt. Wir alle leisten ressortübergreifend unsere Beiträge zur Einhaltung der Schuldenbremse.</p>
@@ -1796,7 +1859,7 @@
           <stage type="interjection">(Edelgard Bulmahn [SPD]: Man sollte schön bei der Haushaltswahrheit bleiben!)</stage>
           <p>Hinzu kommt - auch das sollten wir uns vor Augen führen -, dass bei akuten Krisen immer zusätzliche Mittel bereitgestellt werden.</p>
           <p>Dass unser Haushaltsansatz gut ist, zeigt der Mittelabfluss: Im Jahr 2009 sind 90 Prozent der Mittel abgeflossen, im letzten Jahr 95 Prozent. Das heißt, die Mittel für die zivile Krisenprävention werden bei uns wirksam eingesetzt.</p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP) </stage>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
           <p>Viel wichtiger ist aber, dass wir auch einige Ihrer Ansätze aufgreifen, die Strukturen straffen und wirksamer machen, dass wir uns auf inhaltliche Arbeit konzentrieren. Dazu enthält Ihr Antrag sehr gute Vorschläge.</p>
           <p>Ich möchte zwei Punkte nennen: die Definition von vernetzter Sicherheit - ein Punkt für unseren Unterausschuss, Herr Spatz - und ein Frühwarnsystem für Deutschland. Das sind Fragen, die mich ganz intensiv beschäftigen: Wo siedeln wir ein Frühwarnsystem für Deutschland an? Im Kanzleramt oder in einem Ministerium? Wer ist dafür verantwortlich?</p>
           <p>Außerdem - es klang vorhin auch in Ihrer Rede an, Frau Bulmahn -: Wir müssen viel mehr Werbung machen: für das, was Deutschland im Bereich ziviler Krisenprävention und vernetzter Sicherheit macht, aber auch für das, was die Regierung leistet.</p>
@@ -1811,12 +1874,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Kathrin Vogler für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Kathrin Vogler" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Kathrin Vogler">
+      </div>
+      <div type="agenda_item" n="34" what="debate" desc="Debatte">
+        <sp who="Kathrin Vogler" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Kathrin Vogler" party="DIE LINKE" name="Kathrin Vogler">
           <speaker>Kathrin Vogler (DIE LINKE):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Als die Bundesregierung 2004 den Aktionsplan "Zivile Krisenprävention, Konfliktlösung und Friedenskonsolidierung" vorlegte, war ich beim Bund für Soziale Verteidigung beschäftigt; das ist ein Fachverband für gewaltfreie Politik und konstruktive Konfliktaustragung. Wir sahen diesen Aktionsplan damals mit gemischten Gefühlen: einerseits mit Erwartungen, weil wir immer gefordert hatten, dass die Politik die zivile Konfliktbearbeitung endlich ernst nimmt, andererseits mit großer Skepsis, weil auch dieser Aktionsplan nicht frei von militärischer Logik war. Das war auch nicht anders zu erwarten. Wenn wir uns erinnern: Damals befand sich die Bundeswehr schon drei Jahre im Krieg in Afghanistan.</p>
           <p>Auch unsere Projektpartner im Ausland haben uns immer wieder völlig zu Recht gefragt: Wie wollt ihr uns eigentlich im Friedensprozess unterstützen, während euer Land selbst Krieg führt? Für mich gehört deshalb beides zusammen: den Krieg zu bekämpfen, auch wenn er als humanitärer Einsatz oder Krieg gegen den Terror daherkommt, und gleichzeitig eine Kultur des Friedens, eine Kultur der Gewaltfreiheit zu entwickeln und umzusetzen.</p>
@@ -1832,28 +1897,32 @@
           <p>Meine Fraktion, Die Linke, will einen konsequenten Ausbau der zivilen Konfliktbearbeitung, aber bitte nicht als Feigenblatt, sondern als ernsthafte Alternative zum Militär. Dafür braucht es mehr Ideen, mehr Mittel. Da unterstütze ich die Forderung von Frau Bulmahn. Wir brauchen mehr Personal, mehr ausgebildete Fachkräfte. Vor allem jedoch brauchen wir ein Ende der fatalen zivil-militärischen Zusammenarbeit, nicht nur in Afghanistan.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Kerstin Müller für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Kerstin Müller" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Kerstin Müller">
+      </div>
+      <div type="agenda_item" n="35" what="debate" desc="Debatte">
+        <sp who="Kerstin Müller (Köln)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Kerstin Müller (Köln)" party="GRUENE" name="Kerstin Müller">
           <speaker>Kerstin Müller (Köln) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Wohin wir in diesen Tagen auch schauen, ob nach Tunesien oder Ägypten, auf das Referendum im Sudan - das wurde erwähnt -, auf die Elfenbeinküste oder auch auf die Krise in Afghanistan, über die wir heute Morgen sprachen -, alle diese Krisen zeigen: Wirksame Präventionspolitik ist bitter nötig. Wir suchen in all diesen Krisen, zum Teil auch Kriegen, nach Konzepten für einen dauerhaften Frieden, für einen Friedensaufbau.</p>
           <p>Ich gebe Ihnen recht: Das Referendum im Sudan ist, obwohl wir alle das Schlimmste befürchtet haben, nämlich dass es im Grunde schon während des Referendums zu einer Eskalation kommt, erst einmal ein gelungenes Beispiel ziviler Krisenprävention. Ich will das auch klar anerkennen. Ich glaube, dass wir alle daran mitgearbeitet haben. Wir haben das ja über den interfraktionellen Antrag gemeinsam, Frau Schuster - jetzt ist sie weg -, auf den Weg gebracht. Die Bundesregierung hat verschiedene Dinge umgesetzt. Jetzt muss es natürlich auch so weitergehen. Es bleibt nämlich nur dann bei der Abwesenheit von Gewalt, wenn die internationale Gemeinschaft jetzt entschlossen weiter zivile Krisenprävention betreibt.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Frau Kollegin, gestatten Sie eine Zwischenfrage der Kollegin Vogler?</p>
         </sp>
-        <sp who="Kerstin Müller" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Kerstin Müller">
+      </div>
+      <div type="agenda_item" n="36" what="debate" desc="Debatte">
+        <sp who="Kerstin Müller (Köln)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Kerstin Müller (Köln)" party="GRUENE" name="Kerstin Müller">
           <speaker>Kerstin Müller (Köln) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Gerne.</p>
         </sp>
-        <sp who="Kathrin Vogler" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Kathrin Vogler">
+        <sp who="Kathrin Vogler" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Kathrin Vogler" party="DIE LINKE" name="Kathrin Vogler">
           <speaker>Kathrin Vogler (DIE LINKE):</speaker>
           <p>Frau Kollegin Müller, darf ich Sie, wenn Sie jetzt die große Gemeinsamkeit beschwören, daran erinnern, dass die Fraktion Die Linke bei diesem interfraktionellen Antrag zum Sudan wie auch bei allen anderen interfraktionellen Anträgen, die Sie im Bereich der auswärtigen Politik angestoßen haben, ausgegrenzt worden ist? Nehmen Sie bitte zur Kenntnis, dass wir uns nicht für alles, was Sie in diesem Antrag als Konzept vorgelegt haben, so unwidersprochen vereinnahmen lassen wollen; denn auch in dem Sudan-Konzept spielt die militärische Karte wieder eine gewisse Rolle.</p>
         </sp>
-        <sp who="Kerstin Müller" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Kerstin Müller">
+        <sp who="Kerstin Müller (Köln)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Kerstin Müller (Köln)" party="GRUENE" name="Kerstin Müller">
           <speaker>Kerstin Müller (Köln) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ja, ich nehme das zur Kenntnis. Ich will sehr deutlich sagen: Ich habe ja zu der ersten Runde auch die Linke eingeladen. Das muss man leider bei der Koalition und, ich glaube, vor allen Dingen bei der CDU abladen, die es im Grundsatz der Linken verweigert, gemeinsam über solche Anträge zu diskutieren. Das finde ich bedauerlich, liebe Kolleginnen und Kollegen von der Union.</p>
           <stage type="interjection">(Zuruf des Abg. Stefan Müller [Erlangen] [CDU/CSU])</stage>
@@ -1872,38 +1941,44 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Als letzte Rednerin zu diesem Tagesordnungspunkt hat jetzt die Kollegin Sibylle Pfeiffer von der CDU/ CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Sibylle Pfeiffer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Sibylle Pfeiffer">
+      </div>
+      <div type="agenda_item" n="37" what="debate" desc="Debatte">
+        <sp who="Sibylle Pfeiffer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Sibylle Pfeiffer" party="CDU" name="Sibylle Pfeiffer">
           <speaker>Sibylle Pfeiffer (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Die Kollegin Kerstin Müller hat es gesagt: Vorbeugen ist besser als heilen. Überheben wir uns nicht manchmal ordentlich? Sind wir nicht manchmal eine ganze Portion anmaßend? Wenn es so einfach wäre, wie Sie behaupten, wenn es einfach darum ginge, viel Geld zur Verfügung zu stellen, warum haben wir dann zum Beispiel - ich nenne Zahlen vom letzten Jahr - mindestens 300 Krisen-herde, über 126 bewaffnete Auseinandersetzungen und mindestens 28 harte, militärische Auseinandersetzungen gehabt? Machen wir uns nichts vor: Viel Geld hilft nicht unbedingt viel.</p>
           <p>Wir müssen uns überlegen, wo und warum Krisenherde entstehen. Meistens entstehen sie dadurch, dass es in Entwicklungsländern ethnische Probleme gibt. Hier bewegen wir uns im Bereich der Kultur und der Traditionen. Ich frage mich: Wie wollen wir kurzfristig Kultur und Traditionen aufbrechen? Gehen Sie in die Länder und sagen Sie den Menschen, sie sollten mit ihrer Kultur und ihrer Tradition brechen, um Frieden zu schaffen. Das ist ein Bohren dicker Bretter, dass mir angst und bange wird. Das ist das eine.</p>
           <p>Das Zweite ist: Wo entstehen Krisen? Krisen entstehen vor allen Dingen dort, wo die Menschen keine wirtschaftliche Basis haben, wo sie nicht wissen, wie sie die Arbeitslosigkeit überwinden können, wo sie trotz guter Ausbildung bis hin zum Hochschulstudium keine Arbeitsplätze haben, wo sie mit einer Arbeitslosigkeit unter 16- bis 30-Jährigen von bis zu 50 Prozent zu kämpfen haben, wo ihre wirtschaftliche Basis nicht funktioniert bzw. gar nicht vorhanden ist. Dort entstehen Krisen. Als aktuelles Beispiel nenne ich Tunesien.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Frau Kollegin, erlauben Sie eine Zwischenfrage der Kollegin Vogler von den Linken?</p>
         </sp>
-        <sp who="Sibylle Pfeiffer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Sibylle Pfeiffer">
+      </div>
+      <div type="agenda_item" n="38" what="debate" desc="Debatte">
+        <sp who="Sibylle Pfeiffer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Sibylle Pfeiffer" party="CDU" name="Sibylle Pfeiffer">
           <speaker>Sibylle Pfeiffer (CDU/CSU):</speaker>
           <p>Schade, ich war gerade so mittendrin. Aber wahrscheinlich finde ich meinen Faden wieder, Frau Kollegin.</p>
           <stage type="interjection">(Kathrin Vogler [DIE LINKE]: Ich kann auch eine Kurzintervention machen!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Aber ich weiß nicht, ob ich eine Kurzintervention genehmige.</p>
           <stage type="interjection">(Heiterkeit)</stage>
           <p>Bleiben Sie lieber bei der Zwischenfrage, das geht schneller.</p>
         </sp>
-        <sp who="Kathrin Vogler" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Kathrin Vogler">
+      </div>
+      <div type="agenda_item" n="39" what="debate" desc="Debatte">
+        <sp who="Kathrin Vogler" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Kathrin Vogler" party="DIE LINKE" name="Kathrin Vogler">
           <speaker>Kathrin Vogler (DIE LINKE):</speaker>
           <p>Herzlichen Dank, Kollegin Pfeiffer. - Sie haben ausgeführt, dass Sie es als Anmaßung empfinden, wenn behauptet wird, dass einfach nur ausreichend Mittel zur Verfügung gestellt werden müssen. Sicherlich können wir damit nicht alle Probleme dieser Welt lösen. Da haben Sie völlig recht. Geld alleine ist nicht alles. Das sehen wir daran, dass zum Beispiel die am höchsten gerüstete Militärmacht, nämlich die USA, die eine Menge für ihre angebliche Sicherheit ausgibt, trotzdem nicht unangreifbar ist.</p>
           <p>Ich möchte auf Ihre Ausführungen eingehen. Sie haben gesagt, zugrunde liegen meist ethnische Konflikte, und dabei geht es um Kultur und Tradition. Diesem Punkt möchte ich gerne widersprechen, gerade auch durch meine Erfahrung im Sudan. Natürlich entbrennen die Konflikte häufig an ethnischen Grenzen, aber die unterschiedlichen Ethnien werden auch gezielt gegeneinander gehetzt und gezielt instrumentalisiert, weil es um Macht und Ressourcen geht, weil es um Land oder Wasserreserven oder andere natürliche Reserven geht, die von Interesse sind. Wir könnten durchaus mehr tun, indem wir dafür sorgen, dass die Menschen in anderen Ländern die Möglichkeit bekommen, ihre Wirtschaft solide aufzubauen, dass sie nicht von Ausbeutung ihrer Bodenschätze oder von Landraub betroffen sind, und indem wir eine Klimapolitik machen, die der Versteppung und Verwüstung großer Teile Afrikas entgegenwirkt. Stimmen Sie mir zu, dass wir diesen Bereich stärker gewichten sollten und dort viel mehr Mittel zur Verfügung stellen sollten?</p>
         </sp>
-        <sp who="Sibylle Pfeiffer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Sibylle Pfeiffer">
+        <sp who="Sibylle Pfeiffer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Sibylle Pfeiffer" party="CDU" name="Sibylle Pfeiffer">
           <speaker>Sibylle Pfeiffer (CDU/CSU):</speaker>
           <p>Das habe ich in meiner Rede nicht ausgeschlossen, oder? Ich habe gesagt: zum Beispiel. Natürlich ist auch das ein Teil der Friedens- und Konfliktpolitik, die vor Ort gemacht wird. Insofern sind wir nicht weit voneinander entfernt. Wir würden wahrscheinlich andere Ansätze wählen, und die Ideologie wäre sicherlich eine andere, aber im Prinzip bin ich bei Ihnen.</p>
           <p>Ich sprach gerade davon, dass es wichtig ist, den Menschen eine wirtschaftliche Basis zu ermöglichen. Wir machen in der Entwicklungszusammenarbeit viel in Sachen Bildung und Ausbildung. Ich glaube, dass wir in der Entwicklungszusammenarbeit sehr wohl erfolgreich waren, was die Zahl der jungen Menschen angeht, die wir ausgebildet und denen wir Weiterbildungsmöglichkeiten eröffnet haben, denen wir berufliche Bildung ermöglicht haben. Das ist ein Teil der Prävention, die wir anbieten können. Der andere Teil der Prävention ist, Unterstützung zu leisten, wenn es darum geht, kleine und mittlere Betriebe aufzubauen und ihre Existenz zu sichern. Dabei spielt das Handwerk eine wichtige Rolle. In Deutschland stellt das Handwerk die gesellschaftliche Basis dar, aber in den Entwicklungsländern finden wir kaum Handwerksbetriebe, die Jugendliche ausbilden und Dienstleistungen anbieten. Insofern haben wir dort ein breites Betätigungsfeld, auf dem wir unterstützend tätig sein können.</p>
@@ -1912,7 +1987,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Wir kommen zur Beschlussempfehlung des Auswärtigen Ausschusses zu dem Dritten Bericht der Bundesregierung über die Umsetzung des Aktionsplans "Zivile Krisenprävention, Konfliktlösung und Friedenskonsolidierung". Der Ausschuss empfiehlt in seiner Beschlussempfehlung auf Drucksache 17/4272 in Kenntnis der Unterrichtung auf Drucksache 17/2300 eine Entschließung anzunehmen. Wer stimmt für diese Beschlussempfehlung? - Gegenstimmen? - Enthaltungen? - Die Beschlussempfehlung ist bei Enthaltung der Fraktion Die Linke mit den Stimmen aller übrigen Fraktionen angenommen.</p>
@@ -1922,14 +1997,14 @@
           <p>Mindestlohn für die Weiterbildungsbranche</p>
           <p>- Drucksachen 17/3173, 17/3733 -</p>
           <p>Berichterstattung:</p>
-          <p>Abgeordnete Gitta Connemann </p>
+          <p>Abgeordnete Gitta Connemann</p>
           <p>Nach einer interfraktionellen Vereinbarung ist für die Aussprache eine halbe Stunde vorgesehen. Gibt es Widerspruch? - Das ist nicht der Fall. Dann ist das so beschlossen.</p>
           <p>Ich eröffne die Aussprache und erteile als erstem Redner dem Kollegen Dr. Matthias Zimmer von der CDU/ CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="4" what="debate" desc="Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Arbeit und...">
-        <sp who="Dr. Matthias Zimmer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Matthias Zimmer">
+      <div type="agenda_item" n="40" what="debate" desc="Debatte">
+        <sp who="Matthias Zimmer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Matthias Zimmer" party="CDU" name="Matthias Zimmer">
           <speaker>Dr. Matthias Zimmer (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Wir diskutieren über ein Thema, das in den Verhandlungen des Vermittlungsausschusses eine wichtige Rolle spielt. Insofern kann ich mich des Eindrucks nicht erwehren, dass es heute weniger um Lösungsansätze für dieses Thema als vielmehr um eine öffentlich inszenierte Empörung im Stil der Anklage durch die Opposition geht.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP - Swen Schulz [Spandau] [SPD]: Das ist Ihr Verständnis von Parlamentarismus, ja? - Weiterer Zuruf der Abg. Katja Mast [SPD])</stage>
@@ -1969,11 +2044,13 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP - Jutta Krellmann [DIE LINKE]: Gesunder Menschenverstand! Vielleicht können wir das mal versuchen!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat die Kollegin Katja Mast von der SPD-Fraktion.</p>
         </sp>
-        <sp who="Katja Mast" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Katja Mast">
+      </div>
+      <div type="agenda_item" n="41" what="debate" desc="Debatte">
+        <sp who="Katja Mast" parliamentary_group="SPD" role="mp" position="NA" who_original="Katja Mast" party="SPD" name="Katja Mast">
           <speaker>Katja Mast (SPD):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Verehrter Kollege Zimmer, Ihre Rede bietet im Vergleich zu der Debatte, die wir am 7. Oktober geführt haben, immerhin schon eine Perspektive.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD - Paul Lehrieder [CDU/CSU]: Eine gute Rede!)</stage>
@@ -1993,16 +2070,18 @@
           <stage type="interjection">(Dr. Matthias Zimmer [CDU/CSU]: Und heiße Nadeln!)</stage>
           <p>- Wir wollen keine heißen Nadeln. Damit haben Sie vielleicht den Koalitionsvertrag gestrickt. Ich hatte gestern Abend das Vergnügen, in Ihrem Koalitionsvertrag nachzulesen, was Sie darin über die Würde der Arbeit schreiben. Kein Treffer. Was steht über gute Arbeit im Koalitionsvertrag? Kein Treffer.</p>
           <p>In Ihrem gesamten Koalitionsvertrag setzen Sie sich nicht mit der Kernfrage auseinander, dass Menschen, die arbeiten gehen und mit ihren Steuermitteln zum Wohlstand dieser Republik beitragen und Bildung und Straßen finanzieren, von ihrer Hände Arbeit leben und in Würde arbeiten gehen sollten. Das ist der Kernkonflikt zwischen Ihnen und uns.</p>
-          <stage type="interjection">(Beifall bei der SPD) </stage>
+          <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Deshalb bringen wir diesen Antrag ein. Ich freue mich darauf, bei diesem Thema weiterhin den Finger in die Wunde zu legen. Wenn wir bei den Regelsätzen nicht gemeinsam weiterkommen - das ist unsere Kernforderung -, dann werden wir wieder einen entsprechenden Antrag hier im Deutschen Bundestag stellen; denn heute werden Sie wahrscheinlich nicht den Mut finden, unserem Antrag zuzustimmen.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat der Kollege Johannes Vogel von der FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Johannes Vogel" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Johannes Vogel">
+      </div>
+      <div type="agenda_item" n="42" what="debate" desc="Debatte">
+        <sp who="Johannes Vogel (Lüdenscheid)" parliamentary_group="FDP" role="mp" position="NA" who_original="Johannes Vogel (Lüdenscheid)" party="FDP" name="Johannes Vogel">
           <speaker>Johannes Vogel (Lüdenscheid) (FDP):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Liebe Frau Mast, ich freue mich immer, wenn Sie den Finger in die Wunde legen wollen. Das ist auch die Aufgabe der Opposition. Sie haben einen ganz konkreten Weg vorgeschlagen, was Sie machen wollen. Sie müssen sich schon noch etwas Besseres überlegen, damit der Finger auch richtig wehtut;</p>
           <stage type="interjection">(Dr. Matthias Zimmer [CDU/CSU]: Nicht der Finger soll wehtun, sondern die Wunde! - Swen Schulz [Spandau] [SPD]: Ihre Wunde soll wehtun!)</stage>
@@ -2028,12 +2107,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat nun die Kollegin Jutta Krellmann von der Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall des Abg. Jörn Wunderlich [DIE LINKE])</stage>
         </sp>
-        <sp who="Jutta Krellmann" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Jutta Krellmann">
+      </div>
+      <div type="agenda_item" n="43" what="debate" desc="Debatte">
+        <sp who="Jutta Krellmann" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Jutta Krellmann" party="DIE LINKE" name="Jutta Krellmann">
           <speaker>Jutta Krellmann (DIE LINKE):</speaker>
           <p>Herr Präsident! Sehr verehrte Damen und Herren! Liebe Kolleginnen und Kollegen! Ich finde nicht, dass das eine Showveranstaltung ist. Ich durfte im Vermittlungsausschuss bislang noch gar nicht mitreden. Von daher fühle ich mich völlig ausgeschlossen. Selbst wenn Sie alle hier nur meinetwegen säßen, damit ich einmal mitdiskutieren kann, dann wäre das doch ein Grund.</p>
           <p>Herr Zimmer, ich bin nicht dafür da, Herrn Brauksiepe zu rehabilitieren. Er hat schon vor zwei Jahren in seinem Wahlkreis einen Mindestlohn in der Weiterbildung versprochen. Aber zwei Jahre lang ist nichts passiert. Auch das Ministerium, in dem er jetzt arbeitet, hat einen Mindestlohn in der Weiterbildung abgelehnt. Da er gesagt hat: "Im Grunde bin auch ich für einen Mindestlohn", müssen doch die Menschen in seinem Wahlkreis fragen: Was ist denn aus dem geworden, was Sie uns vor zwei Jahren versprochen haben? Dass erst jetzt etwas passiert und dass es so lange dauert, bis Menschen zu ihrem Recht kommen, empfinde ich vom Grundsatz her als eine absolute Katastrophe.</p>
@@ -2054,12 +2135,14 @@
           <p>Ich hoffe, dass im Vermittlungsausschuss - obwohl ich nicht dabei bin - etwas Positives für die Menschen herauskommt. Es geht nicht darum, ob und wie wir hier über solche Dinge diskutieren und ob es einen Schlagabtausch gibt, sondern darum, dass die Menschen endlich das bekommen, was sie brauchen; deswegen sind wir hier. Ich appelliere daher an diejenigen, die am Geschehen viel direkter als ich beteiligt sind: Sorgen Sie für einen Mindestlohn in der Weiterbildungsbranche! Wenn Ihnen daran wirklich gelegen ist, dann stimmen Sie dem Antrag der SPD genauso wie wir zu.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten der SPD - Gabriele Hiller-Ohm [SPD]: Das ist doch mal eine tolle Antwort!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat die Kollegin Beate Müller-Gemmeke von Bündnis 90/Die Grünen.</p>
           <stage type="interjection">(Paul Lehrieder [CDU/CSU]: Gute Frau! - Heiterkeit)</stage>
         </sp>
-        <sp who="Beate Müller-Gemmeke" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Beate Müller-Gemmeke">
+      </div>
+      <div type="agenda_item" n="44" what="debate" desc="Debatte">
+        <sp who="Beate Müller-Gemmeke" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Beate Müller-Gemmeke" party="GRUENE" name="Beate Müller-Gemmeke">
           <speaker>Beate Müller-Gemmeke (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrter Herr Präsident! Sehr geehrte Kolleginnen und Kollegen! Lieber Kollege Dr. Zimmer, ich höre immer wieder gerne Ihre Reden und Ihre wohlüberlegten Worte, und ich bin oft Ihrer Meinung. Die Frage ist aber immer: Welche Unterstützung haben Sie eigentlich in Ihrer eigenen Fraktion, wenn Sie so reden und solche Vorschläge machen? Vor allem frage ich mich: Welche Unterstützung haben Sie bei der FDP? Ich gehe davon aus, dass sie minimal ist. Das ist die eine Sache.</p>
           <p>Das Zweite ist: Ich habe zu meinem Bedauern nicht gehört, dass Sie handeln werden, wann Sie handeln werden, wie Sie handeln werden, dass es in der Weiterbildungsbranche wirklich vorangeht. Außerdem muss ich sagen - wir bleiben dabei -: Mindestlöhne sind notwendig; sie müssen bei uns in Deutschland endlich Realität werden.</p>
@@ -2080,12 +2163,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt der Kollege Paul Lehrieder von der CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Paul Lehrieder">
+      </div>
+      <div type="agenda_item" n="45" what="debate" desc="Debatte">
+        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Paul Lehrieder" party="CSU" name="Paul Lehrieder">
           <speaker>Paul Lehrieder (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen! Liebe Kollegen! Liebe Kollegen von der SPD, ja, Sie haben erkannt, dass Weiterbildung ein zentraler Aspekt bei der Erhaltung des Arbeitskräftepotenzials in unserem Land ist. Ja, wir wollen das dritte arbeitsmarktpolitische Instrument fortführen. Im Frühjahr letzten Jahres haben wir uns mit der SPD auf eine Jobcenterreform einigen können. Im Herbst haben wir versucht, eine Änderung der Regelsätze auf den Weg zu bringen. Da sind Sie schon von Bord gegangen, liebe Freunde von der SPD.</p>
           <stage type="interjection">(Dr. Ernst Dieter Rossmann [SPD]: Wo sind wir von Bord gegangen?)</stage>
@@ -2093,15 +2178,17 @@
           <stage type="interjection">(Abg. Katja Mast [SPD] meldet sich zu einer Zwischenfrage)</stage>
           <p>- Ich würde sie zulassen, wenn der Präsident es erlaubt.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Dann können Sie gerne eine Zwischenfrage stellen, Frau Mast. Er hat schon erklärt, dass er sie zulassen will. - Frau Mast, bitte.</p>
         </sp>
-        <sp who="Katja Mast" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Katja Mast">
+      </div>
+      <div type="agenda_item" n="46" what="debate" desc="Debatte">
+        <sp who="Katja Mast" parliamentary_group="SPD" role="mp" position="NA" who_original="Katja Mast" party="SPD" name="Katja Mast">
           <speaker>Katja Mast (SPD):</speaker>
           <p>Vielen Dank, Herr Präsident und Herr Kollege Lehrieder. - Ich habe folgende Frage: Sie rekurrieren bei den Verhandlungen über die Regelsätze für Arbeitslosengeld-II-Empfänger die ganze Zeit auf den Vermittlungsausschuss. Dort spielt das Thema Mindestlohn auch eine Rolle. Welche - vor allen Dingen mit den Bundesländern - abgestimmte Position hat Schwarz-Gelb denn zum Mindestlohn in der Weiterbildungsbranche?</p>
         </sp>
-        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Paul Lehrieder">
+        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Paul Lehrieder" party="CSU" name="Paul Lehrieder">
           <speaker>Paul Lehrieder (CDU/CSU):</speaker>
           <p>Wir haben insbesondere im Hinblick auf den 1. Mai 2011 eine Diskussion über einen Mindestlohn in der Leiharbeitsbranche geführt. Im Übrigen haben wir, sowohl die Kollegen von der FDP als auch wir von der CDU/CSU, unsere Verhandlungsführer in den Verhandlungen sitzen. Sie werden Verständnis dafür haben,</p>
           <stage type="interjection">(Lachen bei der SPD)</stage>
@@ -2117,31 +2204,35 @@
           <p>Nur mit einer starken Position können die Gewerkschaften und die Arbeitgeberverbände für ihre Mitglieder verbindliche und wirkungsvolle Abmachungen treffen. Es wurde bereits von den Vorrednern, auch von der Kollegin Müller-Gemmeke, die Frage aufgeworfen: Besteht ein öffentliches Interesse an einer Allgemeinverbindlichkeit, wenn die Tarifbindung schwach ist und beispielsweise bei nur 25 Prozent liegt? Das muss man sehr kritisch sehen. Es kann nicht sein, dass die Minderheit die Mehrheit zum Teil dominiert und dass die Minderheit für die Mehrheit Tarifverträge abschließt.</p>
           <p>Es ist sicher notwendig, Ausnahmen zu machen und in einzelnen Bereichen Mindestlohntarifverträge als allgemeinverbindlich zu erklären, wie in der Pflegebranche; das haben wir im Sommer gemacht. Da betrug das Stimmenverhältnis aber 6 : 0.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Herr Kollege Lehrieder, erlauben Sie noch eine Zwischenfrage der Kollegin Müller-Gemmeke?</p>
         </sp>
-        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Paul Lehrieder">
+      </div>
+      <div type="agenda_item" n="47" what="debate" desc="Debatte">
+        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Paul Lehrieder" party="CSU" name="Paul Lehrieder">
           <speaker>Paul Lehrieder (CDU/CSU):</speaker>
           <p>Ja, selbstverständlich.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Beate Müller-Gemmeke" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Beate Müller-Gemmeke">
+      </div>
+      <div type="agenda_item" n="48" what="debate" desc="Debatte">
+        <sp who="Beate Müller-Gemmeke" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Beate Müller-Gemmeke" party="GRUENE" name="Beate Müller-Gemmeke">
           <speaker>Beate Müller-Gemmeke (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Lieber Herr Kollege Lehrieder, jetzt muss ich doch nachfragen. Sie haben gerade gesagt, es gehe nicht, dass die Minderheit über die Mehrheit bestimmt.</p>
         </sp>
-        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Paul Lehrieder">
+        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Paul Lehrieder" party="CSU" name="Paul Lehrieder">
           <speaker>Paul Lehrieder (CDU/CSU):</speaker>
           <p>Ja, das sollte nicht sein.</p>
         </sp>
-        <sp who="Beate Müller-Gemmeke" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Beate Müller-Gemmeke">
+        <sp who="Beate Müller-Gemmeke" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Beate Müller-Gemmeke" party="GRUENE" name="Beate Müller-Gemmeke">
           <speaker>Beate Müller-Gemmeke (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Im Tarifvertragsgesetz hat man eine Schwelle von 50 Prozent festgelegt. Ausschlaggebend dafür ist die Anzahl der Arbeitnehmer, die in Unternehmen, welche in Arbeitgeberverbänden organisiert sind, beschäftigt sind. Jetzt gibt es das Problem der Tarifflucht. Das heißt, immer mehr Arbeitgeber entziehen sich ihrer Verantwortung und machen sich sozusagen vom Acker. Das führt dazu, dass diese Regelung wie ein Zirkelschluss wirkt: Je mehr Arbeitgeber sich davonmachen, desto geringer sind die Chancen der Gewerkschaften, die geforderte Quote zu erreichen. Wenn dieses Problem von der Bundesregierung erkannt wird, dann muss sie doch zu der Auffassung gelangen, dass man staatlicherseits eingreifen und die Allgemeinverbindlichkeit erklären muss, damit die Arbeitgeber endlich aufhören, Spielchen mit den Gewerkschaften zu treiben.</p>
         </sp>
-        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Paul Lehrieder">
+        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Paul Lehrieder" party="CSU" name="Paul Lehrieder">
           <speaker>Paul Lehrieder (CDU/CSU):</speaker>
           <p>Liebe Frau Kollegin Müller-Gemmeke, Sie wissen genauso gut wie ich - darüber haben wir bereits in der letzten Legislaturperiode diskutiert -: Bei einer unzureichenden Tarifbindung kann man im Falle von Verwerfungen über das MiArbG, das Mindestarbeitsbedingungengesetz, versuchen, entsprechende Änderungen zu erreichen. Aber dazu bedarf es, wie gesagt, der Feststellung von gesellschaftspolitischen Verwerfungen. Nur wenn diese vorliegen, weil beispielsweise eine Tarifflucht zu beklagen ist und das Ergebnis dementsprechend nicht hinnehmbar ist, kann man auf diese Weise eingreifen. Eine solche Tarifflucht ist aber in der Weiterbildungsbranche nicht festzustellen. Kollege Zimmer hat schon an die Arbeitgeber in der Weiterbildungsbranche appelliert, sich stärker tariflich zu binden. Ansonsten muss man überprüfen, ob ein anderer Weg möglich ist.</p>
           <p>Sie können versichert sein - da bin ich mit dem Kollegen Brauksiepe völlig einer Meinung, der vor einem halben Jahr Ausführungen dazu gemacht hat -: Wir streben eine Absicherung in der Weiterbildungsbranche an, um eine qualitativ hochwertige und eine vom Erfolg gekrönte Weiterbildung gerade der Langzeitarbeitslosen auch in Zukunft gewährleisten zu können. Das heißt, wir werden die Entwicklung sorgfältig beobachten. Dazu bedarf es, mit Verlaub, keines Antrags der SPD.</p>
@@ -2152,12 +2243,14 @@
           <p>Ich bedanke mich für die Aufmerksamkeit und wünsche ein schönes Wochenende.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP sowie der Abg. Anette Kramme [SPD])</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Als letztem Redner zu diesem Tagesordnungspunkt erteile ich dem Kollegen Dr. Ernst Dieter Rossmann von der SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Ernst Dieter Rossmann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ernst Dieter Rossmann">
+      </div>
+      <div type="agenda_item" n="49" what="debate" desc="Debatte">
+        <sp who="Ernst Dieter Rossmann" parliamentary_group="SPD" role="mp" position="NA" who_original="Ernst Dieter Rossmann" party="SPD" name="Ernst Dieter Rossmann">
           <speaker>Dr. Ernst Dieter Rossmann (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Angesichts unserer Auffassung von Bildung ist es uns ein Bedürfnis, die Unterschiede in der Debatte klarzumachen. Herr Vogel, ich hatte bei Ihnen das Gefühl, Sie hätten über alles reden können. Aber bei Ihnen schien nie durch, was das eigentlich für ein Skandal in der Weiterbildung ist, was das für betroffene Menschen bedeutet, welche Auswirkungen das auf die Qualität der Weiterbildung hat, was das perspektivisch bedeutet, wenn Weiterbildung immer wichtiger wird.</p>
           <stage type="interjection">(Johannes Vogel [Lüdenscheid] [FDP]: Das bestreitet doch niemand!)</stage>
@@ -2175,25 +2268,29 @@
           <stage type="interjection">(Johannes Vogel [Lüdenscheid] [FDP]: Wo ist denn Ihr konkreter Vorschlag?)</stage>
           <p>Zumindest diese beiden Punkte wollte ich Ihnen noch sagen.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Herr Kollege Rossmann, darf ich Sie unterbrechen? - Der Kollege Schiewerling möchte Ihnen gern eine Zwischenfrage stellen.</p>
         </sp>
-        <sp who="Dr. Ernst Dieter Rossmann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ernst Dieter Rossmann">
+      </div>
+      <div type="agenda_item" n="50" what="debate" desc="Debatte">
+        <sp who="Ernst Dieter Rossmann" parliamentary_group="SPD" role="mp" position="NA" who_original="Ernst Dieter Rossmann" party="SPD" name="Ernst Dieter Rossmann">
           <speaker>Dr. Ernst Dieter Rossmann (SPD):</speaker>
           <p>Das darf er; das kann er gern tun.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Karl Schiewerling" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Karl Schiewerling">
+      </div>
+      <div type="agenda_item" n="51" what="debate" desc="Debatte">
+        <sp who="Karl Schiewerling" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Karl Schiewerling" party="CDU" name="Karl Schiewerling">
           <speaker>Karl Schiewerling (CDU/CSU):</speaker>
           <p>Herr Kollege Rossmann, sind Sie bereit, zur Kenntnis zu nehmen, dass wir diese Debatte im Deutschen Bundestag nur führen, weil es einen Antrag der SPD aus grauer Vorzeit gibt, über den irgendwann einmal diskutiert werden muss, dass aber längst fraktionsübergreifend Übereinstimmung besteht, dass wir eine Regelung für die Weiterbildungsbranche brauchen? Es gibt überhaupt keinen Dissens zwischen FDP und CDU/CSU in dieser Frage, sondern lediglich über den Weg.</p>
           <p>Sind Sie auch bereit, zur Kenntnis zu nehmen, dass wir Schwierigkeiten haben, dies zu regeln, nicht weil wir nicht regeln wollen, sondern weil das europäische Recht uns durch die Ausschreibungsverordnungen dazu zwingt, Wege zu finden, die den europäischen Vorgaben gerecht werden, und dass es ein Problem ist, eine sachgerechte Lösung zu finden?</p>
           <p>Sind Sie des Weiteren bereit, zur Kenntnis zu nehmen, dass kein einziger Redner grundsätzlich eine Regelung ablehnt?</p>
         </sp>
-        <sp who="Dr. Ernst Dieter Rossmann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ernst Dieter Rossmann">
+        <sp who="Ernst Dieter Rossmann" parliamentary_group="SPD" role="mp" position="NA" who_original="Ernst Dieter Rossmann" party="SPD" name="Ernst Dieter Rossmann">
           <speaker>Dr. Ernst Dieter Rossmann (SPD):</speaker>
           <p>Das Letztere wollen wir anhand der Ergebnisse bewerten. Wir werben bzw. kämpfen dafür, dass es zu Ergebnissen kommt.</p>
           <p>Mit Blick auf das Rüffert-Urteil stelle ich fest, dass nicht nur auf Länder-, sondern auch auf Bundesebene wahrgenommen wird, dass dieses Urteil des Europäischen Gerichtshofs nicht zu allgemeinem Stillstand in Bezug auf das öffentliche Vergaberecht führen darf, sondern dass es aufgrund von Tariftreue und Qualifizierung der Vergaben auch Chancen eröffnet. Das registrieren wir sehr wohl.</p>
@@ -2206,14 +2303,14 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über die Beschlussempfehlung des Ausschusses für Arbeit und Soziales zu dem Antrag der Fraktion der SPD mit dem Titel "Mindestlohn für die Weiterbildungsbranche". Der Ausschuss empfiehlt in seiner Beschlussempfehlung auf Druck-sache 17/3733, den Antrag der Fraktion der SPD auf Drucksache 17/3173 abzulehnen. Wer stimmt für diese Beschlussempfehlung? - Gegenstimmen? - Enthaltungen? - Die Beschlussempfehlung ist mit den Stimmen der Koalitionsfraktionen gegen die Stimmen der Oppositionsfraktionen angenommen.</p>
           <p>Ich rufe den Tagesordnungspunkt 23 auf:</p>
           <p>Beratung des Antrags der Abgeordneten Katja Dörner, Ingrid Hönlinger, Monika Lazar, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/ DIE GRÜNEN</p>
           <p>Gemeinsames elterliches Sorgerecht für nicht miteinander verheiratete Eltern</p>
-          <p>- Drucksache 17/3219 - </p>
+          <p>- Drucksache 17/3219 -</p>
           <p>Überweisungsvorschlag:</p>
           <p>Rechtsausschuss (f)</p>
           <p>Ausschuss für Familie, Senioren, Frauen und Jugend</p>
@@ -2221,8 +2318,8 @@
           <p>Ich eröffne die Aussprache und erteile als erster Rednerin das Wort der Kollegin Katja Dörner von Bündnis 90/Die Grünen.</p>
         </sp>
       </div>
-      <div type="agenda_item" n="5" what="debate" desc="Beratung des Antrags der Abgeordneten Katja Dörner, Ingrid Hönlinger, Monika Laz...">
-        <sp who="Katja Dörner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Katja Dörner">
+      <div type="agenda_item" n="52" what="debate" desc="Debatte">
+        <sp who="Katja Dörner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Katja Dörner" party="GRUENE" name="Katja Dörner">
           <speaker>Katja Dörner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen! Liebe Kollegen! Die Justizministerin hat einen Kompromissvorschlag zur Neugestaltung des Sorgerechts bei nicht miteinander verheirateten Eltern vorgelegt. Dieser Kompromissvorschlag kommt ein halbes Jahr nach dem Urteil des Bundesverfassungsgerichts, mit dem es den diskriminierenden Zustand, dass unverheiratete Väter für das gemeinsame Sorgerecht für ihr Kind zwingend auf die Zustimmung der Mutter angewiesen sind, endlich beendet hat. Dieser Kompromissvorschlag kommt mehr als ein Jahr nach dem entsprechenden Urteil des Europäischen Gerichtshofs für Menschenrechte. Ich muss sagen: Er kommt für viele betroffene Väter und Kinder leider viele Jahre zu spät.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -2241,12 +2338,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie des Abg. Jörn Wunderlich [DIE LINKE])</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat die Kollegin Ute Granold von der CDU/ CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Ute Granold" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ute Granold">
+      </div>
+      <div type="agenda_item" n="53" what="debate" desc="Debatte">
+        <sp who="Ute Granold" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ute Granold" party="CDU" name="Ute Granold">
           <speaker>Ute Granold (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Es gibt weder eine Blockadehaltung der CDU/CSU noch haben wir Probleme mit der FDP. Es geht uns darum, in einer so wichtigen Frage eine Lösung zu finden, die den Interessen der Kinder gerecht wird, und zwar nur der Kinder, nicht der Mütter, nicht der Väter.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
@@ -2284,31 +2383,35 @@
           <p>Ich möchte Ihnen das Modell der Union, unser sogenanntes Optionsmodell, vorstellen. Wir wollen dem Vater, wie es schon heute aufgrund der Entscheidung des Bundesverfassungsgerichts möglich ist, das Recht einräumen, sofort nach Geburt des Kindes bei Gericht einen Antrag auf gemeinsame elterliche Sorge zu stellen, wenn er von vornherein weiß, dass die Mutter einer Mitsorge nicht zustimmen wird. Der Vater soll dieses Recht schnell erhalten, weil gerade in der frühen Phase nach der Geburt wesentliche Entscheidungen für das Kind getroffen werden. Der Vater soll hier die Möglichkeit erhalten können, mitzureden. Begleitend soll die Möglichkeit eines Eilverfahrens eingeräumt werden, damit der Vater sehr schnell eine Entscheidung des Gerichts erhält, sofern dies bei Fragen des Namensrechts, der Taufe oder gar einer Operation des Kindes notwendig erscheint.</p>
           <p>In anderen Fällen soll der Vater zunächst einmal einen Antrag beim Jugendamt stellen. Das Jugendamt wird den Antrag der Mutter zustellen. Es wird eine Karenzzeit eingeräumt, bevor die Mutter über den Wunsch des Vaters nach Mitsorge entscheiden soll. Wir prüfen noch, wie lang diese Karenzzeit sein soll. Danach soll die Möglichkeit gegeben werden, dass man miteinander spricht, um eine gerichtliche Auseinandersetzung möglichst zu vermeiden. Die Alternative könnte ein Mediationsverfahren sein, wohl wissend, dass diese Verfahren eine gewisse Zeit in Anspruch nehmen. Es geht hier aber um den familiären Bereich; deswegen ist es uns wichtig, dass man das Gericht nur dann einschaltet, wenn kein anderer Weg bleibt.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Frau Kollegin Granold, Frau Kollegin Dörner würde Ihnen gerne eine Zwischenfrage stellen.</p>
         </sp>
-        <sp who="Ute Granold" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ute Granold">
+      </div>
+      <div type="agenda_item" n="54" what="debate" desc="Debatte">
+        <sp who="Ute Granold" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ute Granold" party="CDU" name="Ute Granold">
           <speaker>Ute Granold (CDU/CSU):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Katja Dörner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Katja Dörner">
+      </div>
+      <div type="agenda_item" n="55" what="debate" desc="Debatte">
+        <sp who="Katja Dörner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Katja Dörner" party="GRUENE" name="Katja Dörner">
           <speaker>Katja Dörner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrte Frau Kollegin, vielen Dank für die Möglichkeit, eine Zwischenfrage zu stellen. - Sie haben, wie Sie gesagt haben, unseren Antrag sehr genau gelesen. Ist Ihnen dabei aufgefallen, dass wir mitnichten die Vorstellung haben, dass in jedem Einzelfall eine Prüfung durch das Jugendamt erfolgen soll, inwiefern das Kindeswohl beeinträchtigt sein könnte? Uns geht es darum, dass das Jugendamt im Verfahren Kenntnis davon gibt, wenn es Erkenntnisse über eine offensichtliche Kindeswohlgefährdung durch den Vater hat.</p>
           <p>Ist Ihnen aufgefallen, dass wir zwar einen Rechtsanspruch auf ganztägige Kindertagesbetreuung einfordern, wir aber in unserem Antrag mitnichten fordern, dass diese kostenlos erfolgen soll?</p>
           <p>Sie haben gerade gesagt, dass der Vater im Prinzip doch in jedem Einzelfall zum Familiengericht gehen muss. Inwiefern steht das im Einklang mit Ihrer vorherigen Aussage, dass Sie ein niedrigschwelliges Verfahren entwickeln wollen?</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Das eine schließt das andere nicht aus!)</stage>
         </sp>
-        <sp who="Ute Granold" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ute Granold">
+        <sp who="Ute Granold" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ute Granold" party="CDU" name="Ute Granold">
           <speaker>Ute Granold (CDU/CSU):</speaker>
           <p>Zu Ihrer Frage zum Verfahren. Das Optionsmodell sieht zwei Möglichkeiten vor:</p>
           <p>Erstens. Der Vater kann nach der Geburt des Kindes direkt zum Gericht gehen und eine gerichtliche Entscheidung herbeiführen, wenn er davon ausgeht, dass er eine Zustimmung der Mutter nie erhalten wird. So kommt es schnell zu einer gerichtlichen Entscheidung. Dabei sollte man jedoch auf Fristen achten: Wir sehen eine Karenzzeit vor, während sich die Mutter im Mutterschutz befindet. Auch Ihr Antrag sieht Fristen vor. Die FDP will das ebenfalls. Die Frage ist nur, wie lang diese Fristen sein sollen.</p>
           <p>Zweitens. Der Vater kann einen Antrag beim Jugendamt stellen. Der Antrag des Vaters wird der Mutter zugestellt. Die Frage ist, in welcher Zeit die Mutter auf den Antrag reagieren muss. Die Frage ist auch, was passiert, wenn die Mutter schweigt. Schweigen bedeutet nach dem Modell der Union, dass der Vater eine gerichtliche Entscheidung herbeiführen soll. Es wäre uns natürlich sehr recht, wenn in diesem Fall die Möglichkeit bestünde, mit der Mutter zu sprechen, um eine Lösung für eine gemeinsame Sorge zu finden - unter Mitteilung der Voraussetzungen dafür. Dann wäre eine gerichtliche Entscheidung nicht erforderlich.</p>
-          <p>Beide Wege sollen offenstehen. Damit wird dem Vater der Weg zur Mitsorge geebnet, entsprechend den Vorgaben der von mir genannten Gerichte, die beide einen niedrigschwelligen Zugang zur Mitsorge vorsehen. </p>
+          <p>Beide Wege sollen offenstehen. Damit wird dem Vater der Weg zur Mitsorge geebnet, entsprechend den Vorgaben der von mir genannten Gerichte, die beide einen niedrigschwelligen Zugang zur Mitsorge vorsehen.</p>
           <p>Was die Kinderbetreuung angeht, so möchten wir natürlich gerne sicherstellen, dass die Kinder eine Betreuung haben - von der Krippe bis zum Hort -, die finanzierbar bzw. beitragsfrei gestellt ist. Aber das belastet die Kommunen und die Länder. Einen Rechtsanspruch ab der Geburt zu gewährleisten - wenn Sie das meinen -, ist derzeit nicht darstellbar; das wäre sehr schwierig. Aber darüber möchte ich nicht weiter philosophieren, weil es heute in Ihrem Antrag nicht darum, sondern um die gemeinsame Sorge geht, die, wie auch Sie sagen, zügig, aber ordentlich auf den Weg gebracht werden sollte. - Ich hoffe, ich habe Ihre Fragen damit beantwortet.</p>
           <p>Zusammenfassend kann ich sagen - ich war ja schon nahezu am Ende meiner Rede -: Unser Anliegen ist, eine niedrigschwellige Möglichkeit zu schaffen und in das Gesetz aufzunehmen, sodass die Väter, die sich um die Sorge für ihre Kinder bemühen, und zwar um die volle Verantwortung im Rahmen der elterlichen Mitsorge, sehr schnell und niedrigschwellig die Mitsorge bekommen können, entweder außergerichtlich, was uns das Liebste wäre, oder gerichtlich. Es kann nicht sein, dass ein Vater bei Gericht sehr viel vortragen muss, um zu dokumentieren, dass es richtig ist, ihm die Möglichkeit zu geben, die Sorge zu begleiten. Wir gehen davon aus: Der Regelfall ist, dass die gemeinsame elterliche Sorge dem Kindeswohl entspricht. Alles andere müsste dezidiert vorgetragen werden.</p>
           <p>Ich möchte nicht - das ganz zum Schluss -, dass den Jugendämtern die Möglichkeit eingeräumt wird, bei Gericht eine Gefährdung des Kindeswohls vorzutragen, weil eine negative Stellungnahme eines Jugendamtes - da spreche ich aus 30 Jahren Erfahrung als Scheidungsanwältin - bei Gericht nur sehr schwer auszuräumen ist. Ich meine, eine so wichtige Entscheidung sollte, wenn die Eltern kein Einvernehmen erzielen, das Gericht vorurteilsfrei treffen können. Eine starke Stellung der Jugendämter sehen wir nicht als den richtigen Weg an.</p>
@@ -2316,12 +2419,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt die Kollegin Christine Lambrecht von der SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Christine Lambrecht" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Christine Lambrecht">
+      </div>
+      <div type="agenda_item" n="56" what="debate" desc="Debatte">
+        <sp who="Christine Lambrecht" parliamentary_group="SPD" role="mp" position="NA" who_original="Christine Lambrecht" party="SPD" name="Christine Lambrecht">
           <speaker>Christine Lambrecht (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Es ist eine sehr schwierige Materie, die wir da neu zu regeln haben; das ist mir heute bei diesen ersten Debattenbeiträgen wieder aufgefallen. An die oberste Stelle müssen wir setzen, dass die Neuregelung, die wir treffen, für die Betroffenen - nicht für uns Fachleute, sondern für die Betroffenen - verständlich und transparent ist, sodass sie wissen, was auf sie zukommt, und dann auch zügig umgesetzt werden kann. Ich glaube, wir alle sollten uns für die anstehenden Beratungen vornehmen, eine Regelung zu treffen, die gewährleistet, dass sich diejenigen, die in dieser Situation sind, nicht erst kundig machen müssen - beim Jugendamt, beim Amtsgericht hier, beim Familiengericht da -, sondern das Prozedere auch von einem Laien, der betroffen ist - von einem Vater, von einer Mutter -, nachvollzogen werden kann.</p>
           <p>Es ist ausgeführt worden: Sowohl vom Europäischen Gerichtshof als auch vom Bundesverfassungsgericht sind wir aufgefordert worden, hier eine Neuregelung zu treffen. Hintergrund ist natürlich, dass es gesellschaftliche Veränderungen gegeben hat, dass die Zeit nicht mehr so ist, wie sie vor 1998 oder bei der Kindschaftsrechtsreform 1998 war. Die Welt hat sich verändert, und damit sind auch gesellschaftliche Veränderungen einhergegangen.</p>
@@ -2340,14 +2445,16 @@
           <p>Ich danke Ihnen für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD sowie der Abg. Dr. Barbara Höll [DIE LINKE])</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat der Kollege Stephan Thomae von der FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Stephan Thomae" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Stephan Thomae">
+      </div>
+      <div type="agenda_item" n="57" what="debate" desc="Debatte">
+        <sp who="Stephan Thomae" parliamentary_group="FDP" role="mp" position="NA" who_original="Stephan Thomae" party="FDP" name="Stephan Thomae">
           <speaker>Stephan Thomae (FDP):</speaker>
-          <p>Herr Präsident! Meine Damen und Herren! Jedes Kind hat Anspruch auf beide Elternteile. Beide sind verantwortlich für das Kind, sind dem Kind und seinem Wohl verpflichtet. Umgekehrt ist die Sorge für das Kind ein originäres Elternrecht. Eltern haben das Recht, für ihre Kinder zu sorgen, die Sorge innezuhaben, ohne sich bewähren zu müssen, ohne darum kämpfen zu müssen - mit einer gravierenden Einschränkung im Bürgerlichen Gesetzbuch: Dann, wenn der Vater mit der Mutter nicht verheiratet ist, kann der Vater die gemeinschaftliche Sorge nur dann erhalten, wenn er entweder die Mutter heiratet oder aber die Mutter der gemeinschaftlichen Sorge zustimmt. </p>
+          <p>Herr Präsident! Meine Damen und Herren! Jedes Kind hat Anspruch auf beide Elternteile. Beide sind verantwortlich für das Kind, sind dem Kind und seinem Wohl verpflichtet. Umgekehrt ist die Sorge für das Kind ein originäres Elternrecht. Eltern haben das Recht, für ihre Kinder zu sorgen, die Sorge innezuhaben, ohne sich bewähren zu müssen, ohne darum kämpfen zu müssen - mit einer gravierenden Einschränkung im Bürgerlichen Gesetzbuch: Dann, wenn der Vater mit der Mutter nicht verheiratet ist, kann der Vater die gemeinschaftliche Sorge nur dann erhalten, wenn er entweder die Mutter heiratet oder aber die Mutter der gemeinschaftlichen Sorge zustimmt.</p>
           <p>Der Vater braucht also mindestens einmal ein Jawort der Mutter: entweder vor dem Traualtar oder beim Jugendamt. Das ist ein nicht einklagbarer Anspruch. Dieses Jawort kann man nach dem BGB nicht vor Gericht einklagen. Hier hat das Verfassungsgericht mit seiner Entscheidung vom 21. Juli nun eine kleine Änderung vorgenommen, zwar nicht mit Blick auf den Traualtar,</p>
           <stage type="interjection">(Christine Lambrecht [SPD]: Das wäre ja eine Zwangsheirat!)</stage>
           <p>aber es muss die Möglichkeit bestehen, einen Antrag auf Einräumen der gemeinschaftlichen elterlichen Sorge zu stellen. Damit gibt es angesichts der momentanen Lage zwei Probleme.</p>
@@ -2366,12 +2473,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Als letzter Redner zu diesem Tagesordnungspunkt hat das Wort der Kollege Jörn Wunderlich von der Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Jörn Wunderlich" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Jörn Wunderlich">
+      </div>
+      <div type="agenda_item" n="58" what="debate" desc="Debatte">
+        <sp who="Jörn Wunderlich" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Jörn Wunderlich" party="DIE LINKE" name="Jörn Wunderlich">
           <speaker>Jörn Wunderlich (DIE LINKE):</speaker>
           <p>Danke schön. - Herr Präsident! Liebe Kolleginnen und Kollegen! Sorgerecht und Sorgepflicht - das ist ein hochemotionales Thema, wenn sich die Eltern getrennt haben. Ich denke, alle, die mit der Thematik befasst waren, haben Schreiben von Vätern, Müttern, Verbänden, Interessengemeinschaften, AGs und sonstigen Betroffenen in Deutschland bekommen. Die einen wollen es so, die anderen wollen es so. In der heutigen Debatte wurde dazu schon viel gesagt.</p>
           <p>Denjenigen, die sich mit dem Sorgerecht nicht so gut auskennen, möchte ich einen kleinen Einblick geben, wie es sich überhaupt entwickelt hat, um ein Verständnis dafür zu bekommen, wieso in Bezug auf das Sorgerecht für gemeinsame Kinder ein Unterschied zwischen Eheleuten und Nichteheleuten besteht.</p>
@@ -2385,13 +2494,14 @@
           <p>Danke schön und schönes Wochenende.</p>
           <stage type="interjection">(Beifall bei der LINKEN - Stephan Thomae [FDP]: Gleichfalls!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird Überweisung der Vorlage auf Drucksache 17/3219 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? - Das ist der Fall. Dann ist die Überweisung so beschlossen.</p>
           <p>Wir sind damit am Schluss unserer heutigen Tagesordnung.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 9. Februar 2011, 13 Uhr, ein.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluss: 14.36 Uhr)</stage>
         </sp>
       </div>
     </body>

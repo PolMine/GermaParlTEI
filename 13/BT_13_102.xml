@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-06</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2005/1205/bic/plenarprotokolle/pp/1996/13102a.zip</url>
-        <date>2015-10-20 19:19:09</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -35,17 +35,17 @@
   </teiHeader>
   <text>
     <body>
-      <div type="agenda_item" n="1" what="1" desc="1">
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+      <div type="agenda_item" n="1" what="government_declaration" desc="Abgabe einer Erklärung der Bundesregierung">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Meine Damen und Herren, die Sitzung ist eröffnet.</p>
           <p>Ich rufe den Zusatzpunkt 5 auf:</p>
-          <p>Abgabe einer Erklärung der Bundesregierung </p>
+          <p>Abgabe einer Erklärung der Bundesregierung</p>
           <p>Programm für mehr Wachstum und Beschäftigung</p>
           <p>Nach einer interfraktionellen Vereinbarung sind für die Aussprache im Anschluß an die Regierungserklärung zweieinhalb Stunden vorgesehen. -- Dazu sehe ich keinen Widerspruch. Dann ist es so beschlossen.</p>
           <p>Das Wort zur Abgabe einer Regierungserklärung hat der Herr Bundeskanzler Dr. Helmut Kohl.</p>
         </sp>
-        <sp who="Dr. Helmut Kohl" parliamentary_group="NA" role="government" position="Bundeskanzler" party="CDU" name="Helmut Kohl">
+        <sp who="Helmut Kohl" parliamentary_group="NA" role="government" position="Bundeskanzler" who_original="Helmut Kohl" party="CDU" name="Helmut Kohl">
           <speaker>Dr. Helmut Kohl, Bundeskanzler:</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Ich habe heute die Aufgabe, eine Erklärung der Bundesregierung zu dem Thema "Programm für mehr Wachstum und Beschäftigung" abzugeben. Ich denke, ungeachtet der Gegensätze in der Auseinandersetzung zu diesem Thema ist es sicher wichtig, daß wir uns in dieser Debatte gemeinsam vor Augen halten, in welchen Notwendigkeiten unser Land in diesem Augenblick steht und wie wichtig auch eine nüchterne Analyse der Gegebenheit ist.</p>
           <p>Das Konjunkturtempo -- --</p>
@@ -53,20 +53,20 @@
           <p>-- Jetzt habe ich noch gar nichts gesagt, was Sie erregt, und Sie sind schon erregt.</p>
           <stage type="interjection">(Heiterkeit und Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Es ist ein akustisches Problem, wir müssen den Ton ein wenig ausjustieren, man hört das nicht.</p>
         </sp>
-        <sp who="Dr. Helmut Kohl" parliamentary_group="NA" role="government" position="Bundeskanzler" party="CDU" name="Helmut Kohl">
+        <sp who="Helmut Kohl" parliamentary_group="NA" role="government" position="Bundeskanzler" who_original="Helmut Kohl" party="CDU" name="Helmut Kohl">
           <speaker>Dr. Helmut Kohl, Bundeskanzler:</speaker>
           <p>Verehrte Frau Präsidentin, ich bin für alles schuldig, aber für das heute nicht.</p>
           <stage type="interjection">(Heiterkeit bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Eben, deswegen habe ich es auch schon an den Vorsitz gezogen.</p>
         </sp>
-        <sp who="Dr. Helmut Kohl" parliamentary_group="NA" role="government" position="Bundeskanzler" party="CDU" name="Helmut Kohl">
+        <sp who="Helmut Kohl" parliamentary_group="NA" role="government" position="Bundeskanzler" who_original="Helmut Kohl" party="CDU" name="Helmut Kohl">
           <speaker>Dr. Helmut Kohl, Bundeskanzler:</speaker>
           <p>Vielen Dank.</p>
           <p>Meine Damen und Herren, das Konjunkturtempo hat sich in Deutschland spürbar verlangsamt. Das von vielen nationalen und internationalen Experten ursprünglich erwartete reale Wachstum von eineinhalb Prozent für dieses Jahr werden wir nicht erreichen. Dies werden die Wirtschaftsforschungsinstitute in den nächsten Tagen in ihrem Frühjahrsgutachten sicherlich so bestätigen.</p>
@@ -98,7 +98,7 @@
           <p>Ich will auf das Beispiel Schweden verweisen. Dort wurden die Volksrenten gekürzt, die Entgeltfortzahlung im Krankheitsfall wurde für die ersten Tage drastisch gesenkt, Arbeitslosengeld und Arbeitslosenhilfe wurden zurückgeführt.</p>
           <stage type="interjection">(Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Aber die Vermögensteuer wurde nicht abgeschafft, sondern erhöht!)</stage>
           <p>-- Herr Abgeordneter, Ihr Beitrag ist immer der gleiche: laut und wenig bedeutungsvoll.</p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.) </stage>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>In unserem Nachbarland, in den Niederlanden, wurden enorme Veränderungen der Strukturen vorgenommen. In Frankreich ist eine ähnliche Diskussion im Gange. Ich könnte die Liste noch weiter fortsetzen.</p>
           <p>In einer Weltwirtschaft, in der nationale Grenzen ökonomisch immer weniger eine Rolle spielen, gelten eben andere Regeln, als wir dies durch eine lange Zeit auch bei uns in Deutschland gewöhnt waren. Heute müssen wir uns mehr denn je -- vor allem als eine der großen Exportnationen der Erde -- auf den internationalen Wettbewerb einstellen. Das muß Konsequenzen haben für die Steuern, für die Abgaben, für Lohn- und Lohnzusatzkosten sowie auch für viele Regulierungen.</p>
           <p>Ich halte diese notwendigen Korrekturen für zwingend, um Zukunft zu sichern. Dies erfordert, daß wir uns umstellen, daß wir auch in diesem oder jenem Fall Ansprüche zurückstellen. Ich weiß sehr wohl, daß das mit Härten verbunden ist. Aber die unabweisbaren Korrekturen, meine Damen und Herren, sind der einzige Weg, unsere Wirtschaft zu stärken, mehr Arbeitsplätze zu ermöglichen und eine sichere Zukunftsgrundlage für unsere sozialen Sicherungssysteme zu schaffen.</p>
@@ -108,7 +108,7 @@
           <p>Meine Damen und Herren, wenn wir jetzt nicht handeln, drohen weitere Arbeitsplatzverluste, und der beschäftigungsfeindliche Weg zu immer höheren Steuern und Abgaben würde sich fortsetzen. Dies ist für die Koalition auf gar keinen Fall der Weg der Politik.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Es kann nicht unsere Politik sein, die Tarifparteien zur Lohnzurückhaltung aufzufordern und dann die möglichen positiven Arbeitsplatzeffekte mit steigenden Abgaben wieder zunichte zu machen. Mehr staatliche Schulden oder höhere Steuern würden im übrigen -- das ist eine Erfahrung, die jeder kennt -- gerade auch jene belasten, auf deren Leistungsbereitschaft unser Land besonders angewiesen ist: die Facharbeiter, den selbständigen Mittelstand, all jene Bereiche, die in ihrer Kreativität und mit ihrer täglichen Arbeit die sozialen Leistungen überhaupt erst ermöglichen.</p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.) </stage>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Um mehr Arbeitsplätze aufzubauen, müssen wir den Standort attraktiv machen, die Belastungen der Wirtschaft abbauen, Steuern, Abgaben und Lohnkosten senken, überflüssige Regulierungen beseitigen, rascher die notwendigen Innovationen auf den Weg bringen und vor allem die Arbeitswelt flexibler machen.</p>
           <p>Die Bundesregierung hat mit dem 50-Punkte-Aktionsprogramm Ende Januar gehandelt.</p>
           <stage type="interjection">(Lachen bei Abgeordneten der SPD)</stage>
@@ -150,15 +150,15 @@
           <p>Meine Damen und Herren, unsere Arbeitsplätze stehen im internationalen Standortwettbewerb. Wenn Produktion in Deutschland zu teuer wird, wandert sie zu Lasten der Arbeitsplätze ins Ausland ab oder -- auch das erleben wir -- Produktionen unterbleiben ganz. Die Bedeutung von grenzüberschreitenden Direktinvestitionen wächst in einem ungewöhnlichen Tempo. Wir wissen auch -- es hat keinen Sinn, darüber zu klagen; das ist eine Realität --: Für die international operierenden Unternehmen ist die Präsenz auf den Wachstumsmärkten wichtig. Nur wer in den großen Handelszusammenschlüssen wie Europäische Union, NAFTA, Mercosur und im asiatischen Raum präsent ist, nimmt an der Wachstumsdynamik dieser Regionen teil. Das ist auch ein Beitrag zur Arbeitsplatzsicherung in Deutschland. In diesem Sinne -- nur in diesem Sinne -- sind die wachsenden Auslandsinvestitionen deutscher Unternehmen zu begrüßen. Aber wir müssen uns über das vergleichsweise geringe Engagement ausländischer Unternehmen in Deutschland Sorgen machen. Hier besteht Handlungsbedarf. Das Investieren und Schaffen von Arbeitsplätzen in Deutschland muß deshalb attraktiver gemacht werden.</p>
           <p>Es wird in Deutschland sehr viel mehr Arbeitsplätze geben, wenn die Arbeitskosten niedriger sind. Es ist kein Zufall, daß im Dienstleistungsbereich hierzulande viel weniger Arbeitsplätze angeboten werden als in anderen Ländern. Wir alle -- das gilt für die politisch Verantwortlichen, für die Tarifparteien und Unternehmen -- haben -- das sollte man offen zugeben -- in der Vergangenheit zu einem starken Anstieg der Arbeitskosten beigetragen. Dies gilt für die Tariflöhne, aber das gilt noch mehr für die stark angestiegenen Lohnzusatzkosten. Die Bundesregierung ist sich deshalb mit der Wirtschaft und den Gewerkschaften einig, daß der Anstieg der Lohnzusatzkosten gebremst werden muß. Dabei sind Tarifparteien und Betriebspartner ebenso in der Verantwortung wie die Politik.</p>
           <p>Wir haben uns das Ziel gesetzt, die Beiträge zur Sozialversicherung bis zum Jahr 2000 auf unter 40 Prozent zu senken. Um dieses Ziel zu erreichen, müssen wir unsere sozialen Sicherungssysteme auf die Herausforderungen der Zukunft einrichten. Es geht dabei überhaupt nicht um den Abbau des Sozialstaats, sondern es ist die Pflicht verantwortungsvoller Politik, immer wieder kritisch zu fragen: Gibt es Regelungen, die zum Mißbrauch einladen und deshalb geändert und abgeschafft werden müssen? Wenn ich, um das klarzustellen, von Mißbrauch rede, meine ich nicht nur Mißbrauch im Bereich der Sozialsysteme, sondern in gleicher Weise das Erschleichen von Subventionen und Steuerbetrug.</p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.) </stage>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Wir müssen uns weiter kritisch fragen: Wie können wir soziale Leistungen so gestalten, daß sie zur Arbeit ermutigen und nicht den Willen, zu arbeiten und sich zu engagieren, aushöhlen?</p>
           <p>Ich halte es jedenfalls für richtig und auch für unsere Gesellschaft unverzichtbar, daß der Satz gelten muß: Wer arbeitet, muß mehr bekommen als jemand, der nicht arbeitet.</p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.) </stage>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Wenn dieser Grundsatz gilt, dann muß er Konsequenzen haben. Dann können wir es beispielsweise -- da sollten wir uns doch eigentlich einig sein -- nicht länger hinnehmen, daß ein Sozialhilfebezieher zumutbare Arbeit -- zumutbare! -- ablehnt.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Anke Fuchs [Köln] [SPD]: Kann er doch nicht! Steht doch jetzt schon im Gesetz!)</stage>
           <p>Dann müssen wir Anreize schaffen, damit sich Arbeit auch dann für den einzelnen lohnt, wenn dessen Erwerbseinkommen sein Sozialeinkommen nicht wesentlich übersteigt. Hier haben wir wichtige und, wie ich denke, richtige Reformen auf den Weg gebracht. Sie stehen jetzt im Vermittlungsausschuß zur Diskussion; ich hoffe, daß wir dort zu vernünftigen Einigungen kommen.</p>
           <p>Meine Damen und Herren, notwendige Fragen stellen sich auch für den Bereich des Arbeitsrechts. Es ist unbestreitbar, daß wir trotz erkennbarer Fortschritte mehr Flexibilität auf dem Arbeitsmarkt brauchen. Mehr Flexibilität ist eine Grundvoraussetzung, um mehr Beschäftigung zu schaffen und die Arbeitslosigkeit wirksam zu bekämpfen. Dabei ist eine entscheidende Voraussetzung, daß wir alles unternehmen, um den Mittelstand zu stärken;</p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.) </stage>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>denn die kleinen und mittleren Unternehmen sind die wichtigsten Arbeitgeber in unserem Land. Zwei Drittel aller Beschäftigten arbeiten in diesem Bereich. Auch das ist, wie ich denke, eine positive Erfahrung dieser Jahre: Zwischen 1990 und 1995 sind im Mittelstand knapp eine Million neuer Arbeitsplätze geschaffen worden. Wahr ist auch, daß gleichzeitig die Großunternehmen in unserem Lande unter dem Druck des internationalen Wettbewerbs die Zahl ihrer Beschäftigten verringert haben.</p>
           <p>Wenn wir also mehr Arbeitsplätze schaffen wollen, dann müssen wir die Startchancen für Existenzgründer und junge Unternehmen in Deutschland verbessern und die bestehenden Betriebe von Kosten und Regulierungen entlasten. Gerade im Bereich der kleinen und mittleren Unternehmen gilt es, Arbeits- und Einstellungshemmnisse abzubauen. Wer häufig mit Handwerkern und mittelständischen Unternehmern spricht, weiß, daß viele von ihnen in der Einstellung neuer Arbeitnehmer ein Risiko sehen. Sie fürchten das Risiko langwieriger Arbeitsgerichtsprozesse und unkalkulierbarer Kosten, die ihnen entstehen können. Deshalb -- und das ist der falsche Weg -- setzen sie lieber auf Überstunden.</p>
           <p>Die Bundesregierung und die Koalition sind nach eingehenden Beratungen zu dem Ergebnis gekommen, den Schwellenwert des Kündigungsschutzgesetzes, der gegenwärtig für Betriebe mit mehr als fünf Arbeitnehmern gilt, auf zehn Beschäftigte anzuheben.</p>
@@ -235,13 +235,13 @@
           <p>Meine Damen und Herren, es geht darum, Arbeitsplätze zu schaffen und die Zukunft zu sichern. Auch das ist eine Erfahrung, die gilt: Wohlstand läßt sich nicht auf Pump finanzieren. Gefragt sind jetzt Mut und Weitsicht, das richtige Einstellen der Weichen für die Zukunft. Deswegen treffen wir jetzt die notwendigen Entscheidungen und setzen sie Schritt für Schritt in schnellem Tempo um, und dazu darf ich Sie alle einladen.</p>
           <stage type="interjection">(Anhaltender Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Das Wort hat der Ministerpräsident des Saarlandes, Oskar Lafontaine.</p>
         </sp>
-        <sp who="Oskar Lafontaine" parliamentary_group="NA" role="federal_council" position="Ministerpräsident" party=" SPD" name=" Oskar Lafontaine">
+        <sp who="Oskar Lafontaine" parliamentary_group="NA" role="federal_council" position="Ministerpräsident Saarland" who_original="Oskar Lafontaine" party="SPD" name="Oskar Lafontaine">
           <speaker>Ministerpräsident Oskar Lafontaine (Saarland) (von der SPD mit Beifall begrüßt):</speaker>
-          <p> Frau Präsidentin! Meine sehr geehrten Damen und Herren! Herr Bundeskanzler, Sie haben soeben eine Einschätzung der ökonomischen Lage vorgenommen und haben einiges über die Lage der öffentlichen Haushalte gesagt. Dieser Einschätzung der ökonomischen Lage können wir nicht widersprechen, und die Darstellung der öffentlichen Haushalte ist nach dem, was wir heute wissen, korrekt gewesen.</p>
+          <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Herr Bundeskanzler, Sie haben soeben eine Einschätzung der ökonomischen Lage vorgenommen und haben einiges über die Lage der öffentlichen Haushalte gesagt. Dieser Einschätzung der ökonomischen Lage können wir nicht widersprechen, und die Darstellung der öffentlichen Haushalte ist nach dem, was wir heute wissen, korrekt gewesen.</p>
           <p>Nur, verehrter Herr Bundeskanzler, eine Frage müssen wir Ihnen stellen: Hätten Sie diese Rede nicht auch schon vor einigen Wochen hier halten können?</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>War die ökonomische Lage damals wirklich so viel anders als heute? War die Lage der öffentlichen Haushalte vor einigen Wochen so viel anders als heute?</p>
@@ -369,13 +369,13 @@
           <stage type="interjection">(Dr. Wolfgang Schäuble [CDU/CSU]: Tut ja niemand!)</stage>
           <p>Denn wir erleben schon jahrelang eine Debatte, die Sie jetzt wiederholt haben und die heißt: Wer zumutbare Arbeit ablehnt, dem muß die Sozialhilfe gekürzt oder ganz gestrichen werden. Was soll eigentlich das ständige Herumreiten auf dieser Forderung? Sie als deutscher Bundeskanzler müßten doch wissen, daß das längst im Gesetz steht.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
-          <p>Ich lese Ihnen   25 vor. Es könnte ja sein, daß das zu einer Information führt:</p>
-          <stage type="interjection">(Zuruf von der CDU/CSU:   26!)</stage>
+          <p>Ich lese Ihnen § 25 vor. Es könnte ja sein, daß das zu einer Information führt:</p>
+          <stage type="interjection">(Zuruf von der CDU/CSU: § 26!)</stage>
           <p>Wer sich weigert, zumutbare Arbeit zu leisten oder eine zumutbare Arbeitsgelegenheit anzunehmen, hat keinen Anspruch auf Hilfe zum Lebensunterhalt.</p>
           <p>Was soll also das ständige Wiederholen einer Forderung, die längst in einem deutschen Gesetzbuch steht, und welche Absichten verbinden sich eigentlich damit?</p>
           <stage type="interjection">(Dr. Guido Westerwelle [F.D.P.]: Es geht darum, ob das eine Ermessenfrage ist oder nicht!)</stage>
           <p>Ich sage Ihnen noch einmal: Ich weiß ganz genau, daß es populär ist, den Eindruck zu erwecken, es gäbe da Leute, die zumutbare Arbeit ablehnen und gleichwohl Sozialhilfe beziehen. Seien Sie vorsichtig mit solchen Behauptungen! Seien Sie fair und zitieren Sie das deutsche Gesetzbuch! Polemisieren Sie nicht gegen die, von denen viele sich nicht helfen können, die in einer schwierigen Situation ihres Lebens sind!</p>
-          <stage type="interjection">(Beifall bei der SPD) </stage>
+          <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Viel sinnvoller wäre es in dieser Frage, den viel zu hohen Eingangssteuersatz von fast 26 Prozent zu senken.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
           <p>Dieser Eingangssteuersatz ist einfach eine Aufforderung zur Schwarzarbeit und war eine der Fehlentscheidungen Ihrer Regierung in den letzten Jahren.</p>
@@ -421,12 +421,12 @@
           <p>Eines möchte ich zum Schluß sagen: Bitte glauben Sie uns, es geht nicht nur um die Frage der richtigen Vorschläge in der Finanzpolitik und in der Steuerpolitik und der richtigen Vorschläge, um mehr Innovationen und Wachstum in unserer Gesellschaft durchzusetzen. Es geht vielmehr um einen Kernbestand unserer Nachkriegsgesellschaft. Dieser Kernbestand waren der Sozialstaat und die soziale Gerechtigkeit. Bitte zerstören Sie nicht mutwillig diesen Konsens unserer Nachkriegsgesellschaft! Ein solches Vorgehen wird sich bitter rächen und am Ende zu mehr Arbeitslosigkeit und zu höherer Staatsverschuldung führen.</p>
           <stage type="interjection">(Anhaltender lebhafter Beifall bei der SPD -- Beifall bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der PDS -- Dr. Alfred Dregger [CDU/CSU]: Heuchelei!)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Es spricht der Fraktionsvorsitzende der CDU/CSU, Dr. Wolfgang Schäuble.</p>
           <stage type="interjection">(Abgeordnete der SPD verlassen den Saal -- Dr. Wolfgang Weng [Gerlingen] [F.D.P.]: Freizeit hat begonnen! -- Bundesminister Dr. Theodor Waigel: Bye-bye! -- Zurufe von der CDU/CSU: Auf Wiedersehen! -- Schönes Wochenende! -- Zuruf von der SPD: Gucken Sie doch mal Ihre Reihen an, wie leer das ist!)</stage>
         </sp>
-        <sp who="Dr. Wolfgang Schäuble" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Schäuble">
+        <sp who="Wolfgang Schäuble" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Schäuble" party="CDU" name="Wolfgang Schäuble">
           <speaker>Dr. Wolfgang Schäuble (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Wir haben vier Millionen Arbeitslose in unserem Land, und ich finde, die Debatte und die Art, wie wir sie führen, sollten dieser Tatsache Rechnung tragen. Ich bitte Sie alle darum.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Zuruf von der SPD: Da bin ich aber gespannt!)</stage>
@@ -436,7 +436,7 @@
           <p>Jetzt lese ich Ihnen aus unserem 50-Punkte-Programm für Wachstum und Beschäftigung von Ende Januar -- der Bundeskanzler hat darauf Bezug genommen; es ist ja veröffentlicht worden, und wir haben darüber debattiert -- die Ziffer 18 vor:</p>
           <p>Pro Mitarbeiter und Jahr gehen etwa 15 Arbeitstage durch Arbeitsunfähigkeit verloren. Dies führt zu im internationalen Vergleich hohen zusätzlichen Kostenbelastungen der deutschen Unternehmen. Um dem entgegenzuwirken, hält es die Bundesregierung für notwendig, daß die Tarifpartner -- entsprechend der Verabredung in dem Gespräch beim Bundeskanzler am 23. Januar 1996 (Bündnis für Arbeit und zur Standortsicherung) -- Möglichkeiten zur Verminderung von Fehlzeiten in den Betrieben konkretisieren. . . .</p>
           <p>Es wurde immer gesagt: Wenn die Tarifpartner dazu Ergebnisse bringen, muß der Gesetzgeber nicht handeln. Die Tarifpartner haben am Dienstag erklärt, sie seien nicht in der Lage, zu Ergebnissen zu kommen. Ich will das nicht würdigen. Deswegen haben wir entsprechend unserer Ankündigung unsere Beschlüsse gefaßt. Nehmen Sie den Vorwurf zurück, wir hätten vor den Wahlen nicht angekündigt, was wir jetzt beschlossen haben!</p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.) </stage>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Dann haben Sie gesagt, wir hätten unsere Absichten und Vorschläge zum Kündigungsschutzgesetz nicht vorher bekanntgemacht.</p>
           <stage type="interjection">(Dr. Gregor Gysi [PDS]: Lesen Sie einmal vor, wo steht, daß das Kindergeld nicht erhöht wird!)</stage>
           <p>-- Ja, ich lese es Ihnen vor; seien Sie ganz ruhig. -- Ich lese zum Kündigungsschutz Ziffer 20 des Aktionsprogramms für Investitionen und Arbeitsplätze vor:</p>
@@ -586,13 +586,13 @@
           <p>Wir dürfen nicht der Versuchung nachgeben, am Ende jeden Besitzstand zu verteidigen. Denn in einer Zeit, in der das Ausmaß und das Tempo von Veränderungen in unserer Gesellschaft wie in der Welt um uns herum größer sind, als es uns lieb ist, müssen wir zur Innovation fähig bleiben. Wir nehmen unseren Teil der Verantwortung wahr. Dem dient unser Programm für mehr Wachstum und Beschäftigung. Dazu bitte ich Sie um Ihre Mitwirkung.</p>
           <stage type="interjection">(Anhaltender Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Meine Kolleginnen und Kollegen, ich habe gelegentlich Zwischenrufe gehört, die ich nicht wiederholen möchte, die aber, wenn ich mir sicher wäre, daß ich sie richtig gehört habe, gerügt werden müßten. Ich empfehle doch sehr, die Emotionen in dieser Beziehung etwas unter Kontrolle zu halten, damit wir uns nicht gegenseitig mehr Schwierigkeiten machen, als nötig ist.</p>
           <stage type="interjection">(Zustimmung)</stage>
           <p>Ich erteile das Wort dem Vorsitzenden der Fraktion Bündnis 90/Die Grünen, dem Abgeordneten Joseph Fischer.</p>
         </sp>
-        <sp who="Joseph Fischer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Joschka Fischer">
+        <sp who="Joseph Fischer (Frankfurt)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Joseph Fischer (Frankfurt)" party="GRUENE" name="Joseph Fischer">
           <speaker>Joseph Fischer (Frankfurt) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Der Bundeskanzler hat es in seiner Regierungserklärung angesprochen -- von keiner Seite wird es bestritten --: Die Bundesrepublik Deutschland befindet sich in der schwersten Strukturkrise seit ihrem Bestehen, einer Strukturkrise, die eng zusammenhängt mit den globalen Veränderungen, mit dem Ende einer ganzen Weltordnung in den Jahren 1989/90 -- diese Veränderung kann man wahrhaft fast weltrevolutionär nennen --, aber auch mit Entwicklungen, die innergesellschaftlich und ökonomisch längst angelegt waren und dann nur gewaltig beschleunigt wurden. Wenn ich mir die Debatte anhöre, frage ich mich: Wie weit werden wir mit den Ritualen, die wir alle gemeinsam im Laufe der Jahre entwickelt haben, tatsächlich den Lösungsnotwendigkeiten, die aus dieser Strukturkrise entstehen, gerecht?</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -674,11 +674,11 @@
           <p>Das, meine Damen und Herren, sind die Punkte, die wir anpacken müssen. Es geht um die Zukunftsfähigkeit dieses Landes. Bei der jüngeren Generation versagen Sie völlig. Die Solidarität beginnen Sie unter dem Druck der gegenwärtigen Entwicklungen aufzukündigen. An diesem Punkt werden wir entschieden Widerstand leisten, weil die Zukunft des Sozialstaats zugleich die Zukunft der sozialen Demokratie ist. Wir wollen keine amerikanische Entwicklung.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der PDS)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich erteile dem Abgeordneten Dr. Wolfgang Gerhardt das Wort.</p>
         </sp>
-        <sp who="Dr. Wolfgang Gerhardt" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Wolfgang Gerhardt">
+        <sp who="Wolfgang Gerhardt" parliamentary_group="FDP" role="mp" position="NA" who_original="Wolfgang Gerhardt" party="FDP" name="Wolfgang Gerhardt">
           <speaker>Dr. Wolfgang Gerhardt (F.D.P.):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Wir wollen auch keine amerikanische Entwicklung, Herr Kollege Fischer,</p>
           <stage type="interjection">(Lachen und Widerspruch beim BÜNDNIS 90/DIE GRÜNEN und bei der PDS)</stage>
@@ -746,11 +746,11 @@
           <p>Wer zur Modernisierung nicht bereit, nicht fähig oder in der Lage ist, der kann hier nicht regieren. Die Auskunft der Koalition ist die Fähigkeit der Koalition zur Modernisierung des Standortes Deutschland. Deshalb wollen wir auch weiter gut und fair zusammenarbeiten.</p>
           <stage type="interjection">(Anhaltender Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
-          <p>Ich erteile das Wort dem Vorsitzenden der Gruppe der PDS, Dr.  Gregor Gysi.</p>
+          <p>Ich erteile das Wort dem Vorsitzenden der Gruppe der PDS, Dr. Gregor Gysi.</p>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Gregor Gysi">
+        <sp who="Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" who_original="Gregor Gysi" party="PDS" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (PDS):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Wir haben es nach meiner festen Auffassung nicht mit einer Haushaltskrise zu tun, sondern mit einer Gesellschaftskrise.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
@@ -815,7 +815,7 @@
           <p>Und dann Ihre Argumentation bei der Lohnfortzahlung: Herr Bundeskanzler, wenn Sie sagen, das betreffe nur 20 Prozent, dann sage ich Ihnen, daß das falsch ist, weil nämlich in vielen Tarifverträgen auf die gesetzlichen Bestimmungen Bezug genommen wird. Wenn Sie die gesetzlichen Bestimmungen ändern, dann betrifft das sehr viele Beschäftigte, die eine Reduzierung bei der Lohnfortzahlung in Kauf nehmen müssen.</p>
           <p>Aber was noch viel schlimmer ist: Wenn es erst einmal einen Teil der Beschäftigten betrifft, dann ist doch klar, daß die Arbeitgeber in den anderen Bereichen sagen werden, daß sie die Konkurrenz nicht aushalten. Wenn A bei der Lohnfortzahlung weniger zahlt, muß auch B weniger zahlen. Das wird das Argument sein, und das wissen Sie auch. Deshalb wollen Sie das ja einleiten, damit die Lohnfortzahlung doch beachtlich in Frage gestellt wird und damit eine der wesentlichen und erstreikten Errungenschaften dieser Bundesrepublik Deutschland.</p>
           <p>Dasselbe gilt auch für das Kindergeld, -- ich will darauf jetzt nicht weiter eingehen, auch aus zeitlichen Gründen -- und für die Reduzierung der Leistungen für die Arbeitslosen.</p>
-          <p>Dann sagen Sie immer, die Renten sind sicher, die Rentnerinnen und Rentner betrifft das alles gar nicht. Abgesehen davon, daß ich an diese Versicherung nicht glaube: Teurere Kuren, betrifft das etwa nicht Rentnerinnen und Rentner? Die Nichtbezahlung von Brillen: Betrifft das etwa nicht Rentnerinnen und Rentner? Die Tatsache, daß man für jedes Arzneimittel zukünftig mehr Geld zahlen muß, betrifft das nicht auch gerade Rentnerinnen und Rentner? Das alles sind Sozialkürzungen zu Lasten derjenigen, die inzwischen aus dem Arbeitsleben ausgeschieden sind und die besonders auf Hilfe und Unterstützung angewiesen sind. </p>
+          <p>Dann sagen Sie immer, die Renten sind sicher, die Rentnerinnen und Rentner betrifft das alles gar nicht. Abgesehen davon, daß ich an diese Versicherung nicht glaube: Teurere Kuren, betrifft das etwa nicht Rentnerinnen und Rentner? Die Nichtbezahlung von Brillen: Betrifft das etwa nicht Rentnerinnen und Rentner? Die Tatsache, daß man für jedes Arzneimittel zukünftig mehr Geld zahlen muß, betrifft das nicht auch gerade Rentnerinnen und Rentner? Das alles sind Sozialkürzungen zu Lasten derjenigen, die inzwischen aus dem Arbeitsleben ausgeschieden sind und die besonders auf Hilfe und Unterstützung angewiesen sind.</p>
           <p>Jetzt sage ich Ihnen etwas, was mir wirklich besonders wichtig ist und was ich mit dem Wort Kulturwende meine. Es ist ein Detailpunkt, aber ein ganz schlimmer. Herr Schäuble, ich bitte Sie, wirklich noch einmal ernsthaft darüber nachzudenken. In Ihrem Programm steht, daß in der gesetzlichen Krankenversicherung ab 1. Januar 1997 für Menschen, die bis dahin nicht das 18. Lebensjahr vollendet haben, künftig und für immer die Kostenerstattung von Zahnersatz entfällt. Das heißt: Sie machen für die nächste Generation Armut wieder sichtbar.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der PDS)</stage>
           <p>Sie wissen, daß man in jedem Dokumentarfilm über die Dritte Welt die Armut unter anderem sofort daran erkennt, daß ab einem bestimmten Alter ganz viele Menschen zahnlos sind.</p>
@@ -836,11 +836,11 @@
           <p>Lassen Sie mich zum letzten Punkt kommen. Mit diesem Programm hat die Bundesregierung den Lohnabhängigen, den Sozialhilfeempfängerinnen und -empfängern, den Kranken, den Rentnerinnen und Rentnern, den Arbeitslosen und den Kindern den sozialen Krieg erklärt. Sie haben Wind gesät. Ich hoffe, daß Sie schon am 1. Mai 1996 den ersten Sturm ernten werden.</p>
           <stage type="interjection">(Anhaltender Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich erteile das Wort dem Bundesfinanzminister Dr. Theodor Waigel.</p>
         </sp>
-        <sp who="Dr. Theodor Waigel" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" party="CSU" name="Theodor Waigel">
+        <sp who="Theodor Waigel" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" who_original="Theodor Waigel" party="CSU" name="Theodor Waigel">
           <speaker>Dr. Theodor Waigel, Bundesminister der Finanzen:</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Herr Ministerpräsident Lafontaine, Sie haben Herrn Peffekoven zitiert. Wenn Sie die Beurteilungen und die Mitwirkungen des Herrn Professors Peffekoven in allen Bereichen einmal solide und zusammenhängend darstellen würden, wäre erkennbar, daß das ganz sicher keine Unterstützung Ihrer Finanzpolitik ist.</p>
           <p>Wenn er kritisiert, daß da und dort die Stetigkeit fehlt, dann deswegen, weil wir im Bundesrat daran gehindert worden sind,</p>
@@ -898,7 +898,7 @@
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Steuerpolitisch geht es jetzt um die Verwirklichung des abgekoppelten Teils des Jahressteuergesetzes 1996, um die Abschaffung der Gewerbekapitalsteuer und eine mittelstandsfreundliche Senkung der Gewerbeertragsteuer bei vollem Ausgleich der Einnahmeausfälle der Gemeinden durch Beteiligung am Aufkommen der Umsatzsteuer. Ich bin sehr froh, daß die Kommunen, vor allen Dingen vertreten durch die kommunalen Spitzenverbände, sehr klar erkannt haben, daß dies ihre große Chance ist, die Finanzausstattung der Kommunen dauerhaft qualitativ und auch quantitativ zu verbessern.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
-          <p>Wir gehen einen wichtigen Schritt im Hinblick auf Mittelstandsverbesserung und Eigenkapitalausstattung durch die Verbesserung des   7 g des Einkommensteuergesetzes. Wir werden den Solidaritätszuschlag absenken, und zwar zum 1. Januar 1997 auf 6,5 Prozent und zum 1. Januar 1998 auf 5,5 Prozent.</p>
+          <p>Wir gehen einen wichtigen Schritt im Hinblick auf Mittelstandsverbesserung und Eigenkapitalausstattung durch die Verbesserung des § 7 g des Einkommensteuergesetzes. Wir werden den Solidaritätszuschlag absenken, und zwar zum 1. Januar 1997 auf 6,5 Prozent und zum 1. Januar 1998 auf 5,5 Prozent.</p>
           <p>Die Neuregelung der Erbschaft- und Schenkungsteuer wird sozial ausgewogen erfolgen. Dabei werden wir dem Umstand Rechnung tragen, daß die Vermögensteuer auf Privatvermögen entfällt, und zwar genau aus den Gründen, die Wolfgang Schäuble vorhin dargestellt hat. Wir wären doch wirklich von allen guten Geistern verlassen, nur den erhebungsaufwendigsten Teil einer Steuer weiter zu erheben im Wissen darum, daß dafür in den nächsten Jahren entweder eine neue Hauptfeststellung bei der Einheitsbewertung oder eine riesige Bedarfsbewertung stattfinden muß, und im Wissen darum, daß die Stellen bei den Ländern knapp sind und daß wir sehr gut ausgebildete Finanzbeamte sehr wohl für andere Dinge, nicht zuletzt bei der Betriebsprüfung, dringend benötigen könnten.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Dieser private Teil der Vermögensteuer wird mit der Erbschaftsteuer zusammengefaßt. Dies ist durch eine Veränderung der Struktur des Erbschaftsteuertarifs möglich. Sie werden damit keine Möglichkeit haben, sich ein neues Verhetzungspotential aufzubauen. Sie werden sich nicht -- wie früher beim Jäger 90 -- ein Thema suchen können, das Sie uns dann in jeder Debatte vorhalten. Nein, wir sind sicher: Der Wegfall der Gewerbekapitalsteuer, der Wegfall der Vermögensteuer, die Verbesserung der Gewerbeertragsteuer, die Beteiligung der Kommunen an der Umsatzsteuer und eine vernünftige Gestaltung der Erbschaft- und Schenkungsteuer sind wichtige, positive Signale für Deutschland und seine Zukunftsfähigkeit sowie für die Investitionsbereitschaft gerade der Unternehmen.</p>
@@ -918,11 +918,11 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich erteile das Wort dem Vorsitzenden der SPD-Fraktion, Rudolf Scharping.</p>
         </sp>
-        <sp who="Rudolf Scharping" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Scharping">
+        <sp who="Rudolf Scharping" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Scharping" party="SPD" name="Rudolf Scharping">
           <speaker>Rudolf Scharping (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Die Lage ist ernst, in mancher Hinsicht ist sie dramatisch. Sie ist ernst wegen der wirtschaftlichen Entwicklung, wegen der finanziellen Folgen für die öffentlichen Haushalte, wegen der Situation auf dem Arbeitsmarkt und vieler anderer Umstände. In dieser Situation muß es Änderungen geben. Der Streit geht nicht um die Frage, ob es Änderungen geben muß, sondern darum, in welche Richtung sie gehen. Der Streit geht nicht um die Frage, ob man in einer krisenhaften Situation Chancen entwickelt, sondern um die Frage, ob diese Regierung fähig ist, für das Land insgesamt Chancen zu entwickeln,</p>
           <stage type="interjection">(Beifall bei der SPD sowie des Abg. Rolf Kutzmutz [PDS])</stage>
@@ -961,7 +961,7 @@
           <p>Die Tatsache, daß die Arbeitnehmer durch den Einsatz ihrer Arbeitskraft seit Jahren -- wirtschaftlich gesprochen -- keinen wachsenden Ertrag mehr haben, wirkt sich auf der Nachfrageseite unserer Wirtschaft aus und hat zur logischen Konsequenz, daß wir in wirtschaftliche Schwächen hineinrennen. Wenn Sie diesen Prozeß fortsetzen, werden Sie die wirtschaftlichen Schwächen fortsetzen.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
           <p>Niemand bestreitet -- wir sagen das auch in unserem eigenen Vorschlag --, daß wir die Zukunft sichern und den Zusammenhalt stärken müssen. Jawohl, es muß einiges verändert werden, es muß langfristig konsolidiert werden, aber dann bitte auch auf allen Seiten.</p>
-          <p>Ich habe von unhaltbaren Zuständen gesprochen und ein bestimmtes politisches Vorhaben obszön genannt. Es ist am 14. Februar 1996 ein Urteil des Bundesfinanzhofs auf der Grundlage geltender Gesetze in Deutschland ergangen. Die Anschaffungskosten für ein in ein Einfamilienhaus eingebautes Schwimmbad gehören zu den Anschaffungskosten des Gebäudes und damit zur Bemessungsgrundlage für den Abzugsbetrag nach   10 e Einkommensteuergesetz.</p>
+          <p>Ich habe von unhaltbaren Zuständen gesprochen und ein bestimmtes politisches Vorhaben obszön genannt. Es ist am 14. Februar 1996 ein Urteil des Bundesfinanzhofs auf der Grundlage geltender Gesetze in Deutschland ergangen. Die Anschaffungskosten für ein in ein Einfamilienhaus eingebautes Schwimmbad gehören zu den Anschaffungskosten des Gebäudes und damit zur Bemessungsgrundlage für den Abzugsbetrag nach § 10 e Einkommensteuergesetz.</p>
           <p>Das heißt in schlichtem Deutsch folgendes: Wir haben es hier mit einer Koalition zu tun, die bereit ist, die Erhöhung des Kindergeldes auszusetzen, die aber unfähig ist, die Anschaffungskosten für ein privates Schwimmbad aus der Wohnungsbauförderung herauszunehmen. Das nenne ich skandalös.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der PDS)</stage>
           <p>Nun will ich Ihnen noch etwas im Zuge der wahllosen Beispiele -- die Redezeit und Ihr Bedürfnis, nach Hause zu kommen, ist eine doppelte Begrenzung dafür, Ihnen jedes denkbare Beispiel zu nennen -- zu den Vermögen und ihrer Entwicklung sagen. Wir sind der Auffassung -- das ist die erste grundsätzliche Antwort der Sozialdemokratie --: Entlastet die Arbeit von Kosten, sorgt dafür, daß sich der Einsatz von Arbeitskraft stärker lohnt!</p>
@@ -1017,11 +1017,11 @@
           <p>Meine sehr verehrten Damen und Herren von der Union, Sie verzeihen mir den Hinweis: Eine klügere, treffendere und kürzere Zusammenfassung Ihrer Politik ist auch mir nicht eingefallen.</p>
           <stage type="interjection">(Anhaltender lebhafter Beifall bei der SPD -- Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich erteile nun dem Bundeswirtschaftsminister Dr. Günter Rexrodt das Wort.</p>
         </sp>
-        <sp who="Dr. Günter Rexrodt" parliamentary_group="NA" role="government" position="Bundesminister für Wirtschaft" party="FDP" name="Günter Rexrodt">
+        <sp who="Günter Rexrodt" parliamentary_group="NA" role="government" position="Bundesminister für Wirtschaft" who_original="Günter Rexrodt" party="FDP" name="Günter Rexrodt">
           <speaker>Dr. Günter Rexrodt, Bundesminister für Wirtschaft:</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Die SPD hat heute nacht ein Programm beschlossen, das den Anspruch erhebt, Alternative zu unserem Beschäftigungs- und Wachstumsprogramm zu sein. Ihr Programm ist mit heißer Nadel genäht. Herr Scharping hat die Philosophie soeben dargestellt. Es enthält eine Reihe von Zielvorstellungen, die durchaus in vieler Hinsicht mit dem übereinstimmen, was wir wollen. Das Programm enthält darüber hinaus eine ganze Reihe von konkreten Vorschlägen.</p>
           <p>Wenn ich mir diese konkreten Vorschläge ansehe, dann muß ich feststellen, daß es entweder Vorschläge sind, die wir in den vorliegenden Programmen über Haushaltskonsolidierung, über Mittelstandsförderung und über Vermögensbildung längst gemacht haben, oder aber daß sie -- so kann man all das, Herr Scharping, was Sie soeben vorgetragen haben, zusammenfassen -- dem alten Strickmuster folgen.</p>
@@ -1076,11 +1076,12 @@
           <p>Es kommt jetzt darauf an, daß die Politik, daß die Wirtschaft und daß die Gewerkschaften ihre Schularbeiten machen. Ich bin sicher, daß mehr Menschen in diesem Land erkannt haben, worauf es ankommt, daß mehr Menschen in diesem Land bereit sind, Opfer zu bringen, wenn dies dann dazu führt, daß Arbeitsplätze gehalten und geschaffen werden können. Unsere Vorschläge, unsere Reformen erfüllen den Anspruch, daß sie eine Entwicklung in diese Richtung in Gang setzen. Ich bitte um Ihrer aller Mitwirkung.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich schließe die Aussprache. Wir sind damit am Schluß unserer Tagesordnung.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, 8. Mai 1996, 13 Uhr ein.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluß der Sitzung: 13.25 Uhr)</stage>
         </sp>
       </div>
     </body>

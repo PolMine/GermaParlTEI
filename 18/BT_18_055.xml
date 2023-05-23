@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-07</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://www.bundestag.de/blob/332336/64d1b8cb5f8170f0bdd9aa63404a3945/18055-data.txt</url>
-        <date>2015-10-20 20:01:49</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -36,7 +36,7 @@
   <text>
     <body>
       <div type="agenda_item" n="1" what="debate" desc="Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes...">
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Guten Morgen! Nehmen Sie bitte Platz.</p>
           <stage type="interjection">(Volker Kauder [CDU/CSU]: Die Sitzung kann nicht beginnen, weil der Präsident nicht da ist!)</stage>
@@ -56,7 +56,7 @@
           <p>Ich eröffne die Aussprache. Das Wort hat die Bundesministerin Manuela Schwesig.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Manuela Schwesig" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" party="SPD" name="Manuela Schwesig">
+        <sp who="Manuela Schwesig" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" who_original="Manuela Schwesig" party="SPD" name="Manuela Schwesig">
           <speaker>Manuela Schwesig, Bundesministerin für Familie, Senioren, Frauen und Jugend:</speaker>
           <p>Sehr geehrte Frau Präsidentin! Sehr geehrte Damen und Herren Abgeordnete! Wir schlagen heute ein neues Kapitel in der Familienpolitik auf, einer modernen Familienpolitik, die darauf setzt, Beruf und Familie zu vereinbaren, Schluss damit zu machen, dass es ein gegenseitiges Aufrechnen zwischen Zeit für Familie und Zeit für den Job gibt, sondern beides zu ermöglichen. Das wünschen sich heute die jungen Paare in Deutschland. Das wünschen sich die Mütter: wieder in den Job einsteigen zu können, aber auch Zeit für Familie zu haben. Und das wünschen sich vor allem die Väter. Jeder zweite Vater sagt: Ich will neben meiner Berufstätigkeit natürlich auch Zeit für Familie haben.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU – Volker Kauder [CDU/CSU]: Was ihr alles wisst!)</stage>
@@ -98,12 +98,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Jörn Wunderlich für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Jörn Wunderlich" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Jörn Wunderlich">
+        <sp who="Jörn Wunderlich" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Jörn Wunderlich" party="DIE LINKE" name="Jörn Wunderlich">
           <speaker>Jörn Wunderlich (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Frau Schwesig, Sie haben den Gesetzentwurf schön dargestellt, mit den Maßnahmen, die die Vereinbarkeit von Familie und Beruf verbessern sollen – Maßnahmen, welche die Linke schon seit langem fordert, wie Flexibilisierung der Elternzeit, Abschaffung des doppelten Anspruchsverbrauchs bei Teilzeit während der Elternzeit. Somit steht meine Fraktion der geplanten Reform grundsätzlich positiv gegenüber. Im Hinblick auf die konkrete Ausgestaltung besteht aber erheblicher Nachbesserungsbedarf. Dem wird in den Beratungen, auf die auch Sie sich freuen, hoffentlich entsprechend positiv entsprochen.</p>
           <p>Ich will nur einige Punkte aufgreifen. Zum Thema Alleinerziehende. Frau Schwesig, Sie haben ausgeführt, dass auch diese in den Genuss der Partnermonate kämen. Sie haben aber wohlweislich die Voraussetzungen dafür unterschlagen; denn die sind äußerst kritisch zu bewerten. Hier wird an der alten Regelung festgehalten, die an das alleinige Sorgerecht bzw. das alleinige Aufenthaltsbestimmungsrecht anknüpft.</p>
@@ -123,12 +123,12 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat die Kollegin Nadine Schön für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Nadine Schön" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Nadine Schön">
+        <sp who="Nadine Schön (St. Wendel)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Nadine Schön (St. Wendel)" party="CDU" name="Nadine Schön">
           <speaker>Nadine Schön (St. Wendel) (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Wenn man sich mit jungen Familien unterhält, wird einem immer zurückgemeldet, dass die Einführung von Elternzeit und Elterngeld eine der wichtigsten politischen Maßnahmen war, die wir in den vergangenen Jahren durchgeführt haben. Wir haben 2007 unter Familienministerin Ursula von der Leyen das Elterngeld und die Elternzeit eingeführt. Wir haben das Elterngeld in der letzten Legislaturperiode unter Familienministerin Kristina Schröder entbürokratisiert, auch für Unternehmer. Wir haben die Einkommensberechnung einfacher gemacht. In dieser Koalition gehen wir den nächsten konsequenten Schritt und machen die Elternzeit und das Elterngeld noch einmal flexibler und individueller. Wir schneiden es besser auf die Bedürfnisse junger Familien zu. Insgesamt kann man also sagen: Das Elterngeld ist ein wirkliches Erfolgsmodell.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
@@ -149,11 +149,11 @@
           <p>Ich wünsche den Kolleginnen und Kollegen bei den Beratungen mit den Verbänden viel Erfolg. Ich verabschiede mich jetzt in den Mutterschutz, leider ohne anschließend Elternzeit zu haben.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Die besten Wünsche für Ihre Familie. – Das Wort hat die Kollegin Katja Dörner für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Katja Dörner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Katja Dörner">
+        <sp who="Katja Dörner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Katja Dörner" party="GRUENE" name="Katja Dörner">
           <speaker>Katja Dörner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Vielen Dank, Frau Präsidentin! – Natürlich auch von meiner Seite die besten Wünsche und alles Gute für die Kollegin Nadine Schön. Des einen Leid ist des anderen Freud: Wir haben es dann gut, wenn Sie schneller zu uns zurückkommen.</p>
           <stage type="interjection">(Heiterkeit und Beifall bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN, der CDU/CSU und der SPD)</stage>
@@ -187,12 +187,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Die Kollegin Dr. Carola Reimann hat für die SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Carola Reimann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Carola Reimann">
+        <sp who="Carola Reimann" parliamentary_group="SPD" role="mp" position="NA" who_original="Carola Reimann" party="SPD" name="Carola Reimann">
           <speaker>Dr. Carola Reimann (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine sehr geehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Ich bin im Oktober zu einer Tagung eingeladen. Der Titel dieser Tagung lautet: „Wer schneller lebt, ist früher fertig …“. Dieser Satz beschreibt die Lage von Familien und Eltern in unserem Land sehr gut. Eltern sind Meister im Optimieren. Sie wollen beides: Beruf und Familie. Sie geben dafür alles: Sie engagieren sich voll im Beruf, bringen immer volle Leistung, sind oft rund um die Uhr erreichbar und sind nebenbei aufmerksame, liebevolle und engagierte Eltern, die sich vom ersten Lebensmonat ihrer Kinder an um beste Förderung und Chancen bemühen.</p>
           <p>Und doch bleibt ein Unbehagen, dass Wichtiges zu kurz kommt: Kinder, denen manchmal doch die Eltern fehlen, der Partner, den man aus den Augen verliert, man selbst und die eigene Gesundheit. Vollzeiterwerbstätige Mütter sind oft früher fertig. Sie sind in einem erschreckenden Ausmaß von Burn-out betroffen. Das spricht Bände und deutet auf eine fortwährende Überforderung hin. Aber, liebe Kolleginnen und Kollegen, Mütter zurück an den Herd, Schwiegertöchter an die Schnabeltassen, das kann ja wohl nicht die Lösung dieses Dilemmas sein.</p>
@@ -217,12 +217,12 @@
           <p>Danke fürs Zuhören.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU sowie des Abg. Jörn Wunderlich [DIE LINKE])</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat die Kollegin Diana Golze für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Diana Golze" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Diana Golze">
+        <sp who="Diana Golze" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Diana Golze" party="DIE LINKE" name="Diana Golze">
           <speaker>Diana Golze (DIE LINKE):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Werte Kolleginnen und Kollegen! Ja, die Lebensrealität der jungen Familien hat sich in den letzten Jahren verändert. Es ist gut, dass das Elternzeitgesetz nun der Realität angepasst wird. Ich sehe in der Tat positive Bewegungen.</p>
           <p>Es sind schon einige Punkte angesprochen worden: Bisher bekommen Eltern bis zu 14 Monaten Elterngeld, wenn beide Elternteile nach der Geburt des Kindes nacheinander eine berufliche Auszeit für die Betreuung des Kindes nehmen. Wenn aber ein Elternteil oder sogar beide weiter in Teilzeit arbeiten, hat sich der Elterngeldanspruch bisher nicht verlängert. Mit der Einführung von Elterngeld Plus wird diese Lücke geschlossen, und das ist auch gut so.</p>
@@ -244,12 +244,12 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Der Kollege Marcus Weinberg hat für die CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Marcus Weinberg" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Marcus Weinberg">
+        <sp who="Marcus Weinberg (Hamburg)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Marcus Weinberg (Hamburg)" party="CDU" name="Marcus Weinberg">
           <speaker>Marcus Weinberg (Hamburg) (CDU/CSU):</speaker>
           <p>Vielen Dank, Frau Präsidentin. – Liebe Kolleginnen und Kollegen! Herr Wunderlich hat vorhin nach der Intention des Gesetzentwurfs gesucht. Es ist relativ einfach: Endlich sind wir politisch so weit, dass wir nicht mehr fragen: Arbeitsmarkt oder Familie? Wir sind nämlich so weit, dass wir Erwerbstätigkeit und Familienzeit zusammenbringen wollen, weil das im Sinne der Familien und übrigens auch der Arbeitgeber ist. Denn ist der Arbeitnehmer zufrieden und hat er ein geregeltes Fami-lienleben, dann ist es auch gut für die Arbeitgeber und die Wirtschaft.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der SPD)</stage>
@@ -293,11 +293,11 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Die Kollegin Dr. Franziska Brantner hat für die Fraktion Bündnis 90/Die Grünen das Wort.</p>
         </sp>
-        <sp who="Dr. Franziska Brantner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Franziska Brantner">
+        <sp who="Franziska Brantner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Franziska Brantner" party="GRUENE" name="Franziska Brantner">
           <speaker>Dr. Franziska Brantner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Liebe Präsidentin! Liebe Frau Schwesig! Liebe Kolleginnen und Kollegen! Lieber Herr Weinberg, danke fürs Zitieren! Ich sage gleich noch etwas zur echten Wahlfreiheit beim Elterngeld. Zum Ehegattensplitting: Ich bin da sehr klar: Das muss weg. Über das Wie diskutieren wir. Dazu haben Sie auch schon einen Vorschlag gemacht. Von daher sind Sie in der Diskussion schon mit dabei.</p>
           <stage type="interjection">(Volker Kauder [CDU/CSU]: Das Elterngeld muss weg, oder was?)</stage>
@@ -326,12 +326,12 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als nächster Rednerin erteile ich der Abgeordneten Dr. Silke Launert, CDU/CSU-Fraktion, das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Silke Launert" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Silke Launert">
+        <sp who="Silke Launert" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Silke Launert" party="CSU" name="Silke Launert">
           <speaker>Dr. Silke Launert (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! Eine unserer größten Aufgaben in den nächsten zehn Jahren wird es sein, unser Hauptproblem zu lösen, nämlich das Problem des demografischen Wandels.</p>
           <p>Wieso ist es so, dass in Frankreich eine Mutter im Durchschnitt mehr als zwei Kinder bekommt, in Deutschland eine Mutter aber weniger als 1,4 Kinder? Ohne die Lösung dieses Problems werden wir nicht vorankommen.</p>
@@ -360,12 +360,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als nächstem Redner erteile ich das Wort dem Abgeordneten Dr. Fritz Felgentreu, SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Fritz Felgentreu" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Fritz Felgentreu">
+        <sp who="Fritz Felgentreu" parliamentary_group="SPD" role="mp" position="NA" who_original="Fritz Felgentreu" party="SPD" name="Fritz Felgentreu">
           <speaker>Dr. Fritz Felgentreu (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Liebe Kollegin Launert, vielen Dank für diese Rede, eine Rede, die ich gerade aus den Reihen der CSU nicht unbedingt erwartet habe. Ich habe Ihnen gerne zugehört.</p>
           <p>Zur Einführung des Elterngeldes, Frau Schön, vor mittlerweile fast acht Jahren habe ich persönlich ein etwas gespaltenes Verhältnis. Als es damals beschlossen wurde, war gerade meine jüngste Tochter unterwegs. Als diese Leistung zum ersten Mal ausgezahlt wurde, war sie drei Wochen alt. Da haben meine Frau und ich uns ein bisschen wie zwei Dackel vor der Fleischerei gefühlt: „Wir müssen leider draußen bleiben!“ Völlig unabhängig von solchen persönlichen Nickeligkeiten war mir schon damals klar, dass das Elterngeld ein Riesenfortschritt ist. Das Elterngeld hat schon damals deutlich gemacht: Diese Republik geht konsequent Schritte, um Familie und Beruf miteinander vereinbar zu machen.</p>
@@ -397,12 +397,12 @@
           <p>Meine Damen und Herren, lassen Sie uns also nicht auf der Stelle treten, sondern lassen Sie uns die Einführung des Elterngeldes Plus als Startsignal begreifen, das uns auf dem Weg zur Familienarbeitszeit in eine lebhafte Debatte und zu mutigen Entscheidung führt. Die Familien in Deutschland werden es uns danken.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als nächster Rednerin erteile ich das Wort der Abgeordneten Bettina Hornhues, CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Bettina Hornhues" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Bettina Hornhues">
+        <sp who="Bettina Hornhues" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Bettina Hornhues" party="CDU" name="Bettina Hornhues">
           <speaker>Bettina Hornhues (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Sehr geehrte Damen und Herren! Unser Rollenbild der Familie befindet sich im Wandel. Diese Erkenntnis ist nicht neu, sollte uns aber bei der Gesetzesberatung immer begleiten. Familienpolitische Maßnahmen und Modelle, die uns noch vor fünf oder zehn Jahren als innovativ und fortschrittlich erschienen, entsprechen heute nicht zwangsläufig mehr den Wünschen und Lebensplanungen der jungen Eltern. Unsere Aufgabe ist es also, die notwendigen politischen Rahmenbedingungen zu schaffen, die nah an der Realität sind.</p>
           <p>Was ist unsere Ausgangslage? Die traditionelle Rollenverteilung innerhalb der Familie verliert immer mehr an Bedeutung. Junge Eltern streben heute nach einer partnerschaftlichen Aufteilung von Familien- und Erwerbsarbeit. Auf der einen Seite haben wir die jungen Väter. Für sie ist es heute selbstverständlich, dass Frauen arbeiten und ihr eigenes Geld verdienen, und zugleich möchten sie ihre Partnerin auf ihrem beruflichen Weg unterstützen. Tatsächlich möchten sich diese Väter heute auch stärker in die Familie einbringen und mehr Zeit mit ihren Kindern zusammen sein. Laut einer aktuellen Studie hat aber jeder zweite Vater das Gefühl, zu wenig Zeit für seine Kinder zu haben.</p>
@@ -427,12 +427,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als letztem Redner in dieser Debatte erteile ich dem Abgeordneten Eckhard Pols, CDU/CSU-Fraktion, das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU – Paul Lehrieder [CDU/CSU]: Guter Mann!)</stage>
         </sp>
-        <sp who="Eckhard Pols" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Eckhard Pols">
+        <sp who="Eckhard Pols" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Eckhard Pols" party="CDU" name="Eckhard Pols">
           <speaker>Eckhard Pols (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Meine lieben Damen und Herren! Auch ich, lieber Marcus, möchte mit einem Zitat aus der Presse beginnen. Anfang der Woche veröffentlichte unsere Lüneburger Landeszeitung einen Beitrag zum Elterngeld Plus mit dem Titel: „Wohnt der Papa im Büro?“ Dass die Kinder diese Frage stellen, fürchtet wohl jeder Familienvater. Es geht dabei um eine Fragestellung, die aktueller nicht sein könnte, um den Spagat von Vätern zwischen Beruf und Familie. Auch Väter – das haben wir heute schon gehört – möchten Zeit mit ihren Kindern verbringen und sich an der Erziehung ihrer Kinder beteiligen. Sie wollen eben nicht nur die Rolle des Familienernährers einnehmen.</p>
           <p>Unbestritten ist, dass die herkömmliche Rollenverteilung, bei der sich die Frau um das Kind kümmert und der Mann den Lebensunterhalt sichert, der Realität vieler Familien nicht mehr gerecht wird. Einerseits wollen viele Mütter nach der Geburt ihres Kindes zeitnah in den Job zurückkehren. Das liegt vor allem angesichts des spürbaren Fachkräftemangels auch im Interesse der Wirtschaft. Andererseits wollen die Väter mehr Zeit zu Hause verbringen.</p>
@@ -454,7 +454,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Heiterkeit und Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Das war ein origineller Moment in der Parlamentsgeschichte. Noch nie hat ein Kollege seine Familienplanung vor dem Plenum erörtert.</p>
           <stage type="interjection">(Heiterkeit und Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten der LINKEN – Heiterkeit beim BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -482,7 +482,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="2" what="debate" desc="a) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Geset...">
-        <sp who="Dr. Wolfgang Schäuble" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" party="CDU" name="Wolfgang Schäuble">
+        <sp who="Wolfgang Schäuble" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" who_original="Wolfgang Schäuble" party="CDU" name="Wolfgang Schäuble">
           <speaker>Dr. Wolfgang Schäuble, Bundesminister der Finanzen:</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Wir haben im Koalitionsvertrag vereinbart, dass der Bund im Vorgriff auf künftige Maßnahmen in den Jahren 2015 bis 2017 die Kommunen jeweils um 1 Milliarde Euro entlastet. Diese Zusage lösen wir mit dem vorliegenden Gesetzentwurf ein. Wir entlasten die Kommunen, indem wir den Anteil der Gemeinden an der Umsatzsteuer und die Beteiligung des Bundes an den Kosten der Unterkunft und Heizung in den Jahren 2015 bis 2017 um jeweils 500 Millionen Euro erhöhen. Wir haben damit einen ausgewogenen Verteilungsmechanismus gewählt, der dafür sorgt, dass die Entlastung auch tatsächlich bei den Kommunen ankommt. Von der Übernahme der Kosten der Unterkunft profitieren besonders die Kommunen, die hohe Sozialausgaben haben.</p>
           <p>Zusätzlich unterstützen wir in dieser Legislaturperiode Länder und Kommunen bei der Finanzierung von Kinderkrippen, Kindertagesstätten, Schulen und Hochschulen mit insgesamt 6 Milliarden Euro zusätzlich. Einen wichtigen Teil dieser Unterstützung haben wir mit der Novellierung des BAföG bereits beschlossen. Dabei geht es insbesondere um die vollständige Übernahme des Finanzierungsanteils der Länder durch den Bund. Allein das entlastet die Länder bis 2017 um 3,5 Milliarden Euro.</p>
@@ -519,12 +519,12 @@
           <p>Die Verbindung solider Finanzen und kluger Investitionen ist Zukunftsvorsorge im besten Sinn. Die Kommunen leisten wichtige Beiträge zur dauerhaften Sicherung von Wachstum und Beschäftigung und damit Wohlstand in unserem Land. Der Bund ist und bleibt den Kommunen ein verlässlicher Partner. Wir haben das in den letzten Jahren bewiesen, und das soll auch in Zukunft so sein. Dieser Gesetzentwurf dient diesem Ziel.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als nächster Rednerin erteile ich der Abgeordneten Diana Golze, Fraktion Die Linke, das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Diana Golze" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Diana Golze">
+        <sp who="Diana Golze" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Diana Golze" party="DIE LINKE" name="Diana Golze">
           <speaker>Diana Golze (DIE LINKE):</speaker>
           <p>Sehr geehrter Herr Präsident! Werte Kolleginnen und Kollegen! Sehr geehrter Herr Schäuble! Sehr geehrte Frau Ministerin Schwesig! Der Gesetzentwurf, der uns heute vorliegt, trägt den wunderbaren Titel „Gesetz zur weiteren Entlastung von Ländern und Kommunen ab 2015 und zum quantitativen und qualitativen Ausbau der Kindertagesbetreuung“. Ja, zum quantitativen Ausbau trägt Ihr Gesetzentwurf sicherlich bei; denn Sie regeln detailliert die Aufteilung der neuen 550 Millionen Euro für die Aufstockung des Sondervermögens. Das ist sicherlich notwendige Verwaltungstechnokratie. Steht in dem Gesetzentwurf aber auch etwas zur Qualität?</p>
           <p>Lassen Sie uns doch einmal gemeinsam überlegen, was wir unter Qualität in Kitas verstehen. Sie haben dafür doch bestimmt auch Vorschläge? – Wenn die Kollegen der Union nicht gerade miteinander reden würden, würde ihnen vielleicht etwas einfallen. – Mir fällt zu diesem Thema zum Beispiel der Betreuungsschlüssel ein.</p>
@@ -553,12 +553,12 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als nächster Rednerin erteile ich für die Bundesregierung Bundesministerin Manuela Schwesig das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Manuela Schwesig" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" party="SPD" name="Manuela Schwesig">
+        <sp who="Manuela Schwesig" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" who_original="Manuela Schwesig" party="SPD" name="Manuela Schwesig">
           <speaker>Manuela Schwesig, Bundesministerin für Familie, Senioren, Frauen und Jugend:</speaker>
           <p>Sehr geehrter Herr Präsident! Sehr geehrte Damen und Herren Abgeordnete! Es ist heute ein guter Tag für die Familien in Deutschland; denn die Große Koalition bringt zwei Gesetze auf den Weg, die die Vereinbarkeit von Beruf und Familie erheblich verbessern werden. Wir haben in der ersten Halbzeit, Herr Weinberg, schon über das Elterngeld Plus gesprochen, eine finanziell starke Maßnahme, um Eltern Zeit für die Familie zu geben, aber auch Anreize, berufstätig zu sein.</p>
           <p>Mit dem neuen Kitagesetz arbeiten wir weiter an der besseren Vereinbarkeit von Beruf und Familie; denn Eltern in Deutschland brauchen Ganztagskitas, um berufstätig zu sein. Aber wir machen auch mit den besseren Bildungschancen für Kinder weiter; denn gute Kitas in Deutschland sind nicht nur für die Vereinbarkeit von Beruf und Familie der Eltern gut, sondern vor allem auch gut für Kinder und ihre Bildungschancen.</p>
@@ -592,11 +592,11 @@
           <p>Ich freue mich auf die Beratungen. Aber am Wichtigsten ist, dass jetzt die Euros schnell vor Ort ankommen, damit es mit dem guten Ausbau der Kitabetreuung weitergehen kann.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als nächstem Redner erteile ich das Wort dem Abgeordneten Sven-Christian Kindler, Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Sven-Christian Kindler" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Sven-Christian Kindler">
+        <sp who="Sven-Christian Kindler" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Sven-Christian Kindler" party="GRUENE" name="Sven-Christian Kindler">
           <speaker>Sven-Christian Kindler (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Herr Schäuble, Sie haben sich hier wieder für den Haushalt 2015 gelobt, aber Sie wissen genau, dass Ihre Bilanz massiv geschönt ist. Sie nehmen zwar keine Schulden mehr bei der Bank auf, aber Sie wollen weiterhin Schulden aufnehmen: bei den Krankenkassen, bei der Rentenversicherung und bei der Infrastruktur.</p>
           <p>Wenn wir heute über die Kommunen und die Kitas reden, dann kann ich nur feststellen: Sie nehmen auch Schulden bei den Investitionen in unseren Kommunen auf. Sie nehmen auch Schulden bei Kindern und Jugendlichen auf. Dieser Haushalt enthält eine große versteckte Verschuldung.</p>
@@ -622,12 +622,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN – Volker Kauder [CDU/CSU]: Legen Sie die Vorschläge vor; wir schauen sie uns an!)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als Nächstem erteile ich das Wort dem Abgeordneten Eckhardt Rehberg, CDU/CSU.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Eckhardt Rehberg" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Eckhardt Rehberg">
+        <sp who="Eckhardt Rehberg" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Eckhardt Rehberg" party="CDU" name="Eckhardt Rehberg">
           <speaker>Eckhardt Rehberg (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Kollege Kindler, nennen Sie mir eine Krankenkasse, die verschuldet ist. Ich kenne keine. Die Krankenkassen schwimmen im Geld. Sie haben Überschüsse ohne Ende. Das ist das Ergebnis grundsolider Politik der letzten Jahre und der positiven wirtschaftlichen Entwicklung. Schauen Sie sich die Rentenversicherung an. Wir debattieren nicht über die Erhöhung von Beitragssätzen, sondern wir debattieren darüber, ob wir sie senken müssen, weil wir eine Reserve von fast zwei Monaten haben. Ihre Beschreibung der Lage hat mit der Realität nichts zu tun.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
@@ -672,12 +672,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als nächster Rednerin erteile ich der Abgeordneten Susanna Karawanskij, Fraktion Die Linke, das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Susanna Karawanskij" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Susanna Karawanskij">
+        <sp who="Susanna Karawanskij" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Susanna Karawanskij" party="DIE LINKE" name="Susanna Karawanskij">
           <speaker>Susanna Karawanskij (DIE LINKE):</speaker>
           <p>Sehr geehrter Herr Präsident! Verehrte Kolleginnen und Kollegen! Liebe Gäste! 550 Millionen Euro mehr stellt der Bund in den nächsten zwei Jahren über das Sondervermögen Kinderbetreuungsausbau zur Verfügung. Dass die Bereitstellung der Mittel für den Kinderbetreuungsausbau durch den Bund problematisch ist und dass wir vor allem auch über die Qualität reden müssen, darauf hat meine Kollegin Diana Golze bereits hingewiesen.</p>
           <p>Sie sind stolz darauf und klopfen sich nun auf die Schulter. Ich sage Ihnen: Für die klammen Kommunen ist das zu wenig. Das reicht hinten und vorne nicht. Die meisten ihrer Probleme werden damit nicht gelöst. Die grundsätzliche chronische Unterfinanzierung der kommunalen Familie lässt sich durch diese Placebogesetzgebung leider nicht beheben.</p>
@@ -706,12 +706,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als nächster Rednerin erteile ich das Wort der Abgeordneten Bettina Hagedorn, SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Bettina Hagedorn" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Bettina Hagedorn">
+        <sp who="Bettina Hagedorn" parliamentary_group="SPD" role="mp" position="NA" who_original="Bettina Hagedorn" party="SPD" name="Bettina Hagedorn">
           <speaker>Bettina Hagedorn (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen! Liebe Kollegen! Es war jetzt nicht wirklich eine Überraschung, dass Sie, die Linke, dabei nicht mitmachen. Es ist allerdings jetzt die Frage zu stellen: Was machen Sie eigentlich überhaupt mit?</p>
           <p>Ich denke, es ist wichtig, noch einmal zu sagen: Wir reden hier weder über Sahnehäubchen noch über Placebos; wir reden hier über richtig viel Geld. Dies ist ein guter Tag für die Kommunen. Es ist ein guter Tag für die Familien, für die Kinder und für die frühkindliche Bildung.</p>
@@ -746,11 +746,11 @@
           <p>In diesem Sinne noch weiterhin eine gute Debatte und vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als nächster Rednerin erteile ich das Wort der Abgeordneten Dr. Franziska Brantner, Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Dr. Franziska Brantner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Franziska Brantner">
+        <sp who="Franziska Brantner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Franziska Brantner" party="GRUENE" name="Franziska Brantner">
           <speaker>Dr. Franziska Brantner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Vielen Dank, Herr Präsident! – Liebe Kolleginnen! Liebe Kollegen! Der Gesetzentwurf, der vor uns liegt, erwähnt im Titel auch den qualitativen Ausbau. Was erwarten wir also von dem Gesetzentwurf, wenn wir von Qualität in der Kita sprechen? Und was erwarten vor allem die Eltern und die Kinder?</p>
           <p>Eine Mutter wird vielleicht zuerst erwarten, dass Erzieherinnen und Erzieher mehr Zeit für ihr Kind haben. Warum das wichtig ist, brauche ich hier wohl nicht zu erwähnen. Ein Qualitätsfaktor, auf den wir uns einigen können, ist die Zeit mit dem Kind. Herr Rehberg – ich glaube, er ist schon auf dem Weg zu Herrn Dobrindt – hat vorhin gesagt, wir sollten uns einmal die Realität anschauen. Gerne, schauen wir uns doch einmal den Alltag in einer Kita an. Da ist die Realität so, dass sich Erzieherinnen und Erzieher gleichzeitig um eine laufende Nase, um ein gestoßenes Knie kümmern, sich ein gemaltes Bild anschauen, Windeln wechseln. Daneben sitzt vielleicht noch ein stilles Kind, das aber auch Aufmerksamkeit braucht. Wie kann ein Erzieher oder eine Erzieherin, der bzw. die eine Gruppe von sechs oder sieben Kinder betreut, dann auf die Bedürfnisse aller eingehen?</p>
@@ -776,12 +776,12 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als nächstem Redner erteile ich dem Abgeordneten Philipp Graf von und zu Lerchenfeld, CDU/CSU-Fraktion, das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Philipp Graf Lerchenfeld" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Philipp Graf von und zu Lerchenfeld">
+        <sp who="Philipp Graf Lerchenfeld" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Philipp Graf Lerchenfeld" party="CSU" name="Philipp Graf Lerchenfeld">
           <speaker>Philipp Graf Lerchenfeld (CDU/CSU):</speaker>
           <p>Herr Präsident! Hohes Haus! Ich habe in der letzten halben Stunde irgendwie das Gefühl gehabt, ich bin im falschen Parlament.</p>
           <stage type="interjection">(Kai Gehring [BÜNDNIS 90/DIE GRÜNEN]: Das ist möglich! – Dr. Franziska Brantner [BÜNDNIS 90/DIE GRÜNEN]: Wo wären Sie denn gern?)</stage>
@@ -806,12 +806,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als nächstem Redner erteile ich das Wort dem Abgeordneten Bernhard Daldrup, SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Bernhard Daldrup" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Bernhard Daldrup">
+        <sp who="Bernhard Daldrup" parliamentary_group="SPD" role="mp" position="NA" who_original="Bernhard Daldrup" party="SPD" name="Bernhard Daldrup">
           <speaker>Bernhard Daldrup (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Herr Lerchenfeld, auch wenn Sie versuchen, sich an dieser Stelle sozusagen in besonderer Weise als Steuertreiber und Steuererhöher zu profilieren, muss ich Ihnen sagen: Das wird nicht funktionieren. Wir wollen diese Varianten mit regionalen Steuersätzen nicht, weil sie in Wirklichkeit zu Steuerdumping führen müssen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -840,39 +840,39 @@
           <p>Heute beklagen sich Spitzenverbände und verschiedene andere Organisationen eher darüber, dass die Sanierung der Landesfinanzen auf dem Rücken der Kommunen erfolgt, beispielsweise in Hessen. Dort gibt es einige, die da eine Aufgabe hätten.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Wir erwarten von allen Ländern, dass die Mittel den Kommunen ungeschmälert zugutekommen, und zwar jeweils zur Hälfte durch eine Erhöhung der Bundesbeteiligung an den Kosten der Unterkunft und zur anderen Hälfte durch eine verbesserte Umsatzsteuerbeteiligung. Dieser Maßstab sichert unseres Erachtens die gerechte Verteilung der jährlich zur Verfügung stehenden Milliarde. Das hilft den Kommunen mit einer höheren Arbeitslosenquote mehr als eine reine Erhöhung der Umsatzsteuerbeteiligung.</p>
-          <p>Die meisten wissen, dass der bundesweite finanzielle Überschuss aller Kommunen trügerisch ist – dieser Aspekt wurde eben von den Grünen, aber auch vom Finanzminister angesprochen –, weil er der immer noch zu geringen Investitionstätigkeit der Kommunen geschuldet ist und weil er die sich öffnende Schere zwischen armen und reichen bzw. wohlhabenden Kommunen sowie steigende Kassenkredite und Sozialausgaben verschleiert. Ich erspare Ihnen an dieser Stelle die Auflistung der im negativen Sinn beeindruckenden Zahlen. Dieser Entwicklung wollen und werden wir auch mit diesem Gesetz entgegenwirken. Mit diesem Gesetz wird ein Teil der Entlastung der Länder und Kommunen durch das 6 Milliarden-Euro-Paket realisiert, das die Länder vom Bund erhalten, um Kinderkrippen, Kitas, Schulen und Hochschulen zu finanzieren.</p>
+          <p>Die meisten wissen, dass der bundesweite finanzielle Überschuss aller Kommunen trügerisch ist – dieser Aspekt wurde eben von den Grünen, aber auch vom Finanzminister angesprochen –, weil er der immer noch zu geringen Investitionstätigkeit der Kommunen geschuldet ist und weil er die sich öffnende Schere zwischen armen und reichen bzw. wohlhabenden Kommunen sowie steigende Kassenkredite und Sozialausgaben verschleiert. Ich erspare Ihnen an dieser Stelle die Auflistung der im negativen Sinn beeindruckenden Zahlen. Dieser Entwicklung wollen und werden wir auch mit diesem Gesetz entgegenwirken. Mit diesem Gesetz wird ein Teil der Entlastung der Länder und Kommunen durch das 6-Milliarden-Euro-Paket realisiert, das die Länder vom Bund erhalten, um Kinderkrippen, Kitas, Schulen und Hochschulen zu finanzieren.</p>
           <p>Neben der Aufstockung des Sondervermögens ermöglichen es die in den Jahren 2017 und 2018 jährlich zusätzlich zur Verfügung stehenden 100 Millionen Euro – sie ergeben sich aus einer höheren Umsatzsteuerbeteiligung – den Ländern, ihre Kommunen von den Betriebskosten zu entlasten und damit bessere Bedingungen für mehr Erzieherinnen und Erzieher zu schaffen. Ich glaube, Herr Rehberg, es ist falsch, Qualitätsverbesserung und Beitragsfreiheit in diesem Kontext gegeneinander auszuspielen. Die Ministerin hat zu Recht darauf hingewiesen, dass es sich um Zukunftsinvestitionen handelt. Das ist, wie ich glaube, gut und richtig.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Mit dem Gesetzentwurf ist die Schaffung zusätzlicher Kitaplätze übrigens keineswegs abgeschlossen.</p>
           <p>Sollten die veranschlagten Mittel für die Kinderbetreuung für den Aufwuchs nicht ausreichen, werden sie entsprechend dem erkennbaren Bedarf aufgestockt.</p>
           <p>So heißt es auf Seite 63 des Koalitionsvertrages. Das ist für uns der Beurteilungsmaßstab.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Herr Abgeordneter, denken Sie bitte an die Redezeit.</p>
         </sp>
-        <sp who="Bernhard Daldrup" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Bernhard Daldrup">
+        <sp who="Bernhard Daldrup" parliamentary_group="SPD" role="mp" position="NA" who_original="Bernhard Daldrup" party="SPD" name="Bernhard Daldrup">
           <speaker>Bernhard Daldrup (SPD):</speaker>
           <p>Ich komme zum Schluss.</p>
           <p>Ich glaube, dass dieses ganze Projekt, dass dieser Gesetzentwurf ein wesentlicher Beitrag zur Stärkung kommunaler Demokratie ist. Das ist wichtig; denn wir müssen Wahlenthaltung und Wählerprotest gewissermaßen als Seismografen verstehen, die die Handlungsnotwendigkeit in einem Sektor wie diesem begründen.</p>
           <p>Ich hätte gerne noch ein bisschen mehr Redezeit, aber das geht nicht; das weiß ich wohl.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Sie haben schon eine Minute zusätzlich.</p>
         </sp>
-        <sp who="Bernhard Daldrup" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Bernhard Daldrup">
+        <sp who="Bernhard Daldrup" parliamentary_group="SPD" role="mp" position="NA" who_original="Bernhard Daldrup" party="SPD" name="Bernhard Daldrup">
           <speaker>Bernhard Daldrup (SPD):</speaker>
           <p>Ich muss deswegen an dieser Stelle schließen. Ich darf aber noch sagen, dass wir diesem Gesetzentwurf im weiteren Verfahren unsere Unterstützung geben werden.</p>
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie des Abg. Max Straubinger [CDU/CSU])</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächster Redner ist Marcus Weinberg, CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Marcus Weinberg" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Marcus Weinberg">
+        <sp who="Marcus Weinberg (Hamburg)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Marcus Weinberg (Hamburg)" party="CDU" name="Marcus Weinberg">
           <speaker>Marcus Weinberg (Hamburg) (CDU/CSU):</speaker>
           <p>Vielen Dank, Frau Präsidentin. – Hinsichtlich der richtigen und guten Politik für Familien beginnt nun die zweite Halbzeit. Herr Daldrup hat von der Erkenntnis gesprochen, dass es jeden Morgen hell wird. Ich glaube, man kann sagen: Für Familien wird es heute besonders hell, weil wir heute über zwei große Gesetzentwürfe beraten. Es geht um Partnerschaftlichkeit und mehr Zeit für Familien – Elterngeld –; aber auch die Frage der Vereinbarkeit von Familie und Beruf ist wichtig, wofür der Ausbau der Infrastruktur entscheidend ist.</p>
           <p>Heute Morgen wurden drei prägende Zahlen genannt: zweimal 5,4 und einmal die große Null. Für eine gute, langfristige und nachhaltige Familienpolitik ist zentral – das hat Eckardt Rehberg schon gesagt –, dass Schluss gemacht wird mit neuen Schulden. Bei den Dingen, die wir jetzt auf den Weg bringen, und bei den großen Summen, die wir ausgeben, ist dies der Überbau. Dieses Ziel leitet uns und trägt uns maßgeblich.</p>
@@ -900,12 +900,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Letzte Rednerin zu diesem Tagesordnungspunkt ist die Kollegin Uli Gottschalck, SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD sowie des Abg. Max Straubinger [CDU/CSU])</stage>
         </sp>
-        <sp who="Ulrike Gottschalck" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ulrike Gottschalck">
+        <sp who="Ulrike Gottschalck" parliamentary_group="SPD" role="mp" position="NA" who_original="Ulrike Gottschalck" party="SPD" name="Ulrike Gottschalck">
           <speaker>Ulrike Gottschalck (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Städte und Gemeinden sind die Kraftwerke unseres sozialen Miteinanders. Kinderbetreuung, Nahversorgung, gute Mobilität, das soziale Netz: Alles muss vor Ort organisiert und auch finanziert werden. Deutschland braucht deshalb starke Kommunen, in denen die Menschen gerne leben und sich wohlfühlen. In den Städten und Gemeinden merken die Menschen am ehesten, ob die Daseinsvorsorge funktioniert oder eben nicht.</p>
           <p>In letzter Zeit stottern die Kraftwerke, die Städte und Gemeinden, leider öfters, weil sie erheblich unter den ständig steigenden Sozialkosten leiden. Sie kämpfen mit der demografischen Entwicklung, und sie kämpfen seit Jahren darum, wirklich handlungsfähig zu bleiben. Deshalb bin ich sehr froh und dankbar, dass sich die Fraktionen der Regierungskoalition im Koalitionsvertrag darauf verständigt haben, der Entlastung der Kommunen eine absolute Priorität einzuräumen.</p>
@@ -926,7 +926,7 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird Überweisung der Vorlagen auf den Drucksachen 18/2586 und 18/2605 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? – Ich sehe, das ist der Fall. Dann sind die Überweisungen so beschlossen.</p>
@@ -943,7 +943,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="3" what="debate" desc="Erste Beratung des von den Abgeordneten Nicole Maisch, Renate Künast, Luise Amts...">
-        <sp who="Renate Künast" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Renate Künast">
+        <sp who="Renate Künast" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Renate Künast" party="GRUENE" name="Renate Künast">
           <speaker>Renate Künast (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Liebe Kolleginnen und Kollegen, die Sommerpause ist noch nicht allzu lange vorbei. Erinnern Sie sich doch zum Beispiel einmal daran, ob Sie eine Bahn- oder Flugreise unternommen und dabei enorme Verspätungen erlebt haben. Sie haben sich dann vielleicht gefragt: Wie ist das denn mit der Entschädigung? Äußere ich mich? Frage ich einmal nach? Oder soll ich vielleicht sogar klagen? Mag sein, dass die Deutsche Bahn diesbezüglich nicht so schlecht ist wie ihr Ruf, sondern schon selbstverständlicher und geduldig Vordrucke verteilt. Ich glaube, dass das bei manchen Fluggesellschaften viel schwieriger ist, weil diese sich zieren und versuchen, das Ganze erst einmal zeitlich zu strecken.</p>
           <p>Oder stellen Sie sich eine andere Situation vor: Sie haben den Stromanbieter gewechselt. Der neue Stromanbieter hat Ihnen angeboten, Ihnen nach zwölf Monaten einen Wechselbonus auszuzahlen. Nach exakt zwölf -Monaten wechseln Sie schon wieder, weil ein anderer Anbieter einen niedrigeren Tarif hat. Der bisherige -Stromanbieter zahlt daraufhin die Prämie nicht. Klagen Sie?</p>
@@ -963,21 +963,21 @@
           <p>Ich glaube, dass wir damit eines schaffen, nämlich dass die kleinen Fälle, bei denen die Verbraucher kein Recht bekommen, endlich mit in die Steuerungsfunktion des Rechts aufgenommen werden. Denn das Recht hat auch eine Aufgabe: am Ende sozusagen subkutan faire Marktbedingungen zu ermöglichen und zu gewährleisten, dass man nicht über den Tisch gezogen wird.</p>
           <p>Ich komme zum Schluss, Frau Präsidentin. Die Europäische Kommission hat uns im Juni 2013 aufgefordert, kollektive Rechtsschutzverfahren einzuführen. Auf eine Kleine Anfrage hat die Bundesregierung neulich geantwortet: Sie prüft, ob zur Verbesserung des kollektiven Rechtsschutzes gesetzgeberische Schritte nötig sind.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Aber nicht mehr alles vorlesen, Frau Kollegin Künast.</p>
         </sp>
-        <sp who="Renate Künast" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Renate Künast">
+        <sp who="Renate Künast" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Renate Künast" party="GRUENE" name="Renate Künast">
           <speaker>Renate Künast (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Meine Damen und Herren, ich erlaube mir an dieser Stelle einen kostenlosen Rechtsrat: Wenn Sie nichts tun, verstoßen wir gegen die Empfehlung der Kommission. Ich bitte Sie deshalb, unseren Vorschlag zur Einführung von Gruppenverfahren aufmerksam zu lesen und ihm dann auch zuzustimmen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie der Abg. Caren Lay [DIE LINKE])</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächster Redner ist Sebastian Steineke, CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Sebastian Steineke" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Sebastian Steineke">
+        <sp who="Sebastian Steineke" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Sebastian Steineke" party="CDU" name="Sebastian Steineke">
           <speaker>Sebastian Steineke (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Den Gesetzentwurf, den Frau Künast für die Fraktion Bündnis 90/Die Grünen zur Einführung von Sammelklagen – man muss deutlich sagen: es sind Sammelklagen, um die es heute geht, keine Gruppenverfahren – eingebracht hat, haben Sie uns schon im letzten Jahr vorgestellt, und zwar kurz vor der Bundestagswahl. Kollege Luczak hat damals völlig zu Recht festgestellt: Das war reines Wahlkampfgeplänkel.</p>
           <stage type="interjection">(Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Das können Sie uns jetzt nicht mehr vorwerfen!)</stage>
@@ -1001,33 +1001,33 @@
           <p>Damit erweist sich das Gruppenverfahren aus Sicht der Klägeranwältin oder des Klägeranwalts vor allem für solche Fälle als attraktiv, in denen eine große Anzahl von Betroffenen als Mandanten entweder bereits vorhanden ist oder zumindest in Betracht kommt.</p>
           <p>Wenn Sie das so formulieren, dann ist das doch förmlich Anstiftung zum Rechtsstreit, nicht mehr und nicht weniger. Das kann nicht in unserem Interesse liegen.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Herr Kollege, gestatten Sie eine Zwischenfrage der Kollegin Künast?</p>
         </sp>
-        <sp who="Sebastian Steineke" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Sebastian Steineke">
+        <sp who="Sebastian Steineke" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Sebastian Steineke" party="CDU" name="Sebastian Steineke">
           <speaker>Sebastian Steineke (CDU/CSU):</speaker>
           <p>Gerne.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Bitte.</p>
         </sp>
-        <sp who="Renate Künast" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Renate Künast">
+        <sp who="Renate Künast" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Renate Künast" party="GRUENE" name="Renate Künast">
           <speaker>Renate Künast (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Könnten Sie mir mit Blick auf die anwaltliche Gebührenordnung erklären, was günstiger ist: 20 Mandanten mit einer kleinen Summe zu vertreten, bei denen die Anzahl der Anwaltsgebühren auf vier begrenzt ist, oder 20 Mandanten einzeln zu vertreten und jeweils ein, zwei Gebühren zu erheben? Sie machen gerade eine Milchmädchenrechnung auf, glaube ich.</p>
           <stage type="interjection">(Caren Lay [DIE LINKE]: Milchjungenrechnung!)</stage>
           <p>– Richtig, Milchjungenrechnung. Danke, Caren Lay.</p>
           <p>Sie tun so, als würden wir mit unserer Formulierung zum Rechtsstreit animieren. Tatsächlich ist es doch viel schlimmer, wenn 20, 30 oder 100 Menschen einzeln vertreten werden müssen. Als Anwalt braucht man sich dann in die Sache nicht immer wieder materiell einzuarbeiten, kann aber jedes Mal eine Gebühr einschließlich Mehrwertsteuer, die man natürlich abführt, erheben.</p>
         </sp>
-        <sp who="Sebastian Steineke" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Sebastian Steineke">
+        <sp who="Sebastian Steineke" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Sebastian Steineke" party="CDU" name="Sebastian Steineke">
           <speaker>Sebastian Steineke (CDU/CSU):</speaker>
           <p>Frau Kollegin, es ist ganz einfach. Sie animieren, möglichst viele Menschen in Sammelklagen einzubeziehen; denn nur dann kann ein Anwalt mit einer Sammelklage Geld verdienen. Das ist aber falsch. Das ist ein Anreiz zum Rechtsstreit, nicht mehr und nicht weniger.</p>
           <p>Insgesamt sehen wir in diesem Punkt die große Gefahr, dass die Sammelklage rechtsmissbräuchlich beworben wird und dass sich ein Rechtsdienstleistungsmarkt entwickelt wie in den USA. Das ist kein Geheimnis: Wer sich in den USA auskennt, dem ist die große Anzahl an Sammelklagen sowie Anwälten und Großkanzleien, die sich eine goldene Nase verdienen, bekannt. Sie werden mit Ihrem Gesetz insbesondere den deutschen Großkanzleien einen großen Gefallen tun. Das ist aber nicht unser Ansatz. Wir wollen nicht – das habe ich eben ausgeführt –, dass die Betroffenen in einen Rechtsstreit -hineingeredet werden. Vielmehr wollen wir den möglichst besten Rechtsschutz für jedermann. Das sollte der Anspruch für alle hier im Saal sein.</p>
           <p>Ein weiterer Punkt ist evident wichtig. Nicht selten ist in der Geschäftsbeziehung zwischen Anwalt und Mandanten das persönliche Verhältnis prägend für die Zusammenarbeit. Ein Anwalt muss jeden Mandanten bestmöglich vertreten. Das verlangen bei uns bereits die Standesregeln. Bei großen Sammelklagen ist das nicht mehr möglich. Der einzelne Mandant ist bloß noch eine Nummer.</p>
           <p>Die Sammelklagepraxis in den USA hat uns allerdings noch mehr Schwachstellen aufgezeigt. Dort ist es üblich, dass neben dem Klageverfahren ein exorbitanter, zusätzlicher medialer Druck auf die Beklagten aufgebaut wird, der dazu führt, dass die Beklagten förmlich genötigt werden, sich noch vor einer Urteilsverkündung mit der Gruppe zu vergleichen. In den USA geht man davon aus, dass weit mehr als 90 Prozent der Sammelklagen in einem Vergleich enden, noch bevor ein Urteil durch das Gericht gefällt werden kann. Auch hier wäre das mehr als wahrscheinlich.</p>
           <stage type="interjection">(Zuruf der Abg. Renate Künast [BÜNDNIS 90/DIE GRÜNEN])</stage>
-          <p>– Frau Künast, der öffentliche Druck ist das entscheidende Problem. </p>
+          <p>– Frau Künast, der öffentliche Druck ist das entscheidende Problem.</p>
           <p>Oftmals handelt es sich bei dem Streitgegenstand von Sammelklagen – da sind wir uns sicherlich einig – um für viele Betroffene essenzielle Rechtsfragen, die ein großes Medienecho nach sich ziehen. Wir brauchen die freie und kritische Berichterstattung; dennoch darf dieser öffentliche Druck nie dazu führen, Einfluss auf die freie Rechtsprechung in unserem Land zu nehmen. Gerade für unsere Unternehmen, die im Regelfall die Betroffenen von Sammelklagen sein werden, würde ein Auswuchs an solchen Sammelklagen eine erhebliche unangemessene Belastung darstellen.</p>
           <p>Für die Wahrung des öffentlichen Interesses im Einzelfall haben sowohl Aufsichtsbehörden als auch Verbraucherschutzverbände bereits jetzt die Möglichkeit, vorbeugenden Rechtsschutz für die Betroffenen in Anspruch zu nehmen. Amerikanische Verhältnisse wollen wir jedenfalls hier in Deutschland nicht.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
@@ -1035,12 +1035,12 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächste Rednerin ist Caren Lay, Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Caren Lay" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Caren Lay">
+        <sp who="Caren Lay" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Caren Lay" party="DIE LINKE" name="Caren Lay">
           <speaker>Caren Lay (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Herr Kollege Steineke, ich muss mich schon wundern. Sie kritisieren die Opposition dafür, dass sie Dinge, die im Wahlkampf eine Rolle gespielt haben, jetzt hier in einem seriösen Verfahren debattieren will. Genau so muss es doch sein, ich bitte Sie.</p>
           <stage type="interjection">(Beifall bei der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN – Dr. Volker Ullrich [CDU/CSU]: Er kritisiert die Qualität des Gesetzentwurfs!)</stage>
@@ -1061,32 +1061,32 @@
           <p>Das Beste ist: Anschließend würde das Urteil gegenüber jedem Betroffenen gleichermaßen gelten und nicht nur für diejenigen, die in dem Verfahren durchgehalten haben.</p>
           <stage type="interjection">(Abg. Dr. Volker Ullrich [CDU/CSU] meldet sich zu einer Zwischenfrage)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Frau Kollegin, gestatten Sie eine Zwischenfrage des Kollegen von der CDU?</p>
         </sp>
-        <sp who="Caren Lay" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Caren Lay">
+        <sp who="Caren Lay" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Caren Lay" party="DIE LINKE" name="Caren Lay">
           <speaker>Caren Lay (DIE LINKE):</speaker>
           <p>Aber selbstverständlich.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Dr. Volker Ullrich" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Volker Michael Ullrich">
+        <sp who="Volker Ullrich" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Volker Ullrich" party="CSU" name="Volker Ullrich">
           <speaker>Dr. Volker Ullrich (CDU/CSU):</speaker>
           <p>Frau Präsidentin, ich bin der Kollege von der CDU/CSU. – Ich möchte Sie, Frau Kollegin Lay, etwas fragen. Sie sagen: Mit der Gruppenklage würde es für die Verbraucher wesentlich einfacher, zu klagen und am Rechtsstreit teilzunehmen.</p>
         </sp>
-        <sp who="Caren Lay" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Caren Lay">
+        <sp who="Caren Lay" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Caren Lay" party="DIE LINKE" name="Caren Lay">
           <speaker>Caren Lay (DIE LINKE):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Dr. Volker Ullrich" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Volker Michael Ullrich">
+        <sp who="Volker Ullrich" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Volker Ullrich" party="CSU" name="Volker Ullrich">
           <speaker>Dr. Volker Ullrich (CDU/CSU):</speaker>
           <p>Bislang ist es so, dass bei Klagesummen von bis zu 5 000 Euro kein Anwaltszwang besteht und im Zweifelsfall jeder die Klage oder den Mahnbescheid selbst auf den Weg bringen kann. Nach dem Gesetzentwurf braucht man zwingend einen Rechtsanwalt. Wie erklären Sie sich den Anwaltszwang vor dem Hintergrund des Ziels der Erleichterung der Klagebefugnis?</p>
           <stage type="interjection">(Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Wenn Sie wollen, streiche ich den Satz, und Sie stimmen zu! Tun Sie doch nicht so!)</stage>
         </sp>
-        <sp who="Caren Lay" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Caren Lay">
+        <sp who="Caren Lay" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Caren Lay" party="DIE LINKE" name="Caren Lay">
           <speaker>Caren Lay (DIE LINKE):</speaker>
           <p>Da kann ich mich dem Zwischenruf der Kollegin Künast anschließen. Ich glaube nicht, dass das hier die entscheidende Frage ist. Wir müssen die Sachlage aus der Perspektive der betroffenen Verbraucherinnen und Verbraucher betrachten.</p>
           <stage type="interjection">(Dr. Volker Ullrich [CDU/CSU]: Genau!)</stage>
@@ -1102,12 +1102,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächster Redner ist Dirk Wiese, SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dirk Wiese" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dirk Wiese">
+        <sp who="Dirk Wiese" parliamentary_group="SPD" role="mp" position="NA" who_original="Dirk Wiese" party="SPD" name="Dirk Wiese">
           <speaker>Dirk Wiese (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Dem vorliegenden Gesetzentwurf der Fraktion der Grünen ist insoweit zuzustimmen, als Verbraucher, die in großer Zahl zum Beispiel unlauteren Geschäftspraktiken, unzulässigen allgemeinen Geschäftsbedingungen oder kartellbedingt überhöhten Preisen zum Opfer gefallen sind, in der Lage sein müssen, ihre Rechte vor Gericht wirksam durchzusetzen. Das steht für uns Sozialdemokraten außer Frage.</p>
           <p>Klar ist dabei auch, dass die Möglichkeit, eine angemessene Kompensation für erlittene Schäden zu erstreiten, verfahrensmäßig so ausgestaltet sein muss, dass keine abschreckenden wirtschaftlichen oder bürokratischen Hürden bestehen.</p>
@@ -1121,17 +1121,17 @@
           <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Ich hoffe, dass es mir gelungen ist, bei den Zuhörern auf der Tribüne das Vorurteil zu widerlegen, dass Jura trocken ist.</p>
           <stage type="interjection">(Heiterkeit – Zuruf vom BÜNDNIS 90/DIE GRÜNEN: Das ist ein Schuss nach hinten!)</stage>
-          <p>Liebe Kolleginnen und Kollegen, Sie merken, ich stehe dem Gesetzentwurf der Grünen skeptisch gegenüber. Gleichwohl freue ich mich – Frau Künast, Sie können an dieser Stelle auch einmal zuhören –, dass uns die Ausschussberatung die Gelegenheit gibt, dass wir uns noch einmal mit der Materie der Klagehäufung bzw.  bündelung befassen. Dort können wir gemeinsam diskutieren, ob bewährte Instrumente der ZPO alternativ punktuell so fortentwickelt werden können, dass sie dem Verbraucher nutzen und beispielsweise die individuelle Rechtsdurchsetzung auch bei Streuschäden erleichtern. Für denkbar halte ich beispielsweise die Schaffung eines wirksamen Gewinnabschöpfungsanspruchs im Bereich des Unterlassungsklagengesetzes, die Schaffung von strengeren Voraussetzungen für die Prozesstrennung oder die Einführung eines allgemeinen Klageregisters für den kollektiven Rechtsschutz in Verbindung mit einer Verjährungshemmung bei Anmeldung sowie die Regelung einer Musterfeststellungsklage.</p>
+          <p>Liebe Kolleginnen und Kollegen, Sie merken, ich stehe dem Gesetzentwurf der Grünen skeptisch gegenüber. Gleichwohl freue ich mich – Frau Künast, Sie können an dieser Stelle auch einmal zuhören –, dass uns die Ausschussberatung die Gelegenheit gibt, dass wir uns noch einmal mit der Materie der Klagehäufung bzw. -bündelung befassen. Dort können wir gemeinsam diskutieren, ob bewährte Instrumente der ZPO alternativ punktuell so fortentwickelt werden können, dass sie dem Verbraucher nutzen und beispielsweise die individuelle Rechtsdurchsetzung auch bei Streuschäden erleichtern. Für denkbar halte ich beispielsweise die Schaffung eines wirksamen Gewinnabschöpfungsanspruchs im Bereich des Unterlassungsklagengesetzes, die Schaffung von strengeren Voraussetzungen für die Prozesstrennung oder die Einführung eines allgemeinen Klageregisters für den kollektiven Rechtsschutz in Verbindung mit einer Verjährungshemmung bei Anmeldung sowie die Regelung einer Musterfeststellungsklage.</p>
           <p>Ich freue mich jedenfalls auf die Ausschussberatung. Wie gesagt, ich stehe dem Gesetzentwurf jedoch skeptisch gegenüber.</p>
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächster Redner ist der Kollege Dr. Volker Ullrich, CDU/CSU-Fraktion.</p>
-          <stage type="interjection">(Beifall bei der CDU/CSU) </stage>
+          <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Volker Ullrich" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Volker Michael Ullrich">
+        <sp who="Volker Ullrich" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Volker Ullrich" party="CSU" name="Volker Ullrich">
           <speaker>Dr. Volker Ullrich (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Zunächst einmal ist zu sagen: Die Idee der Verbesserung von Verbraucherrechten ist an und für sich richtig. Der Gesetzentwurf macht sich eine Empfehlung der Europäischen Kommission zu eigen. Aber es gilt auch zu formulieren: Grundlegende Reformen der Zivilprozessordnung sind Operationen am offenen Herzen unserer Rechtsordnung mit Auswirkungen auf das Funktionieren unseres Rechtssystems. Sie sollten nur dann vorgenommen werden, wenn dadurch eine erhebliche Verbesserung eintreten kann.</p>
           <stage type="interjection">(Beifall der Abg. Renate Künast [BÜNDNIS 90/DIE GRÜNEN])</stage>
@@ -1169,12 +1169,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächster Redner ist Dr. Karl-Heinz Brunner, SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Karl-Heinz Brunner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Karl-Heinz Brunner">
+        <sp who="Karl-Heinz Brunner" parliamentary_group="SPD" role="mp" position="NA" who_original="Karl-Heinz Brunner" party="SPD" name="Karl-Heinz Brunner">
           <speaker>Dr. Karl-Heinz Brunner (SPD):</speaker>
           <p>Frau Präsidentin! Meine Kolleginnen und Kollegen! Meine Damen und Herren! Nachdem wir heute schon medizinisch in das Thema eingestiegen sind – Sie, lieber Kollege Ullrich, haben von der Operation am offenen Herzen gesprochen und Sie, Frau Künast, haben den Begriff „subkutan“ verwendet –,</p>
           <stage type="interjection">(Ansgar Heveling [CDU/CSU]: Ein bisschen Hysterie war zwischendurch auch schon dabei!)</stage>
@@ -1187,24 +1187,24 @@
           <p>Ich glaube, verehrte Kolleginnen und Kollegen, die Einführung des Gruppenverfahrens in die ZPO ist nichts anderes als die Fortentwicklung von Sammelklagen. In Bezug auf Gruppenklagen haben wir im Verbandsklagerecht und im Kapitalanleger-Musterverfahrensgesetz recht gute Regelungen, die weiterentwickelt und vor allen Dingen den Verbraucherinnen und Verbrauchern nähergebracht werden müssen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Herr Kollege Brunner, gestatten Sie eine Zwischenfrage der Kollegin Katja Keul?</p>
         </sp>
-        <sp who="Dr. Karl-Heinz Brunner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Karl-Heinz Brunner">
+        <sp who="Karl-Heinz Brunner" parliamentary_group="SPD" role="mp" position="NA" who_original="Karl-Heinz Brunner" party="SPD" name="Karl-Heinz Brunner">
           <speaker>Dr. Karl-Heinz Brunner (SPD):</speaker>
           <p>Gerne.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Katja Keul" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Katja Keul">
+        <sp who="Katja Keul" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Katja Keul" party="GRUENE" name="Katja Keul">
           <speaker>Katja Keul (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Vielen Dank, Herr Brunner, dass Sie die Frage zulassen. – Sie haben gerade das Beispiel erwähnt, dass in Amerika wegen einer Lappalie Millionenbeträge geltend gemacht werden. Würden Sie mir nicht auch recht geben, dass das weniger mit den Verfahrensrechten der ZPO zu tun hat als mit dem Unterschied im materiellen Zivilrecht, weil es in den USA so etwas wie eine Strafschadensersatzklage gibt, die es in unserem Zivilrecht gar nicht gibt? Deswegen entstehen diese Summen, die bei uns undenkbar wären. Das hat mit dem Verfahren einer Gruppenklage eigentlich gar nichts zu tun.</p>
           <stage type="interjection">(Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Da kennt sich jemand aus!)</stage>
         </sp>
-        <sp who="Dr. Karl-Heinz Brunner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Karl-Heinz Brunner">
+        <sp who="Karl-Heinz Brunner" parliamentary_group="SPD" role="mp" position="NA" who_original="Karl-Heinz Brunner" party="SPD" name="Karl-Heinz Brunner">
           <speaker>Dr. Karl-Heinz Brunner (SPD):</speaker>
           <p>Selbstverständlich, liebe Kollegin Keul, hat das mit unserem Zivilrecht nichts zu tun. Aber das Gruppenklageverfahren ist im Wesentlichen aus dem angelsächsischen Recht entwickelt. Deshalb habe ich auch den Bezug hergestellt.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU – Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Das eine haben Sie nicht verstanden und das andere falsch recherchiert!)</stage>
@@ -1213,7 +1213,7 @@
           <p>Ich bedanke mich herzlich für die Aufmerksamkeit und wünsche Ihnen, soweit Sie noch hierbleiben, einen schönen Nachmittag und ansonsten ein schönes Wochenende.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird Überweisung des Gesetzentwurfes auf Drucksache 18/1464 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Gibt es dazu anderweitige Vorschläge? – Ich sehe, das ist nicht der Fall. Dann ist es so beschlossen.</p>
@@ -1227,7 +1227,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="4" what="debate" desc="Beratung der Unterrichtung durch die Bundesregierung">
-        <sp who="Stefan Müller" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin für Bildung und Forschung" party="CSU" name="Stefan Müller">
+        <sp who="Stefan Müller" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin für Bildung und Forschung" who_original="Stefan Müller" party="CSU" name="Stefan Müller">
           <speaker>Stefan Müller, Parl. Staatssekretär bei der Bundesministerin für Bildung und Forschung:</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Vor zwei Jahren ist das Gesetz zur Verbesserung der Feststellung und Anerkennung im Ausland erworbener Berufsqualifikationen, also kurz Anerkennungsgesetz, in Kraft getreten. Wir haben mit diesem Gesetz erstmals eine gute rechtliche Grundlage geschaffen, um im Ausland erworbene Abschlüsse in Deutschland einfacher anzuerkennen und Menschen mit ausländischen Abschlüssen besser in den Arbeitsmarkt integrieren zu können.</p>
           <p>Eines kann man nach diesen zwei Jahren ohne Zweifel sagen: Es hat in Deutschland ein Umdenken gegeben.</p>
@@ -1249,23 +1249,23 @@
           <p>– Es sei denn, Sie würden eine Zwischenfrage zu den Ausblicken stellen, Herr Mutlu. Aber ich befürchte, den Gefallen werden Sie mir nicht tun.</p>
           <stage type="interjection">(Özcan Mutlu [BÜNDNIS 90/DIE GRÜNEN]: Nein, ist gut! Da kommt auch nicht mehr bei rum, auch wenn ich eine Zwischenfrage stelle!)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Das geht nicht mehr, da Ihre offizielle Redezeit beendet ist.</p>
         </sp>
-        <sp who="Stefan Müller" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin für Bildung und Forschung" party="CSU" name="Stefan Müller">
+        <sp who="Stefan Müller" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin für Bildung und Forschung" who_original="Stefan Müller" party="CSU" name="Stefan Müller">
           <speaker>Stefan Müller, Parl. Staatssekretär bei der Bundesministerin für Bildung und Forschung:</speaker>
           <p>Gut. – Ich beschränke mich auf wenige Stichworte: Wir werden eine ganze Reihe von Maßnahmen und Handlungsschwerpunkten zum Beispiel zu Ausgleichsmaßnahmen auf den Weg bringen.</p>
           <p>Ich will hier die Information der Betriebe ansprechen. Der Bericht zeigt, dass es hier noch Handlungsbedarf gibt, dass wir auch die Personalabteilungen und die Personalentwickler in den Unternehmen für das Thema Anerkennung sensibilisieren müssen. Wir haben Handlungsbedarf im Bereich der Rechtsetzung, weil wir die novellierte EU-Berufsanerkennungsrichtlinie bis 2016 in nationales Recht umsetzen müssen. – Das waren nur zwei Beispiele, die zeigen, wo wir sicherlich noch weiterarbeiten können.</p>
           <p>Die OECD bescheinigt uns, dass Deutschland heute zu den Ländern mit den geringsten Hürden für die Zuwanderung hochqualifizierter Fachkräfte und Arbeitskräfte gehört – eine Botschaft, die noch viel stärker gehört werden muss. Wir werden – da gehört eine schnelle und einfache Anerkennung sicherlich mit dazu – auch in Zukunft mit dem Anerkennungsgesetz und den entsprechenden Verfahren dafür sorgen können, dass unser Land für qualifizierte Zuwanderer noch attraktiver wird. Daran wollen wir gemeinsam arbeiten.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächste Rednerin ist Dr. Rosi Hein, Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Rosemarie Hein" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Rosemarie Hein">
+        <sp who="Rosemarie Hein" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Rosemarie Hein" party="DIE LINKE" name="Rosemarie Hein">
           <speaker>Dr. Rosemarie Hein (DIE LINKE):</speaker>
           <p>Vielen Dank, Frau Präsidentin. – Verehrte Kolleginnen und Kollegen! Wir reden heute über den ersten Bericht der Bundesregierung zu dem im April 2012 beschlossenen Anerkennungsgesetz. Die umfassende Beschreibung kann ich mir sparen; das hat der Staatssekretär eben getan.</p>
           <p>Menschen mit im Ausland erworbenen Abschlüssen haben nach diesem Gesetz einen Rechtsanspruch auf ein Verfahren zur Überprüfung der Gleichwertigkeit ihrer Abschlüsse. Es wird auch ein Zeitrahmen festgeschrieben. Sie haben allerdings keinen Rechtsanspruch auf Anerkennung; ich bitte, diesen Unterschied mit zu bedenken. Wenn man denn die Anerkennung bekommt, könnte man damit in Deutschland auch eine der Qualifikation entsprechende Beschäftigung aufnehmen. Ich lasse einmal beiseite, dass das Anerkennungsgesetz schon in § 1 des Gesetzestextes mit dem Mangel am Arbeitsmarkt begründet wird und nicht mit dem Respekt vor den Fähigkeiten zugewanderter Menschen und ihren Lebensperspektiven hier in diesem Land.</p>
@@ -1288,12 +1288,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächster Redner ist Dr. Karamba Diaby für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Karamba Diaby" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Karamba Diaby">
+        <sp who="Karamba Diaby" parliamentary_group="SPD" role="mp" position="NA" who_original="Karamba Diaby" party="SPD" name="Karamba Diaby">
           <speaker>Dr. Karamba Diaby (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Werte Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! Seit zwei Jahren haben wir ein Anerkennungsgesetz auf Bundesebene, seit Sommer dieses Jahres nun endlich auch auf der Ebene der Bundesländer. Ich freue mich, dass wir heute eine erste Zwischenbilanz in Bezug auf das Anerkennungsgesetz ziehen.</p>
           <p>Vor gut zwei Jahren trat erstmals der allgemeine und umfassende Rechtsanspruch auf ein Anerkennungsverfahren in Kraft. Der ausländische Berufsabschluss wird mit dem deutschen Referenzberuf verglichen und auf Gleichwertigkeit geprüft. Das Ergebnis kann die vollwertige, die teilweise oder gar keine Anerkennung des ausländischen Abschlusses sein.</p>
@@ -1327,11 +1327,11 @@
           <p>Das Anerkennungsgesetz reiht sich hier ein: Es ist integrationspolitisch wichtig, es drückt Wertschätzung und Anerkennung der Lebensleistung von Eingewanderten aus. „Vielfalt schafft Werte“ bedeutet arbeitsmarktpolitisch: Die Tür steht dir offen, du bist willkommen, du wirst gebraucht, und du kannst dich mit all deinen Fähigkeiten hier entfalten. – Lassen Sie uns gemeinsam dieses Versprechen einlösen.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. Das war eine punktgenaue Landung. – Nächster Redner ist Özcan Mutlu, Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Özcan Mutlu" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Özcan Mutlu">
+        <sp who="Özcan Mutlu" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Özcan Mutlu" party="GRUENE" name="Özcan Mutlu">
           <speaker>Özcan Mutlu (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren!</p>
           <p>Deutschland braucht Fachkräfte! Viele Unternehmen, Krankenhäuser und Pflegeeinrichtungen sind schon jetzt auf ausländische Fachkräfte angewiesen.</p>
@@ -1359,12 +1359,12 @@
           <p>Ich sage: Nach zwei Jahren sollte so etwas nicht mehr in dem Bericht stehen. Setzen Sie sich mit den Bundesländern an einen Tisch und lösen Sie zügig die Probleme, statt nur darüber zu reden. Wir brauchen flächendeckende und funktionierende Strukturen statt eines unsäglichen Zuständigkeitsgerangels. Wir brauchen Vereinheitlichung, Vereinfachung und Beschleunigung. Machen Sie Tempo! Wir helfen Ihnen gerne dabei.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächste Rednerin ist Cemile Giousouf, CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Cemile Giousouf" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Cemile Giousouf">
+        <sp who="Cemile Giousouf" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Cemile Giousouf" party="CDU" name="Cemile Giousouf">
           <speaker>Cemile Giousouf (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! In den Zeiten des sogenannten Wirtschaftswunders vor über 50 Jahren wurden mit Ländern wie Italien, Griechenland und der Türkei Anwerbeabkommen abgeschlossen. Mehrere Millionen Menschen wurden für Industriearbeitsplätze benötigt. Sie kamen hierher und arbeiteten gemeinsam am Standort Deutschland auf Baustellen, in Fabriken oder im Bergbau.</p>
           <p>Heute stehen wir wieder vor der Herausforderung, dass wir Zuwanderung brauchen. Uns fehlen Ingenieure, Facharbeiter, aber auch Ärzte, Pflegekräfte und Lehrer. In meinem Wahlkreis Hagen und im südlichen Ennepe-Ruhr-Kreis fehlten den mittelständischen Unternehmen letztes Jahr 24 000 Fachkräfte. Ohne die Unterstützung aus dem Ausland können wir diese Herausforderung nicht stemmen. Deshalb ist es sehr gut, dass sich Deutschland in den letzten Jahren immer mehr zu einem modernen Einwanderungsland entwickelt hat.</p>
@@ -1393,12 +1393,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächster Redner ist Dr. Ernst Dieter Rossmann, SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU – Özcan Mutlu [BÜNDNIS 90/DIE GRÜNEN]: Jetzt ein bisschen Butter bei die Fische!)</stage>
         </sp>
-        <sp who="Dr. Ernst Dieter Rossmann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ernst Dieter Rossmann">
+        <sp who="Ernst Dieter Rossmann" parliamentary_group="SPD" role="mp" position="NA" who_original="Ernst Dieter Rossmann" party="SPD" name="Ernst Dieter Rossmann">
           <speaker>Dr. Ernst Dieter Rossmann (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Ich erinnere mich noch an Debatten hier im Bundestag, bei denen allein die Darstellung, dass es in Deutschland rund 400 000 bis 500 000 akademisch gebildete zugewanderte Menschen gibt, deren Abschluss nicht anerkannt wird, große Augen bei allen Kollegen hervorgerufen hat.</p>
           <stage type="interjection">(Özcan Mutlu [BÜNDNIS 90/DIE GRÜNEN]: Vor allem dort auf der rechten Seite!)</stage>
@@ -1411,19 +1411,19 @@
           <p>Es muss ja nicht unbedingt kostenlos sein, aber zwischen 600 und 200 Euro liegt ein Unterschied, auch bezogen darauf, ob man sich einbringt oder nicht.</p>
           <p>Ich will gerne einen weiteren Gedanken von Ihnen aufnehmen, Herr Mutlu. Ja, das Verfahren soll schnell sein, es soll zügig sein, es soll einfach sein. Es muss aber auch verlässlich und leistungsbezogen sauber sein.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU – Özcan Mutlu [BÜNDNIS 90/DIE GRÜNEN]: Absolut d’accord!)</stage>
-          <p>Gerade auf dem Arbeitsmarkt, bei den Handwerkern, den Mittelständlern und anderswo hat sich an der Tendenz, die aus dem Bericht herauszulesen ist, dass man eben doch – in Anführungsstrichen – der deutschen Qualifikation mehr traut als der nachgereichten eingedeutschten Qualifikation, nichts verändert. Wenn es dort Zweifel gibt, wenn sich festsetzen sollte: „Das ist ein bisschen geluscht“, dann nützt es diesen Menschen ja nichts. Es muss ja im Gegenteil gerade bei denen, die diese Kräfte aufnehmen sollen, auch eine Bereitschaft geben und ein hundertprozentiges Vertrauen auf Gleichwertigkeit bestehen. Dafür wollte ich noch einmal werben. Ich glaube, so haben Sie es auch verstanden. Ich wollte das unterstreichen und noch einmal ausdrücklich sagen: Das liegt jetzt bei uns als Parlamentariern. Wie halten Sie es? Gehen Sie in die mittelständischen Betriebe? Fragen Sie nach, ob die dort auch Hilfskräfte mit einer hohen Qualifikation haben, bei denen es an der Ermunterung durch den Chef gefehlt hat, der sagt: „Mach das doch, wir brauchen dich“? Fragen wir das so? Ich glaube, wir können als Abgeordnete in dieser Richtung viel mehr zur Bewusstseinsbildung beitragen, auch in Bezug auf die Chancen, die das Anerkennungsgesetz hat. </p>
+          <p>Gerade auf dem Arbeitsmarkt, bei den Handwerkern, den Mittelständlern und anderswo hat sich an der Tendenz, die aus dem Bericht herauszulesen ist, dass man eben doch – in Anführungsstrichen – der deutschen Qualifikation mehr traut als der nachgereichten eingedeutschten Qualifikation, nichts verändert. Wenn es dort Zweifel gibt, wenn sich festsetzen sollte: „Das ist ein bisschen geluscht“, dann nützt es diesen Menschen ja nichts. Es muss ja im Gegenteil gerade bei denen, die diese Kräfte aufnehmen sollen, auch eine Bereitschaft geben und ein hundertprozentiges Vertrauen auf Gleichwertigkeit bestehen. Dafür wollte ich noch einmal werben. Ich glaube, so haben Sie es auch verstanden. Ich wollte das unterstreichen und noch einmal ausdrücklich sagen: Das liegt jetzt bei uns als Parlamentariern. Wie halten Sie es? Gehen Sie in die mittelständischen Betriebe? Fragen Sie nach, ob die dort auch Hilfskräfte mit einer hohen Qualifikation haben, bei denen es an der Ermunterung durch den Chef gefehlt hat, der sagt: „Mach das doch, wir brauchen dich“? Fragen wir das so? Ich glaube, wir können als Abgeordnete in dieser Richtung viel mehr zur Bewusstseinsbildung beitragen, auch in Bezug auf die Chancen, die das Anerkennungsgesetz hat.</p>
           <p>Ich kann mir vorstellen, dass es auch Veranstaltungen zur Anerkennung der Qualifikation geben kann, bei der, ähnlich wie bei der Veranstaltung, in der neuen deutschen Staatsbürgern die deutschen Pässe verliehen werden, das Engagement von Menschen gewürdigt wird, die sich nachqualifiziert haben. Das ist Anerkennungskultur, das ist Willkommenskultur.</p>
           <p>Mir bleibt noch etwas Wichtiges zu sagen. Wir müssen darauf achten, dass keine soziale Spaltung, keine Qualifikationsspaltung entsteht. Der Bericht zeigt, dass denjenigen mit einem höheren Qualifikationsniveau das Anerkennungsverfahren leichter fällt und sie es meist auch erfolgreich abschließen. Aber bei denjenigen mit einem nicht so hohen Qualifikationsniveau besteht gegenüber dem Anerkennungsverfahren große Distanz. Gerade bei diesen Menschen müssen wir für das Verfahren werben.</p>
           <p>Das ist vielleicht ein besonderer Schwerpunkt, den man setzen kann. Die Differenz zwischen der akademischen und der beruflichen Bildung, obwohl wir beide als gleichwertig ansehen, bildet sich auch hier ab: Diejenigen, die mit einem akademischen Abschluss hierher kommen, haben es leichter als diejenigen, die mit einem Berufsabschluss zu uns kommen. Das kann es doch nicht sein. Wenn wir die Gleichwertigkeit zwischen akademischer und beruflicher Bildung wollen, dann muss diese auch im Zugang zum Anerkennungsverfahren und den Chancen gelten, daraus etwas für sich zu machen.</p>
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der SPD, der CDU/CSU und der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Letzte Rednerin zu diesem Tagesordnungspunkt ist die Kollegin Katrin Albsteiger für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Katrin Albsteiger" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Katrin Albsteiger">
+        <sp who="Katrin Albsteiger" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Katrin Albsteiger" party="CSU" name="Katrin Albsteiger">
           <speaker>Katrin Albsteiger (CDU/CSU):</speaker>
           <p>Vielen Dank. – Frau Präsidentin! Liebe Kolleginnen und Kollegen! Meine Damen und Herren! Ich freue mich, dass ich als letzte Rednerin in dieser Debatte meinen Redebeitrag leisten darf. Noch mehr freut es mich, dass ich zum Anerkennungsgesetz rede, das auf Initiative der CDU/CSU entwickelt,</p>
           <stage type="interjection">(Dr. Karamba Diaby [SPD]: Die Grundidee war wohl von uns!)</stage>
@@ -1455,7 +1455,7 @@
           <p>Ich bedanke mich für die Aufmerksamkeit und wünsche Ihnen einen schönen Nachmittag.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird Überweisung der Vorlage auf Drucksache 18/1000 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? – Ich sehe, das ist der Fall. Dann ist die Überweisung so beschlossen.</p>
@@ -1463,7 +1463,7 @@
           <p>Beratung der Unterrichtung durch die Bundesregierung</p>
           <p>Bericht der Bundesregierung zur Bildung für eine nachhaltige Entwicklung</p>
           <p>– 17. Legislaturperiode –</p>
-          <p>Drucksache 17/14325  </p>
+          <p>Drucksache 17/14325</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Bildung, Forschung und Technikfolgenabschätzung (f)</p>
           <p>Ausschuss für Recht und Verbraucherschutz</p>
@@ -1479,7 +1479,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="5" what="debate" desc="Beratung der Unterrichtung durch die Bundesregierung">
-        <sp who="Stefan Müller" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin für Bildung und Forschung" party="CSU" name="Stefan Müller">
+        <sp who="Stefan Müller" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin für Bildung und Forschung" who_original="Stefan Müller" party="CSU" name="Stefan Müller">
           <speaker>Stefan Müller, Parl. Staatssekretär bei der Bundesministerin für Bildung und Forschung:</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Bildung für nachhaltige Entwicklung ist ohne Zweifel zu einer breiten Bewegung geworden, die alle Bildungsbereiche vom Kindergarten über die Schule bis zum Ausbildungsbetrieb oder zur Hochschule erfasst. Es ist eine Bewegung, die alle Akteure dieser Felder sowie die Nichtregierungsorganisationen und die Wissenschaft erreicht hat.</p>
           <p>Der nunmehr vorliegende vierte Bericht zeigt den breiten Ansatz des Bundes zur Förderung der Bildung für nachhaltige Entwicklung. Es wird deutlich, dass die BNE ein eigenständiges Thema innerhalb der Bundesregierung ist, das aber auch gewissermaßen interdisziplinär von den Ressorts aufgegriffen wurde. Der Bericht macht klar, wie vielfältig die Aufgabenfelder in diesem Themenbereich sind und wie hoch die Verbreitung in den verschiedenen Gruppen der Gesellschaft mittlerweile ist.</p>
@@ -1499,12 +1499,12 @@
           <p>Ohne Zweifel wird die Bundesregierung das Thema Bildung für nachhaltige Entwicklung weiter vorantreiben. Das erkennen Sie schon im Koalitionsvertrag. Dort bekennen wir uns dazu, dass Bildung für nachhaltige Entwicklung in allen Bildungsbereichen stärker verankert werden soll.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächste Rednerin ist Dr. Rosemarie Hein, Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Rosemarie Hein" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Rosemarie Hein">
+        <sp who="Rosemarie Hein" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Rosemarie Hein" party="DIE LINKE" name="Rosemarie Hein">
           <speaker>Dr. Rosemarie Hein (DIE LINKE):</speaker>
           <p>Vielen Dank. – Frau Präsidentin! Liebe Kolleginnen und Kollegen! Ende dieses Jahres geht sie also zu Ende, die UN-Dekade „Bildung für nachhaltige Entwicklung“, und in jeder Legislatur legte die Bundesregierung einen Bericht vor, wie das Thema nachhaltige Entwicklung in den unterschiedlichen Bildungsbereichen untersetzt wird. Über fast 80 Seiten werden darin Projekte und Initiativen aller Bundesministerien und der Länder aufgezählt, und man könnte ob der Fülle schier beeindruckt sein. Die Bundesregierung scheint nach dem Motto zu arbeiten: Wer vieles bringt, wird manchem etwas bringen. Ich wage aber zu behaupten, dass die Fülle allein noch kein Ausweis für Qualität und schon gar nicht für Nachhaltigkeit ist.</p>
           <stage type="interjection">(Dr. Ernst Dieter Rossmann [SPD]: Das Gegenteil auch nicht!)</stage>
@@ -1514,18 +1514,18 @@
           <p>Nachhaltig sein heißt nämlich, dass etwas für lange Zeit hält oder bleibt. So beschreibt es Wikipedia. Nachhaltig ist im deutschen Bildungssystem aber vor allem die Ungerechtigkeit beim Zugang zu Bildung, und das hat nachhaltige Folgen für Berufsperspektiven und persönliches Wohlergehen. Das hat uns der jüngste OECD-Bericht zum wiederholten Male unter die Nase gerieben. Das ist nichts Neues. Darum sind Fragen des Bildungszugangs und des Bildungserfolgs Nachhaltigkeitsfragen. Ich verstehe nicht, warum immer noch über 100 000 Schülerinnen und Schüler mit Hauptschulabschluss jedes Jahr im Übergangssystem geparkt werden, wenn wir landauf, landab über einen Fachkräftemangel klagen.</p>
           <p>Das Bundesministerium der Verteidigung hatte es im Übrigen wirklich schwer, etwas zum Bericht beizusteuern. In den 45 mageren Zeilen kommt das Wort „Umweltschutz“ genau achtmal vor. Das sollte man loben. Entschuldigung, aber ich kann an dieser Stelle nur sarkastisch sein. In meinem Bundesland baut die Bundeswehr gerade in der einzigartigen Colbitz-Letzlinger Heide eine Geisterstadt mit U-Bahn für die Ausbildung zu Kriegseinsätzen. Das hat doch nichts mit Umweltschutz zu tun. Wenn dann noch in den Schulen für den Dienst in der Bundeswehr geworben wird, ist das keine Bildung für eine nachhaltige Entwicklung. Diese Kritik muss an dieser Stelle sein.</p>
           <p>Doch es werden in dem Bericht auch sehr viele interessante Initiativen genannt, die verstetigt werden sollten. Aber wie das geschehen soll, darüber liest man nichts. Auch aus der Rede des Staatssekretärs haben wir nichts erfahren können. Vielleicht hofft die Bundesregierung auf Erleuchtung auf der Abschlusskonferenz in der kommenden Woche in Bonn, oder Frau Ministerin bringt Ideen aus Japan mit. Auch das könnte sein. Vielleicht nehmen Sie auch die nachdenklichen Töne aus einigen Ländern auf, wie die vom Kultusministerium aus Sachsen-Anhalt, das das „inflationäre Nebeneinander von Themen“ – das war ein Zitat – kritisierte.</p>
-          <p>Vielleicht lesen Sie auch noch einmal nach, was der Beauftragte der Bundesregierung für Menschen mit Behinderungen geschrieben hat, nämlich dass der – Zitat – „Erwerb von eigenverantwortlichen und nachhaltigen Handlungsoptionen … nicht in einem separierenden und ausgrenzenden Bildungs-, Ausbildungs- und Arbeitssystem gelingen“ wird. </p>
+          <p>Vielleicht lesen Sie auch noch einmal nach, was der Beauftragte der Bundesregierung für Menschen mit Behinderungen geschrieben hat, nämlich dass der – Zitat – „Erwerb von eigenverantwortlichen und nachhaltigen Handlungsoptionen … nicht in einem separierenden und ausgrenzenden Bildungs-, Ausbildungs- und Arbeitssystem gelingen“ wird.</p>
           <p>Und vielleicht verbinden Sie das auch mit der im Bericht zu lesenden Einsicht, dass Nachhaltigkeit schon bei der Planung von Schulgebäuden, bei der Rhythmisierung des Schulalltags und bei der Bereitstellung eines gesunden Schulfrühstücks und Schulmittagessens beginnt und ebenso notwendig ist wie soziales Lernen, demokratische Beteiligung und Bildungsthemen wie Energiewende, nachhaltige Lebensweise, Mobilität und biologische Vielfalt.</p>
           <p>Da haben wir ein gewaltiges Arbeitspensum, und die Bundesregierung kann sich da nicht herausreden mit dem Verweis auf Länderzuständigkeiten und auch nicht mit dem Hinweis darauf, dass man die Finanzierung des BAföG jetzt komplett übernimmt.</p>
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächste Rednerin ist Saskia Esken, SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Saskia Esken" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Saskia Esken">
+        <sp who="Saskia Esken" parliamentary_group="SPD" role="mp" position="NA" who_original="Saskia Esken" party="SPD" name="Saskia Esken">
           <speaker>Saskia Esken (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Sehr geehrte Damen und Herren!</p>
           <p>Planst du für ein Jahr, so säe Korn, planst du für ein Jahrzehnt, so pflanze Bäume, planst du für ein Leben, so bilde Menschen.</p>
@@ -1541,7 +1541,7 @@
           <stage type="interjection">(Beifall bei der SPD – Zustimmung der Abg. Katrin Albsteiger [CDU/CSU])</stage>
           <p>In Deutschland ist es deshalb an der Zeit, die sehr guten Ansätze, die heute schon in vielen Bildungseinrichtungen für die Verankerung der Nachhaltigkeit in der Gesellschaft sorgen, zu verstärken und zu verstetigen.</p>
           <p>Wie das aussehen könnte, zeigt sich derzeit in Baden-Württemberg bei der Entwicklung eines neuen Bildungsplans. „Bildung für nachhaltige Entwicklung“ wird eines der fünf Leitprinzipien darstellen, also über alle Fächer hinweg Basis der Erziehung und Bildung sein. Vergleichbare Schritte wurden auch in anderen Bundesländern vollzogen, sodass wir sagen können: Ein Anfang ist gemacht.</p>
-          <p>Sehr geehrte Damen und Herren, auch wenn die zu Ende gehende UN-Dekade eine globale Verantwortung für die Bildung für nachhaltige Entwicklung nahelegt, haben wir in den Industriestaaten doch eine ganz besondere Rolle zu spielen. Viele Jahrzehnte haben wir den Wohlstand unserer Hemisphäre aufgebaut, ohne Rücksicht auf den Ressourcenverbrauch, auf die Umwelt oder auf die sozialen und kulturellen Lebensbedingungen der Menschen in aller Welt. </p>
+          <p>Sehr geehrte Damen und Herren, auch wenn die zu Ende gehende UN-Dekade eine globale Verantwortung für die Bildung für nachhaltige Entwicklung nahelegt, haben wir in den Industriestaaten doch eine ganz besondere Rolle zu spielen. Viele Jahrzehnte haben wir den Wohlstand unserer Hemisphäre aufgebaut, ohne Rücksicht auf den Ressourcenverbrauch, auf die Umwelt oder auf die sozialen und kulturellen Lebensbedingungen der Menschen in aller Welt.</p>
           <p>Auch heute noch verbraucht Deutschland ein Vielfaches der Ressourcen, die uns, global betrachtet, zustehen würden. Wir selbst spüren die Folgen dieses Raubbaus kaum, doch die Menschen in den Entwicklungsländern leiden darunter. Hier fehlt das saubere Trinkwasser. Hier fehlt das Getreide, das wir für die Fleischerzeugung verbrauchen. Und hier fehlt das Geld, um sich gegen die Veränderung des Klimas zu schützen. Seien wir ehrlich: Diese Welt würde nicht mehr lange existieren, wenn sich alle nach der Art der Industrieländer entwickeln würden.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Als Bildungspolitikerin möchte ich es nicht versäumen, darauf zu verweisen, dass zu einer nachhaltigen Entwicklung auch eine nachhaltige Bildung selbst, also eine Nachhaltigkeit der Bildung, gehört. Dabei geht es immer weniger um die Vermittlung eines Wissens-kanons. Angesichts einer Wissensgesellschaft im Wandel ist es notwendig, dass junge Menschen zukunftsfähige Kompetenzen entwickeln können und dazu befähigt und motiviert werden, ein Leben lang weiter zu lernen. Das sogenannte Bulimie-Lernen, also die Aneignung von Stoff ausschließlich für eine Prüfung, muss endlich der Vergangenheit angehören; denn das ist das Gegenteil von Nachhaltigkeit.</p>
@@ -1550,11 +1550,11 @@
           <p>Ich danke Ihnen für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächste Rednerin ist die Kollegin Beate Walter-Rosenheimer, Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Beate Walter-Rosenheimer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Beate Walter-Rosenheimer">
+        <sp who="Beate Walter-Rosenheimer" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Beate Walter-Rosenheimer" party="GRUENE" name="Beate Walter-Rosenheimer">
           <speaker>Beate Walter-Rosenheimer (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Sehr geehrte Damen und Herren! Liebe Kolleginnen und Kollegen!</p>
           <p>Wir haben die Erde von unseren Kindern nur geborgt.</p>
@@ -1578,17 +1578,17 @@
           <p>Damit BNE wirklich gestärkt wird, braucht es verbindliche Strukturen für mehr Planungssicherheit und natürlich ausreichende Finanzmittel, um diese Strukturen zu schaffen. Für meine Fraktion ist klar: Das Kooperationsverbot stand der Bundesunterstützung für diese Strukturen, für die flächendeckende strukturelle Umsetzung im Weg.</p>
           <p>Von Bundesland zu Bundesland unterscheidet es sich sehr stark, wie sehr Bildungseinrichtungen den Fokus auf Nachhaltigkeit richten. Wir stehen also immer noch vor großen Herausforderungen. Im November 2014 – wir haben es schon gehört – soll mit dem Weltaktionsprogramm der UNESCO ein neuer Anstoß für Bildung für nachhaltige Entwicklung gegeben werden. Wir Grünen hoffen, dass die Bundesregierung aus den Problemen in der Umsetzung des Bildungskonzepts ihre Lehren zieht und das Weltaktionsprogramm in Deutschland besser unterstützt.</p>
           <p>An dieser Stelle will ich Sie an die Zusagen aus 2013 erinnern und hoffe umso mehr, dass sie auch für die aktuelle Bundesregierung gelten. 2013 versprach Bundesministerin Wanka, dass weiterhin Geld und Ideen in diesen Bereich fließen werden. Gerade jetzt, vor dem Hintergrund der Haushaltsberatungen, darf ich vielleicht daran erinnern, dass damals in einer Regierungsbefragung ein Aufwuchs an Mitteln für BNE in Aussicht gestellt wurde.</p>
-          <p>Ich freue mich darauf, gemeinsam mit Ihnen die Verankerung von Bildung für nachhaltige Entwicklung in Deutschland weiter voranzutreiben. Denn, wie die Deutsche UNESCO-Kommission es beschreibt, BNE lehrt Menschen, vor allem Kinder und Jugendliche: Mein Handeln hat Konsequenzen – nicht nur für mich und mein Umfeld, sondern auch für andere. Ich kann etwas tun, um die Welt ein Stück zu verbessern. </p>
+          <p>Ich freue mich darauf, gemeinsam mit Ihnen die Verankerung von Bildung für nachhaltige Entwicklung in Deutschland weiter voranzutreiben. Denn, wie die Deutsche UNESCO-Kommission es beschreibt, BNE lehrt Menschen, vor allem Kinder und Jugendliche: Mein Handeln hat Konsequenzen – nicht nur für mich und mein Umfeld, sondern auch für andere. Ich kann etwas tun, um die Welt ein Stück zu verbessern.</p>
           <p>Gemäß dem aktuellen Jahresthema der UN-Dekade in Deutschland sage ich: Lassen Sie uns Brücken in die Zukunft bauen und uns weiter gemeinsam für einen lebenswerten Planeten für nachkommende Generationen einsetzen. Denn wir brauchen Kompetenzen in diesem Land. Dies sind vorausschauendes Denken, interdisziplinäres Wissen, autonomes Handeln und Partizipation an gesellschaftlichen Entscheidungsprozessen.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Als nächste Rednerin hat die Kollegin Dr. Claudia Lücking-Michel das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Claudia Lücking-Michel" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Claudia Lücking-Michel">
+        <sp who="Claudia Lücking-Michel" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Claudia Lücking-Michel" party="CDU" name="Claudia Lücking-Michel">
           <speaker>Dr. Claudia Lücking-Michel (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Liebe Kolleginnen und Kollegen! Freitagnachmittag, vorletzter Tagesordnungspunkt, und ein Blick auf die Uhr zeigt: Wir haben schon lange nicht mehr fünf vor, sondern weit nach zwölf. Jetzt reden wir über das Thema Nachhaltigkeit, und es ist wichtiger als je zuvor.</p>
           <p>Das galt schon 1992 bei der UNO-Konferenz. Zum Glück können wir sagen: Seitdem ist viel passiert; aber – darin sind wir uns heute Nachmittag offensichtlich einig – viel bleibt auch noch zu tun. Entscheidend auf dem langen Weg war die Erkenntnis, dass es um Bildung für nachhaltige Entwicklung gehen muss, dass man an dieser Stelle den Hebel ansetzen muss.</p>
@@ -1613,12 +1613,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Als nächster Redner spricht Oliver Kaczmarek.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Oliver Kaczmarek" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Oliver Kaczmarek">
+        <sp who="Oliver Kaczmarek" parliamentary_group="SPD" role="mp" position="NA" who_original="Oliver Kaczmarek" party="SPD" name="Oliver Kaczmarek">
           <speaker>Oliver Kaczmarek (SPD):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Liebe Kolleginnen und Kollegen! Ich möchte vier Anmerkungen zu Impulsen politischer, insbesondere bildungspolitischer Art machen, die ich der Dekade „Bildung für nachhaltige Entwicklung“ entnehmen kann.</p>
           <p>Erste Anmerkung. Vorbildliche Bildungsinitiativen – Herr Staatssekretär Müller hat schon darauf hingewiesen – sind als Dekade-Projekte und Dekade-Maßnahmen ausgezeichnet worden, und es sind Dekade-Kommunen ausgezeichnet worden. Sie alle, im Übrigen auch die, die nicht ausgezeichnet wurden, spiegeln den Reichtum des bürgerschaftlichen Engagements in dem Themenfeld der Bildung für nachhaltige Entwicklung wider. Sie haben dazu beigetragen, dass das Anliegen der nachhaltigen Entwicklung nicht in der Theorie verbleibt – ich erinnere hier insbesondere an die Naturschutzverbände –, sondern konkret im Alltag erfahrbar wird. Deswegen stelle ich an den Anfang den Dank für das ehrenamtliche Engagement in diesem Bereich.</p>
@@ -1638,12 +1638,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Als letzter Redner in dieser Debatte hat der Kollege Matern von Marschall das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Matern von Marschall" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Matern von Marschall">
+        <sp who="Matern von Marschall" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Matern von Marschall" party="CDU" name="Matern von Marschall von Bieberstein">
           <speaker>Matern von Marschall (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Ich freue mich, dass ich als Mitglied im Parlamentarischen Beirat für nachhaltige Entwicklung diese Debatte heute abschließen darf.</p>
           <p>Ich möchte, vielleicht durchaus im Einklang mit den Kolleginnen und Kollegen anderer Fraktionen, sagen: Wir sind auf einem guten Weg. Es gibt eine Fülle von Einzelinitiativen. Aber wir sind tatsächlich noch weit davon entfernt, nachhaltige Bildung – bis hinunter in die Länder und Kommunen – systematisch zu etablieren. Das wird eine Aufgabe für die Zukunft sein.</p>
@@ -1662,7 +1662,7 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU, der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird die Überweisung auf Drucksache 17/14325 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? – Das ist der Fall. Damit ist die Überweisung so beschlossen.</p>
@@ -1675,14 +1675,14 @@
           <p>Drucksachen 18/1328, 18/1916</p>
           <p>c) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für wirtschaftliche Zusammenarbeit und Entwicklung (19. Ausschuss) zu dem Antrag der Abgeordneten Heike Hänsel, Niema Movassat, Wolfgang Gehrcke, weiterer Abgeordneter und der Fraktion DIE LINKE</p>
           <p>Verhandlungen über die Wirtschaftspartnerschaftsabkommen – Neustart ohne Drohungen und Fristen</p>
-          <p>Drucksachen 18/1615, 18/2073 </p>
+          <p>Drucksachen 18/1615, 18/2073</p>
           <p>Nach einer interfraktionellen Vereinbarung sind für die Aussprache 38 Minuten vorgesehen. – Ich höre keinen Widerspruch. Das ist dann so beschlossen.</p>
           <p>Damit eröffne ich die Aussprache und erteile als erster Rednerin Heike Hänsel das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
       </div>
       <div type="agenda_item" n="6" what="debate" desc="a) Beratung des Antrags der Abgeordneten Heike Hänsel, Niema Movassat, Wolfgang ...">
-        <sp who="Heike Hänsel" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Heike Hänsel">
+        <sp who="Heike Hänsel" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Heike Hänsel" party="DIE LINKE" name="Heike Hänsel">
           <speaker>Heike Hänsel (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Wir besprechen heute als letzten Tagesordnungspunkt dieser Woche die großen Zukunftsfragen der Welt und damit eigentlich die wichtigsten Fragen – leider ganz am Ende der Sitzungswoche. Es geht um globale Ziele, die sich die Weltgemeinschaft ab 2015 gemeinsam stecken will, die sogenannten nachhaltigen Entwicklungsziele, auf Englisch: Sustainable Development Goals, allgemein abgekürzt als SDGs. Das sage ich für die Gäste, weil ich mir sicher bin, dass viele noch nicht davon gehört haben.</p>
           <p>Ein erster Entwurf dieser Ziele wurde im Rahmen der UN-Generalversammlung vorgestellt, die zurzeit tagt. Es geht um 17 nachhaltige Entwicklungsziele. Ganz oben steht natürlich das Ziel, die Armut zu überwinden. Wir müssen die weltweiten Ressourcen schonen, den Klimaschutz vorantreiben und die weltweite Ungleichheit bekämpfen. Es geht um Zielvorgaben, die für die Länder des Südens, aber genauso für die Industrieländer gelten sollen.</p>
@@ -1706,12 +1706,12 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Als nächster Redner spricht Tobias Zech.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Tobias Zech" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Tobias Zech">
+        <sp who="Tobias Zech" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Tobias Zech" party="CSU" name="Tobias Zech">
           <speaker>Tobias Zech (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Kon-struktive Kritik ist gut. Sie bewirkt nämlich, dass man sich mit einer Problemstellung intensiv befasst, Vor- und Nachteile untersucht und Lösungsansätze findet. Im Prozess, der sich mit den Millenniumentwicklungszielen befasst, wird genau das gemacht.</p>
           <p>Blicken wir zurück: Bei dem Treffen im Jahr 2000 konnten sich hochrangige Vertreter von 189 Ländern auf acht internationale Entwicklungsziele einigen. Das ist ein erster Erfolg, wenn man überlegt, wie divers die Staatenwelt ist. Die Einfachheit, die Praktikabilität und die Fokussierung des Katalogs machte es den Staats- und Regierungschefs möglich, sich mit den entsprechenden Themen auseinanderzusetzen. Heute, kurz vor Ablauf der Frist, können wir einige Erfolge verzeichnen: Der Anteil der in absoluter Armut lebenden Menschen an der Weltbevölkerung hat sich halbiert. Nur noch 14,9 Prozent statt 23,2 Prozent der Menschen sind unterernährt. Wir konnten den Anteil der Müttersterblichkeit radikal senken. Immer mehr Kinder haben die Möglichkeit, eine ordentliche Grundschulausbildung zu erhalten. – Trotz dieser beachtlichen Erfolge bestehen weiterhin zahlreiche Herausforderungen. Die MDGs werden bis 2015 nicht erfüllt sein.</p>
@@ -1752,11 +1752,11 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Als nächster Redner spricht Uwe Kekeritz.</p>
         </sp>
-        <sp who="Uwe Kekeritz" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Uwe Kekeritz">
+        <sp who="Uwe Kekeritz" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Uwe Kekeritz" party="GRUENE" name="Uwe Kekeritz">
           <speaker>Uwe Kekeritz (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Werte Kolleginnen und Kollegen! Herr Zech, Franz Josef Strauß konnte das definitiv besser. In der Rhetorik hat er ganz oft eines gemacht: Er hat sich selbst ganz dumme Argumente zusammengebastelt, dann hat er sie dem politischen Gegner zugeordnet, und dann war die Widerlegung dieses Arguments einfach souverän.</p>
           <stage type="interjection">(Tobias Zech [CDU/CSU]: Haben Sie denn den Antrag gelesen, Herr Kekeritz?)</stage>
@@ -1767,7 +1767,7 @@
           <p>Frau Hänsel hat schon sehr viel zum Thema SDG gesagt. Wir haben hier ein ganz gravierendes Problem. Die Industrienationen haben nicht kapiert, dass die SDGs selbstverständlich auch für sie selbst gelten, also auch für Deutschland. Wenn sich die ökonomisch starken -Nationen nicht endlich wesentlich engagierter für eine nachhaltige, sozial gerechte und friedenspolitisch ausgleichende Entwicklung einsetzen, werden wir weiter dazu beitragen, Armut in der Welt zu verbreiten, Länder zu destabilisieren, das Klima zu schädigen und Kriege zu fördern. Darum lautet meine Frage an die gesamte Regierung, aber insbesondere an das Entwicklungsministerium: Wann fängt das Entwicklungsministerium endlich an, die Öffentlichkeit über diesen Prozess zu informieren? Wir brauchen eine breite Beteiligung; sonst wird das nichts. Mein Eindruck ist, dass Sie das Thema am liebsten totschweigen würden. Irgendwann ist das Jahr 2015 vorbei, und dann schläft alles ein.</p>
           <p>Wir müssen hier in Europa, in Deutschland unsere Verhältnisse ändern, um die Lage der Menschen in den Entwicklungsländern zu verbessern. Wir leben hier nicht auf einer Insel. Es geht ums Ganze: Es geht um den Globus, und es geht darum, global zu denken. Sie glauben es nicht: Es geht auch darum, endlich konsequent national zu handeln.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
-          <p>Wir brauchen eine andere Landwirtschafts- und Klimapolitik, eine ehrliche Menschenrechts- und Friedenspolitik sowie neue globale Finanzstrukturen. Wir brauchen natürlich auch eine bewusste und fortschrittliche Energiepolitik, deren Ziel nicht sein darf, die Entwicklung der erneuerbaren Energien zu bremsen. Darauf sind Sie spezialisiert. Wir brauchen aber auch eine ganz andere Handelspolitik; denn unsere Handelspolitik behindert schon seit vielen Jahren die Entwicklung von Entwicklungsländern. Das gilt in einem ganz besonderen Maße natürlich auch für die EPAs, die Abkommen zwischen Europa und den afrikanischen Ländern. </p>
+          <p>Wir brauchen eine andere Landwirtschafts- und Klimapolitik, eine ehrliche Menschenrechts- und Friedenspolitik sowie neue globale Finanzstrukturen. Wir brauchen natürlich auch eine bewusste und fortschrittliche Energiepolitik, deren Ziel nicht sein darf, die Entwicklung der erneuerbaren Energien zu bremsen. Darauf sind Sie spezialisiert. Wir brauchen aber auch eine ganz andere Handelspolitik; denn unsere Handelspolitik behindert schon seit vielen Jahren die Entwicklung von Entwicklungsländern. Das gilt in einem ganz besonderen Maße natürlich auch für die EPAs, die Abkommen zwischen Europa und den afrikanischen Ländern.</p>
           <p>Früher ist Europa noch davon ausgegangen, dass man den afrikanischen Ländern einen begünstigten Zugang zum europäischen Markt gewähren muss. Man sagte damals: Das hilft ihnen bei ihrer Entwicklung. Diese Überzeugung hat Europa verloren. Man sagt jetzt: Diese Privilegien sollen nur noch die allerärmsten Länder haben. Die bereits entwickelten Länder – auch die nur ein bisschen entwickelten Länder – sollen sie nicht mehr haben. Für die EU bleibt alles beim Alten; für die Entwicklungsländer in Afrika soll sich allerdings vieles ändern.</p>
           <stage type="interjection">(Sibylle Pfeiffer [CDU/CSU]: Wird ja auch Zeit!)</stage>
           <p>Sie sollen vor allen Dingen auf Import- und Exportsteuern verzichten. Der Markt soll liberalisiert und weitgehend privatisiert werden, und er soll sich für unsere Industrieprodukte völlig öffnen. Die afrikanischen Länder haben sich zu Recht, wie Frau Hänsel ausgeführt hat, zwölf Jahre lang dagegen gewehrt. Stärke hat auch diesen Widerstand gebrochen. Die Position der EU war: Entweder ihr unterschreibt, oder ihr verliert eure Privilegien auf dem europäischen Markt. – Das ist nichts anderes als knallharte Erpressung.</p>
@@ -1783,23 +1783,23 @@
           <p>Das ist nicht haltbar.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Lieber Herr Kollege, da Sie auf das Warnlicht nicht reagieren, muss ich Sie ermahnen, zum Schluss zu kommen.</p>
           <stage type="interjection">(Sibylle Pfeiffer [CDU/CSU]: Das reicht auch!)</stage>
         </sp>
-        <sp who="Uwe Kekeritz" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Uwe Kekeritz">
+        <sp who="Uwe Kekeritz" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Uwe Kekeritz" party="GRUENE" name="Uwe Kekeritz">
           <speaker>Uwe Kekeritz (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ich bin gleich am Schluss. – Wir stellen uns deswegen ganz konkret gegen die EPAs und fordern von der EU, dass diese Verhandlungen gestoppt werden. Das ist der Auftrag an die deutsche Regierung, sich dafür einzusetzen.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Als nächste Rednerin spricht Dr. Bärbel Kofler.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Bärbel Kofler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Bärbel Kofler">
+        <sp who="Bärbel Kofler" parliamentary_group="SPD" role="mp" position="NA" who_original="Bärbel Kofler" party="SPD" name="Bärbel Kofler">
           <speaker>Dr. Bärbel Kofler (SPD):</speaker>
           <p>Frau Präsidentin! Verehrte Kolleginnen und Kollegen! Wir debattieren heute zwei Themen von großer Bedeutung; das ist schon angesprochen worden. Ich möchte mich den Worten der ersten Rednerin anschließen: Beide Themen wären es wert, ausführlicher debattiert zu werden und dafür mehr Raum in diesem Haus und vielleicht auch eine andere Zeit zu finden.</p>
           <stage type="interjection">(Beifall bei der SPD und der LINKEN sowie bei Abgeordneten der CDU/CSU und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -1817,7 +1817,7 @@
           <p>Wir werden uns im Rahmen der SDGs auch mit der Unterschiedlichkeit der Nationen beschäftigen müssen; das ist wichtig, um alle Länder ins Boot zu holen. Das Ziel 10 schlägt vor, sich mit dem Thema „Ungleichheit zwischen den Ländern“ auseinanderzusetzen. Das hat auch viel mit Fragen der Sicherheit und des Friedens zu tun. Auf der einen Seite geht es darum, wie man bei fragilen Staaten überhaupt Staatlichkeit aufbauen, zivile Prozesse fördern, Verwaltungen aufbauen und zu einem Mindestmaß an Sicherheit beitragen kann, zum Beispiel im Sinne von Polizeiaufbau, aber auch im Sinne von Korruptionsbekämpfung, wenn es um die Frage der Gehälter von Sicherheitskräften geht. Auf der anderen Seite müssen wir unser Verhalten anschauen und uns fragen: Wofür sind wir denn verantwortlich? Das Stichwort „Klima“ ist an der Stelle sicher ein ganz entscheidender Punkt. Welche gewachsene historische Verantwortung haben wir für die Länder des Südens? Diese können für viele Veränderungen schlicht nichts. Dafür sind wir verantwortlich.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
           <p>Besonders wichtig bei diesem Ziel, die Ungleichheit zwischen den Ländern zu verringern, finde ich einen Unterpunkt, den wir uns einmal genau anschauen müssen. Da geht es um die Regulierung der Finanzmärkte, ein ganz spannendes Thema. Wie bekommt man Zugang zu vernünftigem Kapital, um Investitionen voranzubringen? Wie verhindert man das, was wir in den letzten Jahren mit einer Krise nach der anderen erlebt haben? Das hat sich ja besonders auf die Entwicklungsländer ausgewirkt. Machen wir uns nichts vor! Für diese Länder ist die Möglichkeit, sich zu refinanzieren, massiv zurückgegangen. Das sind doch ganz entscheidende Punkte, die hier zu diskutieren sind. Dafür müssen wir in der Weltgemeinschaft um Verbündete werben. Darum geht es, glaube ich, in dem Prozess im nächsten Jahr, in dem wir einiges voranbringen wollen.</p>
-          <p>Im November wird der sogenannte Synthesebericht der UN erscheinen, in dem die Zielvorgaben, die ich gerade angesprochen habe, mit den Finanzfragen – dazu hat sich auch eine Expertengruppe gebildet – in einem Bericht zusammengeführt werden. Auf der Basis dieses Berichts werden wir gemeinsam einen Antrag formulieren, der einen Beitrag dazu leisten soll, klare politische Vorgaben zu machen, was die deutsche Regierung unserer Ansicht nach in diesem Prozess tun soll. </p>
+          <p>Im November wird der sogenannte Synthesebericht der UN erscheinen, in dem die Zielvorgaben, die ich gerade angesprochen habe, mit den Finanzfragen – dazu hat sich auch eine Expertengruppe gebildet – in einem Bericht zusammengeführt werden. Auf der Basis dieses Berichts werden wir gemeinsam einen Antrag formulieren, der einen Beitrag dazu leisten soll, klare politische Vorgaben zu machen, was die deutsche Regierung unserer Ansicht nach in diesem Prozess tun soll.</p>
           <p>Ich möchte noch etwas sagen. Ich erkenne in dem Antrag der Linken viele überlegenswerte und spannende Forderungen. Aber es geht um den SDG-Prozess und – mit Verlaub – nicht um ein Ich-wünsch-mir-was-Konzert. Auch ich kann mir viele Dinge vorstellen, die Sie angesprochen haben und die richtig und gut sind. Aber in diesen ohnehin schon schwierigen Prozess auch noch die Forderung nach einer Reform der UN und anderer Institutionen zu integrieren, überfrachtet diesen Prozess; es tut mir wirklich leid, das so zu sagen.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
           <p>Ich sehe, ich muss zum Ende meiner Rede kommen. – Es fehlt bei diesem Prozess einiges. Es geht um Umsetzungspläne. Es geht um Überprüfungsmechanismen. Es geht auch um die Finanzierungsfrage. Es geht um den Beitrag der Gebernationen, aber auch um die Fragen „Kapitalflucht verhindern“ und „Steueroasen austrocknen“, um die Frage „Aufbau eines funktionierenden Steuersystems“, damit die Länder des Südens eine Chance haben, sich nicht nur über Zölle zu finanzieren, sondern über reale Steuereinnahmen. Damit schließt sich der Kreis zum Thema EPAs, das ich durchaus kritisch sehe und bei dem ich viele kritische Punkte in dem vorgelegten Antrag nachvollziehen kann.</p>
@@ -1825,11 +1825,11 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Als nächster Redner spricht Frank Heinrich.</p>
         </sp>
-        <sp who="Frank Heinrich" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Frank Heinrich">
+        <sp who="Frank Heinrich (Chemnitz)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Frank Heinrich (Chemnitz)" party="CDU" name="Frank Heinrich">
           <speaker>Frank Heinrich (Chemnitz) (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Sehr geehrte Damen und Herren! Am Anfang ein Dank an die Opposition für die Anträge, in diesem Fall für das zweite Thema, das wir hier diskutieren. Ein Dank für das erste Thema ist hier schon ausgesprochen worden.</p>
           <p>Es wird hier viel von Abkürzungen die Rede sein: von den SDGs und den MDGs. Sie, das Publikum, müssen sich wundern, was wir hier alles behandeln. Vorher ging es um die Millennium Development Goals, jetzt aber geht es um die EPAs und die WPAs, das eine ist der deutsche, das andere der englische Begriff für Wirtschaftspartnerschaftsabkommen.</p>
@@ -1837,7 +1837,7 @@
           <stage type="interjection">(Dr. André Hahn [DIE LINKE]: Nein! -Niemals!)</stage>
           <p>Wenn in dem Antrag nicht nur in der Überschrift von Drohungen und Fristen die Rede ist – ich verstehe Ihr Anliegen –, sondern auch im Text selber laufend „es droht“, „es ist zu befürchten“ und „große Gefahr“ zu lesen ist, dann fällt es mir schwer, Ihnen zu glauben.</p>
           <p>Es geht uns genauso wie Ihnen – diese Zusammenarbeit soll schließlich eine Zukunft haben – darum, Inhalte zu teilen, zum Beispiel nachhaltige Entwicklung, die Beteiligung von Zivilgesellschaften, gerechte Handelsregeln, die Exportdumping verhindern und gleichzeitig Produkten aus Entwicklungsländern faire Absatzchancen gewähren, industrielle Wertschöpfung – man muss ehrlich sein: das muss am Schluss möglich sein, da wie hier –, regionale Integration – all das haben Sie in dem Antrag beziffert –, einen Überwachungsmechanismus zu den Auswirkungen dieser WPAs und – da bin ich Menschenrechtler, nicht nur in diesem Ausschuss – eine kontinuierliche Beobachtung der Einhaltung der Menschenrechte, die davon betroffen sind. Da haben wir garantiert noch eine Menge Arbeit vor uns. Ich denke, da sind wir uns einig.</p>
-          <p>Das ist, wie gerade genannt, auch in anderen Anträgen in diesem Umfeld und in dem Antrag, den Frau Kofler angekündigt hat, zu lesen. Diese Punkte stehen als solches nicht zur Debatte, aber diese Werte sind uns genauso wichtig wie Ihnen. Sie befürchten aber, dass sie abhandenkommen könnten. Für diese Werte setzt sich zum Beispiel auch die Bundesregierung ein. Vorgestern war in einem Drahtbericht der AKP-Ratsarbeitsgruppe – das ist wieder eine Abkürzung; es geht dabei um Staaten in Afrika, der Karibik und dem Pazifik  – einmal mehr nachzulesen: Die Auseinandersetzung um diese Partnerschaftsabkommen ist eine Auseinandersetzung um die wirtschaftspolitische Ordnung weltweit.</p>
+          <p>Das ist, wie gerade genannt, auch in anderen Anträgen in diesem Umfeld und in dem Antrag, den Frau Kofler angekündigt hat, zu lesen. Diese Punkte stehen als solches nicht zur Debatte, aber diese Werte sind uns genauso wichtig wie Ihnen. Sie befürchten aber, dass sie abhandenkommen könnten. Für diese Werte setzt sich zum Beispiel auch die Bundesregierung ein. Vorgestern war in einem Drahtbericht der AKP-Ratsarbeitsgruppe – das ist wieder eine Abkürzung; es geht dabei um Staaten in Afrika, der Karibik und dem Pazifik – einmal mehr nachzulesen: Die Auseinandersetzung um diese Partnerschaftsabkommen ist eine Auseinandersetzung um die wirtschaftspolitische Ordnung weltweit.</p>
           <p>Was wollen wir denn? Möglicherweise stehen heute noch mehr Fragen als Antworten im Raum. Wollen wir partnerschaftliche Zusammenarbeit oder Bevormundung, die Sie immer relativ schnell dahinter vermuten? Wollen wir freien Handel in einem rechtssicheren Kontext oder Protektionismus, wie es ihn früher gab? Müssen wir die Kleinen, wie es oft heißt, vor den Großen schützen?</p>
           <p>Im Antrag von Linken und Grünen heißt es – ich zitiere –:</p>
           <p>Die EU war … zu einigen Zugeständnissen hinsichtlich der Importzölle und Exportsteuern bereit … Sehr gut.</p>
@@ -1845,11 +1845,11 @@
           <p>Die betroffenen Middle-Income Countries haben es in den letzten Jahren geschafft, dort hinzukommen, wo sie jetzt sind. Ihnen jetzt zu unterstellen, dass das alles verloren geht, und sie wieder ein Stück zu entmündigen, nur weil wir sie auf einmal ernster nehmen als vorher – denn darum geht es –, halte ich für falsch.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Herr Kollege Heinrich, lassen Sie eine Zwischenfrage von Frau Hänsel zu?</p>
         </sp>
-        <sp who="Frank Heinrich" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Frank Heinrich">
+        <sp who="Frank Heinrich (Chemnitz)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Frank Heinrich (Chemnitz)" party="CDU" name="Frank Heinrich">
           <speaker>Frank Heinrich (Chemnitz) (CDU/CSU):</speaker>
           <p>Im Moment nicht, vielleicht später. Ich möchte noch diesen Gedanken zu Ende führen. – Das sind nämlich die gleichen Ängste, die Sie vorhin ganz moderat angekündigt haben, wie zum Beispiel TTIP gegenüber, häufig aus der Feder von Kritikern des sogenannten Neoliberalismus und der Globalisierung im Allgemeinen.</p>
           <stage type="interjection">(Sibylle Pfeiffer [CDU/CSU]: Die keine -Ahnung haben!)</stage>
@@ -1866,32 +1866,32 @@
           <p>Ich danke Ihnen für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Bevor ich dem Kollegen Sascha Raabe das Wort gebe, erhält die Kollegin Hänsel die Gelegenheit zu einer Kurzintervention.</p>
           <stage type="interjection">(Sibylle Pfeiffer [CDU/CSU]: Bitte kurz, weil die Züge gehen, Frau Kollegin!)</stage>
         </sp>
-        <sp who="Heike Hänsel" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Heike Hänsel">
+        <sp who="Heike Hänsel" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Heike Hänsel" party="DIE LINKE" name="Heike Hänsel">
           <speaker>Heike Hänsel (DIE LINKE):</speaker>
           <p>Danke, Frau Präsidentin. – Ich weiß, dass wir alle schnell nach Hause wollen. Deshalb fasse ich mich ganz kurz. Aber eine Sache kann ich nicht auf sich beruhen lassen, lieber Kollege Heinrich. Sie haben gesagt, es sei unsere Befürchtung, dass die heimischen Produkte in vielen Ländern mit den Importen aus der Europäischen Union nicht konkurrieren könnten. Erstens gibt es schon zahlreiche Erfahrungen in vielen westafrikanischen Staaten, die mit Produkten aus der Europäischen Union wie Hähnchenfleisch und Tomaten überschwemmt werden und sich mit einem Kleinbauernproblem konfrontiert sehen.</p>
           <p>Zweitens gibt es viele Briefe und Appelle gerade aus den westafrikanischen Staaten. Die dortigen Wirtschaftsverbände, Kirchen und Gewerkschaften schreiben uns Abgeordneten und an die Europäische Union und bitten darum, nicht so eine breite Liberalisierung zuzulassen. Diese Staaten, die sich gerade aus der Armut herausgekämpft und eigene Strukturen aufgebaut haben – vor allem geprägt durch Kleinunternehmen –, sollen nun in Konkurrenz zur übermächtigen Europäischen Union treten. Damit verhält es sich so, als ob Sie einen Porsche und ein Fahrrad nebeneinander stellen und sagen: Nun machen wir ein 100-Meter-Wettrennen. – Das sind keine gerechten Bedingungen. Haben Sie denn gar keinen Brief aus diesen Ländern gelesen und die Appelle aus den dortigen Zivilgesellschaften, dass wir so keinen Wettbewerb organisieren können, nicht wahrgenommen?</p>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Herr Kollege Heinrich.</p>
         </sp>
-        <sp who="Frank Heinrich" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Frank Heinrich">
+        <sp who="Frank Heinrich (Chemnitz)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Frank Heinrich (Chemnitz)" party="CDU" name="Frank Heinrich">
           <speaker>Frank Heinrich (Chemnitz) (CDU/CSU):</speaker>
           <p>Ich will die Antwort ganz kurz halten. Ich werde meine Rede nicht noch einmal halten, obwohl Sie, Frau Hänsel, zum großen Teil das wiederholt haben, was Sie vorhin in Ihrer Rede gesagt haben.</p>
           <p>Wir bewerten die Briefe, die wir bekommen, im Hinblick auf die Chancen, und zwar nicht nur im Hinblick auf die Chancen, die wir Europäer haben. Unsere Gewichtung liegt vielleicht bei etwa 60 zu 40. Ja, wir nehmen diese Briefe und Appelle wahr. Trotzdem kommen wir nach Abwägung von Risiken und Chancen zu einem anderen Ergebnis. Möglicherweise müssen wir je nach Land – ich nenne als Beispiel Kenia – unterschiedlich reagieren. Wir sehen jedenfalls in der Ablehnung Ihres Antrages eine ganz andere Bewertung.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Jetzt hat der Kollege Sascha Raabe das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Sascha Raabe" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Sascha Raabe">
+        <sp who="Sascha Raabe" parliamentary_group="SPD" role="mp" position="NA" who_original="Sascha Raabe" party="SPD" name="Sascha Raabe">
           <speaker>Dr. Sascha Raabe (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Kolleginnen und Kollegen! Es ist gut, dass wir in der heutigen Debatte über beide Aspekte diskutieren. Natürlich haben die SDGs sehr viel mit einem gerechten Handel zu tun. Es wird nur möglich sein, eines der übergeordneten Ziele der SDGs bis 2030 zu erreichen, nämlich Hunger und extreme Armut zu beseitigen, wenn die derzeit vorherrschenden Handelsbedingungen verändert werden, wenn die Industriestaaten nicht mehr mit Agrarexportdumping die Märkte in den Entwicklungsländern stören und – darauf hat Frau Kofler hingewiesen – wenn die Aktivitäten von mit Geldern der Entwicklungszusammenarbeit aufgebauten guten und fairen Handelsunternehmen beispielsweise im Blumenbereich nicht konterkariert werden. Wir müssen uns um eine gerechte Gestaltung der Globalisierung bemühen.</p>
           <p>Manche werden sich erinnern, dass die ersten EPAs vor über zehn Jahren diskutiert wurden. Sicherlich ist es diskussionswürdig, ob der Zeitplan – auch unter juristischen Aspekten – mit der WTO so aufgestellt werden musste. Auf jeden Fall war der erste Grundgedanke nicht so schlecht, mit den Wirtschaftspartnerschaftsabkommen den Süd-Süd-Handel zu befördern. Ich glaube, dagegen hat niemand etwas. Die afrikanischen Staaten müssen untereinander Zölle und Handelsschranken abbauen, um eigene große Wirtschaftsmärkte zu schaffen, sich nachhaltig zu entwickeln und für Wertschöpfung vor Ort zu sorgen. Wahr ist aber auch: Leider wurden viele Verhandlungen der Europäischen Union über Handelsabkommen von oben herab und intransparent geführt. Gerade die Parlamentarier der Partnerländer hatten oft keine Informationen. Aus diesen Gründen wollten viele Länder diese Abkommen bisher nicht abschließen. An dieser Stelle teilen wir als SPD-Fraktion die Kritik, die in dem Antrag der Linken und Grünen enthalten ist. Wir wollen nicht mit Eile etwas übers Knie brechen, sondern lieber nachverhandeln. Wir können uns Zeit lassen und die Kritikpunkte ausräumen. Da sind wir ganz auf Ihrer Seite.</p>
@@ -1903,7 +1903,7 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall im ganzen Hause)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Liebe Kolleginnen und Kollegen, damit sind wir am Schluss der Debatte und kommen zu den Abstimmungen.</p>
           <p>Zunächst kommen wir zur Abstimmung über den -Antrag der Fraktionen Die Linke und Bündnis 90/Die Grünen auf Drucksache 18/2603 mit dem Titel „Wirtschaftspartnerschaftsabkommen stoppen – Für neue Verhandlungen ohne Druck und Fristen“. Wer stimmt für diesen Antrag? – Die Linke und Bündnis 90/Die Grünen. Wer stimmt dagegen? – Die Koalitionsfraktionen. Enthaltungen? – Enthaltungen sehe ich keine. Damit ist der Antrag mit den Stimmen der Koalition abgelehnt worden.</p>
@@ -1913,6 +1913,308 @@
           <p>Ich wünsche Ihnen ein schönes Wochenende, hoffentlich mit etwas Erholung.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestags auf Mittwoch, den 8. Oktober 2014, 13 Uhr, ein.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluss: 15.19 Uhr)</stage>
+          <p>Anlagen zum Stenografischen Bericht</p>
+          <p>Anlage 1</p>
+          <p>Liste der entschuldigten Abgeordneten</p>
+          <p>Abgeordnete(r)</p>
+          <p>entschuldigt bis</p>
+          <p>einschließlich</p>
+          <p>van Aken, Jan</p>
+          <p>DIE LINKE</p>
+          <p>26.09.2014</p>
+          <p>Alpers, Agnes</p>
+          <p>DIE LINKE</p>
+          <p>26.09.2014</p>
+          <p>Andreae, Kerstin</p>
+          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>26.09.2014</p>
+          <p>Bär, Dorothee</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Beckmeyer, Uwe</p>
+          <p>SPD</p>
+          <p>26.09.2014</p>
+          <p>Dr. Braun, Helge</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Dağdelen, Sevim</p>
+          <p>DIE LINKE</p>
+          <p>26.09.2014</p>
+          <p>Dr. De Ridder, Daniela</p>
+          <p>SPD</p>
+          <p>26.09.2014</p>
+          <p>Dobrindt, Alexander</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Dött, Marie-Luise</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Dröge, Katharina</p>
+          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>26.09.2014</p>
+          <p>Flosbach, Klaus-Peter</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Dr. Freudenstein, Astrid</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Dr. Fuchs, Michael</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Fuchtel, Hans-Joachim</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Gastel, Matthias</p>
+          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>26.09.2014</p>
+          <p>Gohlke, Nicole</p>
+          <p>DIE LINKE</p>
+          <p>26.09.2014</p>
+          <p>Groth, Annette</p>
+          <p>DIE LINKE</p>
+          <p>26.09.2014</p>
+          <p>Hardt, Jürgen</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Hasselfeldt, Gerda</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Dr. Hendricks, Barbara</p>
+          <p>SPD</p>
+          <p>26.09.2014</p>
+          <p>Horb, Margaret</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Jung, Xaver</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Dr. Jüttner, Egon</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Korte, Jan</p>
+          <p>DIE LINKE</p>
+          <p>26.09.2014</p>
+          <p>Krellmann, Jutta</p>
+          <p>DIE LINKE</p>
+          <p>26.09.2014</p>
+          <p>Kühn (Dresden), Stephan</p>
+          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>26.09.2014</p>
+          <p>Kühn (Tübingen), Christian</p>
+          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>26.09.2014</p>
+          <p>Liebich, Stefan</p>
+          <p>DIE LINKE</p>
+          <p>26.09.2014</p>
+          <p>Liebing, Ingbert</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Dr. Malecha-Nissen, Birgit</p>
+          <p>SPD</p>
+          <p>26.09.2014</p>
+          <p>Dr. h. c. Michelbach, Hans</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Dr. Müller, Gerd</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Dr. Murmann, Philipp</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Dr. Nick, Andreas</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Nietan, Dietmar</p>
+          <p>SPD</p>
+          <p>26.09.2014</p>
+          <p>Ostendorff, Friedrich</p>
+          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>26.09.2014</p>
+          <p>Özdemir, Cem</p>
+          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>26.09.2014</p>
+          <p>Poß, Joachim</p>
+          <p>SPD</p>
+          <p>26.09.2014</p>
+          <p>Dr. Raatz, Simone</p>
+          <p>SPD</p>
+          <p>26.09.2014</p>
+          <p>Rachel, Thomas</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Radomski, Kerstin</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Scheuer, Andreas</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Stauche, Carola</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Steinbach, Erika</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Dr. Steinmeier, Frank-Walter</p>
+          <p>SPD</p>
+          <p>26.09.2014</p>
+          <p>Strässer, Christoph</p>
+          <p>SPD</p>
+          <p>26.09.2014</p>
+          <p>Strobl (Heilbronn), Thomas</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Dr. Tackmann, Kirsten</p>
+          <p>DIE LINKE</p>
+          <p>26.09.2014</p>
+          <p>Dr. Terpe, Harald</p>
+          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>26.09.2014</p>
+          <p>Ulrich, Alexander</p>
+          <p>DIE LINKE</p>
+          <p>26.09.2014</p>
+          <p>Veit, Rüdiger</p>
+          <p>SPD</p>
+          <p>26.09.2014</p>
+          <p>Vogel (Kleinsaara), Volkmar</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Weiss (Wesel I), Sabine</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Wicklein, Andrea</p>
+          <p>SPD</p>
+          <p>26.09.2014</p>
+          <p>Widmann-Mauz, Annette</p>
+          <p>CDU/CSU</p>
+          <p>26.09.2014</p>
+          <p>Anlage 2</p>
+          <p>Amtliche Mitteilung (Nachtrag zur 51. Sitzung)</p>
+          <p>Die Vorsitzenden der folgenden Ausschüsse haben mitgeteilt, dass der Ausschuss die nachstehenden Unionsdokumente zur Kenntnis genommen oder von einer Beratung abgesehen hat.</p>
+          <p>Auswärtiger Ausschuss</p>
+          <p>Drucksache 18/419 Nr. A.3</p>
+          <p>EuB-BReg 53/2013</p>
+          <p>Drucksache 18/419 Nr. A.18</p>
+          <p>Ratsdokument 14716/13</p>
+          <p>Drucksache 18/544 Nr. A.1</p>
+          <p>EuB-BReg 10/2014</p>
+          <p>Drucksache 18/544 Nr. A.8</p>
+          <p>Ratsdokument 18099/13</p>
+          <p>Drucksache 18/822 Nr. A.3</p>
+          <p>EuB-BReg 16/2014</p>
+          <p>Drucksache 18/822 Nr. A.5</p>
+          <p>EP P7_TA-PROV(2014)0098</p>
+          <p>Drucksache 18/822 Nr. A.6</p>
+          <p>EP P7_TA-PROV(2014)0101</p>
+          <p>Drucksache 18/897 Nr. A.1</p>
+          <p>Ratsdokument 6902/14</p>
+          <p>Ausschuss für Recht und Verbraucherschutz</p>
+          <p>Drucksache 18/419 Nr. A.38</p>
+          <p>Ratsdokument 8179/13</p>
+          <p>Drucksache 18/822 Nr. A.8</p>
+          <p>EP P7_TA-PROV(2014)0064</p>
+          <p>Drucksache 18/822 Nr. A.9</p>
+          <p>Ratsdokument 5445/14</p>
+          <p>Drucksache 18/1393 Nr. A.26</p>
+          <p>Ratsdokument 7910/14</p>
+          <p>Drucksache 18/1393 Nr. A.27</p>
+          <p>Ratsdokument 8151/14</p>
+          <p>Ausschuss für Arbeit und Soziales</p>
+          <p>Drucksache 18/1524 Nr. A.9</p>
+          <p>Ratsdokument 9008/14</p>
+          <p>Ausschuss für Verkehr und digitale Infrastruktur</p>
+          <p>Drucksache 18/1524 Nr. A.12</p>
+          <p>Ratsdokument 6587/14</p>
+          <p>Drucksache 18/1524 Nr. A.13</p>
+          <p>Ratsdokument 8290/14</p>
+          <p>Drucksache 18/1524 Nr. A.14</p>
+          <p>Ratsdokument 9143/14</p>
+          <p>Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung</p>
+          <p>Drucksache 18/544 Nr. A.49</p>
+          <p>EP P7_TA-PROV(2013)0546</p>
+          <p>Drucksache 18/1707 Nr. A.8</p>
+          <p>Ratsdokument 9802/14</p>
+          <p>Ausschuss für die Angelegenheiten der</p>
+          <p>Europäischen Union</p>
+          <p>Drucksache 18/1524 Nr. A.15</p>
+          <p>Ratsdokument 8814/14</p>
+          <p>Drucksache 18/1659 Nr. A.1</p>
+          <p>KOM(2014)324 endg.</p>
+          <p>Anlage 3</p>
+          <p>Amtliche Mitteilungen</p>
+          <p>Der Bundesrat hat in seiner 925. Sitzung am 19. September 2014 beschlossen, den nachstehenden Gesetzen zuzustimmen bzw. einen Antrag gemäß Artikel 77 Absatz 2 des Grundgesetzes nicht zu stellen:</p>
+          <p>– Achtes Gesetz zur Änderung des Weingesetzes</p>
+          <p>– Gesetz zur Änderung des Gesetzes zur Fortentwicklung des Meldewesens</p>
+          <p>– Zweites Gesetz zur Änderung des Staatsangehörigkeitsgesetzes</p>
+          <p>Der Bundesrat hat hierzu ferner folgende Entschließung gefasst:</p>
+          <p>1. Der Bundesrat begrüßt, dass mit dem Zweiten Gesetz zur Änderung des Staatsangehörigkeitsgesetzes ein weiterer, wichtiger Schritt zu einem modernen Staatsangehörigkeitsrecht in Deutschland gegangen wird.</p>
+          <p>2. Der Bundesrat nimmt zur Kenntnis, dass der Koalitionsvertrag auf Bundesebene vorsieht, dass für in Deutschland geborene und aufgewachsene Kinder ausländischer Eltern in Zukunft der Optionszwang entfällt und die Mehrstaatigkeit akzeptiert wird.</p>
+          <p>3. Der Bundesrat begrüßt, dass diese Vereinbarung im Koalitionsvertrag durch das Gesetz der Bundesregierung nun zeitnah umgesetzt wurde. Er stellt fest, dass das vorgelegte Gesetz diese Umsetzung in deutlich besserer Form vornimmt als dies im ursprünglichen Gesetzentwurf des Bundesministeriums des Innern von Anfang Februar vorgesehen war. So wurde der Kreis der optionspflichtigen Kinder, für die künftig die Optionspflicht entfällt, erheblich erweitert. Dadurch wird nach ersten Schätzungen der Optionszwang für mehr als 90 Prozent der jetzt noch Optionspflichtigen entfallen. Für diese Personengruppe wird also eine deutliche Verbesserung erreicht werden.</p>
+          <p>4. Der Bundesrat stellt fest, dass sich mit dem vorliegenden Gesetz allerdings die Widersprüche innerhalb des Staatsangehörigkeitsrechts verstärken, weil die Öffnung beispielsweise nicht auch im Einbürgerungsrecht nachvoll-zogen wird. Weitere Modernisierungsschritte bleiben diesbezüglich notwendig.</p>
+          <p>5. Der Bundesrat bedauert, dass die Bundesregierung sich nicht auf eine umfassende gesetzliche Regelung verständigen konnte, die die vollständige und vorbehaltlose Abschaffung des Optionsverfahrens und die Aufgabe des Grundsatzes der Vermeidung von Mehrstaatigkeit vorsieht.</p>
+          <p>6. Der Bundesrat verweist in diesem Zusammenhang auf seinen Gesetzentwurf vom 5. Juli 2013 (vergleiche Bundesratsdrucksache 461/13 (Beschluss)). Der vom Bundesrat beschlossene Gesetzentwurf sah eine Streichung des Grundsatzes der Vermeidung von Mehrstaatigkeit insgesamt aus dem Staatsangehörigkeitsgesetz ebenso vor, wie die vollständige Aufhebung der Optionsregelung in § 29 des Staatsangehörigkeitsgesetzes (vergleiche Artikel 1 Nummer 7 der Bundesratsdrucksache 461/13 (Beschluss)). Der Bundesrat hält an den Zielen seines Beschlusses vom 5. Juli 2013 fest. Insbesondere sollte nach dem mit dem Gesetzentwurf der Bundesregierung gegangenen ersten Schritt sowohl im Interesse der Betroffenen als auch aus verwaltungsökonomischer Sicht in einem zweiten Schritt die Optionsregelung vollständig aufgehoben werden.</p>
+          <p>– Gesetz zur Einstufung weiterer Staaten als sichere Herkunftsstaaten und zur Erleichterung des Arbeitsmarktzugangs für Asylbewerber und geduldete Ausländer</p>
+          <p>– Gesetz zur Änderung des Umweltinformationsgesetzes</p>
+          <p>– Gesetz zu dem Abkommen vom 9. September 2013 zwischen der Bundesrepublik Deutschland und der Republik der Philippinen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen</p>
+          <p>– Gesetz zu dem Luftverkehrsabkommen vom 25. und 30. April 2007 zwischen den Vereinigten Staaten von Amerika einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten anderseits (Vertragsgesetz EU-USA-Luftverkehrsabkommen – EU-USA-LuftverkAbkG)</p>
+          <p>– Gesetz zu dem Europa-Mittelmeer-Luftverkehrsabkommen vom 15. Dezember 2010 zwischen der Europäischen Union und ihren Mitgliedstaaten einerseits und dem Haschemitischen Königreich Jordanien anderseits (Vertragsgesetz Europa--Mittelmeer-Jordanien-Luftverkehrsabkommen – Euromed-JOR-LuftverkAbkG)</p>
+          <p>– Gesetz zu dem Abkommen vom 26. Juni 2012 zwischen der Europäischen Union und ihren Mitgliedstaaten und der Republik Moldau über den Gemeinsamen Luftverkehrsraum (Vertragsgesetz EU-Moldau-Luftverkehrsabkommen – EU-MDA-LuftverkAbkG)</p>
+          <p>Darüber hinaus hat der Bundesrat in seiner 925. Sitzung am 19. September 2014 beschlossen, zu dem Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2015 gemäß Artikel 110 Absatz 3 des Grundgesetzes und zu dem -Finanzplan des Bundes 2014 bis 2018 gemäß § 9 Absatz 2 Satz 2 des Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft und gemäß § 50 Absatz 3 Satz 1 des Haushaltsgrundsätzegesetzes wie folgt Stellung zu nehmen:</p>
+          <p>1. Die positive gesamtwirtschaftliche Entwicklung in den vergangenen Jahren hat maßgeblich zur Konsolidierung des Bundeshaushalts beigetragen. Nicht zuletzt die Zunahme der Steuereinnahmen bewirkte eine stetige Verringerung des Finanzierungsdefizits des Bundes. Die gute Lage am Arbeitsmarkt führte darüber hinaus zu einer verhältnismäßig stabilen Entwicklung der Sozialausgaben. Der Bundeshaushalt profitiert zudem in besonderem Maße von dem anhaltend niedrigen Zinsniveau, das ebenfalls jährlich für erhebliche Entlastungen sorgt. Hinzu tritt eine -vorübergehende Kürzung der Zuschüsse an einzelne Sozialversicherungszweige (Gesundheitsfonds und Gesetzliche Rentenversicherung).</p>
+          <p>2. Der Bundesrat erkennt an, dass die Bundesregierung nach einem avisierten strukturellen Überschuss 2014 nun mit dem Entwurf 2015 erstmals seit dem Jahr 1969 einen Haushalt ohne Nettokreditaufnahme erreichen kann. Im Vergleich zu den bisherigen Prognosen mehren sich jedoch die Anzeichen für eine konjunkturelle Abkühlung. Die derzeitigen geopolitischen Unruhen zum Beispiel in der Ukraine und im Nahen -Osten wirken zunehmend dämpfend auf die deutsche Wirtschaft, wobei das vollständige Ausmaß der zukünftigen Risiken derzeit noch nicht absehbar ist. Die anhaltende Nachfrageschwäche aus dem Euroraum belastet zusätzlich die wirtschaftliche Entwicklung. Zudem würde eine Normalisierung des allgemeinen Zinsniveaus zu einer deutlichen Steigerung der Zinsausgaben führen. Um die Zielsetzung eines Haushalts ohne Neuverschuldung langfristig abzusichern, bedarf es daher weiterer Konsolidierungsanstrengungen. Dabei ist auch die Sicherung der gesamtstaatlichen Einnahmenbasis unerlässlich, um die Finanzierung notwendiger Investitionen sowie zukunftswirksamer und wachstumsstärkender Maßnahmen von Bund, Ländern und Kommunen im Rahmen der verfassungsrechtlichen Verschuldungsgrenzen zu gewährleisten.</p>
+          <p>3. Der Bundesrat begrüßt die Bereitschaft der Bundesregierung, in dieser Legislaturperiode vermehrt in die Bereiche Bildung, Forschung, Verkehr und Infrastruktur zu investieren. Angesichts bedeutender Investitionsdefizite sieht er aber die Notwendigkeit, darüber hinausgehende zusätzliche Mittel in diese Zukunftsbereiche umzulenken. Dies würde weitere Wachstumsimpulse freisetzen und einer möglichen Erlahmung der Konjunktur entgegenwirken.</p>
+          <p>4. Der Bundesrat bittet in diesem Zusammenhang die Bundesregierung, im Bereich Verkehr und Infrastruktur alle notwendigen Maßnahmen zu ergreifen, um künftig mehr Planbarkeit, Verlässlichkeit und Flexibilität sicherzustellen.</p>
+          <p>5. Der Bundesrat erwartet, dass im Haushaltsentwurf 2015 des Bundes die für den Verkehrsbereich bereitgestellten Regionalisierungsmittel erhöht werden. Der derzeitige Ansatz sollte zumindest um die zur Deckung von Kostensteigerungen dringend erforderliche und bisher erfolgte Dynamisierung von jährlich 1,5 Prozent aufgestockt werden. Tatsächlich benötigt wird ein Betrag von 8,5 Milliarden Euro, wie das Gutachten „Revision der Regionalisierungsmittel“ festgestellt hat. Bei einem Einfrieren des Betrags bis zur Revision der Regionalisierungsmittel würde die Finanzierungslücke zu den tatsächlichen ÖPNV-Kosten eine Größenordnung erreichen, die aus den Länderhaushalten nicht geschlossen werden kann.</p>
+          <p>6. Der Bundesrat stellt fest, dass eine Reihe an Faktoren einer verlässlichen und bedarfsgerechten Finanzierung von Bundesfernstraßen in den Ländern derzeit entgegensteht. Für eine nachhaltige und bedarfsgerechte Finanzierung muss die Planung, Verfügbarkeit und Steuerung der Finanzmittel im Bundesfernstraßenbau deutlich verbessert werden. Darüber hinaus bittet der Bundesrat die Bundesregierung, die Zweckausgabenpauschale für Planung und Baubegleitung in angemessener Weise zu erhöhen.</p>
+          <p>7. Der Bundesrat weist erneut auf die Festlegung im Zuge der Einigung zur nationalen Umsetzung des Fiskalpakts und des Stabilitäts- und Wachstumspakts hin, in dieser Legislaturperiode ein neues Bundesteilhabegesetz zu erarbeiten und in Kraft zu setzen, das die rechtlichen Vorschriften zur Eingliederungshilfe ablöst. Er bekräftigt seine Erwartung an eine Regelung, die mit Wirkung zum 1. Januar 2017 eine jährliche Entlastung von 5 Milliarden Euro sicherstellt.</p>
+          <p>8. Die Bundesregierung hat angekündigt, im Herbst 2014 einen Gesetzentwurf mit Korrekturen und Nachjustierungen am Steuerrecht vorzulegen. Auch der Bundesrat sieht steuerpolitischen Handlungsbedarf. Er fordert die Bundesregierung erneut dazu auf, die von den Ländern für erforderlich gehaltenen weiteren steuerrechtlichen Änderungsbedarfe zeitnah zusammenzutragen und deren Umsetzung zügig und in enger Abstimmung mit den Ländern vorzubereiten.</p>
+          <p>Der Bundesrat erinnert in diesem Zusammenhang auch an die weiteren steuerpolitischen Vorhaben der Bundesregierung etwa im Kampf gegen missbräuchliche Steuergestaltungen und grenzüberschreitende Gewinnverlagerungen international operierender Unternehmen.</p>
+          <p>Der Bundesrat geht davon aus, dass die Bundesregierung auf der Basis der mit den Ländern im Frühjahr vereinbarten Eckpunkte noch im Jahr 2014 einen Gesetzentwurf zur Verschärfung der Selbstanzeige bei Steuerhinterziehung und zum Absehen von Verfolgung in besonderen Fällen (§§ 371, 398a Abgabenordnung) beschließen wird.</p>
+          <p>9. Der Bundesrat unterstützt die Zielvorgabe der Bundesregierung im Koalitionsvertrag für die 18. Legislaturperiode, bis zum Jahr 2018 in Deutschland eine flächendeckende Versorgung mit schnellem Internet mit Bandbreiten von mindestens 50 Mbit/s bereitzustellen.</p>
+          <p>10. Der Bundesrat erkennt an, dass die Bundesregierung Maßnahmen zur Abmilderung der mit der Bundeswehrreform und dem Abzug der Gaststreitkräfte verbundenen Schließung von Standorten vorgenommen hat. So können in den Haushaltsjahren 2015 bis 2018 Konver-sionsgrundstücke an Kommunen vergünstigt abgegeben werden. Die nähere Konkretisierung des entsprechenden Haushaltsvermerks im Haushalt 2015 sollte in Abstimmung mit den Ländern erfolgen. Aufgrund der erheblichen Tragweite der Bundeswehrreform und des Abzugs der Gaststreitkräfte bittet der Bundesrat darum, die Kommunen bei Bedarf durch ergänzende Hilfen des Bundes zu unterstützen.</p>
+          <p>11. Der vorsorgende Hochwasserschutz stellt besonders vor dem Hintergrund des Hochwassers im Juni 2013 einen bedeutenden und gemeinsam von Bund und Ländern stärker wahrzunehmenden Aufgabenschwerpunkt dar. Der Bundesrat erinnert an die von den -Agrarministerinnen und -ministern sowie den Umweltministerinnen und -ministern geforderte Aufstellung eines Nationalen Hochwasserschutzprogramms. Er erwartet damit einhergehend eine aufgabengerechte Finanzausstattung, die sowohl eine Aufstockung des Plafonds in der Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und des Küstenschutz“ (GAK) als auch zusätzliche Mittel für einen Sonderrahmenplan Hochwasserschutz innerhalb der GAK beinhaltet, um die in einem Nationalen Hochwasserschutzprogramm vorgesehenen Maßnahmen zeitgerecht in Angriff nehmen zu können.</p>
+          <p>Der Ausschuss für Familie, Senioren, Frauen und Jugend hat mitgeteilt, dass er gemäß § 80 Absatz 3 Satz 2 der Geschäftsordnung von einer Berichterstattung zu den nachstehenden Vorlagen absieht:</p>
+          <p>Unterrichtung der Antidiskriminierungsstelle des Bundes</p>
+          <p>Gemeinsamer Bericht der Antidiskriminierungsstelle des Bundes und die in ihrem Zuständigkeitsbereich betroffenen Beauftragten der Bundesregierung und des Deutschen Bundestages 2010</p>
+          <p>Drucksache 17/4325</p>
+          <p>Unterrichtung der Antidiskriminierungsstelle des Bundes</p>
+          <p>Zweiter Gemeinsamer Bericht der Antidiskriminierungsstelle des Bundes und der in ihrem Zuständigkeitsbereich betroffenen Beauftragten der Bundesregierung und des Deutschen Bundestages</p>
+          <p>Diskriminierung im Bildungsbereich und Arbeitsleben</p>
+          <p>Drucksachen 17/14400, 18/641 Nr. 21</p>
+          <p>Die Vorsitzenden der folgenden Ausschüsse haben mitgeteilt, dass der Ausschuss die nachstehenden Unionsdokumente zur Kenntnis genommen oder von einer Beratung abgesehen hat.</p>
+          <p>Ausschuss für Ernährung und Landwirtschaft</p>
+          <p>Drucksache 18/1935 Nr. A.10</p>
+          <p>Ratsdokument 9934/14</p>
+          <p>Drucksache 18/2533 Nr. A.43</p>
+          <p>ERH 8/2014</p>
+          <p>Drucksache 18/2533 Nr. A.44</p>
+          <p>Ratsdokument 10911/14</p>
+          <p>Drucksache 18/2533 Nr. A.45</p>
+          <p>Ratsdokument 11283/14</p>
+          <p>Drucksache 18/2533 Nr. A.46</p>
+          <p>Ratsdokument 11288/14</p>
+          <p>Ausschuss für Menschenrechte und Humanitäre Hilfe</p>
+          <p>Drucksache 18/419 Nr. A.157</p>
+          <p>Ratsdokument 11738/13</p>
+          <p>Drucksache 18/419 Nr. A.158</p>
+          <p>Ratsdokument 11857/13</p>
+          <p>Drucksache 18/544 Nr. A.46</p>
+          <p>EP P7_TA-PROV(2013)0545</p>
+          <p>Drucksache 18/544 Nr. A.48</p>
+          <p>EP P7_TA-PROV(2013)0594</p>
+          <p>Drucksache 18/1393 Nr. A.39</p>
+          <p>Ratsdokument 8806/14</p>
+          <p>Ausschuss für Bildung, Forschung und Technikfolgenabschätzung</p>
+          <p>Drucksache 18/419 Nr. A.173</p>
+          <p>Ratsdokument 14116/13</p>
+          <p>Drucksache 18/1707 Nr. A.6</p>
+          <p>EP P7_TA-PROV(2014)0395</p>
+          <p>Anlagen</p>
+          <p>II Deutscher Bundestag – 18. Wahlperiode – 55. Sitzung, Berlin, Freitag, den 26. September 2014</p>
+          <p>Deutscher Bundestag – 18. Wahlperiode – 55. Sitzung, Berlin, Freitag, den 26. September 2014 5081</p>
+          <p>Deutscher Bundestag – 15. Wahlperiode – 38. Sitzung – 4. April 2003 4</p>
+          <p>5146 Deutscher Bundestag – 18. Wahlperiode – 55. Sitzung, Berlin, Freitag, den 26. September 2014</p>
+          <p>Deutscher Bundestag – 18. Wahlperiode – 55. Sitzung, Berlin, Freitag, den 26. September 2014 5147</p>
         </sp>
       </div>
     </body>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-06</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2005/1205/bic/plenarprotokolle/pp/1997/13167a.zip</url>
-        <date>2015-10-20 19:19:21</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -36,7 +36,7 @@
   <text>
     <body>
       <div type="agenda_item" n="1" what="debate" desc="12.a)Erste Beratung des von den Fraktionen der CDU/CSU und F.D.P. eingebrachten ...">
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Meine sehr geehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Ich eröffne die Sitzung.</p>
           <p>Zu Beginn unserer Sitzung möchte ich Dr. Hans-Dietrich Genscher zu seinem 70. Geburtstag ganz herzlich gratulieren.</p>
@@ -53,7 +53,7 @@
           <p>Rechtsausschuß</p>
           <p>Ausschuß für Wirtschaft</p>
           <p>Ausschuß für Ernährung, Landwirtschaft und Forsten</p>
-          <p>Haushaltsausschuß mitberatend und gemäß   96 GO</p>
+          <p>Haushaltsausschuß mitberatend und gemäß § 96 GO</p>
           <p>b)Beratung der Beschlußempfehlung und des Berichts des Finanzausschusses (7. Ausschuß)</p>
           <p>-- zu dem Antrag der Abgeordneten Christine Scheel, Elisabeth Altmann (Pommelsbrunn), Marieluise Beck (Bremen), weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN</p>
           <p>Für eine durchgreifende Einkommensteuerreform: Steuergerechtigkeit durch Steuervereinfachung</p>
@@ -68,7 +68,7 @@
           <p>Nach einer interfraktionellen Vereinbarung sind für die Aussprache zwei Stunden vorgesehen. Sind Sie damit einverstanden? -- Ich höre keinen Widerspruch. Dann verfahren wir so.</p>
           <p>Das Wort hat der Bundesminister der Finanzen, Dr. Theodor Waigel.</p>
         </sp>
-        <sp who="Dr. Theodor Waigel" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" party="CSU" name="Theodor Waigel">
+        <sp who="Theodor Waigel" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" who_original="Theodor Waigel" party="CSU" name="Theodor Waigel">
           <speaker>Dr. Theodor Waigel, Bundesminister der Finanzen:</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Es wäre dem Tag natürlich angemessen gewesen, lieber Kollege Genscher, wenn man ihn mit einer großen außenpolitischen Debatte begonnen hätte. Nun müssen Sie mit dem einfachen Gewerbe der Steuerpolitik vorlieb nehmen. Auch ich möchte Ihnen von dieser Stelle aus meinen herzlichen Glückwunsch aussprechen. Ich denke gerne an die großartigen Stunden, die wir miteinander verbracht haben. Alles Gute.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
@@ -90,11 +90,11 @@
           <p>-- Frau Präsidentin, da sitzt ein Papagei. Da ruft einer immer dasselbe.</p>
           <stage type="interjection">(Heiterkeit und Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Ich gehe nicht davon aus, daß wir einen Papagei im Parlament haben. Aber ich bitte darum, daß der Redner nicht durch diese Art Zwischenrufe gestört wird.</p>
         </sp>
-        <sp who="Dr. Theodor Waigel" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" party="CSU" name="Theodor Waigel">
+        <sp who="Theodor Waigel" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" who_original="Theodor Waigel" party="CSU" name="Theodor Waigel">
           <speaker>Dr. Theodor Waigel, Bundesminister der Finanzen:</speaker>
           <p>Ich nehme an, es ist kein Abgeordneter. Frau Präsidentin, ich würde natürlich nie einen Abgeordneten so nennen. Es muß sich ein Papagei hier aufhalten, weil hier immer der gleiche Zwischenruf kommt.</p>
           <stage type="interjection">(Franz Thönnes [SPD]: Was sagt denn Stoiber wirklich?)</stage>
@@ -175,11 +175,11 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Anhaltender Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Das Wort hat der Fraktionsvorsitzende der SPD, Rudolf Scharping.</p>
         </sp>
-        <sp who="Rudolf Scharping" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Scharping">
+        <sp who="Rudolf Scharping" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Scharping" party="SPD" name="Rudolf Scharping">
           <speaker>Rudolf Scharping (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Eine Steuerreform verdient ihren Namen nur, wenn sie zur Bekämpfung der Arbeitslosigkeit beiträgt, wenn sie das Steuersystem einfacher und gerechter macht und wenn sie die Fähigkeit des Staates nicht ruiniert, für öffentliche Investitionen und damit für die Lebensqualität der Bürgerinnen und Bürger zu sorgen.</p>
           <p>Alle diese Ziele verfehlen Ihre Vorschläge. Das Steuersystem wird nicht einfacher und gerechter. Im Gegenteil: Es wird in vielen Bereichen noch ungerechter. Ihre Vorschläge sind ungeeignet, die Arbeitslosigkeit zu bekämpfen, vor allem weil Sie keinen Beitrag zur Bekämpfung unseres größten Problems leisten, nämlich einer zu schwachen Binnenkonjunktur. Wenn Ihre Vorschläge das Parlament und den Bundesrat unverändert passierten, würde dies dazu führen, daß die öffentlichen Kassen ruiniert sind.</p>
@@ -230,9 +230,9 @@
           <p>Vor diesem Hintergrund sage ich, daß man mit einem bloßen und platten Setzen auf sehr niedrige Unternehmensteuersätze möglicherweise den einen Teil des Ziels erreicht, den anderen aber nicht. Wenn Ihnen an einer differenzierten Auseinandersetzung liegt -- das sollte in einer solchen Debatte möglich sein --, dann werden Sie sicher auch verstehen, daß wir auf eine kluge Mischung beider Maßnahmen großen Wert legen; denn es darf nicht sein, daß der investierende Mittelständler mit wenig Absatz im Ausland und der Handwerksmeister mit Investitionen in Ausbildung und neue Produkte am Ende die Attraktivität der Ausschüttungssätze für Erträge bezahlen, die ins Ausland transferiert werden. Das darf nicht geschehen.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Deswegen wird es sehr darauf ankommen, ob nicht nur in diesem ersten Teil, den wir heute zu beraten beginnen, sondern generell im Rahmen der Steueränderungen auf die Attraktivität des Investitionsstandortes Deutschland geachtet wird und darauf, daß solche Maßnahmen nicht zu einer zusätzlichen Gefahr für Handwerk, Mittelstand und deren Investitionen werden. Denn sie brauchen wir wegen der Stabilität der Beschäftigung und der Qualität der Ausbildung.</p>
-          <stage type="interjection">(Beifall bei der SPD) </stage>
+          <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Im übrigen: Wenn Sie erreichen wollen, daß die Sätze herunterkommen -- an dem Ziel ist zunächst einmal nichts zu kritisieren; über den Umfang der Maßnahmen wird man intensiv miteinander reden müssen --, dann müssen auch ganz konsequent die Schlupflöcher geschlossen werden. Ich stelle fest, daß Ihre Vorschläge dazu unzureichend sind. Der nordrhein-westfälische Finanzminister Heinz Schleußer hat einen umfangreichen Katalog vorgelegt, wie man das auf eine wirtschaftlich kluge und sehr konsequente Weise machen kann. Ich schlage Ihnen also erneut vor, sich mit diesem Thema intensiv auseinanderzusetzen.</p>
-          <stage type="interjection">(Beifall bei der SPD) </stage>
+          <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Ich möchte Ihnen im Zusammenhang mit der Absenkung des Solidaritätszuschlages etwas sagen. Wenn Ihr Argument stimmen würde, daß es nicht zu einer Stärkung der Nachfrage kommen darf oder kommen muß, sondern daß es zunächst darauf ankommt, die Angebots-, die Investitionsseite zu stärken und die Attraktivität für ausländische Anleger zu steigern, dann mache ich Sie darauf aufmerksam, daß Ihre Finanzpolitik auch an dieser Stelle völlig inkonsistent wird. Denn wieso senken Sie nachfrageorientiert und kaufkraftorientiert den Solidaritätszuschlag -- was bestimmte Verteilungswirkungen hat, wie jeder weiß --, während Sie doch auf der anderen Seite bestreiten, daß es nachfrageorientierter Politik bedarf?</p>
           <stage type="interjection">(Dr. Peter Struck [SPD]: Sehr wahr!)</stage>
           <p>Deswegen füge ich hinzu, daß die Absenkung des Solidaritätszuschlages eher ein Geschenk an die F.D.P. und ihre Wählerinnen und Wähler ist,</p>
@@ -286,11 +286,11 @@
           <stage type="interjection">(Anhaltender Beifall bei der SPD sowie Beifall des Abg. Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN])</stage>
           <stage type="interjection">(Vorsitz: Vizepräsident Hans-Ulrich Klose)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat die Kollegin Gerda Hasselfeldt, CDU/CSU.</p>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Gerda Hasselfeldt (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Diese Rede, lieber Herr Kollege Scharping, hat deutlich gemacht, daß Sie von den Realitäten in unserem Land doch relativ wenig Ahnung haben.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Lachen bei der SPD)</stage>
@@ -298,12 +298,12 @@
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Wir können nicht die Augen davor verschließen, daß wir im internationalen Wettbewerb bestehen müssen. Die Entscheidungen über Investitionen, die Entscheidungen über Arbeitsplätze hängen heute von international vergleichbaren Bedingungen ab.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Frau Kollegin Hasselfeldt, gestatten Sie eine Zwischenfrage des Kollegen von Larcher?</p>
           <stage type="interjection">(Dr. Hermann Otto Solms [F.D.P.]: Das lohnt nicht!)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Gerda Hasselfeldt (CDU/CSU):</speaker>
           <p>Ich habe noch nicht einmal richtig angefangen. Ich bitte, zunächst einmal meine Gedankengänge -- und zwar nicht nur einen Gedanken -- hier darlegen zu dürfen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
@@ -359,11 +359,11 @@
           <p>Deshalb möchte ich Sie ganz herzlich um eine echte, konstruktive Mitarbeit an diesem Reformkonzept bitten. Ich bitte Sie, mit dem Eiertanz der letzten Wochen aufzuhören. Darum bitte ich Sie im Interesse der Menschen in diesem Lande, im Interesse der Menschen, die Arbeit suchen, die arbeitslos sind, aber auch im Interesse derjenigen, die eventuell von Arbeitslosigkeit bedroht sind.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Detlev von Larcher [SPD]: Lassen Sie sich einmal erzählen, was bei der Anhörung los war!)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat die Kollegin Christine Scheel, Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Christine Scheel" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Christine Scheel">
+        <sp who="Christine Scheel" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Christine Scheel" party="GRUENE" name="Christine Scheel">
           <speaker>Christine Scheel (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Kolleginnen und Kollegen! Der vorliegende Entwurf eines Steuerreformgesetzes enthält viel Gutes; das muß man konstatieren. Er enthält auch einiges Neues. Aber das Gute ist zum Großteil nicht neu, und das Neue ist nicht gut.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
@@ -399,7 +399,7 @@
           <p>Grundsätzlich sind wir für die Gleichbehandlung aller Einkunftsarten. Aber bei Ihren Vorschlägen, denen dieser Gedanke ursprünglich einmal zugrunde lag, sind manche -- Ihren alten Zielen zum Trotz -- gleicher und manche ungleicher. So wird zum Beispiel die Besteuerung von land- und forstwirtschaftlichen Betrieben nur für einige Betriebe auf Normalbesteuerung umgestellt; die anderen behalten ihre Steuervergünstigungen. Das ist Einzelhandelsgeschäften gegenüber ungerecht, die diese Vergünstigungen nicht haben und am Ende eines jeden Jahres ihre Steuererklärung abliefern müssen.</p>
           <p>Es bleibt außerdem dabei, daß private Veräußerungsgewinne grundsätzlich -- nach einer bestimmten Spekulationsfrist -- steuerfrei sind.</p>
           <p>Schließlich ist es für uns nach wie vor unglaublich, daß die Bundesregierung nicht von der steuerlichen Bevorzugung der Lebensform Ehe abgeht. Verheiratete werden im Vergleich zu Alleinerziehenden in ungerechter Weise von dieser Reform profitieren; denn die Bundesregierung will den Haushaltsfreibetrag, der die Ungerechtigkeit zwischen Familien mit zwei Elternteilen und denen mit nur einem Elternteil abmildern soll, nicht an das neue Existenzminimum anpassen. Das ist ein Riesenproblem; denn auf der einen Seite wird hier bei einem Spitzenverdiener, dessen Ehefrau nicht arbeiten geht, eine Steuerentlastung von 25 000 DM weiter vorangetrieben, während bei einer Alleinerziehenden dieser Lastenausgleich erst dann zu erreichen ist, wenn sie das 13. Kind in die Welt setzt. Ich glaube, daß das in der heutigen Zeit eher selten ist.</p>
-          <p>Wir brauchen erstens eine Entlastung der kleinen und mittleren Einkommen. Wir brauchen ein einheitliches Kindergeld von 300 DM. Wir brauchen vor allen Dingen auch eine Steuerfreistellung von Vorsorgeleistungen. Wir brauchen eine Absenkung des Eingangssteuersatzes. 22,5 Prozent sind Ihr wahrer Eingangssteuersatz; das andere ist nur eine Unterstufe, die bis zu einer bestimmten Einkommenshöhe -- hier 18 000 DM -- in Anspruch genommen wird. Der lineare Tarif beginnt erst bei 22,5  Prozent. Wir brauchen aber auch eine Absenkung des Spitzensteuersatzes.</p>
+          <p>Wir brauchen erstens eine Entlastung der kleinen und mittleren Einkommen. Wir brauchen ein einheitliches Kindergeld von 300 DM. Wir brauchen vor allen Dingen auch eine Steuerfreistellung von Vorsorgeleistungen. Wir brauchen eine Absenkung des Eingangssteuersatzes. 22,5 Prozent sind Ihr wahrer Eingangssteuersatz; das andere ist nur eine Unterstufe, die bis zu einer bestimmten Einkommenshöhe -- hier 18 000 DM -- in Anspruch genommen wird. Der lineare Tarif beginnt erst bei 22,5 Prozent. Wir brauchen aber auch eine Absenkung des Spitzensteuersatzes.</p>
           <p>Zweitens: Bekämpfung der Massenarbeitslosigkeit und Standortförderung. Klar ist, daß niedrigere nominale Steuersätze in der Einkommen- und Körperschaftsteuer das Investitionsklima für wirtschaftliche Aktivitäten in diesem Land und auch neue Arbeitsplätze fördern. Das konstatieren auch wir. Aber dies muß durch eine ökologisch-soziale Steuerreform ergänzt werden.</p>
           <p>Drittens sind wir der Meinung, daß die Reform aufkommensneutral sein muß. Denn nur über eine wirkliche Verbreiterung der Bemessungsgrundlage mit einer sauberen Gegenfinanzierung zur Tarifsenkung haben wir ein sauberes Steuermodell. Es darf keine Erhöhung der Mehrwertsteuer oder ein weiteres unsoziales Sparpaket auf den Weg gebracht werden,</p>
           <stage type="interjection">(Dr. Wolfgang Weng [Gerlingen] [F.D.P.]: Haben Sie ein Konzept?)</stage>
@@ -409,11 +409,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat die Kollegin Professor Gisela Frick, F.D.P.</p>
         </sp>
-        <sp who="Gisela Frick" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Gisela Frick">
+        <sp who="Gisela Frick" parliamentary_group="FDP" role="mp" position="NA" who_original="Gisela Frick" party="FDP" name="Gisela Frick">
           <speaker>Gisela Frick (F.D.P.):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Frau Scheel, wir denken nicht nur an die Besitzenden, sondern gerade an die anderen in unserem Lande, weil uns die Arbeitsplätze das allerwichtigste sind. Die Arbeitsplätze hängen -- das haben wir heute schon mehrfach gehört -- nun einmal nicht unwesentlich auch von der Steuer- und Abgabenlast ab; das haben auch Sie selber konzediert.</p>
           <p>Ich möchte zunächst einmal auf die SPD bzw. ihren Führer Scharping eingehen. Herr Scharping, positiv habe ich Ihrer Rede entnommen, daß Sie nach wie vor Gesprächsbereitschaft im steuerlichen Bereich signalisieren. Das halte ich für sehr wichtig; das ist sehr begrüßenswert.</p>
@@ -435,19 +435,19 @@
           <p>Von daher müssen wir unsere Steuersätze, und zwar die nominalen und damit auch die Spitzensteuersätze, so deutlich senken, daß wir im internationalen Wettbewerb bestehen können und Investitionen und die Schaffung von Arbeitsplätzen fördern.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Frau Kollegin Professor Frick, gestatten Sie eine Zwischenfrage des Kollegen von Larcher?</p>
         </sp>
-        <sp who="Gisela Frick" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Gisela Frick">
+        <sp who="Gisela Frick" parliamentary_group="FDP" role="mp" position="NA" who_original="Gisela Frick" party="FDP" name="Gisela Frick">
           <speaker>Gisela Frick (F.D.P.):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Detlev von Larcher">
+        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" who_original="Detlev von Larcher" party="SPD" name="Detlev von Larcher">
           <speaker>Detlev von Larcher (SPD):</speaker>
           <p>Frau Kollegin Frick, ich möchte Ihnen eine Frage stellen, die mir der Bundesfinanzminister am Mittwoch nicht beantworten konnte. Ich habe ihn gefragt: Wie viele Arbeitsplätze versprechen Sie sich von dem, was Sie jetzt erste Stufe der Steuerreform nennen?</p>
         </sp>
-        <sp who="Gisela Frick" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Gisela Frick">
+        <sp who="Gisela Frick" parliamentary_group="FDP" role="mp" position="NA" who_original="Gisela Frick" party="FDP" name="Gisela Frick">
           <speaker>Gisela Frick (F.D.P.):</speaker>
           <p>Natürlich kann man das nicht exakt quantifizieren. Das ist doch klar.</p>
           <stage type="interjection">(Detlev von Larcher [SPD]: Nennen Sie doch eine Größenordnung!)</stage>
@@ -457,19 +457,19 @@
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU -- Zuruf von der SPD: Leere Versprechungen!)</stage>
           <p>-- Das sind keine leeren Versprechungen.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Frau Kollegin Frick, gestatten Sie eine weitere Zwischenfrage der Kollegin Hendricks?</p>
         </sp>
-        <sp who="Gisela Frick" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Gisela Frick">
+        <sp who="Gisela Frick" parliamentary_group="FDP" role="mp" position="NA" who_original="Gisela Frick" party="FDP" name="Gisela Frick">
           <speaker>Gisela Frick (F.D.P.):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Dr. Barbara Hendricks" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Barbara Hendricks">
+        <sp who="Barbara Hendricks" parliamentary_group="SPD" role="mp" position="NA" who_original="Barbara Hendricks" party="SPD" name="Barbara Hendricks">
           <speaker>Dr. Barbara Hendricks (SPD):</speaker>
           <p>Frau Kollegin Frick, ich möchte Ihnen ebenfalls eine Frage stellen, die in der Regierungsbefragung am Mittwoch der Bundesfinanzminister nicht beantworten konnte. Nach den bisherigen Einlassungen der Bundesregierung ist ja vorgesehen, zur Gegenfinanzierung des gesamten Steuerpakets die Mehrwertsteuer um einen Prozentpunkt zu erhöhen. Das ergibt maximal 15 Milliarden DM. Im Rechnungsjahr 1999 gehen Sie von einem gesamtstaatlichen Defizit von 56 Milliarden DM aus, so daß also 41 Milliarden DM übrigbleiben. Jetzt haben Sie noch keinerlei Aussage dazu gemacht, wie Sie die von Ihnen vorgesehene Nettoentlastung in Höhe von 30 Milliarden DM finanzieren wollen. Aber selbst darüber hinaus bleiben dann noch 11 Milliarden DM übrig. Gehen Sie also ernsthaft davon aus, daß Sie eine Selbstfinanzierungsquote von 41 Milliarden DM im Jahr erreichen können, oder wie gedenken Sie diese Lücke zu schließen?</p>
         </sp>
-        <sp who="Gisela Frick" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Gisela Frick">
+        <sp who="Gisela Frick" parliamentary_group="FDP" role="mp" position="NA" who_original="Gisela Frick" party="FDP" name="Gisela Frick">
           <speaker>Gisela Frick (F.D.P.):</speaker>
           <p>Auch da sage ich, daß man es natürlich nicht exakt quantifizieren kann. Aber daß darin ein erheblicher Selbstfinanzierungseffekt enthalten ist, ist doch ganz selbstverständlich. Ich sagte ja auch bereits -- das war mein Einstieg; ich komme gar nicht dazu, meine Gedanken hier wirklich zu entwickeln --, daß das das erste Motiv für die Steuerreform ist, die wir vorlegen. Ich danke selbstverständlich für jede Unterstützung, und deshalb ist es natürlich auch berechtigt, diese Fragen zu stellen.</p>
           <p>Wir vertrauen auf die Wirkung einer solchen Reform. Deshalb sage ich auch immer wieder -- ich muß es jetzt leider noch einmal wiederholen --: Andere Länder haben es uns mit Erfolg vorgemacht, und es gibt kein einziges Land, in dem eine solche Reform, wenn sie ordentlich durchgeführt worden ist, nicht entsprechende Effekte gezeigt hätte, und zwar in einem ganz erheblichen Umfang.</p>
@@ -479,31 +479,31 @@
           <p>Statt neidisch auf die anderen Staaten zu schauen, sollten wir von ihnen lernen und es hier entsprechend machen. Wir sollten es auch so schnell wie möglich machen. Das ist der Grund, weshalb wir eine erste Stufe vorlegen, die allein den gewerblichen Bereich betrifft und in erster Linie die Stoßrichtung Arbeitsplätze hat.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Frau Professor Frick, gestatten Sie eine dritte Zwischenfrage?</p>
         </sp>
-        <sp who="Gisela Frick" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Gisela Frick">
+        <sp who="Gisela Frick" parliamentary_group="FDP" role="mp" position="NA" who_original="Gisela Frick" party="FDP" name="Gisela Frick">
           <speaker>Gisela Frick (F.D.P.):</speaker>
           <p>Ja, aber ich kündige jetzt schon an, daß es in dieser Runde die letzte ist.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das ist in Ordnung. -- Bitte.</p>
         </sp>
-        <sp who="Dr. Christa Luft" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Christa Luft">
+        <sp who="Christa Luft" parliamentary_group="PDS" role="mp" position="NA" who_original="Christa Luft" party="PDS" name="Christa Luft">
           <speaker>Dr. Christa Luft (PDS):</speaker>
           <p>Frau Kollegin Frick, ich möchte Ihnen eine Frage stellen, die ich dem Bundesfinanzminister noch nicht gestellt habe.</p>
         </sp>
-        <sp who="Gisela Frick" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Gisela Frick">
+        <sp who="Gisela Frick" parliamentary_group="FDP" role="mp" position="NA" who_original="Gisela Frick" party="FDP" name="Gisela Frick">
           <speaker>Gisela Frick (F.D.P.):</speaker>
           <p>Wie originell!</p>
         </sp>
-        <sp who="Dr. Christa Luft" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Christa Luft">
+        <sp who="Christa Luft" parliamentary_group="PDS" role="mp" position="NA" who_original="Christa Luft" party="PDS" name="Christa Luft">
           <speaker>Dr. Christa Luft (PDS):</speaker>
           <p>Wie erklären sie sich das Faktum, daß Dänemark eine wesentlich höhere Steuerquote, aber eine wesentlich niedrigere Arbeitslosenquote als die Bundesrepublik Deutschland und, wie neuerdings gemeldet wurde, sogar Arbeitskräftemangel hat? Mit dem Phänomen dieser Differenz zwischen wesentlich höherer Steuerquote und niedrigerer Arbeitslosenquote als in der Bundesrepublik Deutschland komme ich noch nicht zurecht, wenn ich die Argumentation der Koalition zur Steuerpolitik in der Bundesrepublik höre.</p>
         </sp>
-        <sp who="Gisela Frick" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Gisela Frick">
+        <sp who="Gisela Frick" parliamentary_group="FDP" role="mp" position="NA" who_original="Gisela Frick" party="FDP" name="Gisela Frick">
           <speaker>Gisela Frick (F.D.P.):</speaker>
           <p>Die Steuerquote hat mit den Spitzensteuersätzen nichts zu tun, sondern das ist ja auch eine Frage der Steuerstruktur. Insofern geht Ihre Frage etwas an unserer Reform vorbei; denn wir wollen ja in erster Linie die Struktur unserer Einkommensteuer so verbessern, daß die Spitzensteuersätze mit den tatsächlich gezahlten Steuern wieder deutlicher in Einklang stehen. Das wollte ich nachher noch ausführen; ich ziehe es jetzt vor.</p>
           <p>Im übrigen habe ich auch darauf hingewiesen, daß die steuerlichen Rahmenbedingungen natürlich nur eine von mehreren Rahmenbedingungen für Arbeitsplätze sind und daß es nicht wie bei einem Automaten funktioniert, in den man oben eine Steuerreform hineinsteckt und aus dem dann unten fertige Arbeitsplätze herauskommen. Das haben wir doch nie behauptet. Aber Beispiele dafür sehen wir reichlich, daß durchgreifende und konsequente Strukturreformen zu solchen Verbesserungen in der Wirtschaft und insbesondere auf den Arbeitsmärkten geführt haben. Darauf vertrauen wir.</p>
@@ -531,11 +531,11 @@
           <p>Deshalb haben wir in unseren Vorschlägen zur Steuerreform auch beides zusammen als ein geschlossenes, in sich konsistentes Paket vorgelegt. Auch die erste Stufe ist in sich konsistent, denn wir haben gesagt: Gerade weil es um den Erhalt und die Neuschaffung von Arbeitsplätzen geht, verträgt diese ganze Operation keinen Aufschub mehr. Das bedeutet, daß wir den gewerblichen Teil, bei dem in erster Linie Investitionen und Arbeitsplätze entstehen, vorziehen wollen.</p>
           <stage type="interjection">(Detlev von Larcher [SPD]: Der bringt fast nichts!)</stage>
           <p>Dies soll aus Haushaltsgründen in der ersten Stufe sogar weitgehend aufkommensneutral geschehen, was ich für sehr schade halte. Deshalb ist auch eine Gegenfinanzierung aus dem gewerblichen Bereich vorgesehen.</p>
-          <p>Dazu muß ich insbesondere noch einmal auf Sie, Frau Scheel, eingehen, was   34 angeht. Der Minister hat es schon einmal erklärt, Frau Hasselfeldt ebenso; ich versuche es jetzt zum dritten Male. Das ist kein Einknicken gegenüber irgendwelchen Klientelen oder so etwas, was immer behauptet wird.</p>
+          <p>Dazu muß ich insbesondere noch einmal auf Sie, Frau Scheel, eingehen, was § 34 angeht. Der Minister hat es schon einmal erklärt, Frau Hasselfeldt ebenso; ich versuche es jetzt zum dritten Male. Das ist kein Einknicken gegenüber irgendwelchen Klientelen oder so etwas, was immer behauptet wird.</p>
           <stage type="interjection">(Dr. Barbara Hendricks [SPD]: Nein, gar nicht!)</stage>
-          <p>34 betrifft vielmehr ausgesprochen unterschiedliche Einkunftsarten, unter anderem auch gewerbliche. Da sind Einkünfte aus Land- und Forstwirtschaft dabei, da sind insbesondere die Selbständigen und die freien Berufe dabei. Es sind sogar auch Arbeitnehmer mit bestimmten Abfindungen dabei, bis hin zum Handelsvertreter. All das paßt nicht als Gegenfinanzierung zu einer Absenkung der Tarife ausschließlich im gewerblichen Bereich.</p>
+          <p>§ 34 betrifft vielmehr ausgesprochen unterschiedliche Einkunftsarten, unter anderem auch gewerbliche. Da sind Einkünfte aus Land- und Forstwirtschaft dabei, da sind insbesondere die Selbständigen und die freien Berufe dabei. Es sind sogar auch Arbeitnehmer mit bestimmten Abfindungen dabei, bis hin zum Handelsvertreter. All das paßt nicht als Gegenfinanzierung zu einer Absenkung der Tarife ausschließlich im gewerblichen Bereich.</p>
           <stage type="interjection">(Carl-Ludwig Thiele [F.D.P.]: Sehr richtig!)</stage>
-          <p>Das war der entscheidende Punkt, weshalb wir   34 schon auf dem Weg zwischen dem Referentenentwurf und dem Regierungsentwurf wieder herausgenommen haben. Die Sache war vom Inhalt her falsch, weil die falschen Gegenfinanzierungsvolumina gesucht worden sind, und es war natürlich erst recht vom Datum her falsch, weil wir sogar eine Rückwirkung auf den 1. Januar 1997 hatten.</p>
+          <p>Das war der entscheidende Punkt, weshalb wir § 34 schon auf dem Weg zwischen dem Referentenentwurf und dem Regierungsentwurf wieder herausgenommen haben. Die Sache war vom Inhalt her falsch, weil die falschen Gegenfinanzierungsvolumina gesucht worden sind, und es war natürlich erst recht vom Datum her falsch, weil wir sogar eine Rückwirkung auf den 1. Januar 1997 hatten.</p>
           <stage type="interjection">(Detlev von Larcher [SPD]: Mein Gott, was haben Sie da bloß gemacht!)</stage>
           <p>Insofern ist es natürlich ganz richtig, daß es im Moment draußen ist und erst einmal der zweiten Stufe vorbehalten ist, nämlich dem Zeitpunkt, zu dem auch die anderen Einkunftsarten entlastet werden, zu dem Land- und Forstwirte und auch Freiberufler etwas von dem neuen Tarif haben. Dann ist es gerechtfertigt, auch in diesen Bereichen an der Bemessungsgrundlage entsprechend etwas zu ändern. Bei einer Vorziehung hätten wir eine wirkliche Schieflage in der ersten Stufe.</p>
           <stage type="interjection">(Christine Scheel [BÜNDNIS 90/DIE GRÜNEN]: Es geht doch nur um außerordentliche Einkünfte!)</stage>
@@ -543,15 +543,15 @@
           <stage type="interjection">(Christine Scheel [BÜNDNIS 90/DIE GRÜNEN]: Dann gehört aber auch ein Teil dort hinein!)</stage>
           <p>Deshalb dürfen sie nicht zur Finanzierung von Absenkungen des Tarifs nur im gewerblichen Bereich herangezogen werden. Das macht keinen Sinn.</p>
           <stage type="interjection">(Beifall bei der F.D.P.)</stage>
-          <p>Wir müssen also ganz klar darauf hinweisen, daß das einen sachlichen Grund hatte und keinerlei Abweichen von der Konsequenz unserer Steuerreform ist. Wir müssen nur jeweils die richtigen Teile zuordnen. Das war im Referentenentwurf noch nicht erfolgt. Das haben wir jetzt richtiggestellt. Für den 1. Januar 1999 wird die entsprechende Formulierung auch in   34 erfolgen. Wir haben das Ziel insgesamt nicht aufgegeben, aber es muß zeitlich stimmen.</p>
+          <p>Wir müssen also ganz klar darauf hinweisen, daß das einen sachlichen Grund hatte und keinerlei Abweichen von der Konsequenz unserer Steuerreform ist. Wir müssen nur jeweils die richtigen Teile zuordnen. Das war im Referentenentwurf noch nicht erfolgt. Das haben wir jetzt richtiggestellt. Für den 1. Januar 1999 wird die entsprechende Formulierung auch in § 34 erfolgen. Wir haben das Ziel insgesamt nicht aufgegeben, aber es muß zeitlich stimmen.</p>
           <stage type="interjection">(Christine Scheel [BÜNDNIS 90/DIE GRÜNEN]: Das hat Herr Solms etwas anders dargestellt!)</stage>
           <p>-- Nein, das hat er nicht anders dargestellt. Das ist genau die Darstellung, die unserer Meinung entspricht.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Frau Professor Frick, würden Sie bitte auf die Uhr sehen.</p>
         </sp>
-        <sp who="Gisela Frick" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Gisela Frick">
+        <sp who="Gisela Frick" parliamentary_group="FDP" role="mp" position="NA" who_original="Gisela Frick" party="FDP" name="Gisela Frick">
           <speaker>Gisela Frick (F.D.P.):</speaker>
           <p>Ja, ich bin auch eigentlich mit meinem Gedankengang fertig.</p>
           <p>Ich möchte zum Schluß noch einmal an die SPD appellieren; denn wir brauchen sie, das ist bekannt. Es sollte möglichst vermieden werden, daß ein solches Projekt wie die Steuerreform zuletzt im Vermittlungsausschuß verhandelt wird. Kommen Sie wieder an den Gesprächstisch zurück. Stellen Sie keine Vorbedingungen,</p>
@@ -559,11 +559,11 @@
           <p>sondern gehen Sie offen in die Gespräche! Auch wir tun das. Danke schön.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat die Kollegin Dr. Barbara Höll, PDS.</p>
         </sp>
-        <sp who="Dr. Barbara Höll" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Barbara Höll">
+        <sp who="Barbara Höll" parliamentary_group="PDS" role="mp" position="NA" who_original="Barbara Höll" party="PDS" name="Barbara Höll">
           <speaker>Dr. Barbara Höll (PDS):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Es nötigt mir schon fast Bewunderung ab, mit welcher Unverfrorenheit Herr Waigel, aber auch die anderen Rednerinnen und Redner der Regierungskoalition sich hier hinstellen und verkaufen: Jetzt geht es los mit der großen Steuerreform. Frau Frick beklagte eben auch noch die Steuerverdrossenheit innerhalb der Bevölkerung. Nun fragt man sich wirklich wieder einmal: Wer ist denn seit 1982 an der Regierung, und wer macht denn seit dieser Zeit Finanz- und Steuerpolitik?</p>
           <stage type="interjection">(Beifall bei der PDS -- Gisela Frick [F.D.P.]: Zustimmungsbedürftig, Frau Dr. Höll!)</stage>
@@ -598,11 +598,11 @@
           <p>Ich bedanke mich.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Hans-Peter Repnik, CDU/CSU.</p>
         </sp>
-        <sp who="Hans-Peter Repnik" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hans-Peter Repnik">
+        <sp who="Hans-Peter Repnik" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hans-Peter Repnik" party="CDU" name="Hans-Peter Repnik">
           <speaker>Hans-Peter Repnik (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Wir haben heute mit der parlamentarischen Beratung einer Reform begonnen, die wohl wie kein anderes Werk nachhaltigst geeignet ist, die Rahmenbedingungen in der Bundesrepublik Deutschland zu verbessern und den Standort Deutschland auch in die Zukunft hinein zu sichern.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
@@ -633,11 +633,11 @@
           <p>Dies sagte er eine Woche, nachdem der Bund 200 Millionen DM Kohlesubventionen jährlich für das Saarland zu Lasten des Bundeshaushalts übernommen hat. Schäbiger geht es nicht mehr!</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Abg. Dr. Barbara Hendricks [SPD] meldet sich zu einer Zwischenfrage)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege Repnik, gestatten Sie Zwischenfragen?</p>
         </sp>
-        <sp who="Hans-Peter Repnik" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hans-Peter Repnik">
+        <sp who="Hans-Peter Repnik" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hans-Peter Repnik" party="CDU" name="Hans-Peter Repnik">
           <speaker>Hans-Peter Repnik (CDU/CSU):</speaker>
           <p>Nein, jetzt nicht.</p>
           <stage type="interjection">(Zurufe von der SPD)</stage>
@@ -660,7 +660,7 @@
           <p>Die Kommission hat einen Vorschlag gemacht, von dem ich das Gefühl habe, daß es sich lohnt, daß wir uns heute mit ihm auseinandersetzen. Er steht nämlich in einem interessanten Gegensatz zu vielem, was Herr Scharping heute morgen zu diesem Thema erklärt hat. Übrigens nicht nur Herr Voscherau, auch der finanzpolitische Sprecher Poß war Mitglied dieser Verhandlungskommission.</p>
           <stage type="interjection">(Wolf-Michael Catenhusen [SPD]: Und Frau Matthäus-Maier!)</stage>
           <p>-- Auch Frau Matthäus-Maier.</p>
-          <p>Unter anderem steht folgendes in dem Vorschlag; ich sage das jetzt im Zeitraffer: </p>
+          <p>Unter anderem steht folgendes in dem Vorschlag; ich sage das jetzt im Zeitraffer:</p>
           <p>Erstens. Tragende Grundsätze der Einkommensbesteuerung, wie die Gleichmäßigkeit der Besteuerung, die Besteuerung nach der wirtschaftlichen Leistungsfähigkeit, sind schwerwiegend verletzt. Mehrfach hat das Bundesverassungsgericht das Einkommensteuerrecht in zentralen Bereichen für verfassungswidrig erklärt. -- Völliger Konsens! Deshalb machen wir diese Reform.</p>
           <p>Zweitens. Einkommensmillionäre -- hochspannend im Hinblick auf das, was Herr Scharping heute früh zu dem Thema gesagt hat -- können ihre Steuerschuld in manchen Fällen sogar auf Null reduzieren. Es ist ein extremer Verstoß gegen die Steuergerechtigkeit, wenn Arbeitnehmer mit mittleren Einkommen eine höhere effektive Grenzbelastung zu tragen haben als Bezieher höherer Einkommen. -- Exakt aus diesem Grund machen wir die Steuerreform.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Ingrid Matthäus-Maier [SPD]: Wir schließen die Schlupflöcher!)</stage>
@@ -690,41 +690,41 @@
           <stage type="interjection">(Ludwig Eich [SPD]: Sie sind unredlich, Herr Kollege!)</stage>
           <p>Ich kann nur schließen: Er ist bereit, auch die Mehrwertsteuer zu erhöhen.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege Repnik, gestatten Sie eine Zwischenfrage des Kollegen Kuhlwein?</p>
         </sp>
-        <sp who="Hans-Peter Repnik" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hans-Peter Repnik">
+        <sp who="Hans-Peter Repnik" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hans-Peter Repnik" party="CDU" name="Hans-Peter Repnik">
           <speaker>Hans-Peter Repnik (CDU/CSU):</speaker>
           <p>Ja, bitte. Ich gehe davon aus, daß dies nicht auf die Redezeit angerechnet wird.</p>
         </sp>
-        <sp who="Eckart Kuhlwein" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Eckart Kuhlwein">
+        <sp who="Eckart Kuhlwein" parliamentary_group="SPD" role="mp" position="NA" who_original="Eckart Kuhlwein" party="SPD" name="Eckart Kuhlwein">
           <speaker>Eckart Kuhlwein (SPD):</speaker>
           <p>Herr Kollege Repnik, darf man aus dem letzten Teil Ihrer Ausführungen schließen, daß auch Sie sich für eine Senkung der Lohnnebenkosten einsetzen werden</p>
           <stage type="interjection">(Lachen bei der CDU/CSU)</stage>
           <p>und daß auch Sie nichts dagegen haben, wenn die Senkung der Lohnnebenkosten durch eine Erhöhung indirekter Steuern finanziert würde?</p>
           <stage type="interjection">(Dr. Renate Hellwig [CDU/CSU]: Guten Morgen!)</stage>
         </sp>
-        <sp who="Hans-Peter Repnik" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hans-Peter Repnik">
+        <sp who="Hans-Peter Repnik" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hans-Peter Repnik" party="CDU" name="Hans-Peter Repnik">
           <speaker>Hans-Peter Repnik (CDU/CSU):</speaker>
           <p>Herr Kollege Kuhlwein, wenn Sie in diesen Tagen die öffentliche Berichterstattung verfolgt hätten, dann hätten Sie zur Kenntnis nehmen können, daß wir uns auf unserem kleinen Parteitag am Mittwoch dieser Woche mit der Zukunft des Rentensystems auseinandergesetzt haben. Wir haben exakt dies beschlossen: Wir haben beschlossen, daß die Rentenbeiträge um einen Prozentpunkt zurückgeführt werden sollen und die durch diesen einen Prozentpunkt entstehenden Mindereinnahmen -- ohne daß wir uns auf die konkrete Gegenfinanzierung festgelegt haben --</p>
           <stage type="interjection">(Eckart Kuhlwein [SPD]: Genau das ist das Problem!)</stage>
           <p>über indirekte Steuern finanziert werden sollen. Hier haben wir keinen Nachholbedarf.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege Repnik, gestatten Sie eine weitere Zwischenfrage der Kollegin Hendricks?</p>
           <stage type="interjection">(Dr. Alfred Dregger [CDU/CSU]: Die Zeit ist zu schade!)</stage>
         </sp>
-        <sp who="Hans-Peter Repnik" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hans-Peter Repnik">
+        <sp who="Hans-Peter Repnik" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hans-Peter Repnik" party="CDU" name="Hans-Peter Repnik">
           <speaker>Hans-Peter Repnik (CDU/CSU):</speaker>
           <p>Bitte.</p>
         </sp>
-        <sp who="Dr. Barbara Hendricks" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Barbara Hendricks">
+        <sp who="Barbara Hendricks" parliamentary_group="SPD" role="mp" position="NA" who_original="Barbara Hendricks" party="SPD" name="Barbara Hendricks">
           <speaker>Dr. Barbara Hendricks (SPD):</speaker>
           <p>Herr Kollege Repnik, ich darf auf den von Ihnen eben zitierten Auszug aus der "Wirtschaftswoche" zurückkommen. Sie haben sich gerade auf ein Interview mit dem Ersten Bürgermeister Voscherau bezogen. Das fing nach Ihrem Zitat mit den Worten "für diesen Zweck" an. Dann haben Sie mit Ihren Worten ergänzt, er meine damit die Steuerreform. Aus dem Schluß des von Ihnen vorgetragenen Zitates geht allerdings hervor, daß er damit die Lohnnebenkosten meint. Sind Sie bereit, dies vor diesem Hause so zu korrigieren?</p>
         </sp>
-        <sp who="Hans-Peter Repnik" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hans-Peter Repnik">
+        <sp who="Hans-Peter Repnik" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hans-Peter Repnik" party="CDU" name="Hans-Peter Repnik">
           <speaker>Hans-Peter Repnik (CDU/CSU):</speaker>
           <p>Verehrte Frau Kollegin, ich wollte nicht das ganze Interview von Herrn Voscherau vorlesen.</p>
           <stage type="interjection">(Ina Albowitz [F.D.P.]: Lesen Sie einmal vor! Das ist nämlich interessant!)</stage>
@@ -751,11 +751,11 @@
           <p>Die Bevölkerung und der Standort Deutschland werden es Ihnen danken.</p>
           <stage type="interjection">(Lebhafter Beifall bei der CDU/CSU und der F.D.P. -- Zurufe von der SPD)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort zu einer Kurzintervention hat die Kollegin Matthäus-Maier.</p>
         </sp>
-        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ingrid Matthäus-Maier">
+        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" who_original="Ingrid Matthäus-Maier" party="SPD" name="Ingrid Matthäus-Maier">
           <speaker>Ingrid Matthäus-Maier (SPD):</speaker>
           <p>Sehr geehrter Herr Kollege Repnik, Sie versuchen seit Monaten, durch Zitate aus einem nie beschlossenen Diskussionspapier der SPD Punkte zu gewinnen. Wenn es nicht beschlossen ist, dann ist es nicht die Meinung meiner Partei, und dann können Sie auch nicht daraus zitieren.</p>
           <stage type="interjection">(Lachen bei der CDU/CSU -- Zuruf von der CDU/CSU: Das wird ja immer schlimmer!)</stage>
@@ -769,22 +769,22 @@
           <p>Ich rede jetzt sehr ruhig, damit kein falscher Eindruck entsteht. Ich bin der Ansicht, daß der Bundeskanzler dieser Republik im Vergleich zu den Leuten in der Wirtschaft durchaus nicht zuviel verdient. Aber Ihr Steuerpaket verschafft dem Bundeskanzler, den Mitgliedern der Regierung, den Ministerpräsidenten und den Landesministern im Jahr eine Steuerentlastung zwischen 20 000 und 30 000 DM. Sie wollen doch nicht behaupten, daß das neue Arbeitsplätze schafft. Deswegen ist Ihr Argument, die Senkung des privaten Spitzensteuersatzes schaffe Arbeitsplätze, dummes Zeug.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Frau Kollegin, Sie müssen zum Schluß kommen. Die drei Minuten sind abgelaufen.</p>
         </sp>
-        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ingrid Matthäus-Maier">
+        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" who_original="Ingrid Matthäus-Maier" party="SPD" name="Ingrid Matthäus-Maier">
           <speaker>Ingrid Matthäus-Maier (SPD):</speaker>
           <p>Als letztes zu der Besteuerung der Nacht- und Schichtzuschläge: Steuersystematisch -- das weiß man -- kann man darüber sehr wohl diskutieren. Aber ich frage Sie: Glauben Sie ernsthaft, daß Sozialdemokraten zustimmen, daß Ihre Koalition über die Besteuerung der Nachtzuschläge dafür sorgt, daß die Krankenschwester den Spitzensteuersatz für Chefärzte bezahlt</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>und daß in Duisburg die Stahlwerker durch die Besteuerung ihrer Schichtzuschläge die Spitzensteuersatzsenkungen für die miesen Manager und Banker bezahlen, die hinter ihrem Rücken die bösartige Übernahme vorbereiten? Das glauben Sie doch wohl nicht!</p>
           <stage type="interjection">(Beifall bei der SPD -- Ina Albowitz [F.D.P.]: Das ist Klassenkampf hoch drei!)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege Repnik.</p>
         </sp>
-        <sp who="Hans-Peter Repnik" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hans-Peter Repnik">
+        <sp who="Hans-Peter Repnik" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hans-Peter Repnik" party="CDU" name="Hans-Peter Repnik">
           <speaker>Hans-Peter Repnik (CDU/CSU):</speaker>
           <p>Frau Matthäus-Maier, ich muß sagen: Schade. Der Beitrag, den Sie in Ihrer Steuerkommission geleistet haben, war um Klassen seriöser als Ihr Beitrag jetzt.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Ingrid Matthäus-Maier [SPD]: Der gefällt Ihnen nicht!)</stage>
@@ -798,11 +798,11 @@
           <p>Lassen Sie also die Neidkampagne, und tragen Sie mit uns eine Steuerreform, die den Namen verdient und die zur Sicherung und Schaffung neuer Arbeitsplätze beiträgt.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat jetzt der Kollege Reinhard Schultz, SPD.</p>
         </sp>
-        <sp who="Reinhard Schultz" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Reinhard Schultz">
+        <sp who="Reinhard Schultz (Everswinkel)" parliamentary_group="SPD" role="mp" position="NA" who_original="Reinhard Schultz (Everswinkel)" party="SPD" name="Reinhard Schultz">
           <speaker>Reinhard Schultz (Everswinkel) (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! In dieser Debatte geistert zum wiederholten Male ein sogenanntes unautorisiertes Papier herum, hinter dem angeblich die ganze SPD steht, nur diejenigen nicht, die für sie hier handeln.</p>
           <p>Ich kann Ihnen nur sagen: Die SPD hat sich selbstverständlich auf der Grundlage der Liste von Professor Bareis und seiner Kommission mit der Frage befaßt: Mit welchen Steuervergünstigungen muß man sich eigentlich auseinandersetzen, wenn man die Bemessungsgrundlagen verbreitern will? Die SPD hat sich damit befaßt; das war ständig Gegenstand unserer Diskussionen.</p>
@@ -840,11 +840,11 @@
           <p>-- Ich weiß nicht, wie Sie in dieser Situation einen solchen Zwischenruf machen können. Wenn Ihr Fraktionsvorsitzender über die Erhöhung der indirekten Steuern und andere offen über eine Mehrwertsteuererhöhung reden, dann brauchen Sie mich hier nicht zu beschimpfen, wenn ich versuche, mit Augenmaß darzustellen, wie wir ein vernünftiges Verhältnis zwischen der Belastung der natürlichen Ressourcen und der des Faktors Arbeit hinbekommen. Ihre Haltung ist doch einfach unehrlich.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege Schultz, achten Sie bitte auf die Uhr.</p>
         </sp>
-        <sp who="Reinhard Schultz" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Reinhard Schultz">
+        <sp who="Reinhard Schultz (Everswinkel)" parliamentary_group="SPD" role="mp" position="NA" who_original="Reinhard Schultz (Everswinkel)" party="SPD" name="Reinhard Schultz">
           <speaker>Reinhard Schultz (Everswinkel) (SPD):</speaker>
           <p>Ja.</p>
           <p>Auch wir wissen, daß durch die Energiebesteuerung allein das erreichbare Finanzvolumen nicht ausreichen wird, um die Sozialbeiträge spürbar zu senken und die Ausgaben für die versicherungsfremden Leistungen zu decken. Dazu hat Oskar Lafontaine in seinem Brief an den Bundeskanzler einiges geschrieben: Über die Frage der Ökologiesteuer hinaus sind wir natürlich bereit, über andere Finanzierungsmöglichkeiten im indirekten Bereich zu reden, wenn sie zur Senkung der Lohnnebenkosten verwandt werden und zu nichts anderem.</p>
@@ -855,12 +855,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat jetzt der Kollege Peter Rauen, CDU/CSU.</p>
           <stage type="interjection">(Siegfried Hornung [CDU/CSU]: Jetzt kommt ein Praktiker!)</stage>
         </sp>
-        <sp who="Peter Rauen" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Rauen">
+        <sp who="Peter Rauen" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Rauen" party="CDU" name="Peter Rauen">
           <speaker>Peter Rauen (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Wir wollen und brauchen mehr Arbeitsplätze in Deutschland. Darin sind wir uns mit der Opposition völlig einig.</p>
           <p>Was heute morgen der Vorsitzende der größten Oppositionsfraktion, Scharping, im Zusammenhang mit Steuern und Steuerzahlern zum wiederholten Male gesagt hat, war verlogen und unverantwortlich.</p>
@@ -892,32 +892,32 @@
           <p>Schönen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort zu einer Kurzintervention hat der Kollege von Larcher.</p>
         </sp>
-        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Detlev von Larcher">
+        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" who_original="Detlev von Larcher" party="SPD" name="Detlev von Larcher">
           <speaker>Detlev von Larcher (SPD):</speaker>
           <p>Wer der SPD Unwahrhaftigkeit, Verlogenheit und Schlimmeres vorwirft, der sollte wenigstens, wenn er hier am Pult steht, selber nicht die Unwahrheit sagen. Deswegen zitiere ich jetzt Herrn Voscherau:</p>
           <p>Ich warne vor der Illusion, daß die Steuerreform allein die Arbeitslosigkeit verringern wird. Das funktioniert so nicht. Wir brauchen ein großes Sanierungsprogramm. Für die SPD hat die Senkung der Lohnnebenkosten Priorität. Die Sozialkassen sollten um die 57,3 Milliarden Mark entlastet werden, die unstrittig versicherungsfremd sind. Dann könnten wir die Beiträge zum 1. Juli dieses Jahres entsprechend senken. Finanziert werden müßte dies erstens durch einen Einstieg in die ökologische Steuerreform. Zweitens kann der Solidaritätszuschlag dann nicht gesenkt werden.</p>
           <p>Bleibt noch eine Lücke, muß für die Senkung der Lohnnebenkosten die Mehrwertsteuer erhöht werden.</p>
           <stage type="interjection">(Wolf-Michael Catenhusen [SPD]: Wollen Sie das?)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Zur Erwiderung, Herr Kollege Rauen.</p>
         </sp>
-        <sp who="Peter Rauen" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Rauen">
+        <sp who="Peter Rauen" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Rauen" party="CDU" name="Peter Rauen">
           <speaker>Peter Rauen (CDU/CSU):</speaker>
           <p>Ich habe hier die Pressenotizen:</p>
           <p>Voscherau: Jeder 2. Millionär zahlt keine Steuern Scharping hat das im Parlament wiederholt. Das war gelogen. Es ist bewiesen, daß dies gelogen war. Es ist unverantwortlich, Neid ins Volk hineinzutragen. Das ist schlecht für die Förderung der Selbständigkeit und für die Schaffung von Arbeitsplätzen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU -- Siegfried Hornung [CDU/CSU]: Haß und Neid sind das einzige, was die SPD kennt!)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat jetzt der Kollege Ludwig Eich, SPD.</p>
         </sp>
-        <sp who="Ludwig Eich" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ludwig Eich">
+        <sp who="Ludwig Eich" parliamentary_group="SPD" role="mp" position="NA" who_original="Ludwig Eich" party="SPD" name="Ludwig Eich">
           <speaker>Ludwig Eich (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Herr Kollege Rauen, Sie und Ihre Freunde begreifen einfach nicht, daß es hier um den Grundsatz der Gerechtigkeit geht, der dank Ihrer Politik in diesem Land unter die Räder gekommen ist. Das hat mit Neid überhaupt nichts zu tun. Das ist vielmehr ein Grundsatz, der in einem Sozialstaat einer Volkspartei, die Sie ja noch sein wollen, gut anstände.</p>
           <p>Die bisherige Diskussion um die sogenannte Steuerreform hat zumindest eines sehr deutlich gemacht: Es besteht Klarheit über die Alternativen; die Unterschiede zwischen den Konzepten sind deutlich.</p>
@@ -952,16 +952,16 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
-          <p>Das Wort zu einer Erklärung nach   30 unserer Geschäftsordnung hat der Kollege Scharping.</p>
+          <p>Das Wort zu einer Erklärung nach § 30 unserer Geschäftsordnung hat der Kollege Scharping.</p>
         </sp>
-        <sp who="Rudolf Scharping" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Scharping">
+        <sp who="Rudolf Scharping" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Scharping" party="SPD" name="Rudolf Scharping">
           <speaker>Rudolf Scharping (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Ich mußte leider zum Arzt und konnte nicht hören, was Herr Repnik gesagt hat. Ich möchte aber mit Blick auf das, was mir berichtet wurde, hier feststellen, daß seine Behauptung über ein Telefonat zwischen Herrn Schäuble und mir falsch ist. Ich möchte im übrigen sagen, daß ich diese Art des Umgangs mit einem Telefonat zwischen zwei Menschen, von denen jedenfalls der eine nicht weiß, daß möglicherweise ein Dritter zuhört, für ein sehr bezeichnendes Schlaglicht dafür halte, wie Sie mit solchen Gesprächen in Zukunft umzugehen gedenken. Ich finde, es ist ein unglaublicher Vorgang. Ich stelle fest, daß es in der Sache falsch ist und vom Vorgehen charakterlos war.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird die Überweisung des Gesetzentwurfes auf Drucksache 13/7242 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Die Vorlage soll allerdings nicht dem Ausschuß für Raumordnung, Bauwesen und Städtebau überwiesen werden; das ist insoweit also eine Korrektur. Gibt es anderweitige Vorschläge? -- Das ist offenbar nicht der Fall. Dann ist die Überweisung so beschlossen.</p>
@@ -993,7 +993,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="2" what="debate" desc="a)Erste Beratung des von den Abgeordneten Christa Nickels, Amke Dietert-Scheuer ...">
-        <sp who="Christa Nickels" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Christa Nickels">
+        <sp who="Christa Nickels" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Christa Nickels" party="GRUENE" name="Christa Nickels">
           <speaker>Christa Nickels (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Mit der Einbringung unserer drei Gesetzentwürfe zu einer Reform des Petitionsrechts betreten wir kein Neuland. Das sind auch keine Entwürfe, die sozusagen allein auf grünem Boden gewachsen sind. Vielmehr sind sie fest verwurzelt in einer langjährigen Debatte zur Reform des Petitionsrechts, die einen ihrer Höhepunkte 1975 hatte, und zwar sowohl hier im Deutschen Bundestag als auch in einigen Bundesländern, damals besonders in Rheinland-Pfalz.</p>
           <p>Mit der Genehmigung des Präsidenten möchte ich den heutigen Bundeskanzler und damaligen Ministerpräsidenten von Rheinland-Pfalz zitieren, der sehr schön einen der wichtigsten Punkte, die wir heute für den Bundestag vorschlagen, damals in Rheinland-Pfalz wie folgt begründet hat -- ich zitiere den damaligen Ministerpräsidenten Helmut Kohl --:</p>
@@ -1016,45 +1016,45 @@
           <p>Jetzt kommen immer die Argumente und Einwendungen, für ein kleines Bundesland sei das vielleicht machbar, aber es sei nicht auf den Bund übertragbar. Diejenigen, die diese Einwendungen machen, möchte ich darauf hinweisen, daß seit 1995 auf europäischer Ebene dem Petitionsausschuß des Europäischen Parlaments auf seinen ausdrücklichen eigenen Wunsch ein Bürgerbeauftragter zugeordnet wurde. Diese beiden Institutionen arbeiten seit zwei Jahren im Interesse der Bürgerinnen und Bürger Europas gut zusammen.</p>
           <p>Wir befinden uns mit unserem Gesetzentwurf zur Bürgerbeauftragten in bester Gesellschaft: Im Auftrag der UNESCO und der Europäischen Union arbeiten zur Zeit 20 Wissenschaftlerinnen und Wissenschaftler an einem Modell für ein Ombudsmanngesetz. Weltweit ist man bemüht, die Kommunikation zwischen Parlament, Verwaltung und Bürgerinnen durch die Stärkung des Petitionsrechts und die Etablierung von Bürgerbeauftragten zu verbessern. So haben bereits mehr als 70 Staaten die Idee des Ombudsmanns als Hüter von BürgerInnenrechten und Instrument der Verwaltungskontrolle, zumeist auf gesamtstaatlicher Ebene, aufgegriffen. Die Bundesrepublik Deutschland ist zur Zeit der einzige größere Staat Europas, der auf die Einführung eines personifizierten parlamentarischen Kontrollorgans im Bund und in 13 von 16 Bundesländern verzichtet hat. Nur in Luxemburg und der Tschechischen Republik gibt es ebenfalls keine Bürgerbeauftragten.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Gestatten Sie eine Zwischenfrage, Frau Kollegin Nickels?</p>
         </sp>
-        <sp who="Christa Nickels" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Christa Nickels">
+        <sp who="Christa Nickels" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Christa Nickels" party="GRUENE" name="Christa Nickels">
           <speaker>Christa Nickels (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Wenn es nicht auf die Zeit angerechnet wird, ja.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Es wird nicht angerechnet. -- Bitte schön.</p>
         </sp>
-        <sp who="Frederick Schulze" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Frederick Schulze">
+        <sp who="Frederick Schulze (Sangerhausen)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Frederick Schulze (Sangerhausen)" party="CDU" name="Frederick Schulze">
           <speaker>Frederick Schulze (Sangerhausen) (CDU/CSU):</speaker>
           <p>Frau Kollegin Nickels, ich habe mich sehr wohl mit Ihrem Gesetzentwurf befaßt, in dem Sie als Lösung ansprechen:</p>
           <p>Zur Stärkung und bürgernahen Gestaltung des Petitionsrechts wird vom Deutschen Bundestag eine Bürgerbeauftragte eingesetzt, die als Hilfsorgan des Parlaments dem Petitionsausschuß zugeordnet ist.</p>
           <p>Sie haben richtigerweise angesprochen, daß das in Rheinland-Pfalz so der Fall ist. Aber was in Rheinland-Pfalz richtig sein kann, muß nicht für die ganze Republik gelten.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Eine Frage, bitte.</p>
         </sp>
-        <sp who="Frederick Schulze" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Frederick Schulze">
+        <sp who="Frederick Schulze (Sangerhausen)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Frederick Schulze (Sangerhausen)" party="CDU" name="Frederick Schulze">
           <speaker>Frederick Schulze (Sangerhausen) (CDU/CSU):</speaker>
           <p>Ich komme gleich zu der Frage.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Sie müssen jetzt zur Frage kommen. Die Frage soll kurz und bündig sein.</p>
         </sp>
-        <sp who="Frederick Schulze" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Frederick Schulze">
+        <sp who="Frederick Schulze (Sangerhausen)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Frederick Schulze (Sangerhausen)" party="CDU" name="Frederick Schulze">
           <speaker>Frederick Schulze (Sangerhausen) (CDU/CSU):</speaker>
           <p>Stimmen Sie mir zu, daß Ihr Gesetzestext eine gewisse Geschlechtsneutralität vermissen läßt? Es wird durchgängig nur von der Bürgerbeauftragten gesprochen. Ich halte dies nicht für sehr glücklich.</p>
           <p>Ich meine, es hat sich auch bewährt, daß wir keine Überinstanz neben dem Petitionsausschuß haben. Ich wäre Ihnen dankbar, wenn Sie darauf noch eingehen könnten.</p>
         </sp>
-        <sp who="Christa Nickels" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Christa Nickels">
+        <sp who="Christa Nickels" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Christa Nickels" party="GRUENE" name="Christa Nickels">
           <speaker>Christa Nickels (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Das sind zwei Fragen. Die möchte ich gern beantworten. Das erste haben Sie zu Recht bemerkt. Da ich diesen Gesetzentwurf erarbeitet und auch lange Jahre im Rechtsausschuß gearbeitet habe und mich wirklich über die Diskriminierung von Frauen in der Rechts- und Verwaltungssprache immer geärgert habe, habe ich mir diesmal das Vergnügen bereitet, die einseitig weibliche Form zu benutzen, bei der selbstverständlich auch die Männer mit gemeint sind.</p>
-          <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN  sowie bei der PDS)</stage>
+          <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN sowie bei der PDS)</stage>
           <p>Es steht auch ausdrücklich darin:</p>
           <p>Bürgerbeauftragte im Sinne des Gesetzes ist ein weiblicher oder ein männlicher Amtsinhaber.</p>
           <p>Das wird Sie vielleicht trösten, Herr Kollege Schulze.</p>
@@ -1074,11 +1074,11 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Norbert Röttgen, CDU/CSU.</p>
         </sp>
-        <sp who="Norbert Röttgen" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Norbert Röttgen">
+        <sp who="Norbert Röttgen" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Norbert Röttgen" party="CDU" name="Norbert Röttgen">
           <speaker>Norbert Röttgen (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Bevor ich auf die Vorschläge der Fraktion Bündnis 90/Die Grünen eingehe, möchte ich zunächst einige Feststellungen zur Lage des Petitionsrechts in Deutschland abgeben, weil wir der Auffassung sind, daß sich das Petitionsrecht des Grundgesetzes in den vergangenen 48 Jahren außerordentlich bewährt hat. Das verdient hervorgehoben zu werden, bevor wir nun einzelne Punkte kritisieren.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. sowie Zustimmung des Abg. Bernd Reuter [SPD])</stage>
@@ -1126,12 +1126,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Ulrich Heinrich [F.D.P.]: Sehr gute Rede!)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Der Kollege Häfner hat sich zu einer Kurzintervention gemeldet. Ich lasse sie zu, mache aber folgende geschäftsleitende Bemerkung. Wir liegen in der Tagesordnung um nahezu eine dreiviertel Stunde zurück. Wir werden die Aktuelle Stunde voraussichtlich gegen 2 Uhr, schätze ich einmal, erwarten. Jeder weiß, was das bedeutet.</p>
           <p>Deshalb werde ich ab sofort -- ich sage das jetzt -- bei der Zulassung von Kurzinterventionen zurückhaltend sein. Ich bitte Sie, Herr Kollege Häfner, sich sehr präzise an die Zeitvorgabe zu halten und sie, wenn es geht, zu unterschreiten.</p>
         </sp>
-        <sp who="Gerald Häfner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Gerald Häfner">
+        <sp who="Gerald Häfner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Gerald Häfner" party="GRUENE" name="Gerald Häfner">
           <speaker>Gerald Häfner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Lieber Herr Kollege Röttgen, ich habe mich deshalb zu einer Kurzintervention gemeldet, weil ich aus unseren Gesprächen immer den Eindruck hatte, daß man sich doch in wichtigen Dingen gut verständigen kann. Ich konnte es im Grunde im Moment kaum fassen, daß entweder die Kenntnis des vorliegenden Antrags so gering ist oder wir doch so gezielt aneinander vorbeireden.</p>
           <p>Sie haben deutlich gesagt, wir wollten dem Bürger den Weg zum Petitionsausschuß nehmen und wir wollten dem Bürger das Petitionsrecht nehmen. Wenn Sie den Antrag lesen, dann werden Sie finden, daß es um das Gegenteil geht. Es geht um eine Ausweitung der Möglichkeiten des Petitionsrechts.</p>
@@ -1143,11 +1143,11 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Bernd Reuter, SPD.</p>
         </sp>
-        <sp who="Bernd Reuter" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Bernd Reuter">
+        <sp who="Bernd Reuter" parliamentary_group="SPD" role="mp" position="NA" who_original="Bernd Reuter" party="SPD" name="Bernd Reuter">
           <speaker>Bernd Reuter (SPD):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Es ist eine Freude, wenn man in diesen aufgeregten Zeiten einmal etwas sagen darf, was sicher die Zustimmung des ganzen Hauses finden kann. Diese Freude will ich Ihnen und mir auch machen, indem ich feststelle, daß es doch unser aller Ziel ist, die Probleme, Anliegen, Beschwerden und Bitten der Bürgerinnen und Bürger ernst zu nehmen und dafür zu sorgen, daß ein Höchstmaß an "Gerechtigkeit gegen jedermann" geübt wird.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
@@ -1183,7 +1183,7 @@
           <p>Von dem Ombudsmann von Nigeria, der erklärt, was er alles gemacht hat, weiß doch jeder Eingeweihte, daß er in seinen Entscheidungen überhaupt nicht frei ist.</p>
           <p>In anderen Ländern gibt es andere historische Entwicklungen. Deshalb hat das Europäische Parlament eine solche Regelung getroffen, allerdings ganz eng auf europäisches Recht beschränkt.</p>
           <p>Ich kann einfach nicht nachvollziehen, daß die Arbeit des Petitionsausschusses qualitativ besser werden könnte, wenn das jetzt eine Bürgerbeauftragte macht.</p>
-          <p>Ich nenne andere Beispiele aus der Begründung. Wir überweisen viele Petitionen nach   109 an die Ausschüsse mit der Maßgabe, daß die Fachausschüsse dann, wenn eine Petition ein Thema beinhaltet, das in den Fachausschüssen beraten wird, eine Stellungnahme abgeben.</p>
+          <p>Ich nenne andere Beispiele aus der Begründung. Wir überweisen viele Petitionen nach § 109 an die Ausschüsse mit der Maßgabe, daß die Fachausschüsse dann, wenn eine Petition ein Thema beinhaltet, das in den Fachausschüssen beraten wird, eine Stellungnahme abgeben.</p>
           <p>In der Begründung steht nun, daß eine Bürgerbeauftragte an den Sitzungen teilnimmt, Einfluß geltend macht und der Fachausschuß dadurch eine bessere Antwort gibt. Ich kann dem nicht folgen. Ich bin der Meinung, daß wir die Befugnisse des Ausschusses überdenken sollten, auch das Selbstaufgriffsrecht.</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Ja, das Selbstbefassungsrecht!)</stage>
           <p>Wenn wir das nicht haben, es aber brauchen, was mir gefiele, dann sollten wir uns doch verständigen, ob wir es nicht einführen,</p>
@@ -1199,53 +1199,53 @@
           <stage type="interjection">(Beifall bei Abgeordneten der SPD, der CDU/CSU und der F.D.P.)</stage>
           <p>Es scheint immer so, als sei eine Einzelperson in der Lage, das alles viel besser zu machen. Ich neige dazu, demgegenüber festzustellen, daß der Petitionsausschuß in der Vergangenheit hervorragende Arbeit geleistet hat.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege Reuter, gestatten Sie eine Zwischenfrage der Kollegin Nickels?</p>
         </sp>
-        <sp who="Bernd Reuter" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Bernd Reuter">
+        <sp who="Bernd Reuter" parliamentary_group="SPD" role="mp" position="NA" who_original="Bernd Reuter" party="SPD" name="Bernd Reuter">
           <speaker>Bernd Reuter (SPD):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Bitte.</p>
         </sp>
-        <sp who="Christa Nickels" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Christa Nickels">
+        <sp who="Christa Nickels" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Christa Nickels" party="GRUENE" name="Christa Nickels">
           <speaker>Christa Nickels (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Reuter, nehmen Sie bitte zur Kenntnis, daß ich wirklich eine glühende Verfechterin des Petitionsausschusses bin, mit allen seinen Möglichkeiten. Nur, wenn ich unsere Möglichkeiten noch stärken will durch zusätzliche Elemente, dann ist es doch folgerichtig, daß in der Begründung die Gründe für die Aufnahme zusätzlicher Elemente deutlich werden.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Frage, Frau Kollegin!</p>
         </sp>
-        <sp who="Christa Nickels" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Christa Nickels">
+        <sp who="Christa Nickels" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Christa Nickels" party="GRUENE" name="Christa Nickels">
           <speaker>Christa Nickels (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Meine Frage ist: Können Sie mir zustimmen, daß es, wenn man etwas additiv will, nicht geht, die Vorzüge des schon Bestehenden herauszukehren und die Begründung für die Notwendigkeit des Neuen zu unterlassen?</p>
         </sp>
-        <sp who="Bernd Reuter" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Bernd Reuter">
+        <sp who="Bernd Reuter" parliamentary_group="SPD" role="mp" position="NA" who_original="Bernd Reuter" party="SPD" name="Bernd Reuter">
           <speaker>Bernd Reuter (SPD):</speaker>
           <p>Frau Nickels, es ist ja ehrenwert, wenn Sie sich bemühen, Instrumente zu suchen, um unsere Arbeit noch zu verbessern. Aber die von Ihnen gewählte Konstruktion könnte dazu führen, daß der Petitionsausschußdienst in die Mühlsteine zwischen der Bürgerbeauftragten und dem Ausschuß gerät. Sie argumentieren, die Neuerung könnte zu effektiverer Arbeit führen und dazu, daß man den Leuten schneller helfen kann. Diese Vorteile könnten durch die Reibungsverluste, die dann entstehen würden, wieder aufgezehrt werden. Deshalb müßten wir noch einmal darüber nachdenken, ob die angedachte Konzeption realistisch und durchführbar ist.</p>
           <p>Ich will auch noch einmal auf den Vorwurf der Anonymität des Ausschusses eingehen. Sie sagen, man könne die Bürger viel besser davon überzeugen, daß ihre Probleme gelöst werden, wenn man ihnen einen Menschen leibhaftig gegenüberstellt. Sie haben es doch in der Kürze der Zeit, seit Sie Vorsitzende sind, erreicht, ihren Bekanntheitsgrad und den des Ausschusses zu erhöhen. Dies führt Ihre eigenen Argumente doch eigentlich ad absurdum. Wenn man in diese Richtung Verbesserungen durchsetzen will, dann muß man vielleicht auch dafür sorgen, daß in den Informationsmaterialien, die der Ausschuß herausgibt, auch andere Mitglieder des Ausschusses mehr in den Blickpunkt der Öffentlichkeit gerückt werden.</p>
           <p>Zum Schluß will ich sagen: Wir sollten vorbehaltlos und in aller Ruhe diesen Gesetzentwurf über die Bürgerbeauftragte und die Änderung des Befugnisgesetzes prüfen und im konstruktiven Gespräch, so wie es bei uns im Petitionsausschuß üblich ist, überlegen, wie wir unser Petitionsrecht weiterentwickeln könnten. Ich hoffe, daß wir am Ende unserer Beratungen dann zu einem Ergebnis kommen, das zu einer größeren Akzeptanz unserer parlamentarischen Demokratie und zu mehr Transparenz führt sowie den Bürgerinnen und Bürgern mehr Möglichkeiten der Einflußnahme auf den politischen Entscheidungsprozeß gibt. In diesem Sinne können wir, so glaube ich, mit unserer bisherigen Arbeit zufrieden sein.</p>
           <p>Frau Nickels, schenken Sie mir zum Schluß noch einmal Ihre Aufmerksamkeit?</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Und Sie müssen der Uhr Aufmerksamkeit schenken!</p>
           <stage type="interjection">(Heiterkeit)</stage>
         </sp>
-        <sp who="Bernd Reuter" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Bernd Reuter">
+        <sp who="Bernd Reuter" parliamentary_group="SPD" role="mp" position="NA" who_original="Bernd Reuter" party="SPD" name="Bernd Reuter">
           <speaker>Bernd Reuter (SPD):</speaker>
           <p>Ja, ich sehe es. -- Der Feind des Guten kann manchmal das Gutgemeinte sein. Wir sollten uns nicht auf diese Fährte bringen lassen.</p>
           <p>Schönen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD, der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Günther Nolting, F.D.P.</p>
         </sp>
-        <sp who="Günther Friedrich Nolting" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Günther Friedrich Nolting">
+        <sp who="Günther Friedrich Nolting" parliamentary_group="FDP" role="mp" position="NA" who_original="Günther Friedrich Nolting" party="FDP" name="Günther Friedrich Nolting">
           <speaker>Günther Friedrich Nolting (F.D.P.):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Es ist schon darauf hingewiesen worden: Die Diskussion zur Einführung eines oder einer Bürgerbeauftragten wird schon seit den 70er Jahren geführt. Nur, Frau Kollegin Nickels, ich habe auch heute keine neuen Argumente von Ihnen gehört, die dafür sprächen, solch ein Amt zu schaffen.</p>
           <p>Ich sage es an dieser Stelle noch einmal für die F.D.P.-Bundestagsfraktion: Nach Art. 45 c des Grundgesetzes ist die Wahrung des Petitionsrechts die Aufgabe des gesamten Parlamentes. Wir wollen, daß es Aufgabe dieses gesamten Parlamentes bleibt.</p>
@@ -1263,11 +1263,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat die Kollegin Heidemarie Lüth, PDS.</p>
         </sp>
-        <sp who="Heidemarie Lüth" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Heidemarie Lüth">
+        <sp who="Heidemarie Lüth" parliamentary_group="PDS" role="mp" position="NA" who_original="Heidemarie Lüth" party="PDS" name="Heidemarie Lüth">
           <speaker>Heidemarie Lüth (PDS):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Repräsentative parlamentarische Demokratie ist unabdingbar, aber sie ist, wie die Gesetzentwürfe zur Änderung des Art. 45 c des Grundgesetzes und zur Änderung des Befugnisgesetzes zeigen, auch einer Verbesserung würdig. Wir meinen, daß diese Gesetzentwürfe eine Verbesserung des bestehenden Zustandes darstellen.</p>
           <p>Bei dem vorliegenden Gesetzentwurf zur Einführung einer Bürgerbeauftragten ergibt sich allerdings die Frage, ob der gewollte Zuwachs an Demokratie auch wirklich erreicht wird. Ich möchte, ehe ich das kurz ausführe, auf den Jahresbericht verweisen, in dem unter anderem immer wieder dargestellt wird, daß bestimmte Beschlüsse des Petitionsausschusses durch die Regierung ignoriert werden.</p>
@@ -1282,7 +1282,7 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Ich schließe die Aussprache. Interfraktionell ist vereinbart worden, die Gesetzentwürfe auf den Drucksachen 13/3570, 13/3571 und 13/3578 an die in der Tagesordnung aufgeführten Ausschüsse zu überweisen. Die Federführung für das Bürgerbeauftragtengesetz soll beim Ausschuß für Wahlprüfung, Immunität und Geschäftsordnung liegen. Gibt es andere Vorschläge? -- Das ist nicht der Fall. Dann ist die Überweisung so beschlossen.</p>
           <p>Ich rufe jetzt den Tagesordnungspunkt 14 sowie den Zusatzpunkt 11 auf:</p>
@@ -1297,7 +1297,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="3" what="debate" desc="14.Beratung des Antrags der Fraktionen CDU/CSU, SPD, BÜNDNIS 90/DIE GRÜNEN und F...">
-        <sp who="Dr. Wolfgang Götzer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Wolfgang Götzer">
+        <sp who="Wolfgang Götzer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Götzer" party="CSU" name="Wolfgang Götzer">
           <speaker>Dr. Wolfgang Götzer (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Der englische Schriftsteller Aldous Huxley prophezeite im Jahre 1932 im ersten Vorwort zu seinem Roman "Schöne neue Welt", es werde 600 Jahre dauern, bis seine Zukunftsvision von Dutzendlingen Wirklichkeit werden könnte. Diese Prognose mußte er bereits in der zweiten Auflage des Buches im Jahre 1949 auf 100 Jahre verkürzen.</p>
           <p>Inzwischen äußern Wissenschaftler aus England und den USA, daß es nicht mehr lange dauern werde, bis das Klonen von Menschen möglich sei. Huxleys Prophezeihung aus dem Jahre 1949 scheint sich also doppelt so schnell zu verwirklichen.</p>
@@ -1310,13 +1310,13 @@
           <p>Die neuen Methoden der In-vitro-Fertilisation wie auch der Gentechnologie machen es erforderlich, die Grenzen ihrer Anwendung beim Menschen rechtlich festzulegen. Entscheidendes Ziel des Entwurfs ist es, jeder Manipulierung menschlichen Lebens bereits im Vorfeld zu begegnen.</p>
           <p>Deutschland ist damit das erste Land, in dem die Klonung von Menschen nicht nur untersagt, sondern auch unter Strafe gestellt worden ist. Dies gebietet die in Art. 1 des Grundgesetzes normierte Achtung vor der Würde des Menschen und die Ehrfurcht vor dem unverfügbaren Leben eines jeden einzelnen; denn das Klonen verstößt gegen die Menschenwürde.</p>
           <p>Das Klonen von Menschen ist nicht nur ein ungeheuerlicher Eingriff in die Schöpfung, der keinesfalls hingenommen werden darf; es ist auch "das Maximum der Herrschaft des Menschen über den Menschen", wie es Erzbischof Sgreccia, der Vizepräsident der päpstlichen Akademie Pro Vita, kürzlich in einem Interview mit der "Welt am Sonntag" ausgedrückt hat.</p>
-          <p>In der Öffentlichkeit sind nun, ausgelöst durch einen Wissenschaftler, Zweifel an der Lückenlosigkeit des Embryonenschutzgesetzes in zweierlei Hinsicht aufgekommen. Worauf gründen sich diese? Zum einen wird vom Direktor des Instituts für Humangenetik und medizinische Biologie in Halle angeführt, daß der Zellkern beim Klonen nur 99 Prozent der Erbinformation des Nachkommen stelle. 1 Prozent stamme von den Mitochondrien, Organellen innerhalb der Zelle, aber außerhalb des Zellkerns. Daraus folge, daß ein geklontes Lebewesen nicht absolut identisch mit dem Spender des Zellkerns sein müsse. Darauf aber, so der Wissenschaftler, baue   6 des Embryonenschutzgesetzes auf.</p>
-          <p>Ich zitiere den Abs. 1 von   6 des Embryonenschutzgesetzes:</p>
+          <p>In der Öffentlichkeit sind nun, ausgelöst durch einen Wissenschaftler, Zweifel an der Lückenlosigkeit des Embryonenschutzgesetzes in zweierlei Hinsicht aufgekommen. Worauf gründen sich diese? Zum einen wird vom Direktor des Instituts für Humangenetik und medizinische Biologie in Halle angeführt, daß der Zellkern beim Klonen nur 99 Prozent der Erbinformation des Nachkommen stelle. 1 Prozent stamme von den Mitochondrien, Organellen innerhalb der Zelle, aber außerhalb des Zellkerns. Daraus folge, daß ein geklontes Lebewesen nicht absolut identisch mit dem Spender des Zellkerns sein müsse. Darauf aber, so der Wissenschaftler, baue § 6 des Embryonenschutzgesetzes auf.</p>
+          <p>Ich zitiere den Abs. 1 von § 6 des Embryonenschutzgesetzes:</p>
           <p>Wer künstlich bewirkt, daß ein menschlicher Embryo mit der gleichen Erbinformation wie ein anderer Embryo, ein Fötus, ein Mensch oder ein Verstorbener entsteht, wird mit einer Freiheitsstrafe bis zu 5 Jahren oder mit Geldstrafe bestraft.</p>
-          <p>Die angesprochene Auslegung des   6 des Embryonenschutzgesetzes ist meines Erachtens unzutreffend. Bereits bei den Beratungen über das Embryonenschutzgesetz im Jahre 1990 war bekannt, daß beim Klonen keine hundertprozentige Übereinstimmung der Erbinformation erzielt wird. Der Gesetzgeber hat deshalb damals auch ganz bewußt nicht von der "selben", sondern von der "gleichen" Erbinformation gesprochen.</p>
-          <p>Auch wenn man den Kommentar zum Embryonenschutzgesetz von Keller/Günther/Kaiser zu Rate zieht, findet man unter Randnummer 6 zu   6, daß unter "gleicher Erbinformation" -- ich zitiere -- "Identität der DNS der Zellkerne" zu verstehen ist, also genau der 99 Prozent, von denen besagter Wissenschaftler selbst ausgeht.</p>
-          <p>Im übrigen findet sich in Randnummer 7 des Kommentars ein klarer Hinweis auf die Ratio legis, wo bezüglich einer eventuellen Lücke davon die Rede ist, daß   6 erkennbar einen "Rundumschutz" bezwecke, der die Herstellung von Kopien menschlicher Individuen schlechthin unterbinden solle.</p>
-          <p>Ein weiterer Zweifel bezieht sich auf   8 des Embryonenschutzgesetzes, der die Begriffsbestimmungen enthält. Hier geht es um die Frage, ob zu den geschützten Zellen im Sinne des   8 auch zellkerntransplantierte, also geklonte Zellen gehören, die keine befruchteten Eizellen sind. Ich würde dies im Hinblick auf die Zielsetzung des Gesetzes, nämlich "jeder Manipulierung menschlichen Lebens bereits im Vorfeld zu begegnen", und auch unter Verweis auf die Begründung des Gesetzentwurfs bejahen. Gleichwohl: Da wir alle wollen, daß unser Embryonenschutzgesetz wasserdicht ist, sollen diese Punkte geprüft werden und notfalls die erforderlichen Klarstellungen im Gesetz vorgenommen werden.</p>
+          <p>Die angesprochene Auslegung des § 6 des Embryonenschutzgesetzes ist meines Erachtens unzutreffend. Bereits bei den Beratungen über das Embryonenschutzgesetz im Jahre 1990 war bekannt, daß beim Klonen keine hundertprozentige Übereinstimmung der Erbinformation erzielt wird. Der Gesetzgeber hat deshalb damals auch ganz bewußt nicht von der "selben", sondern von der "gleichen" Erbinformation gesprochen.</p>
+          <p>Auch wenn man den Kommentar zum Embryonenschutzgesetz von Keller/Günther/Kaiser zu Rate zieht, findet man unter Randnummer 6 zu § 6, daß unter "gleicher Erbinformation" -- ich zitiere -- "Identität der DNS der Zellkerne" zu verstehen ist, also genau der 99 Prozent, von denen besagter Wissenschaftler selbst ausgeht.</p>
+          <p>Im übrigen findet sich in Randnummer 7 des Kommentars ein klarer Hinweis auf die Ratio legis, wo bezüglich einer eventuellen Lücke davon die Rede ist, daß § 6 erkennbar einen "Rundumschutz" bezwecke, der die Herstellung von Kopien menschlicher Individuen schlechthin unterbinden solle.</p>
+          <p>Ein weiterer Zweifel bezieht sich auf § 8 des Embryonenschutzgesetzes, der die Begriffsbestimmungen enthält. Hier geht es um die Frage, ob zu den geschützten Zellen im Sinne des § 8 auch zellkerntransplantierte, also geklonte Zellen gehören, die keine befruchteten Eizellen sind. Ich würde dies im Hinblick auf die Zielsetzung des Gesetzes, nämlich "jeder Manipulierung menschlichen Lebens bereits im Vorfeld zu begegnen", und auch unter Verweis auf die Begründung des Gesetzentwurfs bejahen. Gleichwohl: Da wir alle wollen, daß unser Embryonenschutzgesetz wasserdicht ist, sollen diese Punkte geprüft werden und notfalls die erforderlichen Klarstellungen im Gesetz vorgenommen werden.</p>
           <p>Es genügt aber nicht -- ich denke, auch darin sind wir uns einig --, daß wir in Deutschland ein unmißverständliches Klonverbot haben. Wir müssen uns auch auf internationaler Ebene dafür einsetzen, daß durch entsprechende internationale Konventionen das Klonen von Menschen geächtet und verboten wird.</p>
           <p>Die Bioethik-Konvention des Europarats wird sicher nicht unseren Vorstellungen und Vorschriften gerecht. Vom Klonen steht dort im Augenblick nichts. Auch im Entwurf einer Bioethik-Deklaration der UNESCO ist weder von einem Verbot des Klonens von Menschen die Rede, noch werden Eingriffe in das Erbgut von Keimzellen verboten. In beiden Fällen muß von deutscher Seite aus versucht werden, mit dem Ziel nachzubessern, ein weltweites Klonverbot zu erreichen.</p>
           <p>Für den Fall, daß diese Bemühungen erfolglos bleiben, möchte ich allerdings klarstellen: Die hohen deutschen Standards können durch diese internationalen Konventionen nicht aufgeweicht werden. Unsere strengen deutschen Vorschriften bleiben also davon unberührt. Trotzdem sollten wir uns damit nicht zufriedengeben. Auch deshalb ist zu begrüßen, daß in dem gemeinsamen Antrag von CDU/CSU, SPD, Bündnis 90/Die Grünen und F.D.P., der heute zur Abstimmung steht, die Bundesregierung aufgefordert wird, sich für ein internationales Verbot des Klonens von Menschen einzusetzen.</p>
@@ -1325,11 +1325,11 @@
           <p>auch des Ungeborenen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat die Kollegin Herta Däubler-Gmelin, SPD-Fraktion.</p>
         </sp>
-        <sp who="Dr. Herta Däubler-Gmelin" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Herta Däubler-Gmelin">
+        <sp who="Herta Däubler-Gmelin" parliamentary_group="SPD" role="mp" position="NA" who_original="Herta Däubler-Gmelin" party="SPD" name="Herta Däubler-Gmelin">
           <speaker>Dr. Herta Däubler-Gmelin (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Es kommt in diesem Haus relativ selten vor, daß wir über einen Antrag beraten, der von den verschiedenen Fraktionen in solcher Gemeinsamkeit eingebracht wird. Das deutet in der Tat darauf hin, daß zumindest in der Grundabsicht des Antrags vollständige Einigkeit besteht: Klonen von Menschen wollen wir nicht; Klonen von Menschen darf auch in Zukunft nicht möglich werden. Ich glaube, darüber braucht man nicht zu reden, das sehen alle so.</p>
           <stage type="interjection">(Beifall bei der SPD sowie des Abg. Jörg van Essen [F.D.P.])</stage>
@@ -1339,7 +1339,7 @@
           <p>Problematisch wird die Situation aus einem ganz anderen Grund. Als wir Klonen früher relativ lässig, pauschal und unscharf als Begriff verwendet und bestenfalls über Science-fiction-Romane oder Witze, die mit Klonen zusammenhingen, gelächelt haben, wurde keine Notwendigkeit gesehen, über den Grundsatz, daß wir das Klonen des Menschen als eines Geschöpfes nicht wollen, hinauszugehen.</p>
           <p>Ein erster Anlaß, über die Fortpflanzungsmedizin und deren ethische Vertretbarkeit nachzudenken und die entsprechenden brennenden Fragen zu diskutieren, hat sich im Zusammenhang mit der Diskussion -- Kollege Götzer, Sie haben das schon erwähnt -- um das Embryonenschutzgesetz gegeben. Dabei hat sich dann sehr deutlich gezeigt, daß Mißverständnisse entstehen können und welche Möglichkeiten des schnellen und des wenig vorsichtigen bzw. des vorsichtigen Vorgehens bestehen.</p>
           <p>Ich darf Sie daran erinnern, daß wir damals heftig miteinander gerungen haben. Es hat Leute gegeben, die gesagt haben: Seid vorsichtig! Laßt immer nur das zulässig sein und setzt die Schranke immer da, wo ihr die Auswirkungen dessen, was ihr erlaubt -- nicht dessen, was technisch möglich ist --, noch übersehen könnt! Man hat das nicht so gemacht. Man ist eher ein Stück weitergegangen. Die Argumente sind völlig klar: Auf der einen Seite standen die Überschaubarkeit und die Klarheit der Werte, auf der anderen Seite die Möglichkeiten, die insbesondere die Grundlagenforschung und in Teilen auch die Anwendungsforschung bieten.</p>
-          <p>Lassen Sie mich noch eines festhalten: Der Grundsatz, das Klonen zu verbieten, stand auch in der Diskussion um das Embryonenschutzgesetz überhaupt nicht in Frage. Wenn ich mich recht erinnere, was uns bei der Formulierung der    6 und 8 des Embryonenschutzgesetzes bewegt hat, so wollten wir damals schon alle bekannten Methoden des Klonens berücksichtigen. Wir haben uns damals darüber informiert, welche Methoden denkbar sind. Daß es dann -- wie jetzt mühsam zurückverfolgt werden kam -- zu dieser Restriktion kam, lag auch daran, daß die Technik beim Klonen und auch die Fortpflanzungsmedizin damals noch nicht den Stand erreicht hatten, den sie heute haben.</p>
+          <p>Lassen Sie mich noch eines festhalten: Der Grundsatz, das Klonen zu verbieten, stand auch in der Diskussion um das Embryonenschutzgesetz überhaupt nicht in Frage. Wenn ich mich recht erinnere, was uns bei der Formulierung der §§ 6 und 8 des Embryonenschutzgesetzes bewegt hat, so wollten wir damals schon alle bekannten Methoden des Klonens berücksichtigen. Wir haben uns damals darüber informiert, welche Methoden denkbar sind. Daß es dann -- wie jetzt mühsam zurückverfolgt werden kam -- zu dieser Restriktion kam, lag auch daran, daß die Technik beim Klonen und auch die Fortpflanzungsmedizin damals noch nicht den Stand erreicht hatten, den sie heute haben.</p>
           <p>Das Problem, vor dem wir heute stehen, ist, daß wir -- auch dann, wenn wir versuchen, die weltweite wissenschaftliche Diskussion zu verfolgen -- nicht mehr sagen können, ob es nicht ganz neue Methoden beim Klonen geben wird. Außerdem ist Anlaß dafür gegeben, Herr Götzer, den Begriff des Klonens sehr viel sorgfältiger zu überprüfen.</p>
           <p>Was ist denn nun eigentlich Klonen? Wird die Grenze da gezogen, wo ein menschlicher Organismus in seiner Unwiederholbarkeit manipuliert und beeinflußt wird? Oder gibt es hier, weil es sich um einen Prozeß handelt, keine Grenze, die eindeutig bestimmt werden kann? Wo müssen wir dann mit einer ethischen und mit einer rechtlichen Grenze ansetzen?</p>
           <p>Diese Fragen drängen sich auf, auch wenn man wie ich -- ich teile die Meinung des Kollegen Götzer -- der Auffassung ist, daß die Dolly-Methode des Klonens, wenn sie auf den Menschen angewandt worden wäre, von den strafrechtlichen Bestimmungen erfaßt gewesen wäre. Aber ist das, was jetzt mit Dolly gemacht wurde und was wir nicht vorhergesehen haben, als das Gesetz gemacht wurde, die letzte Möglichkeit, die Gene zu manipulieren?</p>
@@ -1353,11 +1353,11 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD, der CDU/CSU, dem BÜNDNIS 90/DIE GRÜNEN und der F.D.P.)</stage>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Das Wort hat jetzt die Abgeordnete Marina Steindor von der Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Marina Steindor" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Marina Steindor">
+        <sp who="Marina Steindor" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Marina Steindor" party="GRUENE" name="Marina Steindor">
           <speaker>Marina Steindor (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Ich möchte meine Rede mit dem Zitat eröffnen, das Aldous Huxley seinem Buch "Schöne neue Welt" vorangestellt hat:</p>
           <p>Utopien erweisen sich als weit realisierbarer, als man früher glaubte. Und wir stehen heute vor einer auf ganz andere Weise beängstigenden Frage: Wie können wir ihre endgültige Verwirklichung verhindern? . . . Utopien sind machbar. Das Leben hat sich auf die Utopien hinentwickelt. Und vielleicht beginnt ein neues Zeitalter, in dem Intellektuelle und Gebildete Mittel und Wege erwägen werden, die Utopien zu vermeiden und zu einer nichtutopischen, einer weniger "vollkommenen" und freieren Gesellschaftsform zurückzukehren.</p>
@@ -1385,11 +1385,11 @@
           <p>Wir werden heute gemeinsam diesen interfraktionellen Antrag verabschieden, aber die großen Bewährungsproben für dieses Parlament stehen in der Zukunft erst an. Wir werden dann sehen, wie weit der Konsens trägt.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Jörg van Essen, F.D.P.-Fraktion.</p>
         </sp>
-        <sp who="Jörg van Essen" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Jörg van Essen">
+        <sp who="Jörg van Essen" parliamentary_group="FDP" role="mp" position="NA" who_original="Jörg van Essen" party="FDP" name="Jörg van Essen">
           <speaker>Jörg van Essen (F.D.P.):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Ich habe eine Rede für diese Debatte vorbereitet, die ich aber so nicht halten werde. Viele der Gedanken, die ich Ihnen vortragen wollte, sind von meinen Vorrednerinnen und Vorrednern schon genannt worden. Es ist ein Wert an sich, daß wir uns bei diesem Thema im Bundestag einig sind, und dieser Wert wird nicht unterstrichen, wenn gleiche Argumente nun noch einmal vorgetragen werden.</p>
           <p>Ich möchte trotzdem auf einige Debattenpunkte eingehen, um unsere Position hier erneut deutlich zu machen. Die Kollegin Däubler-Gmelin hat darauf hingewiesen, daß wir als Deutscher Bundestag beim strafrechtlichen Klonierungsverbot im Jahr 1990 ja vorangegangen sind -- wir sind das erste Parlament, das ein solches strafbewehrtes Klonierungsverbot verabschiedet hat -- und die Latte bewußt hoch gelegt haben. Wir haben uns nicht dafür entschieden, nur die Techniken zu erfassen, die damals bekannt waren. Jetzt hat es sich sehr bewährt, daß wir die Vorschrift seinerzeit so gefaßt haben, wie sie heute im Embryonenschutzgesetz steht; denn ich teile die Auffassung sowohl von Herrn Götzer als auch von Frau Däubler-Gmelin, daß die Techniken, die wir jetzt kennen, von diesem Klonierungsverbot im Embryonenschutzgesetz erfaßt sind.</p>
@@ -1402,11 +1402,11 @@
           <p>Wir sind erst am Anfang der Diskussion. Es zeigt sich ganz deutlich, daß es enorme technische Entwicklungen gibt. Der Bundestag ist gut beraten, wenn er ständig an diesen Entwicklungen teilhat, wenn er regelmäßig Debatten zu diesem Thema führt und immer wieder prüft, inwieweit die Würde des Menschen der Maßstab unseres Handelns ist. Die heutige Debatte trägt sicherlich dazu bei. Ich bin sehr froh, daß es so ist.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Wolfgang Bierstedt, PDS.</p>
         </sp>
-        <sp who="Wolfgang Bierstedt" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Wolfgang Bierstedt">
+        <sp who="Wolfgang Bierstedt" parliamentary_group="PDS" role="mp" position="NA" who_original="Wolfgang Bierstedt" party="PDS" name="Wolfgang Bierstedt">
           <speaker>Wolfgang Bierstedt (PDS):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine Damen und Herren! Wie es aussieht, ist sich der gesamte Deutsche Bundestag einig -- darüber kann wohl auch die parteipolitisch und wahltaktisch begründete und zumindest von wenig entwickelter politischer Kultur zeugende Ausgrenzung der PDS bei der Erstellung des interfraktionellen Antrages nicht hinwegtäuschen --:</p>
           <stage type="interjection">(Beifall bei Abgeordneten der PDS -- Dr. Dagmar Enkelmann [PDS]: Sehr richtig, das muß einmal gesagt werden!)</stage>
@@ -1426,11 +1426,11 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Das Wort hat jetzt Bundesminister Dr. Jürgen Rüttgers.</p>
         </sp>
-        <sp who="Dr. Jürgen Rüttgers" parliamentary_group="NA" role="government" position="Bundesminister für Bildung, Wissenschaft, Forschung und Technologie" party="CDU" name="Jürgen Rüttgers">
+        <sp who="Jürgen Rüttgers" parliamentary_group="NA" role="government" position="Bundesminister für Bildung, Wissenschaft, Forschung und Technologie" who_original="Jürgen Rüttgers" party="CDU" name="Jürgen Rüttgers">
           <speaker>Dr. Jürgen Rüttgers, Bundesminister für Bildung, Wissenschaft, Forschung und Technologie:</speaker>
           <p>Frau Präsidentin! Werte Kolleginnen und Kollegen! Lassen Sie mich mit zwei Feststellungen beginnen. Die erste Feststellung: Das Klonen von Menschen ist in Deutschland verboten. Die zweite Feststellung: Es gibt in Deutschland keine Forschungen, die das Ziel haben, Menschen zu klonen.</p>
           <stage type="interjection">(Marina Steindor [BÜNDNIS 90/DIE GRÜNEN]: Aber viele andere!)</stage>
@@ -1454,23 +1454,23 @@
           <p>Nur -- das will ich unseren Partnern in aller undiplomatischen Unhöflichkeit nicht ersparen --, es ist nicht so, als ob wir in dieser Frage nicht diskutiert hätten. Es ist nicht so, als ob wir als Bundesrepublik Deutschland unsere Position in dieser Frage nicht auf den Tisch gelegt hätten. Es war vielmehr so, daß wir keine Mehrheit bekommen haben. Ich finde es schon bemerkenswert -- ich sage das in aller Deutlichkeit, obwohl ich mich darüber freue, daß es endlich dahin gekommen ist --, daß erst, nachdem die Debatte über Dolly losging, etwa in Italien eine hektische Reaktion im Sinne einer Notverordnung eingetreten ist und daß in Frankreich und übrigens auch in den USA entsprechende Regelungen erst zu diesem Zeitpunkt gefunden worden sind. Daß in Großbritannien entsprechende Bemühungen und öffentliche Diskussionen anstehen, vermag ich noch nicht zu sehen.</p>
           <p>Ich sage wiederum bewußt sehr undiplomatisch, daß ich inzwischen schon etwas Probleme damit habe -- auch als jemand, der sich dafür einsetzt, daß wir in Europa eine moderne Forschungslandschaft haben --, daß manches, was in Großbritannien jetzt selbstverständlich zu sein scheint -- die Debatten über BSE gehören für mich in denselben Kontext wie die Debatte über das Klonen --, mit einer Art von Unbekümmertheit stattfindet, die ich nicht nur nicht akzeptieren kann, sondern die auch verändert werden muß. Das sage ich nicht aus der Position desjenigen, der glaubt, in allen Fragen recht zu haben.</p>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Herr Minister, gestatten Sie eine Zwischenfrage des Abgeordneten Bierstedt?</p>
         </sp>
-        <sp who="Dr. Jürgen Rüttgers" parliamentary_group="NA" role="government" position="Bundesminister für Bildung, Wissenschaft, Forschung und Technologie" party="CDU" name="Jürgen Rüttgers">
+        <sp who="Jürgen Rüttgers" parliamentary_group="NA" role="government" position="Bundesminister für Bildung, Wissenschaft, Forschung und Technologie" who_original="Jürgen Rüttgers" party="CDU" name="Jürgen Rüttgers">
           <speaker>Dr. Jürgen Rüttgers, Bundesminister für Bildung, Wissenschaft, Forschung und Technologie:</speaker>
           <p>Gern.</p>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Bitte.</p>
         </sp>
-        <sp who="Wolfgang Bierstedt" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Wolfgang Bierstedt">
+        <sp who="Wolfgang Bierstedt" parliamentary_group="PDS" role="mp" position="NA" who_original="Wolfgang Bierstedt" party="PDS" name="Wolfgang Bierstedt">
           <speaker>Wolfgang Bierstedt (PDS):</speaker>
           <p>Herr Minister Rüttgers, Sie haben von bedenkenswerten internationalen Reaktionen gesprochen und Italien und weitere Länder angeführt, die den Erkenntnisprozeß im Zusammenhang mit dem Menschenrechtsübereinkommen des Europarates zur Biomedizin betreffen. Könnten Sie sich unter Umständen vorstellen, daß die Nichtratifizierung dieses Abkommens durch den Deutschen Bundestag bzw. die Nichtunterzeichnung durch die Bundesregierung ein weiteres Signal wäre, diesen Prozeß zu befördern?</p>
         </sp>
-        <sp who="Dr. Jürgen Rüttgers" parliamentary_group="NA" role="government" position="Bundesminister für Bildung, Wissenschaft, Forschung und Technologie" party="CDU" name="Jürgen Rüttgers">
+        <sp who="Jürgen Rüttgers" parliamentary_group="NA" role="government" position="Bundesminister für Bildung, Wissenschaft, Forschung und Technologie" who_original="Jürgen Rüttgers" party="CDU" name="Jürgen Rüttgers">
           <speaker>Dr. Jürgen Rüttgers, Bundesminister für Bildung, Wissenschaft, Forschung und Technologie:</speaker>
           <p>Ich möchte dazu nicht abschließend Stellung nehmen, Herr Kollege Bierstedt, und zwar aus folgendem Grund: Bei all diesen Regelungen stehen wir immer vor einem ethischen Dilemma: Wir wissen, daß wir in Deutschland klare Regelungen haben. Wir wissen aber auch, daß in den anderen europäischen Ländern -- das wird sich noch potenzieren, wenn sie sich auf die internationale Ebene erstrecken -- wenn überhaupt, erheblich schwächere Regelungen existieren und daß die jetzt gefundende Form der Bioethik-Konvention eine Verbesserung des Schutzstandards bedeutet.</p>
           <p>Sie entspricht aber nicht unserer Vorstellung; sie reicht uns nicht aus. Wir werden also abzuwägen haben, ob wir dem Fortschritt, der damit erzielt wird -- im Lichte des noch auszuhandelnden Protokolls mag sich das Problem vielleicht lösen --, zustimmen wollen. Gegebenenfalls werden wir uns für das weniger Gute entscheiden müssen, um das Schutzniveau in Europa insgesamt zu erhöhen. Das ist aber eine Frage der Abwägung. Es ist nicht das, was ich mir wünsche; aber wir stehen vor einem Dilemma. Seitens der Bundesregierung haben wir bisher noch nicht beschlossen, daß wir die Unterzeichnung vornehmen, weil wir genau diese Debatte noch führen wollen.</p>
@@ -1478,11 +1478,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Wolf-Michael Catenhusen, SPD-Fraktion.</p>
         </sp>
-        <sp who="Wolf-Michael Catenhusen" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wolf-Michael Catenhusen">
+        <sp who="Wolf-Michael Catenhusen" parliamentary_group="SPD" role="mp" position="NA" who_original="Wolf-Michael Catenhusen" party="SPD" name="Wolf-Michael Catenhusen">
           <speaker>Wolf-Michael Catenhusen (SPD):</speaker>
           <p>Meine Damen und Herren! Frau Präsidentin! Es ist kaum zehn Jahre her, da rückten Wissenschaftler wie der von mir hochgeschätzte Professor Hans-Peter Wolff auf dem Deutschen Ärztetag das Klonen von Menschen in den Bereich der Utopie. Er sprach damals, im Jahr 1985, von "utopischen Eingriffen wie der Klonierung, der Herstellung beliebig vieler identischer Individuen". Wir wissen heute, daß uns nur noch einige hundert Versuche an menschlichen Eizellen von der Herstellung eines menschlichen Klons, der auch lebt, trennen.</p>
           <p>Eigentlich kann uns diese Entwicklung nicht überraschen; sie lag in der Luft. Es ist interessant, daß gerade im Bereich der Künstler dieses Zeitgefühl sehr stark vorhanden ist.</p>
@@ -1512,11 +1512,11 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Das Wort hat jetzt die Abgeordnete Sigrun Löwisch, CDU/CSU-Fraktion.</p>
         </sp>
-        <sp who="Sigrun Löwisch" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Sigrun Löwisch">
+        <sp who="Sigrun Löwisch" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Sigrun Löwisch" party="CDU" name="Sigrun Löwisch">
           <speaker>Sigrun Löwisch (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Liebe Zuhörerinnen und Zuhörer! Ich wende mich -- wie auch Sie, Herr Catenhusen -- nun besonders der ethischen Seite zu.</p>
           <p>"Die Menschenwürde ist getroffen", sagte der kürzlich verstorbene bekannte Tübinger Staatsrechtler Günter Dürig in seiner schon 1958 erschienenen Kommentierung von Art. 1 des Grundgesetzes. Er sagte -- das ist wieder ganz aktuell --:</p>
@@ -1542,16 +1542,16 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall im ganzen Hause)</stage>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Ich erteile das Wort jetzt dem Bundesminister der Justiz, Edzard Schmidt-Jortzig.</p>
         </sp>
-        <sp who="Dr. Edzard Schmidt-Jortzig" parliamentary_group="NA" role="government" position="Bundesminister der Justiz" party="FDP" name="Edzard Schmidt-Jortzig">
+        <sp who="Edzard Schmidt-Jortzig" parliamentary_group="NA" role="government" position="Bundesminister der Justiz" who_original="Edzard Schmidt-Jortzig" party="FDP" name="Edzard Schmidt-Jortzig">
           <speaker>Dr. Edzard Schmidt-Jortzig, Bundesminister der Justiz:</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Wir haben zu diesem Tagesordnungspunkt jetzt lange und intensiv diskutiert. Es zeichnet unsere Debatte zu diesem wichtigen Thema aus, daß wir uns nicht nur weitgehend, sondern voll auf das verständigen können, was der überfraktionelle Antrag formuliert. Deswegen will ich nicht noch im einzelnen auf die Dinge eingehen, sondern ganz wenige Punkte, die angesprochen wurden, schlicht und ergreifend aus der Sicht der -- wenn Sie so wollen -- regierungsamtlichen Rechtspolitik bestätigen.</p>
           <p>Erstens. "Die Würde des Menschen ist unantastbar." Aus diesem Programmsatz, aus diesem Grundansatz unserer Verfassung ergibt sich völlig eindeutig, daß das Klonen von Menschen -- selbst wenn wir das Embryonenschutzgesetz überhaupt nicht hätten -- in einer Rechtsordnung unter unserem Grundgesetz nicht möglich, nicht zulässig sein kann. Das ist -- Frau Kollegin Löwisch, Sie haben völlig recht -- mit der Objektformel von Günter Dürig besonders eindrucksvoll zu unterstreichen; denn wer einen Menschen klont, macht ihn eben zum Objekt und raubt ihm seine individuelle Identität, seine Einmaligkeit, seine Persönlichkeit.</p>
           <p>Es gibt also überhaupt kein Vertun, daß eine Gesellschaft, in der sich Menschen andere Menschen nach ihren Wünschen schaffen, nicht mehr auf dem Fundament unserer humanistischen Zivilisation, erst recht nicht mehr auf dem Fundament des christlich-abendländischen Konsenses und schon gar nicht mehr auf dem Boden unseres Grundgesetzes steht. Das als erstes zu unterstreichen ist mir wichtig.</p>
-          <p>Zweitens. Es kann und darf nach dieser Diskussion -- insbesondere nach den juristischen Ausführungen, die wir dazu gehört haben -- nicht ein Hauch von Zweifel bestehen, daß das Embryonenschutzgesetz das Klonen eines Menschen nach der bei dem Schaf "Dolly" angewandten Methode verbieten, unter Strafe stellen würde. Der Humangenetiker, der so etwas machte, wäre nach   6 in Verbindung mit   8 Embryonenschutzgesetz strafbar. Da gibt es überhaupt kein Vertun. Ich habe das schon verschiedentlich geäußert, zum Beispiel letzte Woche im Bundesrat. Die Formulierung in dem 1990 beschlossenen und 1991 in Kraft getretenen Gesetz ist in dem Punkt sehr vorausschauend gewesen. Sie spricht ausdrücklich von "gleich" statt "identisch", von "gleich" statt "demselben". Sie faßt die Definition von Embryo so formelhaft weit, daß auch eine Vorgehensweise wie in dem Verfahren beim Schaf "Dolly", auf den Mensch angewendet, darunter fallen würde.</p>
+          <p>Zweitens. Es kann und darf nach dieser Diskussion -- insbesondere nach den juristischen Ausführungen, die wir dazu gehört haben -- nicht ein Hauch von Zweifel bestehen, daß das Embryonenschutzgesetz das Klonen eines Menschen nach der bei dem Schaf "Dolly" angewandten Methode verbieten, unter Strafe stellen würde. Der Humangenetiker, der so etwas machte, wäre nach § 6 in Verbindung mit § 8 Embryonenschutzgesetz strafbar. Da gibt es überhaupt kein Vertun. Ich habe das schon verschiedentlich geäußert, zum Beispiel letzte Woche im Bundesrat. Die Formulierung in dem 1990 beschlossenen und 1991 in Kraft getretenen Gesetz ist in dem Punkt sehr vorausschauend gewesen. Sie spricht ausdrücklich von "gleich" statt "identisch", von "gleich" statt "demselben". Sie faßt die Definition von Embryo so formelhaft weit, daß auch eine Vorgehensweise wie in dem Verfahren beim Schaf "Dolly", auf den Mensch angewendet, darunter fallen würde.</p>
           <p>Drittens. Es ist die selbstverständliche Amtsaufgabe des Justizministers, alle vorhandenen Gesetze -- namentlich zu einem so in der Entwicklung befindlichen Gebiet wie dem der Reproduktionsmedizin, der Gentechnik -- ständig darauf zu überprüfen, ob sie denn den Anforderungen noch gerecht werden, ob sie möglicherweise Zweifel aufkommen lassen. Auch das wäre in diesem empfindlichen Feld schon Anlaß genug, tätig zu werden.</p>
           <p>Die Aufforderung, die dazu im interfraktionellen Antrag formuliert wird, ist ohnehin unsere Aufgabe. Deswegen wird natürlich zugesagt, daß das geschieht. Das wird auch interdisziplinär geschehen, das wird auch interressortmäßig geschehen. Natürlich werden sich die beteiligten Ressorts zusammen darum bemühen, also die Ressorts von Herrn Rüttgers, von Herrn Seehofer und von mir.</p>
           <p>Viertens. Daß wir an dieses Thema international herangehen müssen ist mir völlig klar. Es tut mir leid, daß bei diesem Punkt Herr Catenhusen nicht mehr da ist; denn seine Attacke gegen das Verhalten der Bundesregierung in Sachen Bioethik-Konvention -- oder, wie es jetzt heißt: Biomedizin-Konvention -- des Europarates geht an der Sache vorbei.</p>
@@ -1566,7 +1566,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU sowie bei Abgeordneten der SPD, des BÜNDNISSES 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über den gemeinsamen Antrag der Fraktionen von CDU/CSU, SPD, BÜNDNIS 90/DIE GRÜNEN und F.D.P. zu einem Verbot des Klonens von Menschen auf Drucksache 13/7243. Wer stimmt für diesen interfraktionellen Antrag? -- Wer stimmt dagegen? -- Enthaltungen? -- Damit haben wir den seltenen Fall, daß der Antrag mit den Stimmen des ganzen Hauses angenommen ist.</p>
@@ -1586,7 +1586,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="4" what="debate" desc="Beratung des Antrags der Abgeordneten Elke Ferner, Roland Kohn, Doris Barnett un...">
-        <sp who="Elke Ferner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Elke Ferner">
+        <sp who="Elke Ferner" parliamentary_group="SPD" role="mp" position="NA" who_original="Elke Ferner" party="SPD" name="Elke Ferner">
           <speaker>Elke Ferner (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kollegen! Liebe Kolleginnen! Ich möchte zunächst für die Gruppe der Unterzeichner und Unterzeichnerinnen eine kurze Begründung zu diesem Antrag geben und dann noch einige Anmerkungen aus meiner Sicht dazu machen.</p>
           <p>Ich habe diesen Gruppenantrag im Dezember 1996 initiiert, weil Pressemitteilungen -- damals zum deutsch-französischen Gipfel in Nürnberg -- wieder einmal die Vermutung nahelegten, daß der Neu- und Ausbau einer leistungsfähigen ICE/TGV-Strecke von Paris über Saarbrücken, Kaiserslautern und Mannheim nach Frankfurt in Frage gestellt wird.</p>
@@ -1628,19 +1628,19 @@
           <stage type="interjection">(Ulrich Heinrich [F.D.P.]: Richtig! Auch nicht zwischen Heilbronn und Mannheim!)</stage>
           <p>obwohl das zum letzten Fahrplanwechsel groß angekündigt worden ist. Wenn dieser Nei-Tech-ICE nur bis Metz fahren soll, bedeutet das einen "gebrochenen Verkehr". Das heißt, es gibt möglicherweise nicht einmal mehr eine durchgehende Verbindung von Paris nach Frankfurt. Das kann ja nun wirklich nicht im Interesse der Region sein, daß hier vorhandene Standards noch einmal massiv verschlechtert werden. Wenn die Franzosen die Neubaustrecke auf ihrer Seite gebaut haben, wird sich herausstellen, daß die Gesamtfahrzeit von Frankfurt nach Paris, die in La Rochelle vereinbart wurde, auf Grund der nur für Nei-Tech ausgebauten deutschen Strecke nicht zu halten ist.</p>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Frau Abgeordnete, gestatten Sie eine Zwischenfrage des Abgeordneten Kunick?</p>
         </sp>
-        <sp who="Elke Ferner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Elke Ferner">
+        <sp who="Elke Ferner" parliamentary_group="SPD" role="mp" position="NA" who_original="Elke Ferner" party="SPD" name="Elke Ferner">
           <speaker>Elke Ferner (SPD):</speaker>
           <p>Gerne, Herr Kunick.</p>
         </sp>
-        <sp who="Konrad Kunick" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Konrad Kunick">
+        <sp who="Konrad Kunick" parliamentary_group="SPD" role="mp" position="NA" who_original="Konrad Kunick" party="SPD" name="Konrad Kunick">
           <speaker>Konrad Kunick (SPD):</speaker>
-          <p>Frau Kollegin, könnten Sie sich vorstellen, daß die Unruhe des Bundeskanzlers daher rührt, daß es sich um das Projekt Nummer 4 aus der Liste der vom Europäischen Rat am 9. und 10. Dezember 1994 in Essen ausgewählten 14 Vorhaben handelt und daß der Bundeskanzler Wert darauf legt, daß seine Unterschrift nicht durch das Verhalten des Verkehrsministers bereits kurze Zeit später --  im europäischen Rahmen ist das ja eine kurze Zeit -- wertlos gemacht wird?</p>
+          <p>Frau Kollegin, könnten Sie sich vorstellen, daß die Unruhe des Bundeskanzlers daher rührt, daß es sich um das Projekt Nummer 4 aus der Liste der vom Europäischen Rat am 9. und 10. Dezember 1994 in Essen ausgewählten 14 Vorhaben handelt und daß der Bundeskanzler Wert darauf legt, daß seine Unterschrift nicht durch das Verhalten des Verkehrsministers bereits kurze Zeit später -- im europäischen Rahmen ist das ja eine kurze Zeit -- wertlos gemacht wird?</p>
         </sp>
-        <sp who="Elke Ferner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Elke Ferner">
+        <sp who="Elke Ferner" parliamentary_group="SPD" role="mp" position="NA" who_original="Elke Ferner" party="SPD" name="Elke Ferner">
           <speaker>Elke Ferner (SPD):</speaker>
           <p>Das ist natürlich ein Grund, Herr Kollege Kunick. Der Herr Bundeskanzler hat sich bisher immer für diese Strecke eingesetzt. Ich habe aber das Gefühl, daß es von einigen Regierungsmitgliedern -- aus welchen Gründen auch immer -- torpediert wird.</p>
           <stage type="interjection">(Klaus Dieter Reichardt [Mannheim] [CDU/CSU]: Das ist eine böswillige Unterstellung!)</stage>
@@ -1657,35 +1657,35 @@
           <p>Liebe Kolleginnen und Kollegen, ich bitte Sie wirklich ganz herzlich: Überlegen Sie sich das noch einmal, treten Sie dem Antrag im Interesse der Zukunftschancen unserer Region und vor allen Dingen im Interesse der Menschen, die uns in den Deutschen Bundestag gewählt haben, bei.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der F.D.P. -- Ingrid Matthäus-Maier [SPD]: Und im Interesse Europas!)</stage>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Klaus Dieter Reichardt, CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Wilhelm Schmidt [Salzgitter] [SPD]: Jetzt könnten Sie den Kanzler retten! Mal sehen, was Sie daraus machen!)</stage>
         </sp>
-        <sp who="Klaus Dieter Reichardt" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Klaus Dieter Reichardt">
+        <sp who="Klaus Dieter Reichardt (Mannheim)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Klaus Dieter Reichardt (Mannheim)" party="CDU" name="Klaus Dieter Reichardt">
           <speaker>Klaus Dieter Reichardt (Mannheim) (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Herr Kollege Schmidt, der Kanzler ist in bester Kondition. Er braucht unsere Rettungsversuche nicht. Aber vielen Dank für den Zuspruch. Sie sind offenbar der Meinung, daß Deutschland mit Helmut Kohl in bester Hand ist. So ist das auch bei dem Projekt, das wir heute besprechen.</p>
           <p>Das Projekt wurde in der Tat im Mai 1992 durch den Bundeskanzler und Frankreichs Staatspräsidenten Mitterrand auf die Gleise gesetzt. Damit sind die politischen Väter dieser zentralen verkehrspolitischen Maßnahme für Europa bekannt. Bei Frankreich wurde verschiedentlich über den Umsetzungswillen spekuliert. In diesem Jahr wird der Grunderwerb beginnen. Das setzt lange Planung voraus. Diese Planung ist erfolgt. Die Franzosen sehen vor, in diesem Jahr 700 Millionen Francs zu investieren. 1998 wollen die Franzosen für 1 Milliarde Francs bauen. Die Mitfinanzierung durch die Europäische Union ist sichergestellt.</p>
           <p>Auf deutscher Seite wird bereits 1998 die Fahrzeit zwischen Mannheim und Saarbrücken um 15 Minuten verkürzt und dann 66 Minuten betragen. Sie wird bis Mitte des nächsten Jahrzehnts stufenweise auf die sensationelle Zeit von 57 Minuten abschmelzen -- demnach entscheidend schneller, als im Mai 1992 in La Rochelle verabredet. Von Mannheim nach Stuttgart fahren Sie heute in 36 Minuten. Die Zugfahrt von Paris über Mannheim nach Frankfurt oder Stuttgart soll in wenigen Jahren nur noch dreieinhalb Stunden dauern. Ich sage als Mannheimer Abgeordneter, daß meine Stadt und meine Region damit erstklassige Chancen als Verkehrsknoten für Europa gewinnen.</p>
           <p>Ich würde es sehr begrüßen, wenn die Kollegin Dr. Wegner, der Kollege Rochlitz und der Kollege Vergin, die gleichfalls Mannheim im Bundestag vertreten bzw. in dieser Stadt wohnen, sich an der Debatte beteiligen würden. Aber da macht sich sachpolitische Fernstenliebe oder möglicherweise ein "vorgezogener Osterhase" bemerkbar.</p>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Herr Abgeordneter, gestatten Sie eine Zwischenfrage der Abgeordneten Frau Ferner?</p>
         </sp>
-        <sp who="Klaus Dieter Reichardt" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Klaus Dieter Reichardt">
+        <sp who="Klaus Dieter Reichardt (Mannheim)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Klaus Dieter Reichardt (Mannheim)" party="CDU" name="Klaus Dieter Reichardt">
           <speaker>Klaus Dieter Reichardt (Mannheim) (CDU/CSU):</speaker>
           <p>Ich habe nur fünf Minuten Redezeit. Wenn das nicht angerechnet wird, Frau Präsidentin, sehr gerne.</p>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Das wird niemals angerechnet.</p>
         </sp>
-        <sp who="Elke Ferner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Elke Ferner">
+        <sp who="Elke Ferner" parliamentary_group="SPD" role="mp" position="NA" who_original="Elke Ferner" party="SPD" name="Elke Ferner">
           <speaker>Elke Ferner (SPD):</speaker>
           <p>Würden Sie, Herr Kollege Reichardt, bitte zur Kenntnis nehmen, daß der Herr Kollege Vergin wegen eines Trauerfalls im engeren Bekanntenkreis heute früher nach Mannheim zurückkehren mußte, um zur Beerdigung zu gehen, und deshalb nicht anwesend sein kann und die Frau Kollegin Wegner wegen anderer Verpflichtungen, die schon früher terminiert waren als diese Debatte, leider auch nicht an der Debatte teilnehmen kann? Sonst hätten natürlich beide der Debatte beigewohnt und auch aus Mannheimer Sicht das Wort ergriffen.</p>
         </sp>
-        <sp who="Klaus Dieter Reichardt" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Klaus Dieter Reichardt">
+        <sp who="Klaus Dieter Reichardt (Mannheim)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Klaus Dieter Reichardt (Mannheim)" party="CDU" name="Klaus Dieter Reichardt">
           <speaker>Klaus Dieter Reichardt (Mannheim) (CDU/CSU):</speaker>
           <p>Frau Kollegin Ferner, hinsichtlich des Kollegen Vergin war mir der Sachverhalt nicht bekannt. Ich möchte ausdrücklich festhalten, daß ich dies akzeptiere.</p>
           <p>Im Falle der Frau Kollegin Dr. Wegner, deren Terminkalender ich nicht zu bewerten habe, darf ich aber sagen, daß ich selber meinen Terminkalender für heute völlig umgruppiert habe, weil dies ein wichtiges, ein zentrales Thema für die Region ist, und daß es notwendig wäre, hier im Konsens der Parteien fundiert miteinander über die anstehenden Fragen zu diskutieren. Wir alle haben wenig Zeit. Möglicherweise will man sich aber mit Sachthemen gar nicht über Gebühr belasten.</p>
@@ -1710,11 +1710,11 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Das Wort hat der Abgeordnete Albert Schmidt, Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Albert Schmidt" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Albert Schmidt">
+        <sp who="Albert Schmidt (Hitzhofen)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Albert Schmidt (Hitzhofen)" party="GRUENE" name="Albert Schmidt">
           <speaker>Albert Schmidt (Hitzhofen) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Das Bemerkenswerte an der Rede gerade eben war: Mein Vorredner hat alle angegriffen, hat jedem irgendwie ein bißchen recht gegeben und eigentlich nichts konkret dazu gesagt,</p>
           <stage type="interjection">(Klaus Dieter Reichardt [Mannheim] [CDU/CSU]: Dann haben Sie nicht zugehört!)</stage>
@@ -1742,11 +1742,11 @@
           <p>Das ökologisch Verträgliche ist oft auch das technisch Modernste und sehr häufig auch das ökonomisch Vernünftige.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Roland Kohn, F.D.P.-Fraktion.</p>
         </sp>
-        <sp who="Roland Kohn" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Roland Kohn">
+        <sp who="Roland Kohn" parliamentary_group="FDP" role="mp" position="NA" who_original="Roland Kohn" party="FDP" name="Roland Kohn">
           <speaker>Roland Kohn (F.D.P.):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen! Meine Herren! Das Rhein-Neckar-Dreieck, die historische Kurpfalz, ist einer der wichtigsten Wirtschaftsräume in der Bundesrepublik Deutschland. Deshalb ist es ein mehr als berechtigtes Anliegen, daß die Vertreter dieses Raums hier im Deutschen Bundestag gemeinsam darüber nachdenken, wie sie die verkehrliche Anbindung dieser Region auch in Zukunft stärken. Meine Fraktion ist jedenfalls der Auffassung, daß dies ein wichtiges Thema ist. Ich möchte mich bei der Gelegenheit bei meiner eigenen Fraktion dafür bedanken, daß sie mir, obwohl es sich hier nicht um einen Fraktionsantrag, sondern um einen Gruppenantrag handelt, ihre Redezeit eingeräumt hat. Sie ist eine wahrhaft liberale Fraktion; vielen Dank.</p>
           <stage type="interjection">(Beifall des Abg. Albert Schmidt [Hitzhofen] [BÜNDNIS 90/DIE GRÜNEN] -- Albert Schmidt [Hitzhofen] [BÜNDNIS 90/DIE GRÜNEN]: Es gibt doch noch Liberale!)</stage>
@@ -1766,11 +1766,11 @@
           <p>Ich jedenfalls kann für meinen Teil sagen: Wenn es um die Interessen der Menschen in meinem Wahlkreis geht, kenne ich keine Parteien mehr, sondern nur noch Kurpfälzer.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der SPD -- Heiterkeit)</stage>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Das Wort hat der Abgeordnete Dr. Winfried Wolf, PDS.</p>
         </sp>
-        <sp who="Dr. Winfried Wolf" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Winfried Wolf">
+        <sp who="Winfried Wolf" parliamentary_group="PDS" role="mp" position="NA" who_original="Winfried Wolf" party="PDS" name="Winfried Wolf">
           <speaker>Dr. Winfried Wolf (PDS):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Vorab zum Stil des Hauses und zu der Einleitung der Kollegin Ferner: Beim letzten Tagesordnungspunkt am Don- nerstag letzter Woche -- es ging auch um das Thema Verkehr, und zwar um das nicht unwichtige Thema der Verlagerung des Postverkehrs von der Schiene auf die Straße -- war ich, obwohl es noch nicht sehr spät war -- es war 20.30 Uhr -- der einzige Redner. Alle anderen haben ihre Reden zu Protokoll gegeben, und von den Verkehrsleuten war niemand anwesend.</p>
           <p>Außerdem, wenn Sie, Kollegin Ferner, sagen, daß bei dem Antrag entlang der Strecke alle gefragt worden sind -- ich bin Karlsruher Abgeordneter und in Baden-Württemberg auf Platz eins gewählt --: Ich bin zu dem Thema nicht gefragt worden. Soviel zum Thema Stil des Hauses und zum Knigge.</p>
@@ -1786,11 +1786,11 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Peter Jacoby, CDU/CSU-Fraktion.</p>
         </sp>
-        <sp who="Peter Jacoby" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Jacoby">
+        <sp who="Peter Jacoby" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Jacoby" party="CDU" name="Peter Jacoby">
           <speaker>Peter Jacoby (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Ich denke, wir sind uns alle darüber einig, daß wir die Einbindung Südwestdeutschlands und Ostfrankreichs in das Hochgeschwindigkeitsnetz Europas anstreben.</p>
           <p>Der Weg dorthin ist ein schrittweiser Prozeß, wobei man dazusagen muß, daß die jetzt in der Diskussion befindliche Neigetechnik -- man kann die Dinge drehen und wenden, wie man will -- nicht im Gegensatz, im Widerspruch zu dem Ziel, einen Hochgeschwindigkeitszug zu realisieren, steht. Vielmehr bedeutet Neigetechnik, daß es sich um einen Hochgeschwindigkeitszug handelt. Es führt kein Weg daran vorbei, die Dinge so zu sehen.</p>
@@ -1798,20 +1798,20 @@
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
           <p>Es gibt keinen Wortbruch der Bundesregierung, und es gibt auch kein Infragestellen dessen, was in La Rochelle vereinbart worden ist. Dort ist erstens die Vergleichbarkeit beider Äste, Ostfrankreich über Straßburg und Ostfrankreich über Saarbrücken--Mannheim--Frankfurt, vereinbart worden. Zweitens ist vereinbart worden, daß ganz konkrete Fahrzeiten realisiert werden. Drittens ist vereinbart worden, daß eine durchgehende Verbindung von Paris über Metz nach Straßburg geschaffen wird, genauso wie von Paris über Metz, Saarbrücken und Mannheim.</p>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Herr Abgeordneter, gestatten Sie eine Zwischenfrage des Abgeordneten Kunick?</p>
         </sp>
-        <sp who="Peter Jacoby" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Jacoby">
+        <sp who="Peter Jacoby" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Jacoby" party="CDU" name="Peter Jacoby">
           <speaker>Peter Jacoby (CDU/CSU):</speaker>
           <p>Gleich. -- Alle Ziele sind nicht nur nicht in Frage gestellt, sondern Punkt für Punkt werden diese Ziele realisiert, wie mittlerweile zwei Besuche des Bahnpräsidenten Dürr bei der saarländischen Landesregierung vor zehn Monaten und am gestrigen Tage nachhaltig unter Beweis gestellt haben.</p>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Konrad Kunick" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Konrad Kunick">
+        <sp who="Konrad Kunick" parliamentary_group="SPD" role="mp" position="NA" who_original="Konrad Kunick" party="SPD" name="Konrad Kunick">
           <speaker>Konrad Kunick (SPD):</speaker>
           <p>Herr Kollege, teilen Sie auch die Auffassung, daß die in dem europäischen Vertrag über die 14 Projekte genannten Trassen die Qualität haben müssen, daß sie von den Hochleistungszügen der Staatsbahnen, die beiderseits der Grenze liegen, befahren werden können müssen, und daß sie von ihrem Ausbaustandard her nicht nur einer speziellen Technik offenstehen dürfen?</p>
         </sp>
-        <sp who="Peter Jacoby" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Jacoby">
+        <sp who="Peter Jacoby" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Jacoby" party="CDU" name="Peter Jacoby">
           <speaker>Peter Jacoby (CDU/CSU):</speaker>
           <p>Diese Überlegung teile ich. Deshalb will ich auf folgendes hinweisen: Im vergangenen Jahr gab es einen Besuch des Bahnpräsidenten Dürr bei der saarländischen Landesregierung. Damals ist in Umsetzung dessen, was in La Rochelle vertraglich fixiert wurde, vereinbart worden, daß ab dem Jahre 1998 Südwestdeutschland einen Anschluß an das Hochgeschwindigkeitsnetz der Deutschen Bahn erhält und der ICT, also die Neigetechnik, die Strecke Saarbrücken--Mannheim--Frankfurt bedient.</p>
           <p>Es war damals offen, inwieweit es zu realisieren ist, daß die Strecke durchgehend von Paris über Ostfrankreich dann die Anbindung von Südwestdeutschland ermöglicht.</p>
@@ -1824,20 +1824,20 @@
           <stage type="interjection">(Elke Ferner [SPD]: Sie verunsichern doch laufend die Leute!)</stage>
           <p>Frau Kollegin Ferner, Sie können nach wie vor auf diesem Hintergrund sozusagen einen Schnitt machen und den Versuch machen, parteiübergreifend hier etwas zu tun. Ich bin auch dazu bereit. Aber dann muß der Hintergrund stimmen, und der Hintergrund hat bei der Agitation Ihrerseits in der Region nicht gestimmt. Das war der Grund, weswegen ich bei dieser gemeinsamen Initiative etwas auf Distanz gegangen bin.</p>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Herr Abgeordneter, gestatten Sie eine weitere Zwischenfrage des Abgeordneten Klaus Dieter Reichardt?</p>
         </sp>
-        <sp who="Peter Jacoby" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Jacoby">
+        <sp who="Peter Jacoby" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Jacoby" party="CDU" name="Peter Jacoby">
           <speaker>Peter Jacoby (CDU/CSU):</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Klaus Dieter Reichardt" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Klaus Dieter Reichardt">
+        <sp who="Klaus Dieter Reichardt (Mannheim)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Klaus Dieter Reichardt (Mannheim)" party="CDU" name="Klaus Dieter Reichardt">
           <speaker>Klaus Dieter Reichardt (Mannheim) (CDU/CSU):</speaker>
           <p>Herr Kollege Jacoby, sind Sie mit mir der Meinung, daß das Verhalten von Frau Ferner, Informationen verzerrt und nur in Teilen wiederzugeben, Teil einer Verunsicherung ist, die sie vorhin beklagt hat?</p>
           <stage type="interjection">(Elke Ferner [SPD]: Wer sitzt denn in der Regierung, ihr oder wir?)</stage>
         </sp>
-        <sp who="Peter Jacoby" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Jacoby">
+        <sp who="Peter Jacoby" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Jacoby" party="CDU" name="Peter Jacoby">
           <speaker>Peter Jacoby (CDU/CSU):</speaker>
           <p>Vielleicht können wir uns an diesem Punkt wieder verständigen. Wenn es darum geht, die Zielsetzung von La Rochelle umzusetzen,</p>
           <stage type="interjection">(Günter Oesinghaus [SPD]: Dann tun Sie das doch einmal!)</stage>
@@ -1859,11 +1859,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Das Wort hat jetzt die Abgeordnete Doris Barnett, SPD-Fraktion.</p>
         </sp>
-        <sp who="Doris Barnett" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Doris Barnett">
+        <sp who="Doris Barnett" parliamentary_group="SPD" role="mp" position="NA" who_original="Doris Barnett" party="SPD" name="Doris Barnett">
           <speaker>Doris Barnett (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Zunächst mache ich Sie, Kollege Reichardt, darauf aufmerksam, daß nicht nur Kollegen von uns fehlen. Auch betroffene Kollegen aus Mannheim, Herr Jüttner, und aus Ludwigshafen, Herr Kohl, sind nicht anwesend.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD sowie des Abg. Dr. Winfried Wolf [PDS])</stage>
@@ -1888,11 +1888,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Das Wort hat jetzt der Parlamentarische Staatssekretär Manfred Carstens.</p>
         </sp>
-        <sp who="Manfred Carstens" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Verkehr" party="CSU" name="Manfred Carstens">
+        <sp who="Manfred Carstens" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Verkehr" who_original="Manfred Carstens" party="CDU" name="Manfred Carstens">
           <speaker>Manfred Carstens, Parl. Staatssekretär beim Bundesminister für Verkehr:</speaker>
           <p>Verehrte Präsidentin! Verehrte Kolleginnen und Kollegen! Eine solche Opposition kann man sich nur wünschen. Es werden Unterschriften dafür gesammelt -- das kann man im wesentlichen so sagen --, daß die Regierung das, was sie für richtig hält und längst Schritt für Schritt in die Tat umsetzt, weiterverfolgt.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
@@ -1902,20 +1902,20 @@
           <p>und zwar auf Grund von Meinungsäußerungen, die die vereinbarten Fakten in Frage stellten.</p>
           <p>Ich habe das einmal überprüft; darauf ist offensichtlich auch der Brief des Bundeskanzlers an Matthias Wissmann zurückzuführen: Bei einer französischen Regionalstelle war im Zusammenhang mit der Neigetechnik eine Irritation entstanden. Das wurde sehr schnell klargestellt und im Dezember 1996 bei dem deutsch-französischen Gipfeltreffen von Matthias Wissmann und dem französischen Verkehrsminister Pons kam es zu einer festen Vereinbarung.</p>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Herr Staatssekretär, gestatten Sie eine Zwischenfrage des Abgeordneten Kunick?</p>
         </sp>
-        <sp who="Manfred Carstens" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Verkehr" party="CSU" name="Manfred Carstens">
+        <sp who="Manfred Carstens" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Verkehr" who_original="Manfred Carstens" party="CDU" name="Manfred Carstens">
           <speaker>Manfred Carstens, Parl. Staatssekretär beim Bundesminister für Verkehr:</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Konrad Kunick" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Konrad Kunick">
+        <sp who="Konrad Kunick" parliamentary_group="SPD" role="mp" position="NA" who_original="Konrad Kunick" party="SPD" name="Konrad Kunick">
           <speaker>Konrad Kunick (SPD):</speaker>
           <p>Herr Kollege Carstens, können Sie dem Hause noch einmal mit der nötigen Klarheit sagen, daß die von dem Bundeskanzler unterschriebenen 14 Projekte auch von der Bundesregierung in internationaler Standardqualität für den Hochgeschwindigkeitsverkehr fertiggestellt werden sollen und daß Sie nicht für den Regionalverkehr aus Finanzgründen auf die Dauer nur in vielleicht möglicher Spezialqualität bauen wollen? Hintergrund der Frage -- das will ich Ihnen noch sagen --: Sind Sie der Meinung, daß der TGV auch nach Frankfurt -- genauso wie die deutsche Bahn nach Paris -- über eine solche Strecke wird fahren können? Gilt das für alle diese Projekte auf der berühmten Liste?</p>
           <stage type="interjection">(Vorsitz: Vizepräsidentin Dr. Antje Vollmer)</stage>
         </sp>
-        <sp who="Manfred Carstens" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Verkehr" party="CSU" name="Manfred Carstens">
+        <sp who="Manfred Carstens" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Verkehr" who_original="Manfred Carstens" party="CDU" name="Manfred Carstens">
           <speaker>Manfred Carstens, Parl. Staatssekretär beim Bundesminister für Verkehr:</speaker>
           <p>Herr Kollege Kunick, zunächst einmal muß man zwischen der Vereinbarung von La Rochelle und denen von Essen unterscheiden. In der Vereinbarung von La Rochelle haben wir ganz klare, präzise Vereinbarungen wegen der POS-Strecke getroffen. Daß nun diese Strecke aus deutscher und französischer Sicht ganz vorrangig in die 14 Projekte eingegliedert wurde, die besondere Bedeutung in Europa haben, ist zusätzlich zu bemerken.</p>
           <p>Einmal geht es darum, die Vereinbarung von La Rochelle umzusetzen. Zum anderen geht es darum, die Vereinbarungen von Essen umzusetzen. Sie können sich darauf verlassen, daß wir beide Vereinbarungen in den Schritten umsetzen werden, wie wir uns das vorgestellt haben und wie ich es gleich noch erläutern werde.</p>
@@ -1944,7 +1944,7 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Elke Ferner [SPD]: Es löst sich alles in Wohlgefallen auf!)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Ich schließe damit die Aussprache.</p>
           <p>Interfraktionell wird Überweisung der Vorlage auf Drucksache 13/6988 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. -- Sie sind einverstanden. Dann ist das so beschlossen.</p>
@@ -1956,7 +1956,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="5" what="recent_issues" desc="Aktuelle Stunde">
-        <sp who="Kristin Heyne" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Kristin Heyne">
+        <sp who="Kristin Heyne" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Kristin Heyne" party="GRUENE" name="Kristin Heyne">
           <speaker>Kristin Heyne (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Das Thema, das in dieser Woche nach den Äußerungen des Finanzministers täglich durch die Nachrichten ging und das die Menschen bewegt, nämlich die Frage "Kommt der Euro, oder kommt er nicht?", wird in diesem Parlament als Lumpensammler zum Abschluß der Parlamentswoche behandelt. Das liegt daran, daß die Mehrheit in diesem Haus es für wichtiger gehalten hat, auf Wunsch der F.D.P. gestern eine Aktuelle Stunde über ein so wichtiges Thema wie den Sozialhilferatgeber eines Bundeslandes zu veranstalten. Ich kann Ihnen dazu nur sagen: Wenn man sich als Parlament in die Bedeutungslosigkeit begeben will, dann sollte man so seine Themen wählen und setzen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der PDS)</stage>
@@ -1982,11 +1982,11 @@
           <p>Die Länder der Europäischen Union haben sich mit der Wirtschafts- und Währungsunion ein ehrgeiziges Ziel gesetzt. Sie haben bisher erhebliche Erfolge errungen. Diese Erfolge dürfen nicht zerredet werden. Die Währungsunion kann und sollte zum 1. Januar 1999 mit einem breiten Teilnehmerkreis beginnen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der PDS)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Jetzt hat der Abgeordnete Friedrich Merz das Wort.</p>
         </sp>
-        <sp who="Friedrich Merz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Friedrich Merz">
+        <sp who="Friedrich Merz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Friedrich Merz" party="CDU" name="Friedrich Merz">
           <speaker>Friedrich Merz (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Frau Kollegin Heyne, mir ist bei Ihrem Beitrag offengestanden nicht klargeworden, warum wir heute eine Aktuelle Stunde zu diesem Thema machen.</p>
           <stage type="interjection">(Ingrid Matthäus-Maier [SPD]: Das glauben Sie selber nicht! -- Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Keine Zeitung gelesen? Konvergenz vor Zeitplan usw.! -- Kristin Heyne [BÜNDNIS 90/DIE GRÜNEN]: Informieren Sie sich nicht über Wechselkurse?)</stage>
@@ -2013,11 +2013,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt die Kollegin Ingrid Matthäus-Maier.</p>
         </sp>
-        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ingrid Matthäus-Maier">
+        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" who_original="Ingrid Matthäus-Maier" party="SPD" name="Ingrid Matthäus-Maier">
           <speaker>Ingrid Matthäus-Maier (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Der Bundestag hat mit breiter Mehrheit für die Europäische Währungsunion gestimmt, und auch der Bundesrat hat einstimmig zugestimmt. Denn die Europäische Währungsunion 1999 ist aus ökonomischen und politischen Gründen ein Gewinn für Europa und auch für Deutschland.</p>
           <stage type="interjection">(Beifall bei der SPD, der CDU/CSU, dem BÜNDNIS 90/DIE GRÜNEN und der F.D.P.)</stage>
@@ -2030,7 +2030,7 @@
           <p>Verunsicherung Nummer zwei: Die Bundesregierung läßt den Eindruck zu, sie müsse wegen Maastricht den Menschen dauernd ins Portemonnaie packen. Das schürt natürlich Europaverdrossenheit. Dabei ist es doch nicht auf Grund von Maastricht, sondern allein auf Grund Ihrer maßlosen Schuldenpolitik so, daß Deutschland heute in Schwierigkeiten ist.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Verunsicherung Nummer drei: Unter dem Stichwort "Standort Deutschland" betreiben Sie eine einseitige Entlastung hoher und höchster Einkommen und Vermögen</p>
-          <stage type="interjection">(Dr.  Helmut Haussmann [F.D.P.]: Was hat denn das damit zu tun?)</stage>
+          <stage type="interjection">(Dr. Helmut Haussmann [F.D.P.]: Was hat denn das damit zu tun?)</stage>
           <p>durch Abschaffung der Vermögensteuer und Senkung des privaten Spitzensteuersatzes, was natürlich die Schulden kräftig anhebt. Wenn aber die Bürger zunehmend den Eindruck gewinnen, Europa sei ein Europa der Unternehmer und nicht der Arbeitnehmer, dann dürfen wir uns nicht wundern, daß die Menschen immer skeptischer werden.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN -- Dr. Helmut Haussmann [F.D.P.]: Europa ist für alle da!)</stage>
           <p>Verunsicherung Nummer vier: Finanzminister Waigel überbetont die Fiskalkriterien einseitig und verschweigt, daß der Maastricht-Vertrag einen gewissen, wenn auch kleinen, Interpretationsspielraum ausdrücklich zuläßt. Er macht das wohl, weil ihm die Eurogegner Stoiber und Gauweiler im Nacken sitzen.</p>
@@ -2041,11 +2041,11 @@
           <p>Nein, wir brauchen nicht nur eine Europäische Währungsunion; wir brauchen einen europäischen Beschäftigungspakt; wir brauchen eine europäische Steuerunion. Deswegen fordern wir Sie auf: Beenden Sie diese Verunsicherung! Bekämpfen Sie endlich aktiv die Arbeitslosigkeit! Dann erreichen Sie die Konvergenzkriterien; dann bekommen wir 1999 einen stabilen Euro. Das ist für die deutsche Wirtschaft und für die Europäer aus politischen und ökonomischen Gründen gut.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN -- Wilhelm Schmidt [Salzgitter] [SPD]: Damit könnte die Aktuelle Stunde eigentlich beendet sein!)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Helmut Haussmann.</p>
         </sp>
-        <sp who="Dr. Helmut Haussmann" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Helmut Haussmann">
+        <sp who="Helmut Haussmann" parliamentary_group="FDP" role="mp" position="NA" who_original="Helmut Haussmann" party="FDP" name="Helmut Haussmann">
           <speaker>Dr. Helmut Haussmann (F.D.P.):</speaker>
           <p>Verehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Wie bei allen großen europäischen Projekten gibt es zwei Arten von Politikern: Die einen mühen sich, die Vorteile von internationalen Lösungen den Menschen zu erklären,</p>
           <stage type="interjection">(Uwe Hiksch [SPD]: SPD!)</stage>
@@ -2076,11 +2076,11 @@
           <p>werden die Freien Demokraten die Währungsunion fristgerecht durchsetzen. Darauf können sich unsere europäischen Partner verlassen.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Jetzt hat der Abgeordnete Manfred Müller das Wort.</p>
         </sp>
-        <sp who="Manfred Müller" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Manfred Müller">
+        <sp who="Manfred Müller (Berlin)" parliamentary_group="PDS" role="mp" position="NA" who_original="Manfred Müller (Berlin)" party="PDS" name="Manfred Müller">
           <speaker>Manfred Müller (Berlin) (PDS):</speaker>
           <p>Verehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Ich laufe heute Gefahr, mich in eine schiefe Schlachtordnung zu begeben; denn es ist bekannt, welche Skepsis wir gegenüber der zu frühen Einführung einer einheitlichen europäischen Währung haben. Eigentlich müßten wir uns über eine Äußerung, wie sie Finanzminister Waigel gemacht hat, freuen; denn sie trägt unseren Bedenken Rechnung.</p>
           <p>Ich möchte einmal aus dem "Handelsblatt" von heute zitieren, das aufzeigt, daß wir nicht die einzigen in Deutschland sind, die der Entwicklung sehr skeptisch gegenüberstehen. Da steht:</p>
@@ -2097,11 +2097,11 @@
           <p>Ich bedanke mich für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Bundesminister der Finanzen, Dr. Theo Waigel.</p>
         </sp>
-        <sp who="Dr. Theodor Waigel" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" party="CSU" name="Theodor Waigel">
+        <sp who="Theodor Waigel" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" who_original="Theodor Waigel" party="CSU" name="Theodor Waigel">
           <speaker>Dr. Theodor Waigel, Bundesminister der Finanzen:</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Frau Kollegin Matthäus-Maier, die CSU hat sich in den letzten Jahren sehr intensiv, aber auch kontrovers mit diesen Fragen beschäftigt. Es gibt ganz klare Entscheidungen im Vorstand und im Parteiausschuß. Wir haben einen eigenen Parteitag dazu durchgeführt, der mit einer Mehrheit von etwa 90 Prozent meine Haltung unterstützt hat.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Zuruf von der SPD)</stage>
@@ -2150,11 +2150,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Joschka Fischer.</p>
         </sp>
-        <sp who="Joseph Fischer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Joschka Fischer">
+        <sp who="Joseph Fischer (Frankfurt)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Joseph Fischer (Frankfurt)" party="GRUENE" name="Joseph Fischer">
           <speaker>Joseph Fischer (Frankfurt) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Unsere Fraktion hat diese Aktuelle Stunde nach den öffentlichen Reaktionen auf die Vorstellung des Konvergenzprogramms, durch Bundesfinanzminister Waigel Anfang dieser Woche beantragt. Erfreulicherweise sind wir bei der Debatte in diesem Hause in wesentlichen Punkten einer Meinung</p>
           <stage type="interjection">(Heidemarie Wieczorek-Zeul [SPD]: Aber nur, weil Waigel zurückrudert! -- Dr. Helmut Haussmann [F.D.P.]: Jetzt natürlich!)</stage>
@@ -2180,11 +2180,11 @@
           <p>Europa jetzt durch ein Festhalten am Euro und durch ein termingerechtes Realisieren praktisch werden zu lassen ist das, was wir von dieser Bundesregierung verlangen. Nur, Ihre Äußerungen machen einem dieses Geschäft nicht einfacher.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD -- Ulrich Heinrich [F.D.P.]: Helfen Sie mit! Blockieren nicht auch Sie im Bundesrat!)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt die Abgeordnete Susanne Tiemann.</p>
         </sp>
-        <sp who="Dr. Susanne Tiemann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Susanne Tiemann">
+        <sp who="Susanne Tiemann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Susanne Tiemann" party="CDU" name="Susanne Tiemann">
           <speaker>Dr. Susanne Tiemann (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Ich beziehe mich auf Frau Heyne, die die Diskussion eröffnet hat. Frau Heyne, Sie haben gefragt, wie ernst wir es mit dem vereinten Europa nehmen. Ich beantworte Ihre Frage ganz klar: Wir nehmen es mit dem vereinten Europa außerordentlich ernst, so ernst, daß wir die Schaffung einer Wirtschafts- und Währungsunion und einer stabilen gemeinsamen Währung als eines der vorrangigen Ziele und konstitutiven Elemente für die weitere europäische Integration ansehen. Mit aller Entschlossenheit und Konsequenz arbeiten wir darauf hin, diese Zielsetzung auch zu erfüllen.</p>
           <p>Erlauben Sie mir nur zwei Bemerkungen zu dieser Diskussion, in der ja schon sehr viel gesagt worden ist. Erstens kann es nicht um ein Entweder-Oder gehen: entweder der Zeitplan oder die Einhaltung der Kriterien.</p>
@@ -2208,11 +2208,11 @@
           <p>Ich bedanke mich für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt Kollege Dietrich Sperling.</p>
         </sp>
-        <sp who="Dr. Dietrich Sperling" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dietrich Sperling">
+        <sp who="Dietrich Sperling" parliamentary_group="SPD" role="mp" position="NA" who_original="Dietrich Sperling" party="SPD" name="Dietrich Sperling">
           <speaker>Dr. Dietrich Sperling (SPD):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Der größte Prognostiker deutscher Sprache war, wenn ich das richtig sehe, Wilhelm Busch, und zwar mit dem bekannten Spruch: Denn erstens kommt es anders, und zweitens als man denkt. Das galt für die blühenden Landschaften und die Finanzierung der deutschen Einheit über Lohnnebenkosten, das galt bei der Lohnfortzahlung im Krankheitsfall und beim Schlechtwettergeld. Ich könnte viele Dinge aufführen. Das galt auch, als die Kriterien festgelegt wurden und man sich über den Zeitpunkt der Einführung des Euro Gedanken machte.</p>
           <p>Damals durfte man hoffen, daß die Einhaltung von drei Prozent vielleicht ein Kinderspielchen werden würde. Man hatte ja die anderen Irrtümer alle noch nicht erkannt. Jetzt stellt sich heraus: Auch diesmal kommt es anders, als man gedacht hat. Das gilt auch für Sprüche, die ein Finanzminister bringt. Wenn er angesichts einer gewandelten Situation immer noch das gleiche sagt wie vorher, dann kommt auch das anders, als man denkt. Auch ein Finanzminister muß den Wandel der Verhältnisse betrachten.</p>
@@ -2240,11 +2240,11 @@
           <p>Der Mann hatte recht.</p>
           <stage type="interjection">(Beifall bei der SPD sowie des Abg. Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN])</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Noch ist nicht Ostern. -- Das Wort hat der Kollege Hartmut Schauerte.</p>
         </sp>
-        <sp who="Hartmut Schauerte" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hartmut Schauerte">
+        <sp who="Hartmut Schauerte" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hartmut Schauerte" party="CDU" name="Hartmut Schauerte">
           <speaker>Hartmut Schauerte (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Kolleginnen und Kollegen! Es liegt im unzweifelhaften deutschen Interesse, im wohlverstandenen deutschen Interesse, daß der Euro kommt und daß er vertragsgemäß kommt.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU -- Zustimmung des Abg. Dr. Helmut Haussmann [F.D.P.])</stage>
@@ -2261,9 +2261,9 @@
           <stage type="interjection">(Ingrid Matthäus-Maier [SPD]: Können Sie bitte zu Ende zitieren!)</stage>
           <p>Der DAG-Vorsitzende Roland Issen sagt: Wir wollen den Euro nicht um den Preis steigender Arbeitslosigkeit.</p>
           <p>Wenn schon Gefahren für den Euro schlummern, dann schlummern sie wohl eher auf dieser Seite oder entwickeln sich da. Die Versuchung, aus populistischer Überzeugung eine Kampagne gegen den Euro zu führen, ist eher bei der SPD und den ihr nahestehenden Kräften als bei der CDU und den ihr nahestehenden Kräften zu sehen.</p>
-          <stage type="interjection">(Heidemarie Wieczorek-Zeul [SPD]:  Schwätzer!)</stage>
+          <stage type="interjection">(Heidemarie Wieczorek-Zeul [SPD]: Schwätzer!)</stage>
           <p>-- Das ist nun einmal Fakt. Das muß man ganz nüchtern so sehen.</p>
-          <stage type="interjection">(Wilhelm Schmidt [Salzgitter] [SPD]:  Unsinn!)</stage>
+          <stage type="interjection">(Wilhelm Schmidt [Salzgitter] [SPD]: Unsinn!)</stage>
           <p>Deswegen habe ich den Eindruck, daß diese Aktuelle Stunde mehr die Sorgen mit der SPD beschreibt als die Sorgen mit der CDU oder gar mit der Regierung.</p>
           <p>Frau Matthäus-Maier hat gesagt, unsere Theorie sei: Geldpolitik ist alles, und Europa ist nichts. Es ist absolut umgekehrt.</p>
           <stage type="interjection">(Ingrid Matthäus-Maier [SPD]: Nicht Europa! Europäische Beschäftigungspolitik!)</stage>
@@ -2287,11 +2287,11 @@
           <p>Weil nun -- auch Herr Sperling hat mit einem Zitat geendet -- die Osterzeit kommt, erinnere ich mich in diesem Zusammenhang, gerade wenn es um Europa geht, an einen schönen Vers aus der berühmten "Häschenschule", einer wunderschönen Geschichte für Kinder. In dieser "Häschenschule" gibt es ein Kapitel, in dem den jungen Hasen Ernährungskunde beigebracht wird. Das ist ja wichtig; das ist elementar. Da gibt es den wunderschönen Vers: "Das eine aber merkt euch wohl: Am allerbesten schmeckt der Kohl." Das war's.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Mit einer Aufforderung zum politischen Kannibalismus beendete er seine Rede!)</stage>
         </sp>
-        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Michaela Geiger">
+        <sp who="Michaela Geiger" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Michaela Geiger" party="CSU" name="Michaela Geiger">
           <speaker>Vizepräsidentin Michaela Geiger:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Jörg-Otto Spiller.</p>
         </sp>
-        <sp who="Jörg-Otto Spiller" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Jörg-Otto Spiller">
+        <sp who="Jörg-Otto Spiller" parliamentary_group="SPD" role="mp" position="NA" who_original="Jörg-Otto Spiller" party="SPD" name="Jörg-Otto Spiller">
           <speaker>Jörg-Otto Spiller (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Herr Kollege Schauerte, Sie haben in diese währungspolitische Debatte leider Falschmünzerei hineingetragen.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -2328,19 +2328,19 @@
           <stage type="interjection">(Dr. Helmut Haussmann [F.D.P.]: Gut, daß Sie das erwähnen!)</stage>
           <p>Da steht:</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Aber Herr Kollege, Sie haben Ihre Redezeit schon weit überschritten. Ein langes Zitat erlaube ich Ihnen nicht mehr.</p>
         </sp>
-        <sp who="Jörg-Otto Spiller" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Jörg-Otto Spiller">
+        <sp who="Jörg-Otto Spiller" parliamentary_group="SPD" role="mp" position="NA" who_original="Jörg-Otto Spiller" party="SPD" name="Jörg-Otto Spiller">
           <speaker>Jörg-Otto Spiller (SPD):</speaker>
           <p>Gestatten Sie mir, Frau Präsidentin, nur noch dieses eine Zitat zu bringen?</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Gut, wir wollen das alle hören.</p>
         </sp>
-        <sp who="Jörg-Otto Spiller" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Jörg-Otto Spiller">
+        <sp who="Jörg-Otto Spiller" parliamentary_group="SPD" role="mp" position="NA" who_original="Jörg-Otto Spiller" party="SPD" name="Jörg-Otto Spiller">
           <speaker>Jörg-Otto Spiller (SPD):</speaker>
           <p>Da steht:</p>
           <p>Verschieben bedeutet die Gefahr des Verschiebens auf den Sankt-Nimmerleinstag.</p>
@@ -2350,11 +2350,11 @@
           <p>Es wäre schön, wenn der Bundesfinanzminister das noch einmal läse.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie der Abgeordneten Dr. Helmut Haussmann [F.D.P.] und Manfred Müller [Berlin] [PDS])</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Kollege Peter Altmaier.</p>
         </sp>
-        <sp who="Peter Altmaier" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Altmaier">
+        <sp who="Peter Altmaier" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Altmaier" party="CDU" name="Peter Altmaier">
           <speaker>Peter Altmaier (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Die gegenwärtige Diskussion in Europa und in Deutschland wird in der internationalen Presse und bei den internationalen Finanzmärkten mit äußerster Aufmerksamkeit verfolgt. Dabei steht die Frage, ob wir es schaffen, den Euro termin- und fristgerecht einzuführen, längst nicht mehr nur für Währungs- und Fiskalpolitik. Sie ist zu einem Synonym geworden für die Reform- und die Zukunftsfähigkeit der Europäischen Union und ihrer Mitgliedstaaten insgesamt in einem sich dramatisch ändernden internationalen Umfeld. Weil das so ist, hat Ralf Dahrendorf unrecht, wenn er von "Nebensächlichkeiten, wie der Wirtschafts- und Währungsunion" spricht. Sie ist keine Nebensache, sondern eine Hauptsache, weil sie einen unglaublich hohen Symbolgehalt hat.</p>
           <stage type="interjection">(Beifall des Abg. Andreas Schmidt [Mülheim] [CDU/CSU])</stage>
@@ -2378,11 +2378,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Kollege Uwe Hiksch.</p>
         </sp>
-        <sp who="Uwe Hiksch" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Uwe Hiksch">
+        <sp who="Uwe Hiksch" parliamentary_group="SPD" role="mp" position="NA" who_original="Uwe Hiksch" party="SPD" name="Uwe Hiksch">
           <speaker>Uwe Hiksch (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Als ich dem Herrn Kollegen Haussmann zugehört habe, bin ich am Anfang etwas erstaunt gewesen, und zwar deshalb, weil ich feststellen mußte, daß der erste Teil seiner Rede hervorragend gewesen war und auch unterstützt werden kann. Trotzdem nehme ich dem Kollegen Haussmann nicht ab, daß er es mit der einheitlichen europäischen Währung ernst meint; denn jemand, der in der Zeitung verkündet, daß für den Euro Sozialleistungskürzungen hingenommen werden müssen,</p>
           <stage type="interjection">(Dr. Helmut Haussmann [F.D.P.]: So habe ich es nicht gesagt!)</stage>
@@ -2416,11 +2416,11 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsident Dr. Antje Vollmer:</speaker>
           <p>Als letztem Redner in dieser Debatte erteile ich nun dem Kollegen Karl Lamers das Wort.</p>
         </sp>
-        <sp who="Karl Lamers" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Karl Lamers">
+        <sp who="Karl Lamers" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Karl Lamers" party="CDU" name="Karl Lamers">
           <speaker>Karl Lamers (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Verehrte Kolleginnen und Kollegen! Betrüblich ist an dieser Debatte eigentlich nur, daß sie um diese Uhrzeit von der deutschen Öffentlichkeit nicht wahrgenommen wird.</p>
           <stage type="interjection">(Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Herr Lamers, daran sind nicht wir schuld, sondern diese dämliche F.D.P.!)</stage>
@@ -2467,13 +2467,14 @@
           <p>Ich bin zuversichtlich, daß die Währungsunion nicht nur frist- und termingerecht, sondern auch stabil errichtet werden wird. Helfen Sie bitte alle mit, dieses Ziel zu erreichen!</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Die Aktuelle Stunde ist beendet. Damit sind wir auch am Schluß unserer Tagesordnung.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 16. April 1997, 13 Uhr ein. Bis dahin wünsche ich allen Kolleginnen und Kollegen gesegnete Ostern</p>
           <stage type="interjection">(Zurufe: Danke; gleichfalls!)</stage>
           <p>und die Annehmlichkeiten der sitzungsfreien Zeit, auch wenn einige noch sehr viel zu arbeiten haben.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluß der Sitzung: 15.36 Uhr)</stage>
         </sp>
       </div>
     </body>

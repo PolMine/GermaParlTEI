@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-06</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2005/1205/bic/plenarprotokolle/pp/1998/14002a.zip</url>
-        <date>2015-10-20 19:19:36</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -36,7 +36,7 @@
   <text>
     <body>
       <div type="agenda_item" n="1" what="" desc="Wahl des Bundeskanzlers">
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Guten Morgen, meine Damen und Herren! Die Sitzung ist eröffnet.</p>
           <p>Ich rufe den Tagesordnungspunkt 1 auf:</p>
@@ -59,7 +59,7 @@
           <p>Zur Auszählung unterbreche ich die Sitzung für etwa 15 bis 20 Minuten.</p>
           <stage type="interjection">(Unterbrechung von 11.38 bis 11.54 Uhr)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Meine sehr verehrten Damen und Herren, die unterbrochene Sitzung ist wieder eröffnet.</p>
           <p>Ich gebe das Ergebnis der Wahl bekannt. Abgegebene Stimmen 666. Gültige Stimmen 665, also eine ungültige Stimme. Mit Ja haben gestimmt 351.</p>
@@ -71,12 +71,12 @@
           <p>Ich stelle fest, daß der Abgeordnete Gerhard Schröder mit der erforderlichen Mehrheit der Stimmen der Mitglieder des Deutschen Bundestages zum Bundeskanzler der Bundesrepublik Deutschland gewählt worden ist.</p>
           <p>Ich frage Sie, Herr Abgeordneter Schröder: Nehmen Sie die Wahl an?</p>
         </sp>
-        <sp who="Gerhard Schröder" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gerhard Schröder">
+        <sp who="Gerhard Schröder" parliamentary_group="SPD" role="mp" position="NA" who_original="Gerhard Schröder" party="SPD" name="Gerhard Schröder">
           <speaker>Gerhard Schröder (SPD):</speaker>
           <p>Herr Präsident, ich nehme die Wahl an.</p>
           <stage type="interjection">(Anhaltender Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN - Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Herr Bundeskanzler, ich gratuliere Ihnen im Namen des ganzen Hauses und auch persönlich zu Ihrer Wahl und wünsche Ihnen Kraft und viel Erfolg für unser Land.</p>
           <stage type="interjection">(Beifall im ganzen Hause)</stage>
@@ -85,7 +85,7 @@
           <p>Ich unterbreche die Sitzung.</p>
           <stage type="interjection">(Unterbrechung der Sitzung von 11.57 bis 16.00 Uhr)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Meine Damen und Herren, die unterbrochene Sitzung ist wieder eröffnet.</p>
           <p>Ich rufe den Tagesordnungspunkt 2 auf:</p>
@@ -99,11 +99,11 @@
         </sp>
       </div>
       <div type="agenda_item" n="2" what="" desc="Eidesleistung des Bundeskanzlers">
-        <sp who="Gerhard Schröder" parliamentary_group="NA" role="government" position="Bundeskanzler" party="SPD" name="Gerhard Schröder">
+        <sp who="Gerhard Schröder" parliamentary_group="NA" role="government" position="Bundeskanzler" who_original="Gerhard Schröder" party="SPD" name="Gerhard Schröder">
           <speaker>Gerhard Schröder, Bundeskanzler:</speaker>
           <p>Ich schwöre, daß ich meine Kraft dem Wohle des deutschen Volkes widmen, seinen Nutzen mehren, Schaden von ihm wenden, das Grundgesetz und die Gesetze des Bundes wahren und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde.</p>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Alles Gute!</p>
           <stage type="interjection">(Anhaltender Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN - Beifall bei der PDS sowie bei Abgeordneten der F.D.P. - Abgeordnete der SPD, des BÜNDNISSES 90/DIE GRÜNEN und der PDS beglückwünschen den Bundeskanzler)</stage>
@@ -114,7 +114,7 @@
           <p>Ich unterbreche die Sitzung.</p>
           <stage type="interjection">(Unterbrechung von 16.03 bis 18.00 Uhr)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Meine Damen und Herren, die unterbrochene Sitzung ist wieder eröffnet.</p>
           <p>Ich rufe den Tagesordnungspunkt 3 auf:</p>
@@ -152,13 +152,13 @@
           <p>zur Bundesministerin für Gesundheit,</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
           <p>Herrn Franz Müntefering</p>
-          <p>zum Bundesminister für Verkehr, Bau- und Wohnungswesen, </p>
+          <p>zum Bundesminister für Verkehr, Bau- und Wohnungswesen,</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
           <p>Herrn Jürgen Trittin</p>
           <p>zum Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit,</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
           <p>Frau Edelgard Bulmahn</p>
-          <p>zur Bundesministerin für Bildung und Forschung, </p>
+          <p>zur Bundesministerin für Bildung und Forschung,</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
           <p>Frau Heidemarie Wieczorek-Zeul</p>
           <p>zur Bundesministerin für wirtschaftliche Zusammenarbeit und Entwicklung</p>
@@ -180,141 +180,145 @@
         </sp>
       </div>
       <div type="agenda_item" n="3" what="" desc="Eidesleistung der Bundesminister">
-        <sp who="Joseph Fischer" parliamentary_group="NA" role="government" position="Bundesminister des Auswärtigen" party="CDU" name="Joseph Fischer">
+        <sp who="Joseph Fischer" parliamentary_group="NA" role="government" position="Bundesminister des Auswärtigen" who_original="Joseph Fischer" party="GRUENE" name="Joseph Fischer">
           <speaker>Joseph Fischer, Bundesminister des Auswärtigen:</speaker>
           <p>Ja. - Ich schwöre es.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Herr Bundesminister Otto Schily?</p>
         </sp>
-        <sp who="Otto Schily" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="SPD" name="Otto Schily">
+        <sp who="Otto Schily" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Otto Schily" party="SPD" name="Otto Schily">
           <speaker>Otto Schily, Bundesminister des Innern:</speaker>
           <p>Ich schwöre es.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Frau Bundesministerin Prof. Dr. Herta Däubler-Gmelin?</p>
-          <p>Dr. Herta Däubler-Gmelin,  Bundesministerin der Justiz: Ich schwöre es, so wahr mir Gott helfe.</p>
+        </sp>
+        <sp who="Herta Däubler-Gmelin" parliamentary_group="NA" role="government" position="Bundesministerin der Justiz" who_original="Herta Däubler-Gmelin" party="SPD" name="Herta Däubler-Gmelin">
+          <speaker>Dr. Herta Däubler-Gmelin, Bundesministerin der Justiz:</speaker>
+          <p>Ich schwöre es, so wahr mir Gott helfe.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Herr Bundesminister Oskar Lafontaine?</p>
         </sp>
-        <sp who="Oskar Lafontaine" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" party="SPD" name="Oskar Lafontaine">
+        <sp who="Oskar Lafontaine" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" who_original="Oskar Lafontaine" party="SPD" name="Oskar Lafontaine">
           <speaker>Oskar Lafontaine, Bundesminister der Finanzen:</speaker>
           <p>Ich schwöre es.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Herr Bundesminister Dr. Werner Müller?</p>
         </sp>
-        <sp who="Dr. Werner Müller" parliamentary_group="NA" role="government" position="Bundesminister für Wirtschaft und Technologie" party="parteilos(auf Vorschlag der SPD)" name="Werner Müller">
+        <sp who="Werner Müller" parliamentary_group="NA" role="government" position="Bundesminister für Wirtschaft und Technologie" who_original="Werner Müller" party="parteilos" name="Werner Müller">
           <speaker>Dr. Werner Müller, Bundesminister für Wirtschaft und Technologie:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Herr Bundesminister Karl-Heinz Funke?</p>
         </sp>
-        <sp who="Karl-Heinz Funke" parliamentary_group="NA" role="government" position="Bundesminister für Ernährung, Landwirtschaft und Forsten" party="SPD" name="Karl-Heinz Funke">
+        <sp who="Karl-Heinz Funke" parliamentary_group="NA" role="government" position="Bundesminister für Ernährung, Landwirtschaft und Forsten" who_original="Karl-Heinz Funke" party="SPD" name="Karl-Heinz Funke">
           <speaker>Karl-Heinz Funke, Bundesminister für Ernährung, Landwirtschaft und Forsten:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Herr Bundesminister Walter Riester?</p>
         </sp>
-        <sp who="Walter Riester" parliamentary_group="NA" role="government" position="Bundesminister für Arbeit und Sozialordnung" party="SPD" name="Walter Riester">
+        <sp who="Walter Riester" parliamentary_group="NA" role="government" position="Bundesminister für Arbeit und Sozialordnung" who_original="Walter Riester" party="SPD" name="Walter Riester">
           <speaker>Walter Riester, Bundesminister für Arbeit und Sozialordnung:</speaker>
           <p>Ich schwöre es.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Herr Bundesminister Rudolf Scharping?</p>
         </sp>
-        <sp who="Rudolf Scharping" parliamentary_group="NA" role="government" position="Bundesminister der Verteidigung" party="SPD" name="Rudolf Scharping">
+        <sp who="Rudolf Scharping" parliamentary_group="NA" role="government" position="Bundesminister der Verteidigung" who_original="Rudolf Scharping" party="SPD" name="Rudolf Scharping">
           <speaker>Rudolf Scharping, Bundesminister der Verteidigung:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Frau Bundesministerin Dr. Christine Bergmann?</p>
         </sp>
-        <sp who="Dr. Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" party="SPD" name="Christine Bergmann">
+        <sp who="Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" who_original="Christine Bergmann" party="SPD" name="Christine Bergmann">
           <speaker>Dr. Christine Bergmann, Bundesministerin für Familie, Senioren, Frauen und Jugend:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Frau Bundesministerin Andrea Fischer?</p>
         </sp>
-        <sp who="Andrea Fischer" parliamentary_group="NA" role="government" position="Bundesministerin für Gesundheit" party="Grüne" name="Andrea Fischer">
+        <sp who="Andrea Fischer" parliamentary_group="NA" role="government" position="Bundesministerin für Gesundheit" who_original="Andrea Fischer" party="GRUENE" name="Andrea Fischer">
           <speaker>Andrea Fischer, Bundesministerin für Gesundheit:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Herr Bundesminister Franz Müntefering?</p>
         </sp>
-        <sp who="Franz Müntefering" parliamentary_group="NA" role="government" position="Bundesminister für Verkehr, Bau- und Wohnungswesen" party="SPD" name="Franz Müntefering">
+        <sp who="Franz Müntefering" parliamentary_group="NA" role="government" position="Bundesminister für Verkehr, Bau- und Wohnungswesen" who_original="Franz Müntefering" party="SPD" name="Franz Müntefering">
           <speaker>Franz Müntefering, Bundesminister für Verkehr, Bau- und Wohnungswesen:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Herr Bundesminister Jürgen Trittin?</p>
         </sp>
-        <sp who="Jürgen Trittin" parliamentary_group="NA" role="government" position="Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit" party="Grüne" name="Jürgen Trittin">
+        <sp who="Jürgen Trittin" parliamentary_group="NA" role="government" position="Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit" who_original="Jürgen Trittin" party="GRUENE" name="Jürgen Trittin">
           <speaker>Jürgen Trittin, Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit:</speaker>
           <p>Ich schwöre es.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Frau Bundesministerin Edelgard Bulmahn?</p>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="government" position="Bundesministerin für Bildung und Forschung" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="government" position="Bundesministerin für Bildung und Forschung" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Edelgard Bulmahn, Bundesministerin für Bildung und Forschung:</speaker>
           <p>Ich schwöre es.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Frau Bundesministerin Heidemarie Wieczorek-Zeul?</p>
         </sp>
-        <sp who="Heidemarie Wieczorek-Zeul" parliamentary_group="NA" role="government" position="Bundesministerin für wirtschaftliche Zusammenarbeit und Entwicklung" party="SPD" name="Heidemarie Wieczorek-Zeul">
+        <sp who="Heidemarie Wieczorek-Zeul" parliamentary_group="NA" role="government" position="Bundesministerin für wirtschaftliche Zusammenarbeit und Entwicklung" who_original="Heidemarie Wieczorek-Zeul" party="SPD" name="Heidemarie Wieczorek-Zeul">
           <speaker>Heidemarie Wieczorek-Zeul, Bundesministerin für wirtschaftliche Zusammenarbeit und Entwicklung:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
-          <p>Herr Bundesminister Bodo Hombach? </p>
+          <p>Herr Bundesminister Bodo Hombach?</p>
         </sp>
-        <sp who="Bodo Hombach" parliamentary_group="NA" role="government" position="Bundesminister für besondere Aufgaben" party="SPD" name="Bodo Hombach">
+        <sp who="Bodo Hombach" parliamentary_group="NA" role="government" position="Bundesminister für besondere Aufgaben" who_original="Bodo Hombach" party="SPD" name="Bodo Hombach">
           <speaker>Bodo Hombach, Bundesminister für besondere Aufgaben:</speaker>
           <p>Ich schwöre es.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Meine Damen und Herren, die Mitglieder der Bundesregierung haben den nach Art. 64 Abs. 2 des Grundgesetzes vorgeschriebenen Eid vor dem Deutschen Bundestag geleistet. Ich spreche den Mitgliedern der Bundesregierung persönlich und im Namen des Hauses die besten Wünsche für ihre außerordentlich verantwortungsvolle Arbeit aus.</p>
           <stage type="interjection">(Beifall im ganzen Hause)</stage>
           <p>Liebe Kolleginnen und Kollegen, wir sind damit am Schluß unserer Tagesordnung.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Dienstag, den 10. November 1998, 10 Uhr ein.</p>
           <p>Die Sitzung ist geschlossen. Ich wünsche einen guten Nachhauseweg.</p>
+          <stage type="interjection">(Schluß der Sitzung: 18.09 Uhr)</stage>
         </sp>
       </div>
     </body>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-06</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2005/1205/bic/plenarprotokolle/pp/1998/14009a.zip</url>
-        <date>2015-10-20 19:19:37</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -36,7 +36,7 @@
   <text>
     <body>
       <div type="agenda_item" n="1" what="debate" desc="7. Erste Beratung des von den Fraktionen SPD und BÜNDNIS 90/DIE GRÜNEN eingebrac...">
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Die Sitzung ist eröffnet.</p>
           <p>Interfraktionell ist vereinbart worden, die heutige Tagesordnung um die Beratung des Antrags der Fraktion der SPD und des Bündnisses 90/Die Grünen "Entlastung durch Einführung einer ökologischen und sozialen</p>
@@ -69,7 +69,7 @@
           <p>Nach einer interfraktionellen Vereinbarung sind für die Aussprache zwei Stunden vorgesehen. - Ich höre keinen Widerspruch. Dann ist es so beschlossen.</p>
           <p>Ich eröffne die Aussprache. Das Wort erhält zunächst Herr Bundesminister Lafontaine.</p>
         </sp>
-        <sp who="Oskar Lafontaine" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" party="SPD" name="Oskar Lafontaine">
+        <sp who="Oskar Lafontaine" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" who_original="Oskar Lafontaine" party="SPD" name="Oskar Lafontaine">
           <speaker>Oskar Lafontaine, Bundesminister der Finanzen:</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Der vorliegende Gesetzentwurf greift eine Reform auf, über die in unserer Gesellschaft, aber auch in vielen anderen Staaten seit vielen Jahren diskutiert wird. Es wird darüber diskutiert, daß die Besteuerung der Arbeit zu hoch geworden ist und daß die Besteuerung des Verbrauchs von Umwelt- und Energieressourcen zu gering ist. Daher wird weltweit in der Veränderung dieser Struktur ein wichtiges Projekt der Modernisierung gesehen. Auf den internationalen Gipfeln, die sich mit der Reduktion der Umweltbelastungen beschäftigen, ist auch die Steuer- und Abgabenstruktur stets ein wichtiges Thema.</p>
           <p>Bereits 1920 hat der englische Ökonom Pigou darauf hingewiesen, daß wir betriebswirtschaftliche und volkswirtschaftliche Kosten mehr in Übereinstimmung bringen müssen. Insofern gehen wir heute ein Projekt an, das über viele Jahre liegen blieb, das aber - auch in Zusammenarbeit mit den europäischen Nachbarn - dringend angegangen werden muß.</p>
@@ -126,11 +126,11 @@
           <p>Entscheidend ist aber, daß es ein wirklich großes Projekt der Moderne gibt - darauf kann man nicht oft genug hinweisen -, das aus der Tatsache resultiert, daß der bisherige Energieverbrauch nicht globalisierungsfähig, nicht endlos in die Zukunft fortschreibbar ist. Deshalb ist es höchste Zeit, daß wir diese Reform angehen.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Friedrich Merz.</p>
         </sp>
-        <sp who="Friedrich Merz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Friedrich Merz">
+        <sp who="Friedrich Merz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Friedrich Merz" party="CDU" name="Friedrich Merz">
           <speaker>Friedrich Merz (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Herr Minister Lafontaine, wir sind Ihnen dafür dankbar, daß Sie den Gesamtzusammenhang zwischen dem Gesetzesvorhaben hergestellt haben, das Sie heute einbringen, und der Steuerpolitik der neuen Bundesregierung. Man kann in der Tat über die ökologische Steuerreform nicht sprechen, ohne über die Steuerpolitik insgesamt zu diskutieren. Man kann über die Steuerpolitik in dieser Woche nicht diskutieren, ohne noch einmal einen kurzen Blick auf das zurückzuwerfen, was der Sachverständigenrat zur Beurteilung der gesamtwirtschaftlichen Entwicklung am Mittwoch dieser Woche in Bonn vorgelegt hat.</p>
           <stage type="interjection">(Dr. Wolfgang Schäuble [CDU/CSU]: Das ist wohl wahr!)</stage>
@@ -208,11 +208,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Anhaltender Beifall bei der CDU/CSU und der F.D.P. - Detlev von Larcher [SPD]: Das ist die Hoffnung der CDU!)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
-          <p>Es spricht jetzt der Herr Bundesminister Jürgen Trittin. </p>
+          <p>Es spricht jetzt der Herr Bundesminister Jürgen Trittin.</p>
         </sp>
-        <sp who="Jürgen Trittin" parliamentary_group="NA" role="government" position="Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit" party="Grüne" name="Jürgen Trittin">
+        <sp who="Jürgen Trittin" parliamentary_group="NA" role="government" position="Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit" who_original="Jürgen Trittin" party="GRUENE" name="Jürgen Trittin">
           <speaker>Jürgen Trittin, Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit:</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Wir legen mit diesem Gesetzentwurf einen Vorschlag vor, der eine schlimme Fehlentwicklung der vergangenen Jahre zu korrigieren versucht. Wir alle haben es erlebt, daß von 1990 bis 1998 der Anteil der Sozialversicherungsbeiträge an den Bruttolohnkosten von einstmals 35 Prozent auf mittlerweile fast 43 Prozent angestiegen ist.</p>
           <stage type="interjection">(Walter Hirche [F.D.P.]: Sie wollten die deutsche Einheit doch nicht!)</stage>
@@ -263,34 +263,34 @@
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD - Dr. Theodor Waigel [CDU/CSU]: Sie haben keine Ahnung! Es ist falsch und schlecht!)</stage>
           <p>- Herr Waigel, ich habe gehört, das sei falsch.</p>
           <stage type="interjection">(Dr. Theodor Waigel [CDU/CSU]: Ja! Und schlecht!)</stage>
-          <p>494 Deutscher Bundestag - 14. Wahlperiode - 9. Sitzung. Bonn, Freitag, den 20. November 1998 Deutscher Bundestag - 14. Wahlperiode - 9. Sitzung. Bonn, Freitag, den 20. November 1998 487 Deutscher Bundestag - 14. Wahlperiode - 245. Sitzung, Bonn, Donnerstag, den 25. Juni 1998 1 - Dann behaupten Sie, daß die gesamte Kommission der Europäischen Gemeinschaft die Unwahrheit sagt.</p>
+          <p>- Dann behaupten Sie, daß die gesamte Kommission der Europäischen Gemeinschaft die Unwahrheit sagt.</p>
           <stage type="interjection">(Dr. Theodor Waigel [CDU/CSU]: Was Sie sagen, ist falsch! Sie müssen noch viel nachlesen!)</stage>
           <p>- Sei es drum. - Es könnte ja sein, daß Ihre Abwahl etwas damit zu tun hat, wie Sie sich in dieser Angelegenheit verhalten haben.</p>
           <stage type="interjection">(Dr. Theodor Waigel [CDU/CSU]: Warten Sie einmal ab! - Michael Glos [CDU/CSU]: Mein lieber Mann!)</stage>
           <p>Neben der gemeinsamen Anstrengung unter der deutschen Präsidentschaft, eine europäische Richtlinie zu schaffen, gibt es ein Zweites, das in einer zweiten und dritten Stufe gelöst werden muß: Wir müssen, wenn wir eine andere Energiestruktur, einen neuen Energiemix ohne Atom wollen, bei der Erhebung der Stromsteuer unterschiedliche Wirkungsgrade von Kraftwerken entsprechend berücksichtigen.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Minister, gestatten Sie eine Zwischenfrage?</p>
         </sp>
-        <sp who="Jürgen Trittin" parliamentary_group="NA" role="government" position="Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit" party="Grüne" name="Jürgen Trittin">
+        <sp who="Jürgen Trittin" parliamentary_group="NA" role="government" position="Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit" who_original="Jürgen Trittin" party="GRUENE" name="Jürgen Trittin">
           <speaker>Jürgen Trittin, Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit:</speaker>
           <p>Dies konnte in der ersten Stufe nicht geschehen. An dieser Stelle, denke ich, wird an dem Grundsatz, den wir heute vorgelegt haben, nachzuarbeiten sein. Dieser Grundsatz bedeutet den Einstieg in eine neue, in eine andere Steuerpolitik, die künftig nicht mehr die Beschäftigung von Arbeitnehmerinnen und Arbeitnehmern belastet, sondern den Verbrauch der Natur, um auf diese Weise mehr Arbeit in diesem Lande zu schaffen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Minister, es bestand der Wunsch nach einer Zwischenfrage.</p>
           <stage type="interjection">(Bundesminister Jürgen Trittin: Ich bin fertig! - Michael Glos [CDU/CSU]: Er ist schon weg! So etwas! - Walter Hirche [F.D.P.]: Er will schon einmal nacharbeiten!)</stage>
           <p>- Abgeordnete und auch Minister haben das Recht, Zwischenfragen zuzulassen oder auch nicht. Außerdem hatte der Herr Minister bereits das Rednerpult verlassen.</p>
           <p>Das Wort hat jetzt der Abgeordnete Carl-Ludwig Thiele.</p>
         </sp>
-        <sp who="Carl-Ludwig Thiele" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Carl-Ludwig Thiele">
+        <sp who="Carl-Ludwig Thiele" parliamentary_group="FDP" role="mp" position="NA" who_original="Carl-Ludwig Thiele" party="FDP" name="Carl-Ludwig Thiele">
           <speaker>Carl-Ludwig Thiele (F.D.P.):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine sehr geehrten Kolleginnen und Kollegen! Herr Minister Trittin, nach den Diskussionen der letzten Tage habe ich den Eindruck, daß Sie und der Bundeskanzler die Chaostage nicht nur in Hannover erlebt haben, sondern sie auch in Bonn einführen wollen.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
           <p>Das halte ich für gänzlich unangemessen.</p>
-          <p>Was bedeuten denn die Versprechungen eines Bundeskanzlers in einer Regierungserklärung, die er vor zehn Tagen in diesem Hause abgegeben hat, wenn der Inhalt dieser Regierungserklärung nicht einmal diese zehn Tage Bestand hat? Warum beschließt man denn  eine Koalitionsvereinbarung, in der eine Beschränkung der 620-Mark-Arbeitsverträge enthalten ist, wenn man sie direkt danach wieder aufhebt? Das zeigt doch nur, daß Ihr Regierungsprogramm in sich widersprüchlich, ohne jegliche Linie ist und daß Sie es täglich ändern müssen. Das ist aber kein Zufall; dahinter steckt ein System, nämlich ein komplett falsches Politikverständnis.</p>
+          <p>Was bedeuten denn die Versprechungen eines Bundeskanzlers in einer Regierungserklärung, die er vor zehn Tagen in diesem Hause abgegeben hat, wenn der Inhalt dieser Regierungserklärung nicht einmal diese zehn Tage Bestand hat? Warum beschließt man denn eine Koalitionsvereinbarung, in der eine Beschränkung der 620-Mark-Arbeitsverträge enthalten ist, wenn man sie direkt danach wieder aufhebt? Das zeigt doch nur, daß Ihr Regierungsprogramm in sich widersprüchlich, ohne jegliche Linie ist und daß Sie es täglich ändern müssen. Das ist aber kein Zufall; dahinter steckt ein System, nämlich ein komplett falsches Politikverständnis.</p>
           <stage type="interjection">(Lachen bei Abgeordneten der SPD)</stage>
           <p>Die rotgrüne Politik geht davon aus, daß mehr Nachfrage mehr Arbeitsplätze schafft, daß sich durch ein stärkeres Verteilen von Wohltaten die Probleme unseres Landes lösen lassen, daß dadurch neue Arbeitsplätze geschaffen werden und daß dadurch die Arbeitslosigkeit sinkt. Meine sehr verehrten Kolleginnen und Kollegen von der rotgrünen Koalition, Sie haben ein grundsätzlich falsches Denken, Sie haben eine grundsätzlich falsche Philosophie; deshalb gehen Sie den falschen Weg.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU - Detlev von Larcher [SPD]: Ihr Denken ist abgewählt worden!)</stage>
@@ -324,7 +324,7 @@
           <stage type="interjection">(Detlev von Larcher [SPD]: Das ist aber nicht originell!)</stage>
           <p>Das kann doch wohl nicht der richtige Weg sein, für die Umwelt tatsächlich eine entsprechende Wirkung zu erzielen.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
-          <p>Meine sehr verehrten Damen und Herren, in den letzten Monaten haben wir uns darüber unterhalten, daß Gesetze, insbesondere Steuergesetze, einfach und gerecht sein sollen. Das, was Sie hier vorlegen, ist weder einfach noch ist es gerecht, was die Verteilungswirkung angeht, was die Belastung für unterschiedliche Branchen angeht, was Bürger betrifft, die den öffentlichen Personennahverkehr benutzen. Denn auch der öffentliche Personennahverkehr, der von Ihnen dann ja wieder über Subventionen gefördert werden soll, wird hier erst einmal mit einer zusätzlichen Steuer belastet, mit der Folge, daß die normale Karte für die Busse, für die Bahn, für den öffentlichen Verkehr, den wir in Deutschland haben, von Ihnen künstlich verteuert wird. Es kann doch nicht sein, daß Sie sich davon tatsächlich umweltpolitisch  positive Effekte erhoffen. Das wird in der Form nicht eintreten.</p>
+          <p>Meine sehr verehrten Damen und Herren, in den letzten Monaten haben wir uns darüber unterhalten, daß Gesetze, insbesondere Steuergesetze, einfach und gerecht sein sollen. Das, was Sie hier vorlegen, ist weder einfach noch ist es gerecht, was die Verteilungswirkung angeht, was die Belastung für unterschiedliche Branchen angeht, was Bürger betrifft, die den öffentlichen Personennahverkehr benutzen. Denn auch der öffentliche Personennahverkehr, der von Ihnen dann ja wieder über Subventionen gefördert werden soll, wird hier erst einmal mit einer zusätzlichen Steuer belastet, mit der Folge, daß die normale Karte für die Busse, für die Bahn, für den öffentlichen Verkehr, den wir in Deutschland haben, von Ihnen künstlich verteuert wird. Es kann doch nicht sein, daß Sie sich davon tatsächlich umweltpolitisch positive Effekte erhoffen. Das wird in der Form nicht eintreten.</p>
           <p>Nein, das Gesetz ist in sich widersprüchlich. Es verfolgt keine politische Linie. Die Bürger sollen lediglich mit über 11 Milliarden DM zusätzlich belastet werden.</p>
           <p>Dieses Gesetz entlastet nicht die Umwelt, durch dieses Gesetz werden keine neuen Arbeitsplätze geschaffen, und durch dieses Gesetz werden auch die Lohnnebenkosten auf Dauer nicht gesenkt.</p>
           <p>Erstens. Die meisten Umweltprobleme sind grenzüberschreitender Natur. Dies gilt insbesondere für die weltweiten CO2-Emissionen, an denen Deutschland insgesamt einen Anteil von weniger als 5 Prozent hat, die deutsche Industrie sogar nur von weniger als 1 Prozent. Nach Berechnungen des RWI wäre der weltweite Ausstoß von CO2 dagegen bereits heute um 17 Prozent niedriger, wenn die Unternehmen in den anderen Ländern die Umweltstandards hätten, die wir in unserem Land in unseren Unternehmen schon haben. Das ist der richtige Weg. So muß Innovation gefördert werden, damit dadurch die Umweltbelastung weltweit gesenkt wird.</p>
@@ -354,11 +354,11 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Fraktionsvorsitzende der PDS, Gregor Gysi.</p>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Gregor Gysi">
+        <sp who="Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" who_original="Gregor Gysi" party="PDS" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (PDS):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Diese Reform, die ökologische Steuerreform genannt wird, stellt für mich den Abschied der Grünen von ihrer Ankündigung dar, der Politik der neuen Bundesregierung einen ökologischen Stempel aufdrücken zu wollen.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
@@ -382,13 +382,13 @@
           <p>Ein zweiter Punkt, der uns ganz wichtig ist, ist folgender: Warum machen Sie denn nicht eine mutige Strukturreform? Was Sie machen, ist doch das, was wir kennen: aus der einen Tasche heraus, in die andere Tasche hinein. - Das hilft uns doch nicht weiter. Wir haben einen Vorschlag gemacht. Tun Sie einen mutigen Schritt, indem Sie sagen: Wir streichen den Arbeitgeberanteil zu den Versicherungssystemen und ersetzen ihn durch eine höchst flexible Bruttowertschöpfungsabgabe: Jedes Unternehmen zahlt nach seiner realen Leistungsfähigkeit und nicht länger nach der Zahl der Beschäftigten und der Höhe der Bruttolöhne, so daß nicht mehr die arbeitsintensiven Unternehmen doppelt und dreifach bestraft werden, wie das heute der Fall ist. Das wäre arbeitsmarktpolitisch eine höchst sinnvolle Reform.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Kollege Dr. Gysi, damit haben Sie eigentlich Ihren Schlußpunkt gefunden.</p>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Gregor Gysi">
+        <sp who="Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" who_original="Gregor Gysi" party="PDS" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (PDS):</speaker>
-          <p>Es gibt auch noch andere Möglichkeiten, die Schaffung von Arbeitsplätzen mit Ökologie zu verbinden. Ich nenne Ihnen ein Beispiel: Wenn Sie wirklich beabsichtigen, eine Strukturreform durchzuführen, sollten Sie einmal darüber nachdenken, ob Reparaturleistungen des Handwerks nicht mit  einer niedrigeren Mehrwertsteuer als heute belastet werden könnten. Hiermit erzielten Sie drei positive Effekte: Erstens könnte der Endverbraucher diese Handwerksleistungen billiger in Anspruch nehmen, zweitens würde das Handwerk gestärkt, und drittens wäre es ökologisch sinnvoll, weil sich Reparaturen im Vergleich zu Neuanschaffungen wieder lohnen würden. Das wäre eine sinnvolle Verbindung von sozialer und ökologischer Politik.</p>
+          <p>Es gibt auch noch andere Möglichkeiten, die Schaffung von Arbeitsplätzen mit Ökologie zu verbinden. Ich nenne Ihnen ein Beispiel: Wenn Sie wirklich beabsichtigen, eine Strukturreform durchzuführen, sollten Sie einmal darüber nachdenken, ob Reparaturleistungen des Handwerks nicht mit einer niedrigeren Mehrwertsteuer als heute belastet werden könnten. Hiermit erzielten Sie drei positive Effekte: Erstens könnte der Endverbraucher diese Handwerksleistungen billiger in Anspruch nehmen, zweitens würde das Handwerk gestärkt, und drittens wäre es ökologisch sinnvoll, weil sich Reparaturen im Vergleich zu Neuanschaffungen wieder lohnen würden. Das wäre eine sinnvolle Verbindung von sozialer und ökologischer Politik.</p>
           <stage type="interjection">(Beifall bei der PDS - Zuruf des Abg. Joachim Poß [SPD])</stage>
           <p>- Sie haben gestern gerade einmal über 4 Milliarden DM Steuereinnahmen gestrichen, ohne einen Satz dazu zu sagen, wie Sie das Ganze ausgleichen wollen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der PDS und der F.D.P.)</stage>
@@ -400,12 +400,12 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Detlev von Larcher.</p>
           <stage type="interjection">(Michael Glos [CDU/CSU]: Ein ausgesprochener Sympathling!)</stage>
         </sp>
-        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Detlev von Larcher">
+        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" who_original="Detlev von Larcher" party="SPD" name="Detlev von Larcher">
           <speaker>Detlev von Larcher (SPD):</speaker>
           <p>Frau Präsidentin! Sehr geehrte Kolleginnen und Kollegen! Auf uns Sozialdemokraten und auf die von uns geführte Koalition ist Verlaß.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD - Lachen bei der CDU/CSU - Michael Glos [CDU/CSU]: Blödsinn!)</stage>
@@ -429,38 +429,38 @@
           <p>In vielen europäischen Staaten hat der Gedanke der Energiesteuer schon zu praktischen Konsequenzen geführt. Vorreiter im Hinblick auf die Energiebesteuerung sind wir beileibe nicht. Das sind vielmehr zum Beispiel Dänemark, Schweden und die Niederlande. Auch andere Länder sind in diesem Zusammenhang schon genannt worden. Diese Länder erwarten von Deutschland, daß wir eine solche Energiebesteuerung jetzt nachholen. Sie erwarten das mit Recht. Wer hier noch von einem nationalen Alleingang spricht, der will die Öffentlichkeit in die Irre führen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Kollege, gestatten Sie eine Zwischenfrage des Abgeordneten Hirche?</p>
         </sp>
-        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Detlev von Larcher">
+        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" who_original="Detlev von Larcher" party="SPD" name="Detlev von Larcher">
           <speaker>Detlev von Larcher (SPD):</speaker>
           <p>Bitte sehr.</p>
         </sp>
-        <sp who="Walter Hirche" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Walter Hirche">
+        <sp who="Walter Hirche" parliamentary_group="FDP" role="mp" position="NA" who_original="Walter Hirche" party="FDP" name="Walter Hirche">
           <speaker>Walter Hirche (F.D.P.):</speaker>
           <p>Herr Kollege von Larcher, ist Ihnen bewußt, daß zum Beispiel in Dänemark trotz der Existenz einer Stromsteuer der Strompreis um 25 Prozent unter dem Strompreis in Deutschland liegt, wo es keine Stromsteuer gibt?</p>
           <stage type="interjection">(Monika Griefahn [SPD]: Weil die viele regenerative Energien haben!)</stage>
           <p>Wie beurteilen Sie in diesem Zusammenhang die Auswirkungen auf die Arbeitsplätze?</p>
         </sp>
-        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Detlev von Larcher">
+        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" who_original="Detlev von Larcher" party="SPD" name="Detlev von Larcher">
           <speaker>Detlev von Larcher (SPD):</speaker>
           <p>Lieber Herr Kollege, sie haben jedenfalls eine Stromsteuer eingeführt, weil sie den Verbrauch verteuern und genau dieses Signal geben wollten. Wir holen das nach.</p>
           <stage type="interjection">(Lachen bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Gestatten Sie eine zweite Zwischenfrage des Abgeordneten Hirche?</p>
         </sp>
-        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Detlev von Larcher">
+        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" who_original="Detlev von Larcher" party="SPD" name="Detlev von Larcher">
           <speaker>Detlev von Larcher (SPD):</speaker>
           <p>Bitte sehr.</p>
         </sp>
-        <sp who="Walter Hirche" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Walter Hirche">
+        <sp who="Walter Hirche" parliamentary_group="FDP" role="mp" position="NA" who_original="Walter Hirche" party="FDP" name="Walter Hirche">
           <speaker>Walter Hirche (F.D.P.):</speaker>
           <p>Ist Ihnen bekannt, daß in Dänemark in den letzten Jahren, das heißt seit Einführung der Ökosteuer, der CO2-Ausstoß nachweislich gestiegen ist?</p>
         </sp>
-        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Detlev von Larcher">
+        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" who_original="Detlev von Larcher" party="SPD" name="Detlev von Larcher">
           <speaker>Detlev von Larcher (SPD):</speaker>
           <p>Das ist mir nicht bekannt. Das kann man nachprüfen. Für den Fall, daß das so ist, bin ich ganz sicher, daß die Dänen mit uns einen Schritt weitergehen und den CO2-Ausstoß verringern. Sie werden das erleben.</p>
           <p>Einen ersten Schritt zur ökologischen Umgestaltung unseres Steuersystems tun wir vorsichtig und wohlabgewogen. Ab dem 1. April 1999 wird die Steuer auf Benzin und Diesel um 6 Pfennig erhöht. Die Steuer auf Heizöl erhöhen wir um 4 Pfennig je Liter. Erdgas werden wir mit 0,32 Pfennig je Kilowattstunde zusätzlich besteuern. Je Kilowattstunde Strom wird man ab 1. April 1999 Steuern in Höhe von 2 Pfennig zahlen.</p>
@@ -487,20 +487,20 @@
           <stage type="interjection">(Carl-Ludwig Thiele [F.D.P.]: Aber wie sieht die zweite Stufe aus?)</stage>
           <p>Das gilt für die Planung von Investitionen, Herr Thiele, und für Produktionsabläufe, bei denen die Prozeßenergie zukünftig eine größere Rolle spielen wird. Das gilt auch für die Entwicklung neuer Produkte, zum Beispiel kraftstoffsparender Automobile, oder die Weiterentwicklung von Technologien zur besseren Nutzung regenerativer Energien.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Kollege, gestatten Sie eine Zwischenfrage der Kollegin Pieper?</p>
         </sp>
-        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Detlev von Larcher">
+        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" who_original="Detlev von Larcher" party="SPD" name="Detlev von Larcher">
           <speaker>Detlev von Larcher (SPD):</speaker>
           <p>Bitte sehr.</p>
         </sp>
-        <sp who="Cornelia Pieper" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Cornelia Pieper">
+        <sp who="Cornelia Pieper" parliamentary_group="FDP" role="mp" position="NA" who_original="Cornelia Pieper" party="FDP" name="Cornelia Pieper">
           <speaker>Cornelia Pieper (F.D.P.):</speaker>
           <p>Herr Kollege, wie bringen Sie die ökologische Steuerreform damit in Einklang, daß der Bundeskanzler den Aufbau Ost zur Chefsache gemacht hat? Wie erklären Sie sich, daß sich mehrere ostdeutsche Firmen in einem offenen Brief an den Bundeskanzler und den Staatsminister für den Aufbau Ost gewandt haben und darauf hingewiesen haben, daß die steigenden Energiepreise letztendlich zur Vernichtung von Arbeitsplätzen insbesondere in den neuen Bundesländern beitragen? Wissen Sie von dem Vorhaben der Rautenbach AG in Wernigerode, Investitionen in Höhe von 40 Millionen DM nächstes Jahr nicht in Wernigerode, in Sachsen-Anhalt, zu tätigen, sondern in Osteuropa, weil von der Bundesregierung angekündigt worden ist, daß sich die Energiepreise erhöhen werden, insbesondere für den Mittelstand in den neuen Bundesländern?</p>
           <stage type="interjection">(Wilhelm Schmidt [Salzgitter] [SPD]: Alles vorgeschoben!)</stage>
         </sp>
-        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Detlev von Larcher">
+        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" who_original="Detlev von Larcher" party="SPD" name="Detlev von Larcher">
           <speaker>Detlev von Larcher (SPD):</speaker>
           <p>Frau Kollegin, wenn Sie mir zugehört hätten, hätten Sie bemerkt, daß ich auf die Belastungen der Betriebe, insbesondere der mittelständischen Betriebe, eingegangen bin. Es ist doch kein Wunder, daß, wenn ein Gesetz vorgelegt wird, jeder versucht, noch in den Beratungen seine Interessen vertreten zu sehen.</p>
           <p>Ich könnte Ihnen jetzt von den Handwerksbetrieben in meinem Wahlkreis berichten, die ich im Wahlkampf und auch zuvor aufgesucht habe und denen ich die Frage gestellt habe: Was belastet euch am meisten? Da war immer von den Lohnnebenkosten die Rede.</p>
@@ -512,30 +512,30 @@
           <stage type="interjection">(Carl-Ludwig Thiele [F.D.P.]: Das finde ich ja gut!)</stage>
           <p>Sie müssen hier also gar nicht solch ein Theater machen.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Kollege von Larcher - -</p>
         </sp>
-        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Detlev von Larcher">
+        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" who_original="Detlev von Larcher" party="SPD" name="Detlev von Larcher">
           <speaker>Detlev von Larcher (SPD):</speaker>
           <p>Ich antworte noch auf die Frage.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Gerade haben Sie auch noch dem Kollegen Thiele geantwortet. Aber jetzt besteht der Wunsch nach einer Nachfrage.</p>
         </sp>
-        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Detlev von Larcher">
+        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" who_original="Detlev von Larcher" party="SPD" name="Detlev von Larcher">
           <speaker>Detlev von Larcher (SPD):</speaker>
           <p>Ich möchte jetzt diesen Gedanken vollenden.</p>
           <p>In den Beratungen werden wir noch ganz viele Einwände hören und den Versuch vieler Interessengruppen erleben, daß ihre Interessen berücksichtigt werden. Das muß man sorgfältig prüfen. Prüfet alles, und dann entscheidet richtig, lautet die Devise!</p>
           <stage type="interjection">(Walter Hirche [F.D.P.]: Aber Sie können doch nicht sagen, Thiele hat einen Pappkameraden aufgebaut, nur weil er vor Gysi gesprochen hat! Das geht nicht!)</stage>
         </sp>
-        <sp who="Cornelia Pieper" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Cornelia Pieper">
+        <sp who="Cornelia Pieper" parliamentary_group="FDP" role="mp" position="NA" who_original="Cornelia Pieper" party="FDP" name="Cornelia Pieper">
           <speaker>Cornelia Pieper (F.D.P.):</speaker>
           <p>Herr Kollege, Sie werden doch sicherlich zugeben, daß nicht nur die Lohnnebenkosten Kosten für die Betriebe sind, sondern daß letztendlich auch die Energiepreise, die Preise für Strom die Betriebskosten erhöhen können. Ich frage Sie noch einmal: Bedeuten Ihre Äußerungen, daß der Aufbau Ost für Sie nicht mehr Chefsache ist?</p>
           <stage type="interjection">(Zurufe von der SPD und dem BÜNDNIS 90/DIE GRÜNEN: Oh!)</stage>
         </sp>
-        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Detlev von Larcher">
+        <sp who="Detlev von Larcher" parliamentary_group="SPD" role="mp" position="NA" who_original="Detlev von Larcher" party="SPD" name="Detlev von Larcher">
           <speaker>Detlev von Larcher (SPD):</speaker>
           <p>Nein, das heißt es selbstverständlich nicht. Das Wort des Bundeskanzlers gilt, Frau Kollegin.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
@@ -550,12 +550,12 @@
           <p>den roten Faden erkennen können. Sie finden darin eine kurze Zusammenfassung dessen, was wir vorhaben. Ich bitte Sie herzlich um Ihre Zustimmung.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Hans Michelbach.</p>
           <stage type="interjection">(Zuruf von der SPD: Um Gottes willen!)</stage>
         </sp>
-        <sp who="Hans Michelbach" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Hans Michelbach">
+        <sp who="Hans Michelbach" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hans Michelbach" party="CSU" name="Hans Michelbach">
           <speaker>Hans Michelbach (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Verehrte Kolleginnen und Kollegen! Herr Kollege von Larcher, auf die SPD ist ja wirklich Verlaß:</p>
           <stage type="interjection">(Wilhelm Schmidt [Salzgitter] [SPD]: Das stimmt! Immer!)</stage>
@@ -609,7 +609,7 @@
           <p>Ein Wort zu der Bemessungsgrundlage, die Sie in dem Gesetzentwurf vorgesehen haben. Die Ökosteuer ist damit nicht nur Illusion, sondern auch ein Akt staatlicher Willkür. Die Bemessungsgrundlage mit der Auswahl an Ausnahmeregelungen erzeugt tiefe und tiefgehende Ungerechtigkeiten - nichts anderes - und eine Teilung der Wirtschaft. Noch nie hat ein Gesetz in Deutschland eine Teilung der Wirtschaft in dieser Form hervorgerufen, wie Sie das beabsichtigen.</p>
           <p>Dies führt bei Firmen, die den Umweltschutz bisher betrieben haben, zu Wettbewerbsverzerrungen und zu Benachteiligungen. Das ist für mich eine Förderung des Altmaschinenmarktes. Der, der bisher eine umweltfreundliche Maschine angeschafft hat und damit unter 6,4 Prozent Energieverbrauch an den Gesamtbetriebskosten liegt, hätte am besten die alte Maschine noch weiterlaufen lassen, weil er dann wieder über 6,4 Prozent Energieverbrauch gelegen hätte und damit letzten Endes durch die Ökosteuer entlastet worden wäre.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P.)</stage>
-          <p>496 Deutscher Bundestag - 14. Wahlperiode - 9. Sitzung. Bonn, Freitag, den 20. November 1998 Deutscher Bundestag - 14. Wahlperiode - 9. Sitzung. Bonn, Freitag, den 20. November 1998 503 Deutscher Bundestag - 14. Wahlperiode - 245. Sitzung, Bonn, Donnerstag, den 25. Juni 1998 502 Das ist doch eine schizophrene Politik. Die darf doch gar nicht so betrieben werden. Die betroffenen Betriebsbranchen werden geteilt, eine Teilung der Wirtschaft, die unglückselig ist und die Sie noch bereuen werden. Es steckt natürlich eine Staatswillkür dahinter. Das kann in keinem Fall so durchgehen.</p>
+          <p>Das ist doch eine schizophrene Politik. Die darf doch gar nicht so betrieben werden. Die betroffenen Betriebsbranchen werden geteilt, eine Teilung der Wirtschaft, die unglückselig ist und die Sie noch bereuen werden. Es steckt natürlich eine Staatswillkür dahinter. Das kann in keinem Fall so durchgehen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P.)</stage>
           <p>Auch bei Ihren geliebten energieintensiven Großunternehmungen, die Sie auf deren Druck aus der Besteuerung herausgenommen haben, haben Sie letzten Endes völligen Unsinn gemacht,</p>
           <stage type="interjection">(Michael Glos [CDU/CSU]: Nackte Willkür!)</stage>
@@ -626,22 +626,22 @@
           <stage type="interjection">(Detlev von Larcher [SPD]: Bewußt die Unwahrheit!)</stage>
           <p>denn wenn man in einer Woche - NA</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Kollege, bitte machen Sie noch einen Satz und dann Schluß.</p>
         </sp>
-        <sp who="Hans Michelbach" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Hans Michelbach">
+        <sp who="Hans Michelbach" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hans Michelbach" party="CSU" name="Hans Michelbach">
           <speaker>Hans Michelbach (CDU/CSU):</speaker>
           <p>- 10 Milliarden DM für die Ökosteuer und 4,5 Milliarden DM für 620-DM-Kräfte ausgibt, dann verstehe ich, daß man nicht genug Geld hat. Ich kann Ihnen nur sagen: Sie haben es durch Ihre Steuerpolitik fertiggebracht, uns innerhalb von vier Wochen in ein Steuerchaos zu stürzen.</p>
           <stage type="interjection">(Detlev von Larcher [SPD]: Das sagen Sie, der das Steuerrecht völlig verwüstet hat!)</stage>
           <p>Es gilt das Prinzip: Geldbeschaffung über alles. Bei Ihnen muß man Angst haben, daß Sie zur Geldbeschaffung noch eine Alkoholsteuer erfinden, von der Alkoholiker ausgenommen werden.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. - Detlev von Larcher [SPD]: Die Steuerverwüster sprechen von Steuerverwüstung!)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Reinhard Loske.</p>
         </sp>
-        <sp who="Dr. Reinhard Loske" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Reinhard Loske">
+        <sp who="Reinhard Loske" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Reinhard Loske" party="GRUENE" name="Reinhard Loske">
           <speaker>Dr. Reinhard Loske (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Es war nicht anders zu erwarten: Wenn die neue Regierung mit einem wirklichen Reformprojekt Ernst macht, dann wittert die rechte Seite dieses Hohen Hauses Gefahr für den Standort Deutschland.</p>
           <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der SPD)</stage>
@@ -681,22 +681,22 @@
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
           <p>Das, was wir im Bereich der Erneuerung des Verkehrswesens, der Förderung erneuerbarer Energien usw. sinnvollerweise tun müssen, soll aus der Streichung von ökologisch kontraproduktiven Subventionen finanziert werden, aber nicht aus der ökologischen Steuerreform. Das ist der entscheidende Gedanke.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Kollege, gestatten Sie eine Zwischenfrage des Abgeordneten</p>
           <p>Hirche?</p>
         </sp>
-        <sp who="Dr. Reinhard Loske" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Reinhard Loske">
+        <sp who="Reinhard Loske" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Reinhard Loske" party="GRUENE" name="Reinhard Loske">
           <speaker>Dr. Reinhard Loske (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ja, gerne. Bitte, Herr Hirche.</p>
           <stage type="interjection">(Rezzo Schlauch [BÜNDNIS 90/DIE GRÜNEN]: Jetzt kommt wieder Dänemark!)</stage>
         </sp>
-        <sp who="Walter Hirche" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Walter Hirche">
+        <sp who="Walter Hirche" parliamentary_group="FDP" role="mp" position="NA" who_original="Walter Hirche" party="FDP" name="Walter Hirche">
           <speaker>Walter Hirche (F.D.P.):</speaker>
           <p>Herr Kollege Loske, ich weiß ja, daß Sie in dieser Diskussion sehr engagiert sind; wir haben auch mehrfach miteinander darüber gesprochen. Wie wollen Sie es korrigieren, daß ausgerechnet die Bahn mit der neuen Steuer belastet wird, und wie soll das, wenn man jetzt dem Gedanken des Umsteigens auf öffentlichen Nah- und Fernverkehr folgt, eigentlich miteinander in Verbindung gebracht werden?</p>
           <stage type="interjection">(Rezzo Schlauch [BÜNDNIS 90/DIE GRÜNEN]: Euer Herzensthema, was?)</stage>
         </sp>
-        <sp who="Dr. Reinhard Loske" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Reinhard Loske">
+        <sp who="Reinhard Loske" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Reinhard Loske" party="GRUENE" name="Reinhard Loske">
           <speaker>Dr. Reinhard Loske (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Das Gesetzgebungsverfahren steht ja noch bevor, und es wird noch über Detailprobleme geredet werden. Zeitlich haben wir jetzt etwas mehr Luft bekommen; das ist auch gut so. Wir haben gerade gehört, daß die Anhörung verschoben wird.</p>
           <p>Grundsätzlich kann ich - auch in Absprache mit unserem verkehrspolitischen Sprecher - folgendes sagen: Wir haben in der Tat eine Mehrbelastung bei der Bahn. Sie wird aber durch die Senkung der Lohnzusatzkosten entlastet. Wenn dann die verbleibende Nettobelastung auf die Tonnen- bzw. Personenkilometer umgelegt wird, dann werden wir eine durchschnittliche Mehrbelastung von 15 Pfennigen pro 100 Kilometer haben. Das ist natürlich im Moment noch ein Wert, der über den Daumen ermittelt wurde. Bei Benzin wären es, wenn wir einmal von einem Verbrauch von 10 Litern pro 100 Kilometer ausgehen, 60 Pfennige mehr pro 100 Kilometer, so daß die Bahn sogar relativ bessergestellt ist. Es wird also überhaupt kein Anreiz geschaffen, Verkehr von der Schiene auf die Straße zurückzuverlagern.</p>
@@ -729,21 +729,21 @@
           <p>Ich kann mich auch des Eindrucks nicht erwehren - das muß ich schon sagen, wenn ich Herrn Merz zuhöre -, daß es Ihnen nicht so sehr um Ökologie geht, sondern daß es sehr stark um Effekthascherei geht, wenn ich das einmal so sagen darf.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD - Detlev von Larcher [SPD]: Natürlich, nur!)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Kollege, Ihre Redezeit ist eigentlich abgelaufen. Es besteht noch der Wunsch nach einer Zwischenfrage, die ich noch zulassen würde; auf die können Sie dann noch antworten. Gestatten Sie die Zwischenfrage?</p>
         </sp>
-        <sp who="Dr. Reinhard Loske" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Reinhard Loske">
+        <sp who="Reinhard Loske" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Reinhard Loske" party="GRUENE" name="Reinhard Loske">
           <speaker>Dr. Reinhard Loske (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Bitte, gern.</p>
         </sp>
-        <sp who="Carl-Ludwig Thiele" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Carl-Ludwig Thiele">
+        <sp who="Carl-Ludwig Thiele" parliamentary_group="FDP" role="mp" position="NA" who_original="Carl-Ludwig Thiele" party="FDP" name="Carl-Ludwig Thiele">
           <speaker>Carl-Ludwig Thiele (F.D.P.):</speaker>
           <p>Herr Kollege Loske, die alte Koalition hatte beschlossen, einen dritten Mehrwertsteuersatz auf Energie einzuführen, weil das der einzige Weg ist,</p>
           <stage type="interjection">(Rezzo Schlauch [BÜNDNIS 90/DIE GRÜNEN]: Wo denn? Das war ein Luftbeschluß! - Weitere Zurufe vom BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>eine Zusatzbelastung auf Arbeitsplätze in unserem Lande zu verhindern. Das ist der beste Weg, um die Arbeitsplätze von Zusatzkosten freizuhalten. Ich frage Sie: Warum gehen Sie diesen Weg nicht?</p>
         </sp>
-        <sp who="Dr. Reinhard Loske" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Reinhard Loske">
+        <sp who="Reinhard Loske" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Reinhard Loske" party="GRUENE" name="Reinhard Loske">
           <speaker>Dr. Reinhard Loske (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Meines Wissens war die Sache vage in Aussicht gestellt und keineswegs ein Beschluß der Koalition. Ansonsten hätten Sie es ja machen können. Sie haben es aber nicht gemacht. Das ist der entscheidende Unterschied.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
@@ -752,13 +752,13 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Kollege Loske, das war Ihre erste Rede hier im Parlament. Ich möchte Ihnen im Namen des Hauses dazu gratulieren.</p>
           <stage type="interjection">(Beifall im ganzen Hause)</stage>
           <p>Jetzt hat das Wort die Abgeordnete Barbara Höll.</p>
         </sp>
-        <sp who="Dr. Barbara Höll" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Barbara Höll">
+        <sp who="Barbara Höll" parliamentary_group="PDS" role="mp" position="NA" who_original="Barbara Höll" party="PDS" name="Barbara Höll">
           <speaker>Dr. Barbara Höll (PDS):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Die PDS bekennt sich grundsätzlich zum Ziel der Verteuerung des Umweltverbrauchs. Wir verschließen uns auch nicht der Einführung von Energiesteuern und der Erhöhung der Mineralölsteuer. Das Wort "ökologisch" dient der rotgrünen Regierung bei diesem Gesetzentwurf aber nur als Etikett für eine Steuererhöhung, mit der Haushaltslöcher gestopft werden sollen, die durch die Senkung der Rentenbeiträge entstehen werden.</p>
           <stage type="interjection">(Widerspruch bei der SPD)</stage>
@@ -790,22 +790,22 @@
           <p>denn von den 11,2 Milliarden DM, die Sie anstreben, werden tatsächlich nur 2 Milliarden DM von der Großindustrie gezahlt. Durch die Entlastung bei den Lohnnebenkosten spart sie aber 6 Milliarden DM ein.</p>
           <p>Es ist eindeutig, daß dieser Gesetzentwurf nicht der Einstieg in eine ökologische Steuerreform ist. Nein, es ist die Erhebung einer Verbrauchsteuer mit einem ökologischen Mäntelchen. Wir lehnen das ab. Wir bleiben bei unseren Vorschlägen, die wir vorhin noch einmal genannt haben!</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Frau Kollegin, die Zeit ist doch erheblich überschritten.</p>
         </sp>
-        <sp who="Dr. Barbara Höll" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Barbara Höll">
+        <sp who="Barbara Höll" parliamentary_group="PDS" role="mp" position="NA" who_original="Barbara Höll" party="PDS" name="Barbara Höll">
           <speaker>Dr. Barbara Höll (PDS):</speaker>
           <p>Das sind eine verkehrsmittelunabhängige Pauschale und andere Maßnahmen wie ein ermäßigter Mehrwertsteuersatz auf Reparaturen. Lassen Sie uns über wirkliche Strukturreformen und nicht über eine Steuererhöhung diskutieren, die die Verdiener mit kleinem und niedrigem Einkommen belastet!</p>
           <p>Ich danke.</p>
           <stage type="interjection">(Beifall bei der PDS - Detlev von Larcher [SPD]: Das war nicht gut!)</stage>
           <p>- Das war ausgezeichnet.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Michael Müller.</p>
         </sp>
-        <sp who="Michael Müller" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Michael Müller">
+        <sp who="Michael Müller (Düsseldorf)" parliamentary_group="SPD" role="mp" position="NA" who_original="Michael Müller (Düsseldorf)" party="SPD" name="Michael Müller">
           <speaker>Michael Müller (Düsseldorf) (SPD):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Bei allen Kompromissen und bei allen schwer zu lösenden Aufgaben muß das Wichtigste klar sein: Wir vollziehen hiermit den Einstieg in eine ganz wichtige Kurskorrektur unserer Wirtschaftsordnung. Das ist der entscheidende Punkt.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -857,11 +857,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Das Wort für die CDU/CSU-Fraktion hat der Kollege Klaus Lippold.</p>
         </sp>
-        <sp who="Dr. Klaus W. Lippold" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Klaus Lippold">
+        <sp who="Lippold (Offenbach)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Lippold (Offenbach)" party="CDU" name="Klaus W. Lippold">
           <speaker>Dr. Klaus W. Lippold (Offenbach) (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Der Kollege Larcher hat gesagt: Wir haben das angekündigt, wir tun das, auf uns ist Verlaß, wir setzen klare Signale.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
@@ -879,7 +879,7 @@
           <stage type="interjection">(Carl-Ludwig Thiele [F.D.P.]: Richtig!)</stage>
           <p>So einfach ist das. Und das nennen Sie ein "richtiges Reformprojekt".</p>
           <p>Herr Kollege Loske, es ist so, daß auch Sie, obgleich Sie an der Erstellung mitgewirkt haben, bereits im Detail angedeutet haben - ich meine damit die Bemerkung von Herrn von Larcher zu den permanenten Änderungen -, daß diese Reform hinsichtlich der Ausnahmeregelungen auf Dauer so nicht durchzuhalten sei. Während also auf der einen Seite von "klarer Initiative" und von einem "deutlichen Reformprojekt" gesprochen wird, üben Sie schon an Ihrem eigenen Reformprojekt Kritik, indem Sie sagen: So kann es nicht weitergeführt werden.</p>
-          <p>Warum wollen Sie es denn in dieser Form beschließen? Warum überlegen Sie nicht erst einmal ruhig fünf Minuten, bevor Sie mit einem so unausgegorenen Wirrwarr in dieses Haus kommen? Hinterher muß es dann wieder geändert werden. Da gibt es einen anderen Kollegen von Ihnen, der sagt:  Das werden wir dann in der Ausschußberatung machen. - Warum legen Sie uns nicht ein ausgewogeneres Konzept vor? So jedenfalls, meine Damen und Herren, kann man das nicht machen.</p>
+          <p>Warum wollen Sie es denn in dieser Form beschließen? Warum überlegen Sie nicht erst einmal ruhig fünf Minuten, bevor Sie mit einem so unausgegorenen Wirrwarr in dieses Haus kommen? Hinterher muß es dann wieder geändert werden. Da gibt es einen anderen Kollegen von Ihnen, der sagt: Das werden wir dann in der Ausschußberatung machen. - Warum legen Sie uns nicht ein ausgewogeneres Konzept vor? So jedenfalls, meine Damen und Herren, kann man das nicht machen.</p>
           <p>Herr Kollege Müller, ich will ganz deutlich sagen: Beschlußlage in der Union war: Selbstverpflichtung statt Steuererhöhung.</p>
           <stage type="interjection">(Michael Müller [Düsseldorf] [SPD]: Ach? Dazu habe ich auch ein schönes Zitat!)</stage>
           <p>Das ist ein ganz wesentlicher Punkt. Ich habe das sehr lange betrieben. Sie sollten das hier wirklich nicht einfach so unterschlagen.</p>
@@ -916,11 +916,11 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. - Detlev von Larcher [SPD]: Sie haben 16 Jahre nichts vorgelegt! 16 Jahre Untätigkeit!)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Das Wort für die SPD-Fraktion hat der Kollege Hans Martin Bury.</p>
         </sp>
-        <sp who="Hans Martin Bury" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hans Martin Bury">
+        <sp who="Hans Martin Bury" parliamentary_group="SPD" role="mp" position="NA" who_original="Hans Martin Bury" party="SPD" name="Hans Martin Bury">
           <speaker>Hans Martin Bury (SPD):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Herr Kollege Lippold, nun wischen Sie sich einmal den Schaum vom Mund.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -956,11 +956,11 @@
           <p>Liebe Kolleginnen und Kollegen, unser Ansatz ist die sinnvolle Verknüpfung von Ökonomie und Ökologie. Zur Wirtschaftsmodernisierung gehört eben auch, Fehlentwicklungen im Steuersystem zu korrigieren und die Effizienz der Marktwirtschaft zu nutzen, um die Umwelt zu schonen. Die ökologische Steuerreform fördert neue energiesparende Produkte und Produktionsverfahren, und sie trägt dazu bei, daß deutsche Unternehmen und die deutsche Wirtschaft insgesamt bei diesen Zukunftstechnologien weltweit führend bleiben.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Das Wort hat Bundesminister Werner Müller.</p>
         </sp>
-        <sp who="Dr. Werner Müller" parliamentary_group="NA" role="government" position="Bundesminister für Wirtschaft und Technologie" party="parteilos(auf Vorschlag der SPD)" name="Werner Müller">
+        <sp who="Werner Müller" parliamentary_group="NA" role="government" position="Bundesminister für Wirtschaft und Technologie" who_original="Werner Müller" party="parteilos" name="Werner Müller">
           <speaker>Dr. Werner Müller, Bundesminister für Wirtschaft und Technologie:</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Die Zeit ist weit fortgeschritten. Ich möchte daher nur wenige Bemerkungen machen.</p>
           <p>Die Debatte hat gezeigt, daß die Ökosteuer einmal Bestandteil der Programme aller Parteien war. Ich verstehe sehr wohl, daß man, wenn man in der Opposition ist, gegen die SPD oder die Grünen argumentieren muß. Aber ich bitte Sie, nicht in Opposition gegen die Natur zu verfallen;</p>
@@ -981,7 +981,7 @@
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Man kann danach fragen, warum als Wert 6,4 Prozent und nicht 6,5 oder 6,3 Prozent gewählt wurden. Der Wert ist so gebildet, daß nach unserer ganz sicheren Überzeugung kein Betrieb unter dem Strich belastet wird, sondern die allermeisten Betriebe entlastet werden, so daß die Wirtschaft mit diesem Satz leben kann.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD - Carl-Ludwig Thiele [F.D.P.]: Kein Betrieb wird unter dem Strich belastet?)</stage>
-          <p>506 Deutscher Bundestag - 14. Wahlperiode - 9. Sitzung. Bonn, Freitag, den 20. November 1998 Deutscher Bundestag - 14. Wahlperiode - 9. Sitzung. Bonn, Freitag, den 20. November 1998 515 Deutscher Bundestag - 14. Wahlperiode - 245. Sitzung, Bonn, Donnerstag, den 25. Juni 1998 1 Lassen Sie mich zusammenfassend sagen: Diese ökologische Steuerreform ist eine vernünftige Sache. Sie belastet den Naturverbrauch und führt daher dazu, daß weniger Natur verbraucht wird. Sie senkt die Kosten des Faktors Arbeit und führt unter dem Strich zu mehr Arbeit, auch wenn die Umsetzung in kleinen Schritten geschieht.</p>
+          <p>Lassen Sie mich zusammenfassend sagen: Diese ökologische Steuerreform ist eine vernünftige Sache. Sie belastet den Naturverbrauch und führt daher dazu, daß weniger Natur verbraucht wird. Sie senkt die Kosten des Faktors Arbeit und führt unter dem Strich zu mehr Arbeit, auch wenn die Umsetzung in kleinen Schritten geschieht.</p>
           <stage type="interjection">(Hans Michelbach [CDU/CSU]: Sie sind ja nicht einmal ein Stollmann-Verschnitt!)</stage>
           <p>Mit der Umsetzung der ersten Stufe in ihrer jetzigen Ausgestaltung wird ein kleiner Schritt getan; ich wiederhole mich. Ihre Aussage, daß die Schritte nicht groß genug wären, spiegeln Sie bitte einmal an den Reaktionen, die es draußen - auch bei Ihnen - gäbe, wenn die Schritte größer wären.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -989,11 +989,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
-          <p>Zu einer Kurzintervention hat der Kollege Hirche das Wort. </p>
+          <p>Zu einer Kurzintervention hat der Kollege Hirche das Wort.</p>
         </sp>
-        <sp who="Walter Hirche" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Walter Hirche">
+        <sp who="Walter Hirche" parliamentary_group="FDP" role="mp" position="NA" who_original="Walter Hirche" party="FDP" name="Walter Hirche">
           <speaker>Walter Hirche (F.D.P.):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Der Wirtschaftsminister hat eben gesagt, die produzierenden Betriebe wären am Ende noch Gewinner dieser neuen Steuer.</p>
           <stage type="interjection">(Rezzo Schlauch [BÜNDNIS 90/DIE GRÜNEN]: Hat er nicht gesagt!)</stage>
@@ -1013,22 +1013,22 @@
           <p>Das verstößt gegen den Gleichheitsgrundsatz und ist, so glaube ich, für die mittelständischen Betriebe kein gutes Beispiel dafür, wie in Deutschland Arbeitsplätze in der Wirtschaft behandelt werden sollten. Wir halten das für falsch.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Herr Bundesminister Müller, wollen Sie auf diese Kurzintervention antworten? - Sie haben das Wort.</p>
         </sp>
-        <sp who="Dr. Werner Müller" parliamentary_group="NA" role="government" position="Bundesminister für Wirtschaft und Technologie" party="parteilos(auf Vorschlag der SPD)" name="Werner Müller">
+        <sp who="Werner Müller" parliamentary_group="NA" role="government" position="Bundesminister für Wirtschaft und Technologie" who_original="Werner Müller" party="parteilos" name="Werner Müller">
           <speaker>Dr. Werner Müller, Bundesminister für Wirtschaft und Technologie:</speaker>
           <p>Ich möchte nur einen Satz dazu sagen. Ich bitte auch, bei dem soeben von Ihnen genannten Beispiel immer zuerst die Senkung der Lohnnebenkosten zu berücksichtigen.</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Hat er doch gesagt!)</stage>
           <p>Ich möchte denjenigen Betrieb erleben, der nach dieser Senkung wirklich noch so belastet wird, daß all die Klagen der Verbände eine Rechtfertigung finden.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN - Hans Michelbach [CDU/CSU]: Das ist unglaublich!)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Das Wort für die CDU/CSU-Fraktion hat der Kollege Gunnar Uldall.</p>
         </sp>
-        <sp who="Gunnar Uldall" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Gunnar Uldall">
+        <sp who="Gunnar Uldall" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Gunnar Uldall" party="CDU" name="Gunnar Uldall">
           <speaker>Gunnar Uldall (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Herr Minister, mein Kollege Friedrich Merz, der sich leider entschuldigen mußte und Ihnen das auch mitgeteilt hatte - er mußte einer anderen Verpflichtung nachkommen -, hat in seiner Rede Bezug genommen auf Ihr Interview vom 7. November 1998 im "Tagesspiegel" in dem Sie gesagt hatten:</p>
           <p>Diese Klage halte ich für berechtigt. Industrie, Handwerk und Mittelstand müssen von dieser Steuer so lange befreit werden, bis sie in der Europäischen Union einheitlich eingeführt wird.</p>
@@ -1050,7 +1050,7 @@
           <p>Wir wünschen, Herr Minister, daß Sie in den kommenden Jahren in dieser Frage immer eine klare Position beziehen und bei den Positionen bleiben, wie Sie sie ursprünglich in dem "Tagesspiegel"-Interview vertreten haben.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird Überweisung der Vorlagen auf den Drucksachen 14/40 und 14/66 (neu) an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Der Gesetzentwurf auf Drucksache 14/40 soll außerdem zur Mitberatung dem Ausschuß für Tourismus überwiesen werden. Gibt es dazu anderweitige Vorschläge? - Das ist nicht der Fall. Dann sind die Überweisungen so beschlossen.</p>
@@ -1106,7 +1106,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="2" what="debate" desc="8. a) Erste Beratung des von den Fraktionen SPD und BÜNDNIS 90/DIE GRÜNEN eingeb...">
-        <sp who="Walter Riester" parliamentary_group="NA" role="government" position="Bundesminister für Arbeit und Sozialordnung" party="SPD" name="Walter Riester">
+        <sp who="Walter Riester" parliamentary_group="NA" role="government" position="Bundesminister für Arbeit und Sozialordnung" who_original="Walter Riester" party="SPD" name="Walter Riester">
           <speaker>Walter Riester, Bundesminister für Arbeit und Sozialordnung:</speaker>
           <p>Herr Präsident! Sehr geehrte Damen und Herren! Wir stehen vor großen Umwälzungsprozessen in Wirtschaft und Gesellschaft. Die Veränderungen auf den Arbeitsmärkten sind zum Teil Ausdruck dieser Umwälzungen. Für viele Menschen bringt der Wandel Unsicherheit und Vertrauensverluste mit sich.</p>
           <p>Wir sind vor sechs Wochen von den Bürgern und Bürgerinnen gewählt worden, weil sie Sicherheit und Vertrauen zurückgewinnen wollen. Sie erwarten von der Politik, inmitten dieses Strukturwandels nicht allein gelassen zu werden. Nur wenn die Menschen Vertrauen in sich und die Politik zurückgewinnen, sind sie bereit, die Veränderungen auch aktiv mitzutragen. Wir wollen, daß sie wieder Wagnisse auf sich nehmen und der Zukunft optimistisch entgegengehen.</p>
@@ -1207,11 +1207,11 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Das Wort für die CDU/CSU-Fraktion hat Frau Birgit Schnieber-Jastram.</p>
         </sp>
-        <sp who="Birgit Schnieber-Jastram" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Birgit Schnieber-Jastram">
+        <sp who="Birgit Schnieber-Jastram" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Birgit Schnieber-Jastram" party="CDU" name="Birgit Schnieber-Jastram">
           <speaker>Birgit Schnieber-Jastram (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Herr Riester, das waren viele Sprüche.</p>
           <stage type="interjection">(Lachen bei der SPD)</stage>
@@ -1281,12 +1281,12 @@
           <p>Nehmen Sie diese Sorge bitte ernst, Herr Riester! Ansonsten wird es in den nächsten vier Jahren schwierig werden - für Sie und, was noch viel schlimmer ist, für uns alle.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Ich gebe das Wort der Kollegin Annelie Buntenbach, Bündnis 90/Die Grünen.</p>
           <stage type="interjection">(Dr. Wolfgang Schäuble [CDU/CSU]: Wann spricht denn der Herr Dreßler? - Gegenruf von der SPD: Wo ist denn Herr Blüm?)</stage>
         </sp>
-        <sp who="Annelie Buntenbach" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Annelie Buntenbach">
+        <sp who="Annelie Buntenbach" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Annelie Buntenbach" party="GRUENE" name="Annelie Buntenbach">
           <speaker>Annelie Buntenbach (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Sehr geehrte Damen und Herren! Ich bin froh, daß die neue Regierung schon heute, nach wenigen Wochen im Amt, diesen Gesetzentwurf hier einbringt, der einige der gröbsten Fehlentscheidungen der alten Bundesregierung korrigiert und gerade im Zusammenhang mit der Ökosteuer neue Weichenstellungen erkennbar macht. Gerade die Absenkung des Rentenbeitrags auf 19,5 Prozent im nächsten Jahr ist eine wirklich gute Nachricht für die Arbeitnehmerinnen und Arbeitnehmer, deren Nettogehalt sich in den letzten Jahren immer unzumutbarer vom Bruttogehalt entfernt hat.</p>
           <p>Wenn Sie, meine Damen und Herren von der Opposition, uns kritisieren - nicht nur heute, sondern auch schon in den letzten Tagen -, daß wir angeblich alles nur täten, um die Einnahmen der Sozialversicherung zu erhöhen,</p>
@@ -1313,7 +1313,7 @@
           <stage type="interjection">(Zuruf von der CDU/CSU: Planwirtschaft! - Gegenruf von der SPD: Fällt Ihnen denn nichts Besseres ein?)</stage>
           <p>- "Planwirtschaft"! Mir bricht das Herz. - Dieses Potential ist immens. Die alte Bundesregierung ist in einer Antwort auf eine Große Anfrage der SPD von 2,5 Millionen Menschen ausgegangen, die ihre Arbeitszeit gern verkürzen wollen, dies aber nicht können. Dazu müssen wir denjenigen, die vorübergehend auf Teilzeit gehen wollen, das Recht auf Rückkehr zur Vollzeit einräumen, damit sie ihre Arbeitszeit verkürzen, und Teilzeitarbeit für die Rente besser bewerten, ebenso wie Kinderziehungszeiten. Wir müssen die Übergänge zwischen Phasen längerer und kürzerer Erwerbsarbeit, die Phasen der Kindererziehung und der Weiterqualifizierung rechtlich und sozial besser absichern. Die Menschen müssen einen echten Entscheidungsspielraum im Hinblick auf kürzere Arbeitszeiten haben und diesen auch in ihrem eigenen Interesse demokratisch mitgestalten können.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der PDS)</stage>
-          <p>Das heißt aber auch, daß jede dauerhafte Beschäftigung in den Schutz der Sozialversicherung einbezogen werden muß und daß endlich dem Prozeß, daß immer mehr  Menschen aus der Sozialversicherung herausgedrängt werden, weil die Arbeitgeber ihren Anteil an der Sozialversicherung nicht bezahlen wollen, Einhalt geboten  werden muß. Diesen Prozeß hat die vorige Regierung  mit ihrer Politik der Deregulierung noch beschleunigt. Sie war schlicht handlungsunfähig, wenn es darum ging, auch nur halbwegs vernünftige Rahmenbedingungen zu setzen.  -  Ich   müßte  es  vielleicht  differenzieren:  Die einen wollten nicht handeln, und die anderen konnten  nicht handeln, weil man  aneinandergekettet war. Schauen 520 Deutscher Bundestag - 14. Wahlperiode - 9. Sitzung. Bonn, Freitag, den 20. November 1998 Deutscher Bundestag - 14. Wahlperiode - 9. Sitzung. Bonn, Freitag, den 20. November 1998 517 Deutscher Bundestag - 14. Wahlperiode - 245. Sitzung, Bonn, Donnerstag, den 25. Juni 1998 526 wir einmal, was jetzt daraus wird. - Damit hat uns die alte Bundesregierung ein immenses Problem hinterlassen, das wir mit diesem Gesetzentwurf und mit weiteren gesetzlichen Regelungen in den nächsten Wochen angehen werden. Scheinselbständigkeit oder Beschäftigung unterhalb der Sozialversicherungsgrenze ist längst kein Phänomen mehr am Rande der Gesellschaft, sondern dieses Phänomen ist massenhaft in deren Mitte zu beobachten. Scheinselbständig sind inzwischen mehr als eine Million Menschen.</p>
+          <p>Das heißt aber auch, daß jede dauerhafte Beschäftigung in den Schutz der Sozialversicherung einbezogen werden muß und daß endlich dem Prozeß, daß immer mehr Menschen aus der Sozialversicherung herausgedrängt werden, weil die Arbeitgeber ihren Anteil an der Sozialversicherung nicht bezahlen wollen, Einhalt geboten werden muß. Diesen Prozeß hat die vorige Regierung mit ihrer Politik der Deregulierung noch beschleunigt. Sie war schlicht handlungsunfähig, wenn es darum ging, auch nur halbwegs vernünftige Rahmenbedingungen zu setzen. - Ich müßte es vielleicht differenzieren: Die einen wollten nicht handeln, und die anderen konnten nicht handeln, weil man aneinandergekettet war. Schauen wir einmal, was jetzt daraus wird. - Damit hat uns die alte Bundesregierung ein immenses Problem hinterlassen, das wir mit diesem Gesetzentwurf und mit weiteren gesetzlichen Regelungen in den nächsten Wochen angehen werden. Scheinselbständigkeit oder Beschäftigung unterhalb der Sozialversicherungsgrenze ist längst kein Phänomen mehr am Rande der Gesellschaft, sondern dieses Phänomen ist massenhaft in deren Mitte zu beobachten. Scheinselbständig sind inzwischen mehr als eine Million Menschen.</p>
           <stage type="interjection">(Dr. Irmgard Schwaetzer [F.D.P.]: Was ist denn das?)</stage>
           <p>- Das werde ich gleich noch erklären.</p>
           <stage type="interjection">(Dr. Irmgard Schwaetzer [F.D.P.]: Da sind Sie weiser als das Bundesarbeitsgericht!)</stage>
@@ -1342,11 +1342,11 @@
           <p>Wir werden die katastrophale Situation am Bau endlich ändern; denn so, wie die Menschen am Bau gegeneinander ausgespielt werden, mit Unterbietungskonkurrenz und regelrechtem Menschenhandel, entstehen nationale Ressentiments - die werden gefördert -, aber es entsteht kein weltoffenes Europa, das wir dringend brauchen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der PDS)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Das Wort für die F.D.P.-Fraktion hat die Kollegin Frau Dr. Irmgard Schwaetzer.</p>
         </sp>
-        <sp who="Dr. Irmgard Schwaetzer" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Irmgard Schwaetzer">
+        <sp who="Irmgard Schwaetzer" parliamentary_group="FDP" role="mp" position="NA" who_original="Irmgard Schwaetzer" party="FDP" name="Irmgard Schwaetzer">
           <speaker>Dr. Irmgard Schwaetzer (F.D.P.):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Der Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung gibt in seinem jüngsten Gutachten dem Kapitel zur Sozialpolitik die Überschrift "Am Grundsatz der Fairneß orientieren". Mit der Vorlage dieses Gesetzes, meine Damen und Herren von der SPD und den Grünen, machen Sie klar, daß für Sie fair nur das ist, was früher existierte. Viele von Ihnen - aber das sind wahrscheinlich diejenigen, die heute hier nicht im Saal sitzen - wissen, daß Sie damit nicht durchkommen. Auch Sie werden sich vor der Frage nicht herumdrücken können, welche soziale Sicherung für welche Risiken in der Zukunft überhaupt noch möglich ist.</p>
           <stage type="interjection">(Zuruf von der SPD: Sie wollen keine!)</stage>
@@ -1369,11 +1369,11 @@
           <stage type="interjection">(Wolfgang Zöller [CDU/CSU]: Recht hat er!)</stage>
           <p>- Recht hat er.</p>
           <p>Die Frage bleibt: Wann läßt die SPD endlich von ihren Illusionen ab und begibt sich auf den Boden der Tatsachen? Wenn Sie das tun, werden Sie in uns konstruktive Dialogpartner finden. Ich glaube, daß wir mit konkreten Vorstellungen zur Umstrukturierung und sozialen Absicherung der Menschen im Alter, also der eigenständigen Alterssicherung für Männer und Frauen, ein ganzes Stück weiter sind.</p>
-          <p>Wie sehr Sie ausschließlich die Auffüllung der Kassen der sozialen Sicherungssysteme im Blick haben, zeigt die vorgesehene Einführung der Sozialversicherungspflicht für sogenannte Scheinselbständige. Ich will mich überhaupt nicht auf die Diskussion über die Definition dieses Begriffs einlassen. Ich möchte Sie nur folgendes fragen: Was machen Sie eigentlich mit der selbständig gewordenen Frau - diese Regelung betrifft im wesentlichen Frauen, weil sie weniger Kredite aufnehmen -, die am Anfang ihrer Selbständigkeit nur  einen Kunden hat? Dieser Frau müßte nach Ihrer Definition der Status der Selbständigkeit sofort entzogen werden und damit die Chance auf eigenverantwortliche Lebensgestaltung.</p>
+          <p>Wie sehr Sie ausschließlich die Auffüllung der Kassen der sozialen Sicherungssysteme im Blick haben, zeigt die vorgesehene Einführung der Sozialversicherungspflicht für sogenannte Scheinselbständige. Ich will mich überhaupt nicht auf die Diskussion über die Definition dieses Begriffs einlassen. Ich möchte Sie nur folgendes fragen: Was machen Sie eigentlich mit der selbständig gewordenen Frau - diese Regelung betrifft im wesentlichen Frauen, weil sie weniger Kredite aufnehmen -, die am Anfang ihrer Selbständigkeit nur einen Kunden hat? Dieser Frau müßte nach Ihrer Definition der Status der Selbständigkeit sofort entzogen werden und damit die Chance auf eigenverantwortliche Lebensgestaltung.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
           <p>Was machen Sie auf der anderen Seite mit dem Beleuchter, der für fünf Tochterfirmen beispielsweise von RTL, SAT 1, ZDF oder ARD arbeitet - wohl wissend, daß alle fünf Firmen Tochterfirmen eines einzigen Konzernes sind? Weil er Rechnungen an fünf Firmen ausstellt, die in Wirklichkeit nur eine Firma sind, fällt er unter Ihre Definition der Selbständigkeit. Er würde aber die soziale Sicherung benötigen. All das trägt zu einer Schieflage bei.</p>
           <stage type="interjection">(Beifall bei der F.D.P.)</stage>
-          <p>Es war schon entlarvend, daß Bundeskanzler Schröder gestern in der Debatte um die 620-Mark-Arbeits- verhältnisse als erstes darauf hinwies, daß nun wieder eine solide Einnahmengrundlage für die sozialen Sicherungssysteme gegeben sei. Wenn das der ganze Zirkus um die 620-Mark-Verträge ist, dann hätten Sie es besser bei der jetzigen Regelung belassen sollen; der  Finanzminister hätte einen Scheck genommen und ihn gleich der Sozialversicherung gegeben.</p>
+          <p>Es war schon entlarvend, daß Bundeskanzler Schröder gestern in der Debatte um die 620-Mark-Arbeits- verhältnisse als erstes darauf hinwies, daß nun wieder eine solide Einnahmengrundlage für die sozialen Sicherungssysteme gegeben sei. Wenn das der ganze Zirkus um die 620-Mark-Verträge ist, dann hätten Sie es besser bei der jetzigen Regelung belassen sollen; der Finanzminister hätte einen Scheck genommen und ihn gleich der Sozialversicherung gegeben.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
           <p>Damit erreichen Sie keine zusätzliche Absicherung von Frauen, obwohl die Debatte unter diesem Gesichtspunkt geführt wurde, was schwierig für uns war. Sie verhindern nicht einmal den Mißbrauch, weil in der Zukunft natürlich die Stückelung der Arbeitsverträge erfolgt, um Steuern zu vermeiden.</p>
           <stage type="interjection">(Ulla Schmidt [Aachen] [SPD]: Nein, genau das Gegenteil wird eintreten! Wir reden in einem Jahr weiter!)</stage>
@@ -1382,7 +1382,7 @@
           <p>- Darüber unterhalten wir uns noch alle in der Anhörung.</p>
           <p>Verblüffung löst beim Studium des vorliegenden Gesetzentwurfs aus, daß ausgerechnet Sie, Herr Riester, der Sie doch aus den Gewerkschaften kommen, so in die Tarifautonomie eingreifen wollen.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
-          <p>Es hilft doch kein Drumherumreden. Sie wollen sich selbst ermächtigen, ohne Antrag der Tarifvertragsparteien und ohne Zustimmung des Bundesrates Allgemeinverbindlichkeitserklärungen auszusprechen, und zwar nicht nur für Mindestlöhne, nein, für ganze Lohnstrukturen, für ganze Tarifgefüge. Das geht weit über das hinaus, was früher überhaupt nur angedacht worden ist. </p>
+          <p>Es hilft doch kein Drumherumreden. Sie wollen sich selbst ermächtigen, ohne Antrag der Tarifvertragsparteien und ohne Zustimmung des Bundesrates Allgemeinverbindlichkeitserklärungen auszusprechen, und zwar nicht nur für Mindestlöhne, nein, für ganze Lohnstrukturen, für ganze Tarifgefüge. Das geht weit über das hinaus, was früher überhaupt nur angedacht worden ist.</p>
           <p>Einer von uns hätte einmal auf die Idee kommen sollen, so etwas vorzuschlagen. Welches Geschrei das bei Ihnen ausgelöst hätte, kann ich mir gut vorstellen.</p>
           <stage type="interjection">(Wolfgang Zöller [CDU/CSU]: Es wäre ganz schlimm gewesen, wenn der Vorschlag von der F.D.P. gekommen wäre!)</stage>
           <p>Das wollen Sie, Herr Riester, nun alles machen. Ich möchte gern wissen, ob der Vorsitzende der Gewerkschaft Bauen - Agrar - Umwelt, Herr Wiesehügel, der ja nun diesem Hause angehört, dem zustimmen kann. Wenn er das tut, dann kann ich mich wirklich nur wundern, wie sehr die Gewerkschaften vor dieser Regierung zu Kreuze kriechen.</p>
@@ -1394,11 +1394,11 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Das Wort für die PDS-Fraktion hat Frau Dr. Heidi Knake-Werner.</p>
         </sp>
-        <sp who="Dr. Heidi Knake-Werner" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Heidi Knake-Werner">
+        <sp who="Heidi Knake-Werner" parliamentary_group="PDS" role="mp" position="NA" who_original="Heidi Knake-Werner" party="PDS" name="Heidi Knake-Werner">
           <speaker>Dr. Heidi Knake-Werner (PDS):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Das läßt ja für die nächsten Wochen eine spannende Debatte im Ausschuß und bei den diversen Anhörungen, die uns noch bevorstehen, erwarten.</p>
           <p>Viele Korrekturen einer falschen Politik der Kohl-Regierung, die mit diesem Gesetzentwurf auf dem Tisch liegen, werden wir von der PDS unterstützen, auch wenn uns mancher Schritt zu kurz gerät. Vor allem werden wir mit dafür sorgen, daß die Menschen nicht mehr ihr Portemonnaie zuhalten, wenn sie etwas von Reformen hören, sondern daß sie in dieser Gesellschaft wieder erleben können, daß wirkliche Reformen ihre Lebens- und Arbeitssituation verbessern, die Zukunft sichern und die Demokratie fördern.</p>
@@ -1411,7 +1411,7 @@
           <stage type="interjection">(Beifall bei der PDS)</stage>
           <p>Das gleiche gilt für die Verkürzung der Anrechnungszeiten für Ausbildung. Auch von diesen Maßnahmen sind vor allen Dingen die Frauen betroffen.</p>
           <p>Die von Ihrer Seite vorgeschlagenen Maßnahmen zur Entlastung der Rentenkassen halten wir durchaus für richtig. Eine Verbesserung der Einnahmenseite der Rentenversicherung - das will ich ganz generell sagen - wird sich in dem Maße einstellen, wie es gelingt, den Ausstieg aus dem Solidarsystem zu stoppen, der durch Scheinselbständigkeit und andere versicherungsfreie Beschäftigungen in den letzten Jahren millionenfach stattgefunden hat.</p>
-          <p>In diesem Zusammenhang, meine lieben Kolleginnen und Kollegen, erlauben Sie mir eine kurze Bemerkung zu dem gestrigen Überraschungscoup von Gerhard Schröder. Natürlich begrüßen wir die längst fällige Anpassung der Obergrenze der prekären Beschäftigungsverhältnisse im Osten an die im Westen gültige Grenze von 620 DM, obwohl wir die Gefahr sehen, daß damit ein Tor geöffnet und ein weiterer Ausstieg aus den sozialversicherungspflichtigen Beschäftigungsverhältnissen vorbereitet wird. Ansonsten hat der Vorstoß Gerhard Schröders, wie ich glaube, auch manchen Kolleginnen und Kollegen in den Koalitionsfraktionen die Schuhe ausgezogen. Auch so kann man die Rentenkassen sanieren, aber das ist ein höchst unüblicher Weg. Ich glaube, so etwas hat es in der Tat in diesem Lande noch nicht gegeben: Man kassiert Sozialversicherungsbeiträge,  ohne daß daraus Leistungsansprüche entstehen. Das ist wirklich ein Patent.</p>
+          <p>In diesem Zusammenhang, meine lieben Kolleginnen und Kollegen, erlauben Sie mir eine kurze Bemerkung zu dem gestrigen Überraschungscoup von Gerhard Schröder. Natürlich begrüßen wir die längst fällige Anpassung der Obergrenze der prekären Beschäftigungsverhältnisse im Osten an die im Westen gültige Grenze von 620 DM, obwohl wir die Gefahr sehen, daß damit ein Tor geöffnet und ein weiterer Ausstieg aus den sozialversicherungspflichtigen Beschäftigungsverhältnissen vorbereitet wird. Ansonsten hat der Vorstoß Gerhard Schröders, wie ich glaube, auch manchen Kolleginnen und Kollegen in den Koalitionsfraktionen die Schuhe ausgezogen. Auch so kann man die Rentenkassen sanieren, aber das ist ein höchst unüblicher Weg. Ich glaube, so etwas hat es in der Tat in diesem Lande noch nicht gegeben: Man kassiert Sozialversicherungsbeiträge, ohne daß daraus Leistungsansprüche entstehen. Das ist wirklich ein Patent.</p>
           <stage type="interjection">(Beifall bei der PDS und der F.D.P.)</stage>
           <p>Für die Arbeitgeber ist es ein Nullsummenspiel; die mittelständischen Unternehmen haben Ihnen ja auch schon ihren Dank dafür ausgesprochen. Die Millionen Frauen allerdings lassen Sie im Regen stehen. Ihnen nur Schutz vor Krankheit und im Alter einzuräumen, wenn sie von ihrem Minieinkommen noch zusätzliche Versicherungsbeiträge bezahlen, halte ich in der Tat für eine jämmerliche Idee. Dadurch wird das von Ihnen formulierte richtige Prinzip, jede bezahlte Arbeitsstunde versicherungspflichtig zu machen, in eine unsoziale und zudem zutiefst frauenfeindliche Maßnahme verkehrt.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
@@ -1437,21 +1437,21 @@
           <p>Deshalb haben wir heute unseren Gesetzentwurf zur Wiedereinführung des Schlechtwettergeldes vorgelegt. Durch die Kosten für die arbeitslosen Bauarbeiter wurde die Bundesanstalt für Arbeit 1997 stärker belastet, als wenn sie, wie früher, Schlechtwettergeld gezahlt hätte.</p>
           <p>Weil das so ist, wollen wir, daß das Gesetz noch zum 1. Januar 1999 in Kraft tritt, damit wenigstens ab dann Zehntausende am Bau eine Chance auf Weiterbeschäftigung haben und nicht in die Arbeitslosigkeit entlassen werden, wie das in den letzten Jahren zuhauf passiert ist.</p>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Frau Kollegin, ich muß Sie jetzt bitten, zum Schluß zu kommen.</p>
         </sp>
-        <sp who="Dr. Heidi Knake-Werner" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Heidi Knake-Werner">
+        <sp who="Heidi Knake-Werner" parliamentary_group="PDS" role="mp" position="NA" who_original="Heidi Knake-Werner" party="PDS" name="Heidi Knake-Werner">
           <speaker>Dr. Heidi Knake-Werner (PDS):</speaker>
           <p>Ich komme zu meinem letzten Satz. - Die PDS will diese schnelle Lösung, weil sie erstens Kosten sparen will und weil sie zweitens - das ist uns noch wichtiger - wieder mehr sozialen Frieden auf den Baustellen erreichen will. Wir hoffen dabei auf Ihre Unterstützung.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Das Wort hat für die SPD-Fraktion Frau Kollegin Angelika Krüger-Leißner.</p>
         </sp>
-        <sp who="Angelika Krüger-Leißner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Angelika Krüger-Leißner">
+        <sp who="Angelika Krüger-Leißner" parliamentary_group="SPD" role="mp" position="NA" who_original="Angelika Krüger-Leißner" party="SPD" name="Angelika Krüger-Leißner">
           <speaker>Angelika Krüger-Leißner (SPD):</speaker>
           <p>Herr Präsident! Meine verehrten Damen und Herren! Ich freue mich nicht nur darüber, heute hier zum erstenmal sprechen zu dürfen, sondern auch darüber, Anteil daran zu haben, daß wir, die beiden Koalitionsfraktionen, einen Gesetzentwurf einbringen, der die erheblichen Einschnitte und faktischen Verschlechterungen im Rentenrecht korrigieren wird.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -1477,27 +1477,27 @@
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Die heutige Opposition hat die reale Rentenkürzung durch Niveauabsenkung mit dem Hinweis verniedlicht, die Haushalte verfügten ja in erheblichem Umfang über weitere Einkommensquellen.</p>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Frau Kollegin, gestatten Sie eine Zwischenfrage des Kollegen Dr. Seifert?</p>
           <stage type="interjection">(Zurufe von der SPD: Das ist die erste Rede! Das ist nicht üblich! - Gegenruf der Abg. Dr. Irmgard Schwaetzer [F.D.P.]: Die Kollegin ist doch so souverän!)</stage>
           <p>- Ja, das ist die erste Rede, und ich kann Ihnen, Frau Kollegin, schon jetzt dazu gratulieren. Das aber hindert die Kollegen des Hauses nicht, eine freundliche Zwischenfrage zu stellen.</p>
           <p>Frau Kollegin, gestatten Sie eine Zwischenfrage?</p>
         </sp>
-        <sp who="Angelika Krüger-Leißner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Angelika Krüger-Leißner">
+        <sp who="Angelika Krüger-Leißner" parliamentary_group="SPD" role="mp" position="NA" who_original="Angelika Krüger-Leißner" party="SPD" name="Angelika Krüger-Leißner">
           <speaker>Angelika Krüger-Leißner (SPD):</speaker>
           <p>Ja. - Von wem kommt denn die freundliche Zwischenfrage?</p>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Bitte.</p>
         </sp>
-        <sp who="Dr. Ilja Seifert" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Ilja Seifert">
+        <sp who="Ilja Seifert" parliamentary_group="PDS" role="mp" position="NA" who_original="Ilja Seifert" party="PDS" name="Ilja Seifert">
           <speaker>Dr. Ilja Seifert (PDS):</speaker>
           <p>Von mir. - Ich bitte um Entschuldigung. Ich habe nicht gewußt, daß es Ihre erste Rede ist. Vielleicht könnten Sie mir aber trotzdem eine Frage beantworten.</p>
           <p>Frau Kollegin, Sie sprachen davon, daß die Unsicherheit in bezug auf die Erwerbsminderungsrente beendet wird. Warum sagen Sie dann aber nicht, daß die Erwerbsminderungsrente, die eine ziemliche Katastrophe ist, wenn es nur noch bei der abstrakten Betrachtungsweise bleibt, gar nicht erst eingeführt wird? Sie wollen die Regelung ja nur verschieben.</p>
         </sp>
-        <sp who="Angelika Krüger-Leißner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Angelika Krüger-Leißner">
+        <sp who="Angelika Krüger-Leißner" parliamentary_group="SPD" role="mp" position="NA" who_original="Angelika Krüger-Leißner" party="SPD" name="Angelika Krüger-Leißner">
           <speaker>Angelika Krüger-Leißner (SPD):</speaker>
           <p>Ich gehe davon aus, die Regelung der Erwerbsunfähigkeitsrente - das haben Sie, so glaube ich, auch in dem Entwurf gelesen - wird in ein komplexes Rentenstrukturreformgesetz eingebunden. Dafür brauchen wir etwas Zeit.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -1525,13 +1525,13 @@
           <p>Und entgegen allen Weissagungen von Frau Dr. Schwaetzer kann ich nur sagen: Packen wir es an!</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN - Dirk Niebel [F.D.P.]: Es ist immer schön, wenn sich jemand freuen kann!)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Frau Kollegin Krüger-Leißner, ich darf Ihnen zu Ihrer ersten Rede im Parlament gratulieren. Ich denke, sie hat nicht darunter gelitten, daß Sie eine Zwischenfrage zugelassen haben.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Das Wort hat der Kollege Wolfgang Meckelburg von der CDU/CSU-Fraktion.</p>
         </sp>
-        <sp who="Wolfgang Meckelburg" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Meckelburg">
+        <sp who="Wolfgang Meckelburg" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Meckelburg" party="CDU" name="Wolfgang Meckelburg">
           <speaker>Wolfgang Meckelburg (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! In diesem Hause scheinen wirklich neue Verhältnisse einzuziehen.</p>
           <stage type="interjection">(Beifall des Abg. Hubertus Heil [SPD])</stage>
@@ -1563,22 +1563,21 @@
           <p>Sollten andere Regelungen bis zum 31. Dezember 2000 nicht ergangen sein, treten die genannten Regelungen des Rentrenreformgesetzes 1999 im wesentlichen unverändert am 1. Januar 2001 in Kraft.</p>
           <p>Auf gut deutsch bedeutet das eine Hintertür, um die Reform von Norbert Blüm umzusetzen. Sie wollen Zeit gewinnen und lassen sich die Hintertür zur Blümschen Reform offen. Das ist Ihr Vorhaben, wie Sie es hier beschreiben!</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
-          <p>530 Deutscher Bundestag - 14. Wahlperiode - 9. Sitzung. Bonn, Freitag, den 20. November 1998 Deutscher Bundestag - 14. Wahlperiode - 9. Sitzung. Bonn, Freitag, den 20. November 1998 527 Deutscher Bundestag - 14. Wahlperiode - 245. Sitzung, Bonn, Donnerstag, den 25. Juni 1998 527 NA</p>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Herr Kollege Meckelburg, gestatten Sie eine Zwischenfrage des Kollegen Heil?</p>
         </sp>
-        <sp who="Wolfgang Meckelburg" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Meckelburg">
+        <sp who="Wolfgang Meckelburg" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Meckelburg" party="CDU" name="Wolfgang Meckelburg">
           <speaker>Wolfgang Meckelburg (CDU/CSU):</speaker>
           <p>Ja, bitte.</p>
         </sp>
-        <sp who="Hubertus Heil" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hubertus Heil">
+        <sp who="Hubertus Heil" parliamentary_group="SPD" role="mp" position="NA" who_original="Hubertus Heil" party="SPD" name="Hubertus Heil">
           <speaker>Hubertus Heil (SPD):</speaker>
           <p>Herr Kollege, ich möchte Sie fragen, ob Sie das, was Ihr Kollege Geißler, der heute leider nicht hier ist, gesagt hat, unterschreiben können. Er hat gesagt, ein wesentlicher Grund für die Niederlage der alten Koalition sei es gewesen, das Bündnis für Arbeit gegen den Baum fahren zu lassen, weil man beispielsweise den Kündigungsschutz und die Lohnfortzahlung entsprechend gekürzt habe, wie Sie das getan hätten. Stimmen Sie dem zu?</p>
           <stage type="interjection">(Dirk Niebel [F.D.P.]: Geißler kann sich auch einmal irren!)</stage>
         </sp>
-        <sp who="Wolfgang Meckelburg" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Meckelburg">
+        <sp who="Wolfgang Meckelburg" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Meckelburg" party="CDU" name="Wolfgang Meckelburg">
           <speaker>Wolfgang Meckelburg (CDU/CSU):</speaker>
           <p>Ich stimme dem so nicht zu, weil ich finde, daß wir eine Menge gemacht haben. Wir haben den Menschen auch eine Menge zugemutet.</p>
           <stage type="interjection">(Zurufe von der SPD)</stage>
@@ -1596,7 +1595,7 @@
           <p>Der Tariffonds steht außerdem völlig im Widerspruch zu dem, was Sie hier ständig verkünden: Sie wollen die Kaufkraft stärken. Wenn der Tariffonds auf Arbeitnehmerseite aus einem Teil der Lohnerhöhung gespeist werden soll, dann vermindern Sie damit den Kaufkraftzuwachs, dann können Sie die Theorie der Kaufkraft völlig vergessen.</p>
           <p>Herr Riester hat hier von einem neuen Zukunftspakt der Generationen gesprochen. Das kann nicht ernst gemeint sein: Sie belasten gerade die junge Generation, und zwar nicht nur durch die Beiträge, sondern auch durch die Kosten für den Tariffonds. Junge Leute zahlen für die Rente ab 60 der derzeitigen Rentnergeneration und haben selber kaum die Chance, in den Genuß einer solchen Rente zu kommen. Das ist sozial höchst ungerecht.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
-          <p>Lassen Sie mich noch einen Punkt erwähnen, der bisher gar nicht angesprochen worden ist. Auch er ist in diesem Papier enthalten. Dabei handelt es sich zwar nicht um eine Rücknahme; aber auch da sind Sie gezwungen, Ihre Garantieversprechen zu erfüllen. Ich spreche von dem Programm der Bundesregierung zur Bekämpfung der Jugendarbeitslosigkeit: "100 000 Jugendliche in Arbeit bringen". Dieses Programm ist in  einer Änderung des SGB III, Arbeitsförderungsgesetz, untergebracht. Als ich das erste Mal den Titel "Arbeitsförderungsgesetz" las, habe ich gedacht: Oh, oh, was wollen die Damen und Herren von der SPD, die darüber viel geschimpft haben, denn zurücknehmen?</p>
+          <p>Lassen Sie mich noch einen Punkt erwähnen, der bisher gar nicht angesprochen worden ist. Auch er ist in diesem Papier enthalten. Dabei handelt es sich zwar nicht um eine Rücknahme; aber auch da sind Sie gezwungen, Ihre Garantieversprechen zu erfüllen. Ich spreche von dem Programm der Bundesregierung zur Bekämpfung der Jugendarbeitslosigkeit: "100 000 Jugendliche in Arbeit bringen". Dieses Programm ist in einer Änderung des SGB III, Arbeitsförderungsgesetz, untergebracht. Als ich das erste Mal den Titel "Arbeitsförderungsgesetz" las, habe ich gedacht: Oh, oh, was wollen die Damen und Herren von der SPD, die darüber viel geschimpft haben, denn zurücknehmen?</p>
           <stage type="interjection">(Annelie Buntenbach [BÜNDNIS 90/DIE GRÜNEN]: Erst sagen Sie, wir machen nur Hektik, und dann sagen Sie, wir sollen alles auf einmal machen!)</stage>
           <p>Schaut man in dieses Gesetz, stellt man fest, daß Sie nichts zurücknehmen. Vielmehr führen Sie einen Ausnahmetatbestand ein. Danach sagt die Bundesregierung: Zwar machen wir das Programm, bezahlen soll es aber die Bundesanstalt für Arbeit aus ihren Mitteln. Das ist völlig neu; das wird in dieses Gesetz geschrieben. Sie haben nämlich sonst kein Geld.</p>
           <p>Wenn Sie sich einmal fragen, warum Sie an dieser Stelle Geld haben, dann erhalten Sie als Antwort: Der Haushalt der Bundesanstalt für Arbeit ist dadurch, daß wir 100 000 Arbeitslose weniger haben und daß auf Grund unserer Politik auch für das nächste Jahr weniger Arbeitslose erwartet werden, so gesichert, daß Sie in der Lage sind, daraus das Geld für Ihr Programm zu nehmen, mit dem Sie draußen herumlaufen.</p>
@@ -1608,11 +1607,11 @@
           <p>Meine Damen und Herren, Sie sind im Wahlkampf mit dem Anspruch "Innovation und soziale Gerechtigkeit" angetreten. Was Sie hier vorlegen, ist nicht innovativ, sondern ein Rückschritt. Was Sie hier vorlegen, ist nicht sozial gerecht, sondern sozial höchst ungerecht. Das Verfallsdatum Ihrer Kernaussagen ist schon nach wenigen Wochen erreicht. Wenn Sie so weitermachen, meine Damen und Herren, werden Sie auch bald das Verfallsdatum Ihrer Regierung erreicht haben.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P. - Lachen bei der SPD)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Das Wort für die F.D.P.-Fraktion hat der Kollege Dr. Heinrich Leonhard Kolb.</p>
         </sp>
-        <sp who="Dr. Heinrich L. Kolb" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Heinrich Leonhard Kolb">
+        <sp who="Kolb" parliamentary_group="FDP" role="mp" position="NA" who_original="Kolb" party="FDP" name="Heinrich L. Kolb">
           <speaker>Dr. Heinrich L. Kolb (F.D.P.):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Ich kann zwar durchaus nachvollziehen, daß die Regierungskoalition in der Pflicht ist, sich für die massive Unterstützung durch diverse Gewerkschaftsfunktionäre im Wahlkampf zu revanchieren. Aber auch nach fortgeschrittener Debatte kann ich nicht anders, als das, was Sie hier heute vorlegen, als beschäftigungspolitisch falsch und volkswirtschaftlich blanken Unsinn zu bezeichnen. Es ist deswegen Unsinn, weil SPD und Grüne wichtige und richtige beschäftigungsfördernde Reformansätze einfach wieder abschaffen wollen, bevor diese ihre Wirkung überhaupt voll entfalten konnten.</p>
           <stage type="interjection">(Beifall bei der F.D.P. - Dr. Heidi Knake-Werner [PDS]: Das sind Sie ja nun schuldig geblieben!)</stage>
@@ -1640,11 +1639,11 @@
           <p>Ich fordere hiermit alle hier im Hause, die immer wieder das Hohelied des Mittelstandes singen, auf, gemeinsam mit uns durch dieses Gesetz dem Mittelstand den Freiraum zu geben, den er braucht, um neue Arbeitsplätze zu schaffen. Ich bitte Sie, diesen Gesetzentwurf zu unterstützen.</p>
           <stage type="interjection">(Beifall bei der F.D.P.)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Ich gebe das Wort dem Kollegen Olaf Scholz von der SPD-Fraktion.</p>
         </sp>
-        <sp who="Olaf Scholz" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Olaf Scholz">
+        <sp who="Olaf Scholz" parliamentary_group="SPD" role="mp" position="NA" who_original="Olaf Scholz" party="SPD" name="Olaf Scholz">
           <speaker>Olaf Scholz (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine Damen und Herren! Am Anfang dieser Bundesrepublik - sehr zu Anfang dieser Bundesrepublik - hat es schon einmal so etwas wie ein Bündnis für Arbeit gegeben. Die wesentlichen Grundlagen unserer Arbeitsverfassung, der Zusammenarbeit von Arbeitnehmern und Arbeitgebern, sind nämlich zwischen Gewerkschaften und Arbeitgebern unmittelbar ausgehandelt worden.</p>
           <p>Im Januar 1950 haben sich im Ort Hattenheim die Vertreter der Arbeitgeber und der Arbeitnehmer getroffen und haben die "Hattenheimer Entschließungen" gefaßt, die noch bis heute wesentliche Grundlagen unseres Arbeitsrechts bilden. In diesem Bündnis für Arbeit ist der Gesetzentwurf für ein Kündigungsschutzgesetz entstanden. Der Gesetzentwurf, der damals entworfen wurde und der dann im Januar 1950 dem Gesetzgeber und allen anderen zugeleitet worden ist, beinhaltete das Einsetzen des Kündigungsschutzes ab drei Arbeitnehmern.</p>
@@ -1677,42 +1676,42 @@
           <p>Ich glaube, wir stellen das Modell der sozialen Marktwirtschaft wieder her und schaffen damit die Basis für eine Politik der Neuen Mitte.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
-          <p>Auch Ihnen, Herr Kollege Scholz, darf ich zu Ihrer ersten Rede gratulieren, wobei ich hinzufüge: Es hörte sich gar nicht wie </p>
+          <p>Auch Ihnen, Herr Kollege Scholz, darf ich zu Ihrer ersten Rede gratulieren, wobei ich hinzufüge: Es hörte sich gar nicht wie</p>
           <p>eine Jungfernrede an.</p>
           <stage type="interjection">(Beifall)</stage>
-          <p>Für die CDU/CSU-Fraktion hat nun der Kollege </p>
+          <p>Für die CDU/CSU-Fraktion hat nun der Kollege</p>
           <p>Johannes Singhammer das Wort.</p>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Johannes Singhammer (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Kolleginnen und Kollegen! Wer einen großen Wurf ankündigt und dann scheibchenweise serviert, vermasselt sich selbst den Start. Genau das ist Ihnen passiert.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
-          <p>Verzögerungen bei der Vorlage dieses Gesetzestextes durch offensichtliche fachliche Unstimmigkeiten, die Ausgliederung wichtiger Elemente wie der 620-DM-Regelung, weil heftige interne Streitigkeiten ausgetragen werden mußten, kurzfristige Änderungen an Struktur und Einzelheiten mit fortwährender Verkürzung des  politischen Verfalldatums zeigen, daß das, was Bundeskanzler Gerhard Schröder mit der Koalitionsvereinbarung vorgemacht hat, zum Markenzeichen dieser Regierung wird: in der Frühe verkünden und am Nachmittag korrigieren.</p>
+          <p>Verzögerungen bei der Vorlage dieses Gesetzestextes durch offensichtliche fachliche Unstimmigkeiten, die Ausgliederung wichtiger Elemente wie der 620-DM-Regelung, weil heftige interne Streitigkeiten ausgetragen werden mußten, kurzfristige Änderungen an Struktur und Einzelheiten mit fortwährender Verkürzung des politischen Verfalldatums zeigen, daß das, was Bundeskanzler Gerhard Schröder mit der Koalitionsvereinbarung vorgemacht hat, zum Markenzeichen dieser Regierung wird: in der Frühe verkünden und am Nachmittag korrigieren.</p>
           <stage type="interjection">(Beifall des Abg. Dirk Niebel [F.D.P.])</stage>
           <p>Wer den Werdegang dieses Gesetzes beobachtet hat, kann eines mit Sicherheit feststellen: Der Titel "Korrekturgesetz" ist richtig gewählt, weil Inhalte ständig korrigiert werden.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Ich sage Ihnen voraus: Es wird nicht die letzte Korrektur sein.</p>
-          <p>Bezüglich der beabsichtigten Neuregelung des Arbeitnehmer-Entsendegesetzes bestehen offenkundig verfassungsrechtliche Probleme und Mängel. Mit ihr wird die Tarifhoheit ausgehebelt. Künftig kann der Bundesarbeitsminister durch Rechtsverordnung auch nicht tarifgebundene Arbeitgeber verpflichten, tarifvertragliche Arbeitsbedingungen einzuhalten. Der paritätisch besetzte Tarifausschuß beim Bundesarbeitsministerium wird entmachtet, und dieses neue Ermächtigungsgesetz gestattet es dem Bundesminister für Arbeit und Sozialordnung, nicht nur Mindestlöhne, sondern ganze Lohngruppen, Urlaubsdauer und Urlaubsgeld mit einem  Federstrich für gesetzlich verbindlich zu erklären.</p>
+          <p>Bezüglich der beabsichtigten Neuregelung des Arbeitnehmer-Entsendegesetzes bestehen offenkundig verfassungsrechtliche Probleme und Mängel. Mit ihr wird die Tarifhoheit ausgehebelt. Künftig kann der Bundesarbeitsminister durch Rechtsverordnung auch nicht tarifgebundene Arbeitgeber verpflichten, tarifvertragliche Arbeitsbedingungen einzuhalten. Der paritätisch besetzte Tarifausschuß beim Bundesarbeitsministerium wird entmachtet, und dieses neue Ermächtigungsgesetz gestattet es dem Bundesminister für Arbeit und Sozialordnung, nicht nur Mindestlöhne, sondern ganze Lohngruppen, Urlaubsdauer und Urlaubsgeld mit einem Federstrich für gesetzlich verbindlich zu erklären.</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Und das mit einem Gewerkschafter!)</stage>
           <p>Die Vertreter der SPD stellen in einer bisher nicht gekannten Weise nahezu alle Verfassungsorgane bzw. deren Präsidenten: Bundesratspräsident, Bundestagspräsident, Bundesverfassungsgerichtspräsidentin; auch das Amt des Bundespräsidenten strebt die SPD an. Außerdem verfügt die SPD über die Bundesratsmehrheit. Gerade deshalb - lassen Sie sich das gesagt sein - ist es um so wichtiger, daß Sie vorsichtig mit Verfassungsprinzipien umgehen, sorgfältig prüfen und auf die Vereinbarkeit mit dem Grundgesetz in besonderer Weise achten.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Herr Kollege Singhammer, gestatten Sie eine Zwischenfrage des Kollegen Dreßen?</p>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Johannes Singhammer (CDU/CSU):</speaker>
           <p>Gerne. Er ist mein Lieblingsfragesteller.</p>
           <stage type="interjection">(Heiterkeit)</stage>
         </sp>
-        <sp who="Peter Dreßen" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Peter Dreßen">
+        <sp who="Peter Dreßen" parliamentary_group="SPD" role="mp" position="NA" who_original="Peter Dreßen" party="SPD" name="Peter Dreßen">
           <speaker>Peter Dreßen (SPD):</speaker>
           <p>Das freut mich, Herr Kollege. - Sie haben gerade wieder den Tarifausschuß angesprochen und gesagt, daß diesbezüglich Gefahren bestünden. Meinen Sie nicht, daß es ein größerer Eingriff in die Tarifautonomie ist, wenn Gewerkschaft und Arbeitgeberverbände gemeinsam einen Tarifvertrag zimmern - Sie wissen, daß das immer mit Schwierigkeiten verbunden ist; aber ich meine, wenn sie sich dann einig sind - und dann der Tarifausschuß, in dem weder die zuständige Gewerkschaft noch der zuständige Arbeitgeberverband vertreten ist, dieses Ergebnis ablehnt? Halten Sie dies für demokratisch und für einen geringeren Eingriff als das, was wir jetzt vorsehen?</p>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Johannes Singhammer (CDU/CSU):</speaker>
           <p>Herr Kollege Dreßen, der entscheidende Unterschied zur bisherigen Regelung besteht, wie ich Ihnen gesagt habe, darin, daß es die Mitsprache auch der nicht tariflich Gebundenen über diesen Ausschuß beim Bundesarbeitsminister nicht mehr geben soll. Es findet keine weitere Befassung von Gremien mehr statt. Allein der Bundesarbeitsminister entscheidet. Das halte ich für sehr bedenklich.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
@@ -1727,7 +1726,7 @@
           <p>Erstens. Statt eines dem Anspruch auf Eigentum ähnlichen, garantiert abgesicherten Rentenanspruchs bekommt der Arbeitnehmer über den Tariffonds einen Rechtsanspruch mit minderer Rechtssicherheit.</p>
           <p>Zweitens. Sie betreiben eine Umverteilung zwischen den Generationen, und zwar zu Lasten der Jüngeren. Ein 20jähriger Arbeitnehmer muß 40 Jahre einzahlen, bis er über den Tariffonds als 60jähriger seine Ansprüche geltend machen kann. Wer 59 Jahre alt ist, der kann nach Ihren Plänen, nachdem er nur ein Jahr Beitrag gezahlt hat, erheblich früher in den Ruhestand gehen. Was glauben Sie, wie lange sich das die jüngeren Arbeitnehmer gefallen lassen werden?</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P.)</stage>
-          <p>Die Wahrheit lautet: Ihre Rechnung wird nicht aufgehen. Sie können sich der demographischen Entwicklung nicht entziehen und davonlaufen. Wunschdenken allein bringt nicht die notwendigen gigantischen Beträge ein, die Sie für diese Art der Umstellung brauchen. Wenn Sie das mir schon nicht glauben sollten, dann glauben Sie es wenigstens Ihrer Parteigenossin, der Ministerpräsidentin von Schleswig-Holstein, Frau Simonis. In  einem gestern veröffentlichten Interview mit dem "Stern", hat sie auf die Frage, wer denn die Verrentung mit 60 bezahlen soll, erklärt: "Nach meiner bisherigen Kenntnis ist das nicht finanzierbar."</p>
+          <p>Die Wahrheit lautet: Ihre Rechnung wird nicht aufgehen. Sie können sich der demographischen Entwicklung nicht entziehen und davonlaufen. Wunschdenken allein bringt nicht die notwendigen gigantischen Beträge ein, die Sie für diese Art der Umstellung brauchen. Wenn Sie das mir schon nicht glauben sollten, dann glauben Sie es wenigstens Ihrer Parteigenossin, der Ministerpräsidentin von Schleswig-Holstein, Frau Simonis. In einem gestern veröffentlichten Interview mit dem "Stern", hat sie auf die Frage, wer denn die Verrentung mit 60 bezahlen soll, erklärt: "Nach meiner bisherigen Kenntnis ist das nicht finanzierbar."</p>
           <stage type="interjection">(Dr. Irmgard Schwaetzer [F.D.P.]: Recht hat sie!)</stage>
           <p>Viele der Menschen, die jetzt diese Debatte verfolgen, spüren doch, daß sich die Jüngeren dann, wenn immer weniger Arbeitnehmer immer mehr für die Altersversicherung zahlen sollen, irgendwann einmal verweigern werden. Wir brauchen nicht mehr Umverteilung, sondern mehr zukunftssichere Arbeitsplätze und eine verbreiterte Grundlage durch mehr Beitragszahler, die letztlich die Last schultern.</p>
           <p>Dieses Korrekturgesetz schlägt eine falsche Richtung ein. Wie nie zuvor mußte sich gerade diese Bundesregierung nach nur wenigen Wochen von Experten und Wissenschaftlern eine niederschmetternde Kritik gefallen lassen. Zum Gutachten des Sachverständigenrats, der fünf Weisen, das in dieser Woche veröffentlicht worden ist, schreibt die "Süddeutsche Zeitung", daß es präzise, hart und vernichtend sei.</p>
@@ -1736,22 +1735,22 @@
           <p>Anspruch und Wirklichkeit Ihrer Politik sind umgekehrt proportional zu den Ergebnissen, die Sie erreichen wollen. Ich sage Ihnen eines: Note "Eins" bei den Ankündigungen und Versprechungen und Note "Sechs" bei der Umsetzung. Das wird immer mehr Menschen in unserem Land davon überzeugen, daß der Weg, den Sie eingeschlagen haben, der falsche ist.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Das Wort hat für die SPD-Fraktion der Kollege Kurt Bodewig.</p>
         </sp>
-        <sp who="Kurt Bodewig" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Kurt Bodewig">
+        <sp who="Kurt Bodewig" parliamentary_group="SPD" role="mp" position="NA" who_original="Kurt Bodewig" party="SPD" name="Kurt Bodewig">
           <speaker>Kurt Bodewig (SPD):</speaker>
-          <p>Herr Präsident! Sehr geehrte Damen und Herren! Ich freue mich, daß wir hier am  Ende einer längeren Debatte doch noch so zahlreich anwesend sind und dieser Debatte Aufmerksamkeit widmen. Ich finde das sehr schön. Denn gerade diese Debatte hat ja einen Kernpunkt, auf den ich mich in meinem Beitrag beschränken möchte, nämlich das Arbeitnehmer-Entsendegesetz. Was haben Sie da für Horrorgemälde an die Wand gemalt! Ich will mich damit gern auseinandersetzen. Ich will aber sehr deutlich machen: Diese Änderung des Arbeitnehmer-Entsendegesetzes ist nur ein Baustein unserer arbeitsrechtlichen Sofortmaßnahmen.</p>
+          <p>Herr Präsident! Sehr geehrte Damen und Herren! Ich freue mich, daß wir hier am Ende einer längeren Debatte doch noch so zahlreich anwesend sind und dieser Debatte Aufmerksamkeit widmen. Ich finde das sehr schön. Denn gerade diese Debatte hat ja einen Kernpunkt, auf den ich mich in meinem Beitrag beschränken möchte, nämlich das Arbeitnehmer-Entsendegesetz. Was haben Sie da für Horrorgemälde an die Wand gemalt! Ich will mich damit gern auseinandersetzen. Ich will aber sehr deutlich machen: Diese Änderung des Arbeitnehmer-Entsendegesetzes ist nur ein Baustein unserer arbeitsrechtlichen Sofortmaßnahmen.</p>
           <p>Ich kann nur sagen - ich freue mich, daß Bundesminister Walter Riester das noch einmal sehr deutlich gemacht hat -, daß es um Reformen geht. Das, was Sie praktiziert haben, nämlich eine Verschlechterung, indem Sie systematisch den Reformbegriff entwertet haben, ist keine Reform. Reformen sind Verbesserungen für die Menschen in diesem Land. In diesem Sinne machen wir Reformen.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Wir brauchen die Wiederherstellung von Recht und Ordnung auf dem Arbeitsmarkt. Das ist zwingend erforderlich angesichts von illegalen Tätigkeiten, von Aktivitäten einer Bau-Mafia, von Verfahren, die wir nicht akzeptieren können. Wir brauchen auch die Beseitigung von Wettbewerbsverzerrungen. Sie hier, die letzten vier überlebenden Gralshüter des Liberalismus,</p>
           <stage type="interjection">(Heiterkeit)</stage>
           <p>müssen doch daran interessiert sein, daß wir Dumping verhindern.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
-          <p>Wir brauchen natürlich auch einen Schutz der Arbeitnehmerrechte. Ich sage mit deutlichem Blick auf die Opposition: Die Bilanz Ihrer Arbeit in den letzten  16 Jahren zwingt uns dazu, heute Korrekturen vorzunehmen - das haben Sie zu verantworten -, damit wir das Leben hier wieder besser machen können.</p>
+          <p>Wir brauchen natürlich auch einen Schutz der Arbeitnehmerrechte. Ich sage mit deutlichem Blick auf die Opposition: Die Bilanz Ihrer Arbeit in den letzten 16 Jahren zwingt uns dazu, heute Korrekturen vorzunehmen - das haben Sie zu verantworten -, damit wir das Leben hier wieder besser machen können.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
-          <p>Dies gilt insbesondere für das Arbeitnehmer-Entsendegesetz. Aus meiner Erfahrung in einer Grenzregion zu den Niederlanden kann ich nur sagen, daß die vorgeschlagenen Korrekturen und ergänzenden Regelungen dringend erforderlich sind. In meinem Wahlkreis sprechen mich Bauunternehmer an und sagen, sie halten das nicht durch. Kolleginnen und Kollegen der IG BAU sagen deutlich, daß sie Angst um ihre Arbeitsplätze  haben. Das hat etwas mit der bestehenden Praxis zu tun, und diese Praxis muß geändert werden.</p>
+          <p>Dies gilt insbesondere für das Arbeitnehmer-Entsendegesetz. Aus meiner Erfahrung in einer Grenzregion zu den Niederlanden kann ich nur sagen, daß die vorgeschlagenen Korrekturen und ergänzenden Regelungen dringend erforderlich sind. In meinem Wahlkreis sprechen mich Bauunternehmer an und sagen, sie halten das nicht durch. Kolleginnen und Kollegen der IG BAU sagen deutlich, daß sie Angst um ihre Arbeitsplätze haben. Das hat etwas mit der bestehenden Praxis zu tun, und diese Praxis muß geändert werden.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Wettbewerbsverzerrungen durch Dumpingangebote müssen wir verhindern. Ich sage mit Blick auf die Arbeit an unserem zukünftigen Parlamentsort: Es kann doch nicht sein, daß in Berlin der größte Bauboom seit Kriegsende herrscht, und gleichzeitig haben wir die höchste Arbeitslosigkeit bei inländischen Bauarbeitern. Das ist doch absurd!</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
@@ -1766,7 +1765,7 @@
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Frau Schnieber-Jastram, ein Wort zum Kaisererlaß. Ich will Sie daran erinnern, daß es ein Sozialdemokrat war, der 1918 die Republik ausgerufen und die Demokratie in Deutschland begründet hat.</p>
           <stage type="interjection">(Birgit Schnieber-Jastram [CDU/CSU]: Nein!)</stage>
-          <p>Insofern sind wir sehr beruhigt, wenn Sie hier diese Begriffe falsch verwenden. Es geht nicht um einen Kaisererlaß, sondern um den Erhalt von Mindeststandards: beim Mindestlohn, der Urlaubsdauer und dem Urlaubsgeld. Es geht endlich darum, dieses Geschachere im Tarifausschuß zu beenden und diese Standards für alle verbindlich zu machen. Das ist eine vernünftige  Politik.</p>
+          <p>Insofern sind wir sehr beruhigt, wenn Sie hier diese Begriffe falsch verwenden. Es geht nicht um einen Kaisererlaß, sondern um den Erhalt von Mindeststandards: beim Mindestlohn, der Urlaubsdauer und dem Urlaubsgeld. Es geht endlich darum, dieses Geschachere im Tarifausschuß zu beenden und diese Standards für alle verbindlich zu machen. Das ist eine vernünftige Politik.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Die Voraussetzung dafür ist nämlich, daß sich die Tarifpartner vorher geeinigt haben. Dagegen hat überhaupt keiner etwas.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
@@ -1786,13 +1785,13 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Dem Kollegen Bodewig gratuliere ich als Drittem im Bunde zu seiner ersten Rede.</p>
           <stage type="interjection">(Beifall)</stage>
           <p>Der nächste Redner ist kein Jungfernredner. Es ist der Kollege Meinrad Belle für die CDU/CSU-Fraktion. Er hat das Wort.</p>
         </sp>
-        <sp who="Meinrad Belle" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Meinrad Belle">
+        <sp who="Meinrad Belle" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Meinrad Belle" party="CDU" name="Meinrad Belle">
           <speaker>Meinrad Belle (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Zum Schluß dieser Debatte spreche ich zur beabsichtigten Änderung des Versorgungsreformgesetzes. Dies tue ich unter anderem auch deshalb, damit der Kollege Staatssekretär Körper hier nicht umsonst gesessen hat.</p>
           <stage type="interjection">(Parl. Staatssekretär Fritz Rudolf Körper: Vielen Dank!)</stage>
@@ -1821,19 +1820,20 @@
           <p>Ich freue mich darauf, danke Ihnen für Ihre Aufmerksamkeit und wünsche Ihnen ein schönes Wochenende.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird Überweisung der Gesetzentwürfe auf den Drucksachen 14/45, 14/46, 14/15, 14/13, 14/39 und 14/44 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen.</p>
           <p>Der Gesetzentwurf der Koalitionsfraktionen zu Korrekturen in der Sozialversicherung und zur Sicherung der Arbeitnehmerrechte auf Drucksache 14/45 soll außerdem zur Mitberatung an den Ausschuß für Tourismus überwiesen werden. Der Haushaltsausschuß soll diesen Gesetzentwurf zur Mitberatung und gemäß § 96 der Geschäftsordnung erhalten.</p>
-          <p>Den Gesetzentwurf der Koalitionsfraktionen zur </p>
+          <p>Den Gesetzentwurf der Koalitionsfraktionen zur</p>
           <p>Änderung des Versorgungsreformgesetzes auf Drucksache 14/46 soll der Haushaltsausschuß ebenfalls zur Mitberatung und gemäß § 96 der Geschäftsordnung erhalten.</p>
-          <p>Beim Gesetzentwurf der Fraktion der PDS zur Korrektur von Fehlentwicklungen im Recht der Arbeitslosenhilfe auf Drucksache 14/15 soll  die  Federführung </p>
+          <p>Beim Gesetzentwurf der Fraktion der PDS zur Korrektur von Fehlentwicklungen im Recht der Arbeitslosenhilfe auf Drucksache 14/15 soll die Federführung</p>
           <p>beim Ausschuß für Arbeit und Sozialordnung liegen. Dem Ausschuß für Familie, Senioren, Frauen und Jugend soll dieser Gesetzentwurf zur Mitberatung überwiesen werden.</p>
           <p>Gibt es dazu anderweitige Vorschläge? - Das ist nicht der Fall. Dann ist die Überweisung so beschlossen.</p>
           <p>Wir sind damit am Schluß unserer Tagesordnung. Ich danke Ihnen, daß Sie bis zum Schluß an dieser Beratung teilgenommen haben, wünsche Ihnen ein schönes Wochenende und für die nächste Woche gute Gespräche mit Ihren Wählerinnen und Wählern.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 2. Dezember 1998, 13 Uhr ein.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluß: 13.57 Uhr)</stage>
         </sp>
       </div>
     </body>

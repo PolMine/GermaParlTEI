@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-07</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://www.bundestag.de/blob/366372/77adc134e0a334998820ea9919d8b34a/18095-data.txt</url>
-        <date>2015-10-20 20:01:31</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -36,7 +36,7 @@
   <text>
     <body>
       <div type="agenda_item" n="1" what="debate" desc="Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes...">
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Guten Morgen, liebe Kolleginnen und Kollegen! Die Sitzung ist eröffnet.</p>
           <p>Ich rufe den Tagesordnungspunkt 17 auf:</p>
@@ -53,7 +53,7 @@
           <p>Ich eröffne die Aussprache. Für die Bundesre-gierung erhält als erster Redner das Wort Dr. Thomas de Maizière, Bundesminister des In-nern.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kolle-gen! Meine Damen und Herren! Der kluge Mann und die kluge Frau bauen vor. Das gilt schon seit Menschengedenken. Wir errichten Deiche, um uns bestmöglich vor den Gefahren eines Hoch-wassers zu schützen, in den Bergen befestigen wir Abhänge, damit sie nicht auf Straßen rut-schen, wir legen Vorräte an und legen einen Not-groschen für den Ernstfall zurück. Kurz: Es liegt in der Natur des Menschen, Vorsorge zu treffen. In der digitalen Welt sollte es nicht anders sein. Digi-tale Infrastrukturen und IT-Systeme sind das Rückgrat unserer modernen Gesellschaft. Durch sie entstehen in nahezu allen Lebensbereichen neue Potenziale, Freiräume und Synergien. Gleichzeitig wächst aber die Abhängigkeit von diesen Systemen und damit auch die Bedeutung der Verfügbarkeit und Sicherheit der Systeme. Der technische Fortschritt hat uns also ein Stück weit verwundbar oder verwundbarer gemacht, auch durch die digitale Welt.</p>
           <p>Das Bundesamt für Sicherheit in der Informati-onstechnik geht davon aus, dass allein in Deutschland mehr als 1 Million Internetrechner Teil eines sogenannten Botnetzes ist. Das bedeu-tet, dass sie jederzeit für IT--Angriffe missbrauch-bar sind, ohne dass das der Betreiber bemerkt. Mehr als 250 Millionen Varianten von Schadpro-grammen sollen heute schon in Umlauf sein, und täglich kommen über 300 000 neue Varianten hin-zu. Erfolgreiche technische Dienste und zuverläs-sige Anwendungen im Internet brauchen Vertrau-en in die Sicherheit der IT-Systeme.</p>
@@ -77,12 +77,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Als nächster Redner hat Jan Korte von der Fraktion Die Linke das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Jan Korte" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Jan Korte">
+        <sp who="Jan Korte" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Jan Korte" party="DIE LINKE" name="Jan Korte">
           <speaker>Jan Korte (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kolle-gen! Eine Bemerkung vorweg, weil alle bedeuten-den Innenpolitiker des Bundestages hier versam-melt sind: Ich freue mich darüber, dass heute die rot-rot-grüne Landesregierung in Thüringen das V-Leute-Unwesen abgeschaltet hat.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -121,12 +121,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Als nächster Redner spricht Ge-rold Reichenbach von der SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU)</stage>
         </sp>
-        <sp who="Gerold Reichenbach" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gerold Reichenbach">
+        <sp who="Gerold Reichenbach" parliamentary_group="SPD" role="mp" position="NA" who_original="Gerold Reichenbach" party="SPD" name="Gerold Reichenbach">
           <speaker>Gerold Reichenbach (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Sehr geehrte Damen und Herren! Liebe Kolleginnen und Kolle-gen! Dass die Digitalisierung und die digitale Ver-netzung immer weitere Lebensbereiche durchdrin-gen, ist inzwischen ein Allgemeinplatz geworden; aber das ist keine Banalität. Während der heutigen Debatte werden wir erleben, dass es dunkel wird. Das hat eine natürliche Ursache, nämlich die Son-nenfinsternis, die im Laufe des Vormittags eintritt. Es könnte aber auch andere Gründe haben. Im Rahmen einer Veranstaltung zum Thema „Vernet-zung und IT-Sicherheit“ erzählte neulich ein Pro-fessor, dass man sich unter Kollegen darüber un-terhielt, wie man von Wien aus die Jalousien beim Deutschen Bundestag herauf- und herunterfährt. Das hört sich zunächst sehr lustig an, Herr Korte,</p>
           <stage type="interjection">(Jan Korte [DIE LINKE]: Ich habe nicht gelacht!)</stage>
@@ -162,11 +162,11 @@
           <p>Ich danke Ihnen für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Als nächster Redner hat Kon-stantin von Notz das Wort.</p>
         </sp>
-        <sp who="Dr. Konstantin von Notz" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Konstantin von Notz">
+        <sp who="Konstantin von Notz" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Konstantin von Notz" party="GRUENE" name="Konstantin von Notz">
           <speaker>Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kolle-gen! Meine sehr verehrten Damen und Herren! Das zentrale Thema der CeBIT in diesem Jahr ist die massive Gefährdung unserer digitalen Infra-struktur durch Massenausspähung und IT-Angriffe. Ohne Edward Snowden hätten wir heute nicht ansatzweise den Überblick über die tatsäch-liche Bedrohungslage.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN – Widerspruch bei Abgeordneten der CDU/CSU)</stage>
@@ -205,22 +205,22 @@
           <p>Schließlich: Hören Sie endlich auf, die EU-Datenschutzrechtsreform weiter zu behindern und zu verwässern! Sie ist ein elementarer Baustein für die IT-Sicherheit.</p>
           <p>Sie haben aus Ihrem Gesetzentwurf die Rege-lung zur „Vorratsdatenspeicherung durch die Hin-tertür“ nach massiver Kritik wieder herausge-nommen. Aber wer bürgerrechtliche Einsicht die-ser Großen Koalition erwartet hat, wird wieder einmal enttäuscht; denn Sie von Union und SPD haben gemeinsam und unbelehrbar die Vorratsda-tenspeicherung durch die Vordertür des Bundes-tages nun wieder hereingetragen. Sigmar Gabriel hat sich in den letzten Tagen nicht nur als irrlich-tender Vizekanzler gegen Bürgerrechte einen Na-men gemacht – NA</p>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Herr Kollege, Sie müssen zum Schluss kom-men.</p>
         </sp>
-        <sp who="Dr. Konstantin von Notz" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Konstantin von Notz">
+        <sp who="Konstantin von Notz" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Konstantin von Notz" party="GRUENE" name="Konstantin von Notz">
           <speaker>Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>– ich komme zum Schluss, Frau Präsidentin –, er hat nicht nur die Glaubwürdigkeit seines eige-nen Ministerkollegen beschädigt, er hat als Wirt-schaftsminister offenbar auch nicht verstanden, welchen fundamentalen Stellenwert Vertrauen in die digitale Welt heute hat – Vertrauen, das Ihr ungenügender Gesetzentwurf leider nicht wieder-herzustellen vermag. Das ist ungenügend.</p>
           <p>Ganz herzlichen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Als nächster Redner hat der Kollege Stephan Mayer von der CDU/CSU das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie der Abg. Christina Kampmann [SPD])</stage>
         </sp>
-        <sp who="Stephan Mayer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Stephan Mayer">
+        <sp who="Stephan Mayer (Altötting)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stephan Mayer (Altötting)" party="CSU" name="Stephan Mayer">
           <speaker>Stephan Mayer (Altötting) (CDU/CSU):</speaker>
           <p>Sehr verehrte Frau Präsidentin! Sehr verehrte Kolleginnen! Sehr geehrte Kollegen! Erlauben Sie mir, bevor ich auf das IT-Sicherheitsgesetz ein-gehe, eine kurze Antwort an den Kollegen Korte,</p>
           <stage type="interjection">(Jan Korte [DIE LINKE]: Na endlich!)</stage>
@@ -264,22 +264,22 @@
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD)</stage>
           <p>Eine Sicherheitslücke in der IT ist natürlich um-so gravierender für das Allgemeinwohl, je stärker sogenannte kritische Infrastrukturen betroffen sind.</p>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Herr Kollege Mayer, lassen Sie eine Zwischen-frage des Kollegen von Notz zu?</p>
         </sp>
-        <sp who="Stephan Mayer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Stephan Mayer">
+        <sp who="Stephan Mayer (Altötting)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stephan Mayer (Altötting)" party="CSU" name="Stephan Mayer">
           <speaker>Stephan Mayer (Altötting) (CDU/CSU):</speaker>
           <p>Selbstverständlich. Sehr gerne.</p>
           <stage type="interjection">(Tankred Schipanski [CDU/CSU]: Der Stehler ist kein Hehler!)</stage>
         </sp>
-        <sp who="Dr. Konstantin von Notz" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Konstantin von Notz">
+        <sp who="Konstantin von Notz" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Konstantin von Notz" party="GRUENE" name="Konstantin von Notz">
           <speaker>Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ja, der Stehler ist kein Hehler. – Tut mir leid, dass ich Sie jetzt direkt unterbreche, und danke, dass Sie die Frage zugelassen haben. Ich will kurz auf die Vorwürfe antworten.</p>
-          <p>Sagen Sie, Herr Mayer, für das Innenministeri-um – vielleicht kann der Minister kurz nicken –, dass der BND von seinen Plänen, in Zukunft Si-cherheitslücken anzukaufen, Abstand nimmt?  Wenn das nicht der Fall ist, wie würden Sie das denn nennen, wenn jemand illegale Si-cherheitslücken ankauft, und zwar nicht, um sie zu schließen, sondern um sie zu nutzen? Also entwe-der distanzieren Sie sich davon, oder Sie können diesen Vorwurf leider nicht entkräften, Herr Ma-yer.</p>
+          <p>Sagen Sie, Herr Mayer, für das Innenministeri-um – vielleicht kann der Minister kurz nicken –, dass der BND von seinen Plänen, in Zukunft Si-cherheitslücken anzukaufen, Abstand nimmt? Wenn das nicht der Fall ist, wie würden Sie das denn nennen, wenn jemand illegale Si-cherheitslücken ankauft, und zwar nicht, um sie zu schließen, sondern um sie zu nutzen? Also entwe-der distanzieren Sie sich davon, oder Sie können diesen Vorwurf leider nicht entkräften, Herr Ma-yer.</p>
           <stage type="interjection">(Gerold Reichenbach [SPD]: Konstantin von Notz, das ist Grundkurswissen: Für den BND ist das Kanzleramt zuständig, nicht der Innenminister!)</stage>
         </sp>
-        <sp who="Stephan Mayer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Stephan Mayer">
+        <sp who="Stephan Mayer (Altötting)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stephan Mayer (Altötting)" party="CSU" name="Stephan Mayer">
           <speaker>Stephan Mayer (Altötting) (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Kollege von Notz, ich dis-tanziere mich von der Behauptung, die Sie vorge-nommen haben, weil sie einfach nicht zutrifft. Es stimmt nicht, dass das Bundesinnenministerium Sicherheitslücken ankauft.</p>
           <stage type="interjection">(Dr. Konstantin von Notz [BÜND-NIS 90/DIE GRÜNEN]: Nein, es tole-riert!)</stage>
@@ -302,30 +302,30 @@
           <p>Meine sehr verehrten Kolleginnen und Kollegen, wir gehen jetzt in das parlamentarische Verfahren. Wir werden am 20. April eine Anhörung zu diesem Thema durchführen. Ich sage hier für die Unions-fraktion ganz klar: Wir sind offen für Hinweise, für Verbesserungsvorschläge von allen Seiten. Ich habe schon den Eindruck – auch nach den ersten Rückmeldungen aus der Wirtschaft –: Der Grund-ansatz dieses Gesetzes wird vollumfänglich ge-teilt. Im Detail kann man mit Sicherheit noch über das eine oder andere sprechen.</p>
           <p>Ich bin auch der festen Überzeugung, dass es uns mit diesem IT-Sicherheitsgesetz gelingt – NA</p>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Herr Kollege, Sie müssen zum Schluss kom-men.</p>
         </sp>
-        <sp who="Stephan Mayer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Stephan Mayer">
+        <sp who="Stephan Mayer (Altötting)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stephan Mayer (Altötting)" party="CSU" name="Stephan Mayer">
           <speaker>Stephan Mayer (Altötting) (CDU/CSU):</speaker>
           <p>– ich komme sehr gerne zum Ende –, Schritt-macher innerhalb der Europäischen Union zu sein und die Verhandlungen bezüglich der NIS-Richtlinie auf europäischer Ebene voranzutreiben. Das IT-Sicherheitsgesetz – davon bin ich fest überzeugt – wird für die kommende NIS-Richtlinie Vorbild sein. Insoweit ist das kein rein nationaler Ansatz, – NA</p>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Herr Kollege, ich muss Sie noch einmal bitten, zum Schluss zu kommen!</p>
         </sp>
-        <sp who="Stephan Mayer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Stephan Mayer">
+        <sp who="Stephan Mayer (Altötting)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stephan Mayer (Altötting)" party="CSU" name="Stephan Mayer">
           <speaker>Stephan Mayer (Altötting) (CDU/CSU):</speaker>
           <p>– sondern ein Vorbild für die europäische Ebe-ne. Mit einem entsprechend konstruktiven Ansatz, denke ich, sollten wir auch die parlamentarischen Verhandlungen führen.</p>
           <p>Herzlichen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Als nächste Rednerin hat die Kollegin Halina Wawzyniak von der Fraktion Die Linke das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Halina Wawzyniak" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Halina Wawzyniak">
+        <sp who="Halina Wawzyniak" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Halina Wawzyniak" party="DIE LINKE" name="Halina Wawzyniak">
           <speaker>Halina Wawzyniak (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Kolle-ginnen und Kollegen! Was wir grundsätzlich vom IT-Sicherheitsgesetz halten, hat mein Kollege Jan Korte schon gesagt. Prinzipiell ist das Anliegen komplett richtig. Aber es hilft nicht, etwas richtig zu meinen, man muss es auch richtig machen.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -348,12 +348,12 @@
           <p>Kurz und gut: Sie machen mit dem Gesetzent-wurf ein wichtiges Anliegen durch einen komplett falschen Ansatz kaputt. Ich kann nur hoffen, dass wir in der weiteren Debatte dem eigentlich sinnvol-len Anliegen noch sinnvoll Rechnung tragen.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Als nächste Rednerin hat die Kollegin Christina Kampmann von der SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Christina Kampmann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Christina Kampmann">
+        <sp who="Christina Kampmann" parliamentary_group="SPD" role="mp" position="NA" who_original="Christina Kampmann" party="SPD" name="Christina Kampmann">
           <speaker>Christina Kampmann (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kollegin-nen und Kollegen! Meine sehr verehrten Damen und Herren! Es gibt ein paar Dinge, ohne die diese Digitalisierung, von der jetzt alle sprechen, nicht funktionieren kann: Sicherheit zum Beispiel. Ohne Sicherheit kein Vertrauen, ohne Vertrauen keine Nutzung, ohne Nutzung keine Angebote.</p>
           <p>Aber welche Verantwortung hat eigentlich der Staat, wenn es um die Sicherheit im Netz geht? Schauen wir uns dazu ein Zitat von Günther Oet-tinger, seines Zeichens Kommissar für Digitale Wirtschaft und Gesellschaft in der Europäischen Union, an.</p>
@@ -372,7 +372,7 @@
           <p>nicht für alle und nicht immer so umfassend, wie ich mir das gewünscht hätte – dazu sage ich gleich noch etwas –; aber es bildet sehr wohl eine Grundlage, auf der man aufbauen kann und die in einer funktionierenden Sicherheitsarchitektur eine zuverlässige Basis bilden wird.</p>
           <p>Aber schauen wir uns einmal die Inhalte an: Worum geht es in diesem Gesetz eigentlich, und welche Ziele können damit tatsächlich erreicht werden? Ich möchte vor allem auf zwei Punkte eingehen, die in der öffentlichen Diskussion be-sonders im Fokus standen.</p>
           <p>Zum ersten Mal gibt es für Betreiber kritischer In-frastrukturen eine gesetzliche Verpflichtung, ei-nen Mindeststandard an IT-Sicherheit zu schaffen und einzu-halten. Das ist den einen zu wenig, weil die Branchenverbände selbst Vorschläge für Si-cherheitsstandards machen können; den anderen ist der bürokratische Aufwand zu hoch, insbeson-dere was die Meldepflicht an das BSI angeht. Was sie damit verkennen, ist die Tatsache, das IT-Sicherheit zwar teuer ist, aber ein Mangel an Si-cherheit um so vieles teurer ist, dass sich heute niemand mehr der Illusion hingeben darf, man könne darauf wirklich ernsthaft verzichten, liebe Kolleginnen und Kollegen. Ich bin davon über-zeugt, dass wir mit der Möglichkeit zur grundsätz-lich anonymen Meldung einen guten Kompromiss für alle Akteure gefunden haben, der die Arbeit des BSI in wesentlichen Punkten erleichtern wird und gleichzeitig die Widerstandsfähigkeit der Net-ze im Bereich kritischer Infrastrukturen erhöht.</p>
-          <p>Liebe Kolleginnen und Kollegen, lassen Sie mich zweitens auch noch ein paar Punkte zum Thema BSI sagen. Ich finde es richtig und wich-tig, dass das BSI im Rahmen des IT-Sicherheitsgesetzes gestärkt wird. Die Zuständig-keit des BSI geht inzwischen weit über die Abwehr von Gefahren für die IT des Bundes hinaus: Es dient zunehmend auch Unternehmen, Verwaltun-gen und der Politik als Ansprechpartner in Fragen von Cyber-sicherheit.  Herr Korte, es für diese Aufgabe mit zusätzlichen Stellen zu stärken, ist die richtige Entscheidung. Dazu gibt es keine Alternative.</p>
+          <p>Liebe Kolleginnen und Kollegen, lassen Sie mich zweitens auch noch ein paar Punkte zum Thema BSI sagen. Ich finde es richtig und wich-tig, dass das BSI im Rahmen des IT-Sicherheitsgesetzes gestärkt wird. Die Zuständig-keit des BSI geht inzwischen weit über die Abwehr von Gefahren für die IT des Bundes hinaus: Es dient zunehmend auch Unternehmen, Verwaltun-gen und der Politik als Ansprechpartner in Fragen von Cyber-sicherheit. Herr Korte, es für diese Aufgabe mit zusätzlichen Stellen zu stärken, ist die richtige Entscheidung. Dazu gibt es keine Alternative.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU – Jan Korte [DIE LINKE]: Wir können mal darüber diskutie-ren! – Dr. Konstantin von Notz [BÜND-NIS 90/DIE GRÜNEN]: Doch, die Unab-hängigkeit des BSI!)</stage>
           <p>– Das haben auch Sie in diesem Kontext erwähnt. Ich habe bei Ihrer Rede sehr genau zugehört; da-von können Sie ausgehen.</p>
           <stage type="interjection">(Dr. Konstantin von Notz [BÜND-NIS 90/DIE GRÜNEN]: Es gibt im-mer Alternativen!)</stage>
@@ -396,11 +396,11 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Als nächster Redner hat der Kol-lege Dieter Janecek von Bündnis 90/Die Grünen das Wort.</p>
         </sp>
-        <sp who="Dieter Janecek" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Dieter Janecek">
+        <sp who="Dieter Janecek" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Dieter Janecek" party="GRUENE" name="Dieter Janecek">
           <speaker>Dieter Janecek (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Frau Kampmann, der Vergleich mit Arminia Bielefelds Rolle im DFB--Pokal reizt mich nun schon ein bisschen. Sie wollen die IT-Sicherheit international voranbringen, wie das auch Kollege Mayer gesagt hat. Aber Champions League ist das noch lange nicht.</p>
           <stage type="interjection">(Beifall der Abg. Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN])</stage>
@@ -428,12 +428,12 @@
           <p>Die Herausforderungen sind komplex; das ist keine Frage. Der vorgelegte Gesetzentwurf über-zeugt aber nicht, weder inhaltlich noch konzeptio-nell; denn er hilft nicht, die Herausforderungen in der IT-Sicherheit zu bewältigen. Der Schutz klei-ner und mittelständischer Unternehmen und der Privatuser vor Cyberangriffen bleibt dabei außen vor. Das kann uns nicht zufriedenstellen. Deshalb: Wenn Sie Champions League sein wollen, dann machen Sie endlich Ihre Hausaufgaben. Auf unse-re konstruktive Begleitung dabei können Sie sich verlassen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Als nächster Redner hat Cle-mens Binninger von der CDU/CSU das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD)</stage>
         </sp>
-        <sp who="Clemens Binninger" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Clemens Binninger">
+        <sp who="Clemens Binninger" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Clemens Binninger" party="CDU" name="Clemens Binninger">
           <speaker>Clemens Binninger (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Verehrte Kolleginnen und Kol-legen! Industrie 4.0, Internet der Dinge, Cloud Computing und Smart Meter sind nur einige weni-ge Begriffe, die zeigen, wie sehr sich auch unsere Wirtschaft verändert und dass immer mehr vom Austausch von Informationen und Daten abhängt. Darüber sollten wir uns klar sein, Herr Kollege von Notz. Denn Sie erwecken immer wieder den Ein-druck, man könnte mit staatlicher Regulierung al-les lösen.</p>
           <stage type="interjection">(Dr. Konstantin von Notz [BÜND-NIS 90/DIE GRÜNEN]: Klar!)</stage>
@@ -474,11 +474,11 @@
           <p>Nun zum Punkt, den Sie ein paarmal kritisiert haben. Sie haben gesagt, im Gesetz sei zu wenig geregelt und es enthalte zu viele unbestimmte Rechtsbegriffe. Auch darüber haben wir uns Ge-danken gemacht. Aber ich garantiere Ihnen: Wer sich mit diesem Thema seriös auseinandersetzt, wird erkennen, dass sich in einem statischen Ge-setz nie alle denkbaren Begrifflichkeiten für alle Zeiten regeln lassen: Was ist ein Cyberzwischen-fall? Wann ist er meldepflichtig? Welche Unter-nehmen und welche Branchen sind einzubezie-hen? Es handelt sich vielmehr um einen dynami-schen Prozess, wie Sie selber gesagt haben, Herr Kollege von Notz. Deshalb wählen wir den Verord-nungsweg, um es Exekutive, Parlament und Wirt-schaft zu ermöglichen, diese Fragen gemeinsam zu beantworten.</p>
           <p>Wer gehört zu den Betreibern kritischer Infra-strukturen? Dazu gehört sicherlich nicht jedes Stadtwerk. Vielleicht gehören aber Stadtwerke ab einer bestimmten Größe dazu. Wir gehen von et-wa maximal 2 000 Betreibern kritischer Infrastruk-turen aus, die am Ende unter die Meldepflicht fal-len können. Auf jeden Fall werden wir auch in Zu-kunft immer wieder überprüfen müssen, ob wir alle Betreiber kritischer Infrastrukturen erfasst haben oder ob es neue Sektoren gibt, die es aufgrund bestimmter Geschäftsmodelle zu berücksichtigen gilt. Diese Dynamik lässt sich nicht im Gesetzge-bungsverfahren auflösen. Dazu braucht man den Verordnungsweg.</p>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Herr Kollege, es tut mir leid, aber ich muss Sie in Ihrer Dynamik unterbrechen. Sie müssen zum Schluss kommen.</p>
         </sp>
-        <sp who="Clemens Binninger" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Clemens Binninger">
+        <sp who="Clemens Binninger" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Clemens Binninger" party="CDU" name="Clemens Binninger">
           <speaker>Clemens Binninger (CDU/CSU):</speaker>
           <p>Ich überziehe selten, aber noch habe ich Licht.</p>
           <p>Einen Punkt möchte ich noch ankündigen. Die Regierung und die sie tragenden Fraktionen sind durchaus offen für konstruktive Vorschläge. Wir selber haben einige Ideen, wie wir nachjustieren können. Das gilt insbesondere für die Standards in der Verwaltung. Wir werden in jedem Fall über die Frage der Evaluierung reden müssen. Die Unter-nehmen bekommen zwei Jahre Zeit für die Umset-zung. Wir müssen dann nach einer bestimmten Zeit erneut prüfen.</p>
@@ -486,12 +486,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Als nächster Redner hat der Kollege Lars Klingbeil von der SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU)</stage>
         </sp>
-        <sp who="Lars Klingbeil" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Lars Klingbeil">
+        <sp who="Lars Klingbeil" parliamentary_group="SPD" role="mp" position="NA" who_original="Lars Klingbeil" party="SPD" name="Lars Klingbeil">
           <speaker>Lars Klingbeil (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kolle-gen! Ich bin dem Kollegen Binninger für die Ton-lage, die er in diese Diskussion hineingebracht hat, sehr dankbar. Ich finde, diese Tonlage ist der Diskussion, die wir heute führen, angemessen.</p>
           <stage type="interjection">(Bettina Hagedorn [SPD]: Ja!)</stage>
@@ -514,12 +514,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Als nächste Rednerin hat die Kollegin Nadine Schön von der CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD)</stage>
         </sp>
-        <sp who="Nadine Schön" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Nadine Schön">
+        <sp who="Nadine Schön (St. Wendel)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Nadine Schön (St. Wendel)" party="CDU" name="Nadine Schön">
           <speaker>Nadine Schön (St. Wendel) (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kolle-gen! Big Data, Internet der Dinge, Industrie 4.0, Smart Grids, Smart Meter – das sind die Schlag-worte, die in dieser Woche die Diskussionen um die Digitalisierung bestimmen; denn diese Woche ist CeBIT-Woche. Darum geht es bei der größten IT-Messe der Welt und nicht, lieber Kollege Kon-stantin von Notz, um die Snowden-Enthüllungen. Ich habe auf der CeBIT vor allem erlebt, dass man sich damit beschäftigt, wie sich die Welt verän-dert, wenn sie zunehmend vernetzt ist, wenn alles intelligenter, vernetzter und auch smarter wird.</p>
           <stage type="interjection">(Dr. Konstantin von Notz [BÜND-NIS 90/DIE GRÜNEN]: Alles wird intelli-genter? Schön wär’s!)</stage>
@@ -533,7 +533,7 @@
           <p>Deshalb ist es wichtig, dass wir dafür sorgen, dass die User informiert werden, wenn etwa An-griffe von außen auf das Netz erfolgen. Deswegen werden wir die Provider dazu verpflichten, das an die Nutzer zu melden. Das war uns schon bei den Koalitionsverhandlungen ein ganz wichtiges An-liegen; deshalb haben wir es aufgenommen. Wir werden dafür sorgen, dass die Grundsicherheit sowohl bei den Unternehmen als auch bei den Pri-vatpersonen erhöht wird.</p>
           <p>Das IT-Sicherheitsgesetz ist ein Maßnahmen-paket. Der Minister hat die einzelnen Punkte aus-führlich dargestellt. Wir werden in den nächsten Wochen ausführlich über die einzelnen Punkte sprechen und überlegen, wie effizient oder effektiv die einzelnen Maßnahmen sind, welche Wechsel-wirkungen es aber auch gibt, um dann möglichst viel Sicherheit für die Menschen in unserem Land zu gewährleisten.</p>
           <p>Ich will der Diskussion nicht vorgreifen, aber zu zwei, drei Punkten, die schon kritisch angemerkt wurden, etwas sagen.</p>
-          <p>Das Erste ist: europäische Lösung. Natürlich haben wir in Europa einen großen Binnenmarkt, aber derzeit noch mit 28 fragmentierten digitalen Märkten. Das kann so nicht bleiben. Deshalb be-grüßen wir auch sehr, dass Günther Oettinger die Digitalunion ausgerufen hat. Wir brauchen natür-lich einheitliche Standards in ganz Europa. Was Deutschland jetzt macht, ist, wie die Kanzlerin ge-sagt hat, die Blaupause für diese Diskussionen auf europäischer Ebene.  Wir bringen das, was wir hier ins Gesetz schreiben, natürlich auch auf der europäischen Ebene ein.</p>
+          <p>Das Erste ist: europäische Lösung. Natürlich haben wir in Europa einen großen Binnenmarkt, aber derzeit noch mit 28 fragmentierten digitalen Märkten. Das kann so nicht bleiben. Deshalb be-grüßen wir auch sehr, dass Günther Oettinger die Digitalunion ausgerufen hat. Wir brauchen natür-lich einheitliche Standards in ganz Europa. Was Deutschland jetzt macht, ist, wie die Kanzlerin ge-sagt hat, die Blaupause für diese Diskussionen auf europäischer Ebene. Wir bringen das, was wir hier ins Gesetz schreiben, natürlich auch auf der europäischen Ebene ein.</p>
           <stage type="interjection">(Dr. Konstantin von Notz [BÜND-NIS 90/DIE GRÜNEN]: Die werden sich bedanken!)</stage>
           <p>Man erwartet von Deutschland als dem Land, das im Bereich IT-Security unbestritten Vorreiter in Europa ist, dass wir vorangehen, dass wir unsere Vorschläge einbringen.</p>
           <stage type="interjection">(Dr. Konstantin von Notz [BÜND-NIS 90/DIE GRÜNEN]: Man spricht wie-der deutsch in der digitalen Welt!)</stage>
@@ -544,23 +544,23 @@
           <p>Der dritte Punkt betrifft folgende Fragen: Was passiert mit den Daten? Wie viele Daten werden überhaupt erhoben? Was hat die Wirtschaft denn selbst davon? Das sind sehr wichtige Fragestel-lungen, die Sie auch heute zu Recht angespro-chen haben. Es ist eben so, dass es für die Un-ternehmen sensible Daten sind; denn es geht um Geschäftsprozesse. Deshalb ist es wichtig, dass gewährleistet ist, dass die Daten sicher und ver-traulich behandelt werden. Es ist wichtig, dass das nicht ein Einfallstor für Wirtschaftsspionage wird. Aber das werden wir sicherstellen. Das ist elementar für den Wirtschaftsstandort Deutsch-land. Deshalb werden wir den Schutz der Daten, die hier erhoben werden, sicherstellen. Es werden natürlich auch nur die Daten erhoben, die elemen-tar sind, um beurteilen zu können, ob ein Angriff stattfindet, um die Angriffsmuster zu erkennen.</p>
           <p>Natürlich werden auch die Unternehmen etwas davon haben. Uns geht es doch nicht nur darum, zu sehen, was in Deutschland zurzeit an Angriffen da ist. Das Gesetz hat zum Ziel, mit den Unter-nehmen zu korrespondieren, zu warnen und auf diese Angriffe reagieren zu können, sonst würde das Ganze ja gar keinen Sinn machen. Insofern sind so manche Vorwürfe, die heute hier in den Raum gestellt wurden, wirklich abstrus. Natürlich wird das Gesetz so ausgestaltet, dass die Unter-nehmen etwas davon haben. IT-Sicherheit ist et-was, was uns als Staat angeht, was aber auch die Unternehmen selbst angeht; denn IT-Sicherheit ist auch ein Wirtschaftsfaktor für die Unternehmen.</p>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Frau Kollegin, auch Sie müssen zum Schluss kommen.</p>
         </sp>
-        <sp who="Nadine Schön" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Nadine Schön">
+        <sp who="Nadine Schön (St. Wendel)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Nadine Schön (St. Wendel)" party="CDU" name="Nadine Schön">
           <speaker>Nadine Schön (St. Wendel) (CDU/CSU):</speaker>
           <p>Deshalb werden wir darauf großes Augenmerk legen.</p>
           <p>Liebe Frau Präsidentin, liebe Kolleginnen und Kollegen, IT-Sicherheit ist maßgeblich für den wirtschaftlichen Aufschwung in Deutschland. Deshalb werden wir das Gesetz schnell und zügig beraten, zusammen mit den Unternehmen, die es betrifft. Ich freue mich schon sehr auf die Bera-tungen. Die AG Digitale Agenda wird sich hier ge-nauso einbringen wie die Innenpolitiker.</p>
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Als nächster Redner hat Hansjörg Durz das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie des Abg. Burkhard Lischka [SPD])</stage>
         </sp>
-        <sp who="Hansjörg Durz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Hansjörg Durz">
+        <sp who="Hansjörg Durz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hansjörg Durz" party="CSU" name="Hansjörg Durz">
           <speaker>Hansjörg Durz (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Verehrte Kolle-ginnen und Kollegen! Meine sehr geehrten Damen und Herren! Die Vernetzung, insbesondere die Vernetzung der Wirtschaft, ist das zentrale Thema der heute zu Ende gehenden CeBIT in Hannover; Nadine Schön hat bereits -darauf hingewiesen. In der vernetzten Wirtschaft kommuniziert – was sich viele nicht vorstellen können, aber heute schon sehr real ist – alles mit allem. Das in die-sem Zusammenhang in jüngster Zeit am häufigs-ten genannte Schlagwort lautet Industrie 4.0.</p>
           <p>Neben dem industriellen Bereich ist eine weite-re praktische Anwendung in dieser vernetzten Welt, die besonders im Fokus der Öffentlichkeit steht, das vernetzte, auch autonom genannte Fah-ren. Kaum eine Vision beflügelt die Fantasie der Menschen so wie die Vorstellung selbstfahrender Autos – im Positiven, aber auch im Negativen. Diese Ambivalenz dem selbstfahrenden Auto ge-genüber lässt sich auf die Digitalisierung insge-samt übertragen.</p>
@@ -585,7 +585,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Liebe Kolleginnen und Kollegen, ich schließe die Aussprache.</p>
           <p>Interfraktionell wird Überweisung des Gesetz-entwurfs auf Drucksache 18/4096 an die in der Tagesordnung aufgeführten Ausschüsse vorge-schlagen. Gibt es anderweitige Vorschläge? – Das ist nicht der Fall. Dann ist die Überweisung so beschlossen.</p>
@@ -617,11 +617,11 @@
         </sp>
       </div>
       <div type="agenda_item" n="2" what="debate" desc="a) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Geset...">
-        <sp who="Hermann Gröhe" parliamentary_group="NA" role="government" position="Bundesminister für Gesund-heit" party="CDU" name="Hermann Gröhe">
+        <sp who="Hermann Gröhe" parliamentary_group="NA" role="government" position="Bundesminister für Gesund-heit" who_original="Hermann Gröhe" party="CDU" name="Hermann Gröhe">
           <speaker>Hermann Gröhe, Bundesminister für Gesund-heit:</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen! Liebe Kol-legen! Sehr geehrte Damen und Herren! Lassen Sie mich mit einigen Schlagzeilen dieser Woche beginnen. Der Spiegel eröffnet die Woche mit dem Demografietitel „Deutschland, deine Zukunft 2030“. Vorgestern veröffentlicht die DAK eine Stu-die über Stress und Doping am Arbeitsplatz. Und wir stellen fest, dass in Deutschland seit dieser Woche 1 000 Menschen an Masern erkrankt sind. Das alles sind Schlagzeilen dieser Woche, alles Themen, die damit zu tun haben, was wir jetzt be-raten, nämlich den Entwurf eines Gesetzes zur Stärkung der Gesundheitsförderung und der Prä-vention, kurz: den Entwurf eines Präventionsge-setzes. Ich bin froh, dass wir nach einer Reihe von Anläufen in der Vergangenheit jetzt darüber reden. Deshalb stehen wir jetzt an der Wegmarke, um ein solches Gesetz gemeinsam zu erarbeiten und auf den Weg zu bringen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD)</stage>
-          <p>Liebe Kolleginnen, liebe Kollegen, in einer Ge-sellschaft des längeren Lebens, die zugleich durch einen Wandel der Lebensstile und der Ar-beitswelt gekennzeichnet ist, sind gezielte Ge-sundheitsförderung und Prävention von entschei-dender Bedeutung. Sie tragen dazu bei, dass Krankheiten erst gar nicht entstehen oder der Krankheitsverlauf positiv beeinflusst werden kann, dass Menschen gesund älter werden und die Le-bensqualität steigt. Wir haben dank guter Lebens- und Arbeitsbedingungen, dank einer sehr guten gesundheitlichen Versorgung in diesem Land und dank des medizinisch-technischen Fortschritts heute gute Chancen, ein höheres Lebensalter zu erreichen als die Generationen vor uns. 81 Jahre ist aktuell die durchschnittliche Lebenserwartung in Deutschland, mit der guten Tendenz: weiter steigend. Jeder von uns wünscht sich auch im hohen Lebensalter gute Gesundheit.  Die erfreuliche Nachricht ist: Wir selbst können dazu beitragen, dass aus der Hoffnung auf ein gesun-des Leben auch Wirklichkeit werden kann.</p>
+          <p>Liebe Kolleginnen, liebe Kollegen, in einer Ge-sellschaft des längeren Lebens, die zugleich durch einen Wandel der Lebensstile und der Ar-beitswelt gekennzeichnet ist, sind gezielte Ge-sundheitsförderung und Prävention von entschei-dender Bedeutung. Sie tragen dazu bei, dass Krankheiten erst gar nicht entstehen oder der Krankheitsverlauf positiv beeinflusst werden kann, dass Menschen gesund älter werden und die Le-bensqualität steigt. Wir haben dank guter Lebens- und Arbeitsbedingungen, dank einer sehr guten gesundheitlichen Versorgung in diesem Land und dank des medizinisch-technischen Fortschritts heute gute Chancen, ein höheres Lebensalter zu erreichen als die Generationen vor uns. 81 Jahre ist aktuell die durchschnittliche Lebenserwartung in Deutschland, mit der guten Tendenz: weiter steigend. Jeder von uns wünscht sich auch im hohen Lebensalter gute Gesundheit. Die erfreuliche Nachricht ist: Wir selbst können dazu beitragen, dass aus der Hoffnung auf ein gesun-des Leben auch Wirklichkeit werden kann.</p>
           <p>Damit bin ich bei den Vorteilen einer umfassen-den Gesundheitsförderung. Drei Punkte möchte ich benennen: Prävention unterstützt die Gesund-heit, steigert die Lebensqualität und spart Ge-sundheitskosten. Es ist also eine Win-win-Situation für alle Beteiligten.</p>
           <p>Nun kann man gesundheitsbewusste Lebenssti-le nicht einfach anordnen, wie man vielleicht Alko-holgrenzen oder Geschwindigkeitsbegrenzungen im Straßenverkehr anordnen kann. Wir können aber einen Rahmen schaffen, der es den Men-schen erleichtert, sich dieses Themas anzuneh-men, der sie motiviert, etwas für die eigene Ge-sundheit zu tun. Genau diesen Weg schlagen wir mit dem Präventionsgesetz ein.</p>
           <p>Prävention ist keine Frage des Alters. Sie be-ginnt im wahrsten Sinne des Wortes in den Kin-derschuhen und sollte auf dem ganzen Lebensweg ernst genommen und als Anliegen betrachtet wer-den. Ich erwähnte bereits eingangs den aktuellen Masernausbruch. Von Windpocken und Grippe-welle will ich in diesem Zusammenhang gar nicht sprechen. Allein dieser Masernausbruch muss für uns ein Aufbruchsignal sein, die Impfquoten in Deutschland wieder zu erhöhen, meine Damen, meine Herren.</p>
@@ -647,12 +647,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Als nächste Rednerin hat Sabine Zimmermann von der Fraktion Die Linke das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Sabine Zimmermann" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Sabine Zimmermann">
+        <sp who="Sabine Zimmermann (Zwickau)" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Sabine Zimmermann (Zwickau)" party="DIE LINKE" name="Sabine Zimmermann">
           <speaker>Sabine Zimmermann (Zwickau) (DIE LINKE):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kollegin-nen und Kollegen! Jeder von Ihnen hier möchte, denke ich, gesund durchs Leben kommen. Für uns alle mag das vielleicht weniger ein Problem sein; denn wir haben Einfluss auf unsere Lebens-umstände und sind gesundheitlich gut versorgt.</p>
           <p>Aber das gilt für viele Menschen in diesem Land nicht. Dabei denke ich an meinen Kollegen aus Zwickau, der Leiharbeitnehmer ist, drei Kinder hat, alleinerziehend ist und drei Jobs braucht, um überleben zu können: Er arbeitet erstens im Schichtsystem bei einem Automobilzulieferer, dort fährt er Stapler. Zweitens hat er einen Minijob in einem Einkaufszentrum, und drittens arbeitet er am Wochenende zusätzlich bei einem Fußballklub im Securitybereich mit. Er hat deutlich schlechtere Lebensbedingungen als alle hier in diesem Haus. Menschen, die wenig verdienen, haben in jedem Lebensalter – von der Kindheit bis zum Tod – ein doppelt so hohes Risiko, ernsthaft krank oder zum Pflegefall zu werden oder vorzeitig zu sterben, wie die Menschen, die gut verdienen.</p>
@@ -684,32 +684,32 @@
           <stage type="interjection">(Dr. Karl Lauterbach [SPD]: Lächerlich!)</stage>
           <p>Es gibt eine Lösung, und die heißt: Die Schere zwischen Arm und Reich muss endlich geschlos-sen werden.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
-          <p>Die Umverteilung von oben nach unten – Herr Lauterbach, das sagen Sie auch – muss ganz oben auf der Tagesordnung stehen.  Nur so können wir etwas in Deutschland verändern.</p>
+          <p>Die Umverteilung von oben nach unten – Herr Lauterbach, das sagen Sie auch – muss ganz oben auf der Tagesordnung stehen. Nur so können wir etwas in Deutschland verändern.</p>
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der LINKEN – Dr. Karl Lauter-bach [SPD]: Genau! Mindestlohn! – Jens Spahn [CDU/CSU]: Es lebe der Sozialis-mus! – Matthias W. Birkwald [DIE LIN-KE]: Mindestlohn ist ein Anfang, aber nicht die Lösung!)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Als nächste Rednerin hat die Kollegin Helga Kühn-Mengel von der SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU)</stage>
         </sp>
-        <sp who="Helga Kühn-Mengel" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Helga Kühn-Mengel">
+        <sp who="Helga Kühn-Mengel" parliamentary_group="SPD" role="mp" position="NA" who_original="Helga Kühn-Mengel" party="SPD" name="Helga Kühn-Mengel">
           <speaker>Helga Kühn-Mengel (SPD):</speaker>
           <p>Frau Präsidentin! Sehr geehrte Kolleginnen und Kollegen! Liebe Besucherinnen und Besucher! Frau Kollegin Zimmermann, Sie hätten erwähnen müssen, dass die Senkung der Arbeitslosigkeit und der Mindestlohn, der den Status von wenigs-tens 3,7 Millionen Menschen verbessert hat, ganz wesentliche Beiträge zur Gesundheitsförderung und zur Prävention sind,</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU)</stage>
           <p>nicht nur wegen der verbesserten Einnahmesitua-tion der Menschen, sondern auch, weil Arbeit Teilhabe ist. Das ist nämlich auch ein gesund-heitsfördernder Aspekt.</p>
           <p>Mit Blick auf die Gruppen, die Sie angespro-chen haben, ist viel getan worden, nicht nur durch erhebliche Anstrengungen im Bildungsbereich, durch die Verstetigung der Frühen Hilfen und de-ren Ausbau, sondern auch in der Arbeitsmarktpoli-tik; den Mindestlohn habe ich bereits erwähnt.</p>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Frau Kühn-Mengel, lassen Sie eine Zwischen-frage von Frau Zimmermann zu?</p>
         </sp>
-        <sp who="Helga Kühn-Mengel" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Helga Kühn-Mengel">
+        <sp who="Helga Kühn-Mengel" parliamentary_group="SPD" role="mp" position="NA" who_original="Helga Kühn-Mengel" party="SPD" name="Helga Kühn-Mengel">
           <speaker>Helga Kühn-Mengel (SPD):</speaker>
           <p>Bitte, Frau Zimmermann.</p>
           <stage type="interjection">(Jens Spahn [CDU/CSU]: Die hat doch gerade geredet! – Gegenruf des Abg. Matthias W. Birkwald [DIE LINKE]: Da-rum geht es doch nicht! – Weiterer Ge-genruf des Abg. Harald Weinberg [DIE LINKE]: Sie hat trotzdem das parlamenta-rische Recht!)</stage>
         </sp>
-        <sp who="Sabine Zimmermann" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Sabine Zimmermann">
+        <sp who="Sabine Zimmermann (Zwickau)" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Sabine Zimmermann (Zwickau)" party="DIE LINKE" name="Sabine Zimmermann">
           <speaker>Sabine Zimmermann (Zwickau) (DIE LINKE):</speaker>
           <p>Vielen Dank, liebe Kollegin Kühn-Mengel, dass Sie die Frage zulassen. – Sind Sie meiner Mei-nung, dass der Mindestlohn von 8,50 Euro nicht aus der Bedürftigkeit herausführt, dass wir 10,36 Euro bräuchten?</p>
           <stage type="interjection">(Jens Spahn [CDU/CSU]: 12! 12!)</stage>
@@ -719,7 +719,7 @@
           <p>Meine zweite Frage ist: Sind Sie auch meiner Meinung, dass die Arbeit anders verteilt worden ist, dass wir Millionen von Minijobs haben, dass wir Millionen Menschen in Teilzeit haben, dass wir Millionen Menschen im Niedriglohnbereich haben, die nicht von den Arbeitsmarktreformen, die Sie immer so hochhalten, profitieren?</p>
           <stage type="interjection">(Beifall bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Helga Kühn-Mengel" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Helga Kühn-Mengel">
+        <sp who="Helga Kühn-Mengel" parliamentary_group="SPD" role="mp" position="NA" who_original="Helga Kühn-Mengel" party="SPD" name="Helga Kühn-Mengel">
           <speaker>Helga Kühn-Mengel (SPD):</speaker>
           <p>Frau Kollegin, ich bin der Meinung, dass der Mindestlohn ein Einstieg in eine Verbesserung der Lebenssituation von Menschen ist. Ich bin der Meinung, dass knapp 4 Millionen Menschen fast eine Verdoppelung des Einkommens erleben. Ich bin der Meinung, dass wir auf diesem Felde wei-terarbeiten müssen. Aber es hat größere Erfolge gegeben – die man auch benennen muss –, die die Lebenssituation der Menschen deutlich ver-bessern.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU und des BÜNDNIS-SES 90/DIE GRÜNEN)</stage>
@@ -759,11 +759,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als nächster Rednerin erteile ich das Wort der Abgeordneten Kordula Schulz-Asche, Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Kordula Schulz-Asche" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Kordula Schulz-Asche">
+        <sp who="Kordula Schulz-Asche" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Kordula Schulz-Asche" party="GRUENE" name="Kordula Schulz-Asche">
           <speaker>Kordula Schulz-Asche (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Lie-be Bürgerinnen und Bürger! Liebe Frau Kühn-Mengel, ich möchte Ihnen an dieser Stelle bereits sagen, dass Sie für viele der Vorschläge, die Sie hier gerade gemacht haben, auf unsere volle Un-terstützung zählen können.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU und des BÜNDNIS-SES 90/DIE GRÜNEN)</stage>
@@ -803,12 +803,12 @@
           <p>Ich danke Ihnen für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als nächstem Redner erteile ich das Wort dem Abgeordneten Rudolf Henke, CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Rudolf Henke" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Rudolf Henke">
+        <sp who="Rudolf Henke" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Rudolf Henke" party="CDU" name="Rudolf Henke">
           <speaker>Rudolf Henke (CDU/CSU):</speaker>
           <p>Herr Präsident! Verehrte Damen und Herren! Liebe Kolleginnen und Kollegen! Ich glaube, wenn man über Prävention spricht, muss man das nicht mit einer Leichenbittermiene tun</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
@@ -848,19 +848,19 @@
           <p>Ich glaube, darauf hat die Arbeitnehmerschaft in Deutschland lange gewartet. Dass das jetzt end-lich in diesem Umfang in Gang kommt, ist ein großer Schritt nach vorne. Das ist sehr zu begrü-ßen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Herr Abgeordneter, die Kollegin Schulz-Asche hat den Wunsch zu einer Zwischenfrage. Wollen Sie sie zulassen?</p>
         </sp>
-        <sp who="Rudolf Henke" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Rudolf Henke">
+        <sp who="Rudolf Henke" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Rudolf Henke" party="CDU" name="Rudolf Henke">
           <speaker>Rudolf Henke (CDU/CSU):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Kordula Schulz-Asche" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Kordula Schulz-Asche">
+        <sp who="Kordula Schulz-Asche" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Kordula Schulz-Asche" party="GRUENE" name="Kordula Schulz-Asche">
           <speaker>Kordula Schulz-Asche (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Vielen Dank, dass Sie die Zwischenfrage zu-lassen. – Sie haben gerade zu Recht von den po-sitiven Erfahrungen mit dem betrieblichen Ge-sundheitsmanagement gesprochen. Es gibt in großen Unternehmen schon sehr viele gute Bei-spiele. Die Frage ist eher, wie man die 90 Prozent der kleinen und mittleren Unternehmen erreichen kann. Welche Vorstellungen haben Sie, um gera-de die kleinen Unternehmen, zum Beispiel eine Kraftfahrzeugwerkstatt oder einen kleinen Laden, zu erreichen?</p>
         </sp>
-        <sp who="Rudolf Henke" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Rudolf Henke">
+        <sp who="Rudolf Henke" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Rudolf Henke" party="CDU" name="Rudolf Henke">
           <speaker>Rudolf Henke (CDU/CSU):</speaker>
           <p>Ich glaube, dass es klug ist, wenn man die Handwerkskammern und die Industrie- und Han-delskammern daran beteiligt. Dabei geht es bei-spielsweise darum, den Unternehmen deutlich zu machen, dass es schon jetzt Steuervorteile in er-heblicher Höhe gibt. Für jeden Arbeitnehmer kön-nen bis zu 500 Euro pro Jahr eingesetzt werden, ohne als geldwerter Vorteil versteuert werden zu müssen. Wenn wir es schaffen, die betriebliche Gesundheitsförderung, die in den großen Betrie-ben schon stattfindet – sie sind in diesem Bereich sehr weit –, mithilfe der Gewerkschaften, der Un-ternehmensverbände und auch der Politik in ande-re Betriebe zu transportieren, dorthin, wo ebenfalls ein Interesse daran besteht, dass die Fachkräfte, auf die man angewiesen ist, möglichst lange ge-sund bleiben, dann haben wir dort eine exzellente Chance. Die Bedingungen dafür, dass das gelingt, werden durch das Präventionsgesetz erheblich verbessert.</p>
           <p>Das ist nicht der einzige Schritt. Es muss ein Bewusstsein für die verschiedenen Mög-lichkeiten geschaffen werden. Ich glaube, damit habe ich Ihre Frage zutreffend und gut beantwor-tet.</p>
@@ -872,11 +872,11 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als nächster Rednerin erteile ich das Wort der Abgeordneten Birgit Wöllert, Fraktion Die Linke.</p>
         </sp>
-        <sp who="Birgit Wöllert" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Birgit Wöllert">
+        <sp who="Birgit Wöllert" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Birgit Wöllert" party="DIE LINKE" name="Birgit Wöllert">
           <speaker>Birgit Wöllert (DIE LINKE):</speaker>
           <p>Vielen Dank, Herr Präsident. – Verehrte Kolle-ginnen und Kollegen! Liebe Zuschauerinnen und Zuschauer auf der Tribüne! Herr Henke, Sie haben darauf verwiesen, wie lange schon der Anlauf zu diesem Präventionsgesetz währt. Es handelt sich nun um den vierten Anlauf. Ich beginne meine Re-de genauso wie der Minister mit einer Schlagzeile. Nach dem Kabinettsbeschluss im Dezember titelte die Stuttgarter Zeitung: „Nur Gröhe findet seinen Entwurf richtig gut“.</p>
           <stage type="interjection">(Jens Spahn [CDU/CSU]: Gähn!)</stage>
@@ -906,22 +906,22 @@
           <p>Das leistet der Gesetzentwurf in keiner Weise. Deshalb sagen wir: Gesamtgesellschaftliche An-liegen müssen auch gesamtgesellschaftlich finan-ziert werden und nicht nur durch die gesetzliche Krankenversicherung.</p>
           <stage type="interjection">(Beifall bei der LINKEN – Jens Spahn [CDU/CSU]: Wer bezahlt denn die Kita? So was Dämliches habe ich schon lange nicht mehr gehört!)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Frau Kollegin.</p>
         </sp>
-        <sp who="Birgit Wöllert" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Birgit Wöllert">
+        <sp who="Birgit Wöllert" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Birgit Wöllert" party="DIE LINKE" name="Birgit Wöllert">
           <speaker>Birgit Wöllert (DIE LINKE):</speaker>
           <p>Ich komme sofort zum Schluss. – Deshalb schlagen wir einen Fonds vor, in den alle Sozial-versicherungsträger, die Länder und der Bund einzahlen. Von den Gesamtmitteln des Fonds sol-len 75 Prozent von den Kommunen abgerufen werden können. Ihnen sollen keine zusätzlichen Kosten entstehen. So findet Gesundheitsförderung dort statt, wo die Menschen leben und ihre Leben-sumwelt selbst mitgestalten können.</p>
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als nächstem Redner erteile ich das Wort dem Abgeordneten Edgar Franke, SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Edgar Franke" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Edgar Franke">
+        <sp who="Edgar Franke" parliamentary_group="SPD" role="mp" position="NA" who_original="Edgar Franke" party="SPD" name="Edgar Franke">
           <speaker>Dr. Edgar Franke (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine Damen und Herren! Gesundheitspolitik ist immer auch Gesellschafts-politik. Das wussten Sozialdemokraten, Frau Zimmermann, schon immer.</p>
           <stage type="interjection">(Michael Grosse-Brömer [CDU/CSU]: Ei-nige andere Demokraten auch!)</stage>
@@ -941,7 +941,7 @@
           <p>Erstens. Wir brauchen vor allen Dingen, meine sehr verehrten Damen und Herren, eine zielge-richtete und bessere Zusammenarbeit aller Prä-ventionsakteure. Das ist ganz wichtig. Das sind nicht nur Krankenkassen, Schulen, Bildungsträger und Kommunen. Ich habe früher bei der Berufsge-nossenschaft gearbeitet. Da hatte man eine Dop-pelstruktur, einen staatlichen Arbeitsschutz und einen der Berufsgenossenschaften, die in der Selbstverwaltung organisiert sind. Das sind The-men, die wir wirklich praktisch, handwerklich an-gehen müssen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
           <p>Zweitens. Wir brauchen eine nationale Präven-tionskonferenz, um Ansätze in der Prävention und in der Gesundheitsförderung zu bündeln.</p>
-          <p>Drittens. Wir brauchen Arbeitsschutz und ge-sundheitliche Prävention in den Betrieben – mit den Sozialpartnern.  Auch das ist ein The-ma, das wir uns wirklich im Detail anschauen müssen.</p>
+          <p>Drittens. Wir brauchen Arbeitsschutz und ge-sundheitliche Prävention in den Betrieben – mit den Sozialpartnern. Auch das ist ein The-ma, das wir uns wirklich im Detail anschauen müssen.</p>
           <stage type="interjection">(Maria Klein-Schmeink [BÜNDNIS 90/DIE GRÜNEN]: Tut ihr aber nicht! Das ist das Problem!)</stage>
           <p>Wir müssen viertens den Zugang zu Präventi-onsangeboten für Personen mit besonderen beruf-lichen und -familiären Belastungen erleichtern. Ich denke an Alleinerziehende, Schichtarbeiter oder pflegende Familienangehörige. Auch das ist ein Thema, wie wir alle wissen. Ich war früher einmal Chef einer kommunalen Krankenpflegestation. Da hatten fast alle, die dort gearbeitet haben, Rückenprobleme. Aber das bedeutet natürlich auch, dass wir, gerade wenn wir Gesundheitspoli-tik machen, so etwas erkennen müssen.</p>
           <p>Wir müssen fünftens Früherkennungsuntersu-chungen für Kinder, Jugendliche und Erwachsene weiterentwickeln.</p>
@@ -953,11 +953,11 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als nächster Rednerin erteile ich das Wort der Abgeordneten Maria Klein-Schmeink, Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Maria Klein-Schmeink" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Maria Klein-Schmeink">
+        <sp who="Maria Klein-Schmeink" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Maria Klein-Schmeink" party="GRUENE" name="Maria Klein-Schmeink">
           <speaker>Maria Klein-Schmeink (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Liebe Kolleginnen! Liebe Kollegen! Sehr geehr-ter Herr Präsident! Ich glaube, an dieser Stelle zu Recht sagen zu können: Mit diesem Gesetzent-wurf dokumentiert der Bundestag, dass er kein Erkenntnisproblem hat, auch kein Bekenntnisprob-lem. Alle führen das Wort einer Stärkung der Ge-sundheitsförderung und der Prävention im Munde. Aber wir müssen uns doch fragen: Werden wir diesem Anspruch, diesem Bekenntnis und diesen Erkenntnissen mit diesem Gesetzentwurf eigent-lich gerecht? Ich sage, wir sagen ganz deutlich: Das genau geschieht an dieser Stelle noch nicht.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
@@ -978,12 +978,12 @@
           <p>Darum müssen Sie dringend umsteuern. Dieser Gesetzentwurf hat noch sehr viel Potenzial. Wenn Sie dahin kommen wollen, dass wir Gesundheits-förderung und Prävention erstmalig wirklich ernst nehmen, dann muss noch viel passieren.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als nächstem Redner erteile ich das Wort dem Abgeordneten Reiner Meier, CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Reiner Meier" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Reiner Meier">
+        <sp who="Reiner Meier" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Reiner Meier" party="CSU" name="Reiner Meier">
           <speaker>Reiner Meier (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Liebe Kolleginnen und Kollegen! „Gleich getan ist viel erspart.“ Dieser Satz bringt auf den Punkt, was Prävention im Gesundheitsbe-reich meint: nicht warten, bis der Körper und die Gesundheit Schaden nehmen, sondern versuchen, es möglichst gar nicht so weit kommen zu lassen.</p>
           <p>Wenn wir heute in erster Lesung den Entwurf des Präventionsgesetzes beraten, dann sollten wir uns Folgendes klarmachen: Weltweit leiden immer mehr Menschen an Zivilisationskrankheiten. Deutschland ist da leider keine Ausnahme. Etwa 350 000 Bundesbürger sterben jedes Jahr an den Folgen von Herz-Kreislauf-Erkrankungen. Das entspricht etwa 40 Prozent aller Todesfälle in Deutschland. Zum Vergleich: Im gesamten letzten Jahr hatten wir bundesweit 3 368 Opfer im Stra-ßenverkehr zu beklagen. Angesichts dieser Fak-ten fragt man sich: Warum tun wir uns so schwer, hier und da weniger zu essen, gesünder zu leben, uns besser zu bewegen, mehr Sport zu betreiben oder die Vorsorgeuntersuchungen nicht zu ver-nachlässigen?</p>
@@ -1009,17 +1009,17 @@
           <p>Drittens. Wenn man nun den Nutzen der emp-fohlenen Impfungen mit den potenziellen Neben-wirkungen vergleicht, überwiegt ganz klar der Nutzen. Moderne Impfstoffe sind allgemein gut verträglich. Zudem erspart jede nicht ausgebro-chene Krankheit den Menschen eine akute Be-handlung mit Medikamenten, die deutlich stärkere Nebenwirkungen haben als die Impfung selbst.</p>
           <p>Wir wissen heute mehr über Infektionskrankhei-ten als je zuvor, und wir haben die Mittel, um ge-fährliche Krankheiten endgültig auszurotten. Liebe Kolleginnen und Kollegen, wir dürfen deshalb nichts unversucht lassen, um die Bevölkerung endgültig von diesen Krankheiten zu befreien. Der vorliegende Gesetzentwurf enthält gute Ansätze zur Verbesserung der Impfquoten. Wir werden im parlamentarischen Verfahren eingehend erörtern und diskutieren, welche Wege wir hier gehen. Lassen Sie mich abschließend klar sagen: Sollten unsere Anstrengungen – – NA</p>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Wenn der Abschluss kurz ist, ja.</p>
         </sp>
-        <sp who="Reiner Meier" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Reiner Meier">
+        <sp who="Reiner Meier" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Reiner Meier" party="CSU" name="Reiner Meier">
           <speaker>Reiner Meier (CDU/CSU):</speaker>
           <p>Ich komme zum Schluss, Herr Präsident. – Sollten alle Anstrengungen, mit Anreizsystemen zum Ziel zu kommen, in der Praxis fruchtlos blei-ben, werden wir in einem zweiten Schritt auch verbindliche Maßnahmen prüfen müssen.</p>
           <p>Meine Damen und Herren, in diesem Sinne wünsche ich uns allen eine konstruktive Beratung zu diesem wichtigen Gesetz. Ich bedanke mich für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Ich habe eine Bitte an alle Redner. Wir haben es jetzt ein paarmal erlebt, dass der zentrale Ge-danke immer nach Ablauf der Redezeit kommt.</p>
           <stage type="interjection">(Heiterkeit bei Abgeordneten der CDU/CSU)</stage>
@@ -1029,7 +1029,7 @@
           <p>Als nächster Rednerin erteile ich das Wort der Abgeordneten Marina Kermer, SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU)</stage>
         </sp>
-        <sp who="Marina Kermer" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Marina Kermer">
+        <sp who="Marina Kermer" parliamentary_group="SPD" role="mp" position="NA" who_original="Marina Kermer" party="SPD" name="Marina Kermer">
           <speaker>Marina Kermer (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Meine Damen und Herren! Präven-tion heißt Vorbeugung, meint aber auch Vorsorge. Ich finde, wir müssen genauso an Fürsorge den-ken, weil Erkrankungen manchmal Abwärtsspira-len in Gang setzen, die nur noch von Außenste-henden zu stoppen sind, weil der oder die Be-troffene sich selbst nicht mehr helfen kann.</p>
           <p>Das trifft vor allem auf psychische Erkrankun-gen zu. Immer häufiger treten sie als Folgen be-ruflicher Belastungen auf. Ja, unsere komplexe Arbeitswelt bietet vielen Arbeitnehmerinnen und Arbeitnehmern Chancen zur Selbstverwirklichung; man kann persönliche Anerkennung und materiel-len Wohlstand gewinnen, wenn man gut aufge-stellt ist. Wenn man nicht so gut aufgestellt ist, weil man gesundheitliche Einschränkungen hat, dann erlebt man die komplexe Arbeitswelt oft als Überforderung und Dauerüberlastung.</p>
@@ -1054,12 +1054,12 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Als nächstem Redner erteile ich dem Abgeord-neten Heiko Schmelzle, CDU/CSU-Fraktion, das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Heiko Schmelzle" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Heiko Schmelzle">
+        <sp who="Heiko Schmelzle" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Heiko Schmelzle" party="CDU" name="Heiko Schmelzle">
           <speaker>Heiko Schmelzle (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Liebe Gäste! Dass die Menschen in Deutschland ein immer höheres Lebensalter errei-chen, liegt sicherlich auch daran, dass unser Ge-sundheitssystem im weltweiten Vergleich ein sehr, sehr gutes ist.</p>
           <p>Das heute eingebrachte Präventionsgesetz ist ein weiterer Baustein der Bundesregierung bei der Umsetzung ihres Versprechens, unser Gesund-heitssystem zukunftsfest zu machen.</p>
@@ -1085,12 +1085,12 @@
           <p>Lassen Sie mich mit Blick auf den Frühlingsan-fang mit einer lyrischen Note schließen. Die Her-ausforderung ist die Knospe des Handelns. Las-sen Sie uns im parlamentarischen Verfahren ge-meinsam daran arbeiten, dass die Knospe zur Blü-te wird und dann Frucht trägt. Denn die Stärkung der Gesundheit beginnt mit der Prävention.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als nächster Rednerin erteile ich das Wort der Abgeordneten Martina Stamm-Fibich, SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU)</stage>
         </sp>
-        <sp who="Martina Stamm-Fibich" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Martina Stamm-Fibich">
+        <sp who="Martina Stamm-Fibich" parliamentary_group="SPD" role="mp" position="NA" who_original="Martina Stamm-Fibich" party="SPD" name="Martina Stamm-Fibich">
           <speaker>Martina Stamm-Fibich (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Herr Minister Gröhe! Liebe Kolleginnen und Kollegen! Sehr ge-ehrte Damen und Herren! Es ist schon viel gesagt worden; das macht es gegen Ende der Debatte immer ein bisschen schwierig. Ich versuche es jetzt mit ein bisschen Handfestem.</p>
           <p>Wie bei der Bildung – das haben wir heute schon oft gehört – hängen auch die Gesundheits-chancen von Kindern und Jugendlichen in Deutschland von ihrer sozialen Herkunft ab. Zu-letzt – auch das wurde heute schon mehrfach er-wähnt – hat dies die KiGGS-Studie des Robert-Koch-Instituts bestätigt. Die KiGGS-Studie kommt zu dem Ergebnis, dass bei Kindern aus sozial be-nachteiligten Familien Risikofaktoren wie Bewe-gungsmangel oder Übergewicht stärker verbreitet sind und dass ein Drittel der Kinder aus diesen Familien von Verhaltensproblemen, Hyperaktivität oder Problemen mit Gleichaltrigen betroffen sind. Kinder aus armen Familien hinken in ihrer Ent-wicklung hinterher. Schon vor dem Schuleintritt sind sie massiv benachteiligt. Das geht aus einer weiteren Studie, die uns diese Woche vorgelegt wurde, einer Studie der Bertelsmann Stiftung, her-vor.</p>
@@ -1111,23 +1111,23 @@
           <stage type="interjection">(Beifall bei Abgeordneten der SPD und der CDU/CSU)</stage>
           <p>Der Gesetzentwurf legt fest, dass die Überprü-fung des Impfstatus und eine Impfberatung zum Bestandteil der Gesundheitsuntersuchung bei Er-wachsenen und bei Kindern und Jugendlichen werden. Der Gesetzentwurf setzt – sehr zu Recht – bei den Kleinsten an. Die Eltern von Kindern, die in eine Kindertagesstätte aufgenommen werden sollen, müssen künftig nachweisen, dass eine ärztliche Impfschutzberatung erfolgt ist. Damit soll eine höhere Beteiligung an den Schutzimpfungen, die die Ständige Impfkommission empfiehlt, er-reicht werden. Wie wichtig Impfungen sind – wir haben auch das schon einige Male gehört –, ha-ben wir beim dramatischen Ausbruch der Masern gemerkt.</p>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Frau Kollegin, wenn Sie auf Sachen hinweisen, die schon mehrfach gesagt worden sind, ist das in Ordnung. Aber wenn die Redezeit überzogen ist, finde ich, könnte man das weglassen; sie ist näm-lich schon überzogen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der LINKEN – Heiterkeit bei Abgeordneten der CDU/CSU, der SPD und des BÜNDNIS-SES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Martina Stamm-Fibich" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Martina Stamm-Fibich">
+        <sp who="Martina Stamm-Fibich" parliamentary_group="SPD" role="mp" position="NA" who_original="Martina Stamm-Fibich" party="SPD" name="Martina Stamm-Fibich">
           <speaker>Martina Stamm-Fibich (SPD):</speaker>
           <p>Ich komme zum Ende. – Mit dem Gesetzentwurf hat der Gesundheitsminister ein erstes Etappen-ziel erreicht; das begrüße und unterstütze ich ausdrücklich. Aber ein Etappenziel ist eben ein Etappenziel. Das übergeordnete Ziel der SPD-Bundestagsfraktion habe ich genannt – ich wie-derhole es zum Schluss –: Wir wollen gleiche Ge-sundheitschancen für alle Kinder. Dieses Ziel ist erst erreicht, wenn uns Studien bessere Ergeb-nisse liefern.</p>
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als letztem Redner in der Aussprache erteile ich das Wort dem Abgeordneten Dietrich Mon-stadt, CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD)</stage>
         </sp>
-        <sp who="Dietrich Monstadt" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Dietrich Monstadt">
+        <sp who="Dietrich Monstadt" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Dietrich Monstadt" party="CDU" name="Dietrich Monstadt">
           <speaker>Dietrich Monstadt (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Sehr geehrte Kol-leginnen und Kollegen! Meine Damen und Herren!</p>
           <p>Gesundheit erflehen die Menschen von den Göttern; dass es aber in ihrer Hand liegt, die-se zu erhalten, daran denken sie nicht.</p>
@@ -1160,15 +1160,15 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD – Maria Klein-Schmeink [BÜNDNIS 90/DIE GRÜNEN]: Das steht da alles nicht drin!)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird Überweisung der Vorlagen auf den Drucksachen 18/4282, 18/4322 und 18/4327 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit ein-verstanden? – Das ist der Fall. Dann ist die Über-weisung so beschlossen.</p>
           <p>Ich rufe den Tagesordnungspunkt 19 auf:</p>
           <p>Erste Beratung des von den Abgeordneten Dr. Harald Terpe, Lisa Paus, Katja Dörner, weiteren Abgeordneten und der Fraktion BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Cannabiskontrollgesetzes (CannKG)</p>
-          <p>Drucksache 18/4204 </p>
+          <p>Drucksache 18/4204</p>
           <p>Überweisungsvorschlag:</p>
-          <p>Ausschuss für Gesundheit (f) </p>
+          <p>Ausschuss für Gesundheit (f)</p>
           <p>Auswärtiger Ausschuss</p>
           <p>Innenausschuss</p>
           <p>Ausschuss für Recht und Verbraucherschutz</p>
@@ -1184,7 +1184,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="3" what="debate" desc="Erste Beratung des von den Abgeordneten Dr. Harald Terpe, Lisa Paus, Katja Dörne...">
-        <sp who="Katja Dörner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Katja Dörner">
+        <sp who="Katja Dörner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Katja Dörner" party="GRUENE" name="Katja Dörner">
           <speaker>Katja Dörner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kollegin-nen! Liebe Kollegen! Die Verbotspolitik beim The-ma Cannabis der letzten Jahre und Jahrzehnte ist gescheitert. Wir müssen bei diesem Thema end-lich neue Wege gehen, und wir Grüne wollen das tun.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
@@ -1222,12 +1222,12 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und der LINKEN)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als nächster Rednerin erteile ich das Wort der Abgeordneten Marlene Mortler, CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Marlene Mortler" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Marlene Mortler">
+        <sp who="Marlene Mortler" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Marlene Mortler" party="CSU" name="Marlene Mortler">
           <speaker>Marlene Mortler (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Meine sehr geehrten Damen und Herren! Wir reden heute über einen Gesetzent-wurf, der in erster Linie das Strafrecht im Blick hat. Wir reden aber auch über eine Lobby, die ich als die brutalste Lobby in meiner bisherigen politi-schen Arbeit erlebt habe.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU – Widerspruch bei der LINKEN)</stage>
@@ -1249,11 +1249,11 @@
           <stage type="interjection">(Matthias W. Birkwald [DIE LINKE]: Des-halb erst ab 18!)</stage>
           <p>belastete Atemwege, Entwicklungsverzö-gerungen sowie psychische und körperliche Ab-hängigkeit. Das Auslösen bzw. das Verschlim-mern von psychischen Erkrankungen gehört zu den Risiken. Die Denk- und Merkfähigkeit leiden. Dauerhafte Schäden des Gehirns sind nicht aus-zuschließen, auch nicht nach einer Abstinenz.</p>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Frau Kollegin, gestatten Sie eine Zwischenfrage eines Kollegen von Bündnis 90/Die Grünen?</p>
         </sp>
-        <sp who="Marlene Mortler" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Marlene Mortler">
+        <sp who="Marlene Mortler" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Marlene Mortler" party="CSU" name="Marlene Mortler">
           <speaker>Marlene Mortler (CDU/CSU):</speaker>
           <p>Das können wir gerne zum Schluss machen.</p>
           <stage type="interjection">(Katja Dörner [BÜNDNIS 90/DIE GRÜ-NEN]: Keine Argumente! – Weitere Zuru-fe vom BÜNDNIS 90/DIE GRÜNEN): Oh!)</stage>
@@ -1264,11 +1264,11 @@
           <p>Unsere Drogenpolitik in Deutschland fußt auf vier Säulen: erstens Prävention, zweitens Bera-tung und Hilfe, drittens Schadensminimierung bzw. -reduzierung und viertens Strafverfolgung. Wir dürfen unser eigenes Suchthilfesystem und unsere Drogenpolitik im eigenen Land nicht schlechtreden. Aber wir müssen selbstverständ-lich immer wieder nachbessern. Auch ich hinter-frage immer wieder mein eigenes Handeln und Denken: Gehe ich noch in die richtige Richtung? Ich befinde mich laufend im Gespräch mit Sucht-hilfeeinrichtungen und der Polizei und frage, ob ei-ne Lockerung in Richtung Legalisierung geboten erscheint. Ich habe noch keine Stimme gefunden, die Ja gesagt hat.</p>
           <stage type="interjection">(Lachen bei der LINKEN – Widerspruch beim BÜNDNIS 90/DIE GRÜNEN – Frank Tempel [DIE LINKE]: Alle drei Polizeige-werkschaften haben sich geäußert!)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Frau Kollegin, der Abgeordnete Ströbele wünscht, eine Zwischenfrage zu stellen. Mögen Sie sie zulassen?</p>
         </sp>
-        <sp who="Marlene Mortler" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Marlene Mortler">
+        <sp who="Marlene Mortler" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Marlene Mortler" party="CSU" name="Marlene Mortler">
           <speaker>Marlene Mortler (CDU/CSU):</speaker>
           <p>International genießt unsere ausgewogene Drogenpolitik eine hohe Anerkennung. Zuletzt konnte ich das bei der Tagung der CND, der Commission on Narcotic Drugs, der internationa-len Suchtstoffkommission, in Wien erleben.</p>
           <stage type="interjection">(Zuruf von der LINKEN: Welchen Rotwein gab es da?)</stage>
@@ -1292,11 +1292,11 @@
           <p>Ich danke dem Präsidenten für die Geduld.</p>
           <stage type="interjection">(Heiterkeit und Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Zu einer Kurzintervention erteile ich das Wort dem Abgeordneten Dr. Harald Terpe, Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Dr. Harald Terpe" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Harald Terpe">
+        <sp who="Harald Terpe" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Harald Terpe" party="GRUENE" name="Harald Terpe">
           <speaker>Dr. Harald Terpe (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Vielen Dank, Herr Präsident. – Frau Kollegin Mortler, der Grund, warum die Patienten in Deutschland heute noch damit rechnen müssen, dass Cannabis als Medizin so schlecht verfügbar ist, ist das Verhalten der CDU/CSU-Fraktion. Die Schuld liegt bei ihr, weil sie die Legalisierung von Cannabis seit Jahren und Jahrzehnten behindert hat, und zwar mit genau den gleichen Argumen-ten, die Kollege Spahn jetzt auch wieder bemüht, um unseren Entwurf eines Cannabiskontrollgeset-zes in Misskredit zu bringen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
@@ -1323,19 +1323,19 @@
           <p>Diese Vorwürfe gegenüber einem seriösen Ge-setzentwurf kann ich so nicht stehen lassen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Frau Mortler, mögen Sie darauf antworten?</p>
         </sp>
-        <sp who="Marlene Mortler" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Marlene Mortler">
+        <sp who="Marlene Mortler" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Marlene Mortler" party="CSU" name="Marlene Mortler">
           <speaker>Marlene Mortler (CDU/CSU):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Bitte.</p>
         </sp>
-        <sp who="Marlene Mortler" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Marlene Mortler">
+        <sp who="Marlene Mortler" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Marlene Mortler" party="CSU" name="Marlene Mortler">
           <speaker>Marlene Mortler (CDU/CSU):</speaker>
           <p>Herr Präsident! Herr Kollege Terpe, man merkt, dass Ihnen das Herz voll ist; mir auch.</p>
           <p>Die symbolischen Nüsse, die ich hier überreicht habe, sind wirklich für die geistige Gesundheit, um das noch einmal klarzustellen.</p>
@@ -1354,12 +1354,12 @@
           <p>Die Überschrift lautet „Im Rausch der Illusion“. – Dem ist nichts hinzuzufügen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU – Dieter Jane-cek [BÜNDNIS 90/DIE GRÜNEN]: Das spricht doch für den Gesetzentwurf!)</stage>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Vizepräsident Peter Hintze:</speaker>
           <p>Als nächstem Redner erteile ich das Wort dem Abgeordneten Frank Tempel, Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Frank Tempel" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Frank Tempel">
+        <sp who="Frank Tempel" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Frank Tempel" party="DIE LINKE" name="Frank Tempel">
           <speaker>Frank Tempel (DIE LINKE):</speaker>
           <p>Ich habe übrigens keine Angst vor Zwischen-fragen. – Sehr geehrter Herr Präsident! Sehr ge-ehrte Damen und Herren! Besitz und Erwerb von Cannabisprodukten sind in Deutschland strafbar. Auch der Anbau ist strafbar. Das ist die konkrete aktuelle Rechtslage in Deutschland.</p>
           <stage type="interjection">(Dietrich Monstadt [CDU/CSU]: Richtig so!)</stage>
@@ -1369,7 +1369,7 @@
           <stage type="interjection">(Beifall bei der LINKEN und dem BÜND-NIS 90/DIE GRÜNEN)</stage>
           <p>Sie haben von vier Säulen der Drogenpolitik gesprochen. 86 Prozent der Mittel entfallen allein auf die Säule der Repression. Wer das damit be-gründet, dass der Schutz von Kindern und Ju-gendlichen beabsichtigt ist, dem muss ich sagen: Der Schwarzmarkt ist so ziemlich der schlechtes-te Jugendschutz.</p>
           <stage type="interjection">(Beifall bei der LINKEN und dem BÜND-NIS 90/DIE GRÜNEN)</stage>
-          <p>Die Strafbarkeit gilt aber auch für 40-, 50- und 60-Jährige. Sie gilt im Übrigen auch völlig unab-hängig davon, ob der Cannabiskonsument tat-sächlich einen gesundheitsgefährdenden Umgang damit pflegt oder ob er ein Gelegenheitskonsu-ment ist, der die festgestellte Menge lediglich da-zu hat, um eine Weile damit auszukommen. Auch er wird kriminalisiert. Hier wird ein Verhalten be-straft, das bei unsachgemäßem Umgang mög-licherweise zu einer Selbstschädigung führt.  Das ist einmalig im deutschen Strafrecht.</p>
+          <p>Die Strafbarkeit gilt aber auch für 40-, 50- und 60-Jährige. Sie gilt im Übrigen auch völlig unab-hängig davon, ob der Cannabiskonsument tat-sächlich einen gesundheitsgefährdenden Umgang damit pflegt oder ob er ein Gelegenheitskonsu-ment ist, der die festgestellte Menge lediglich da-zu hat, um eine Weile damit auszukommen. Auch er wird kriminalisiert. Hier wird ein Verhalten be-straft, das bei unsachgemäßem Umgang mög-licherweise zu einer Selbstschädigung führt. Das ist einmalig im deutschen Strafrecht.</p>
           <p>Ja, der missbräuchliche Konsum – das wird nicht ignoriert; auch nicht im Antrag der Grünen – ist riskant, ist gefährlich, und das besonders, wenn im sehr frühen Alter damit begonnen wird. Deswegen muss man natürlich klare Jugend-schutzregeln schaffen. Während wir aber hier dar-über diskutieren, wie wir das machen können, schaffen wir es beim Alkohol noch nicht einmal, über konkrete Werbeverbote zu reden.</p>
           <stage type="interjection">(Beifall bei der LINKEN und dem BÜND-NIS 90/DIE GRÜNEN)</stage>
           <p>Sie, liebe Kollegen von der Union, lehnen die Legalisierung von Cannabis ab, damit nicht, wie man ja hört, neben Tabak und Alkohol eine weitere gefährliche Droge auf den Markt kommt. Ich weiß nicht, in welcher Welt Sie leben. Wir haben circa 2,5 bis 4 Millionen Cannabiskonsumenten in Deutschland. Diese Droge ist da, und der Versuch der Durchsetzung des Verbots kostet eben sehr viel Geld, das an anderen Stellen für Prävention fehlt.</p>
@@ -1387,12 +1387,12 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der LINKEN und dem BÜND-NIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Johannes Singhammer (CDU/CSU):</speaker>
           <p>Für die SPD hat jetzt der Kollege Burkhard Bli-enert das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU)</stage>
         </sp>
-        <sp who="Burkhard Blienert" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Burkhard Blienert">
+        <sp who="Burkhard Blienert" parliamentary_group="SPD" role="mp" position="NA" who_original="Burkhard Blienert" party="SPD" name="Burkhard Blienert">
           <speaker>Burkhard Blienert (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine Damen und Herren! Liebe Kolleginnen und Kollegen! Die heutige Tagesordnung will es so, dass wir direkt im Anschluss an die Debatte um ein Präventions-gesetz, in dem es um Vorsorge und Krankheits-vermeidung geht, über eine Droge diskutieren. Das passt gut zusammen. Bezogen auf den Be-reich Drogen und Sucht stellt die WHO ja fest, dass 40 Prozent aller Erkrankungen und frühzeiti-ger Todesfälle auf insgesamt drei Faktoren zu-rückzuführen sind: Rauchen, Alkohol und unter Al-koholeinfluss verursachte Verkehrsunfälle. Das macht nur allzu deutlich, wie wichtig ein lebens-weltbezogener Ansatz einer erfolgreichen Präven-tion ist.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU und des BÜNDNIS-SES 90/DIE GRÜNEN)</stage>
@@ -1418,15 +1418,15 @@
           <p>Aber die Inhalte und Regelungen müssen zweck-dienlich sein; sie dürfen nicht ideologisch sein. Zweckdienlich heißt für mich: Nicht der Genuss eines Suchtmittels hat Vorrang, sondern die Prä-vention und ein sicherer Konsum.</p>
           <p>Unabhängig vom vorliegenden Gesetzentwurf muss daher sichergestellt sein: Sollte sich eine regulierte Freigabe von Cannabis als sinnhaft her-ausstellen, so darf dies kein Einfallstor im Um-gang mit anderen Drogen werden. Wir dürfen nicht in eine Öffnungsschiene geraten, die wir nicht beherrschen können. Deshalb gilt: Aufgabe unserer Gesundheitspolitik muss weiterhin die Abwehr und die Vorbeugung von Suchterkrankung bleiben; es darf nicht um die grundsätzliche Frei-gabe von Suchtstoffen unter dem Deckmantel des „Rechts auf Selbstschädigung“ gehen.</p>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Herr Kollege Blienert, gestatten Sie eine Zwi-schenfrage des Kollegen Birkwald?</p>
         </sp>
-        <sp who="Burkhard Blienert" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Burkhard Blienert">
+        <sp who="Burkhard Blienert" parliamentary_group="SPD" role="mp" position="NA" who_original="Burkhard Blienert" party="SPD" name="Burkhard Blienert">
           <speaker>Burkhard Blienert (SPD):</speaker>
           <p>Ja. Bitte.</p>
         </sp>
-        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Matthias Birkwald">
+        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Matthias W. Birkwald" party="DIE LINKE" name="Matthias W. Birkwald">
           <speaker>Matthias W. Birkwald (DIE LINKE):</speaker>
           <p>Vielen Dank, Herr Präsident! Vielen Dank, Herr Kollege Blienert, dass Sie die Zwischenfrage zu-lassen. – Zunächst: Ich bin in dem Thema dieser Debatte emotional engagiert, weil ich vor 40 Jah-ren meinen ersten Artikel dazu veröffentlicht habe, damals in der Schülerzeitung mit dem schönen Namen Pegel; er trug den Titel: „Legalize it“. Die Legalisierung von Haschisch und Marihuana ist also ein Thema, das mir persönlich schon lange am Herzen liegt; denn es gibt keinen Grund, diese anders zu behandeln als Alkohol.</p>
           <p>Aber nun zu meiner konkreten Frage. Ich habe in Ihrer Rede nicht so richtig erkennen können, dass Sie dagegen sind, Haschisch und Marihuana zu legalisieren. Ich habe zumindest keine Argu-mente gehört. Sie haben sehr sachlich abgewo-gen. So frage ich Sie: Sind Sie gegen den Ge-setzentwurf der Grünen, oder sind Sie dafür?</p>
@@ -1436,7 +1436,7 @@
           <p>Machen Sie uns doch alle glücklich, und sagen Sie an dieser Stelle, dass die SPD auch einmal einem vernünftigen Gesetzentwurf der Opposition zustimmen kann.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Burkhard Blienert" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Burkhard Blienert">
+        <sp who="Burkhard Blienert" parliamentary_group="SPD" role="mp" position="NA" who_original="Burkhard Blienert" party="SPD" name="Burkhard Blienert">
           <speaker>Burkhard Blienert (SPD):</speaker>
           <p>Sehr geehrter Herr Kollege, ich freue mich zu-nächst sehr über Ihr Zutrauen, dass die SPD das Glück tatsächlich bringen kann.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
@@ -1460,12 +1460,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeord-neten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Für die CDU/CSU spricht jetzt der Kollege Ru-dolf Henke.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Rudolf Henke" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Rudolf Henke">
+        <sp who="Rudolf Henke" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Rudolf Henke" party="CDU" name="Rudolf Henke">
           <speaker>Rudolf Henke (CDU/CSU):</speaker>
           <p>Herr Präsident! Verehrte Damen und Herren! Liebe Kolleginnen und Kollegen! Ich will erst ein-mal sagen: Ich glaube, dass ein solcher Antrag in den Deutschen Bundestag gehört, wenn – wie der Deutsche Hanfverband über Emnid hat ermitteln lassen – 19 Prozent Zustimmung dafür vorhanden ist – die anderen stimmen nicht zu –, einen kon-trollierten Zugang zu einem nichtmedizinischen Cannabisnutzen zu ermöglichen.</p>
           <p>Der Ort der Debatte ist also in Ord-nung.</p>
@@ -1489,41 +1489,41 @@
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
           <p>Insofern geht es hier eigentlich um die Frage: Wie bekommen wir Generalprävention möglichst gut hin?</p>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Herr Kollege Henke, gestatten Sie zwei Zwi-schenfragen? Der Kollege Dr. Terpe und der Kol-lege Ströbele möchten diese stellen.</p>
         </sp>
-        <sp who="Rudolf Henke" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Rudolf Henke">
+        <sp who="Rudolf Henke" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Rudolf Henke" party="CDU" name="Rudolf Henke">
           <speaker>Rudolf Henke (CDU/CSU):</speaker>
           <p>Bitte.</p>
         </sp>
-        <sp who="Dr. Harald Terpe" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Harald Terpe">
+        <sp who="Harald Terpe" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Harald Terpe" party="GRUENE" name="Harald Terpe">
           <speaker>Dr. Harald Terpe (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Vielen Dank, Herr Präsident. – Herr Kollege Henke, lieber Rudolf, ich weiß nicht, ob die Rede nach dem Satz, der jetzt kam, eine ganz andere Richtung nimmt. Ich möchte aber fragen, wo du unserem Gesetzentwurf entnommen hast, dass wir die glückseligmachende Bedeutung von Can-nabis in den Vordergrund stellen. Ich weiß nicht, woher du das nimmst.</p>
           <stage type="interjection">(Matthias W. Birkwald [DIE LINKE]: Das war auch eine Fehlinterpretation!)</stage>
         </sp>
-        <sp who="Rudolf Henke" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Rudolf Henke">
+        <sp who="Rudolf Henke" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Rudolf Henke" party="CDU" name="Rudolf Henke">
           <speaker>Rudolf Henke (CDU/CSU):</speaker>
           <p>Nein.</p>
         </sp>
-        <sp who="Dr. Harald Terpe" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Harald Terpe">
+        <sp who="Harald Terpe" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Harald Terpe" party="GRUENE" name="Harald Terpe">
           <speaker>Dr. Harald Terpe (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Genau das Gegenteil ist der Fall.</p>
           <p>Ich hoffe, dass die folgenden Ausführungen zeigen werden, dass der repressive Ansatz an den Problemen, die wir natürlich in der Gesellschaft mit Cannabis haben, überhaupt nichts geändert hat, sondern sie – im Gegenteil – sogar befördert hat.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Rudolf Henke" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Rudolf Henke">
+        <sp who="Rudolf Henke" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Rudolf Henke" party="CDU" name="Rudolf Henke">
           <speaker>Rudolf Henke (CDU/CSU):</speaker>
           <p>Diese Einschätzung teile ich nicht. Meine Über-zeugung ist, dass der repressive Ansatz, den wir verfolgen – auch das, was Sie, Herr Tempel, und Ihre Kollegen als Polizeibeamte in Thüringen ge-wissermaßen als fruchtlose Arbeit empfunden ha-ben –, nicht fruchtlos ist, sondern zur generalprä-ventiven Wirkung beiträgt, die dazu führt, dass laut der erwähnten Befragung eben nur 19 Prozent dafür sind, einen kontrollierten Zugang zu einem nichtmedizinischen Cannabiskonsum zu ermögli-chen.</p>
           <p>Ich glaube, wir müssen daran arbeiten, einen gesellschaftlichen Konsens aufrechtzuerhalten, dass auch Cannabis zu den Stoffen gehört, die man nicht nutzt, genauso wie ich einen solchen Konsens für das Nikotin will, und ich will ihn auch gegen übermäßigen Alkoholkonsum. Ich bin gern bereit, darüber zu diskutieren, auch mit jedem aus jeder grünen Fraktion in Deutschland: Was kön-nen wir zusätzlich tun, um den missbräuchlichen Alkoholkonsum einzuschränken? Und was können wir tun, um den Tabakkonsum noch mehr zurück-zudrängen? Aber das kann ich doch nicht mit Menschen tun, die gleichzeitig propagieren, dass man jetzt mit einem Kontrollgesetz den Leuten den Eindruck verschafft, als gäbe es einen quasi risi-kofreien Konsum von Cannabis. Das ist das Prob-lem.</p>
           <p>Was die Frage mit der Glückseligkeit betrifft, also ob die bei euch im Antrag steht: Es stimmt, Harald, sie steht da nicht. Sie stand aber bei der Frage im Raum, die der Kollege von der Linken gestellt hat.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Nun hat der Kollege Ströbele die Möglichkeit, seine Zwischenfrage zu stellen.</p>
         </sp>
-        <sp who="Hans-Christian Ströbele" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Hans-Christian Ströbele">
+        <sp who="Hans-Christian Ströbele" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Hans-Christian Ströbele" party="GRUENE" name="Hans-Christian Ströbele">
           <speaker>Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Vielen Dank, Herr Kollege, dass Sie die Frage zulassen. – Sind Sie mit mir als Nicht-User der Meinung,</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Hört! Hört!)</stage>
@@ -1536,7 +1536,7 @@
           <p>Deshalb bitte ich Sie: Schließen Sie sich mir an. Setzen Sie sich für ein Werbeverbot für Alko-hol ein. Setzen Sie sich dafür ein – das ist ein dringendes Gebot –, dass vom Konsum von Can-nabis, Alkohol und Zigaretten Abstand genommen wird. Setzen Sie sich aber auch für eine Gleichbe-handlung der Drogen ein und dafür, dass man Un-terschiede nur anhand des Grades der Gefährlich-keit machen darf.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Rudolf Henke" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Rudolf Henke">
+        <sp who="Rudolf Henke" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Rudolf Henke" party="CDU" name="Rudolf Henke">
           <speaker>Rudolf Henke (CDU/CSU):</speaker>
           <p>Vielen Dank, Herr Ströbele, für diese Frage. – Nach meiner Einschätzung und ärztlichen Kennt-nis möchte ich zunächst einmal sagen: In der Tat gibt es in Deutschland jährlich 40 000 Alkoholtote und 100 000 Nikotin- bzw. Tabaktote. Deshalb ha-ben wir allen Grund dazu, die Bemühungen, die wir in Gang gebracht haben, mit dem Entwurf ei-nes Präventionsgesetzes so erfolgreich wie mög-lich voranzutreiben.</p>
           <p>Was nun die Behandlung auf gleicher Ebene und die genannte Konstruktion von Gerechtigkeit betrifft, so finde ich, dass dies einfach der histori-schen Ausgangslage nicht gerecht wird, denn die historische Situation ist so: Tabak, im Rückgang befindlich, hat eine hohe gesellschaftliche Akzep-tanz.</p>
@@ -1556,23 +1556,23 @@
           <p>Ich halte also fest: Aus meiner Sicht brauchen wir uns nicht für die generalpräventive Wirkung zu schämen, die durch den repressiven Umgang mit Cannabisbesitz, -anbau und -handel ausgelöst wird. Wir als Parlament haben allen Grund, Herr Tempel, Ihnen und Ihren Kollegen, die aufseiten der Polizei an der Aufrechterhaltung dieser Gene-ralprävention mitwirken, an dieser Stelle Danke zu sagen. Das ist keine vergebliche Arbeit.</p>
           <p>Wir haben allen Grund dazu, neben dieser re-pressiven Arbeit eine präventive Arbeit zu leisten, die die Auseinandersetzung über die psychischen Gefahren, die psychischen Defekte, die Abhän-gigkeitspotenziale und auch die körperlichen Schäden, die ausgelöst werden können, in den Mittelpunkt nimmt.</p>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Kollege Henke, gestatten Sie wenige Sekunden vor Ablauf Ihrer Redezeit noch eine Zwischenfrage des Kollegen Tempel?</p>
         </sp>
-        <sp who="Rudolf Henke" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Rudolf Henke">
+        <sp who="Rudolf Henke" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Rudolf Henke" party="CDU" name="Rudolf Henke">
           <speaker>Rudolf Henke (CDU/CSU):</speaker>
           <p>Bitte. Ja.</p>
         </sp>
-        <sp who="Frank Tempel" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Frank Tempel">
+        <sp who="Frank Tempel" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Frank Tempel" party="DIE LINKE" name="Frank Tempel">
           <speaker>Frank Tempel (DIE LINKE):</speaker>
           <p>Danke schön, dass Sie meine Frage noch zu-lassen. – Sie haben mehrfach auf eine general-präventive Wirkung des Verbots verwiesen. Ich würde gerne wissen, woher Sie die Annahme ha-ben, dass das Verbot eine generalpräventive Wir-kung hat. Ich verweise auf die Zahlen der Europä-ischen Beobachtungsstelle für Drogen und Dro-gensucht in Lissabon – das sind Zahlen von 2011 –: Die Lebenszeitprävalenz von Cannabiskonsum ist in Holland fast auf das Zehntel genau so hoch wie in Deutschland. In Holland wird aber der Can-nabiserwerb in Coffeeshops toleriert; er ist nicht legal, wird aber toleriert. Dort droht keine Strafan-zeige. In keinem Land, das von dem Cannabisver-bot abgerückt ist, ist die Zahl der Konsumenten gestiegen. Das beobachten wir langfristig in Por-tugal, das beobachten wir kurzfristig in amerikani-schen Bundesstaaten, selbst in der Schweiz und in anderen Ländern. Überall dort, wo man das Mit-tel der Strafverfolgung abmildert, wo die Gefahr einer Strafanzeige abnimmt, steigt die Zahl der Konsumenten nicht an.</p>
-          <p>Sie reden hier aber trotzdem von einer general-präventiven Wirkung. Sie reden auch von einem Signal, das von einer Legalisierung ausgehen würde. Sie wissen aber schon, dass ein Verbot immer ein Eingriff in Grundrechte der Bürger ist, manchmal legitim, manchmal nicht legitim. Auf al-le Fälle gibt es dafür einen verfassungsmäßigen Grundsatz, nämlich den der Verhältnismäßigkeit. Es geht also nicht darum, dass von der Abschaf-fung eines Verbotes ein Signal ausgehen könnte. Vielmehr geht es darum, dass ein Verbot funktio-nieren muss: geeignet, erforderlich und angemes-sen. </p>
-          <p>Die Hälfte aller Strafrechtsprofessoren – über 120 in Deutschland – hat festgestellt, dass genau diese Verhältnismäßigkeit in allen drei Punkten – geeignet, erforderlich, angemessen – nicht ge-währleistet ist. Deshalb haben sie sich mit einer Resolution an den Deutschen Bundestag ge-wandt.  Übrigens, nur sieben Straf-rechtsprofessoren haben deutlich geäußert, dass sie sich dieser Resolution nicht anschließen wol-len; die anderen haben sich einfach nicht beteiligt. Aber mehr als die Hälfte aller Strafrechtsprofesso-ren in Deutschland hat aktiv gesagt, dass die ver-fassungsgemäße Verhältnismäßigkeit dieses Ver-bots nicht gegeben ist; es ist weder geeignet noch erforderlich oder angemessen.</p>
+          <p>Sie reden hier aber trotzdem von einer general-präventiven Wirkung. Sie reden auch von einem Signal, das von einer Legalisierung ausgehen würde. Sie wissen aber schon, dass ein Verbot immer ein Eingriff in Grundrechte der Bürger ist, manchmal legitim, manchmal nicht legitim. Auf al-le Fälle gibt es dafür einen verfassungsmäßigen Grundsatz, nämlich den der Verhältnismäßigkeit. Es geht also nicht darum, dass von der Abschaf-fung eines Verbotes ein Signal ausgehen könnte. Vielmehr geht es darum, dass ein Verbot funktio-nieren muss: geeignet, erforderlich und angemes-sen.</p>
+          <p>Die Hälfte aller Strafrechtsprofessoren – über 120 in Deutschland – hat festgestellt, dass genau diese Verhältnismäßigkeit in allen drei Punkten – geeignet, erforderlich, angemessen – nicht ge-währleistet ist. Deshalb haben sie sich mit einer Resolution an den Deutschen Bundestag ge-wandt. Übrigens, nur sieben Straf-rechtsprofessoren haben deutlich geäußert, dass sie sich dieser Resolution nicht anschließen wol-len; die anderen haben sich einfach nicht beteiligt. Aber mehr als die Hälfte aller Strafrechtsprofesso-ren in Deutschland hat aktiv gesagt, dass die ver-fassungsgemäße Verhältnismäßigkeit dieses Ver-bots nicht gegeben ist; es ist weder geeignet noch erforderlich oder angemessen.</p>
           <p>Sie reden trotzdem von einer generalpräven-tiven Wirkung. Haben Sie dazu entsprechende Zahlen? Wie ist das belegt? Sagen Sie das hier einfach aus Ihrem Bauchgefühl heraus, oder gibt es da belegbare Zahlen? Diese würde ich mir na-türlich ganz gerne ansehen.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Rudolf Henke" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Rudolf Henke">
+        <sp who="Rudolf Henke" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Rudolf Henke" party="CDU" name="Rudolf Henke">
           <speaker>Rudolf Henke (CDU/CSU):</speaker>
           <p>Vielen Dank für die Frage. – Zunächst einmal, Herr Kollege, gibt es keinen Zweifel daran, dass die Akzeptanz von Nikotin und von Alkohol – beide sind erlaubt – natürlich viel verbreiteter ist als die von Cannabis.</p>
           <stage type="interjection">(Frank Tempel [DIE LINKE]: Es geht hier um Cannabis!)</stage>
@@ -1583,12 +1583,12 @@
           <p>Ich bedanke mich sehr für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Abschließende Rednerin zu diesem Tagesord-nungspunkt ist die Kollegin Bettina Müller, SPD.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Bettina Müller" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Bettina Müller">
+        <sp who="Bettina Müller" parliamentary_group="SPD" role="mp" position="NA" who_original="Bettina Müller" party="SPD" name="Bettina Müller">
           <speaker>Bettina Müller (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! Über den Umgang mit Drogenhandel und Drogenkonsum wird schon seit Jahrzehnten sehr ideologisch und auch sehr emotional diskutiert. Inzwischen sind diese Debatten schon an vielen Punkten von den gesellschaftlichen Realitäten überholt worden, insbesondere was den Can-nabiskonsum anbelangt. Entwicklungen wie die Freigabe in Teilen der USA, die Situation in den li-beralen Niederlanden, aktuelle Pläne zur Eröff-nung von Coffeeshops in Berlin oder die Forde-rung nach Cannabis für Schmerzpatienten zwin-gen uns als Gesetzgeber, uns mit diesem Thema auseinanderzusetzen.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeord-neten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -1613,16 +1613,16 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeord-neten der LINKEN und des BÜNDNIS-SES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Damit schließe ich die Aussprache.</p>
           <p>Interfraktionell wird Überweisung des Gesetz-entwurfs auf Drucksache 18/4204 an die in der Tagesordnung aufgeführten Ausschüsse vorge-schlagen. – Dazu sehe ich keine anderweitigen Vorschläge; deshalb gehe ich von Ihrem Einver-ständnis aus. Dann ist die Überweisung so be-schlossen.</p>
           <p>Ich rufe jetzt den letzten Tagesordnungspunkt am heutigen Tag auf:</p>
           <p>20. Beratung des Antrags der Abgeordneten Cor-nelia Möhring, Sigrid Hupach, Matthias W. Birkwald, weiterer Abgeordneter und der Fraktion DIE LINKE</p>
           <p>Gleichen Lohn für gleiche und gleichwertige Arbeit für Frauen und Männer durchsetzen</p>
-          <p>Drucksache 18/4321  </p>
+          <p>Drucksache 18/4321</p>
           <p>Überweisungsvorschlag:</p>
-          <p>Ausschuss für Familie, Senioren, Frauen und Jugend (f) </p>
+          <p>Ausschuss für Familie, Senioren, Frauen und Jugend (f)</p>
           <p>Ausschuss für Recht und Verbraucherschutz</p>
           <p>Ausschuss für Wirtschaft und Energie</p>
           <p>Ausschuss für Arbeit und Soziales</p>
@@ -1632,7 +1632,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="4" what="debate" desc="20. Beratung des Antrags der Abgeordneten Cor-nelia Möhring, Sigrid Hupach, Matt...">
-        <sp who="Cornelia Möhring" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Cornelia Möhring">
+        <sp who="Cornelia Möhring" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Cornelia Möhring" party="DIE LINKE" name="Cornelia Möhring">
           <speaker>Cornelia Möhring (DIE LINKE):</speaker>
           <p>Vielen Dank. – Herr Präsident! Liebe Kollegin-nen und Kollegen! Heute finden mehr als 1 000 Aktionen im ganzen Land statt wie eben am Bran-denburger Tor: Weil heute der Equal Pay Day ist. Vielleicht sagt er nicht allen, die die Debatte ver-folgen, etwas. Ich will deswegen kurz sagen, was er eigentlich bedeutet: Der Equal Pay Day mar-kiert den Tag, bis zu dem Frauen über den Jah-reswechsel hinaus arbeiten müssen, um rechne-risch auf das gleiche Jahresgehalt wie männliche Beschäftigte zu kommen. Das sind auch in die-sem Jahr wieder 79 Tage zu viel. Ich finde das völlig inakzeptabel.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abge-ordneten der SPD und des BÜNDNIS-SES 90/DIE GRÜNEN)</stage>
@@ -1641,7 +1641,7 @@
           <p>Die Ursachen – da stimmen Studien und Ver-bände auch überein – liegen in Folgendem: in der Abwertung bzw. schlechteren Bewertung typisch weiblicher Berufe, in Erwerbsunterbrechungen zum Beispiel wegen Schwangerschaften – das trifft bei dem jetzigen Stand der menschlichen Entwicklung auch nur auf Frauen zu –, und in der zunehmenden Teilzeitbeschäftigung von Frauen und der Minijobfalle. Ich erinnere: Beides ist nicht immer freiwillig. – Oder Frauen erhalten einfach weniger, weil sie Frauen sind; zu so einem Bei-spiel komme ich später noch.</p>
           <p>Liebe Kolleginnen und Kollegen, auch die öf-fentliche Debatte im Vorfeld des Equal Pay Day hat uns wieder einen Einblick in die unglückliche Ehe der GroKo geliefert: Kaum hat Ministerin Schwesig eine bessere Transparenz gefordert, geht das Geheule – zumindest bei einigen CDU-Männern – los. Ich glaube wirklich, in Gleichstel-lungsfragen ist diese Ehe auch nicht mehr zu ret-ten und führt vielleicht eher zur Ankurbelung der Papiertaschentücherproduktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN – Matthias W. Birkwald [DIE LINKE]: Ha, der war gut!)</stage>
-          <p>Nun halte ich auch die angekündigte Transpa-renzinitiative für nicht ausreichend; deshalb auch der hier vorliegende Antrag der Linken, der vor al-lem auf die Durchsetzung von Entgeltgleichheit zielt. </p>
+          <p>Nun halte ich auch die angekündigte Transpa-renzinitiative für nicht ausreichend; deshalb auch der hier vorliegende Antrag der Linken, der vor al-lem auf die Durchsetzung von Entgeltgleichheit zielt.</p>
           <p>Es ist sicherlich hilfreich, wenn eine Frau in Gehaltsverhandlungen über das Gehalts-gefüge Bescheid weiß. Allerdings kommen gar nicht so viele Frauen überhaupt erst in die Situati-on, über ihr Gehalt zu verhandeln. Die Information über ungleiche Bezahlung ist aber hilfreich und notwendig, vor allem dann, wenn die einzelne Frau nicht alleine dagegen vorgehen muss, sondern wenn die betriebliche Interessenvertretung und auch Verbände und Gewerkschaften etwas durch-setzen können. Es muss jetzt Schluss sein mit der Vereinzelung. Ich finde, wir brauchen endlich das Recht der Verbände, zu klagen.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
           <p>Ja, wir brauchen auch Transparenz darüber, wie die sogenannten Entgeltstrukturen aussehen. Jüngst ging ein Fall durch die Presse, der deutlich macht, wie wichtig dieses Wissen ist. Mit Ihrer Er-laubnis, Herr Präsident, zitiere ich jetzt auszugs-weise aus einem Artikel zum von mir bereits an-gedeuteten Beispiel:</p>
@@ -1661,12 +1661,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Für die CDU/CSU spricht jetzt die Kollegin Ur-sula Groden-Kranich.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Ursula Groden-Kranich" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ursula Groden-Kranich">
+        <sp who="Ursula Groden-Kranich" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ursula Groden-Kranich" party="CDU" name="Ursula Groden-Kranich">
           <speaker>Ursula Groden-Kranich (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Liebe Besucherinnen und Besucher! Vor ziemlich genau zwei Wochen durfte ich hier zu Ihnen spre-chen. Es ging um die Beschäftigungssituation von Frauen. Schon in dieser Debatte fiel mehr als einmal der Begriff „Entgelt-ungleichheit“. In der letzten Woche konnte ich mit einer Delegation des Familienausschusses die 59. UN-Women-Konferenz in New York besuchen. Auch dort war das Thema Equal Pay in aller Munde.</p>
           <p>Der Unterschied zwischen den Gehältern von Männern und Frauen ist ein weltweites Phänomen, und es tun sich auch die Länder schwer, die wir sonst zu Recht als Vorbilder in Sachen Ge-schlechtergerechtigkeit betrachten. In Schweden liegt der Gender Pay Gap aktuell zum Beispiel bei 16 Prozent und bereinigt bei 6 Prozent. Auch dort bekommt man diesen unerklärten Rest nicht so einfach in den Griff.</p>
@@ -1690,11 +1690,11 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie der Abg. Petra Crone [SPD])</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Nächste Rednerin ist die Kollegin Ulle Schauws für Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Ulle Schauws" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Ursula Schauws">
+        <sp who="Ulle Schauws" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Ulle Schauws" party="GRUENE" name="Ulle Schauws">
           <speaker>Ulle Schauws (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Verehrte Gäste! Die Schauspielerin Patricia Arquette, die diesjährige Oscarpreisträge-rin für die beste Nebenrolle, nutzte ihre Dankesre-de in Los Angeles – Sie haben sie vielleicht im Fernsehen verfolgt – für einen flammenden Aufruf zur Gleichberechtigung und Lohngleichheit von Frauen in den USA. Ich erwähne das, weil diese Schauspielerin und die Frauen hier eines gemein-sam haben: die Forderung nach gleichem Lohn für gleiche Arbeit, und zwar unabhängig vom Ge-schlecht. Darum geht es am heutigen Equal Pay Day.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN)</stage>
@@ -1712,7 +1712,7 @@
           <p>Frau Ministerin Schwesig, Sie wollen nun ein Entgeltgleichheitsgesetz auf den Weg bringen. Das begrüße ich natürlich. Ich wünsche Ihnen gu-te Gespräche mit dem Kollegen Kauder. Er hat nämlich als bekennender Gleichstellungsbremser in der Großen Koalition direkt die Parole ausgege-ben: „In diesem Jahr wird das nichts mehr.“ Wir wollen keine Bremsmanöver. Wir erwarten von Ihnen gemeinsam ein wirkungsvolles und fai-res Gesetz für Frauen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN sowie bei Abgeord-neten der SPD)</stage>
           <p>Dabei zeichnet sich ab, dass Sie zu kurz springen. Ihre angekündigte Transparenzoffensive bei den Gehältern kann nur ein erster Schritt sein.</p>
-          <p>Wir brauchen ein Entgeltgleichheitsgesetz, das diesen Namen auch verdient. Wir brauchen ver-bindliche Regelungen. Entgeltregelungen müssen mit einem Arbeitsbewertungssystem überprüft werden, und zwar anhand von Kriterien, die für alle gleich sind.  Diskriminierungen müssen in-nerhalb einer bestimmten Frist beseitigt werden. Da finde ich es völlig absurd, wenn Unternehmen schon jetzt bei den Transparenzvorschlägen der Bundesregierung Unfrieden im Unternehmen be-fürchten.</p>
+          <p>Wir brauchen ein Entgeltgleichheitsgesetz, das diesen Namen auch verdient. Wir brauchen ver-bindliche Regelungen. Entgeltregelungen müssen mit einem Arbeitsbewertungssystem überprüft werden, und zwar anhand von Kriterien, die für alle gleich sind. Diskriminierungen müssen in-nerhalb einer bestimmten Frist beseitigt werden. Da finde ich es völlig absurd, wenn Unternehmen schon jetzt bei den Transparenzvorschlägen der Bundesregierung Unfrieden im Unternehmen be-fürchten.</p>
           <stage type="interjection">(Bettina Hagedorn [SPD]: Das ist der Hammer!)</stage>
           <p>Unfrieden entsteht doch dort, wo tatsächlich unfair bezahlt wird, und nicht dadurch, dass das sichtbar wird.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und der SPD)</stage>
@@ -1724,12 +1724,12 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Als nächste Rednerin erhält das Wort für die SPD die Kollegin Petra Crone.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Crone" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Petra Crone">
+        <sp who="Petra Crone" parliamentary_group="SPD" role="mp" position="NA" who_original="Petra Crone" party="SPD" name="Petra Crone">
           <speaker>Petra Crone (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Lie-be Kolleginnen und Kollegen! Einige von uns ha-ben noch ein bisschen rote Wangen, weil sie eben von der Kundgebung zum Equal Pay Day am Brandenburger Tor zurückgekommen sind. Nun können wir durch diese Debatte ein Stück weit diese Stimmung in den Plenarsaal tragen; das fin-de ich gut. Aber ich frage mich manchmal: Haben wir jetzt rote Wangen von der schönen Sonne oder auch aus Scham, weil Deutschland noch immer an der traurigen viertletzten Stelle beim Gender Pay Gap dümpelt,</p>
           <stage type="interjection">(Beifall des Abg. Dr. Wolfgang Streng-mann-Kuhn [BÜNDNIS 90/DIE GRÜNEN])</stage>
@@ -1753,12 +1753,12 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Nächste Rednerin ist die Kollegin Ingrid Pahl-mann für die CDU/CSU.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Ingrid Pahlmann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ingrid Pahlmann">
+        <sp who="Ingrid Pahlmann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ingrid Pahlmann" party="CDU" name="Ingrid Pahlmann">
           <speaker>Ingrid Pahlmann (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren auf der Tribüne! Liebe Kolleginnen und Kollegen! Wir haben es nun schon vielfach gehört: Frauen ver-dienen auch heute noch in viel zu vielen Fällen weniger als ihre männlichen Kollegen.</p>
           <stage type="interjection">(Matthias W. Birkwald [DIE LINKE]: Frauen verdienen mehr, aber be-kommen weniger!)</stage>
@@ -1788,15 +1788,15 @@
           <stage type="interjection">(Ulle Schauws [BÜNDNIS 90/DIE GRÜ-NEN]: Was machen Sie dafür?)</stage>
           <p>Da müssen wir genau hinschauen und dann auch gezielt nachsteuern.</p>
           <stage type="interjection">(Beate Müller-Gemmeke [BÜND-NIS 90/DIE GRÜNEN]: Hinschauen, das machen wir schon seit Jahrzehnten!)</stage>
-          <p>Die dazu erforderliche Transparenz in den Tarif-verträgen müssen wir einfordern. Wenn dann vom Arbeitsministerium auch noch Missstände und Ungleichbehandlungen in den Tarifverträgen auf-gedeckt und vielleicht sogar sanktioniert werden, ja, dann sehe ich endlich so etwas wie Licht am Ende des Tunnels.  Dann fordern wir, liebe Frau Crone, die zurückbehaltenen zwei Eiskugeln für die Mädels ein. Wir sind auf der richtigen Sei-te. Lassen Sie uns gemeinsam daran arbeiten, dass wir die Entgeltungleichheit endlich beseitigen und nächstes Jahr wesentlich früher am Branden-burger Tor stehen als in diesem Jahr.</p>
+          <p>Die dazu erforderliche Transparenz in den Tarif-verträgen müssen wir einfordern. Wenn dann vom Arbeitsministerium auch noch Missstände und Ungleichbehandlungen in den Tarifverträgen auf-gedeckt und vielleicht sogar sanktioniert werden, ja, dann sehe ich endlich so etwas wie Licht am Ende des Tunnels. Dann fordern wir, liebe Frau Crone, die zurückbehaltenen zwei Eiskugeln für die Mädels ein. Wir sind auf der richtigen Sei-te. Lassen Sie uns gemeinsam daran arbeiten, dass wir die Entgeltungleichheit endlich beseitigen und nächstes Jahr wesentlich früher am Branden-burger Tor stehen als in diesem Jahr.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Als nächste Rednerin erhält die Kollegin Gab-riele Hiller-Ohm für die SPD das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU)</stage>
         </sp>
-        <sp who="Gabriele Hiller-Ohm" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gabriele Hiller-Ohm">
+        <sp who="Gabriele Hiller-Ohm" parliamentary_group="SPD" role="mp" position="NA" who_original="Gabriele Hiller-Ohm" party="SPD" name="Gabriele Hiller-Ohm">
           <speaker>Gabriele Hiller-Ohm (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Lie-be Kolleginnen und Kollegen! Es ist gut, dass wir heute zum Equal Pay Day nicht nur vor dem Brandenburger Tor, sondern auch hier im Bundes-tag über gleichen Lohn für gleiche Arbeit für Män-ner und Frauen sprechen. Denn hier in diesem Haus können wir tatsächlich etwas ändern. Hier haben wir die gesetzgeberische Kraft, und die, lie-be Kolleginnen und Kollegen, müssen wir auch nutzen. Es kann doch wohl nicht angehen, dass ausgerechnet, wenn es um uns Frauen geht, das Grundgesetz keine Anwendung findet – und das seit über 66 Jahren.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU – Matthias W. Birk-wald [DIE LINKE]: Und bei der Rente ab 63 ja auch!)</stage>
@@ -1833,12 +1833,12 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Der abschließende Redebeitrag in dieser De-batte erfolgt durch den einzigen Redner, was aber nicht heißt, dass die Männer das letzte Wort ha-ben in dieser Debatte. – Ich erteile jetzt dem Kol-legen Matthäus Strebl das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie der Abg. Petra Ernstberger [SPD])</stage>
         </sp>
-        <sp who="Matthäus Strebl" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Matthäus Strebl">
+        <sp who="Matthäus Strebl" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Matthäus Strebl" party="CSU" name="Matthäus Strebl">
           <speaker>Matthäus Strebl (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Wir beraten heute den Antrag der Fraktion Die Linke „Gleichen Lohn für gleiche und gleichwertige Arbeit für Frauen und Männer durchsetzen“. Dass Sie diesen Antrag gewisser-maßen als Begleitmusik zum heutigen Equal Pay Day bringen, spricht für die bekannte gute Drama-turgie der Linken.</p>
           <p>Das Anliegen des Antrags hört sich erst einmal gut an, und es dürfte hier im Bundestag keine Fraktion geben, die der Zielsetzung „Gleicher Lohn für gleiche Arbeit“ widerspricht. Schließlich ist das Ziel im Koalitionsvertrag festgeschrieben und sollte entsprechend verwirklicht werden. Wie die Kollegin Hiller-Ohm schon gesagt hat: Wir werden es auch verwirklichen.</p>
@@ -1867,13 +1867,14 @@
           <p>Herzlichen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU – Ulle Schauws [BÜNDNIS 90/DIE GRÜNEN]: Sehr kons-truktiver Beitrag! Keine Lösungsvor-schläge!)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Damit schließe ich die Aussprache.</p>
           <p>Interfraktionell wird Überweisung der Vorlage auf Drucksache 18/4321 an die in der Tagesord-nung aufgeführten Ausschüsse vorgeschlagen, wobei die Federführung beim Ausschuss für Fami-lie, Senioren, Frauen und Jugend liegen soll. – Ich sehe keinen Widerspruch. Dann ist die Überwei-sung so beschlossen.</p>
           <p>Wir sind damit zugleich am Schluss unserer heutigen Tagesordnung.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 25. März 2015, 13 Uhr, ein.</p>
           <p>Die Sitzung ist geschlossen. Kommen Sie gut und wohlbehalten am Montag wieder hierher nach Berlin.</p>
+          <stage type="interjection">(Schluss: 14.26 Uhr)</stage>
         </sp>
       </div>
     </body>

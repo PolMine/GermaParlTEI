@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-07</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2013/0920/dokumente/protokolle/plenarprotokolle/plenarprotokolle/17115.txt</url>
-        <date>2015-10-20 19:56:46</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -35,8 +35,8 @@
   </teiHeader>
   <text>
     <body>
-      <div type="agenda_item" n="1" what="government_declaration" desc="Abgabe einer Regierungserklärung durch den Bundesminister der Finanzen">
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+      <div type="agenda_item" n="1" what="debate" desc="Debatte">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Die Sitzung ist eröffnet.</p>
           <p>Nehmen Sie bitte Platz. Guten Morgen, liebe Kolleginnen und Kollegen! Vor Eintritt in die Tagesordnung darf ich Sie darauf hinweisen, dass die für heute ursprünglich verlangte Aktuelle Stunde zum Umgang mit dem Ehec-Erreger nicht stattfindet. Der entsprechende Antrag ist zurückgezogen.</p>
@@ -47,7 +47,7 @@
           <p>Das Wort zur Abgabe einer Regierungserklärung hat der Bundesminister der Finanzen, der Kollege Dr. Wolfgang Schäuble.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Wolfgang Schäuble" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" party="CDU" name="Wolfgang Schäuble">
+        <sp who="Wolfgang Schäuble" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" who_original="Wolfgang Schäuble" party="CDU" name="Wolfgang Schäuble">
           <speaker>Dr. Wolfgang Schäuble, Bundesminister der Finanzen:</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Die Lage in Griechenland und damit auch in Europa insgesamt ist ernst. Im Frühjahr vergangenen Jahres standen wir vor der Situation, dass die Schuldenkrise in Griechenland die Finanzstabilität der Euro-Zone als Ganzes zu gefährden drohte. Damals haben wir in sehr kurzer Zeit mit Griechenland ein Sanierungspaket verabredet, welches die Voraussetzung für Kredite bis zu 110 Milliarden Euro ist, um den Finanzierungsbedarf Griechenlands bis 2012 zu decken.</p>
           <p>Wegen der Ansteckungsgefahr, die von der Vernetzung der modernen Finanzmärkte ausgeht, die wir bei der Finanzkrise nach dem Zusammenbruch von Lehman Brothers erlebt hatten, mussten wir im Euro-Raum Neuland betreten. Wir haben unmittelbar danach mit dem EFSF ein vorläufiges Instrument geschaffen, eine Finanz-Stabilitäts-Fazilität für Notlagen. Dieses vorläufige Instrument wollen wir ab 2013 durch einen Europäischen Stabilisierungsmechanismus ablösen.</p>
@@ -119,12 +119,14 @@
           <p>Wir müssen dieser Verantwortung gerecht werden, wir müssen Europa zusammen führen. Das, liebe Kolleginnen und Kollegen, ist unsere Verantwortung. Die Bundesregierung ist dazu bereit, und wir bitten das Hohe Haus um Unterstützung.</p>
           <stage type="interjection">(Anhaltender Beifall bei der CDU/CSU und der FDP - Beifall bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Ich eröffne die Aussprache und erteile das Wort dem Kollegen Frank-Walter Steinmeier für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Frank-Walter Steinmeier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Frank-Walter Steinmeier">
+      </div>
+      <div type="agenda_item" n="2" what="debate" desc="Debatte">
+        <sp who="Frank-Walter Steinmeier" parliamentary_group="SPD" role="mp" position="NA" who_original="Frank-Walter Steinmeier" party="SPD" name="Frank-Walter Steinmeier">
           <speaker>Dr. Frank-Walter Steinmeier (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen, insbesondere von den Regierungsfraktionen! Sie haben zu Recht geklatscht bei den wohltuenden Mahnungen Ihres Finanzministers, unseres Finanzministers, Herrn Schäuble. Ich hoffe, Sie lassen sich bei Ihren Entscheidungen von diesen Mahnungen leiten.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
@@ -216,12 +218,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Lebhafter Beifall bei der SPD - Beifall bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN - Dr. Erik Schweickert [FDP]: Was macht denn die SPD?)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Nächster Redner ist der Kollege Rainer Brüderle für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Rainer Brüderle" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Rainer Brüderle">
+      </div>
+      <div type="agenda_item" n="3" what="debate" desc="Debatte">
+        <sp who="Rainer Brüderle" parliamentary_group="FDP" role="mp" position="NA" who_original="Rainer Brüderle" party="FDP" name="Rainer Brüderle">
           <speaker>Rainer Brüderle (FDP):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Herr Kollege Steinmeier, Sie haben die sachlichen Darlegungen von Herrn Schäuble zu Recht als wohltuend bezeichnet. Er hat die Situation sehr nüchtern und korrekt dargestellt</p>
           <stage type="interjection">(Zuruf von der SPD: Wie haben Sie das mit dem "nüchtern" gemeint?)</stage>
@@ -319,12 +323,14 @@
           <p>Sie sollten wirklich einmal in sich gehen. Große Sprüche zu machen und dann, wenn es - wie bei Griechenland - darauf ankommt, weder Ja noch Nein zu sagen, sondern sich kraftvoll zu enthalten, sich vor der Entscheidung zu drücken, ist ein Kneifen vor staatspolitischer Verantwortung. Werden Sie endlich staatspolitisch verantwortlich!</p>
           <stage type="interjection">(Anhaltender Beifall bei der FDP und der CDU/CSU - Lachen bei Abgeordneten der SPD und der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Gregor Gysi ist der nächste Redner für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN - Hubertus Heil [Peine] [SPD]: Ist in dem Glas Wasser? - Weiterer Zuruf von der SPD: Jetzt ja! - Heiterkeit)</stage>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Gregor Gysi">
+      </div>
+      <div type="agenda_item" n="4" what="debate" desc="Debatte">
+        <sp who="Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Gregor Gysi" party="DIE LINKE" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (DIE LINKE):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Herr Brüderle, ich sage besser nichts zu Ihrer Wortwahl,</p>
           <stage type="interjection">(Heiterkeit bei Abgeordneten der SPD)</stage>
@@ -388,12 +394,14 @@
           <p>Ihren falschen, teuren und unsozialen Vorschlägen können wir nicht zustimmen. Unser Nein liegt sowohl im Interesse der griechischen als auch unserer eigenen Bevölkerung.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Eduard Oswald" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Eduard Oswald">
+        <sp who="Eduard Oswald" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Eduard Oswald" party="CSU" name="Eduard Oswald">
           <speaker>Vizepräsident Eduard Oswald:</speaker>
           <p>Vielen Dank, Kollege Dr. Gregor Gysi für die Fraktion Die Linke. - Nächster Redner für die Fraktion der CDU/CSU ist unser Kollege Volker Kauder.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Volker Kauder" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Volker Kauder">
+      </div>
+      <div type="agenda_item" n="5" what="debate" desc="Debatte">
+        <sp who="Volker Kauder" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Volker Kauder" party="CDU" name="Volker Kauder">
           <speaker>Volker Kauder (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen! Liebe Kollegen! Dieser heutige Plenartag hat großartig angefangen: mit einer Rede von Wolfgang Schäuble, die über die Dimension der aktuellen ökonomischen Fragen hinausgegangen ist, die die politische Bedeutung von Europa beleuchtet und deutlich gemacht hat, dass Europa unsere Zukunft ist und dass wir Deutsche dieses Europa dringend brauchen. Das war die Aussage von Wolfgang Schäuble.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
@@ -476,11 +484,13 @@
           <p>Jetzt muss und wird diese Regierungskoalition den Zug wieder auf das richtige Gleis bringen. Ich kann nur feststellen: Sie wären auch in Verantwortung vor der Geschichte gut beraten, wenn Sie dabei wären.</p>
           <stage type="interjection">(Anhaltender Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Eduard Oswald" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Eduard Oswald">
+        <sp who="Eduard Oswald" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Eduard Oswald" party="CSU" name="Eduard Oswald">
           <speaker>Vizepräsident Eduard Oswald:</speaker>
           <p>Nächster Redner in unserer Debatte ist für die Fraktion Bündnis 90/Die Grünen unser Kollege Fritz Kuhn. Bitte schön, Kollege Kuhn.</p>
         </sp>
-        <sp who="Fritz Kuhn" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Fritz Kuhn">
+      </div>
+      <div type="agenda_item" n="6" what="debate" desc="Debatte">
+        <sp who="Fritz Kuhn" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Fritz Kuhn" party="GRUENE" name="Fritz Kuhn">
           <speaker>Fritz Kuhn (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Ich nehme die Lautstärke von Herrn Brüderle - das war ja fast schon eine Wutrede -</p>
           <stage type="interjection">(Volker Beck [Köln] [BÜNDNIS 90/DIE GRÜNEN]: Wutbürger Brüderle!)</stage>
@@ -518,12 +528,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Eduard Oswald" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Eduard Oswald">
+        <sp who="Eduard Oswald" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Eduard Oswald" party="CSU" name="Eduard Oswald">
           <speaker>Vizepräsident Eduard Oswald:</speaker>
           <p>Vielen Dank, Kollege Fritz Kuhn. - Jetzt für die Fraktion der Sozialdemokraten unser Kollege Carsten Schneider. Bitte schön, Kollege Carsten Schneider.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Carsten Schneider" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Carsten Schneider">
+      </div>
+      <div type="agenda_item" n="7" what="debate" desc="Debatte">
+        <sp who="Carsten Schneider (Erfurt)" parliamentary_group="SPD" role="mp" position="NA" who_original="Carsten Schneider (Erfurt)" party="SPD" name="Carsten Schneider">
           <speaker>Carsten Schneider (Erfurt) (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Wir führen heute eine sehr ernste Debatte zum Thema Euro-Stabilität. Ich hätte nach der Rede des Bundesfinanzministers und der, wie ich finde, sehr ausgewogenen und verantwortungsvollen Antwort des Fraktionsvorsitzenden der SPD</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
@@ -557,12 +569,14 @@
           <p>Kommen Sie uns und unseren Vorlagen - wir haben im nächsten Halbjahr Zeit, zu entscheiden - entgegen; wir reichen Ihnen die Hand. Aber dafür müssen Sie erstens wissen, was Sie wollen, und zweitens bereit sein, nicht nur zulasten der einfachen Leute, der Steuerzahler zu handeln, sondern über eine Finanztransaktionsteuer letztendlich auch die Finanzindustrie zu beteiligen. Das wäre Ausdruck eines sozialen Europa, das dann diese Bezeichnung wirklich verdient hätte.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Eduard Oswald" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Eduard Oswald">
+        <sp who="Eduard Oswald" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Eduard Oswald" party="CSU" name="Eduard Oswald">
           <speaker>Vizepräsident Eduard Oswald:</speaker>
           <p>Vielen Dank, Kollege Carsten Schneider. - Jetzt für die Fraktion der CDU/CSU unser Kollege Norbert Barthle. Bitte schön, Kollege Norbert Barthle.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Norbert Barthle" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Norbert Barthle">
+      </div>
+      <div type="agenda_item" n="8" what="debate" desc="Debatte">
+        <sp who="Norbert Barthle" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Norbert Barthle" party="CDU" name="Norbert Barthle">
           <speaker>Norbert Barthle (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Lieber Kollege Schneider, dass Sie Ihre Ablehnung unseres heutigen Entschließungsantrags damit begründen, dass wir zu wenig um Sie geworben hätten, ist ein vorgeschobenes Argument: Bereits gestern im Haushaltsausschuss haben Sie eine Rede gehalten, die klar zum Ausdruck gebracht hat, dass Sie sich wieder einmal vom Acker machen, und da lag unser Entschließungsantrag noch gar nicht vor. Ihr Argument ist also vorgeschoben, und deshalb sind Sie nicht glaubwürdig.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der FDP)</stage>
@@ -590,11 +604,13 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Eduard Oswald" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Eduard Oswald">
+        <sp who="Eduard Oswald" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Eduard Oswald" party="CSU" name="Eduard Oswald">
           <speaker>Vizepräsident Eduard Oswald:</speaker>
           <p>Vielen Dank, Kollege Norbert Barthle. - Jetzt für die Fraktion Bündnis 90/Die Grünen unser Kollege Dr. Gerhard Schick. Bitte, Kollege Dr. Gerhard Schick.</p>
         </sp>
-        <sp who="Dr. Gerhard Schick" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Gerhard Schick">
+      </div>
+      <div type="agenda_item" n="9" what="debate" desc="Debatte">
+        <sp who="Gerhard Schick" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Gerhard Schick" party="GRUENE" name="Gerhard Schick">
           <speaker>Dr. Gerhard Schick (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Herr Barthle hat den Vorwurf geäußert, dass wir dem Antrag der Koalitionsfraktionen nicht zustimmen wollten und uns deswegen irgendetwas ausdenken müssten. In Wahrheit verhält es sich anders: Ihr Entschließungsantrag dient dazu, Ihren Laden zusammenzuhalten. Wir dagegen haben die besseren Vorschläge. Diese haben wir in unserem Antrag vorgestellt. Somit möchte ich über die Inhalte reden, um die es geht, und nicht über die Streitereien früherer Jahre.</p>
           <p>Ich will auch begründen, warum der von uns vorgeschlagene Weg besser ist. Sie vernachlässigen einen Aspekt völlig, nämlich: Diese Krise ist nach wie vor auch eine Bankenkrise.</p>
@@ -613,12 +629,14 @@
           <p>Sie haben heute, Herr Schäuble, zu der Frage der Kosten, die man ehrlich beantworten muss, kein Wort verloren. Ich glaube aber, dass das wichtig wäre. Gerade wenn man, wie unsere Fraktion, immer ganz bewusst proeuropäisch dafür sorgt, dass wir in Europa gemeinsam aus der Krise herauskommen, ist es notwendig, nicht nur die große Vision eines gemeinsamen Europas zu verkünden, sondern den Menschen auch konkret und ehrlich zu sagen: Die Wege, die wir jetzt beschreiten, werden Kosten mit sich bringen; aber es lohnt sich, diese Kosten zu tragen. Wir werden dafür sorgen - da ist Ihre Regierung besonders schwach -, dass die Verteilung dieser Kosten in Deutschland fair erfolgt, damit starke Schultern die Lasten dieser Krise tragen. Mit einer unsolidarischen Politik, wie sie Schwarz-Gelb macht, wird man das Vertrauen der Menschen in eine gemeinsame europäische Lösung für diese Krise nicht gewinnen können. Aber genau das wäre notwendig.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Eduard Oswald" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Eduard Oswald">
+        <sp who="Eduard Oswald" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Eduard Oswald" party="CSU" name="Eduard Oswald">
           <speaker>Vizepräsident Eduard Oswald:</speaker>
           <p>Vielen Dank, Kollege Dr. Gerhard Schick. - Jetzt für die Fraktion der CDU/CSU unser Kollege Michael Stübgen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Michael Stübgen" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Stübgen">
+      </div>
+      <div type="agenda_item" n="10" what="debate" desc="Debatte">
+        <sp who="Michael Stübgen" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Stübgen" party="CDU" name="Michael Stübgen">
           <speaker>Michael Stübgen (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Uns liegt seit zwei Tagen der "Mission Report" der Troika, bestehend aus EZB, Europäischer Kommission und Internationalem Währungsfonds, zu Griechenland vor. Schon die Dauer der Mission in Athen und die Zeit, die die Beteiligten benötigt haben, um den Bericht zu schreiben und sich darauf zu einigen, zeigt, dass wir diesmal in einer sehr komplizierten und schwierigen Situation sind.</p>
           <p>Ich will nur kurz ein paar zusammenfassende Anmerkungen zu diesem Report machen. Zum einen wird Griechenland bescheinigt, dass es bei der Beseitigung makroökonomischer und fiskalischer Ungleichgewichte Fortschritte gemacht hat. Es ist wichtig, das festzustellen, wenn wir das Fazit richtig einschätzen wollen. Aber es ist auch deutlich geworden, dass die Rezession in Griechenland tiefer und langwieriger ist, als wir das bei der Erarbeitung des Programms vor einem Jahr gedacht haben. Der Report endet mit einem nüchternen Satz: Das Anpassungsprogramm ist jetzt unterfinanziert; die nächste Auszahlung Ende dieses Monats kann nur erfolgen, wenn dieses Problem gelöst ist.</p>
@@ -635,12 +653,14 @@
           <p>Ich danke für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Eduard Oswald" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Eduard Oswald">
+        <sp who="Eduard Oswald" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Eduard Oswald" party="CSU" name="Eduard Oswald">
           <speaker>Vizepräsident Eduard Oswald:</speaker>
           <p>Vielen Dank, Kollege Michael Stübgen. - Jetzt spricht als letzter Redner in dieser Debatte unser Kollege Bartholomäus Kalb für die Fraktion der CDU/CSU. Wir schenken ihm die notwendige Aufmerksamkeit. Bitte schön, Kollege Bartholomäus Kalb.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Bartholomäus Kalb" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Bartholomäus Kalb">
+      </div>
+      <div type="agenda_item" n="11" what="debate" desc="Debatte">
+        <sp who="Bartholomäus Kalb" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Bartholomäus Kalb" party="CSU" name="Bartholomäus Kalb">
           <speaker>Bartholomäus Kalb (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Die Frage der Stabilität unserer gemeinsamen Währung, des Euro, ist für unsere Volkswirtschaften, vor allem aber für die Menschen in Europa und in unserem Land von allergrößter Bedeutung. Unkontrollierte Entwicklungen und eine Instabilität würden nicht nur die Euro-Zone betreffen und erschüttern, sondern auch erhebliche Konsequenzen für die Zukunftsfähigkeit der Europäischen Union insgesamt nach sich ziehen. Herr Bundesfinanzminister Schäuble hat dazu eingangs eine ganze Menge gesagt.</p>
           <p>Ein stabiler Euro, ein einiges Europa und eine starke Europäische Union bilden im Zeichen der rasant voranschreitenden Globalisierung, der sich verschiebenden und neu herausbildenden wirtschaftlichen Schwerpunkte weltweit und des Wachstums der Weltbevölkerung einerseits bei gleichzeitig rückläufiger Bevölkerungszahl in Europa andererseits die unverzichtbare Grundlage für die dauerhafte Sicherung von Wohlstand, Stabilität und Sicherheit in Deutschland und Europa.</p>
@@ -659,11 +679,11 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Eduard Oswald" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Eduard Oswald">
+        <sp who="Eduard Oswald" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Eduard Oswald" party="CSU" name="Eduard Oswald">
           <speaker>Vizepräsident Eduard Oswald:</speaker>
           <p>Wir haben zu danken, Kollege Bartholomäus Kalb.</p>
           <p>Ich schließe die Aussprache.</p>
-          <p>Uns liegt eine Reihe von Erklärungen nach § 31 unserer Geschäftsordnung vor.</p>
+          <p>Uns liegt eine Reihe von Erklärungen nach § 31 unserer Geschäftsordnung vor.1</p>
           <p>Wir kommen nun zur Abstimmung über die Entschließungsanträge, zunächst zum Entschließungsantrag der Fraktionen der CDU/CSU und der FDP auf Druck-sache 17/6163. Wer stimmt dafür? - Das sind die Koalitionsfraktionen. Gegenprobe! - Das sind die Oppositionsfraktionen.</p>
           <stage type="interjection">(Zuruf des Abg. Jerzy Montag [BÜNDNIS 90/ DIE GRÜNEN])</stage>
           <p>- Gegenstimmen von der Koalition?</p>
@@ -686,7 +706,7 @@
           <p>Jetzt bitte ich die Schriftführerinnen und Schriftführer, die vorgesehenen Plätze einzunehmen. Sind die Plätze an den Urnen besetzt? - Das ist der Fall.</p>
           <p>Ich eröffne die Wahl.</p>
           <p>Ist noch ein Mitglied des Hauses anwesend, das seine Stimme nicht abgegeben hat? - Das ist nicht der Fall.</p>
-          <p>Ich schließe die Wahl und bitte die Schriftführerinnen und Schriftführer, mit der Auszählung zu beginnen. Das Ergebnis der Wahl wird Ihnen später bekannt gegeben.</p>
+          <p>Ich schließe die Wahl und bitte die Schriftführerinnen und Schriftführer, mit der Auszählung zu beginnen. Das Ergebnis der Wahl wird Ihnen später bekannt gegeben.2</p>
           <p>Ich wäre dankbar, wenn Sie sich wieder auf Ihre Plätze begeben würden.</p>
           <p>Ich rufe die Tagesordnungspunkte 29 a und b auf:</p>
           <p>a) Beratung des Antrags der Abgeordneten Daniela Wagner, Bettina Herlitzius, Ingrid Nestle, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/ DIE GRÜNEN</p>
@@ -694,11 +714,11 @@
           <p>- Drucksache 17/5778 -</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Verkehr, Bau und Stadtentwicklung (f)</p>
-          <p>Innenausschuss </p>
-          <p>Rechtsausschuss </p>
+          <p>Innenausschuss</p>
+          <p>Rechtsausschuss</p>
           <p>Ausschuss für Wirtschaft und Technologie</p>
-          <p>Ausschuss für Arbeit und Soziales </p>
-          <p>Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit </p>
+          <p>Ausschuss für Arbeit und Soziales</p>
+          <p>Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit</p>
           <p>Haushaltsausschuss</p>
           <p>b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Verkehr, Bau und Stadtentwicklung (15. Ausschuss)</p>
           <p>- zu dem Antrag der Abgeordneten Michael Groß, Sören Bartol, Uwe Beckmeyer, weiterer Abgeordneter und der Fraktion der SPD</p>
@@ -718,8 +738,8 @@
           <p>Ich eröffne die Aussprache. Erste Rednerin in unserer Debatte ist die Kollegin Daniela Wagner von der Fraktion Bündnis 90/Die Grünen. Bitte schön, Frau Kollegin Daniela Wagner.</p>
         </sp>
       </div>
-      <div type="agenda_item" n="2" what="debate" desc="a) Beratung des Antrags der Abgeordneten Daniela Wagner, Bettina Herlitzius, Ing...">
-        <sp who="Daniela Wagner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Daniela Wagner">
+      <div type="agenda_item" n="12" what="debate" desc="Debatte">
+        <sp who="Daniela Wagner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Daniela Wagner" party="GRUENE" name="Daniela Wagner">
           <speaker>Daniela Wagner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Die Bundeskanzlerin hat es hier gestern in der Atomdebatte wiederholt gesagt: Dem Gebäudebereich kommt bei der Energiewende eine zentrale Rolle zu. Hier werden, vor allem im Altbestand, 40 Prozent der Energie in Deutschland verbraucht. Insofern kann ich der Bundesregierung für ihr Vorhaben, die Energieeffizienz im Gebäudesektor zu steigern, unsere Unterstützung zusichern.</p>
           <p>Die Ankündigung der Bundesregierung, die Haushaltsmittel für die energetische Gebäudesanierung wieder auf 1,5 Milliarden Euro zu erhöhen, ist sehr begrüßenswert. Das stellt einen ersten Schritt in die richtige Richtung dar.</p>
@@ -755,12 +775,14 @@
           <p>Ich danke Ihnen für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie des Abg. Roland Claus [DIE LINKE])</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat der Kollege Peter Götz von der CDU/ CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Peter Götz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Götz">
+      </div>
+      <div type="agenda_item" n="13" what="debate" desc="Debatte">
+        <sp who="Peter Götz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Götz" party="CDU" name="Peter Götz">
           <speaker>Peter Götz (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Meine sehr geehrten Damen und Herren! In wenigen Tagen wird die Städtebauförderung 40 Jahre alt. Das ist ein Grund zum Feiern.</p>
           <stage type="interjection">(Bettina Herlitzius [BÜNDNIS 90/DIE GRÜNEN]: Na?)</stage>
@@ -794,14 +816,16 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
-          <p>Bevor ich dem nächsten Redner das Wort erteile, gebe ich Ihnen das Ergebnis der Wahl eines Mitglieds des Vertrauensgremiums gemäß § 10 a Abs. 2 der Bundeshaushaltsordnung bekannt: abgegebene Stimmen 564, gültige Stimmen ebenfalls 564. Mit Ja haben gestimmt 508, mit Nein 24, Enthaltungen 32. Die Abgeordnete Priska Hinz hat 508 Stimmen erhalten. Die erforderliche Mehrheit von mindestens 311 Stimmen wurde übertroffen. Damit ist sie gewählt.</p>
+          <p>Bevor ich dem nächsten Redner das Wort erteile, gebe ich Ihnen das Ergebnis der Wahl eines Mitglieds des Vertrauensgremiums gemäß § 10 a Abs. 2 der Bundeshaushaltsordnung bekannt: abgegebene Stimmen 564, gültige Stimmen ebenfalls 564. Mit Ja haben gestimmt 508, mit Nein 24, Enthaltungen 32. Die Abgeordnete Priska Hinz hat 508 Stimmen erhalten. Die erforderliche Mehrheit von mindestens 311 Stimmen wurde übertroffen. Damit ist sie gewählt.3</p>
           <stage type="interjection">(Beifall)</stage>
           <p>Das Wort hat nun der Kollege Florian Pronold von der SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Florian Pronold" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Florian Pronold">
+      </div>
+      <div type="agenda_item" n="14" what="debate" desc="Debatte">
+        <sp who="Florian Pronold" parliamentary_group="SPD" role="mp" position="NA" who_original="Florian Pronold" party="SPD" name="Florian Pronold">
           <speaker>Florian Pronold (SPD):</speaker>
           <p>Sehr geehrte Damen und Herren! Sehr geehrter Herr Präsident! Warum führen wir die Debatte heute eigentlich?</p>
           <stage type="interjection">(Patrick Döring [FDP]: Das fragt man sich!)</stage>
@@ -878,12 +902,14 @@
           <p>müssen Sie noch ein bisschen nachbessern.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt der Kollege Sebastian Körber von der FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Sebastian Körber" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Sebastian Körber">
+      </div>
+      <div type="agenda_item" n="15" what="debate" desc="Debatte">
+        <sp who="Sebastian Körber" parliamentary_group="FDP" role="mp" position="NA" who_original="Sebastian Körber" party="FDP" name="Sebastian Körber">
           <speaker>Sebastian Körber (FDP):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine sehr verehrten Damen und Herren! Lieber Herr Kollege Pronold, ich leiste jetzt einfach einmal ein wenig Aufklärungsarbeit.</p>
           <stage type="interjection">(Sören Bartol [SPD]: Da sind wir gespannt!)</stage>
@@ -944,12 +970,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Lachen bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat der Kollege Roland Claus von der Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Roland Claus" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Roland Claus">
+      </div>
+      <div type="agenda_item" n="16" what="debate" desc="Debatte">
+        <sp who="Roland Claus" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Roland Claus" party="DIE LINKE" name="Roland Claus">
           <speaker>Roland Claus (DIE LINKE):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Wir haben über mehrere Anträge zur energetischen Gebäudesanierung und zur Städtebauförderung zu entscheiden, die uns die Fraktion Bündnis 90/Die Grünen und die SPD-Fraktion vorgelegt haben. Meine Fraktion findet durchweg alle Anträge gut</p>
           <stage type="interjection">(Bettina Herlitzius [BÜNDNIS 90/DIE GRÜNEN]: Wunderbar!)</stage>
@@ -978,12 +1006,14 @@
           <p>Ein Wort möchte ich zu Minister Ramsauer verlieren, der im Ausschuss auf Anfrage der Linksfraktion Deng Xiaoping zitiert hat. Das verlangt Erwiderung. Der alte Deng muss diese Bundesregierung vorausgeahnt haben, als er 1984 sagte: Wir werden möglicherweise auch in Zukunft Fehler machen, wir sollten aber erstens große Fehler vermeiden und zweitens Missstände abstellen, sobald sie entdeckt werden. - Herr Minister Ramsauer, wenn Sie schon ein solcher Fan von Deng Xiaoping sind, dann halten Sie sich an seine Weisheit! Korrigieren Sie Ihre Fehler, und zwar jetzt und heute, und stimmen Sie den Anträgen zu!</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Ich erteile jetzt dem Kollegen Kai Wegner von der CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Kai Wegner" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Kai Wegner">
+      </div>
+      <div type="agenda_item" n="17" what="debate" desc="Debatte">
+        <sp who="Kai Wegner" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Kai Wegner" party="CDU" name="Kai Wegner">
           <speaker>Kai Wegner (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Herr Claus, wenn ich mir Ihr Zitat durch den Kopf gehen lasse</p>
           <stage type="interjection">(Roland Claus [DIE LINKE]: Das wäre gut!)</stage>
@@ -1004,30 +1034,7 @@
           <p>Besonders beachtlich erscheint mir in diesem Zusammenhang der Fahrplan der Bundesregierung zur energetischen Sanierung von Bundesbauten. Hier werden wir als Bund unserer Vorbildfunktion gerecht.</p>
           <stage type="interjection">(Florian Pronold [SPD]: Vielleicht können Sie den Ausstoß an heißer Luft im Deutschen Bundestag reduzieren!)</stage>
           <p>Ich bitte die Bundesregierung darauf zu achten, hierbei unsere kleinen und mittelständischen Handwerksbetriebe nicht aus dem Blick zu verlieren.</p>
-          <p>(Beifall bei Abgeordneten der CDU/CSU und der FDP - Florian Pronold [SPD]: Wer hat denn den Blick verloren? Sie! Sie haben beim KfW-Programm gekürzt!</p>
-          <p>Ausschreibungen in diesem Bereich müssen in kleinen Losen erfolgen, damit auch die lokale Wirtschaft, kleine und mittelständische Unternehmen, davon profitieren können.</p>
-          <p>Das sind einige wichtige Beispiele für das, was wir mit dem Energiekonzept insgesamt auf den Weg gebracht haben, und für das, was wir noch umsetzen wollen. Das heißt konkret: Wir sind zum Großteil längst bei dem angekommen, was Sie heute in Ihren Anträgen fordern. Lieber Herr Pronold - Sie schreien immer dazwischen -, ich will Ihnen zurufen: Wir sind in vielen Bereichen viel weiter, als es in Ihren heute hier vorliegenden Anträgen formuliert ist.</p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Bettina Herlitzius [BÜNDNIS 90/DIE GRÜNEN]: Das stimmt leider nicht! - Florian Pronold [SPD]: Sind Sie schon über die Ökodiktatur hinaus? - Daniela Wagner [BÜNDNIS 90/DIE GRÜNEN]: Also, wir haben schon die Ökodiktatur!)</stage>
-          <p>Lassen Sie mich auch etwas zur Städtebauförderung sagen. Gerade als Abgeordneter aus Berlin will ich nicht verhehlen, dass ich die Einsparungen im Rahmen der Haushaltskonsolidierung bedauere. Ich kenne und schätze die Arbeit der Akteure vor Ort in diesem Bereich. In meinem Wahlkreis in Berlin-Spandau gibt es viele Projekte, in denen hervorragende Arbeit geleistet wird - für die Stadtteile, für die Kieze, für die Menschen in diesen Bereichen.</p>
-          <stage type="interjection">(Sören Bartol [SPD]: Die gefährden Sie!)</stage>
-          <p>Es bleibt dabei: Die Städtebauförderung ist wichtig im Sinne der Nachhaltigkeit. Ja, wir müssen die Programme evaluieren. Ja, wir brauchen noch mehr Effizienz bei diesen Programmen.</p>
-          <stage type="interjection">(Bettina Herlitzius [BÜNDNIS 90/DIE GRÜNEN]: Erst mal mehr Geld!)</stage>
-          <p>Ich sage aber auch, dass wir auch im kommenden Jahr die Städtebauförderung mindestens auf diesjährigem Niveau fortführen sollten und fortführen müssen.</p>
-          <p>Meine Damen und Herren, wir haben in der Tat in dem Bereich Energieeffizienz/Gebäudesanierung viel erreicht.</p>
-          <stage type="interjection">(Florian Pronold [SPD]: Haben Sie auch Mieter in Ihrem Wahlkreis?)</stage>
-          <p>Wir haben in diesem Bereich aber auch noch wahnsinnig viel vor. Mit Sicherheit werden wir bei den parlamentarischen Beratungen über den Haushalt noch die eine oder andere Gelegenheit haben, darüber zu sprechen und uns auszutauschen. Ich lade Sie alle ein,</p>
-          <stage type="interjection">(Florian Pronold [SPD]: Nach Spandau!)</stage>
-          <p>an der Lösung der klimapolitischen Herausforderungen teilzuhaben. Gestalten Sie die Zukunft unseres Landes mit! Sie sehen: Wir handeln, wir reden nicht. Das unterscheidet Regierung und Opposition. Lassen Sie uns den Weg erfolgreich weitergehen.</p>
-          <p>Herzlichen Dank und ein schönes Wochenende.</p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
-        </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
-          <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
-          <p>Das Wort hat jetzt der Kollege Sören Bartol.</p>
-          <stage type="interjection">(Beifall bei der SPD)</stage>
-        </sp>
-        <sp who="Sören Bartol" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Sören Bartol">
-          <speaker>Sören Bartol (SPD):</speaker>
+          <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der FDP - Florian Pronold [SPD]: Wer hat denn den Blick verloren? Sie! Sie haben beim KfW-Programm gekürzt! Ausschreibungen in diesem Bereich müssen in kleinen Losen erfolgen, damit auch die lokale Wirtschaft, kleine und mittelständische Unternehmen, davon profitieren können. Das sind einige wichtige Beispiele für das, was wir mit dem Energiekonzept insgesamt auf den Weg gebracht haben, und für das, was wir noch umsetzen wollen. Das heißt konkret: Wir sind zum Großteil längst bei dem angekommen, was Sie heute in Ihren Anträgen fordern. Lieber Herr Pronold - Sie schreien immer dazwischen -, ich will Ihnen zurufen: Wir sind in vielen Bereichen viel weiter, als es in Ihren heute hier vorliegenden Anträgen formuliert ist. (Beifall bei der CDU/CSU und der FDP - Bettina Herlitzius [BÜNDNIS 90/DIE GRÜNEN]: Das stimmt leider nicht! - Florian Pronold [SPD]: Sind Sie schon über die Ökodiktatur hinaus? - Daniela Wagner [BÜNDNIS 90/DIE GRÜNEN]: Also, wir haben schon die Ökodiktatur!) Lassen Sie mich auch etwas zur Städtebauförderung sagen. Gerade als Abgeordneter aus Berlin will ich nicht verhehlen, dass ich die Einsparungen im Rahmen der Haushaltskonsolidierung bedauere. Ich kenne und schätze die Arbeit der Akteure vor Ort in diesem Bereich. In meinem Wahlkreis in Berlin-Spandau gibt es viele Projekte, in denen hervorragende Arbeit geleistet wird - für die Stadtteile, für die Kieze, für die Menschen in diesen Bereichen. (Sören Bartol [SPD]: Die gefährden Sie!) Es bleibt dabei: Die Städtebauförderung ist wichtig im Sinne der Nachhaltigkeit. Ja, wir müssen die Programme evaluieren. Ja, wir brauchen noch mehr Effizienz bei diesen Programmen. (Bettina Herlitzius [BÜNDNIS 90/DIE GRÜNEN]: Erst mal mehr Geld!) Ich sage aber auch, dass wir auch im kommenden Jahr die Städtebauförderung mindestens auf diesjährigem Niveau fortführen sollten und fortführen müssen. Meine Damen und Herren, wir haben in der Tat in dem Bereich Energieeffizienz/Gebäudesanierung viel erreicht. (Florian Pronold [SPD]: Haben Sie auch Mieter in Ihrem Wahlkreis?) Wir haben in diesem Bereich aber auch noch wahnsinnig viel vor. Mit Sicherheit werden wir bei den parlamentarischen Beratungen über den Haushalt noch die eine oder andere Gelegenheit haben, darüber zu sprechen und uns auszutauschen. Ich lade Sie alle ein, (Florian Pronold [SPD]: Nach Spandau!) an der Lösung der klimapolitischen Herausforderungen teilzuhaben. Gestalten Sie die Zukunft unseres Landes mit! Sie sehen: Wir handeln, wir reden nicht. Das unterscheidet Regierung und Opposition. Lassen Sie uns den Weg erfolgreich weitergehen. Herzlichen Dank und ein schönes Wochenende. (Beifall bei der CDU/CSU und der FDP) Vizepräsident Dr. Hermann Otto Solms: Das Wort hat jetzt der Kollege Sören Bartol. (Beifall bei der SPD) Sören Bartol (SPD):</stage>
           <p>Herr Präsident! Meine lieben Kolleginnen und Kollegen! Minister Ramsauer hat uns am Mittwoch im Ausschuss erklärt, dass die Energiewende der Bundesregierung gar keine Wende ist, sondern die konsequente Fortsetzung der Politik der Bundesregierung. Die Brücke der Brückentechnologie Atomkraft wird einfach nur verkürzt, haben wir im Ausschuss gelernt. - Aha!</p>
           <stage type="interjection">(Beifall bei der FDP - Patrick Döring [FDP]: So ist es!)</stage>
           <p>Als Bauminister muss er sich ja mit dem Brückenbau auskennen. Ich hoffe nur, dass das Fundament Ihrer hastigen Energiewende, liebe Kolleginnen und Kollegen, auch wirklich trägt.</p>
@@ -1072,12 +1079,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat der Kollege Patrick Döring von der FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Patrick Döring" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Patrick Döring">
+      </div>
+      <div type="agenda_item" n="18" what="debate" desc="Debatte">
+        <sp who="Patrick Döring" parliamentary_group="FDP" role="mp" position="NA" who_original="Patrick Döring" party="FDP" name="Patrick Döring">
           <speaker>Patrick Döring (FDP):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Wie so oft in Debatten zur Baupolitik wird hier von der Opposition - ich nehme Frau Wagner ausdrücklich aus - überwiegend etwas behauptet, was weder geplant ist noch in irgendeinem Gesetzentwurf der Bundesregierung vorgesehen ist.</p>
           <stage type="interjection">(Sören Bartol [SPD]: Aha!)</stage>
@@ -1091,21 +1100,7 @@
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Florian Pronold [SPD]: Und warum jetzt wieder hoch?)</stage>
           <p>Jetzt stehen wir vor der Herausforderung, zusätzliche Anreize für eine schnellere Umsetzung energetischer Sanierungsmaßnahmen zu schaffen. Die zusätzlichen Maßnahmen stehen auf zwei Säulen. Die eine ist das Aufwachsen des Gebäudesanierungsprogramms über KfW-Mittel für diejenigen, bei denen eine Einkommensteuerentlastung wenig Wirkung haben würde, also zum einen bei den kommunalen Wohnungseigentümern und zum anderen bei denjenigen Hauseigentümerinnen und Hauseigentümern, die wenig oder gar keine Einkommensteuer zahlen. Das sind überwiegend Rentnerinnen und Rentner, aber eben auch Geringverdiener; sie bekommen ihre Förderung über die KfW-Programme.</p>
           <p>Da wir hier alle im Hause wissen, dass der Deutsche nichts schöner findet, als Steuern zu sparen, wollen wir darüber hinaus diejenigen, die diese Sanierungsaufgabe aus eigenen Mitteln, ohne Banken in Anspruch zu nehmen, schultern, mit einer 10-prozentigen Sonderabschreibung entlasten. Das ist der richtige Weg; den geht diese Koalition.</p>
-          <p>(Beifall bei der FDP und der CDU/CSU - Florian Pronold [SPD]: Also nur aus Eigenmitteln?</p>
-          <p>Jetzt passiert Folgendes, geschätzter Herr Kollege Pronold - Sie sind ja Finanzpolitiker -: Wenn in jedem Jahr ein Investitionsvolumen von etwa 1,5 Milliarden Euro einkommensteuerlich geltend gemacht wird - davon gehen wir aus -, dann wird bei einer Einkommensteuerschuldminderung von 10 Prozent eine Kassenwirkung von 150 Millionen Euro entfaltet. Die 10 Prozent werden unterschiedlich kassenwirksam; es wächst von Jahr zu Jahr auf, weil das Volumen insgesamt größer wird. Das ist der richtige Weg, um die privaten Haus- und Wohnungseigentümerinnen und -eigentümer bei den Sanierungskosten wirksam zu entlasten. Das ist der Weg, den wir vorschlagen.</p>
-          <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Abg. Florian Pronold [SPD] meldet sich zu einer Zwischenfrage)</stage>
-          <p>Ich bin den Oppositionsparteien insofern dankbar, dass wir heute diese Debatte führen, als wir - auch ich ganz persönlich - dadurch noch einmal die Gelegenheit haben, deutlich zu machen, dass wir große Anhänger der erfolgreichen Städtebauförderprogramme der Bundesrepublik Deutschland sind.</p>
-          <stage type="interjection">(Sören Bartol [SPD]: Das hat man ja gesehen!)</stage>
-          <p>- Auch ich ganz persönlich, lieber geschätzter Kollege Bartol. - Trotzdem ist es klug, darüber nachzudenken, diese Städtebauförderprogramme immer wieder den neuen Herausforderungen der Städte und Gemeinden anzupassen und sie fortzuentwickeln.</p>
-          <stage type="interjection">(Sören Bartol [SPD]: Aber doch nicht runterstreichen!)</stage>
-          <p>Nichts anderes haben wir getan.</p>
-        </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
-          <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
-          <p>Herr Kollege Döring, gestatten Sie eine Zwischenfrage?</p>
-        </sp>
-        <sp who="Patrick Döring" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Patrick Döring">
-          <speaker>Patrick Döring (FDP):</speaker>
+          <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Florian Pronold [SPD]: Also nur aus Eigenmitteln? Jetzt passiert Folgendes, geschätzter Herr Kollege Pronold - Sie sind ja Finanzpolitiker -: Wenn in jedem Jahr ein Investitionsvolumen von etwa 1,5 Milliarden Euro einkommensteuerlich geltend gemacht wird - davon gehen wir aus -, dann wird bei einer Einkommensteuerschuldminderung von 10 Prozent eine Kassenwirkung von 150 Millionen Euro entfaltet. Die 10 Prozent werden unterschiedlich kassenwirksam; es wächst von Jahr zu Jahr auf, weil das Volumen insgesamt größer wird. Das ist der richtige Weg, um die privaten Haus- und Wohnungseigentümerinnen und -eigentümer bei den Sanierungskosten wirksam zu entlasten. Das ist der Weg, den wir vorschlagen. (Beifall bei der FDP und der CDU/CSU - Abg. Florian Pronold [SPD] meldet sich zu einer Zwischenfrage) Ich bin den Oppositionsparteien insofern dankbar, dass wir heute diese Debatte führen, als wir - auch ich ganz persönlich - dadurch noch einmal die Gelegenheit haben, deutlich zu machen, dass wir große Anhänger der erfolgreichen Städtebauförderprogramme der Bundesrepublik Deutschland sind. (Sören Bartol [SPD]: Das hat man ja gesehen!) - Auch ich ganz persönlich, lieber geschätzter Kollege Bartol. - Trotzdem ist es klug, darüber nachzudenken, diese Städtebauförderprogramme immer wieder den neuen Herausforderungen der Städte und Gemeinden anzupassen und sie fortzuentwickeln. (Sören Bartol [SPD]: Aber doch nicht runterstreichen!) Nichts anderes haben wir getan. Vizepräsident Dr. Hermann Otto Solms: Herr Kollege Döring, gestatten Sie eine Zwischenfrage? Patrick Döring (FDP):</stage>
           <p>Vielen Dank, Herr Präsident. Aber wir führen heute keine steuerpolitische Debatte. - Es gibt jedoch mehr als eine reine Mittelausstattung. Es gibt vernünftige Programme, in deren Rahmen wir das tun können. Der Kollege Wegner hat dankenswerterweise darauf hingewiesen, dass es insbesondere in Berlin bei den Städtebauförderprogrammen zu erheblichen Zweckentfremdungen kommt. Das wollen wir vermeiden, um die Steuerzahlerinnen und Steuerzahler nicht zu überfordern. Deshalb haben wir dort nachgeschärft.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Abg. Stefan Liebich [DIE LINKE] meldet sich zu einer Zwischenfrage)</stage>
           <p>Eine abschließende Bemerkung, liebe Kolleginnen und Kollegen. Dies ist eine baupolitische Debatte. Deshalb muss sie über den Punkt der Wohn- und Immobilienwirtschaft weit hinausgehen. Ich glaube, es ist ein gutes Signal für Deutschland, dass die baden-württembergische grün-rote Landesregierung heute entschieden hat, Stuttgart 21 weiterzubauen.</p>
@@ -1114,19 +1109,23 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Herr Döring, wollen Sie noch eine Zwischenfrage zulassen?</p>
         </sp>
-        <sp who="Patrick Döring" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Patrick Döring">
+      </div>
+      <div type="agenda_item" n="19" what="debate" desc="Debatte">
+        <sp who="Patrick Döring" parliamentary_group="FDP" role="mp" position="NA" who_original="Patrick Döring" party="FDP" name="Patrick Döring">
           <speaker>Patrick Döring (FDP):</speaker>
           <p>Danke, nein.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Wollen Sie nicht. - Dann erteile ich dem Kollegen Florian Pronold das Wort zu einer Kurzintervention.</p>
         </sp>
-        <sp who="Florian Pronold" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Florian Pronold">
+      </div>
+      <div type="agenda_item" n="20" what="debate" desc="Debatte">
+        <sp who="Florian Pronold" parliamentary_group="SPD" role="mp" position="NA" who_original="Florian Pronold" party="SPD" name="Florian Pronold">
           <speaker>Florian Pronold (SPD):</speaker>
           <p>Herr Döring, ich frage nach, damit wir das auch im Protokoll stehen haben; denn ich glaube, das ist eine spannende Frage, die Sie aufgeworfen haben. Sie haben hier am Rednerpult gesagt, dass diejenigen die 10-mal-10-Förderung bekommen, die aus Eigenmitteln sanieren. Das bedeutet, im Falle einer Kreditfinanzierung gibt es diese 10-mal-10-Förderung nicht.</p>
           <stage type="interjection">(Patrick Döring [FDP]: Das ist nicht so! Aber ich stelle das klar!)</stage>
@@ -1139,20 +1138,24 @@
           <p>Die zweite Frage ist, ob Sie den Steuervorteil auch den Mieterinnen und Mietern zugutekommen lassen, wie wir das auch bei der KfW-Förderung machen. Da darf nämlich dieser Anteil nicht auf die Mieterinnen und Mieter umgelegt werden. Sorgen Sie dafür, dass die Mieterinnen und Mieter auch von dem Steuervorteil profitieren; dann werden wir uns gerne auf diese Regelung einlassen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Es kommt noch eine zweite Kurzintervention des Kollegen Stefan Liebich. - Bitte schön. Erst die zweite Kurzintervention, Herr Döring kann dann beide zusammen beantworten.</p>
         </sp>
-        <sp who="Stefan Liebich" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Stefan Liebich">
+      </div>
+      <div type="agenda_item" n="21" what="debate" desc="Debatte">
+        <sp who="Stefan Liebich" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Stefan Liebich" party="DIE LINKE" name="Stefan Liebich">
           <speaker>Stefan Liebich (DIE LINKE):</speaker>
           <p>Herr Döring, Sie haben eben wie der Kollege Wegner auf die Politik des Landes Berlin Bezug genommen. Ich möchte nicht, dass hier Legenden im Raum stehen bleiben. Deshalb möchte ich Sie darüber informieren, dass das Land Berlin im Bundesrat auf Vorschlag des Wirtschaftssenators Harald Wolf den Antrag gestellt hat, die Kürzungen bei der Städtebauförderung zurückzunehmen, dass der Bundesrat dem zugestimmt hat und dass das Problem nicht das Land Berlin ist, sondern die Mehrheit hier im Deutschen Bundestag.</p>
           <stage type="interjection">(Beifall bei der LINKEN - Sören Bartol [SPD]: Ihr seid das Problem!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Jetzt Kollege Döring zur Erwiderung.</p>
         </sp>
-        <sp who="Patrick Döring" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Patrick Döring">
+      </div>
+      <div type="agenda_item" n="22" what="debate" desc="Debatte">
+        <sp who="Patrick Döring" parliamentary_group="FDP" role="mp" position="NA" who_original="Patrick Döring" party="FDP" name="Patrick Döring">
           <speaker>Patrick Döring (FDP):</speaker>
           <p>Geschätzter Kollege Liebich, es wird in den Auseinandersetzungen zwischen Bundestag und Bundesrat immer wieder Punkte geben, bei denen sich der eine oder andere Partner finanziell über- oder unterfordert fühlt.</p>
           <stage type="interjection">(Sören Bartol [SPD]: Habt ihr jetzt gekürzt, ja oder nein?)</stage>
@@ -1163,12 +1166,14 @@
           <p>Was die Umlageidee angeht, bleibe ich ganz hart im Steuerrecht. Der einkommensteuerliche Vorteil ist die Sache des Steuerpflichtigen. Wie der dann mit seiner veränderten Renditeberechnung seine Miete kalkuliert, ist ihm überlassen, solange wir eine soziale Marktwirtschaft haben.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat nun die Kollegin Ingrid Remmers von der Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Ingrid Remmers" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Ingrid Remmers">
+      </div>
+      <div type="agenda_item" n="23" what="debate" desc="Debatte">
+        <sp who="Ingrid Remmers" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Ingrid Remmers" party="DIE LINKE" name="Ingrid Remmers">
           <speaker>Ingrid Remmers (DIE LINKE):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Seit Wochen diskutieren wir den Ausstieg aus der Atomenergie. Auch wenn die Linke die bisherigen Vorschläge eher als Herauskriechen denn als Aussteigen bezeichnet, haben wir hier immerhin Konsens. Nach Fukushima und langen Diskussionen über unsere künftige Energieversorgung sind wir uns also in einigen Punkten weitestgehend einig. Wir wollen keine unkalkulierbaren Risiken durch Atomkraft, wir wollen saubere, erneuerbare Energien. Auf dem Weg dorthin müssen wir Energie sparen. Insofern ist auch die energetische Sanierung des Wohnraums an sich Konsens.</p>
           <p>Während wir aber einerseits keine unkalkulierbaren Risiken durch Atomkraft wollen, ist die Bundesregierung mehr als bereit, in der Sanierungsfrage den Mieterinnen und Mietern unkalkulierbare Kostenerhöhungen aufzubürden. Das lehnt die Linke ab.</p>
@@ -1194,12 +1199,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat der Kollege Volkmar Vogel von der CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Volkmar Vogel" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Volkmar Vogel">
+      </div>
+      <div type="agenda_item" n="24" what="debate" desc="Debatte">
+        <sp who="Volkmar Vogel (Kleinsaara)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Volkmar Vogel (Kleinsaara)" party="CDU" name="Volkmar Uwe Vogel">
           <speaker>Volkmar Vogel (Kleinsaara) (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Um es hier noch einmal deutlich zu machen: Die Maßnahmen zur Verbesserung der Energieeffizienz, die wir derzeit anstreben, sind nichts anderes als die konsequente Umsetzung unseres Energiekonzeptes vom Oktober 2010. Die Anträge der Opposition, über die wir heute reden, sind alle später eingegangen. So viel zum Thema, wer wem nachfolgt.</p>
           <stage type="interjection">(Florian Pronold [SPD]: Wie war denn der Haushaltsansatz bei KfW im Oktober 2010?)</stage>
@@ -1232,12 +1239,14 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat der Kollege Michael Groß von der SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Michael Groß" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Michael Groß">
+      </div>
+      <div type="agenda_item" n="25" what="debate" desc="Debatte">
+        <sp who="Michael Groß" parliamentary_group="SPD" role="mp" position="NA" who_original="Michael Groß" party="SPD" name="Michael Groß">
           <speaker>Michael Groß (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Sehr geehrte Damen und Herren! Heute wurden schon große Worte gefunden. Die FDP setzt auf Freiheit und in den Programmen auf Anreize. Im Unterschied dazu sind für die SPD drei Dinge wichtig: Freiheit, Solidarität und Gerechtigkeit. Das müssen wir auch in den Programmen umsetzen.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
@@ -1256,16 +1265,18 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt der Kollege Karl Holmeier von der CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Karl Holmeier" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Karl Holmeier">
+      </div>
+      <div type="agenda_item" n="26" what="debate" desc="Debatte">
+        <sp who="Karl Holmeier" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Karl Holmeier" party="CSU" name="Karl Holmeier">
           <speaker>Karl Holmeier (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Verehrte Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! Andere sprechen über die Energieeffizienz im Gebäudebereich, die christlich-liberale Koalition handelt, und zwar mit Augenmaß, bürgerfreundlich und vor allem verantwortungsbewusst mit Blick auf die nachfolgenden Generationen. Die hier zur Debatte stehenden Anträge der Opposition lassen diese Punkte nicht erkennen. Sie sind zum Teil weltfremd und gehen an der Realität vorbei.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der FDP)</stage>
-          <p>Aus meiner Sicht müssen sich die Maßnahmen zur Steigerung der Energieeffizienz an drei wesentlichen Kriterien orientieren und diese erfüllen. Sie müssen durch den Bundeshaushalt finanzierbar sein. Sie dürfen die Menschen nicht überfordern; das heißt, die Standards dürfen nicht zu hoch sein. Die Maßnahmen müssen so angelegt sein, dass sich die Häuslebauer die Modernisierung leisten können. </p>
+          <p>Aus meiner Sicht müssen sich die Maßnahmen zur Steigerung der Energieeffizienz an drei wesentlichen Kriterien orientieren und diese erfüllen. Sie müssen durch den Bundeshaushalt finanzierbar sein. Sie dürfen die Menschen nicht überfordern; das heißt, die Standards dürfen nicht zu hoch sein. Die Maßnahmen müssen so angelegt sein, dass sich die Häuslebauer die Modernisierung leisten können.</p>
           <p>Wir haben es im letzten Jahr in äußerst schwierigen Haushaltszeiten geschafft, das CO2-Gebäudesanierungsprogramm und auch die Städtebauförderung erfolgreich fortzuführen. Dies war und dies ist ein Riesenerfolg. Diese Bundesregierung hat es im Interesse der nachfolgenden Generationen geschafft, ein historisch einmaliges und umfassendes Konsolidierungsprogramm aufzulegen. Das hatte natürlich Einschnitte bei der Förderung der energetischen Gebäudesanierung zur Folge. Anscheinend ist hier einiges an Ihnen von der Opposition vorbeigegangen.</p>
           <p>Weiterhin scheinen Sie auch auszublenden, dass die christlich-liberale Bundesregierung im vergangenen Herbst ein ebenfalls historisch einmaliges Energiekonzept vorgelegt hat.</p>
           <stage type="interjection">(Bettina Herlitzius [BÜNDNIS 90/DIE GRÜNEN]: Aber nicht umgesetzt!)</stage>
@@ -1284,12 +1295,14 @@
           <p>Einen herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Daniela Wagner [BÜNDNIS 90/DIE GRÜNEN]: Sie werden unseren heißen Atem im Nacken spüren!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Als letzter Redner zu diesem Tagesordnungspunkt hat nun der Kollege Dirk Fischer von der CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dirk Fischer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Dirk Fischer">
+      </div>
+      <div type="agenda_item" n="27" what="debate" desc="Debatte">
+        <sp who="Dirk Fischer (Hamburg)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Dirk Fischer (Hamburg)" party="CDU" name="Dirk Fischer">
           <speaker>Dirk Fischer (Hamburg) (CDU/CSU):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Wir sind uns darin einig, dass die Energiewende eine der größten technischen, wirtschaftlichen und gesellschaftlichen Herausforderungen in unserer Geschichte ist.</p>
           <stage type="interjection">(Bettina Herlitzius [BÜNDNIS 90/DIE GRÜNEN]: Hört! Hört!)</stage>
@@ -1344,7 +1357,7 @@
           <p>Ich komme zum Schluss. Bei allen gebäudebezogenen Maßnahmen ist auf dem Weg zur Energiewende Folgendes wichtig: Wohnen muss bezahlbar bleiben. Mit Fordern und Fördern erreicht man viel mehr als mit Zwang und Kontrollwahn. Nur so, verehrte Kolleginnen und Kollegen, ist eine breite Akzeptanz der beschleunigten Energiewende seitens unserer Bürgerinnen und Bürger möglich. Und daran wollen wir arbeiten.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird die Überweisung der Vorlage auf Drucksache 17/5778 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? - Das ist der Fall. Dann ist die Überweisung so beschlossen.</p>
@@ -1356,19 +1369,19 @@
           <p>Ich rufe den Tagesordnungspunkt 30 auf:</p>
           <p>Beratung des Antrags der Fraktionen CDU/CSU, SPD, FDP und BÜNDNIS 90/DIE GRÜNEN</p>
           <p>Deutschland und Polen - Verantwortung aus der Geschichte, Zukunft und Europa</p>
-          <p>- Drucksache 17/6145 - </p>
+          <p>- Drucksache 17/6145 -</p>
           <p>Nach einer interfraktionellen Vereinbarung ist für die Aussprache eine Dreiviertelstunde vorgesehen. Gibt es Widerspruch? - Das ist nicht der Fall.</p>
           <p>Ich eröffne die Aussprache und erteile als erstem Redner das Wort dem Kollegen Karl-Georg Wellmann von der CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="3" what="debate" desc="Beratung des Antrags der Fraktionen CDU/CSU, SPD, FDP und BÜNDNIS 90/DIE GRÜNEN">
-        <sp who="Karl-Georg Wellmann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Karl-Georg Wellmann">
+      <div type="agenda_item" n="28" what="debate" desc="Debatte">
+        <sp who="Karl-Georg Wellmann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Karl-Georg Wellmann" party="CDU" name="Karl-Georg Wellmann">
           <speaker>Karl-Georg Wellmann (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Vor 20 Jahren haben wir mit Polen einen Freundschaftsvertrag geschlossen, der für das deutsch-polnische Verhältnis gut und wichtig war. Wir sind in diesen 20 Jahren weit gekommen. Das zeigt der Vertragstext selbst. Nach dem schrecklichen 20. Jahrhundert war Art. 5 wichtig; denn dort steht, dass wir uns weder bedrohen noch übereinander herfallen wollen.</p>
           <p>Die heute 20-jährigen Deutschen oder Polen fragen uns verwundert, warum das in diesem Vertrag steht. Sie fragen uns das, weil die Vorstellung von Gewaltanwendung für sie genauso absurd klingt, wie es das für uns damals in Bezug auf das Verhältnis zu Frankreich geklungen hätte. Ich sage ausdrücklich: Es ist ein gutes Zeichen, wenn man bei der Gewaltanwendung zwischen Deutschen und Polen eher an die Herbeirufung eines Nervenarztes als an eine reale Möglichkeit denkt. Die Vorstellung einer gewaltsamen militärischen Auseinandersetzung im deutsch-polnischen Verhältnis ist absurd geworden.</p>
-          <p>Wir haben Gott sei Dank nicht deshalb ein gutes Verhältnis, weil es den Vertrag gibt - so gut und wichtig er ist -, sondern wir haben aus zwei Gründen ein gutes Verhältnis: </p>
-          <p>Erstens. Wir Deutsche haben aus der Katastrophe von Krieg und Naziherrschaft die Konsequenzen gezogen und uns fest in das transatlantische Verhältnis einbezogen. Außerdem war die europäische Einigung eines unserer wichtigsten außenpolitischen Ziele, und Polen ist jetzt wie wir Teil des transatlantischen europäischen Bündnisses. </p>
+          <p>Wir haben Gott sei Dank nicht deshalb ein gutes Verhältnis, weil es den Vertrag gibt - so gut und wichtig er ist -, sondern wir haben aus zwei Gründen ein gutes Verhältnis:</p>
+          <p>Erstens. Wir Deutsche haben aus der Katastrophe von Krieg und Naziherrschaft die Konsequenzen gezogen und uns fest in das transatlantische Verhältnis einbezogen. Außerdem war die europäische Einigung eines unserer wichtigsten außenpolitischen Ziele, und Polen ist jetzt wie wir Teil des transatlantischen europäischen Bündnisses.</p>
           <p>Zweitens. Wir haben, wie es schon in der Präambel des alten Vertrages heißt, eine jahrhundertelange, gute Geschichte, und Polen und Deutsche könnten von einer engen Zusammenarbeit unendlich profitieren.</p>
           <p>Fußball ist für uns Deutsche fast das Wichtigste,</p>
           <stage type="interjection">(Manuel Sarrazin [BÜNDNIS 90/DIE GRÜNEN]: In dieser Koalition hat man ja auch sonst nichts!)</stage>
@@ -1380,7 +1393,7 @@
           <p>Auch das ist ein polnischer Name.</p>
           <stage type="interjection">(Jerzy Montag [BÜNDNIS 90/DIE GRÜNEN]: Sie können auch bei den Vornamen nachschauen! - Gegenruf der Abg. Gisela Piltz [FDP]: Herr Montag möchte auch erwähnt werden! - Heiterkeit)</stage>
           <p>1981 im ersten Kabinett des alten Weizsäckers waren Rastemborski und Wronski Senatoren.</p>
-          <p>Niemals können wir vergessen, was dann im ausgehenden 19. Jahrhundert und im 20. Jahrhundert kam: erst der Nationalismus, dann die Pest des Nationalsozialismus und der deutsche Angriffskrieg mit Millionen toter Polen, Millionen toter polnischer und nicht polnischer Juden, von den weiteren Millionen Toten gar nicht zu sprechen. </p>
+          <p>Niemals können wir vergessen, was dann im ausgehenden 19. Jahrhundert und im 20. Jahrhundert kam: erst der Nationalismus, dann die Pest des Nationalsozialismus und der deutsche Angriffskrieg mit Millionen toter Polen, Millionen toter polnischer und nicht polnischer Juden, von den weiteren Millionen Toten gar nicht zu sprechen.</p>
           <p>Auch heute treibt es einem die Schamesröte ins Gesicht, wenn man sieht, was die Deutschen in Polen angerichtet haben. Allerdings schämt man sich auch angesichts der Einmarschpläne, die Honecker 1981 ausarbeiten ließ, um gemeinsam mit der Roten Armee in Polen zu intervenieren und dort die Demokratiebewegung niederzuschlagen. Dazu ist es Gott sei Dank nicht gekommen. Aber das wäre dann das zweite Mal nach 1939 gewesen. Da haben Sie von der Linkspartei, Herr Liebich, noch viel aufzuarbeiten.</p>
           <stage type="interjection">(Stefan Liebich [DIE LINKE]: Was habe ich mit Herrn Honecker zu tun?)</stage>
           <p>- Als SED-Nachfolgepartei hätten Sie das bitter nötig; das darf ich Ihnen einmal sagen.</p>
@@ -1398,11 +1411,13 @@
           <p>Ich danke Ihnen für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU, der SPD, der FDP und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat der Kollege Dietmar Nietan von der SPD-Fraktion.</p>
         </sp>
-        <sp who="Dietmar Nietan" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dietmar Nietan">
+      </div>
+      <div type="agenda_item" n="29" what="debate" desc="Debatte">
+        <sp who="Dietmar Nietan" parliamentary_group="SPD" role="mp" position="NA" who_original="Dietmar Nietan" party="SPD" name="Dietmar Nietan">
           <speaker>Dietmar Nietan (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Wenn man in Warschau durch das Museum des Warschauer Aufstands geht und sich die Exponate anschaut, sich mit den Ton- und Filmdokumenten beschäftigt und die einzelnen Geschichten von mutigen Menschen liest, die sich bis in den Tod hinein ihre Würde bewahrt haben, dann kann man ermessen, was die Bürgerinnen und Bürger in Warschau und die Armia Krajowa, stellvertretend für das ganze polnische Volk, zwischen dem 1. August und dem 3. Oktober 1944 geleistet haben.</p>
           <p>Man kann ermessen, wie schwer es war, dass sich dort eine Kulturnation selbst in barbarischster Unterdrückung ihre Würde in geradezu vorbildhafter Weise bewahrt hat. Es wurde nicht nur ein Kampf geführt, den man am Ende - wir alle wissen, warum - nicht gewinnen konnte. Es wurde in dieser Zeit Freiheit, Demokratie, Gerechtigkeit, Kultur, Musik gelebt, und zwar im wahrsten Sinne des Wortes im Untergrund.</p>
@@ -1430,20 +1445,22 @@
           <p>Wir müssen aber auch all denjenigen in Polen eine Absage erteilen, die Symmetrie sozusagen mit dem Rechenschieber schaffen wollen und sich jetzt an der Frage festklammern, ob es einen Minderheitenstatus geben soll. Es geht hier nicht um Statusfragen. Es geht auch nicht um die Frage, ob wir, wem auch immer, noch 300 Millionen oder 400 Millionen Euro zu zahlen hätten. Es geht vielmehr darum, dass wir uns auf gleicher Augenhöhe begegnen und mit Interesse und Wertschätzung behandeln. Das macht man nicht mit dem Rechenschieber an irgendwelchen Millionenbeträgen oder Statusfragen fest, sondern an konkreten gemeinsamen Projekten. Darauf geht der Antrag ein. Das sollten unsere polnischen Freunde richtig verstehen.</p>
           <p>Jetzt, im Jahr 2011, ist es unsere gemeinsame Aufgabe, für Polen und Deutsche aus unserer gemeinsamen Geschichte heraus etwas gemeinsam zu unterstützen, das uns, glaube ich, besonders am Herzen liegt, nämlich die Vollendung der Einheit Europas. Ein vereintes Europa in Freiheit, Gerechtigkeit und Solidarität gibt es noch nicht.</p>
           <p>Es ist gut, dass uns unsere polnischen Freunde mit bestimmten Sichtweisen und Empfindlichkeiten begegnen und vielleicht auch manchmal, wie man so sagt, etwas nerven. Denn sie weisen auf etwas hin, das wir insbesondere im Westen allzu schnell vergessen. Im Jahr 2004 gab es nicht einfach eine technische Erweiterung der Europäischen Union. Im Jahr 2004 sind wir der Wiedervereinigung Europas einen großen Schritt nähergekommen. Seit dem Jahr 2004 gibt es eine neue Europäische Union.</p>
-          <p>Ich würde mir deshalb wünschen, dass manch einer von denen, die sehr schnell über das urteilen, was Polen gut macht oder nicht, darüber nachdenkt, wie uns Teile Mittel- und Osteuropas wieder mit ihrer Kultur, Geschichte und auch mit ihrer anderen politischen Identität, die durch 40 Jahre kommunistischer Gewaltherrschaft geprägt wurde, bereichern, auch wenn das vielleicht manchmal anstrengend ist. </p>
+          <p>Ich würde mir deshalb wünschen, dass manch einer von denen, die sehr schnell über das urteilen, was Polen gut macht oder nicht, darüber nachdenkt, wie uns Teile Mittel- und Osteuropas wieder mit ihrer Kultur, Geschichte und auch mit ihrer anderen politischen Identität, die durch 40 Jahre kommunistischer Gewaltherrschaft geprägt wurde, bereichern, auch wenn das vielleicht manchmal anstrengend ist.</p>
           <p>Ich würde mir wünschen, dass wir erkennen, dass wir vielleicht für die Vereinigung Europas in Frieden, Freiheit, Gerechtigkeit und Solidarität Polen mehr brauchen als die Polen uns. In diesem Sinne, so glaube ich, weist dieser Antrag in die richtige Richtung. Wir alle sollten gemeinsam in den nächsten Jahren daran arbeiten, dass das, was wir dort beschrieben haben, ein Stückchen mehr Wirklichkeit wird.</p>
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD, der CDU/CSU, der FDP und dem BÜNDNIS 90/DIE GRÜNEN sowie des Abg. Stefan Liebich [DIE LINKE])</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt die Staatsministerin im Auswärtigen Amt Cornelia Pieper.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Cornelia Pieper" parliamentary_group="NA" role="government" position="Staatsministerin im Auswärtigen Amt" party="FDP" name="Cornelia Pieper">
+      </div>
+      <div type="agenda_item" n="30" what="debate" desc="Debatte">
+        <sp who="Cornelia Pieper" parliamentary_group="NA" role="government" position="Staatsministerin im Auswärtigen Amt" who_original="Cornelia Pieper" party="FDP" name="Cornelia Pieper">
           <speaker>Cornelia Pieper, Staatsministerin im Auswärtigen Amt:</speaker>
           <p>Danke. - Herr Präsident! Liebe Kolleginnen und Kollegen! In der Tat: Der 17. Juni ist ein symbolträchtiger Tag. Wie sich der 17. Juni 1953 ins Gedächtnis der Deutschen als Tag des Aufstands gegen ein totalitäres Regime eingeprägt hat, so wurde der 17. Juni 1991 durch eine glückliche historische Fügung zum Tag der Unterzeichnung des deutsch-polnischen Nachbarschaftsvertrags. Ohne die Freiheitsbewegung der Solidarnosc, ohne den Freiheitswillen des polnischen Volkes wäre dieser Tag nicht möglich gewesen. So verbinden sich mit diesem Datum die Freiheit des polnischen und des deutschen Volkes in Freundschaft und Partnerschaft sehr eng miteinander.</p>
-          <p>Ohne Zweifel, der deutsch-polnische Nachbarschaftsvertrag ist eine wichtige Grundlage unserer Beziehung zu Polen in einem freien Europa. Er ist ein zentrales Element der deutschen Außenpolitik geworden - und im Übrigen auch eine große Erfolgsgeschichte. Der ehemalige polnische Außenminister und Mitunterzeichner des Vertrages, Krzysztof Skubiszewski, hatte recht, als er formulierte: </p>
+          <p>Ohne Zweifel, der deutsch-polnische Nachbarschaftsvertrag ist eine wichtige Grundlage unserer Beziehung zu Polen in einem freien Europa. Er ist ein zentrales Element der deutschen Außenpolitik geworden - und im Übrigen auch eine große Erfolgsgeschichte. Der ehemalige polnische Außenminister und Mitunterzeichner des Vertrages, Krzysztof Skubiszewski, hatte recht, als er formulierte:</p>
           <p>Eine gute polnisch-deutsche Nachbarschaft stellt einen Grundpfeiler der gemeinsamen Bemühungen um die europäische Einheit dar.</p>
           <p>Um klarzusehen, genügt oftmals der Wechsel der Blickrichtung. Wir haben in der deutschen Europa- und Außenpolitik viele Jahrzehnte unseren Blick sehr stark auf den Westen fokussiert. Ich wage, zu behaupten: Die Zukunft Europas liegt im Osten. Heute sind wir und Polen Freunde und Partner, wir sind in Europa partnerschaftlich vereint. Es war von Anfang an die junge Generation, die Europa gewollt hat, um nach den Schrecken des Zweiten Weltkriegs eine neue und friedliche Zukunft zu gestalten. Es waren Visionäre und Enthusiasten, und sie hatten Erfolg. Diesen europäischen Kontext denken wir stets mit, wenn wir den Blick auf die künftige deutsch-polnische Zusammenarbeit richten. Adam Krzeminski, der polnische Historiker und Journalist, hat zu Recht diese deutsch-polnische Zusammenarbeit als einen Testfall für Europa bezeichnet. Diesen Test immer wieder neu zu bestehen, muss unser Ziel sein. Dabei wissen wir um die besondere Verantwortung, die wir im Verhältnis zu Polen tragen. Die Aussöhnung mit Polen ist uns heute genauso wie zuvor mit Frankreich gelungen. Wir als Koalition haben in den Koalitionsvertrag bewusst hineingeschrieben, dass wir die polnischen Beziehungen auf gleicher Augenhöhe mit den französischen Beziehungen sehen wollen.</p>
           <p>Wenn wir auf die letzten 20 Jahre zurückschauen, dann sehen wir, dass unzählige Menschen, Vereine und Institutionen enorm viel für die Verbesserung und Stabilisierung der deutsch-polnischen Beziehungen geleistet haben. Das freut mich insbesondere als für die Zivilgesellschaften zuständige Beauftragte für die deutsch-polnischen Beziehungen. Wir haben gerade auf der zwischengesellschaftlichen Ebene im Bereich der kulturellen und regionalen Zusammenarbeit eine Normalität erreicht, die wir uns vor 20 Jahren nicht hätten erträumen können. Die deutsch-polnische Versöhnung, getragen vom europäischen Gedanken, hat das Leben gerade vieler junger Menschen in neue Bahnen gelenkt. Es ist erst wenig mehr als 20 Jahre her, dass für viele von uns heute alltägliche Dinge nicht selbstverständlich waren. Die Welt vieler Europäer, von Beton und Stacheldraht begrenzt, war ziemlich klein. Die Freiheiten waren rar und die Feindbilder klar umrissen. Heute studieren junge Deutsche und Polen gemeinsam in Paris, London, Warschau oder Berlin und finden dies völlig normal.</p>
@@ -1458,12 +1475,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Der Kollege Stefan Liebich hat für die Fraktion Die Linke das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Stefan Liebich" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Stefan Liebich">
+      </div>
+      <div type="agenda_item" n="31" what="debate" desc="Debatte">
+        <sp who="Stefan Liebich" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Stefan Liebich" party="DIE LINKE" name="Stefan Liebich">
           <speaker>Stefan Liebich (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Sehr geehrte Damen und Herren! Der Grenzvertrag, der Vertrag über gute Nachbarschaft und freundschaftliche Zusammenarbeit, ist seit 20 Jahren Grundlage für die partnerschaftliche Zusammenarbeit zwischen Deutschland und Polen. Ja, die Unterzeichnung ist ein Ereignis von historischer Bedeutung. Ich finde es richtig, dies durch die Debatte hier zu unterstreichen.</p>
           <p>Allerdings wäre es sicherlich auch möglich gewesen - das kann ich Ihnen nicht ersparen -, gemeinsame Positionen zu formulieren. Auf unseren Beitrag haben Sie wegen der Albernheiten der CDU/CSU wieder verzichtet. Wie üblich haben sich SPD und Bündnis 90/Die Grünen darauf eingelassen. Dabei hätten wir durchaus einiges einzubringen gehabt. Das werde ich jetzt natürlich mündlich nachholen.</p>
@@ -1493,21 +1512,25 @@
           <p>Ich glaube auch, das sind Punkte, die nach wie vor das Misstrauen vieler Polinnen und Polen begründen. Hier liegt eine Ursache dafür, dass die Polen die Garanten für ihre Sicherheit eher in den Vereinigten Staaten als in Europa sehen. Ich sehe das durchaus kritisch: Stichwort "altes Europa", eine Diskussion, die wir alle vor ein paar Jahren zur Kenntnis nehmen mussten.</p>
           <p>Ich möchte nach vorn schauen.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollege Liebich, achten Sie bitte auf das Signal.</p>
         </sp>
-        <sp who="Stefan Liebich" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Stefan Liebich">
+      </div>
+      <div type="agenda_item" n="32" what="debate" desc="Debatte">
+        <sp who="Stefan Liebich" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Stefan Liebich" party="DIE LINKE" name="Stefan Liebich">
           <speaker>Stefan Liebich (DIE LINKE):</speaker>
           <p>Ich komme zum Schluss. - Frau Staatsministerin Pieper hat es ja gesagt: Die gute Nachbarschaft existiert bereits neben den Tischreden, neben den Verträgen. Es gibt polnische Diskotheken im Ruhrgebiet, es gibt Kunst und Kultur aus Polen hier in Berlin, Touristen besuchen einander. Darauf können wir aufbauen. Die polnische Minderheit in Deutschland, die deutsche Minderheit in Polen können dafür Brücke sein. Das funktioniert. Ihren Antrag braucht dafür allerdings kein Mensch.</p>
           <p>Ich danke Ihnen für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der LINKEN - Wolfgang Wieland [BÜNDNIS 90/DIE GRÜNEN]: Er sollte in den Text schauen!)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
-          <p>Für die Fraktion Bündnis 90/Die Grünen hat der Kollege Sarrazin das Wort. </p>
+          <p>Für die Fraktion Bündnis 90/Die Grünen hat der Kollege Sarrazin das Wort.</p>
         </sp>
-        <sp who="Manuel Sarrazin" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Manuel Sarrazin">
+      </div>
+      <div type="agenda_item" n="33" what="debate" desc="Debatte">
+        <sp who="Manuel Sarrazin" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Manuel Sarrazin" party="GRUENE" name="Manuel Sarrazin">
           <speaker>Manuel Sarrazin (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Ich bin sehr froh, dass wir diesen Antrag gemeinsam einbringen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU, der SPD und der FDP)</stage>
@@ -1529,12 +1552,14 @@
           <p>Danke sehr.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Der Kollege Silberhorn hat für die Unionsfraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Thomas Silberhorn" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Thomas Silberhorn">
+      </div>
+      <div type="agenda_item" n="34" what="debate" desc="Debatte">
+        <sp who="Thomas Silberhorn" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Thomas Silberhorn" party="CSU" name="Thomas Silberhorn">
           <speaker>Thomas Silberhorn (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Als Helmut Kohl und der polnische Ministerpräsident Bielecki vor 20 Jahren den deutsch-polnischen Vertrag über gute Nachbarschaft und freundschaftliche Zusammenarbeit unterzeichnet haben, wollten sie ganz bewusst zum Dialog, zur Zusammenarbeit und zur gemeinsamen Gestaltung Europas aufrufen.</p>
           <p>Wir können im Rückblick auf die letzten 20 Jahre feststellen: Wir haben viel erreicht. Deutsche und Polen sind heute gute Nachbarn, Partner, oft auch Freunde. Wir haben sehr wichtige Handelsbeziehungen. Die Menschen auf beiden Seiten von Oder und Neiße haben die offenen Grenzen als Chance für sich genutzt. Polen ist 2004 mit großer Unterstützung Deutschlands der EU und bereits 1999 der NATO beigetreten. 2007 ist Polen Mitglied der Schengen-Zone geworden. Bei der Ausgestaltung der europäischen Politik arbeiten wir eng und vertrauensvoll zusammen.</p>
@@ -1551,12 +1576,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Der Kollege Brähmig hat für die Unionsfraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Klaus Brähmig" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Klaus Brähmig">
+      </div>
+      <div type="agenda_item" n="35" what="debate" desc="Debatte">
+        <sp who="Klaus Brähmig" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Klaus Brähmig" party="CDU" name="Klaus Brähmig">
           <speaker>Klaus Brähmig (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Manchmal ist weniger mehr. So findet sich in dem vorliegenden Antrag "Deutschland und Polen - Verantwortung aus der Geschichte, Zukunft in Europa" keine explizite Erwähnung des Kapitels der jüngsten deutsch-polnischen Geschichte, aus dem bis heute eine besondere Verantwortung beider Länder herrührt. Obwohl die Vertreibung der Deutschen nicht konkreter Bestandteil der vertraglichen Verpflichtungen des Nachbarschaftsvertrages ist, dessen Bilanz wir heute ziehen, unterstütze ich den Antrag ausdrücklich.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU, der SPD und der FDP)</stage>
@@ -1583,7 +1610,7 @@
           <p>Ich danke Ihnen für Ihre Aufmerksamkeit und wünsche von dieser Stelle allen ein gesegnetes Pfingstfest.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über den Antrag der Fraktionen der CDU/CSU, SPD, FDP und Bündnis 90/ Die Grünen auf Drucksache 17/6145 mit dem Titel "Deutschland und Polen - Verantwortung aus der Geschichte, Zukunft in Europa". Wer stimmt für diesen Antrag? - Wer stimmt dagegen? - Wer enthält sich? - Der Antrag ist mit den Stimmen der Unionsfraktion, der SPD-Fraktion, der FDP-Fraktion und der Fraktion Bündnis 90/Die Grünen angenommen.</p>
@@ -1629,7 +1656,7 @@
           <p>Swen Schulz (Spandau)</p>
           <p>Dr. Martin Neumann (Lausitz)</p>
           <p>Nicole Gohlke</p>
-          <p>Kai Gehring </p>
+          <p>Kai Gehring</p>
           <p>Nach einer interfraktionellen Vereinbarung ist für die Aussprache eine Dreiviertelstunde vorgesehen. - Ich höre keinen Widerspruch. Dann ist das so beschlossen.</p>
           <stage type="interjection">(Unruhe)</stage>
           <p>- Ich würde gerne die Aussprache eröffnen, werde das aber erst dann tun, wenn wir die nötige Aufmerksamkeit für die Rednerinnen und Redner gewährleisten können.</p>
@@ -1637,8 +1664,8 @@
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="4" what="debate" desc="a) Beratung des Antrags der Abgeordneten Marianne Schieder (Schwandorf), Swen Sc...">
-        <sp who="Dagmar Ziegler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dagmar Ziegler">
+      <div type="agenda_item" n="36" what="debate" desc="Debatte">
+        <sp who="Dagmar Ziegler" parliamentary_group="SPD" role="mp" position="NA" who_original="Dagmar Ziegler" party="SPD" name="Dagmar Ziegler">
           <speaker>Dagmar Ziegler (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Kolleginnen und Kollegen! Heute geht es um das leidige Thema Kooperationsverbot. Das Kooperationsverbot wurde im Zuge der Föderalismusreform 2006 in das Grundgesetz geschrieben. Ich glaube, wir haben mittlerweile alle einen Reife- und Erkenntnisprozess durchlaufen und sehen ein: Es war ein Fehler.</p>
           <stage type="interjection">(Dr. Martin Neumann [Lausitz] [FDP]: Richtig!)</stage>
@@ -1669,12 +1696,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Staatsminister für Unterricht und Kultus des Freistaats Bayern, Dr. Ludwig Spaenle.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Ludwig Spaenle" parliamentary_group="NA" role="federal_council" position="Staatsminister" party=" CSU" name=" Ludwig Spaenle">
+      </div>
+      <div type="agenda_item" n="37" what="debate" desc="Debatte">
+        <sp who="Dr. Ludwig Spaenle" parliamentary_group="NA" role="federal_council" position="Staatsminister" who_original="Dr. Ludwig Spaenle" party="CSU" name="Ludwig Spaenle">
           <speaker>Dr. Ludwig Spaenle, Staatsminister (Bayern):</speaker>
           <p>Frau Präsidentin! Hohes Haus! Der Föderalismus ist ein Herzstück der Verfassungsordnung in der Bundesrepublik Deutschland.</p>
           <stage type="interjection">(Wolfgang Wieland [BÜNDNIS 90/DIE GRÜNEN]: Eine Länderbank mit einem Freistaat!)</stage>
@@ -1699,12 +1728,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Die Kollegin Dr. Hein hat für die Fraktion Die Linke das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Rosemarie Hein" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Rosemarie Hein">
+      </div>
+      <div type="agenda_item" n="38" what="debate" desc="Debatte">
+        <sp who="Rosemarie Hein" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Rosemarie Hein" party="DIE LINKE" name="Rosemarie Hein">
           <speaker>Dr. Rosemarie Hein (DIE LINKE):</speaker>
           <p>Vielen Dank. - Frau Präsidentin! Liebe Kolleginnen! Liebe Kollegen! Ich habe noch einmal nachgeschaut: Der Antrag der Linken zur Aufhebung des Kooperationsverbotes zwischen Bund und Ländern auf dem Gebiete der Bildungspolitik wurde in der Debatte am 25. März 2010 in den Bundestag eingebracht. Über ein Jahr ist seitdem vergangen. Inzwischen haben alle Fraktionen die Notwendigkeit erkannt, über die Fragen der Zusammenarbeit von Bund und Ländern neu nachzudenken. Selbst einige Landtage, auch der in meinem Bundesland Sachsen-Anhalt, haben bereits Beschlüsse dazu gefasst. Also sträuben wir uns nicht, die notwendige Korrektur der Föderalismusreform aus dem Jahre 2006 endlich vorzunehmen! Die Reform hat sich nicht bewährt, Herr Spaenle.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -1736,12 +1767,14 @@
           <p>Ich danke schön.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Der Kollege Professor Dr. Neumann hat für die FDP-Fraktion nun das Wort.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Martin Neumann" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Martin Neumann">
+      </div>
+      <div type="agenda_item" n="39" what="debate" desc="Debatte">
+        <sp who="Martin Neumann (Lausitz)" parliamentary_group="FDP" role="mp" position="NA" who_original="Martin Neumann (Lausitz)" party="FDP" name="Martin Neumann">
           <speaker>Dr. Martin Neumann (Lausitz) (FDP):</speaker>
           <p>Vielen Dank. - Frau Präsidentin! Liebe Kolleginnen und Kollegen! Für mich ist Bildung eine nationale, eine gesamtstaatliche Aufgabe.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
@@ -1797,11 +1830,13 @@
           <p>Ich bedanke mich.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
-          <p>Für die Fraktion Bündnis 90/Die Grünen hat der Kollege Kai Gehring das Wort. </p>
+          <p>Für die Fraktion Bündnis 90/Die Grünen hat der Kollege Kai Gehring das Wort.</p>
         </sp>
-        <sp who="Kai Gehring" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Kai Gehring">
+      </div>
+      <div type="agenda_item" n="40" what="debate" desc="Debatte">
+        <sp who="Kai Gehring" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Kai Gehring" party="GRUENE" name="Kai Gehring">
           <speaker>Kai Gehring (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Das Kooperationsverbot hat sich, wie erwartet, nicht bewährt, sondern die Zusammenarbeit von Bund und Ländern im Bildungsbereich unmöglich gemacht und ihr sogar geschadet. Als grüne Bundestagsfraktion haben wir es 2006 abgelehnt, als die Große Koalition aus SPD und CDU/CSU trotz massiver Kritik das völlige Herausdrängen des Bundes aus jeder Bildungsverantwortung durchgesetzt hat. Seitdem kämpfen wir dafür, das Kooperationsverbot wieder aus unserem Grundgesetz zu streichen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -1829,11 +1864,13 @@
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
           <p>Es geht übrigens nicht darum, dass der Bund zukünftig wieder nur in Beton mitinvestieren darf. Wir brauchen gemeinsame Investitionen zur qualitativen Verbesserung, die Personal- und Sachausgaben nötig machen. Diese Ausgaben stehen jetzt an, wenn man für mehr individuelle Förderung und bessere Bildung sorgen möchte. Es wäre schön, wenn uns ein fraktionsübergreifender Konsens darüber gelänge.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollege Gehring, ich bin ein geduldiger Mensch, aber ich bitte Sie jetzt wirklich, das Signal zu beachten.</p>
         </sp>
-        <sp who="Kai Gehring" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Kai Gehring">
+      </div>
+      <div type="agenda_item" n="41" what="debate" desc="Debatte">
+        <sp who="Kai Gehring" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Kai Gehring" party="GRUENE" name="Kai Gehring">
           <speaker>Kai Gehring (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Deshalb bin ich auch in fünf Worten fertig.</p>
           <stage type="interjection">(Albert Rupprecht [Weiden] [CDU/CSU]: Fix und fertig!)</stage>
@@ -1842,12 +1879,14 @@
           <p>Vielen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Heiterkeit und Beifall beim BÜNDNIS 90/ DIE GRÜNEN und bei der SPD sowie der Abg. Dr. Rosemarie Hein [DIE LINKE])</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat die Kollegin Monika Grütters für die Unionsfraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Monika Grütters" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Monika Grütters">
+      </div>
+      <div type="agenda_item" n="42" what="debate" desc="Debatte">
+        <sp who="Monika Grütters" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Monika Grütters" party="CDU" name="Monika Grütters">
           <speaker>Monika Grütters (CDU/CSU):</speaker>
           <p>In Bildungsdebatten sind wir ein bisschen großzügig. - Frau Präsidentin, vielen Dank. - Damit wir wenigstens etwas zu applaudieren haben, möchte ich darauf hinweisen, dass unser Kollege Albert Rupprecht heute Geburtstag hat.</p>
           <stage type="interjection">(Beifall)</stage>
@@ -1901,12 +1940,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU, der SPD, der FDP und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Swen Schulz für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Swen Schulz" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Swen Schulz">
+      </div>
+      <div type="agenda_item" n="43" what="debate" desc="Debatte">
+        <sp who="Swen Schulz (Spandau)" parliamentary_group="SPD" role="mp" position="NA" who_original="Swen Schulz (Spandau)" party="SPD" name="Swen Schulz">
           <speaker>Swen Schulz (Spandau) (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Liebe Frau Kollegin Grütters, wenn das so ist, dann können Sie unserem Antrag ja zustimmen.</p>
           <stage type="interjection">(Monika Grütters [CDU/CSU]: Das behalten wir uns dann noch vor!)</stage>
@@ -1946,7 +1987,7 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird die Überweisung der Vorlagen auf den Drucksachen 17/5911 und 17/6094 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? - Das ist der Fall. Dann sind die Überweisungen so beschlossen.</p>
@@ -1955,27 +1996,28 @@
           <p>Wir kommen zur Abstimmung über die Beschlussempfehlung des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung zu dem Antrag der Fraktion der SPD mit dem Titel "Bei Aussetzung der Wehrpflicht Hochschulpakt aufstocken". Der Ausschuss empfiehlt in seiner Beschlussempfehlung auf Druck-sache 17/5256, den Antrag der Fraktion der SPD auf Drucksache 17/4018 abzulehnen. Wer stimmt für diese Beschlussempfehlung? - Wer stimmt dagegen? - Wer enthält sich? - Die Beschlussempfehlung ist mit den Stimmen der Unionsfraktion und der FDP-Fraktion gegen die Stimmen der SPD-Fraktion und der Fraktion Die Linke bei Enthaltung der Fraktion Bündnis 90/Die Grünen angenommen.</p>
           <p>Ich rufe den Tagesordnungspunkt 32 auf:</p>
           <p>Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Neuordnung des Kreislaufwirtschafts- und Abfallrechts</p>
-          <p>- Drucksache 17/6052 - </p>
+          <p>- Drucksache 17/6052 -</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit</p>
           <p>Innenausschuss</p>
-          <p>Interfraktionell wird vorgeschlagen, die Reden zu diesem Tagesordnungspunkt zu Protokoll zu geben. - Ich sehe, Sie sind damit einverstanden. Es handelt sich um folgende Kolleginnen und Kollegen: Michael Brand für die Unionsfraktion, Gerd Bollmann für die SPD-Fraktion, Horst Meierhofer für die FDP-Fraktion, Ralph Lenkert für die Fraktion Die Linke, Dorothea Steiner für die Fraktion Bündnis 90/Die Grünen und die Parlamentarische Staatssekretärin Heinen-Esser.</p>
+          <p>Interfraktionell wird vorgeschlagen, die Reden zu diesem Tagesordnungspunkt zu Protokoll zu geben. - Ich sehe, Sie sind damit einverstanden. Es handelt sich um folgende Kolleginnen und Kollegen: Michael Brand für die Unionsfraktion, Gerd Bollmann für die SPD-Fraktion, Horst Meierhofer für die FDP-Fraktion, Ralph Lenkert für die Fraktion Die Linke, Dorothea Steiner für die Fraktion Bündnis 90/Die Grünen und die Parlamentarische Staatssekretärin Heinen-Esser.4</p>
           <p>Interfraktionell wird die Überweisung des Gesetzentwurfs auf Drucksache 17/6052 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Gibt es dazu anderweitige Vorschläge? - Das ist nicht der Fall. Dann ist die Überweisung so beschlossen.</p>
           <p>Ich rufe den Tagesordnungspunkt 33 auf:</p>
           <p>Beratung des Antrags der Abgeordneten Caren Lay, Dr. Dietmar Bartsch, Herbert Behrens, weiterer Abgeordneter und der Fraktion DIE LINKE</p>
           <p>Schutzschirm für Stromkunden - Bezahlbare Energiepreise gewährleisten</p>
-          <p>- Drucksache 17/5760 - </p>
+          <p>- Drucksache 17/5760 -</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Wirtschaft und Technologie (f)</p>
           <p>Ausschuss für Ernährung, Landwirtschaft und Verbraucherschutz (f)</p>
           <p>Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit</p>
           <p>Federführung strittig</p>
-          <p>Interfraktionell wird vorgeschlagen, die Reden zu Protokoll zu geben. - Ich sehe, Sie sind auch hier damit einverstanden. Es handelt sich um folgende Kolleginnen und Kollegen: Dr. Georg Nüßlein für die Unionsfraktion, Andrea Wicklein für die SPD-Fraktion, Dr. Erik Schweickert für die FDP-Fraktion, Caren Lay für die Fraktion Die Linke und Ingrid Nestle für die Fraktion Bündnis 90/Die Grünen.</p>
+          <p>Interfraktionell wird vorgeschlagen, die Reden zu Protokoll zu geben. - Ich sehe, Sie sind auch hier damit einverstanden. Es handelt sich um folgende Kolleginnen und Kollegen: Dr. Georg Nüßlein für die Unionsfraktion, Andrea Wicklein für die SPD-Fraktion, Dr. Erik Schweickert für die FDP-Fraktion, Caren Lay für die Fraktion Die Linke und Ingrid Nestle für die Fraktion Bündnis 90/Die Grünen.5</p>
           <p>Interfraktionell wird Überweisung der Vorlage auf Drucksache 17/5760 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Die Federführung ist jedoch strittig. Die Unionsfraktion und die Fraktion der FDP wünschen Federführung beim Ausschuss für Wirtschaft und Technologie, die Fraktion Die Linke wünscht Federführung beim Ausschuss für Ernährung, Landwirtschaft und Verbraucherschutz.</p>
           <p>Ich lasse zuerst über den Überweisungsvorschlag der Fraktion Die Linke - Federführung beim Ausschuss für Ernährung, Landwirtschaft und Verbraucherschutz - abstimmen. Wer stimmt für diesen Überweisungsvorschlag? - Wer stimmt dagegen? - Wer enthält sich? - Der Überweisungsvorschlag ist abgelehnt. Ich lasse nun über den Überweisungsvorschlag der Fraktionen der CDU/CSU und der FDP - Federführung beim Ausschuss für Wirtschaft und Technologie - abstimmen. Wer stimmt für diesen Vorschlag? - Wer stimmt dagegen? - Wer enthält sich? - Der Überweisungsvorschlag ist angenommen.</p>
           <p>Liebe Kolleginnen und Kollegen, wird sind damit am Schluss unserer heutigen Tagesordnung.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 29. Juni 2011, 13 Uhr, ein.</p>
           <p>Die Sitzung ist geschlossen. Ich wünsche Ihnen schöne Feiertage.</p>
+          <stage type="interjection">(Schluss: 14.27 Uhr)</stage>
         </sp>
       </div>
     </body>

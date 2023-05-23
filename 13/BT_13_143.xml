@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-06</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2005/1205/bic/plenarprotokolle/pp/1996/13143a.zip</url>
-        <date>2015-10-20 19:19:17</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -36,12 +36,12 @@
   <text>
     <body>
       <div type="agenda_item" n="1" what="debate" desc="Dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetze...">
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herren! Die Sitzung ist eröffnet.</p>
           <p>Ich rufe den Tagesordnungspunkt II auf:</p>
           <p>Dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 1997</p>
-          <stage type="interjection">(Haushaltsgesetz 1997)</stage>
+          <p>(Haushaltsgesetz 1997)</p>
           <p>-- Drucksachen 13/5200, 13/5836, 13/6001 bis 13/6025, 13/6026, 13/6027 --</p>
           <p>Wir setzen die Haushaltsberatungen fort. Es liegen sechs Entschließungsanträge vor. Ein weiterer Entschließungsantrag ist durch die Koalitionsfraktionen angekündigt worden.</p>
           <p>Ich weise darauf hin, daß wir im Anschluß an die Aussprache über das Haushaltsgesetz sowie über einen Entschließungsantrag namentlich abstimmen werden.</p>
@@ -56,7 +56,7 @@
           <stage type="interjection">(Beifall im ganzen Hause)</stage>
           <p>Was wir uns selbst verordnen, nämlich nächtens, bis morgens um halb vier, zu tagen, ist ja nicht gerade einfach. Auch die Arbeitsintensität leidet darunter, wie wir gestern an einem bestimmten Punkt schmerzlich erfahren haben.</p>
           <stage type="interjection">(Dr. Wolfgang Weng [Gerlingen] [F.D.P.]: Wenn andere Leute schlafen, können wir nichts dafür!)</stage>
-          <p>-- Wir haben im Gegensatz zu Ihnen nicht geschlafen. Sie schlafen ja, wenn Sie wach sind. Das ist das Schlimme an der ganzen Geschichte, Herr Kollege Dr.  Weng.</p>
+          <p>-- Wir haben im Gegensatz zu Ihnen nicht geschlafen. Sie schlafen ja, wenn Sie wach sind. Das ist das Schlimme an der ganzen Geschichte, Herr Kollege Dr. Weng.</p>
           <stage type="interjection">(Zustimmung bei der SPD und der PDS)</stage>
           <p>Zumindest erwecken Sie den Eindruck, als ob sie permanent schlafen.</p>
           <p>Eines muß ich feststellen: Bedauerlicherweise ist zum erstenmal in der Geschichte des Bundestages der Haushalt des Bundestages selber nicht einvernehmlich verabschiedet worden. Die Kürzungsabsichten der Koalition wurden nicht im Berichterstattergespräch vorgetragen. Deshalb konnte der Haushalt nicht einvernehmlich getragen werden. Ich bedauere das außerordentlich und hoffe sehr, daß wir in der nächsten Beratung wieder zu der allgemeinen Regel zurückkehren, zumindest den Haushalt des Bundestages gemeinsam zu tragen.</p>
@@ -106,7 +106,7 @@
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
           <p>Ich sage als Sozialdemokrat den Hunderttausenden von Handwerksmeisterinnen und Handwerksmeistern der mittelständigen Wirtschaft danke, die treu und brav ihre Ausbildungsverpflichtungen erfüllen, anders als die Schmarotzer, die die Arbeitnehmer nachher, wenn sie fertig ausgebildet sind, übernehmen und nicht selber ausbilden.</p>
           <stage type="interjection">(Beifall bei der SPD sowie der Abg. Kristin Heyne [BÜNDNIS 90/DIE GRÜNEN])</stage>
-          <p>Sie, meine Damen und Herren, machen sich zum Verteidiger dieser Schmarotzer, wie ich sie nenne, die anderen die Ausbildungsplatzkosten aufbürden und selbst nichts tun. </p>
+          <p>Sie, meine Damen und Herren, machen sich zum Verteidiger dieser Schmarotzer, wie ich sie nenne, die anderen die Ausbildungsplatzkosten aufbürden und selbst nichts tun.</p>
           <p>Sie zocken zugunsten von Millionären Millionen von Menschen ab. Das ist eine Politik, die wir nicht mitmachen können.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der PDS -- Widerspruch bei der CDU/CSU)</stage>
           <p>Ihre Politik -- das umschreibt auch den Haushalt 1997 -- ist nichts anderes als staatliche Reichtumspflege. So nenne ich Ihre Politik.</p>
@@ -135,7 +135,7 @@
           <p>Meine Damen und Herren, Sie werden verstehen, daß wir auch in dritter Lesung diesem Haushalt und diesem Haushaltsgesetz nicht zustimmen können.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der PDS -- Dr. Wolfgang Weng [Gerlingen] [F.D.P.]: Das ist eine Überraschung!)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Dr. Waigel.</p>
           <p>Dr. Theodor Waigel, Meine Damen und Herren! Erstmals seit über sieben Jahren als Bundesfinanzminister</p>
@@ -260,7 +260,7 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Wilhelm Schmidt [Salzgitter] [SPD]: Nur Sprechblasen!)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Hermenau, Bündnis 90/Die Grünen.</p>
           <p>Antje Hermenau Damen und Herren! Ich freue mich, daß es Ihnen besser geht, Herr Waigel. Wir haben das gerade an der Lautstärke und an der Chuzpe Ihrer Rede gemerkt.</p>
@@ -297,7 +297,7 @@
           <stage type="interjection">(Vorsitz: Präsidentin Dr. Rita Süssmuth)</stage>
           <p>Graf Lambsdorff hatte für den Haushalt des Jahres 1996 ein Haushaltssicherungsgesetz verlangt. Danach hat die F.D.P. ihn schnell weggeschlossen, damit er es nicht noch einmal sagen konnte. Aber ich frage mich natürlich, ob nicht für den Haushalt 1997 ein solches Haushaltssicherungsgesetz nicht noch viel wichtiger gewesen wäre; denn dieser ist noch unsolider als der letzte Haushalt.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
-          <p>Kommen wir noch zu einigen dieser Mogelpackungen, die uns hier untergeschoben und als seriöse Finanzpolitik dargestellt werden, zum Beispiel die Kreditermächtigungen. Nach   18 Abs. 3 der Bundeshaushaltsordnung gelten solche Kreditermächtigungen bis zum Ende des nächsten Haushaltsjahres noch fort. Das heißt, man durchbricht das Jährlichkeitsprinzip und unterläuft damit im Prinzip auch den Sparzwang, und zwar so, daß der Finanzminister Möglichkeiten hat, die Verschuldung noch einmal zu ändern. Ich finde, daß man dieser Vorgehensweise auf jeden Fall etwas entgegenhalten muß. Wir haben dazu auf Grund der dankenswerten Initative meines Kollegen Metzger einen entsprechenden Änderungsantrag eingebracht.</p>
+          <p>Kommen wir noch zu einigen dieser Mogelpackungen, die uns hier untergeschoben und als seriöse Finanzpolitik dargestellt werden, zum Beispiel die Kreditermächtigungen. Nach § 18 Abs. 3 der Bundeshaushaltsordnung gelten solche Kreditermächtigungen bis zum Ende des nächsten Haushaltsjahres noch fort. Das heißt, man durchbricht das Jährlichkeitsprinzip und unterläuft damit im Prinzip auch den Sparzwang, und zwar so, daß der Finanzminister Möglichkeiten hat, die Verschuldung noch einmal zu ändern. Ich finde, daß man dieser Vorgehensweise auf jeden Fall etwas entgegenhalten muß. Wir haben dazu auf Grund der dankenswerten Initative meines Kollegen Metzger einen entsprechenden Änderungsantrag eingebracht.</p>
           <stage type="interjection">(Karl Diller [SPD]: Was? Frau Hermenau, das hat Herr Metzger von uns abgeschrieben!)</stage>
           <p>-- Das haben auch schon andere gesagt, Herr Diller.</p>
           <stage type="interjection">(Karl Diller [SPD]: Ja, das stimmt!)</stage>
@@ -321,7 +321,7 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Hermann Otto Solms auf.</p>
           <stage type="interjection">(Zuruf von der SPD: Der Mann mit dem Bart!)</stage>
@@ -411,7 +411,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Dr. Christa Luft.</p>
           <p>Dr. Christa Luft Kollegen! Der Bundesfinanzminister hat in der gewohnten Tonart eine Rede vorgetragen. Das zeigt, er ist auf dem Wege der Genesung. Ich wünsche ihm dabei gute Fortschritte.</p>
@@ -458,7 +458,7 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Kurt Rossmanith.</p>
           <p>Kurt J. Rossmanith verehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Es ist Brauch -- man könnte fast sagen, von alters her --, daß der Vorsitzende des Haushaltsausschusses im Rahmen der dritten Lesung nicht nur zu Wort kommt, sondern auch einige Aussagen über die Finanzen, die Arbeit und anderes mehr trifft. Ich hätte diesen Part gern auch in diesem Jahr unserem geschätzten Kollegen Helmut Wieczorek überlassen, aber wir wissen alle, daß es sein Gesundheitszustand im Moment noch nicht erlaubt. Er wird aber -- davon gehe ich aus und freue mich darauf -- Anfang des nächsten Jahres wieder unter uns sein.</p>
@@ -510,7 +510,7 @@
           <p>Wir alle sollten dazu unseren Beitrag leisten und deshalb heute diesem Haushaltsentwurf 1997 auch in dritter Lesung zustimmen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Ingrid Matthäus-Maier.</p>
           <p>Ingrid Matthäus-Maier verehrten Damen und Herren! Wie Finanzminister Waigel Bundeshaushalte aufstellt, ist bekannt. Waigel verfährt mit den Haushalten nach der Vier-Jahreszeiten-Methode: Im Sommer wird geschönt, im Herbst wird vernebelt und notdürftig geflickt, im Winter bricht der Frost die Haushaltslöcher dann doch auf, und im Frühjahr bringt die Schneeschmelze die ganze Misere ans Licht.</p>
@@ -542,7 +542,7 @@
           <p>Entweder hatten Sie im September unrecht, oder Sie haben heute unrecht. Ich habe allerdings die Befürchtung, daß beide Zahlen falsch sind; denn daß Sie mit falschen Zahlen operieren, das haben Sie schon hundertmal gezeigt, Herr Waigel.</p>
           <stage type="interjection">(Beifall bei der SPD und der PDS)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>eine Zwischenfrage des Kollegen Hammerstein?</p>
           <p>Ingrid Matthäus-Maier</p>
@@ -639,7 +639,7 @@
           <p>Wer das Eintreten für soziale Gerechtigkeit in diesem Land als Sozialneid diffamiert, der weiß nicht, wie es in den Portemonnaies der Arbeitnehmer aussieht, und deswegen werden wir Ihrem Haushalt nicht zustimmen.</p>
           <stage type="interjection">(Anhaltender Beifall bei der SPD -- Beifall bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Kurzintervention hat der Kollege Koppelin.</p>
           <p>Jürgen Koppelin Ausführungen die globale Minderausgabe kritisiert. Wir haben im Haushaltsausschuß -- ich denke, es wäre auch redlich gewesen, wenn sie es gesagt hätte -- ausdrücklich beschlossen, daß die Berichterstatter selbstverständlich bei der Erbringung der globalen Minderausgabe mit einzubinden sind.</p>
@@ -652,7 +652,7 @@
           <p>Ich bedauere allerdings, daß Sie kein einziges Mal an den Beratungen des Haushaltsausschusses des Deutschen Bundestages teilgenommen haben. Das finde ich unredlich. Kommen Sie zukünftig in die Sitzung, beraten Sie mit, und informieren Sie sich. Ich glaube, danach würden Sie hier andere Reden halten.</p>
           <stage type="interjection">(Heiterkeit und Beifall bei Abgeordneten der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Ingrid Matthäus-Maier mich, daß Sie das nicht als Zwischenfrage vorgetragen haben;</p>
           <stage type="interjection">(Jürgen Koppelin [F.D.P.]: Sie haben sie nicht zugelassen!)</stage>
@@ -663,7 +663,7 @@
           <p>Sie halten es doch wohl für völlig korrekt, wenn ich Ihnen sage: Wir wollen konkret wissen, wo Sie sparen wollen; wir wollen keine allgemeinen großen Zahlen, die sich im Nachhinein als Luftbuchungen erweisen.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Hans-Peter Repnik, CDU/CSU.</p>
           <stage type="interjection">(Unruhe)</stage>
@@ -679,13 +679,13 @@
           <p>Wenn sich diese Daten im Laufe eines Jahres verändern, dann bleibt dem Finanzminister nichts anderes übrig, als verantwortlich zu reagieren. Er hat sowohl im Hinblick auf den Vollzug des Haushaltes 1996 als auch im Hinblick auf die Veränderungen des Haushaltes 1997 verantwortlich reagiert. Hieraus ist ihm kein Vorwurf zu machen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU -- Unruhe)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege Repnik, einen Augenblick bitte. -- Verehrte Kolleginnen und Kollegen, es ist einfach zu laut. Es macht keinen Sinn, unter diesen Umständen eine Debatte zu führen, weil man nicht einmal hier oben im Präsidium hören kann, was gesagt wird. Also bitte ich um etwas mehr Ruhe, und ich bitte diejenigen, die meinen, Privatgespräche führen zu müssen, so nett zu sein, in die Lobby hinauszugehen.</p>
           <p>Bitte, Herr Kollege Repnik.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Hans-Peter Repnik" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hans-Peter Repnik">
+        <sp who="Hans-Peter Repnik" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hans-Peter Repnik" party="CDU" name="Hans-Peter Repnik">
           <speaker>Hans-Peter Repnik (CDU/CSU):</speaker>
           <p>Frau Matthäus-Maier, Sie können noch so lautstark hier an diesem Podium auftreten: Die Opposition hat an den vergangenen vier Tagen einmal mehr versäumt, konkrete, glaubwürdige, tragfähige Alternativvorschläge vorzulegen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Zurufe von der SPD)</stage>
@@ -751,11 +751,11 @@
           <stage type="interjection">(Ingrid Matthäus-Maier [SPD]: Wieso? Entsendegesetz? Ökologische Steuerreform?)</stage>
           <p>Den expansiven Wirkungen wachsender Defizite -- das wissen wir doch -- stehen kontraproduktive Wirkungen im privaten Sektor gegenüber. Steigende öffentliche Verschuldung wird von den Unternehmen als Investitionsrisiko betrachtet, da sie steigende Steuerbelastungen befürchten -- zu Recht. Je stärker der Staat den Kreditmarkt in Anspruch nimmt, um so mehr hat dies Auswirkungen auf das Zinsniveau und damit auf private Investitionen. Das derzeitig günstige Zinsniveau ist auch darauf zurückzuführen, daß ausländische Kapitalanleger nach wie vor darauf vertrauen, daß diese Bundesregierung eine überzeugende und eine verläßliche Konsolidierungsstrategie verfolgt.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege Repnik, achten Sie bitte auf die Zeit.</p>
         </sp>
-        <sp who="Hans-Peter Repnik" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hans-Peter Repnik">
+        <sp who="Hans-Peter Repnik" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hans-Peter Repnik" party="CDU" name="Hans-Peter Repnik">
           <speaker>Hans-Peter Repnik (CDU/CSU):</speaker>
           <p>Wenn Sie mir noch einige wenige Sätze geben.</p>
           <stage type="interjection">(Zurufe von der SPD: Nein!)</stage>
@@ -766,20 +766,20 @@
           <p>Wir stimmen deshalb diesem Haushalt zu.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Wir wären nach dem ursprünglichen Fahrplan jetzt am Schluß der Debatte. Ich höre aber, daß sich die Fraktionen darauf verständigt haben, zu zwei Anträgen, nämlich den Anträgen auf Drucksache 13/6351 und 13/6354, eine Sonderdebatte zu führen. Wird dazu ein Antrag gestellt? -- Herr Catenhusen.</p>
         </sp>
-        <sp who="Wolf-Michael Catenhusen" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wolf-Michael Catenhusen">
+        <sp who="Wolf-Michael Catenhusen" parliamentary_group="SPD" role="mp" position="NA" who_original="Wolf-Michael Catenhusen" party="SPD" name="Wolf-Michael Catenhusen">
           <speaker>Wolf-Michael Catenhusen (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Für die SPD-Bundestagsfraktion beantrage ich hiermit eine Verlängerung der Aussprache zur dritten Lesung um eine Kurzdebatte zu den vorliegenden Anträgen zur aktuellen Lage im Iran. Ich gehe nach den Vorgesprächen davon aus, daß dies die Billigung aller Fraktionen findet.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das scheint so der Fall zu sein. Dann verlängern wir die Debatte. Verabredet waren fünf Minuten Redezeit pro Fraktion und Gruppe.</p>
           <p>Dann setzen wir die Debatte fort. Das Wort hat der Kollege Rudolf Seiters, CDU/CSU.</p>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Rudolf Seiters (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Für die CDU/CSU-Bundestagsfraktion möchte ich zur deutschen und europäischen Iran-Politik folgendes feststellen:</p>
           <p>Erstens. Die Fatwa-Drohungen aus dem Iran gegen die deutsche Justiz und die am Mykonos-Prozeß beteiligten Richter und Staatsanwälte sind unerträglich.</p>
@@ -801,11 +801,11 @@
           <p>Dies ist erklärte Politik der Bundesregierung. Bei dieser Politik hat die Bundesregierung die volle Unterstützung der CDU/CSU-Bundestagsfraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Christoph Zöpel, SPD-Fraktion.</p>
         </sp>
-        <sp who="Dr. Christoph Zöpel" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Christoph Zöpel">
+        <sp who="Christoph Zöpel" parliamentary_group="SPD" role="mp" position="NA" who_original="Christoph Zöpel" party="SPD" name="Christoph Zöpel">
           <speaker>Dr. Christoph Zöpel (SPD):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Die Fraktionen von Bündnis 90/Die Grünen und der SPD legen dem Hause einen gemeinsamen Entschließungsantrag zu den Beziehungen Deutschlands zum Iran vor. Dabei bewegen uns zwei Problemkreise.</p>
           <p>Der eine Problemkreis betrifft Angriffe aus dem Iran gegen die Unabhängigkeit unserer Justizbehörden. Diese weisen wir selbstredend zurück.</p>
@@ -832,11 +832,11 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Dr. Helmut Lippelt, Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Dr. Helmut Lippelt" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Helmut Lippelt">
+        <sp who="Helmut Lippelt" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Helmut Lippelt" party="GRUENE" name="Helmut Lippelt">
           <speaker>Dr. Helmut Lippelt (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Erster Punkt: Wir sind in den vergangenen Wochen Zeugen schlimmer Vorgänge gewesen. Ein unabhängiges Gericht ist in einer Weise beschimpft worden, daß sich die Staatsanwälte fast einer Fatwa ausgesetzt sahen. Der Bundeskanzler hat einen klugen Brief geschrieben, und der iranische Staatspräsident hat daraus in seiner Freitagspredigt gefolgert, der deutsche Bundeskanzler habe um Nachsicht gebeten. Das Gericht sei trotzdem beeinflußt und stehe dann eben unter dem Einfluß der Amerikaner und Israelis.</p>
           <p>Ich glaube, wir haben als Bundestag die Pflicht, uns sehr entschieden für die Unabhängigkeit der dritten Gewalt auszusprechen. Das müssen wir unabhängig davon machen, welche Briefe auf politischer Ebene geschrieben werden.</p>
@@ -846,11 +846,11 @@
           <p>Aber, Herr Außenminister, ich habe von Ihnen gelesen, es müßte erst ein rechtskräftiges Urteil ergehen. Das dauert zu lange. Ich glaube, die politischen Beurteilungen müssen früher ansetzen. Sie müssen vor allem an einem Punkt eher ansetzen: bei der Zusammenarbeit der Geheimdienste. Das ist eine Frage der politischen Beurteilung, und deshalb haben wir diesen Punkt in unserem Antrag sehr, sehr deutlich gemacht.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat jetzt der Kollege Ulrich Irmer, F.D.P.</p>
         </sp>
-        <sp who="Ulrich Irmer" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Ulrich Irmer">
+        <sp who="Ulrich Irmer" parliamentary_group="FDP" role="mp" position="NA" who_original="Ulrich Irmer" party="FDP" name="Ulrich Irmer">
           <speaker>Ulrich Irmer (F.D.P.):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Ich stelle zu meiner Befriedigung fest, daß in diesem Hause über einige Punkte allseits Einigkeit besteht. Das ist erstens der Punkt, daß wir Wert darauf legen müssen, auch anderen Ländern klarzumachen: Unsere Justiz ist unabhängig und weder durch Weisungen der Bundesregierung noch durch irgendwie gearteten Druck von außen zu beeindrucken, sondern strikt an Recht und Gesetz orientiert. Das muß so bleiben, darüber sind wir uns alle einig.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU und der SPD)</stage>
@@ -868,11 +868,11 @@
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
           <p>Sie finden nicht statt. Es ist eine bösartige Unterstellung, wenn hier so getan wird, als sei dies der Fall.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege Irmer, gestatten Sie eine Zwischenfrage des Kollegen Zöpel?</p>
         </sp>
-        <sp who="Ulrich Irmer" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Ulrich Irmer">
+        <sp who="Ulrich Irmer" parliamentary_group="FDP" role="mp" position="NA" who_original="Ulrich Irmer" party="FDP" name="Ulrich Irmer">
           <speaker>Ulrich Irmer (F.D.P.):</speaker>
           <p>Ich dachte, das sei in dieser Runde nicht möglich, und ich glaube, wir sollten uns auf die fünf Minuten beschränken.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
@@ -880,11 +880,11 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Dr. Gregor Gysi.</p>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Gregor Gysi">
+        <sp who="Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" who_original="Gregor Gysi" party="PDS" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (PDS):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Einig sind wir uns ganz sicherlich in der Zurückweisung der Versuche des iranischen Regimes, in welcher Form auch immer Einfluß auf die Rechtsprechung in der Bundesrepublik Deutschland zu nehmen. Einig sind wir uns, glaube ich, weiterhin in der Frage, daß niemand in diesem Hause fordert, die diplomatischen Beziehungen zum Iran abzubrechen. Man braucht auch diplomatische Kontakte, um Einfluß nehmen zu können.</p>
           <p>Aber dann beginnen die großen Unterschiede. Von CDU/CSU und F.D.P. ist hier geäußert worden, daß die Beziehungen der Bundesregierung zu der iranischen Regierung weder besonders intensiv gewesen wären noch seien. Ich darf Sie daran erinnern, Herr Bundesaußenminister: Als die Mehrheit dieses Hauses gefordert hat, den iranischen Außenminister auszuladen, haben Sie lieber die ganze Konferenz abgesagt, als zu diesem Schritt bereit zu sein, obwohl das damals ein wichtiger diplomatischer Akt gewesen wäre,</p>
@@ -906,21 +906,21 @@
           <p>Diese Regierung könnte man erst dann begrüßen, wenn sie sich zu ihrer eigenen Verantwortung bekennt. Davon ist sie meilenweit entfernt. Deshalb können wir Ihrem Antrag in gar keinem Falle zustimmen.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Ich schließe die Aussprache. Ich weise darauf hin, weil es darüber Diskussionen gegeben hat: Ich habe in dieser Runde beantragte Kurzinterventionen nicht zugelassen, weil sie dem Charakter einer vereinbarten Fünf-Minuten-Runde widersprechen.</p>
           <p>Deshalb kommen wir jetzt zu den Abstimmungen. Dazu ganz allgemein: Ich werde zunächst über alle Einzelanträge abstimmen lassen und die namentliche Abstimmung ganz ans Ende setzen. Entgegen den Ankündigungen zu Beginn dieser Debatte gibt es nicht zwei namentliche Abstimmungen, sondern nur eine, weil das Verlangen auf namentliche Abstimmung zu einem Entschließungsantrag zurückgezogen ist.</p>
-          <p>Wir kommen jetzt zur Abstimmung über den von den Fraktionen der SPD und des Bündnisses 90/Die Grünen eingebrachten Entschließungsantrag auf Drucksache 13/6351. Der Kollege Christoph Zöpel hat gebeten, dazu eine Erklärung zur Abstimmung abgeben zu dürfen. Da Sie, Herr Kollege Zöpel, in dieser Debatte gesprochen haben und wir für diesen Fall im Ältestenrat vereinbart haben, daß dann eine Erklärung zur Abstimmung nicht zulässig ist, kann ich Ihnen nur das Wort zu einer Erklärung zur Aussprache nach   30 der Geschäftsordnung geben. Vergegenwärtigen Sie sich den Unterschied und achten Sie bitte darauf, wenn ich Ihnen jetzt das Wort gebe!</p>
+          <p>Wir kommen jetzt zur Abstimmung über den von den Fraktionen der SPD und des Bündnisses 90/Die Grünen eingebrachten Entschließungsantrag auf Drucksache 13/6351. Der Kollege Christoph Zöpel hat gebeten, dazu eine Erklärung zur Abstimmung abgeben zu dürfen. Da Sie, Herr Kollege Zöpel, in dieser Debatte gesprochen haben und wir für diesen Fall im Ältestenrat vereinbart haben, daß dann eine Erklärung zur Abstimmung nicht zulässig ist, kann ich Ihnen nur das Wort zu einer Erklärung zur Aussprache nach § 30 der Geschäftsordnung geben. Vergegenwärtigen Sie sich den Unterschied und achten Sie bitte darauf, wenn ich Ihnen jetzt das Wort gebe!</p>
         </sp>
-        <sp who="Dr. Christoph Zöpel" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Christoph Zöpel">
+        <sp who="Christoph Zöpel" parliamentary_group="SPD" role="mp" position="NA" who_original="Christoph Zöpel" party="SPD" name="Christoph Zöpel">
           <speaker>Dr. Christoph Zöpel (SPD):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren!</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege Zöpel, ich darf Ihnen, damit es keine Mißverständnisse gibt, sagen: In einer Erklärung zur Aussprache können Sie nur Stellung nehmen zu Äußerungen, die sich in der Aussprache auf die eigene Person bezogen haben. Sie können diese zurückweisen oder richtigstellen. Ist das klar?</p>
         </sp>
-        <sp who="Dr. Christoph Zöpel" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Christoph Zöpel">
+        <sp who="Christoph Zöpel" parliamentary_group="SPD" role="mp" position="NA" who_original="Christoph Zöpel" party="SPD" name="Christoph Zöpel">
           <speaker>Dr. Christoph Zöpel (SPD):</speaker>
           <p>Herzlichen Dank, Herr Präsident! Dieser Tatbestand der Geschäftsordnung wird zu Recht angewandt.</p>
           <p>Ich nehme bezug auf das, was Herr Kollege Irmer zu meinem Vorschlag, die Regierungsfraktionen könnten unserem Antrag zustimmen, geäußert hat.</p>
@@ -930,11 +930,11 @@
           <p>-- Der Antrag unterstellt -- --</p>
           <stage type="interjection">(Anhaltender Widerspruch bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Es wäre noch klüger, wenn Sie sagen würden: Wenn mir unterstellt worden ist, daß -- --</p>
         </sp>
-        <sp who="Dr. Christoph Zöpel" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Christoph Zöpel">
+        <sp who="Christoph Zöpel" parliamentary_group="SPD" role="mp" position="NA" who_original="Christoph Zöpel" party="SPD" name="Christoph Zöpel">
           <speaker>Dr. Christoph Zöpel (SPD):</speaker>
           <p>Aha!</p>
           <stage type="interjection">(Lachen und Beifall bei der CDU/CSU und der F.D.P.)</stage>
@@ -947,7 +947,7 @@
           <p>Ich füge im übrigen hinzu -- ich wurde angesprochen --: Wie viele andere auch werde ich mich bei Ihrem Antrag der Stimme enthalten.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Wir kommen jetzt zur Abstimmung über den von den Fraktionen der SPD und des Bündnisses 90/Die Grünen eingebrachten Entschließungsantrag auf Drucksache 13/6351. Wer stimmt für diesen Entschließungsantrag? -- Gegenprobe! -- Enthaltungen? -- Ich stelle fest: Der Entschließungsantrag ist mit den Stimmen der Koalitionsfraktionen gegen die Stimmen der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen bei Stimmenthaltung der PDS abgelehnt.</p>
           <p>Wir kommen zur Abstimmung über den Entschließungsantrag der Fraktionen der CDU/CSU und F.D.P. auf Drucksache 13/6354. Wer stimmt zu? -- Gegenprobe! -- Enthaltungen? -- Ich stelle fest: Der Entschließungsantrag ist mit den Stimmen der Koalitionsfraktionen gegen die Stimmen von Bündnis 90/</p>
@@ -980,7 +980,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="2" what="debate" desc="Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und F.D.P. eingebr...">
-        <sp who="Irmgard Karwatzki" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister der Finanzen" party="CDU" name="Irmgard Karwatzki">
+        <sp who="Irmgard Karwatzki" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister der Finanzen" who_original="Irmgard Karwatzki" party="CDU" name="Irmgard Karwatzki">
           <speaker>Irmgard Karwatzki, Parl. Staatssekretärin beim Bundesminister der Finanzen:</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Bereits vor gut zwei Wochen haben wir über das Thema Altschulden für gesellschaftliche Einrichtungen und den Entwurf des Altschuldenregelungsgesetzes hier im Bundestag diskutiert. Um eine einvernehmliche Lösung mit den Ländern zu erreichen, hat der Bund in den vergangenen Tagen nochmals eine Reihe von Zugeständnissen gemacht, die in dem heute zu beschließenden Entwurf berücksichtigt sind.</p>
           <p>Ich habe die Erwartung und Überzeugung, daß die Länder im Bundesrat dem Entwurf, wie er jetzt vorliegt, zustimmen können und werden; denn, meine lieben Kolleginnen und Kollegen, "Altschulden und kein Ende" könnte formuliert werden. Ich bin der ) Seite 12983 D Meinung, wir sollten den Knoten endlich durchschlagen.</p>
@@ -996,7 +996,7 @@
           <p>Liebe Kolleginnen und Kollegen, ich möchte abschließend an alle Länder appellieren, auch ihrerseits Solidarität untereinander zu üben. Wenn das Altschuldenregelungsgesetz endgültig in Kraft getreten ist, kann man sicher davon sprechen, daß damit ein besonders schwieriges Kapitel im Zusammenhang mit der deutschen Einheit abgeschlossen und einer guten Lösung zugeführt ist.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Bevor ich dem nächsten Redner das Wort gebe, möchte ich das von den Schriftführern und Schriftführerinnen ermittelte Ergebnis der namentlichen Schlußabstimmung über den Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 1997 (Haushaltsgesetz 1997) bekanntgeben. Die entsprechenden Drucksachen habe ich vorhin vorgelesen; ich muß das nicht wiederholen. Abgegebene Stimmen: 649. Mit Ja haben gestimmt: 336. Mit Nein haben gestimmt: 313. Enthaltungen: keine. Der Gesetzentwurf ist angenommen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
@@ -1663,7 +1663,7 @@
           <p>Gerhard Zwerenz</p>
           <p>Das Wort hat jetzt der Kollege Manfred Hampel, SPD.</p>
         </sp>
-        <sp who="Manfred Hampel" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Manfred Hampel">
+        <sp who="Manfred Hampel" parliamentary_group="SPD" role="mp" position="NA" who_original="Manfred Hampel" party="SPD" name="Manfred Hampel">
           <speaker>Manfred Hampel (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Ich kann die Zuversicht von Frau Staatssekretärin Karwatzki leider nicht teilen,</p>
           <stage type="interjection">(Peter Hintze [CDU/CSU]: Das haben wir befürchtet!)</stage>
@@ -1682,23 +1682,23 @@
           <p>-- Nun wir hatten entsprechende Vorschläge gemacht. Wir hatten gesagt: Das, was der Bund verursacht hat, muß erst mal rausgerechnet werden. Über das andere muß man sich verständigen. Dann wären andere Beträge zu Buche gestanden, die sicher leichter hätten bedient werden können.</p>
           <p>Wir können uns auch nicht damit einverstanden erklären, daß die Mittel des Investitionsförderungsgesetzes für die Regelung der Altschuldenfrage benutzt werden.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege Hampel, gestatten Sie eine Zwischenfrage des Kollegen Krziskewitz?</p>
         </sp>
-        <sp who="Manfred Hampel" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Manfred Hampel">
+        <sp who="Manfred Hampel" parliamentary_group="SPD" role="mp" position="NA" who_original="Manfred Hampel" party="SPD" name="Manfred Hampel">
           <speaker>Manfred Hampel (SPD):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Bitte.</p>
         </sp>
-        <sp who="Reiner Krziskewitz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Reiner Krziskewitz">
+        <sp who="Reiner Krziskewitz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Reiner Krziskewitz" party="CDU" name="Reiner Krziskewitz">
           <speaker>Reiner Krziskewitz (CDU/CSU):</speaker>
           <p>Herr Kollege, können Sie bestätigen oder negieren, daß die Mittelverwendung aus dem Parteienvermögen einem Kabinettsbeschluß der sachsen-anhaltinischen Landesregierung unter Ministerpräsident Höppner zugrunde liegt?</p>
         </sp>
-        <sp who="Manfred Hampel" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Manfred Hampel">
+        <sp who="Manfred Hampel" parliamentary_group="SPD" role="mp" position="NA" who_original="Manfred Hampel" party="SPD" name="Manfred Hampel">
           <speaker>Manfred Hampel (SPD):</speaker>
           <p>Herr Krziskewitz, wir sind das Verfassungsorgan Bundestag. Die Länder haben das Verfassungsorgan Bundesrat. Wir sind nicht gegenseitig Erfüllungsgehilfe.</p>
           <stage type="interjection">(Jürgen Türk [F.D.P.]: Immer so, wie Sie es brauchen! -- Zuruf von der CDU/CSU: Das merken wir, alles wird blockiert! -- Weitere Zurufe von der CDU/CSU)</stage>
@@ -1710,11 +1710,11 @@
           <p>Schönen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Der Kollege Werner Schulz, der jetzt sprechen sollte, gibt seine Rede zu Protokoll . ) Ich gehe davon aus, daß das Haus damit einverstanden ist. -- Nun hat der Kollege Jürgen Türk das Wort.</p>
         </sp>
-        <sp who="Jürgen Türk" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Jürgen Türk">
+        <sp who="Jürgen Türk" parliamentary_group="FDP" role="mp" position="NA" who_original="Jürgen Türk" party="FDP" name="Jürgen Türk">
           <speaker>Jürgen Türk (F.D.P.):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Nun sind die neuen Bundesländer endlich ihrer Verantwortung für die Kommunen gerecht geworden und haben sich mit dem Bund auf ein einvernehmliches Verfahren zur Regelung der Altschulden für gesellschaftliche Einrichtungen verständigt. -- Diese Einleitung hätte ich mir eigentlich gewünscht. Leider aber führen zwei Bundesländer trotz des gefundenen Kompromisses ) Anlage 2 weiterhin Drohgebärden auf. Diese Situation beweist, wie notwendig der vorliegende Gesetzentwurf war.</p>
           <p>Meine Bewertung des Prozedere der Lösungsfindung ist durchwachsen. Positiv bewerte ich, daß wir auf der Grundlage des jetzigen Gesetzentwurfes überhaupt zu einer Lösung kommen.</p>
@@ -1723,19 +1723,19 @@
           <stage type="interjection">(Beifall bei Abgeordneten der F.D.P.)</stage>
           <p>die sich anscheinend weiterhin gegen eine für alle Seiten vernünftige Lösung sperren und deshalb sogar eine Verfassungsklage in Karlsruhe anstreben. Die so lebensnotwendige Entlastung der Kommunen, um die es bei diesem Entwurf geht, wird damit von Berlin und Sachsen weiterhin in Frage gestellt.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege Türk, gestatten Sie eine Zwischenfrage des Kollegen Kolbe?</p>
         </sp>
-        <sp who="Jürgen Türk" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Jürgen Türk">
+        <sp who="Jürgen Türk" parliamentary_group="FDP" role="mp" position="NA" who_original="Jürgen Türk" party="FDP" name="Jürgen Türk">
           <speaker>Jürgen Türk (F.D.P.):</speaker>
           <p>Bitte.</p>
         </sp>
-        <sp who="Manfred Kolbe" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Manfred Kolbe">
+        <sp who="Manfred Kolbe" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Manfred Kolbe" party="CDU" name="Manfred Kolbe">
           <speaker>Manfred Kolbe (CDU/CSU):</speaker>
           <p>Herr Kollege Türk, wollen Sie zur Kenntnis nehmen, daß der Freistaat Sachsen keine Verfassungsklage anstrebt? Sind Sie auch bereit, das Wort "schäbig" zurückzunehmen?</p>
         </sp>
-        <sp who="Jürgen Türk" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Jürgen Türk">
+        <sp who="Jürgen Türk" parliamentary_group="FDP" role="mp" position="NA" who_original="Jürgen Türk" party="FDP" name="Jürgen Türk">
           <speaker>Jürgen Türk (F.D.P.):</speaker>
           <p>Ich nehme das erste gern zur Kenntnis, aber das Wort "schäbig" nehme ich nicht zurück.</p>
           <p>Wie sieht eigentlich die neue Lösung aus? Bund und Länder haben sich darauf verständigt, daß die Bundesregierung die Gesamtschuld in Höhe von 8,4 Milliarden DM in den Erblastentilgungfonds übernimmt und sich beide Seiten die jährliche Zahlung von Tilgung und Zinsen in Höhe von 630 Millionen DM teilen. Zur Finanzierung der 315 Millionen DM der sechs Länder sollen wunschgemäß ab 1998 105 Millionen DM aus dem Vermögen der DDR-Altparteien eingesetzt werden, wie das Herr Höppner wollte. Der Rest soll zu gleichen Teilen auf die Länder aufgeteilt werden.</p>
@@ -1748,11 +1748,11 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU -- Zuruf von der CDU/CSU: Sehr gut! Das war deutlich!)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Dr. Uwe-Jens Rössel, PDS.</p>
         </sp>
-        <sp who="Dr. Uwe-Jens Rössel" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Uwe-Jens Rössel">
+        <sp who="Uwe-Jens Rössel" parliamentary_group="PDS" role="mp" position="NA" who_original="Uwe-Jens Rössel" party="PDS" name="Uwe-Jens Rössel">
           <speaker>Dr. Uwe-Jens Rössel (PDS):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Haben Sie, verehrte Koalitionäre, eigentlich schon einmal darüber nachgedacht, daß der CDU/SPD-Senat von Berlin mit seiner Position recht haben könnte, wonach der vorliegende Gesetzentwurf zur leidigen Altschuldenfrage verfassungswidrig ist, ein Gesetzentwurf, den pikanterweise auch noch Herr Buwitt, ein Berliner CDU-Abgeordneter aus Neukölln, vor dem federführenden Haushaltsausschuß begründen mußte?</p>
           <p>Es ist doch so, daß das Land Berlin diesen Gesetzentwurf ablehnt, weil entsprechend den verfassungsrechtlichen Grundsätzen für eine freiwillige -- ich betone, eine freiwillige -- Übernahme von Zins- und Tilgungsverpflichtungen ein einstimmiger Beschluß der betroffenen Länder notwendig gewesen wäre. Diesen Beschluß aber gibt es nicht.</p>
@@ -1767,11 +1767,11 @@
           <p>Ich danke schön.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Arnulf Kriedner, CDU/CSU.</p>
         </sp>
-        <sp who="Arnulf Kriedner" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Arnulf Kriedner">
+        <sp who="Arnulf Kriedner" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Arnulf Kriedner" party="CDU" name="Arnulf Kriedner">
           <speaker>Arnulf Kriedner (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Ich beginne mit einem Zitat:</p>
           <p>Eine Lösung ist jetzt in greifbare Nähe gerückt, mit der alle Seiten leben können: Der Bund auf der einen und die ostdeutschen Länder und Kommunen auf der anderen Seite teilen sich jeweils zur Hälfte die Altschulden in Höhe von 8,73 Milliarden DM.</p>
@@ -1781,7 +1781,7 @@
           <p>Deshalb muß ich sagen, Kollege Türk: Ich bedauere mit Ihnen, daß es keine Solidarität unter allen Bundesländern im Osten gibt.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Ich appelliere auch an das Bundesland Berlin -- ich habe riesengroßes Verständnis für die besonderen Schwierigkeiten, die dieses Land auf Grund der Wiedervereinigung hat --, das Verfassungsgericht aus dem Spiel zu lassen und seinen Anteil zu tragen. Auch das gehört zur deutschen Wiedervereinigung.</p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.) </stage>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Es würde uns allen leichter fallen, über Berliner Fragen in einer anderen Art und Weise zu reden, wenn in dieser Sache die nötige Solidarität gezeigt würde.</p>
           <p>Herr Kollege Hampel, Sie haben von einer hälftigen Übernahme gesprochen. Ich habe den Eindruck, man kann es der SPD einfach nicht recht machen. Sie satteln bei jedem einmal erzielten Ergebnis erneut drauf. Sie nehmen nicht zur Kenntnis, daß der Ministerpräsident Ihres Bundeslandes und der Ministerpräsident von Thüringen mit dem Bundesfinanzminister zusammengesessen und sich auf die heute zur Abstimmung stehende Lösung geeinigt haben. Ich staune, daß Sie das außer acht lassen.</p>
           <stage type="interjection">(Zuruf von der F.D.P.: Das ist die vorgegebene Linie!)</stage>
@@ -1789,7 +1789,7 @@
           <p>Ich fordere Sie nach den vielen Diskussionen, die wir hatten, noch einmal auf -- ich habe das im Haushaltsausschuß schon in aller Ruhe und Besonnenheit getan --: Machen Sie endlich damit Schluß! Betreiben Sie nicht auch noch hier eine Blockadepolitik, da es um die neuen Länder geht! Es sind in diesem Land schon genügend Blockaden bei finanziellen Maßnahmen aufgerichtet worden. Ich appelliere an Sie: Geben Sie diese Blockade auf und stimmen Sie dieser sehr vernünftigen und allen Ländern und insbesondere den Kommunen gerecht werdenden Lösung zu!</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Ich schließe die Aussprache. Wir kommen zur Abstimmung über den von den Fraktionen der CDU/CSU und der F.D.P. eingebrachten Gesetzentwurf zur Regelung der Altschulden für gesellschaftliche Einrichtungen, zur Änderung des Erblastentilgungsfonds-Gesetzes und zur Änderung des Investitionsförderungsgesetzes Aufbau Ost; das sind die Drucksachen 13/6088 und 13/6336.</p>
           <p>Dazu liegt ein Änderungsantrag der Gruppe der PDS auf Drucksache 13/6340 vor. Darüber stimmen wir zuerst ab.</p>
@@ -1801,6 +1801,7 @@
           <p>und Schlußabstimmung. Ich bitte diejenigen, die dem Gesetzentwurf zustimmen wollen, sich zu erheben. -- Wer stimmt dagegen? -- Enthaltungen? -- Der Gesetzentwurf ist mit dem gleichen Stimmenverhältnis wie in der zweiten Beratung angenommen.</p>
           <p>Wir sind damit am Schluß unserer Tagesordnung. Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 4. Dezember 1996, 13 Uhr ein.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluß der Sitzung: 12.12 Uhr)</stage>
         </sp>
       </div>
     </body>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-07</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2013/0920/dokumente/protokolle/plenarprotokolle/plenarprotokolle/17215.txt</url>
-        <date>2015-10-20 19:57:10</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -35,8 +35,8 @@
   </teiHeader>
   <text>
     <body>
-      <div type="agenda_item" n="1" what="debate" desc="41 a) Erste Beratung des von den Fraktionen CDU/CSU, SPD, FDP und BÜNDNIS 90/DIE...">
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+      <div type="agenda_item" n="1" what="debate" desc="Debatte">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Guten Morgen, liebe Kolleginnen und Kollegen! Schön, Sie doch so bald wiederzusehen. Die Sitzung ist eröffnet.</p>
           <p>Ich rufe die Tagesordnungspunkte 41 a und b sowie Zusatzpunkt 8 auf:</p>
@@ -59,7 +59,7 @@
           <p>Der erste Redner in unserer Debatte ist der Kollege Michael Grosse-Brömer für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Michael Grosse-Brömer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Grosse-Brömer">
+        <sp who="Michael Grosse-Brömer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Grosse-Brömer" party="CDU" name="Michael Grosse-Brömer">
           <speaker>Michael Grosse-Brömer (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Nachdem wir gestern bis kurz vor Mitternacht debattiert haben, ist es nur angemessen, dass wir heute Morgen mit einem wichtigen Thema beginnen: mit einer Grundlage der Demokratie bzw. der parlamentarischen Daseinsberechtigung, nämlich mit dem Wahlrecht.</p>
           <stage type="interjection">(Wolfgang Wieland [BÜNDNIS 90/DIE GRÜNEN]: Ein Wählerschutzgesetz machen wir jetzt!)</stage>
@@ -103,12 +103,14 @@
           <p>Vielen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Thomas Oppermann ist der nächste Redner für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Thomas Oppermann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Thomas Oppermann">
+      </div>
+      <div type="agenda_item" n="2" what="debate" desc="Debatte">
+        <sp who="Thomas Oppermann" parliamentary_group="SPD" role="mp" position="NA" who_original="Thomas Oppermann" party="SPD" name="Thomas Oppermann">
           <speaker>Thomas Oppermann (SPD):</speaker>
           <p>Guten Morgen, Frau Präsidentin! Meine sehr verehrten Damen und Herren! Vor knapp einem Jahr haben wir hier schon einmal über das richtige Wahlrecht gestritten. Damals gab es vier Gesetzentwürfe, einen der Linken, einen der SPD, einen der Grünen und einen der Koalition. Die weitere Geschichte ist bekannt: Die Koalition hat mit ihrer Mehrheit ihren Gesetzentwurf gegen die Minderheit durchgesetzt.</p>
           <stage type="interjection">(Dr. Dieter Wiefelspütz [SPD]: Pfui! - Dr. Günter Krings [CDU/CSU]: So ist das manchmal in der Demokratie!)</stage>
@@ -158,12 +160,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie des Abg. Wolfgang Wieland [BÜNDNIS 90/DIE GRÜNEN])</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Das Wort hat der Kollege Dr. Stefan Ruppert für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Stefan Ruppert" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Stefan Ruppert">
+      </div>
+      <div type="agenda_item" n="3" what="debate" desc="Debatte">
+        <sp who="Stefan Ruppert" parliamentary_group="FDP" role="mp" position="NA" who_original="Stefan Ruppert" party="FDP" name="Stefan Ruppert">
           <speaker>Dr. Stefan Ruppert (FDP):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Ich beginne mit der Feststellung: Heute ist ein guter Tag für dieses Land,</p>
           <stage type="interjection">(Volker Kauder [CDU/CSU]: Überhaupt nicht!)</stage>
@@ -217,12 +221,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Das Wort hat die Kollegin Halina Wawzyniak.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Halina Wawzyniak" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Halina Wawzyniak">
+      </div>
+      <div type="agenda_item" n="4" what="debate" desc="Debatte">
+        <sp who="Halina Wawzyniak" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Halina Wawzyniak" party="DIE LINKE" name="Halina Wawzyniak">
           <speaker>Halina Wawzyniak (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Wir reden über drei Gesetzentwürfe zu zwei Wahlrechtsthemen. Wir haben zwei Gesetzentwürfe zum Sitzzuteilungsverfahren. Hier geht es um die spannende Frage: Wie werden eigentlich aus den Prozenten Mandate, und was passiert dabei mit den Direktmandaten? Dazu gibt es einen Gesetzentwurf der anderen Fraktionen und einen der Linken.</p>
           <p>Darüber hinaus haben wir einen Allparteienantrag zum Wahlrecht für Auslandsdeutsche vorliegen. Das ist im Übrigen der Beweis: Wenn die Inhalte stimmen, kann man etwas gemeinsam machen. Zum Dank dafür haben Sie Herrn Grindel heute gar nicht hergeholt.</p>
@@ -263,17 +269,19 @@
           <stage type="interjection">(Abg. Dr. Dieter Wiefelspütz [SPD] meldet sich zu einer Zwischenfrage)</stage>
           <p>- Na klar, Herr Wiefelspütz, Sie dürfen immer.</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Sie wollen eine Zwischenfrage zulassen. Dann halte ich die Redezeit an. - Bitte schön, Herr Wiefelspütz.</p>
         </sp>
-        <sp who="Dr. Dieter Wiefelspütz" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dieter Wiefelspütz">
+      </div>
+      <div type="agenda_item" n="5" what="debate" desc="Debatte">
+        <sp who="Dieter Wiefelspütz" parliamentary_group="SPD" role="mp" position="NA" who_original="Dieter Wiefelspütz" party="SPD" name="Dieter Wiefelspütz">
           <speaker>Dr. Dieter Wiefelspütz (SPD):</speaker>
           <p>Verehrte Frau Kollegin Wawzyniak! Sie haben - ich hoffe, es schadet Ihnen nicht, wenn ich das jetzt sage - sich sehr seriös an den Beratungen des neuen Wahlrechtes beteiligt. Es ist kurz vor Weihnachten.</p>
           <stage type="interjection">(Jörg van Essen [FDP]: Ja genau! Der Hinweis war richtig!)</stage>
           <p>Man kann das Wahlrecht sehr unterschiedlich gestalten. Ich halte das Modell, das Sie vorschlagen, für verfassungskonform. Halten Sie denn das, was voraussichtlich mit großer Mehrheit vom Deutschen Bundestag verabschiedet wird - ich greife den Beratungen etwas voraus -, für verfassungsgemäß, oder ist das, was der Bundestag beschließen wird, aus Ihrer Sicht verfassungswidrig?</p>
         </sp>
-        <sp who="Halina Wawzyniak" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Halina Wawzyniak">
+        <sp who="Halina Wawzyniak" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Halina Wawzyniak" party="DIE LINKE" name="Halina Wawzyniak">
           <speaker>Halina Wawzyniak (DIE LINKE):</speaker>
           <p>Herr Wiefelspütz, ich kann Ihre Frage kurz beantworten: Ich werde meiner Fraktion nicht empfehlen, gegen dieses Gesetz vor das Bundesverfassungsgericht zu ziehen.</p>
           <stage type="interjection">(Beifall des Abg. Dr. Stefan Ruppert [FDP] - Thomas Oppermann [SPD]: Ein Kläger weniger!)</stage>
@@ -286,12 +294,14 @@
           <p>Zum Abschluss meiner Rede möchte ich Ihnen sagen, dass wir aus meiner Sicht noch zwei Probleme zu klären haben. Das eine ist - hier befinden wir uns in Gesprächen - die Prozenthürde bei der Europawahl. Das andere ist das Wahlrecht für Menschen, die unter Vollbetreuung stehen. Ich weiß, dass das in allen Fraktionen umstritten ist. Wir sollten darüber seriös diskutieren. Ich freue mich auf die Anhörung. Vielleicht gibt es doch die Möglichkeit, sich wenigstens auf Pukelsheim III zu einigen. Dann muss ich nicht wiederholen: Wir lehnen den vorliegenden Gesetzentwurf ab, weil es eine verfassungsgemäße Alternative gibt, die nicht zu einer zahlenmäßigen Vergrößerung des Bundestags führt.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Volker Beck hat jetzt das Wort für Bündnis 90/Die Grünen.</p>
           <stage type="interjection">(Dr. Dieter Wiefelspütz [SPD]: Warum Beck?)</stage>
         </sp>
-        <sp who="Volker Beck" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Volker Beck">
+      </div>
+      <div type="agenda_item" n="6" what="debate" desc="Debatte">
+        <sp who="Volker Beck (Köln)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Volker Beck (Köln)" party="GRUENE" name="Volker Beck">
           <speaker>Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Es ist Weihnachten,</p>
           <stage type="interjection">(Dr. Günter Krings [CDU/CSU]: Es ist noch nicht Weihnachten! Es ist Adventszeit!)</stage>
@@ -332,12 +342,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Für die CDU/CSU-Fraktion hat der Kollege Dr. Günter Krings das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Günter Krings" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Günter Krings">
+      </div>
+      <div type="agenda_item" n="7" what="debate" desc="Debatte">
+        <sp who="Günter Krings" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Günter Krings" party="CDU" name="Günter Krings">
           <speaker>Dr. Günter Krings (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Vier Fraktionen des Deutschen Bundestages legen dem Haus heute einen guten und ausgewogenen Gesetzentwurf zur Änderung des Bundeswahlgesetzes vor. Das Voraburteil, dass dieser Gesetzentwurf gut und ausgewogen ist, will ich mit vier Zielen untermauern, die durch Verabschiedung dieses Gesetzentwurfs erreicht werden sie sind für ein gutes Wahlrecht entscheidend:</p>
           <p>Erstens. Durch seine Verabschiedung wird sich eine weitestgehende Beseitigung des negativen Stimmgewichts ergeben. Ich formuliere das bewusst etwas vorsichtig, weil es so weit beseitigt wird, wie das Verfassungsgericht es verlangt.</p>
@@ -373,27 +385,31 @@
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
           <p>Das Verfassungsgericht hat grundsätzlich bestätigt, dass auch unser Ansatz vom letzten Jahr eine Lösung für das Problem des negativen Stimmgewichts bedeutet hätte.</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Herr Krings, Frau Wawzyniak würde Ihnen gerne eine Zwischenfrage stellen. Geht das?</p>
         </sp>
-        <sp who="Dr. Günter Krings" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Günter Krings">
+      </div>
+      <div type="agenda_item" n="8" what="debate" desc="Debatte">
+        <sp who="Günter Krings" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Günter Krings" party="CDU" name="Günter Krings">
           <speaker>Dr. Günter Krings (CDU/CSU):</speaker>
           <p>Ja, gern. Das soll sie tun.</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Bitte schön.</p>
           <stage type="interjection">(Zuruf von der FDP: Kein Wahlkreis! Sonst würde sie nach Hause wollen! - Gegenruf des Abg. Jörg van Essen [FDP]: Sie wohnt hier in Berlin! Deswegen hat sie es leicht!)</stage>
         </sp>
-        <sp who="Halina Wawzyniak" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Halina Wawzyniak">
+      </div>
+      <div type="agenda_item" n="9" what="debate" desc="Debatte">
+        <sp who="Halina Wawzyniak" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Halina Wawzyniak" party="DIE LINKE" name="Halina Wawzyniak">
           <speaker>Halina Wawzyniak (DIE LINKE):</speaker>
           <p>Herr Krings, ich würde Sie einfach nur gern fragen wollen, was Sie Ihren Mitgliedern - "Mitglieder" heißt das bei Ihnen - in Sachsen-Anhalt sagen.</p>
           <stage type="interjection">(Wolfgang Wieland [BÜNDNIS 90/DIE GRÜNEN]: Genossen heißt das!)</stage>
           <p>Ich habe vorhin ausgeführt: 598 Sitze - 6 Mandate. Nach der Vergrößerung: 671 Sitze - 5 Mandate. Wie erklären Sie Ihren Mitgliedern in Sachsen-Anhalt, dass sie nach Ihrer Reform am Ende ein Mandat verlieren?</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Günter Krings" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Günter Krings">
+        <sp who="Günter Krings" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Günter Krings" party="CDU" name="Günter Krings">
           <speaker>Dr. Günter Krings (CDU/CSU):</speaker>
           <p>Ich kann die Zahlen ausdrücklich nicht bestätigen. Ich weiß nicht, woher diese so exakten Berechnungen kommen. Es mag bestimmte Fallkonstellationen geben, bei denen sich die Mandatszahl durch Rundung um ein Mandat nach oben oder unten verändern kann. Und ich erinnere mich genau, dass Zahlen - auch die vom BMI vorgelegten - von Ihnen immer kritisiert werden. Es würde mich deshalb sehr wundern, wenn Sie jetzt mit solchen Zahlen operieren. Die Linken sind aber auch dafür bekannt, dass Sie Positionen und Begründungen austauschen. Das will ich Ihnen ausdrücklich zugestehen.</p>
           <p>Aber entscheidend ist doch, dass wir heute schon durch die Existenz von Überhangmandaten eine gewisse unvermeidbare föderale Verzerrung haben. Die Vorschläge Ihrer Fraktion - ursprünglich auch der Grünen; auch die SPD fand sie ganz sympathisch - hätten diese föderalen Verzerrungen deutlich verschlimmert. Die Situation, die wir durch Überhangmandate systembedingt hinnehmen müssen, wäre dann deutlich verschlimmert worden, indem dann nämlich ein Bundesland nicht nur nicht in den Genuss von Überhangmandaten kommt, sondern auch noch zusätzlich den Preis für Überhangmandate in anderen Ländern hätte zahlen müssen. Also: Sie hätten eine ohnehin im System angelegte föderale Ungerechtigkeit potenziert. Genau das haben wir vermieden. Genau das zeichnet die Qualität des Gesetzentwurfes aus.</p>
@@ -404,36 +420,44 @@
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
           <p>Als Gesetzgeber haben wir aus Karlsruhe immer stärkere Anforderungen in Bezug auf die Rationalität bei der Gesetzesbegründung zu berücksichtigen. Ich nenne die Hartz-IV-Regelsätze. Ich nenne die Pendlerpauschale und andere Dinge, bei denen uns ins Stammbuch geschrieben worden ist, dass wir sie rationaler begründen müssen. Ich fände es schön, wenn auch künftig, was bisher immer der Fall war, auch das Gericht selbst sich wieder dieser Regel unterwirft. Sie gilt für den Gesetzgeber, gilt aber auch für Entscheidungen des Bundesverfassungsgerichtes.</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Herr Kollege.</p>
         </sp>
-        <sp who="Dr. Günter Krings" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Günter Krings">
+      </div>
+      <div type="agenda_item" n="10" what="debate" desc="Debatte">
+        <sp who="Günter Krings" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Günter Krings" party="CDU" name="Günter Krings">
           <speaker>Dr. Günter Krings (CDU/CSU):</speaker>
           <p>Insgesamt, Frau Präsidentin, bin ich der Auffassung, dass wir einen guten und ausgewogenen Entwurf haben, dass wir die Qualität des Bundestages nicht nur an seiner Größe messen dürfen.</p>
           <p>Ich glaube, dass wir immer noch selbstbewusst sagen können: Gemessen an der Bevölkerungszahl werden wir das zweitkleinste Parlament in der Europäischen Union bleiben. Aus dem Grunde bin ich gespannt auf die Beratungen.</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Herr Kollege.</p>
         </sp>
-        <sp who="Dr. Günter Krings" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Günter Krings">
+      </div>
+      <div type="agenda_item" n="11" what="debate" desc="Debatte">
+        <sp who="Günter Krings" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Günter Krings" party="CDU" name="Günter Krings">
           <speaker>Dr. Günter Krings (CDU/CSU):</speaker>
           <p>Ich komme zum Ende. - Wir werden in den Beratungen mögliche Verfeinerungen noch einmal diskutieren. Im Kern haben wir einen guten Entwurf dank der guten Mithilfe des Bundesinnenministeriums. Dafür vielen Dank!</p>
           <p>Für die Geduld der Präsidentin bedanke ich mich auch.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Ich habe gar keine Geduld. Das verstehen Sie ganz falsch.</p>
           <stage type="interjection">(Heiterkeit bei der CDU/CSU, der SPD, der FDP und dem BÜNDNIS 90/DIE GRÜNEN - Dr. Günter Krings [CDU/CSU]: Das ist nicht gut! - Reinhard Grindel [CDU/CSU]: Das sollten Sie als Kanzlerkandidatin aber haben!)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+      </div>
+      <div type="agenda_item" n="12" what="debate" desc="Debatte">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Für die SPD-Fraktion hat das Wort der Kollege Dr. Dieter Wiefelspütz.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Dieter Wiefelspütz" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dieter Wiefelspütz">
+      </div>
+      <div type="agenda_item" n="13" what="debate" desc="Debatte">
+        <sp who="Dieter Wiefelspütz" parliamentary_group="SPD" role="mp" position="NA" who_original="Dieter Wiefelspütz" party="SPD" name="Dieter Wiefelspütz">
           <speaker>Dr. Dieter Wiefelspütz (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen! Liebe Kollegen! Wahlrecht ist Wettbewerbsrecht in der Demokratie und deshalb von überragender Bedeutung. Unser Wahlrecht hat der Sache nach Verfassungsrang. Auch wenn wir heute wichtige Änderungen besprechen, will ich doch hervorheben, dass wir mit unserem Wahlrecht seit 1949 ganz hervorragende Erfahrungen gemacht haben, auch in der Umsetzung. Wir haben seit 1949 immer verfassungskonforme Bundestagswahlen erleben dürfen. Sie sind auch im Detail, im operativen Durchführen der Wahlen geradezu perfektionistisch umgesetzt worden. Das ist uns gleichsam selbstverständlich geworden. Viele erwarten das. Wenn man sich aber in der Welt umschaut, ist es das nicht. Mich hat in den letzten Wochen und Monaten interessiert, wie der amerikanische Präsident gewählt wird. Ich war neugierig.</p>
           <stage type="interjection">(Wolfgang Wieland [BÜNDNIS 90/DIE GRÜNEN]: Ach, deshalb waren Sie wieder da!)</stage>
@@ -457,16 +481,18 @@
           <stage type="interjection">(Abg. Wolfgang Wieland [BÜNDNIS 90/DIE GRÜNEN] meldet sich zu einer Zwischenfrage)</stage>
           <p>- Lieber Herr Wieland, es ist kurz vor Weihnachten, ich freue mich auf eine Frage von Ihnen.</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Herr Wieland, Sie möchten eine Zwischenfrage stellen. Bitte schön.</p>
         </sp>
-        <sp who="Wolfgang Wieland" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Wolfgang Wieland">
+      </div>
+      <div type="agenda_item" n="14" what="debate" desc="Debatte">
+        <sp who="Wolfgang Wieland" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Wolfgang Wieland" party="GRUENE" name="Wolfgang Wieland">
           <speaker>Wolfgang Wieland (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin, schön, dass Sie sowohl Geduld wie auch Aufmerksamkeit für das Plenum haben. - Herr Kollege Wiefelspütz, wieso nennen Sie mich einen Besserwisser, wo Sie doch wissen, dass meine Hauptkritik an dem gefundenen Kompromiss der Schönheitsfehler ist, dass dieser Kompromiss nicht heißt: "Wiefelspütz II/Pukelsheim III"? Das wäre doch sprachlich nicht zu toppen gewesen und jedem Grundschüler eingängig.</p>
           <stage type="interjection">(Heiterkeit und Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Dr. Dieter Wiefelspütz" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dieter Wiefelspütz">
+        <sp who="Dieter Wiefelspütz" parliamentary_group="SPD" role="mp" position="NA" who_original="Dieter Wiefelspütz" party="SPD" name="Dieter Wiefelspütz">
           <speaker>Dr. Dieter Wiefelspütz (SPD):</speaker>
           <p>Lieber Kollege Wieland, wir sind dabei, ein nach meiner Einschätzung ganz ordentliches Wahlrecht zu verabschieden, wobei der Begriff "Kompromiss" diesen Namen auch verdient. Kompromisse haben bei uns ja nicht immer einen guten Ruf, auch das ist hier schon angedeutet worden. Aber das Ergebnis ist wirklich brauchbar, solide, vor allen Dingen auch verfassungskonform, fair und gerecht. Es wird von allen getragen.</p>
           <p>Sprachlich ist das Ganze jedoch ganz schwierig und kaum zu verstehen.</p>
@@ -482,22 +508,26 @@
           <p>Ich hoffe, dass sich die Vergrößerung des Bundestages in Grenzen halten wird. Niemand im Hause will einen Deutschen Bundestag mit 800 oder 850 Sitzen. Ich halte es auch nicht für sehr wahrscheinlich, dass es dazu kommen wird. Aber 20, 30 oder 40 Sitze mehr, das ist durchaus im denkbaren Bereich. Das halten wir allerdings insgesamt gesehen - das darf ich sagen - für vertretbar. Wenn ich alles rundherum abwäge und auch die Tatsache berücksichtige, dass wir ein verfassungskonformes, faires und wettbewerbsgerechtes Wahlrecht haben, dann kann ich feststellen, dass wir zwar keinen Grund zur Selbstzufriedenheit haben, aber dass heute eine ordentliche Arbeit vorgelegt worden ist. Es lohnt sich aber auch, den Gesetzentwurf noch weiter zu beraten und zu verbessern.</p>
           <p>Insgesamt möchte ich mich für meine Fraktion bei allen Beteiligten sehr herzlich bedanken. Alle haben an einem Tisch gesessen - auch die Linke, was ich für richtig halte. Die Bandbreite der Diskussionen war groß, und der Kompromiss war schnell gefunden und überzeugend. Insoweit hat der Deutsche Bundestag gezeigt, was er zu leisten imstande ist, wenn er muss. Wenn wir alle bereit sind, nicht nur an unsere eigenen Interessen zu denken - auch wenn es legitim ist, dass die Parteien an ihre Interessen denken -, NA</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Herr Kollege!</p>
         </sp>
-        <sp who="Dr. Dieter Wiefelspütz" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dieter Wiefelspütz">
+      </div>
+      <div type="agenda_item" n="15" what="debate" desc="Debatte">
+        <sp who="Dieter Wiefelspütz" parliamentary_group="SPD" role="mp" position="NA" who_original="Dieter Wiefelspütz" party="SPD" name="Dieter Wiefelspütz">
           <speaker>Dr. Dieter Wiefelspütz (SPD):</speaker>
           <p>- sondern auch die jeweiligen Interessen der anderen und vielleicht auch noch die Interessen des Gemeinwesens zu beachten und zur Kenntnis zu nehmen, dann kommt dabei etwas Vernünftiges heraus. Deswegen, glaube ich, kann man mit diesem Ergebnis wirklich gut leben.</p>
           <p>Schönen Dank fürs Zuhören.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU und des BÜNDNISSES 90/DIE GRÜNEN - Wolfgang Wieland [BÜNDNIS 90/DIE GRÜNEN]: Der Schluss war gut!)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Der Kollege Jörg van Essen hat jetzt das Wort für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Jörg van Essen" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Jörg van Essen">
+      </div>
+      <div type="agenda_item" n="16" what="debate" desc="Debatte">
+        <sp who="Jörg van Essen" parliamentary_group="FDP" role="mp" position="NA" who_original="Jörg van Essen" party="FDP" name="Jörg van Essen">
           <speaker>Jörg van Essen (FDP):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Ich bin dem Kollegen Wiefelspütz dankbar, dass er darauf hingewiesen hat, welch gutes Wahlrecht wir in Deutschland haben. Ich glaube, es gibt kaum ein faireres Wahlrecht als das, was wir seit 1949 in der Bundesrepublik Deutschland haben. Es ist auch überhaupt kein Wunder, dass dieses Wahlrecht für viele der neuen Demokratien, nachdem die Diktaturen in den Ländern im Osten von den Bürgern abgewählt worden waren, Modell war. Dass das so ist, ehrt uns.</p>
           <p>Trotzdem ist unser Wahlrecht auch ein kompliziertes Wahlrecht. Die Fairness ist einem Mischsystem - Mehrheitsentscheidungen im Wahlkreis, das Verhältnismäßigkeitsprinzip auf Bundesebene - geschuldet. Deshalb gibt es immer wieder Friktionen zwischen den verschiedenen Prinzipien. Ich glaube, dass wir gut beraten sind, diese Friktionen hinzunehmen und bestimmte Bereiche, beispielsweise das negative Stimmgewicht, das wir jetzt hatten, nicht überzubetonen. Solche Probleme gibt es immer, aber solange die Gesamtarchitektur stimmt, glaube ich, sind wir gut beraten, es bei dieser Gesamtarchitektur zu belassen.</p>
@@ -531,11 +561,13 @@
           <p>Ganz herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Wolfgang Wieland hat jetzt das Wort für Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Wolfgang Wieland" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Wolfgang Wieland">
+      </div>
+      <div type="agenda_item" n="17" what="debate" desc="Debatte">
+        <sp who="Wolfgang Wieland" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Wolfgang Wieland" party="GRUENE" name="Wolfgang Wieland">
           <speaker>Wolfgang Wieland (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Wir sind ja nun in der Weihnachtszeit, der Zeit des Schenkens.</p>
           <stage type="interjection">(Dr. Günter Krings [CDU/CSU]: Adventszeit!)</stage>
@@ -571,22 +603,26 @@
           <stage type="interjection">(Heiterkeit und Beifall bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der SPD - Volker Beck [Köln] [BÜNDNIS 90/DIE GRÜNEN]: Genau! Ja!)</stage>
           <p>Aber auch wir konnten nicht jede Streitfrage klären.</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Herr Kollege.</p>
         </sp>
-        <sp who="Wolfgang Wieland" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Wolfgang Wieland">
+      </div>
+      <div type="agenda_item" n="18" what="debate" desc="Debatte">
+        <sp who="Wolfgang Wieland" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Wolfgang Wieland" party="GRUENE" name="Wolfgang Wieland">
           <speaker>Wolfgang Wieland (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin, das ist mein letzter Satz. - Deswegen haben wir klugerweise gesagt: Wir bitten die Sachverständigen, uns in der Anhörung bessere Formulierungen vorzuschlagen. Wir konnten nicht mehr leisten als das, was Ihnen vorliegt.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD - Dr. Dieter Wiefelspütz [SPD]: Aus den vier Minuten hast du ziemlich viel gemacht!)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Der Kollege Stephan Mayer hat jetzt das Wort für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Stephan Mayer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Stephan Mayer">
+      </div>
+      <div type="agenda_item" n="19" what="debate" desc="Debatte">
+        <sp who="Stephan Mayer (Altötting)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stephan Mayer (Altötting)" party="CSU" name="Stephan Mayer">
           <speaker>Stephan Mayer (Altötting) (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Kolleginnen! Sehr geehrte Kollegen! Wir debattieren heute über das vielleicht wichtigste Gesetz für die Arbeit des Deutschen Bundestages, weil es für unsere Arbeit konstitutiv ist. Manche zählen es zum materiellen Verfassungsrecht. Es geht um das Bundeswahlgesetz.</p>
           <p>Wir setzen das Urteil des Bundesverfassungsgerichts vom 25. Juli dieses Jahres um, das - mit Verlaub; das ist schon mehrere Male gesagt worden - nicht einfach umzusetzen und in der einen oder anderen Hinsicht durchaus auch etwas schwer nachzuvollziehen ist. Dieser gelungene Kompromiss vermeidet das Phänomen des negativen Stimmgewichts. Das ist ein ganz wichtiger Aspekt. Der zweite wichtige Aspekt ist, dass es uns gelungen ist, die Wirkung von Überhangmandaten unter Inkaufnahme von Ausgleichsmandaten und einer möglichen deutlichen Erweiterung des Bundestages zu beseitigen.</p>
@@ -621,12 +657,14 @@
           <p>Herzlichen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Ich freue mich jetzt sehr, als zweiter Frau in dieser Debatte Gabriele Fograscher für die SPD-Fraktion das Wort zu geben.</p>
           <stage type="interjection">(Beifall bei der SPD sowie der Abg. Renate Künast [BÜNDNIS 90/DIE GRÜNEN])</stage>
         </sp>
-        <sp who="Gabriele Fograscher" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gabriele Fograscher">
+      </div>
+      <div type="agenda_item" n="20" what="debate" desc="Debatte">
+        <sp who="Gabriele Fograscher" parliamentary_group="SPD" role="mp" position="NA" who_original="Gabriele Fograscher" party="SPD" name="Gabriele Fograscher">
           <speaker>Gabriele Fograscher (SPD):</speaker>
           <p>Vielen Dank. - Frau Präsidentin! Verehrte Kolleginnen und Kollegen! Das Wahlrecht ist der Grundpfeiler unserer Demokratie, und es ist die Legitimation jedes einzelnen Abgeordneten hier im Hause.</p>
           <p>Die Abgeordneten des Deutschen Bundestages werden in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt. Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden und nur ihrem Gewissen unterworfen.</p>
@@ -649,12 +687,14 @@
           <p>Ich freue mich auf die weiteren Beratungen zum Wahlrecht und danke für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der FDP und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Der Kollege Reinhard Grindel hat jetzt das Wort für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Reinhard Grindel" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Reinhard Grindel">
+      </div>
+      <div type="agenda_item" n="21" what="debate" desc="Debatte">
+        <sp who="Reinhard Grindel" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Reinhard Grindel" party="CDU" name="Reinhard Grindel">
           <speaker>Reinhard Grindel (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Ich bitte um Nachsicht, dass ich nun als Mann hier spreche und Ihnen sieben freudlose Minuten bereite, aber vielleicht führt mein Vortrag ja dazu, dass Sie das eine oder andere doch noch freundlich aufnehmen. - Ich will mich zum Wahlrecht für Auslandsdeutsche äußern.</p>
           <p>Eine Bemerkung vorab: Lieber Kollege Beck, die Forderung nach weiterer Abschaffung von Direktwahlkreisen kann man wirklich nur erheben, wenn man weit, weit weg von der täglichen Wahlkreisarbeit ist, die direkt gewählte Abgeordnete, von denen wir in unserer Fraktion ja viele haben, leisten. Die Wahlkreise in den neuen Ländern, aber auch in Flächenländern wie Niedersachen und Baden-Württemberg sind schon jetzt so groß, dass man dort kaum flächendeckend Präsenz zeigen kann. Ihre Forderung würde Bürgerferne und weniger Bürgernähe bedeuten. Das ist schon ein erstaunlicher Beitrag eines grünen Abgeordneten, den Sie hier geleistet haben.</p>
@@ -686,7 +726,7 @@
           <p>Herzlichen Dank fürs Zuhören.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Vielen Dank für die freudvolle Entspannung, Herr Grindel.</p>
           <stage type="interjection">(Heiterkeit bei Abgeordneten der CDU/CSU und der FDP)</stage>
@@ -702,8 +742,8 @@
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="2" what="debate" desc="Beratung der Antwort der Bundesregierung auf die Große Anfrage der Abgeordneten ...">
-        <sp who="Yvonne Ploetz" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Yvonne Ploetz">
+      <div type="agenda_item" n="22" what="debate" desc="Debatte">
+        <sp who="Yvonne Ploetz" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Yvonne Ploetz" party="DIE LINKE" name="Yvonne Ploetz">
           <speaker>Yvonne Ploetz (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Können Sie sich das Gefühl vorstellen, wenn Sie Ihren beiden Enkeln Weihnachtsgeschenke kaufen wollen, dies aber nicht geht, weil Ihnen schlichtweg das Geld fehlt, und das, obwohl Sie wirklich jeden Cent zur Seite legen, auch dann, wenn es am Ende des Monats nicht mehr für ein richtiges Essen reicht? So geht es Frau Hoffmann, die mich vor kurzem in meiner Sprechstunde besucht hat.</p>
           <p>Frau Hoffmann hat eine Minirente von 480 Euro, obwohl sie ihr Leben lang hart gearbeitet hat. Ihren beiden Kindern hat sie den besten Start ins Leben ermöglicht. Frau Hoffmann war Friseurin und in den letzten Jahren vor der Rente in Minijobs als Reinigungshilfe tätig. Zum Amt, so sagt sie, will sie nicht. Sie schämt sich. Ich finde, diese Scham sollte jeder Seniorin und jedem Senior erspart bleiben.</p>
@@ -743,12 +783,14 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie des Abg. Ottmar Schreiner [SPD])</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Der Kollege Peter Weiß hat jetzt das Wort für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Peter Weiß" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Weiß">
+      </div>
+      <div type="agenda_item" n="23" what="debate" desc="Debatte">
+        <sp who="Peter Weiß (Emmendingen)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Weiß (Emmendingen)" party="CDU" name="Peter Weiß">
           <speaker>Peter Weiß (Emmendingen) (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Verehrte Kolleginnen und Kollegen! Meine Damen und Herren! Es ist gut, dass wir im Deutschen Bundestag einmal ausführlich über die Alterssicherung der Frauen sprechen. Es ist so, dass vor allen Dingen in Westdeutschland viele Frauen in den vergangenen Jahrzehnten spätestens mit der Geburt des ersten Kindes ganz und sogar auf Dauer aus dem Erwerbsleben ausgeschieden sind. Manche Frauen haben sich - ich denke dabei an meine eigene Mutter - die in wenigen Berufsjahren erworbenen Rentenansprüche auch noch auszahlen lassen, sodass gar keine eigene Altersrente anfallen wird. Für sie bedeutet Altersversorgung für Frauen, von der Altersversorgung des Mannes abhängig zu sein. Das ist der Grund, warum die durchschnittliche Rentenzahlung an Frauen so niedrig ist. Aber bemerkenswert ist, dass sich in den letzten Jahrzehnten ein deutlicher Wandel, was die eigenständige Alterssicherung von Frauen angeht, vollzogen hat. Es wäre daher gut gewesen, wenn diejenigen, die eine Große Anfrage an die Bundesregierung gestellt haben, auch die Antworten aus dieser Anfrage hier vorgetragen und nicht verschwiegen hätten.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
@@ -811,12 +853,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Elke Ferner für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Elke Ferner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Elke Ferner">
+      </div>
+      <div type="agenda_item" n="24" what="debate" desc="Debatte">
+        <sp who="Elke Ferner" parliamentary_group="SPD" role="mp" position="NA" who_original="Elke Ferner" party="SPD" name="Elke Ferner">
           <speaker>Elke Ferner (SPD):</speaker>
           <p>Herr Präsident! Liebe Kollegen und Kolleginnen! Herr Weiß, eines muss man Ihnen lassen: Wie Sie die Tatsachen verdrehen, was Sie eben getan haben, ist schon bewundernswert.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der LINKEN)</stage>
@@ -851,17 +895,19 @@
           <stage type="interjection">(Abg. Dr. Matthias Zimmer [CDU/CSU] meldet sich zu einer Zwischenfrage)</stage>
           <p>- Bitte schön. - Herr Präsident?</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Ich konnte nicht so schnell sein wie die Kollegin Ferner. - Bitte schön.</p>
         </sp>
-        <sp who="Dr. Matthias Zimmer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Matthias Zimmer">
+      </div>
+      <div type="agenda_item" n="25" what="debate" desc="Debatte">
+        <sp who="Matthias Zimmer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Matthias Zimmer" party="CDU" name="Matthias Zimmer">
           <speaker>Dr. Matthias Zimmer (CDU/CSU):</speaker>
           <p>Frau Kollegin, Sie sind ja stellvertretende Vorsitzende der SPD-Fraktion.</p>
           <stage type="interjection">(Anton Schaaf [SPD]: Eine gute!)</stage>
           <p>Können Sie mir vielleicht Auskunft darüber geben, wie viel Minijobber Sie in Ihrer Fraktion beschäftigen?</p>
         </sp>
-        <sp who="Elke Ferner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Elke Ferner">
+        <sp who="Elke Ferner" parliamentary_group="SPD" role="mp" position="NA" who_original="Elke Ferner" party="SPD" name="Elke Ferner">
           <speaker>Elke Ferner (SPD):</speaker>
           <p>Das Thema hatten wir schon bei der letzten Debatte.</p>
           <stage type="interjection">(Dr. Heinrich L. Kolb [FDP]: Ist aber immer wieder interessant!)</stage>
@@ -885,12 +931,14 @@
           <p>Wir haben hierzu Konzepte vorgelegt. Auf Ihre Konzepte warten wir noch. Ich prophezeie Ihnen: Sie werden sich in dieser Koalition auf nichts einigen können. Eines ist klar: Wenn wir die Altersarmut überwinden wollen, dann müssen wir die Erwerbsarmut überwinden. Das geht nur mit einer anderen Bundesregierung.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Heinrich Kolb für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Heinrich L. Kolb" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Heinrich Leonhard Kolb">
+      </div>
+      <div type="agenda_item" n="26" what="debate" desc="Debatte">
+        <sp who="Kolb" parliamentary_group="FDP" role="mp" position="NA" who_original="Kolb" party="FDP" name="Heinrich L. Kolb">
           <speaker>Dr. Heinrich L. Kolb (FDP):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Die Linke hat der Bundesregierung eine Große Anfrage mit dem schönen Titel "Alterssicherung und Altersarmut von Frauen in Deutschland" zur Beantwortung vorgelegt, die wir heute hier debattieren. Weil die Linken ja immer ein Haar in der Suppe finden müssen,</p>
           <stage type="interjection">(Dr. Wolfgang Strengmann-Kuhn [BÜNDNIS 90/DIE GRÜNEN]: Das ist ein bisschen mehr als ein Haar in der Suppe!)</stage>
@@ -900,15 +948,17 @@
           <p>Deswegen lautet eine Antwort auf Ihren Entschließungsantrag: So wie Sie die Sache angehen, ist es nicht richtig. Ich weiß, es geht Ihnen um eine Standardisierung, darum, eine bestimmte These zu transportieren. Das ist ja Ihr Geschäftsmodell, mit dem Sie sich im politischen Wettbewerb versuchen zu behaupten. Die Zahlen geben das, was Sie behaupten, nämlich es sei um die Alterssicherung von Frauen in Deutschland sehr schlecht bestellt, jedoch nicht her.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, gestatten Sie eine Zwischenfrage des Kollegen Birkwald?</p>
         </sp>
-        <sp who="Dr. Heinrich L. Kolb" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Heinrich Leonhard Kolb">
+      </div>
+      <div type="agenda_item" n="27" what="debate" desc="Debatte">
+        <sp who="Kolb" parliamentary_group="FDP" role="mp" position="NA" who_original="Kolb" party="FDP" name="Heinrich L. Kolb">
           <speaker>Dr. Heinrich L. Kolb (FDP):</speaker>
           <p>Ja, klar.</p>
         </sp>
-        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Matthias Birkwald">
+        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Matthias W. Birkwald" party="DIE LINKE" name="Matthias W. Birkwald">
           <speaker>Matthias W. Birkwald (DIE LINKE):</speaker>
           <p>Vielen Dank, Herr Kolb, dass Sie die Zwischenfrage zulassen. - Sie haben mit Ihrem Redebeitrag den Eindruck erweckt, es sei alles gar nicht so schlimm. Sie agieren mit Durchschnittszahlen nach dem Motto: Wenn der eine null Euro hat und der andere 1 Million Euro, dann haben beide im Durchschnitt eine halbe Million. Zu den armen Frauen haben Sie kein Wort verloren. Ich würde Sie doch bitten, einmal dazu Stellung zu nehmen, dass von dem Zeitpunkt der Einführung der Grundsicherung im Alter bis heute die Anzahl derer, die im Alter Grundsicherung in Anspruch nehmen müssen, um 69 Prozent zugenommen hat und dass zwei Drittel davon Frauen sind.</p>
           <p>Insgesamt müssen heute schon 436 000 Menschen im Alter Grundsicherung in Anspruch nehmen. Das ist aber nur die offizielle Zahl. Es gibt eine Studie der Armutsforscherin Irene Becker, in der eine Dunkelziffer genannt wird; denn insbesondere viele Frauen sagen - die Kollegin Ploetz hat vorhin darauf hingewiesen -: Ich gehe nicht zum Sozialamt. Ich möchte eine Rente haben; ich möchte keine Sozialleistungen. - Diese Dunkelziffer liegt zwischen 60 und 68 Prozent, sodass wir schon heute von 1,1 bis 1,4 Millionen armen alten Menschen ausgehen müssen. Zwei Drittel davon sind Frauen. Das ist der erste Punkt.</p>
@@ -918,7 +968,7 @@
           <p>Deswegen ist meine Frage an Sie: Wie steht denn Ihre Fraktion bzw. wie steht die Koalition zu der Forderung, endlich dafür zu sorgen, dass Müttern auch für die Kinder, die vor 1992 geboren sind, drei Entgeltpunkte auf dem Rentenkonto gutgeschrieben werden? Wie stehen Sie also zur Frage der Kindererziehungszeiten, und wie stehen Sie zur Rente nach Mindestentgeltpunkten? - Die Kollegin Ferner hatte das angesprochen. Alleine diese beiden Maßnahmen würden dazu beitragen, dass Hunderttausende - mittelfristig Millionen - von älteren Frauen aus der Altersarmut herauskämen.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Heinrich L. Kolb" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Heinrich Leonhard Kolb">
+        <sp who="Kolb" parliamentary_group="FDP" role="mp" position="NA" who_original="Kolb" party="FDP" name="Heinrich L. Kolb">
           <speaker>Dr. Heinrich L. Kolb (FDP):</speaker>
           <p>Sie haben ja drei Punkte angesprochen. Sie werden ein bisschen länger stehen bleiben müssen, Herr Kollege Birkwald, wenn ich entsprechend Ihrer Fragen detailliert antworten soll.</p>
           <stage type="interjection">(Dr. Dagmar Enkelmann [DIE LINKE]: Er hat Stehvermögen, keine Sorge!)</stage>
@@ -953,11 +1003,13 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Anton Schaaf [SPD]: Der Schluss war in Ordnung!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Wolfgang Strengmann-Kuhn für Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Dr. Wolfgang Strengmann-Kuhn" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Wolfgang Strengmann-Kuhn">
+      </div>
+      <div type="agenda_item" n="28" what="debate" desc="Debatte">
+        <sp who="Wolfgang Strengmann-Kuhn" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Wolfgang Strengmann-Kuhn" party="GRUENE" name="Wolfgang Strengmann-Kuhn">
           <speaker>Dr. Wolfgang Strengmann-Kuhn (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Altersarmut in Deutschland ist weiblich. Das war schon das Ergebnis der Großen Anfrage, die wir, die grüne Bundestagsfraktion, letztes Jahr gestellt haben. Ich möchte eine Zahl aus der Antwort der Bundesregierung nennen; es sind keine Zahlen von uns. Herr Kolb, hören Sie vielleicht einmal zu; denn ich bin gerade dabei, etwas zu den eben von Ihnen genannten Zahlen klarzustellen. In der Antwort der Bundesregierung auf unsere Große Anfrage zu dem Thema "Altersarmut in Deutschland" wurde deutlich, dass es allein 1 Million alleinstehende Frauen mit einem Einkommen unter der Risikogrenze gibt. Diese Grenze liegt bei 930 Euro; das ist nicht sehr viel. Hinzu kommen 500 000 Frauen, die in Paarhaushalten leben, wenngleich sie in der Tat meist bessergestellt sind als alleinstehende Frauen. Insgesamt liegt das Einkommen von über 1,5 Millionen Frauen unter der Altersarmutsrisikogrenze: unter 930 Euro, wenn sie alleine leben, unter 700 Euro pro Kopf, wenn sie in einem Paarhaushalt leben. Sie würden wahrscheinlich sagen: Das ist noch nicht Armut. - Aber wir sind uns vielleicht einig: Das ist sehr wenig Geld. Wenn man die Grenze heruntersetzt, ist die Gruppe derjenigen, die tatsächlich von Armut betroffen sind, immer noch groß. Wie gesagt: Es sind hauptsächlich Frauen. Ich bin deswegen der Linken durchaus dankbar, dass sie mit einer weiteren Großen Anfrage an dieser Stelle nachgehakt hat und das Thema der Altersarmut von Frauen angeht.</p>
           <p>Der Kollege Peter Weiß tut mir fast schon ein bisschen leid,</p>
@@ -1006,12 +1058,14 @@
           <p>Vielen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Heike Brehmer für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Heike Brehmer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Heike Brehmer">
+      </div>
+      <div type="agenda_item" n="29" what="debate" desc="Debatte">
+        <sp who="Heike Brehmer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Heike Brehmer" party="CDU" name="Heike Brehmer">
           <speaker>Heike Brehmer (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen!</p>
           <p>Wir verschließen die Augen nicht davor, dass durch veränderte wirtschaftliche und demographische Strukturen in Zukunft die Gefahr einer ansteigenden Altersarmut besteht.</p>
@@ -1051,11 +1105,13 @@
           <p>Wir haben auf unserem Bundesparteitag in Hannover die schrittweise Anerkennung dieser Lebensleistung in unserem Beschluss "Sichere Rente - starker Generationenvertrag" auf den Weg gebracht.</p>
           <stage type="interjection">(Elke Ferner [SPD]: Wie wollen Sie das konkret machen?)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Frau Kollegin, gestatten Sie eine Zwischenfrage des Kollegen Strengmann-Kuhn?</p>
         </sp>
-        <sp who="Heike Brehmer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Heike Brehmer">
+      </div>
+      <div type="agenda_item" n="30" what="debate" desc="Debatte">
+        <sp who="Heike Brehmer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Heike Brehmer" party="CDU" name="Heike Brehmer">
           <speaker>Heike Brehmer (CDU/CSU):</speaker>
           <p>Nein.</p>
           <stage type="interjection">(Elke Ferner [SPD]: Das kann ich jetzt verstehen! Das hätte ich auch nicht gemacht!)</stage>
@@ -1083,12 +1139,14 @@
           <p>Ich danke für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Anton Schaaf für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Anton Schaaf" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Anton Schaaf">
+      </div>
+      <div type="agenda_item" n="31" what="debate" desc="Debatte">
+        <sp who="Anton Schaaf" parliamentary_group="SPD" role="mp" position="NA" who_original="Anton Schaaf" party="SPD" name="Anton Schaaf">
           <speaker>Anton Schaaf (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Liebe Frau Kollegin Brehmer, Sie können alle Themen dieser Erde ansprechen; es wird aber nicht funktionieren, davon abzulenken, dass Sie in dieser Legislaturperiode rentenpolitisch völlig gescheitert sind.</p>
           <stage type="interjection">(Beifall bei der SPD und der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -1133,12 +1191,14 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Pascal Kober für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Pascal Kober">
+      </div>
+      <div type="agenda_item" n="32" what="debate" desc="Debatte">
+        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" who_original="Pascal Kober" party="FDP" name="Pascal Kober">
           <speaker>Pascal Kober (FDP):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Lieber Toni Schaaf, eines muss sich diese Regierungskoalition von der SPD mit Sicherheit nicht vorwerfen lassen, nämlich dass wir für die Arbeitnehmerinnen und Arbeitnehmer nichts gemacht hätten.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
@@ -1176,12 +1236,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Jutta Krellmann für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Jutta Krellmann" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Jutta Krellmann">
+      </div>
+      <div type="agenda_item" n="33" what="debate" desc="Debatte">
+        <sp who="Jutta Krellmann" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Jutta Krellmann" party="DIE LINKE" name="Jutta Krellmann">
           <speaker>Jutta Krellmann (DIE LINKE):</speaker>
           <p>Sehr geehrter Herr Präsident! Sehr geehrte Damen und Herren! Ich stelle noch einmal fest: Niedriglöhne und Minijobs ergeben eine schlechte Rente.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der LINKEN und der SPD)</stage>
@@ -1210,12 +1272,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Frank Heinrich für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Frank Heinrich" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Frank Heinrich">
+      </div>
+      <div type="agenda_item" n="34" what="debate" desc="Debatte">
+        <sp who="Frank Heinrich" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Frank Heinrich" party="CDU" name="Frank Heinrich">
           <speaker>Frank Heinrich (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Ich möchte noch einmal auf den eigentlichen Anlass dieser Debatte zurückkommen, nämlich die Große Anfrage, die Sie als Linke an die Bundesregierung gerichtet haben. Das Thema ist wichtig, wie auch Redner unserer Fraktion schon gesagt haben, aber für mich bzw. für uns ist die Fragestellung irgendwie seltsam. Denn es wirkt so, als hätte es zwischen den Aussagen, die Sie in der Einleitung zu Ihrer Großen Anfrage gemacht haben, und den Aussagen, die Sie jetzt machen, keine Antwort gegeben.</p>
           <p>Es wirkt, als wären Sie schon voreingenommen und wüssten die Antwort schon vorher, wollten sie aber noch einmal bestätigt haben. Sie klauben sich ein Stück weit einfach das heraus, was Sie bestätigt. Ich lese einfach ein paar kurze Passagen aus Ihrer Großen Anfrage vor: "Frauen sind ...", "Sie haben ...", "Sie verfügen ...", "Sie sind ...". Das stammt nur aus den ersten sechs oder sieben Zeilen der Anfrage.</p>
@@ -1245,11 +1309,13 @@
           <stage type="interjection">(Beifall bei Abgeordneten der LINKEN - Elke Ferner [SPD]: Herr Weiß, ich würde an Ihrer Stelle im Boden versinken vor Scham!)</stage>
           <p>Kann es sein, dass Sie freiwilligen Verzicht von Bürgern auf Erwerbsarbeit zugunsten von Erziehung einfach nicht zulassen wollen?</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, gestatten Sie eine Zwischenfrage der Kollegin Binder?</p>
         </sp>
-        <sp who="Frank Heinrich" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Frank Heinrich">
+      </div>
+      <div type="agenda_item" n="35" what="debate" desc="Debatte">
+        <sp who="Frank Heinrich" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Frank Heinrich" party="CDU" name="Frank Heinrich">
           <speaker>Frank Heinrich (CDU/CSU):</speaker>
           <p>Nein, im Moment nicht. Ich möchte zum Punkt kommen. -</p>
           <stage type="interjection">(Widerspruch bei der LINKEN)</stage>
@@ -1267,35 +1333,41 @@
           <stage type="interjection">(Elke Ferner [SPD]: Nichts!)</stage>
           <p>Herr Kober hat bereits auf den Rechtsanspruch auf einen Betreuungsplatz und den bedarfsgerechten Ausbau der qualitativ hochwertigen Kinderbetreuungsinfrastruktur hingewiesen. Die Bundesregierung fordert Unternehmen auf, die Einrichtung betrieblicher Betreuungsplätze zu fördern. Meine Redezeit reicht nicht aus, um all das, was die Bundesregierung tut, aufzulisten.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, Sie müssen zum Ende kommen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Frank Heinrich" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Frank Heinrich">
+      </div>
+      <div type="agenda_item" n="36" what="debate" desc="Debatte">
+        <sp who="Frank Heinrich" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Frank Heinrich" party="CDU" name="Frank Heinrich">
           <speaker>Frank Heinrich (CDU/CSU):</speaker>
           <p>Ich komme zum Ende.</p>
           <p>In der heutigen Ausgabe des Tagesspiegel wird das noch einmal bestätigt. Es kommt nicht nur bei den Betrieben, sondern auch bei den Familien an:</p>
           <p>Eltern wählen ihren Arbeitgeber immer stärker nach der Familienfreundlichkeit aus.</p>
           <p>Wenn das Signal nicht deutlich genug ist! Ein wichtiges Thema mit einer seltsamen Fragestellung, - NA</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege!</p>
         </sp>
-        <sp who="Frank Heinrich" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Frank Heinrich">
+      </div>
+      <div type="agenda_item" n="37" what="debate" desc="Debatte">
+        <sp who="Frank Heinrich" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Frank Heinrich" party="CDU" name="Frank Heinrich">
           <speaker>Frank Heinrich (CDU/CSU):</speaker>
           <p>- eine wichtige Debatte zum richtigen Zeitpunkt.</p>
           <stage type="interjection">(Elke Ferner [SPD]: Manchmal wäre der richtige Redner zum richtigen Zeitpunkt hilfreich!)</stage>
           <p>Aber wir brauchen auch einen konstruktiven Ausblick. Wir laden Sie zu weiteren Debatten ganz herzlich ein.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Ottmar Schreiner für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Ottmar Schreiner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ottmar Schreiner">
+      </div>
+      <div type="agenda_item" n="38" what="debate" desc="Debatte">
+        <sp who="Ottmar Schreiner" parliamentary_group="SPD" role="mp" position="NA" who_original="Ottmar Schreiner" party="SPD" name="Ottmar Schreiner">
           <speaker>Ottmar Schreiner (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Ich bin eigentlich erstaunt darüber, dass die Bundesregierung bislang hier nicht das Wort ergriffen hat.</p>
           <stage type="interjection">(Peter Weiß [Emmendingen] [CDU/CSU]: Die hat doch die Fragen beantwortet!)</stage>
@@ -1357,30 +1429,36 @@
           <p>Mit dem gleichen Argument könnte hier im Bundestag jemand einen Antrag stellen, den Bundeswehreinsatz in der Türkei unterbleiben zu lassen, weil das Geld dafür aufgrund der Hilfen für Griechenland nicht da sei. Es gibt überhaupt keinen inneren Zusammenhang zwischen dem Bundeswehreinsatz in der Türkei und den Griechenland-Hilfen, und es gibt auch nicht den geringsten inneren Zusammenhang zwischen den Rentenleistungen für Mütter, die vor 1992 geboren haben, und den Griechenland-Hilfen. Das ist abenteuerlich und bringt die Europapolitik in schwersten Misskredit. So etwas darf man hier wirklich nicht stehen lassen. Das geht doch gar nicht.</p>
           <stage type="interjection">(Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, Sie müssen zum Schluss kommen.</p>
         </sp>
-        <sp who="Ottmar Schreiner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ottmar Schreiner">
+      </div>
+      <div type="agenda_item" n="39" what="debate" desc="Debatte">
+        <sp who="Ottmar Schreiner" parliamentary_group="SPD" role="mp" position="NA" who_original="Ottmar Schreiner" party="SPD" name="Ottmar Schreiner">
           <speaker>Ottmar Schreiner (SPD):</speaker>
           <p>Ja, ich komme zum Schluss.</p>
           <p>Wenn der Bundesfinanzminister einen adäquaten Beitrag zur Verbesserung der Situation geliefert hätte, dann hätte er vielleicht einmal erklärt, ob und in welchem Ausmaß die Bundesregierung im Rahmen ihrer Möglichkeiten in Europa darauf hingewirkt hat, dass beispielsweise in Griechenland die wirklich Vermögenden - die Milliardäre, die Millionäre - ihrerseits einen Beitrag zur Sanierung des griechischen Staatshaushalts leisten.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege!</p>
         </sp>
-        <sp who="Ottmar Schreiner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ottmar Schreiner">
+      </div>
+      <div type="agenda_item" n="40" what="debate" desc="Debatte">
+        <sp who="Ottmar Schreiner" parliamentary_group="SPD" role="mp" position="NA" who_original="Ottmar Schreiner" party="SPD" name="Ottmar Schreiner">
           <speaker>Ottmar Schreiner (SPD):</speaker>
           <p>Solange sie nicht zur Kasse gebeten werden, ist es unstattlich, in Deutschland ältere Frauen, die Kinder geboren haben, wegen Griechenland in Haftung zu nehmen.</p>
           <stage type="interjection">(Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Johannes Vogel für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Johannes Vogel" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Johannes Vogel">
+      </div>
+      <div type="agenda_item" n="41" what="debate" desc="Debatte">
+        <sp who="Johannes Vogel (Lüdenscheid)" parliamentary_group="FDP" role="mp" position="NA" who_original="Johannes Vogel (Lüdenscheid)" party="FDP" name="Johannes Vogel">
           <speaker>Johannes Vogel (Lüdenscheid) (FDP):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Lieber Kollege Schreiner, das war ja wirklich eine bemerkenswerte Rede.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD und der LINKEN - Anton Schaaf [SPD]: Das war auch alles richtig!)</stage>
@@ -1425,12 +1503,14 @@
           <p>In diesem Sinne: Schöne Feiertage!</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Paul Lehrieder für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU - Jörn Wunderlich [DIE LINKE]: Paul, du kannst es jetzt noch rausreißen!)</stage>
         </sp>
-        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Paul Lehrieder">
+      </div>
+      <div type="agenda_item" n="42" what="debate" desc="Debatte">
+        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Paul Lehrieder" party="CSU" name="Paul Lehrieder">
           <speaker>Paul Lehrieder (CDU/CSU):</speaker>
           <p>Lieber Jörn Wunderlich, schauen wir mal! - Sehr geehrter Herr Präsident! Liebe Kolleginnen! Liebe Kollegen! Kollege Strengmann-Kuhn, Sie haben zu Beginn und zum Ende Ihrer Rede unsere sehr engagierte und dynamische Arbeitsministerin, Frau von der Leyen, rückblickend als Weihnachtsengel apostrophiert.</p>
           <stage type="interjection">(Cornelia Behm [BÜNDNIS 90/DIE GRÜNEN]: Das war doch eine gute Idee, oder?)</stage>
@@ -1482,7 +1562,7 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über den Entschließungsantrag der Fraktion Die Linke auf Drucksache 17/11854. Wer stimmt für diesen Entschließungsantrag? - Wer stimmt dagegen? - Enthaltungen? - Der Entschließungsantrag ist mit den Stimmen des Hauses gegen die Stimmen der Fraktion Die Linke abgelehnt.</p>
@@ -1510,8 +1590,8 @@
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="3" what="debate" desc="- Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses ...">
-        <sp who="Elke Hoff" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Elke Hoff">
+      <div type="agenda_item" n="43" what="debate" desc="Debatte">
+        <sp who="Elke Hoff" parliamentary_group="FDP" role="mp" position="NA" who_original="Elke Hoff" party="FDP" name="Elke Hoff">
           <speaker>Elke Hoff (FDP):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen! Liebe Kollegen! Meine Damen und Herren! Wir entscheiden heute über den Einsatz von Patriot-Raketenabwehrsystemen in der Türkei, bei einem unserer wichtigen Bündnispartner. Ich glaube, dass wir heute zwei wichtige politische Signale hier von Berlin aussenden:</p>
           <p>Wir machen sehr deutlich - das ist die erste Botschaft -, dass Deutschland ein zuverlässiger Bündnispartner ist und dass unser Bündnispartner Türkei sich auch an dieser Stelle auf Deutschland verlassen kann.</p>
@@ -1538,12 +1618,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Rainer Arnold für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Rainer Arnold" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rainer Arnold">
+      </div>
+      <div type="agenda_item" n="44" what="debate" desc="Debatte">
+        <sp who="Rainer Arnold" parliamentary_group="SPD" role="mp" position="NA" who_original="Rainer Arnold" party="SPD" name="Rainer Arnold">
           <speaker>Rainer Arnold (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen, liebe Kollegen! Verantwortliche Sicherheitspolitik heißt, Risiken frühzeitig zu erkennen und langfristig Vorsorge zu betreiben. Das gilt in erster Linie für politische Prozesse, auch in Syrien. Wir finden, es ist ein richtiger Schritt, dass sich die Opposition in Syrien zusammengefunden hat und für die deutsche Außenpolitik ein Gesprächspartner sein kann.</p>
           <p>Dazu gehört allerdings auch, dass bei aller Kritik an Russland - und Russlands Verhalten ist zu kritisieren - gleichzeitig akzeptiert und erkannt wird, dass russische Interessen mitbedacht werden müssen, wenn man in Prozesse eintreten will, die das Blutvergießen beenden sollen.</p>
@@ -1569,12 +1651,14 @@
           <p>Herzlichen Dank und ein frohes Fest.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Philipp Mißfelder für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Philipp Mißfelder" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Philipp Mißfelder">
+      </div>
+      <div type="agenda_item" n="45" what="debate" desc="Debatte">
+        <sp who="Philipp Mißfelder" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Philipp Mißfelder" party="CDU" name="Philipp Mißfelder">
           <speaker>Philipp Mißfelder (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Zunächst einmal möchte ich mich bei meinem Kollegen Arnold dafür bedanken, dass er das Mandat und die Tragweite des Mandates richtig eingeordnet hat. Gerade der defensive Charakter, den Sie stark herausgearbeitet haben - das ist etwas, was die Fraktionen im Deutschen Bundestag weitgehend verbindet -, zeigt, wie wichtig die Beratung im Vorfeld war. Damit konnten wir in der Öffentlichkeit dem Eindruck entgegenwirken, wir würden auch nur einen Schritt, und sei er noch so klein, in Richtung Eskalation gehen.</p>
           <p>Wir gehen auf eine Bitte ein, die unser NATO-Partner Türkei an uns gerichtet hat. Es ist eigentlich eine Selbstverständlichkeit: Wenn ein NATO-Partner uns um Hilfe bittet, dann entsprechen wir dieser Hilfe auch. Trotzdem hat es im Vorfeld Diskussionen gegeben. Ich glaube, das hängt damit zusammen, dass aufgrund der Vielzahl von Einsätzen, die wir mittlerweile hier im Plenum zu beraten haben, zu Recht kritische Fragen gestellt werden. Sie sind bei uns rauf und runter diskutiert worden. Ich glaube, wir haben gemeinsam mit der Regierung mit diesem Mandat die richtigen Antworten auf die drängenden Fragen gefunden.</p>
@@ -1598,12 +1682,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Gregor Gysi für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN - Volker Kauder [CDU/CSU]: Reißen Sie sich am Riemen, Herr Gysi!)</stage>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Gregor Gysi">
+      </div>
+      <div type="agenda_item" n="46" what="debate" desc="Debatte">
+        <sp who="Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Gregor Gysi" party="DIE LINKE" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (DIE LINKE):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Deutschland besitzt zwölf einsatzfähige Patriot-Feuereinheiten, die uns seit 1989 immerhin 3,048 Milliarden Euro gekostet haben. Die Linke hat immer erklärt: Wir müssen darauf verzichten, die modernste Kriegstechnik einzukaufen. Sie ist auch die teuerste. Sie sahen das immer anders. Es gibt kein Land, das Deutschland überfallen will. Wir brauchen überhaupt nicht die modernste Kriegstechnik auf der Welt.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -1641,11 +1727,13 @@
           <p>Mein letzter Satz: Wir müssen in Anbetracht unserer Geschichte gemeinsam verhindern, dass Deutschland zur Kriegspartei im Nahen oder Mittleren Osten wird.</p>
           <stage type="interjection">(Beifall bei der LINKEN - Philipp Mißfelder [CDU/CSU]: Mein Gott!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Kerstin Müller für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Kerstin Müller" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Kerstin Müller">
+      </div>
+      <div type="agenda_item" n="47" what="debate" desc="Debatte">
+        <sp who="Kerstin Müller (Köln)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Kerstin Müller (Köln)" party="GRUENE" name="Kerstin Müller">
           <speaker>Kerstin Müller (Köln) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Also, bei aller Liebe, Gregor Gysi - -</p>
           <stage type="interjection">(Philipp Mißfelder [CDU/CSU]: Lieber nicht! - Heiterkeit)</stage>
@@ -1661,12 +1749,14 @@
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
           <p>Ich habe für die Fraktion der Grünen von Anfang an deutlich gemacht: Wenn sich der Partner Türkei durch den blutigen Bürgerkrieg an seinen Grenzen bedroht fühlt und sich deshalb an die NATO wendet, dann werden wir eine solche Anfrage ernsthaft prüfen; denn genau das ist der Sinn des NATO-Bündnisses.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Frau Kollegin, gestatten Sie eine Zwischenfrage der Kollegin Hänsel?</p>
           <stage type="interjection">(Zurufe: Nein!)</stage>
         </sp>
-        <sp who="Kerstin Müller" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Kerstin Müller">
+      </div>
+      <div type="agenda_item" n="48" what="debate" desc="Debatte">
+        <sp who="Kerstin Müller (Köln)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Kerstin Müller (Köln)" party="GRUENE" name="Kerstin Müller">
           <speaker>Kerstin Müller (Köln) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ich glaube, nicht. - Meine Damen und Herren von der Linken, bei allem Misstrauen, das man gegenüber Erdogans sonstigen Interessen haben kann und muss, sage ich: Dass die Türkei nach mehrfachem Granatenbeschuss Sorge hat, in Zukunft von syrischen Scud-Raketen bedroht zu werden, können Sie ihr nicht ernsthaft absprechen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der SPD)</stage>
@@ -1680,22 +1770,26 @@
           <stage type="interjection">(Zurufe von der LINKEN)</stage>
           <p>Ich will aber auch sehr deutlich sagen: Es geht uns darum, dass die Türkei eingebunden wird. NATO bedeutet eben auch: Verantwortung auf beiden Seiten. Mir ist lieber, wir binden die Türkei frühzeitig im Rahmen der NATO ein und senden damit die klare Botschaft: Keine Alleingänge! Dafür sorgen wir aber für eure Sicherheit.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Frau Kollegin, Sie müssen zum Schluss kommen.</p>
         </sp>
-        <sp who="Kerstin Müller" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Kerstin Müller">
+      </div>
+      <div type="agenda_item" n="49" what="debate" desc="Debatte">
+        <sp who="Kerstin Müller (Köln)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Kerstin Müller (Köln)" party="GRUENE" name="Kerstin Müller">
           <speaker>Kerstin Müller (Köln) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ich komme zum letzten Satz. - Wir verbinden mit dieser breiten Zustimmung aber auch die Forderung, dass die Bundesregierung nicht nur militärisch, sondern auch humanitär und menschenrechtlich alles tut, um den Nachbarstaaten zu helfen und das Leid der syrischen Bevölkerung zu lindern.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Letzter Redner in der Debatte ist Reinhard Brandl für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Reinhard Brandl" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Reinhard Brandl">
+      </div>
+      <div type="agenda_item" n="50" what="debate" desc="Debatte">
+        <sp who="Reinhard Brandl" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Reinhard Brandl" party="CSU" name="Reinhard Brandl">
           <speaker>Dr. Reinhard Brandl (CDU/CSU):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! In den letzten Tagen haben wir als Parlament unsere Bündnisfähigkeit unter Beweis gestellt. Es vergingen nur zehn Tage vom Beschluss der NATO bis zur Beschlussfassung hier im Bundestag. Niemand kann sagen, unser parlamentarisches Verfahren halte etwas auf bzw. die Reaktionsfähigkeit der Regierung sei durch uns eingeschränkt.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
@@ -1717,25 +1811,27 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über die Beschlussempfehlung des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung zur Entsendung bewaffneter deutscher Streitkräfte zur Verstärkung der integrierten Luftverteidigung der NATO auf Ersuchen der Türkei. Der Ausschuss empfiehlt in seiner Beschlussempfehlung auf Drucksache 17/11892, den Antrag der Bundesregierung auf Drucksache 17/11783 anzunehmen.</p>
-          <p>Wir stimmen nun über die Beschlussempfehlung namentlich ab. Hierzu liegen mir eine ganze Reihe persönlicher Erklärungen zur Abstimmung vor.</p>
+          <p>Wir stimmen nun über die Beschlussempfehlung namentlich ab. Hierzu liegen mir eine ganze Reihe persönlicher Erklärungen zur Abstimmung vor.1</p>
           <p>Ich bitte die Schriftführerinnen und Schriftführer, die vorgesehenen Plätze einzunehmen. Sind alle Plätze an den Urnen besetzt? - Das ist der Fall. Dann eröffne ich die Abstimmung.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+      </div>
+      <div type="agenda_item" n="51" what="debate" desc="Debatte">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
-          <p>Ist ein Mitglied des Hauses anwesend, das seine Stimme noch nicht abgeben konnte? - Das ist nicht der Fall. Ich schließe die Abstimmung und bitte die Schriftführerinnen und Schriftführer, mit der Auszählung zu beginnen. Das Ergebnis der Abstimmung wird Ihnen später bekannt gegeben.</p>
+          <p>Ist ein Mitglied des Hauses anwesend, das seine Stimme noch nicht abgeben konnte? - Das ist nicht der Fall. Ich schließe die Abstimmung und bitte die Schriftführerinnen und Schriftführer, mit der Auszählung zu beginnen. Das Ergebnis der Abstimmung wird Ihnen später bekannt gegeben.2</p>
           <p>Liebe Kolleginnen und Kollegen, ich mache darauf aufmerksam, dass wir jetzt noch nicht am Schluss der Tagesordnung sind und auch zu diesem Tagesordnungspunkt noch eine Abstimmung durchführen werden. Deshalb wäre ich dankbar, wenn diejenigen, die jetzt an den Beratungen teilnehmen, Platz nehmen, sodass ich dann auch Abstimmungsergebnisse zweifelsfrei feststellen kann.</p>
           <p>Kollegin Vogler, wir stimmen jetzt gleich über einen Antrag Ihrer Fraktion ab. Es wäre schön, wenn ich fortfahren könnte. Das gilt auch für die übrigen Mitglieder der Fraktion Die Linke, welche noch im Plenarsaal stehen.</p>
           <p>Wir kommen zur Abstimmung über den Entschließungsantrag der Fraktion Die Linke auf Drucksache 17/11896. Wer stimmt für den Entschließungsantrag? - Wer stimmt dagegen? - Wer enthält sich? Der Entschließungsantrag ist mit den Stimmen der Koalitionsfraktionen, der Fraktion der SPD und der Fraktion Bündnis 90/Die Grünen gegen die Stimmen der Fraktion Die Linke abgelehnt.</p>
           <p>Ich rufe die Tagesordnungspunkte 44 a bis 44 c auf:</p>
           <p>a) Beratung des Antrags der Abgeordneten Ingo Egloff, Burkhard Lischka, Sebastian Edathy, weiterer Abgeordneter und der Fraktion der SPD</p>
           <p>Genossenschaftsgründungen erleichtern, Wohnungsgenossenschaften stärken, bewährtes Prüfsystem erhalten</p>
-          <p>- Drucksache 17/9976 (neu) - </p>
+          <p>- Drucksache 17/9976 (neu) -</p>
           <p>Überweisungsvorschlag:</p>
-          <p>Rechtsausschuss (f) </p>
+          <p>Rechtsausschuss (f)</p>
           <p>Finanzausschuss</p>
           <p>Ausschuss für Wirtschaft und Technologie</p>
           <p>Ausschuss für Arbeit und Soziales</p>
@@ -1743,18 +1839,18 @@
           <p>Ausschuss für Kultur und Medien</p>
           <p>b) Beratung des Antrags der Abgeordneten Heidrun Bluhm, Johanna Voß, Dr. Kirsten Tackmann, weiterer Abgeordneter und der Fraktion DIE LINKE</p>
           <p>Genossenschaften aktiv fördern, Mitgliedschaften erleichtern und unterstützen</p>
-          <p>- Drucksache 17/11828 - </p>
+          <p>- Drucksache 17/11828 -</p>
           <p>Überweisungsvorschlag:</p>
-          <p>Rechtsausschuss (f) </p>
+          <p>Rechtsausschuss (f)</p>
           <p>Ausschuss für Wirtschaft und Technologie</p>
           <p>Ausschuss für Ernährung, Landwirtschaft und Verbraucherschutz</p>
           <p>Ausschuss für Arbeit und Soziales</p>
-          <p>Ausschuss für Verkehr, Bau und Stadtentwicklung </p>
+          <p>Ausschuss für Verkehr, Bau und Stadtentwicklung</p>
           <p>c) Beratung des Antrags der Abgeordneten Beate Walter-Rosenheimer, Ingrid Hönlinger, Kerstin Andreae, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN</p>
           <p>Kleine und Kleinstgenossenschaften stärken, Bürokratie abbauen</p>
-          <p>- Drucksache 17/11579 -  </p>
+          <p>- Drucksache 17/11579 -</p>
           <p>Überweisungsvorschlag:</p>
-          <p>Rechtsausschuss (f) </p>
+          <p>Rechtsausschuss (f)</p>
           <p>Finanzausschuss</p>
           <p>Ausschuss für Wirtschaft und Technologie</p>
           <p>Ausschuss für Verkehr, Bau und Stadtentwicklung</p>
@@ -1763,8 +1859,8 @@
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="4" what="debate" desc="a) Beratung des Antrags der Abgeordneten Ingo Egloff, Burkhard Lischka, Sebastia...">
-        <sp who="Ingo Egloff" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ingo Egloff">
+      <div type="agenda_item" n="52" what="debate" desc="Debatte">
+        <sp who="Ingo Egloff" parliamentary_group="SPD" role="mp" position="NA" who_original="Ingo Egloff" party="SPD" name="Ingo Egloff">
           <speaker>Ingo Egloff (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Der genossenschaftliche Teil der Wirtschaft hat sich in den 100 Jahren seines Bestehens gut behauptet. Die hohe Insolvenzfestigkeit und auch die zum Teil schon sehr alte und erfolgreiche Geschichte einiger Genossenschaften zeigt, dass man mit dieser Gesellschaftsform in einem marktwirtschaftlichen System überleben kann.</p>
           <p>Genossenschaften sind soziale, demokratische und verantwortungsbewusste Institutionen. Die Genossenschaft ist die einzige Rechtsform, die es erlaubt, bürgerschaftliches Engagement und wirtschaftliches Interesse unter einem Dach zu verbinden.</p>
@@ -1801,12 +1897,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD - Zuruf von der CDU/CSU: Das sind aber andere Genossen als ihr!)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Detlef Seif für die Unionsfraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Detlef Seif" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Detlef Seif">
+      </div>
+      <div type="agenda_item" n="53" what="debate" desc="Debatte">
+        <sp who="Detlef Seif" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Detlef Seif" party="CDU" name="Detlef Seif">
           <speaker>Detlef Seif (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren Kollegen! Nach der über 150-jährigen Geschichte der Genossenschaften hat diese Unternehmensform in der Tat einen festen Platz in vielen wirtschaftlichen Bereichen unserer Gesellschaft: im Einkauf, im Verkauf, im Verkehrsbereich, im Kreditwesen und - das ist ganz besonders wichtig - im Wohnungswesen. Mit der letzten Novelle im Jahr 2006 wurde das Tätigkeitsfeld der Genossenschaften noch erweitert und auf soziale und kulturelle Zwecke ausgedehnt. Die Zahl der Gründungen war rückläufig. Die Zahl der Genossenschaften hatte im Jahr 2005 ihren Tiefststand erreicht. Es gab nur noch 75 Neugründungen. Man muss aber sehen, dass das auch der Fusion vieler Genossenschaften geschuldet ist. Die Novelle bewirkte jedenfalls, dass eine deutliche Zunahme der Neugründungen von Genossenschaften stattgefunden hat. Von 241 Neugründungen im Jahr 2009 stieg die Zahl im Jahr 2011 auf 370.</p>
           <p>Für einige Unternehmen - das haben die letzten Jahre gezeigt - steht die Gewinnmaximierung im Vordergrund: Börsennotierung, Dividende. Das ist auch kein Wunder. Der Vorstandsvorsitzende einer Aktiengesellschaft wird danach bewertet, wie hoch der Profit für die einzelnen Aktionäre ist. Da ist es wohltuend, dass es in Abgrenzung dazu Genossenschaften gibt, deren Zweck darauf gerichtet ist, die einzelnen Mitglieder zu fördern. Der Mensch steht hier im Mittelpunkt. Die Genossen sind mit ihrer Gesellschaft persönlich verbunden; unabhängig von der Höhe des Geschäftsanteils hat man in der Regel nur eine Stimme. Deswegen wird die Genossenschaft zu Recht als die demokratischste Gesellschaft bezeichnet.</p>
@@ -1825,7 +1923,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Bevor ich der nächsten Rednerin das Wort erteile, gebe ich Ihnen das von den Schriftführerinnen und Schriftführern ermittelte Ergebnis der namentlichen Abstimmung über die Beschlussempfehlung des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung "Entsendung bewaffneter deutscher Streitkräfte zur Verstärkung der integrierten Luftverteidigung der NATO auf Ersuchen der Türkei und auf Grundlage des Rechts auf kollektive Selbstverteidigung (Artikel 51 der Charta der Vereinten Nationen) sowie des Beschlusses des Nordatlantikrates vom 4. Dezember 2012" bekannt: abgegebene Stimmen 555. Mit Ja haben 461 Kolleginnen und Kollegen gestimmt, mit Nein 86, und es gab 8 Enthaltungen. Die Beschlussempfehlung ist angenommen.</p>
           <p>Endgültiges Ergebnis</p>
@@ -2243,7 +2341,8 @@
           <p>Dr. Claudia Winterstein</p>
           <p>Dr. Volker Wissing</p>
           <p>Hartfrid Wolff (Rems-Murr)</p>
-          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>BÜNDNIS 90/</p>
+          <p>DIE GRÜNEN</p>
           <p>Kerstin Andreae</p>
           <p>Marieluise Beck (Bremen)</p>
           <p>Volker Beck (Köln)</p>
@@ -2388,8 +2487,9 @@
           <p>Sabine Zimmermann</p>
           <p>fraktionsloser</p>
           <p>Abgeordneter</p>
-          <p>Wolfgang Ne kovic</p>
-          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>Wolfgang Nekovic</p>
+          <p>BÜNDNIS 90/</p>
+          <p>DIE GRÜNEN</p>
           <p>Monika Lazar</p>
           <p>Hans-Christian Ströbele</p>
           <p>Enthalten</p>
@@ -2397,7 +2497,8 @@
           <p>Marco Bülow</p>
           <p>Marlene Rupprecht (Tuchenbach)</p>
           <p>Ewald Schurer</p>
-          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>BÜNDNIS 90/</p>
+          <p>DIE GRÜNEN</p>
           <p>Memet Kilic</p>
           <p>Maria Klein-Schmeink</p>
           <p>Sylvia Kotting-Uhl</p>
@@ -2407,8 +2508,8 @@
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="5" what="" desc="(Beifall bei der LINKEN)">
-        <sp who="Johanna Voß" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Johanna Voß">
+      <div type="agenda_item" n="54" what="debate" desc="Debatte">
+        <sp who="Johanna Voß" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Johanna Voß" party="DIE LINKE" name="Johanna Voß">
           <speaker>Johanna Voß (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Sehr geehrte Damen und Herren! Das Jahr der Genossenschaften geht nun zu Ende. Zahlreiche Publikationen hat es gegeben, zahlreiche Veranstaltungen und Filmreihen haben stattgefunden. Eine Wahlkreisreise per Rad zu solidarischer Ökonomie hat mir gezeigt, wie viel sich tut: Eine-Welt-Läden, weitere Läden, neue Energiegenossenschaften, Jugend- und Beschäftigungsprojekte und mehr.</p>
           <p>Die Linke und die anderen Oppositionsfraktionen haben hier im Parlament sowohl in dieser Legislaturperiode als auch schon davor dazu fleißig gearbeitet, etwa in Form von Anfragen. Es gab auch eine Genossenschaftskonferenz der Linken.</p>
@@ -2440,18 +2541,20 @@
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
           <p>Die Potenziale der Genossenschaften sollten in der Agrarressortforschung und in der Agrarberichterstattung stärker als bislang berücksichtigt und präsentiert werden.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
-          <p>Zu den Wohnungsgenossenschaften. Heidrun Bluhm hat bereits einiges gesagt. </p>
+          <p>Zu den Wohnungsgenossenschaften. Heidrun Bluhm hat bereits einiges gesagt.</p>
           <p>Viele Mieter fühlen sich nicht wohl. Sie haben keine Mitspracherechte mehr, und es wird ein Mietwucher betrieben, wie es auch sonst in der Wohnungspolitik üblich ist, gerade in Berlin.</p>
           <stage type="interjection">(Ingo Egloff [SPD]: Das ist Unsinn!)</stage>
           <p>Ich danke meiner Namenskollegin Elisabeth Voß für ihre geleistete Arbeit und für ihr Buch. Sie hat viel für die Genossenschaften und die Verbreitung der guten Gedanken, die mit dieser Bewegung verbunden sind, getan. Das internationale Jahr der Genossenschaften geht nun zu Ende. Da heißt es für die Bundesregierung: Liefern! Nicht immer nur ankündigen, liefern!</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Der Kollege Marco Buschmann hat nun für die FDP-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Marco Buschmann" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Marco Buschmann">
+      </div>
+      <div type="agenda_item" n="55" what="debate" desc="Debatte">
+        <sp who="Marco Buschmann" parliamentary_group="FDP" role="mp" position="NA" who_original="Marco Buschmann" party="FDP" name="Marco Buschmann">
           <speaker>Marco Buschmann (FDP):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Wir beraten heute über Anregungen für die Änderung des Rechts der eingetragenen Genossenschaften. Dies ist gut; denn diese Rechtsform ist extrem praxisrelevant. Die Genossenschaftsbanken sind schon erwähnt worden. Sie bilden eine ausgesprochen stabile, gleichberechtigte und unverzichtbare dritte Säule im deutschen Bankensystem. Die Einkaufs- und Absatzgenossenschaften haben eine wichtige Funktion für den Mittelstand, weil Größenvorteile größerer Wettbewerber ausgeglichen werden, indem kleine Unternehmen miteinander kooperieren. Auch über die Wohnungsbaugenossenschaften und über die Energiegenossenschaften haben wir schon viel gehört.</p>
           <p>Es werden hier Vorschläge zur Entbürokratisierung gemacht, insbesondere in der Gründungsphase, im Prüfungswesen und bei den Bilanzierungspflichten. Diese Anregungen sind im Grundsatz zu begrüßen. Herr Kollege Egloff hat ja schon angedeutet, dass im Hause grundsätzlich kein Dissens darüber besteht, dass hier etwas zu tun ist. Gerade deshalb brauchen wir die Entschließungsanträge vielleicht gar nicht, weil ja allgemein bekannt ist, dass die Bundesregierung einen Gesetzentwurf auf den Weg bringen wird,</p>
@@ -2470,11 +2573,13 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat die Kollegin Beate Walter-Rosenheimer für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Beate Walter-Rosenheimer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Beate Walter-Rosenheimer">
+      </div>
+      <div type="agenda_item" n="56" what="debate" desc="Debatte">
+        <sp who="Beate Walter-Rosenheimer" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Beate Walter-Rosenheimer" party="GRUENE" name="Beate Walter-Rosenheimer">
           <speaker>Beate Walter-Rosenheimer (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Es freut mich nicht nur vor Weihnachten, wenn Sie keinen Schaum vor dem Mund haben, wenn wir hier diskutieren.</p>
           <p>"Gemeinsam mehr erreichen", das ist der Grundgedanke der Genossenschaften. Ob Dorfladen, Energiegenossenschaften oder regionale Volks- und Raiffeisenbanken: In der Gemeinschaft lassen sich Ziele leichter erreichen. Wie kein anderes Modell bieten genossenschaftliche Unternehmen die Möglichkeit der Mitwirkung und Mitgestaltung. Die eingetragene Genossenschaft ist traditionell seit vielen Jahren die mit Abstand insolvenzsicherste Rechtsform in Deutschland. Die Insolvenzquote lag 2011 bei 0,13 Prozent. Das ist außergewöhnlich gut.</p>
@@ -2504,12 +2609,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie der Abg. Rita Schwarzelühr-Sutter [SPD])</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die Unionsfraktion hat nun der Kollege Dr. Matthias Heider das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Dr. Matthias Heider" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Matthias Heider">
+      </div>
+      <div type="agenda_item" n="57" what="debate" desc="Debatte">
+        <sp who="Matthias Heider" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Matthias Heider" party="CDU" name="Matthias Heider">
           <speaker>Dr. Matthias Heider (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Meine Damen und Herren! Wenn 21 Millionen Menschen in Deutschland einem gemeinsamen Grundgedanken folgen, dann muss da etwas dran sein. Wenn über 7 600 eingetragene Genossenschaften das Wir vor das Ich stellen, dann ist das ein Erfolgsmodell. Wenn Genossenschaften in Zeiten der Verwerfungen an den Finanzmärkten mit Selbsthilfe, in Selbstverantwortung und Selbstverwaltung handeln, dann zeigt dies: Es handelt sich um ein Modell, über das wir uns im kommenden Jahr etwas länger unterhalten müssen.</p>
           <p>Genossenschaften sind allerdings keine Patentlösung für alle gesellschaftlichen oder ökonomischen Probleme. Sie handeln nicht in einem öffentlichen Auftrag und sind in der Regel keine Non-Profit-Organisationen. Gegenstand ihres Geschäfts - der Kollege Buschmann hat richtigerweise darauf hingewiesen - ist eine unternehmerische Tätigkeit. Die regionale Verankerung und die feste Bindung an ihre Mitglieder bringt eine Vielzahl von Geschäftsmodellen hervor, die im Vergleich zu anderen Unternehmen und auch Rechtsformen bodenständiger und in der Tat auch viel nachhaltiger sind.</p>
@@ -2521,7 +2628,7 @@
           <p>Zu der Feststellung dieser Zielsätze hätte es eigentlich keiner Anträge bedurft. Lassen Sie mich an dieser Stelle - nicht allzu kleinkariert - kurz vor Weihnachten sagen: Wir hätten uns gefreut, wenn Sie im Zuge der Beratung des Jahressteuergesetzes 2013 schon im Vermittlungsausschuss dafür gestimmt hätten, die Aufbewahrungspflicht von zehn auf acht Jahre zu verkürzen. Das wäre eine schnelle Hilfe für die Genossenschaften gewesen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der FDP)</stage>
           <p>Es gibt in den Anträgen dennoch einige Unterschiede. Diese Baustellen müssen wir uns im nächsten Jahr genauer anschauen. Bei intensiver Betrachtung eignen sie sich unter Umständen für eine längere Diskussion. Es geht im Wesentlichen um die Haftung und um die Nachschusspflicht, es geht um die genossenschaftliche Pflichtprüfung, und es geht um die Einführung der sogenannten Kleinstgenossenschaften.</p>
-          <p>Die genossenschaftliche Pflichtprüfung ist eine betreuende und besonders umfassende, periodische Prüfung der gesamten wirtschaftlichen Verhältnisse. Dieses Bewertungsregime hat sich seit 1889 bewährt. Aus Sicht des Bundesverfassungsgerichts, das 2001 das so entschieden hat, ist die Pflichtmitgliedschaft von Genossenschaften im Prüfungsverband verfassungsgemäß, und sie dient dem Schutz der Genossenschaftsmitglieder und dem Schutz der Gläubiger. </p>
+          <p>Die genossenschaftliche Pflichtprüfung ist eine betreuende und besonders umfassende, periodische Prüfung der gesamten wirtschaftlichen Verhältnisse. Dieses Bewertungsregime hat sich seit 1889 bewährt. Aus Sicht des Bundesverfassungsgerichts, das 2001 das so entschieden hat, ist die Pflichtmitgliedschaft von Genossenschaften im Prüfungsverband verfassungsgemäß, und sie dient dem Schutz der Genossenschaftsmitglieder und dem Schutz der Gläubiger.</p>
           <p>Einerseits soll die Position der Mitglieder im Innenverhältnis zur Genossenschaft besonders gesichert und gestärkt werden. Gleichzeitig werden der ordnungsgemäße wirtschaftliche Umgang mit den von den Mitgliedern gehaltenen Geschäftsanteilen überprüft und die Genossen vor den möglichen wirtschaftlichen Folgen ihres Tuns frühzeitig gewarnt und bewahrt. Dieses hohe Schutzniveau, das wir in der Genossenschaft vorfinden, ist letztendlich der innere Kern der Genossenschaften und der Grund, weshalb wir so wenige Insolvenzen auf diesem Sektor beobachten können.</p>
           <p>Auf der anderen Seite sollen natürlich auch die Gläubiger der Genossenschaften vor Schaden bewahrt werden. Dieses Prüfungssystem gewährleistet eine Sicherheit, die man sicherlich bei keiner anderen Rechtsform in dieser Ausführlichkeit feststellen kann.</p>
           <p>Es bleibt also festzuhalten: Die Pflichtprüfung ist grundsätzlich etwas Gutes. Sie bietet eine Sicherheit für dieses Geschäftsmodell. Das ist eine verpflichtende Prüfung. Meine Fraktion hat das bereits 2006 mit einer Veränderung der jährlichen Prüfungsperiode bei einer Bilanzsumme unter 2 Millionen Euro vorangetrieben. Ich sehe aber auch, dass wir Raum für weitere Änderungen haben. Vielleicht können wir vom verpflichtenden geprüften Jahresabschluss bei einigen, weiteren Genossenschaften anderer Größenordnung im zweiten Geschäftsjahr absehen. Voraussetzung dafür ist aber erstens, dass im Innenverhältnis der Schuldner - Stichwort: Haftungsbeschränkung - vor weitergehender Haftung und Nachschusspflicht geschützt wird, und zweitens, dass im Außenverhältnis dem Gläubiger durch entsprechende Firmierung als haftungsbeschränkte Genossenschaft signalisiert wird, dass eine Kontrolle der wirtschaftlichen Verhältnisse entsprechend der Pflichtprüfung alter Prägung nicht stattfindet. Das ist auch ein Kreditargument der Genossenschaft. Das wird man näher beleuchten müssen.</p>
@@ -2530,18 +2637,20 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP sowie der Abg. Rita Schwarzelühr-Sutter [SPD])</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die SPD-Fraktion hat nun die Kollegin Rita Schwarzelühr-Sutter das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Rita Schwarzelühr-Sutter" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rita Schwarzelühr-Sutter">
+      </div>
+      <div type="agenda_item" n="58" what="debate" desc="Debatte">
+        <sp who="Rita Schwarzelühr-Sutter" parliamentary_group="SPD" role="mp" position="NA" who_original="Rita Schwarzelühr-Sutter" party="SPD" name="Rita Schwarzelühr-Sutter">
           <speaker>Rita Schwarzelühr-Sutter (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Es ist Weihnachtszeit, und man kann wirklich sagen: Genossenschaften sind wahrlich ein Gewinn für alle. Das stimmt. Das Motto des Genossenschaftsjahres hat sich wirklich bestätigt. Genossenschaften haben auch vor dem Hintergrund der Finanz- und Wirtschaftskrise bewiesen, dass "Mehr Wir und weniger Ich!" das richtige Rüstzeug ist, um gut durch Krisen zu kommen. Das Konzept der gemeinschaftlichen Selbsthilfe ist aufgegangen.</p>
           <p>Im Mittelpunkt der Genossenschaft steht die langfristige Orientierung an den Mitgliedsinteressen und nicht die kurzfristige Gewinnmaximierung. Die Identität von Eigentümer und Kunde ist ein prägendes Merkmal. Genossenschaften sind vor allem regional verankert, und ihre Mitglieder sind fest mit ihnen verbunden, sodass sie Geschäftsmodelle hervorbringen, die im Vergleich zu anderen Unternehmen bodenständiger und nachhaltiger sind. Dem Gründungszweck sind keine Grenzen gesetzt. Entscheidend ist, dass Menschen in ihrer Region und ihrem Umfeld gemeinsam etwas positiv bewegen und verändern wollen.</p>
           <p>Ich glaube, wir sind uns in diesem Bereich wirklich einig. Bauen Sie aber bitte nicht wieder Hürden durch Bürokratie und Angst vor Haftung auf. Meines Wissens ist bisher noch nie der Fall eingetreten, dass Mitglieder mit ihrem persönlichen Vermögen haften mussten, wie Sie es beschrieben haben.</p>
           <stage type="interjection">(Marco Buschmann [FDP]: Jetzt haben wir ja auch die Einlagensicherung!)</stage>
-          <p>Ich komme aus dem ländlichen Raum, aus dem Schwarzwald. Gerade in ländlichen Räumen bietet die Rechtsform der Genossenschaft eine große Chance. Wir haben Genossenschaften im Bereich der Nahversorgung, der Energieerzeugung und der Vermarktung. Wir haben Genossenschaften im Bereich der medizinischen Versorgung und im Bereich der sozialen Infrastruktur, zum Beispiel bei Schwimmbädern, Freizeit- und Bildungseinrichtungen oder bei kulturellen Einrichtungen. </p>
+          <p>Ich komme aus dem ländlichen Raum, aus dem Schwarzwald. Gerade in ländlichen Räumen bietet die Rechtsform der Genossenschaft eine große Chance. Wir haben Genossenschaften im Bereich der Nahversorgung, der Energieerzeugung und der Vermarktung. Wir haben Genossenschaften im Bereich der medizinischen Versorgung und im Bereich der sozialen Infrastruktur, zum Beispiel bei Schwimmbädern, Freizeit- und Bildungseinrichtungen oder bei kulturellen Einrichtungen.</p>
           <p>Dies ist vor dem Hintergrund des demografischen Wandels besonders interessant, aber auch angesichts der immer knapper werdenden Kassen der Kommunen. Es gibt zahlreiche Beispiele. So wie es im Sauerland ist, ist es auch im Hochschwarzwald. Es gibt zum Beispiel in dem kleinen Ort St. Märgen eine solche Initiative. Dort wurde mit einer Bürgerinitiative ein wahres Kulturgut, ein Haus, vor dem Abriss bewahrt. Es war erst ein Pilgerheim des Klosters von St. Märgen, dann war es ein Grandhotel, dann sollte es dem Bagger zum Opfer fallen. Einige Frauen haben es geschafft - die Initiative ging von den Landfrauen aus -, eine Genossenschaft zu gründen, die in dem Haus ein Café betreibt, in dem familienfreundliche Teilzeitarbeitsplätze gesichert und regionale Lebensmittel verwertet werden. Dies ist also ein echtes Pfund, mit dem man wuchern kann.</p>
           <p>Zahlreiche Energiegenossenschaften haben sich gegründet. Sie bieten eine großartige Chance, die Menschen bei der Energiewende mitzunehmen und sie einzubeziehen.</p>
           <p>Genossenschaften sind, wie gesagt, keine Patentlösungen. Ihre Merkmale sind jedoch in mehrfacher Hinsicht dazu geeignet, einen volkswirtschaftlichen und gesellschaftlichen Mehrwert hervorzubringen. Warum gibt es nicht mehr? Die Rechtsformkosten sind hoch, und der erhebliche Aufwand, den man betreiben muss, ist abschreckend; er schreckt viele von der Gründung vor allem sehr kleiner Genossenschaft ab. Wir müssen hier einen Ausgleich finden. Die Genossenschaften müssen das gewährleisten können, für das sie stehen, nämlich Sicherheit. Es ist eine Rechtsform, die zur Bewältigung bestimmter Herausforderungen besonders geeignet ist. Daher sollte man die Hürden für Genossenschaften senken.</p>
@@ -2550,12 +2659,14 @@
           <p>Frohe Weihnachten.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Der letzte Redner in dieser Debatte ist der Kollege Thomas Silberhorn für die Unionsfraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Thomas Silberhorn" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Thomas Silberhorn">
+      </div>
+      <div type="agenda_item" n="59" what="debate" desc="Debatte">
+        <sp who="Thomas Silberhorn" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Thomas Silberhorn" party="CSU" name="Thomas Silberhorn">
           <speaker>Thomas Silberhorn (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Wir haben in unserem Gesellschaftsrecht eine lange Tradition unterschiedlicher Rechtsformen, Gesellschaftsformen von BGB-Gesellschaften bis hin zu börsennotierten Aktiengesellschaften. Dieses Gesellschaftsrecht ist durchaus dynamisch angelegt, so wie die Märkte, auf denen sich diese Gesellschaften bewegen. Gerade die Europäisierung und die Internationalisierung unserer Rechtsordnung haben dazu geführt, dass auch neue Rechtsformen, Gesellschaftsformen etabliert worden sind. Ein gutes Beispiel dafür ist die englische Limited, die sich seit einigen Jahren auch bei uns wachsender Beliebtheit erfreut.</p>
           <p>Wichtig ist allerdings, dass jeder die Gesellschaftsform wählen kann, die seinen Ansprüchen am nächsten kommt. Wir haben die Situation, dass die unterschiedlichen Gesellschaftsformen mit spezifischen Vor- und Nachteilen verbunden sind, die wohl abgewogen werden müssen. Wir können als Gesetzgeber den Rahmen dafür bieten, aber welche Gesellschaftsform letztlich gewählt wird, bleibt Ausdruck der Privatautonomie.</p>
@@ -2572,15 +2683,15 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird Überweisung der Vorlagen auf den Drucksachen 17/9976, 17/11828 und 17/11579 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? - Das ist der Fall. Dann sind die Überweisungen so beschlossen.</p>
           <p>Ich rufe den Tagesordnungspunkt 10 auf:</p>
           <p>Erste Beratung des von den Abgeordneten Monika Lazar, Volker Beck (Köln), Memet Kilic, weiteren Abgeordneten und der Fraktion BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes zur Verbesserung der Situation von Opfern von Menschenhandel in Deutschland</p>
-          <p>- Drucksache 17/10843 -  </p>
+          <p>- Drucksache 17/10843 -</p>
           <p>Überweisungsvorschlag:</p>
-          <p>Ausschuss für Familie, Senioren, Frauen und Jugend (f) </p>
+          <p>Ausschuss für Familie, Senioren, Frauen und Jugend (f)</p>
           <p>Innenausschuss</p>
           <p>Rechtsausschuss</p>
           <p>Ausschuss für Arbeit und Soziales</p>
@@ -2589,8 +2700,8 @@
           <p>Ich eröffne die Aussprache. Das Wort hat die Kollegin Monika Lazar für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
       </div>
-      <div type="agenda_item" n="6" what="debate" desc="Erste Beratung des von den Abgeordneten Monika Lazar, Volker Beck (Köln), Memet ...">
-        <sp who="Monika Lazar" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Monika Lazar">
+      <div type="agenda_item" n="60" what="debate" desc="Debatte">
+        <sp who="Monika Lazar" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Monika Lazar" party="GRUENE" name="Monika Lazar">
           <speaker>Monika Lazar (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Die Konvention des Europarates zur Bekämpfung des Menschenhandels stellt Menschenhandel zur sexuellen und zur Arbeitsausbeutung als erstes international rechtsverbindliches Dokument ausdrücklich in einen menschenrechtlichen Kontext und verpflichtet die Mitgliedstaaten zu umfassenden Maßnahmen zur Prävention von Menschenhandel, zur Strafverfolgung der Täterinnen und Täter und zum Schutz der Opfer.</p>
           <p>In der Denkschrift der Bundesregierung zur Konvention steht, dass die Regelungen des Übereinkommens - Zitat - "bereits heute umfassend im nationalen deutschen Recht verwirklicht" sind, "sodass bei Ratifizierung keine Änderungen des deutschen Rechts, insbesondere des Strafrechts und Aufenthaltsrechts, erforderlich sind." Ich sehe das anders.</p>
@@ -2612,17 +2723,19 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die Unionsfraktion hat nun die Kollegin Elisabeth Winkelmeier-Becker das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Elisabeth Winkelmeier-Becker" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Elisabeth Winkelmeier-Becker">
+      </div>
+      <div type="agenda_item" n="61" what="debate" desc="Debatte">
+        <sp who="Elisabeth Winkelmeier-Becker" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Elisabeth Winkelmeier-Becker" party="CDU" name="Elisabeth Winkelmeier-Becker">
           <speaker>Elisabeth Winkelmeier-Becker (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Für warme Worte zum Weihnachtsfest eignet sich das Thema Menschenhandel gewiss nicht. - Die Situation von Opfern von Menschenhandel haben wir in dieser Legislaturperiode schon mehrfach auf der Tagesordnung gehabt: zunächst im vergangenen Jahr, als wir die Bedenk- und Stabilisierungsfrist für Opfer von Menschenhandel von einem auf drei Monate verlängert haben - das geschah damals im Zuge der Anpassung an den EU-Visakodex -, aber auch bei der Ratifizierung der Europaratskonvention zur Bekämpfung von Menschenhandel. Seither stellen wir uns auch in Deutschland der Bewertung des Kontrollgremiums GRETA, das periodisch Berichte erarbeiten wird und Vorschläge zur Verbesserung im Kampf gegen den Menschenhandel unterbreitet.</p>
           <p>Wir hatten in diesem Zusammenhang eine Diskussion und eine Sachverständigenanhörung zu der Frage, ob wir noch mehr tun müssen, um diese Konvention ratifizieren zu können, oder was unabhängig von Zwang politisch gewünscht und sinnvoll ist. Wir haben uns damals im Anschluss an Auffassungen der Bundesregierung und des Bundesrates dagegen entschieden, im Rahmen des Ratifizierungsprozesses Maßnahmen zu ergreifen, aber in der Tat bleibt die Frage, ob etwas politisch gewünscht wird und umzusetzen ist, auf der Tagesordnung; denn wir lassen uns nicht immer nur zwingen.</p>
           <p>Zunächst einmal ein Blick auf die Zahlen und Fakten: 2,4 Millionen Menschen pro Jahr sind weltweit von Menschenhandel betroffen. Nach Angaben der ILO sind es vor allem Frauen und Kinder, die infolgedessen schwer traumatisiert und für ihr Leben gezeichnet sind. Ein Großteil der Opfer kommt mittlerweile aus Osteuropa. Darüber hinaus stammt eine relevante Zahl der Opfer aus Afrika, vor allem aus Nigeria. Ein großer Teil der Opfer wird zur Prostitution und zur Schwarzarbeit gezwungen. Deutschland ist sowohl als Transitland als auch als Zielland stark betroffen. Hinter dem Menschenhandel stecken häufig sehr gut strukturierte Netzwerke der organisierten Kriminalität.</p>
-          <p>Mich machen vor allem die krassen Fälle der sexuellen Ausbeutung sehr betroffen. Mir hat eine Kollegin aus dem Bundestag, die früher als Rechtsanwältin tätig war, dazu ein sehr nahegehendes Beispiel genannt: </p>
+          <p>Mich machen vor allem die krassen Fälle der sexuellen Ausbeutung sehr betroffen. Mir hat eine Kollegin aus dem Bundestag, die früher als Rechtsanwältin tätig war, dazu ein sehr nahegehendes Beispiel genannt:</p>
           <p>Eine junge Frau aus einem Drittstaat ist mit falschen Versprechungen nach Deutschland gelockt worden. Dann geht es ganz klassisch weiter: Sie wird in ein Bordell gebracht, und die Papiere werden ihr abgenommen. Sie wird von sechs Männern vergewaltigt. Sie wird monatelang in diesem Bordell festgehalten und dort auf übelste Weise ausgenutzt. Bei einer Razzia wird sie dann aufgegriffen. Ungewöhnlich ist in diesem Fall: Sie ist zur Aussage bereit. Sie muss aber erleben, dass die Täter nur zu einer Bewährungsstrafe verurteilt werden. Sie selbst darf auch aus humanitären Gründen nicht in Deutschland bleiben. Sie wird nach Hause zurückgeschickt und findet dort die gleichen Strukturen vor. Sie wird wieder nach Deutschland gebracht.</p>
           <p>In den Regionen in Deutschland findet so etwas alltäglich statt. Wir können davon ausgehen, dass wir im Moment auch hier in Berlin von vielen Frauen umgeben sind, die das Schicksal dieser Frau teilen. Ähnliche Schicksale schildern uns die Hilfsorganisationen, etwa Schwester Lea Ackermann von Solwodi, und auch das BKA.</p>
           <p>Hier stellt sich uns folgender Problemzusammenhang dar: Zumeist sind die Opfer nicht zur Aussage bereit, weil sie Sorge haben und weil sie traumatisiert sind und sich gar nicht dazu durchringen können, sich mit ihrer Situation auseinanderzusetzen. Tun sie es doch, dann wird ihnen aufgrund der Koppelung von Aufenthaltstitel und Aussage häufig die Glaubwürdigkeit mit der Folge abgesprochen, dass die Täter ohne Strafe davonkommen und die kriminellen Strukturen unangetastet bleiben. Deshalb ist es aus meiner Sicht der richtige Weg, für mehr Sicherheit für die Opfer zu sorgen, damit sie sich trauen, auszusagen, und man besser an die Täter anstatt an die Opfer herankommt.</p>
@@ -2639,12 +2752,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU, der SPD, der FDP und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die SPD-Fraktion hat nun die Kollegin Marlene Rupprecht das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Marlene Rupprecht" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Marlene Rupprecht">
+      </div>
+      <div type="agenda_item" n="62" what="debate" desc="Debatte">
+        <sp who="Marlene Rupprecht (Tuchenbach)" parliamentary_group="SPD" role="mp" position="NA" who_original="Marlene Rupprecht (Tuchenbach)" party="SPD" name="Marlene Rupprecht">
           <speaker>Marlene Rupprecht (Tuchenbach) (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen! Liebe Kollegen! Am Freitag vor Weihnachten sind wir alle eigentlich schon in Gedanken auf dem Heimweg, aber wir haben ein sehr schwer verdauliches Thema auf der Tagesordnung. Umso ernsthafter, merke ich, gehen die Kolleginnen, die dazu reden, damit um. Es ist wie immer: Frauen kümmern sich darum. Nachher wird Herr Kober sprechen, weil keine Frau mehr da ist.</p>
           <stage type="interjection">(Dr. Florian Toncar [FDP]: Wir haben noch eine draußen direkt vor der Tür!)</stage>
@@ -2665,12 +2780,14 @@
           <p>Ich wünsche Ihnen eine ruhiges und gutes Gewissen und fröhliche Weihnachten.</p>
           <stage type="interjection">(Beifall bei der SPD und der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Pascal Kober für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Pascal Kober">
+      </div>
+      <div type="agenda_item" n="63" what="debate" desc="Debatte">
+        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" who_original="Pascal Kober" party="FDP" name="Pascal Kober">
           <speaker>Pascal Kober (FDP):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Seit über einem Jahrzehnt - ich glaube, das kann man sagen - wird das zuvor lange totgeschwiegene und vernachlässigte Phänomen des Menschenhandels im politischen Raum diskutiert. Es sind große Verbesserungen erzielt worden, aber wir sind uns alle einig, dass wir bei der Bekämpfung des Menschenhandels trotzdem noch am Anfang stehen.</p>
           <p>Menschenhandel ist nicht nur eine schwere Form von organisierter grenzüberschreitender Kriminalität, sondern auch eine der furchtbarsten Menschenrechtsverletzungen. Eine Vielzahl internationaler Initiativen und Programme wurde aufgelegt. Mit dem UN-Protokoll zur Verhütung, Bekämpfung und Bestrafung des Menschenhandels aus dem Jahr 2000 und der Europaratskonvention zur Bekämpfung von Menschenhandel aus dem Jahr 2005 sind auch spezialisierte Rechtsinstrumente entstanden, die wiederum glücklicherweise regionale und nationale Rechtsänderungen angestoßen haben.</p>
@@ -2689,12 +2806,14 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU, der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat die Kollegin Ulla Jelpke für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Ulla Jelpke" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Ulla Jelpke">
+      </div>
+      <div type="agenda_item" n="64" what="debate" desc="Debatte">
+        <sp who="Ulla Jelpke" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Ulla Jelpke" party="DIE LINKE" name="Ulla Jelpke">
           <speaker>Ulla Jelpke (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! In der Tat haben wir es mit einem sehr schwerwiegenden Menschenrechtsproblem zu tun, wenn wir hier heute über die Opfer von Menschenhandel und Zwangsprostitution sprechen. Ich muss sagen: Es ist schon sehr frustrierend, wenn man in diesem Haus seit vielen Jahren diese Debatte miterlebt hat. Herr Kober, Sie haben ja sehr schöne Worte gefunden; aber es fehlen die Taten von Ihrer Seite. Sie hätten in der Vergangenheit sehr viel mehr tun können. Die Vorschläge, die heute auf dem Tisch liegen - ich meine den Gesetzentwurf der Fraktion die Grünen -, gehen auf jeden Fall in die richtige Richtung, was die Verbesserung der Situation der Opfer von Menschenhandel angeht. Ich bin ihnen dankbar, dass wir diese Diskussion erneut hier im Parlament führen. Ich denke, dass über diesen Gesetzentwurf natürlich noch weiter diskutiert wird. Er ist ja erst einmal eingebracht worden. Ich würde hier gerne einige Anregungen geben, wo Regelungen weiter gehend sein müssten.</p>
           <p>Grundsätzlich muss man sagen, dass Mädchen und Frauen, aber eben auch junge Männer und Jungen - das wurde hier schon gesagt - von kriminellen Banden nach Deutschland verschleppt werden, meistens zur Zwangsprostitution, häufig aber auch, um hier ausbeuterische Arbeit zu verrichten. Man muss einfach wissen, dass viele von ihnen, die dadurch quasi in der Illegalität sind, hier sowieso ein äußerst schwieriges Leben haben.</p>
@@ -2710,12 +2829,14 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie der Abg. Marlene Rupprecht [Tuchenbach] [SPD])</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Norbert Geis für die Unionsfraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Norbert Geis" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Norbert Geis">
+      </div>
+      <div type="agenda_item" n="65" what="debate" desc="Debatte">
+        <sp who="Norbert Geis" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Norbert Geis" party="CSU" name="Norbert Geis">
           <speaker>Norbert Geis (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Es ist wiederholt gesagt worden - ich schließe mich dieser Feststellung an -, dass der Menschenhandel eine der übelsten Menschenrechtsverletzungen darstellt, die man sich vorstellen kann, und dass wir alles tun müssen, um den Menschenhandel, der auch in Deutschland vorkommt, einzudämmen, zurückzudrängen. Wir müssen dafür sorgen, dass er nicht weiter zunimmt, sondern zurückgeht.</p>
           <p>Da ist der Vorschlag der Grünen durchaus diskussionswürdig. Es wäre vermessen, hier zu sagen: Dem schließen wir uns in gar keinem Fall an. - Es gilt natürlich, diesen Vorschlag zu diskutieren.</p>
@@ -2734,17 +2855,19 @@
           <stage type="interjection">(Monika Lazar [BÜNDNIS 90/DIE GRÜNEN]: Machen Sie es!)</stage>
           <p>Ich möchte einen letzten Punkt aufgreifen. Es ist richtig, was Sie, Frau Rupprecht und die anderen Redner, gesagt haben, nämlich dass sich die Frauen fürchten, zur Polizei zu gehen, weil man dann ihren Status entdeckt. Das ist ein Grund, warum sich die Polizei bei der Verfolgung des Straftatbestandes Menschenhandel so schwertut. Ein anderer Grund ist, dass die betroffenen Personen, die Opfer, große Angst haben müssen, dass, wenn sie mit einer Kronzeugenregelung und einer Aufenthaltserlaubnis in Deutschland bleiben dürfen, ihren Verwandten im Herkunftsland unter Umständen von dieser organisierten Truppe Rache geschworen wird. Das muss man bedenken. Deswegen ist das Erste, das A und O, die Bekämpfung der Täter. Darin stimmen wir auch alle überein.</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Herr Geis!</p>
         </sp>
-        <sp who="Norbert Geis" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Norbert Geis">
+      </div>
+      <div type="agenda_item" n="66" what="debate" desc="Debatte">
+        <sp who="Norbert Geis" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Norbert Geis" party="CSU" name="Norbert Geis">
           <speaker>Norbert Geis (CDU/CSU):</speaker>
           <p>Augenblick; Ich bin sofort fertig. Lassen Sie mich noch zwei, drei Sätze sagen. - Das Erste ist also: Bekämpfung der Täter. Das Zweite ist: bessere Instrumente für die Polizei. Wir müssen § 233 Strafgesetzbuch ergänzen. Das Dritte ist, dass wir ganz vorsichtig mit der Änderung des Ausländergesetzes umgehen, aber Ihren Vorschlag aufgreifen und diskutieren.</p>
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird Überweisung des Gesetzentwurfs auf Drucksache 17/10843 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. - Damit sind Sie einverstanden. Dann ist das so beschlossen.</p>
@@ -2755,8 +2878,8 @@
           <p>Ich eröffne die Aussprache. Das Wort für Bündnis 90/Die Grünen hat der Kollege Sven-Christian Kindler.</p>
         </sp>
       </div>
-      <div type="agenda_item" n="7" what="recent_issues" desc="Aktuelle Stunde">
-        <sp who="Sven-Christian Kindler" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Sven-Christian Kindler">
+      <div type="agenda_item" n="67" what="debate" desc="Debatte">
+        <sp who="Sven-Christian Kindler" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Sven-Christian Kindler" party="GRUENE" name="Sven-Christian Kindler">
           <speaker>Sven-Christian Kindler (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Sehr geehrte Kolleginnen und Kollegen! Das ist die letzte Debatte im Bundestag im Jahr 2012. Wir reden noch einmal über große Summen und große Themen, nämlich über die Infrastrukturprojekte Stuttgart 21 und den Pannenflughafen BER. Ich frage mich angesichts der Kostenexplosionen schon: Wo ist eigentlich der Verkehrsminister Peter Ramsauer? Er ist der zuständige Minister. Diese Versagen sind auch Versagen der Bundesregierung, auch Versagen von Peter Ramsauer. Ich finde es eine Frechheit, dass er heute nicht hier ist.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN)</stage>
@@ -2782,12 +2905,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Der Kollege Heinz Peter Wichtel hat jetzt das Wort für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Peter Wichtel" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Wichtel">
+      </div>
+      <div type="agenda_item" n="68" what="debate" desc="Debatte">
+        <sp who="Peter Wichtel" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Wichtel" party="CDU" name="Peter Wichtel">
           <speaker>Peter Wichtel (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen! Liebe Kollegen! Im letzten Halbjahr ist kaum eine Woche vergangen, in welcher wir nicht das Thema des neuen Hauptstadtflughafens auf unserer Tagesordnung hatten. Es war immer wieder ärgerlich, festzustellen, dass die Verzögerungen nicht in den Gremien des Parlaments diskutiert wurden. Mit Recht haben wir im Verkehrsausschuss immer wieder nachgefragt und versucht, Aufklärung darüber zu erhalten, aus welchem Grund die Eröffnung tatsächlich verschoben werden muss und warum das alles nicht läuft. Die Besichtigung vor Ort hat nicht so viele Erkenntnisse gebracht, dass wir am Ende außer dem, was wir bauphysisch gesehen haben, etwas von dem hätten erkennen können, was uns wenige Wochen später durch neue Berichte der Geschäftsleitung eingeholt hat. Auch beim Thema Stuttgart 21 haben wir heute Morgen im Ausschuss wieder so etwas erlebt.</p>
           <p>Aus meiner Sicht können wir die Verfahren - auch wenn wir im Ausschuss meinen, dass sie vielleicht anders sein sollten - aber auch gar nicht in den Griff bekommen, weil andere handelnde Personen zuständig sind. Deswegen kann ich nicht verstehen, was die Aktuelle Stunde heute bewirken soll - außer dass man wieder einmal über das Thema gesprochen hat. Mehr wird aus meiner Sicht nicht passieren.</p>
@@ -2799,7 +2924,7 @@
           <p>Wir sollten die Verantwortlichkeiten auch ruhig dort lassen, wo sie sind.</p>
           <p>Die Kollegin von der SPD kann ruhig noch ein bisschen dazwischenrufen; von mir bekommt sie auf ihre Zwischenrufe sowieso keine Antwort.</p>
           <stage type="interjection">(Lachen der Abg. Mechthild Rawert [SPD])</stage>
-          <p>Ich halte das nicht für in Ordnung: Beim Thema nie mitdiskutieren, aber hier dazwischenrufen, das sind mir immer die Liebsten. </p>
+          <p>Ich halte das nicht für in Ordnung: Beim Thema nie mitdiskutieren, aber hier dazwischenrufen, das sind mir immer die Liebsten.</p>
           <p>Aus meiner Sicht müssen wir bei der Begleitung von Großprojekten immer wieder feststellen, dass bei bestimmten Verwaltungsaufgaben und -abläufen immer wieder versucht wird, die politische Verantwortung abzuschieben. Ich denke, davon müssen wir wegkommen. Es schadet der Bundesrepublik Deutschland, wenn es zu Verzögerungen bei Großprojekten kommt. Das schadet unserem Ansehen im Bereich der Planung von Objekten und der modernen Gestaltung. Deswegen denke ich, dass wir die Vorgänge aus sachlichen Gründen lückenlos aufklären müssen. Wir müssen nachvollziehen: Wo lagen die Fehler? Wie sind sie entstanden? Warum sind sie entstanden? - Denn es geht darum, diese Fehler bei zukünftigen Projekten möglichst auszuschließen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU sowie des Abg. Torsten Staffeldt [FDP])</stage>
           <p>Wir können feststellen, dass Probleme gerade dann auftreten, wenn Projekte eine lange Laufzeit haben, wenn der Zeitraum von der ersten Planung und Kostenschätzung bis zur Umsetzung viel zu lang ist. Deswegen muss überlegt werden, wie man die Phase der Entwicklung, der Weiterplanung und des Größerwerdens eines Objektes, das man baut, gestalten kann und wie man damit umgeht, wenn neue Probleme festgestellt werden. Solche Desaster, wie sie jetzt bei dem einen oder anderen Projekt auftreten, kann man nicht weiter zulassen.</p>
@@ -2811,12 +2936,14 @@
           <p>Vielen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Für die SPD-Fraktion hat Sören Bartol jetzt das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Sören Bartol" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Sören Bartol">
+      </div>
+      <div type="agenda_item" n="69" what="debate" desc="Debatte">
+        <sp who="Sören Bartol" parliamentary_group="SPD" role="mp" position="NA" who_original="Sören Bartol" party="SPD" name="Sören Bartol">
           <speaker>Sören Bartol (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Heute Morgen haben wir im Verkehrsausschuss des Deutschen Bundestages hautnah erlebt, welches Amtsverständnis der Bundesverkehrsminister Dr. Peter Ramsauer hat: Er ist nicht zu der Sondersitzung zu den Mehrkosten von Stuttgart 21 erschienen, die wir beantragt haben. Wieder einmal hat er gekniffen und sich nicht den Fragen der Abgeordneten gestellt. Das zeigt: Immer wenn es ernst wird, duckt er sich weg. Er ist ein Schönwetterminister, der gerne über seine Reform der Flensburger Punkte redet, aber nicht zu seiner Verantwortung steht.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -2834,12 +2961,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Für die FDP-Fraktion spricht unser Kollege Oliver Luksic.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Oliver Luksic" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Oliver Luksic">
+      </div>
+      <div type="agenda_item" n="70" what="debate" desc="Debatte">
+        <sp who="Oliver Luksic" parliamentary_group="FDP" role="mp" position="NA" who_original="Oliver Luksic" party="FDP" name="Oliver Luksic">
           <speaker>Oliver Luksic (FDP):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Kollege Bartol, ich darf darauf hinweisen: Wenn ihr am Abend vorher als einzige Fraktion zu einer Sitzung einladet, dann hat das eine andere Qualität, als wenn der Ausschussvorsitzende im Namen des Ausschusses Herrn Wowereit dreimal einlädt, um als Aufsichtsratsvorsitzender zu berichten, und Herr Wowereit dreimal absagt. Das letzte Mal konnte er nicht, weil er am Abend vorher auf der US-Wahlparty war.</p>
           <stage type="interjection">(Sören Bartol [SPD]: Ich glaube, er war im Haushaltsausschuss!)</stage>
@@ -2855,7 +2984,7 @@
           <stage type="interjection">(Sören Bartol [SPD]: Aber der Bund hat doch alles mitgetragen, Herr Kollege! - Stefanie Vogelsang [CDU/CSU]: Kollege Bartol kennt die Protokolle des Aufsichtsrates nicht!)</stage>
           <p>Kollege Bartol, bereits im Frühjahr 2012 war klar - Wowereit hat das einräumen müssen -, dass wir mit einer pünktlichen Eröffnung des Flughafens nicht rechnen können. Jeder weiß ganz genau - Herr Kollege Wichtel hat es zu Recht gesagt -, dass der Aufsichtsratsvorsitzende ein besonders enges Verhältnis zum Geschäftsführer hat. Es brennt hier lichterloh an allen Ecken und Enden, und im brandenburgischen Boden versickert Geld schneller als Wasser. Die Vogel-Strauß-Taktik sowohl von Herrn Platzeck als auch von Herrn Wowereit stößt langsam an Grenzen.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
-          <p>Wieso wurde immer anders gebaut, als es genehmigt wurde? Darauf bekommen wir bis heute keine Antwort. Wir bekommen auch keine Antwort auf die Frage, warum Gewerke nicht vollständig abgenommen wurden. </p>
+          <p>Wieso wurde immer anders gebaut, als es genehmigt wurde? Darauf bekommen wir bis heute keine Antwort. Wir bekommen auch keine Antwort auf die Frage, warum Gewerke nicht vollständig abgenommen wurden.</p>
           <p>Auch Herr Platzeck trägt Verantwortung, weil sich die Behörden, die für die Genehmigung sowohl des Lärmschutzes als auch der Entrauchungsanlage zuständig sind, in Brandenburg befinden. Leider ist es im Moment so - ich kann das auch nicht ändern -, dass, wenn bei Aufsichtsräten in Deutschland etwas schiefgeht, immer die SPD dabei ist,</p>
           <stage type="interjection">(Lachen bei Abgeordneten der SPD)</stage>
           <p>ob das der Ökonomieerklärer Steinbrück bei ThyssenKrupp mit einem Milliardenverlust oder Herr Beck in Rheinland-Pfalz mit dem Nürburgring ist. Jetzt wird diese grandiose Tradition mit Herrn Wowereit und Herrn Platzeck fortgesetzt. Angesichts dessen, was die SPD sich im Moment mit ihren Aufsichtsräten antut, sollte man ein bisschen vorsichtig sein, Kollege Bartol.</p>
@@ -2870,12 +2999,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Jetzt hat Sabine Leidig das Wort für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Sabine Leidig" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Sabine Leidig">
+      </div>
+      <div type="agenda_item" n="71" what="debate" desc="Debatte">
+        <sp who="Sabine Leidig" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Sabine Leidig" party="DIE LINKE" name="Sabine Leidig">
           <speaker>Sabine Leidig (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Ich möchte mich in meinen fünf Minuten Redezeit - meiner Fraktion stehen leider keine weiteren Minuten zur Verfügung - auf das Projekt Stuttgart 21 konzentrieren, weil wir darüber sehr viel wissen.</p>
           <stage type="interjection">(Stefanie Vogelsang [CDU/CSU]: In Berlin und Brandenburg seid ihr nur in den Gremien! Da wisst ihr nichts, oder wie?)</stage>
@@ -2899,12 +3030,14 @@
           <p>Ich fordere Sie auf: Stehen Sie zu Ihrem Wort! Machen Sie diesem Spuk Stuttgart 21 endlich ein Ende.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Für die CDU/CSU-Fraktion hat das Wort der Kollege Thomas Jarzombek.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Thomas Jarzombek" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Thomas Jarzombek">
+      </div>
+      <div type="agenda_item" n="72" what="debate" desc="Debatte">
+        <sp who="Thomas Jarzombek" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Thomas Jarzombek" party="CDU" name="Thomas Jarzombek">
           <speaker>Thomas Jarzombek (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren!</p>
           <p>Stuttgart erfindet sich neu. Wir erleben eine neue Gründerzeit in dieser Stadt. Stuttgart 21 ist ein großartiges Beispiel für eine nachhaltige Perspektive mitten in der Wirtschaftskrise.</p>
@@ -2914,7 +3047,7 @@
           <stage type="interjection">(Zuruf von der LINKEN: Der lag halt auch daneben! - Sabine Leidig [DIE LINKE]: Das können Sie ja korrigieren!)</stage>
           <p>Dies konnte man im April 2009 in der Stuttgarter Zeitung nachlesen. Ich kann Ihnen sagen: Man darf nicht immer nur das Haar in der Suppe suchen. Denn Stuttgart bekommt eine tolle Chance, die Stadt zu verschönern.</p>
           <stage type="interjection">(Lachen bei der LINKEN)</stage>
-          <p>Ich komme aus Düsseldorf. Wir haben in Düsseldorf eine Straße am Rhein tiefer gelegt. Dies wurde sehr viel teurer als veranschlagt, aber heute glauben alle, dass es diese hohen Kosten wert war. </p>
+          <p>Ich komme aus Düsseldorf. Wir haben in Düsseldorf eine Straße am Rhein tiefer gelegt. Dies wurde sehr viel teurer als veranschlagt, aber heute glauben alle, dass es diese hohen Kosten wert war.</p>
           <p>Die Vorteile von Stuttgart 21 liegen auf der Hand: Das Umland wird viel besser angebunden. Flughafen und Messe werden in einem Drittel der Zeit erreicht. Auch im Hinblick auf die transeuropäischen Netze ist diese Maßnahme sinnvoll.</p>
           <p>Kommen wir zu den Kosten. Der Kollege Bartol hat gesagt: Der Bundesverkehrsminister ist schuld.</p>
           <stage type="interjection">(Sören Bartol [SPD]: Vor allen Dingen ist er nicht da!)</stage>
@@ -2938,12 +3071,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Sören Bartol [SPD]: Ihr habt sie mit 1,8 Prozent schon gekriegt!)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Mechthild Rawert hat jetzt das Wort für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Mechthild Rawert" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Mechthild Rawert">
+      </div>
+      <div type="agenda_item" n="73" what="debate" desc="Debatte">
+        <sp who="Mechthild Rawert" parliamentary_group="SPD" role="mp" position="NA" who_original="Mechthild Rawert" party="SPD" name="Mechthild Rawert">
           <speaker>Mechthild Rawert (SPD):</speaker>
           <p>Sie wollten mit der Wahrheit anfangen. Ich selber war, obwohl ich keine Verkehrspolitikerin bin, bei dem Besuch auf dem Flughafen dabei. Ich kann Ihnen sagen: So stimmt Ihre Aussage nicht. Mit anderen Worten: Sie war wahrheitswidrig.</p>
           <stage type="interjection">(Thomas Jarzombek [CDU/CSU]: Das sind Zitate! Das können Sie alles nachlesen!)</stage>
@@ -2979,34 +3114,40 @@
           <stage type="interjection">(Dr. Anton Hofreiter [BÜNDNIS 90/DIE GRÜNEN]: Am besten die Leute auf ihren Posten belassen, wo sie bewiesen haben, dass sie es nicht können!)</stage>
           <p>Will Deutschland seinen Status als führende Wirtschaftsnation behalten - NA</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Frau Kollegin.</p>
         </sp>
-        <sp who="Mechthild Rawert" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Mechthild Rawert">
+      </div>
+      <div type="agenda_item" n="74" what="debate" desc="Debatte">
+        <sp who="Mechthild Rawert" parliamentary_group="SPD" role="mp" position="NA" who_original="Mechthild Rawert" party="SPD" name="Mechthild Rawert">
           <speaker>Mechthild Rawert (SPD):</speaker>
           <p>- der letzte Satz -, müssen Großprojekte allerdings auch künftig möglich sein;</p>
           <stage type="interjection">(Thomas Jarzombek [CDU/CSU]: Das Manuskript ist noch nicht fertig, Frau Kollegin!)</stage>
           <p>denn wir Sozialdemokratinnen und Sozialdemokraten wollen keinen Abschied vom Fortschritt.</p>
           <stage type="interjection">(Lachen bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Frau Kollegin.</p>
         </sp>
-        <sp who="Mechthild Rawert" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Mechthild Rawert">
+      </div>
+      <div type="agenda_item" n="75" what="debate" desc="Debatte">
+        <sp who="Mechthild Rawert" parliamentary_group="SPD" role="mp" position="NA" who_original="Mechthild Rawert" party="SPD" name="Mechthild Rawert">
           <speaker>Mechthild Rawert (SPD):</speaker>
           <p>Ich wünsche Ihnen nichtdestotrotz eine rege Anwesenheit auf der Regierungsbank und auch hier im Parlament,</p>
           <stage type="interjection">(Sven-Christian Kindler [BÜNDNIS 90/DIE GRÜNEN]: Glückauf!)</stage>
           <p>ein frohes Weihnachtsfest und einen guten Rutsch! Rutschen Sie nur da, wo Sie es selber wollen. Sorgen Sie nicht dafür, dass andere an falscher Stelle ausrutschen, liebe Union.</p>
           <stage type="interjection">(Beifall bei der SPD - Thomas Jarzombek [CDU/CSU]: Sie haben doch bestimmt noch ein paar Sätze!)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Für die FDP-Fraktion hat der Kollege Werner Simmling das Wort.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Werner Simmling" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Werner Simmling">
+      </div>
+      <div type="agenda_item" n="76" what="debate" desc="Debatte">
+        <sp who="Werner Simmling" parliamentary_group="FDP" role="mp" position="NA" who_original="Werner Simmling" party="FDP" name="Werner Simmling">
           <speaker>Werner Simmling (FDP):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine Damen und Herren! Liebe Kolleginnen und Kollegen! Ich habe es so befürchtet, dass diese Debatte wieder voller Spekulationen ist und nichts zur Wahrheitsfindung beiträgt. Deshalb ist es meine Meinung, dass diese Debatte viel zu früh stattfindet, da zahlreiche offene Fragen und Zusammenhänge erst einmal geklärt werden sollten. Seit kurzem liegen uns Zahlen vor. Hier müssen wir einfach einmal die Zusammenhänge erläutern.</p>
           <stage type="interjection">(Sabine Leidig [DIE LINKE]: Sie hätten die Zahlen schon vor zwei Jahren lesen sollen! Diese Mühe muss man sich schon machen!)</stage>
@@ -3031,11 +3172,13 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Alexander Süßmair [DIE LINKE]: Wenn ihr die Strecke Stuttgart-Ulm ausgebaut habt, fahrt ihr mit 300! Aber mit 70 auf der Strecke Ulm-Augsburg, weil ihr die nicht ausgebaut habt!)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Der Kollege Dr. Anton Hofreiter hat jetzt das Wort für Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Dr. Anton Hofreiter" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Anton Hofreiter">
+      </div>
+      <div type="agenda_item" n="77" what="debate" desc="Debatte">
+        <sp who="Anton Hofreiter" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Anton Hofreiter" party="GRUENE" name="Anton Hofreiter">
           <speaker>Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Vom Kollegen Wichtel ist angemerkt worden, dass die Aktuelle Stunde umsonst sei, weil nur geredet wird und am Ende dann wieder nichts passiert. Ja, das ist zu befürchten. Allerdings ist das das zentrale Problem. Denn warum behandelt der Bundestag diese Probleme? Wer ist denn beteiligt?</p>
           <p>Am Berliner Flughafen ist der Bund mit 26 Prozent beteiligt. An der Bahn ist er mit 100 Prozent beteiligt. Bei beiden gibt es extreme Kostensteigerungen: beim Berliner Flughafen mindestens 1,2 Milliarden Euro. Bei Stuttgart 21 wurden 1,1 Milliarden Euro eingestanden; dazu kommen weitere 1,2 Milliarden Euro, für die die Schuld irgendwohin abgeschoben wird. Also sind wir bei 2,3 Milliarden Euro. Letztendlich wissen alle Projektbeteiligten, dass zumindest bei Stuttgart 21 das Ende der Fahnenstange bei weitem noch nicht erreicht ist, sondern dass wir mit weitaus höheren Kostensteigerungen zu rechnen haben.</p>
@@ -3055,12 +3198,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Dr. Stefan Kaufmann hat nun das Wort für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Stefan Kaufmann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Stefan Kaufmann">
+      </div>
+      <div type="agenda_item" n="78" what="debate" desc="Debatte">
+        <sp who="Stefan Kaufmann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stefan Kaufmann" party="CDU" name="Stefan Kaufmann">
           <speaker>Dr. Stefan Kaufmann (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Meine Damen und Herren! In der letzten Sitzung vor Weihnachten haben wir ein vorweihnachtliches Märchen vom Kollegen Hofreiter zur Historie von Stuttgart 21 gehört. Die Deutsche Bahn hatte heute leider kein Weihnachtsgeschenk für uns parat, eher eine schöne Bescherung. Der Streit über das Bahnprojekt Stuttgart 21 begleitet uns seit Jahren. Auch eine Volksabstimmung, die in Stadt und Land eine klare Zustimmung der Bevölkerung zu Stuttgart 21 ergab, hat zu keiner wirklichen Befriedung der Situation in Stuttgart geführt. Im Ergebnis stehen sich Befürworter und Gegner noch immer kaum versöhnlich gegenüber. Die Deutsche Bahn ist leider nicht ganz unschuldig an diesem Zustand.</p>
           <p>Ich möchte vorausschickend festhalten, dass ich das Projekt Stuttgart 21 zur Neuordnung des Bahnknotens Stuttgart nach wie vor für sinnvoll halte. Kollege Jarzombek hat bereits einiges zu den großen Chancen gesagt.</p>
@@ -3080,12 +3225,14 @@
           <p>Vielen Dank für die Aufmerksamkeit und allen eine erholsame und frohe Weihnachtszeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Jetzt hat Ute Kumpf für die SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Ute Kumpf" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ute Kumpf">
+      </div>
+      <div type="agenda_item" n="79" what="debate" desc="Debatte">
+        <sp who="Ute Kumpf" parliamentary_group="SPD" role="mp" position="NA" who_original="Ute Kumpf" party="SPD" name="Ute Kumpf">
           <speaker>Ute Kumpf (SPD):</speaker>
           <p>Frau Präsidentin! Meine lieben Kolleginnen und Kollegen! Es ist tatsächlich eine schöne Bescherung, die wir heute haben - es sind, glaube ich, alle Stuttgarter Abgeordneten anwesend, mit Ausnahme des Kollegen Maurer -:</p>
           <stage type="interjection">(Dr. Anton Hofreiter [BÜNDNIS 90/DIE GRÜNEN]: Der war schon damals für Stuttgart 21, als er noch bei der SPD war!)</stage>
@@ -3116,12 +3263,14 @@
           <p>Wenn er dies nicht tut, dann kommt umso schneller der Ruf: Die Kanzlerin soll es richten. - In der Heilbronner Stimme stand heute: Weil der Ramsauer es nicht bringt, soll die Kanzlerin es richten. - Ich glaube, das kann er sich nicht erlauben und nicht auf sich sitzen lassen. Herr Ramsauer muss hier Rede und Antwort stehen.</p>
           <stage type="interjection">(Beifall bei der SPD - Mechthild Rawert [SPD]: Aber dazu müsste er ja mal da sein!)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Stefanie Vogelsang hat jetzt das Wort für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Stefanie Vogelsang" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Stefanie Vogelsang">
+      </div>
+      <div type="agenda_item" n="80" what="debate" desc="Debatte">
+        <sp who="Stefanie Vogelsang" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stefanie Vogelsang" party="CDU" name="Stefanie Vogelsang">
           <speaker>Stefanie Vogelsang (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Lieber Herr Kollege Hofreiter, letzter Tagesordnungspunkt vor der Weihnachtspause ist eine Aktuelle Stunde über ein Thema, für das wir Verantwortung haben. Wir, der Deutsche Bundestag, haben das Budgetrecht, und bei uns liegt die Budgetverantwortung. Darüber haben wir in den unterschiedlichsten Ausschusssitzungen - im Verkehrsausschuss, im Haushaltsausschuss - diverse Male diskutiert.</p>
           <stage type="interjection">(Herbert Behrens [DIE LINKE]: Trotzdem haben wir nichts über die Kosten erfahren!)</stage>
@@ -3148,13 +3297,14 @@
           <p>in dieser Debatte. Es ist die letzte Debatte vor der Weihnachtspause. Ich wünsche Ihnen allen gesegnete Weihnachten. Haben Sie ein bisschen Zeit, über das nachzudenken, was wir gemacht haben. Auf gute Entscheidungen im nächsten Jahr!</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Die Aussprache ist geschlossen.</p>
           <p>Damit sind wir am Schluss der heutigen Tagesordnung.</p>
           <p>Ich wünsche Ihnen eine gute weitere Adventszeit, gesegnete Weihnachten und einen fröhlichen Jahreswechsel.</p>
           <p>Damit wir uns auf jeden Fall wiedersehen, berufe ich die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 16. Januar 2013, 11 Uhr, ein. Genießen Sie die Zeit und die gewonnenen Einsichten. Alles Gute!</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluss: 16.15 Uhr)</stage>
         </sp>
       </div>
     </body>

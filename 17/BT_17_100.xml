@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-07</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2013/0920/dokumente/protokolle/plenarprotokolle/plenarprotokolle/17100.txt</url>
-        <date>2015-10-20 19:56:43</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -35,8 +35,8 @@
   </teiHeader>
   <text>
     <body>
-      <div type="agenda_item" n="1" what="debate" desc="- Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses ...">
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+      <div type="agenda_item" n="1" what="debate" desc="Debatte">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Die Sitzung ist eröffnet. Nehmen Sie bitte Platz.</p>
           <p>Liebe Kolleginnen und Kollegen, ich begrüße Sie herzlich zur 100. Plenarsitzung des Deutschen Bundestages in der laufenden Legislaturperiode.</p>
@@ -65,7 +65,7 @@
           <p>Ich eröffne die Aussprache und erteile das Wort der Kollegin Elke Hoff für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Elke Hoff" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Elke Hoff">
+        <sp who="Elke Hoff" parliamentary_group="FDP" role="mp" position="NA" who_original="Elke Hoff" party="FDP" name="Elke Hoff">
           <speaker>Elke Hoff (FDP):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen! Liebe Kollegen! Meine sehr geehrten Damen und Herren! Wir werden heute über eine weitere Teilnahme deutscher Soldatinnen und Soldaten an einem NATO-Einsatz abstimmen.</p>
           <p>Ich möchte mir an dieser Stelle eine sehr persönliche Bemerkung erlauben, gerade vor dem Hintergrund der Diskussion der letzten Tage. Über eine mögliche Teilnahme deutscher Soldatinnen und Soldaten in Libyen hat es eine heftige Diskussion gegeben. Ich bin der Meinung, dass man auch über das Vorgehen der Bundesregierung unterschiedlicher Auffassung sein kann. Man kann zu unterschiedlichen politischen Bewertungen kommen. Das geht quer durch die Fraktionen.</p>
@@ -88,12 +88,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Nächster Redner ist der Kollege Dr. Frank-Walter Steinmeier für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Frank-Walter Steinmeier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Frank-Walter Steinmeier">
+      </div>
+      <div type="agenda_item" n="2" what="debate" desc="Debatte">
+        <sp who="Frank-Walter Steinmeier" parliamentary_group="SPD" role="mp" position="NA" who_original="Frank-Walter Steinmeier" party="SPD" name="Frank-Walter Steinmeier">
           <speaker>Dr. Frank-Walter Steinmeier (SPD):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren Kollegen! Wir entscheiden heute über das AWACS-Mandat für Afghanistan. Jedenfalls aus meiner Sicht hat es der Verlässlichkeit der deutschen Politik in der Vergangenheit ganz gut getan, dass solche Entscheidungen von einer breiten Mehrheit hier im Hause getragen wurden. Diejenigen, die in Afghanistan als Soldaten oder als zivile Helfer ihren Dienst tun, dürfen das jedenfalls erwarten.</p>
           <p>Die SPD - das haben Sie in den letzten Monaten erfahren - hat sich auch in ihrer Rolle in der Opposition nicht aus der Verantwortung gestohlen.</p>
@@ -128,12 +130,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Anhaltender Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Ernst-Reinhard Beck ist der nächste Redner für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Ernst-Reinhard Beck" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ernst-Reinhard Beck">
+      </div>
+      <div type="agenda_item" n="3" what="debate" desc="Debatte">
+        <sp who="Ernst-Reinhard Beck (Reutlingen)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ernst-Reinhard Beck (Reutlingen)" party="CDU" name="Ernst-Reinhard Beck">
           <speaker>Ernst-Reinhard Beck (Reutlingen) (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Kolleginnen und Kollegen! Das vorliegende Mandat zur Beteiligung der Bundeswehr am Einsatz von NATO-AWACS - ausgesprochen: Airborne Warning and Control System -, also Luftüberwachung und Kontrollsysteme, ist wichtig, richtig und zum gegenwärtigen Zeitpunkt auch notwendig. AWACS-Operationen stehen beispielhaft für die integrierte Verteidigung der Allianz. Unsere Entscheidung für diesen Einsatz ist auch ein Stück gelebte Bündnissolidarität.</p>
           <p>Wir unterstützen den konzeptionellen Ansatz der internationalen Staatengemeinschaft, die afghanische Regierung alsbald zur eigenständigen Wahrnehmung ihrer Sicherheitsverantwortung zu befähigen. Erst am Dienstag hat Präsident Karzai verkündet, dass Provinzen und Städte in die Sicherheitsverantwortung der afghanischen Sicherheitskräfte übergeben werden sollen und auch übergeben wurden. Leider ist diese Meldung in der medialen Berichterstattung fast untergegangen. Dabei handelt es sich um einen Meilenstein für die Entwicklung des Landes. Zum ersten Mal in der zehnjährigen Geschichte unseres Einsatzes werden afghanische Behörden selbst die Sicherheit in Teilen ihres Landes verantworten, darunter übrigens auch in Masar-i-Scharif, im deutschen Zuständigkeitsbereich im Norden. Dies stimmt mich hoffnungsfroh.</p>
@@ -159,12 +163,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Jan van Aken ist der nächste Redner für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Jan van Aken" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Jan van Aken">
+      </div>
+      <div type="agenda_item" n="4" what="debate" desc="Debatte">
+        <sp who="Jan van Aken" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Jan van Aken" party="DIE LINKE" name="Jan van Aken">
           <speaker>Jan van Aken (DIE LINKE):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Manchmal glaube ich wirklich, ich bin hier im falschen Film.</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Das glaube ich auch! - Jürgen Trittin [BÜNDNIS 90/DIE GRÜNEN]: Das geht mir immer so, wenn einer von der Linken redet! - Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Hier läuft gar kein Film!)</stage>
@@ -190,20 +196,22 @@
           <p>Niemand soll jetzt aber glauben, dass CDU/CSU und FDP zu Friedensengeln mutiert sind; denn Sie tauschen hier einen Krieg gegen den anderen Krieg, Herr Westerwelle. Sie tauschen den Libyen-Krieg gegen den Afghanistan-Krieg, und das geht so nicht. Wir müssen beide Kriege ablehnen.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege van Aken, gestatten Sie eine Zwischenfrage der Kollegin Hoff?</p>
         </sp>
-        <sp who="Jan van Aken" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Jan van Aken">
+      </div>
+      <div type="agenda_item" n="5" what="debate" desc="Debatte">
+        <sp who="Jan van Aken" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Jan van Aken" party="DIE LINKE" name="Jan van Aken">
           <speaker>Jan van Aken (DIE LINKE):</speaker>
           <p>Aber gerne. Das ist die erste Zwischenfrage, die mir gestellt wird.</p>
         </sp>
-        <sp who="Elke Hoff" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Elke Hoff">
+        <sp who="Elke Hoff" parliamentary_group="FDP" role="mp" position="NA" who_original="Elke Hoff" party="FDP" name="Elke Hoff">
           <speaker>Elke Hoff (FDP):</speaker>
           <p>Herr van Aken, wären Sie so fair und so freundlich, dem Plenum mitzuteilen, wie viele tote Zivilisten auf das Konto von Taliban gehen? Wenn Sie hier schon eine Relation herstellen: Wären Sie auch so freundlich, mitzuteilen - so zynisch sich das anhört -, wer mehr zivile Tote verursacht: Taliban oder ISAF?</p>
           <stage type="interjection">(Nicole Gohlke [DIE LINKE]: Absurde Frage!)</stage>
         </sp>
-        <sp who="Jan van Aken" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Jan van Aken">
+        <sp who="Jan van Aken" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Jan van Aken" party="DIE LINKE" name="Jan van Aken">
           <speaker>Jan van Aken (DIE LINKE):</speaker>
           <p>In den letzten vier Jahren gab es nach UNO-Angaben über 8 000 zivile Opfer. Davon gehen im Schnitt der letzten Jahre ungefähr zwei Drittel auf das Konto der Taliban oder der Aufständischen, ein Drittel geht auf das der Alliierten. Ich sage Ihnen: Wenn Sie diesen Krieg beenden, dann gibt es auf beiden Seiten keine Toten mehr. Das ist doch die richtige Argumentation.</p>
           <stage type="interjection">(Beifall bei der LINKEN - Volker Kauder [CDU/CSU]: So ein Quatsch! - Florian Hahn [CDU/CSU]: Das ist zynisch! Sie verhöhnen die Opfer der Taliban! - Christian Ahrendt [FDP]: Zugabe! - Renate Künast [BÜND-NIS 90/DIE GRÜNEN]: Die Frauenbewegung lässt grüßen! Frauen sind auch Menschen, Herr van Aken!)</stage>
@@ -217,11 +225,13 @@
           <p>Ich bedanke mich bei Ihnen.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält nun der Kollege Jürgen Trittin, Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Jürgen Trittin" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Jürgen Trittin">
+      </div>
+      <div type="agenda_item" n="6" what="debate" desc="Debatte">
+        <sp who="Jürgen Trittin" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Jürgen Trittin" party="GRUENE" name="Jürgen Trittin">
           <speaker>Jürgen Trittin (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Wir Grünen haben es uns, was Einsätze angeht, angewöhnt, jeden Einsatz für sich zu betrachten und dann unsere Position an dieser Stelle zu bestimmen. Wir haben unsere Position nicht davon abhängig gemacht, ob wir Opposition oder Regierung sind. Wir tragen in der Opposition bis heute die Einsätze im Sudan mit. Wir haben - anders als die FDP, Herr Westerwelle - in der Opposition den Einsatz an der Küste des Libanon zur Beendigung des Krieges zwischen Libanon und Israel mitgetragen.</p>
           <stage type="interjection">(Birgit Homburger [FDP]: Ihr habt auch die Position AWACS mitgetragen!)</stage>
@@ -246,11 +256,13 @@
           <p>Ich will Sie nicht einmal dafür kritisieren, dass Sie die deutschen Truppen vom Kommando der NATO kurzfristig abgezogen haben. Das war notwendig, weil Sie kein Mandat des Deutschen Bundestages hatten. Aber wenn Sie es heute mit Ihrer Position zu einem Waffenembargo ernst meinen, dann müssen Sie auf den Deutschen Bundestag zukommen und sagen: Ja, wir beteiligen uns daran und geben uns nicht die Blöße, dass alle mitmachen - selbst die Türkei, die Sie nicht in die Europäische Union lassen wollen - und nur wir Deutschen nicht dabei sind.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD - Florian Hahn [CDU/CSU]: Wollen Sie mitmachen?)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege Trittin, darf der Kollege Schockenhoff Ihnen eine Zwischenfrage stellen?</p>
         </sp>
-        <sp who="Jürgen Trittin" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Jürgen Trittin">
+      </div>
+      <div type="agenda_item" n="7" what="debate" desc="Debatte">
+        <sp who="Jürgen Trittin" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Jürgen Trittin" party="GRUENE" name="Jürgen Trittin">
           <speaker>Jürgen Trittin (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Nein. Herr Schockenhoff, Sie werden zur Erwiderung gleich noch Gelegenheit haben, wenn ich die Rednerliste richtig lese.</p>
           <p>Herr Kollege Schockenhoff, wir erleben von Ihrer Seite erstaunliche Volten in der Energiepolitik. Ich warte eigentlich nur noch darauf, dass Sie als CDU vor dem Hintergrund dieser Entwicklung gemeinsam mit der Linkspartei erklären, Sie erwarteten ein dreimonatiges Moratorium der Mitgliedschaft Deutschlands in der NATO.</p>
@@ -258,11 +270,13 @@
           <p>Was Ihre Außenpolitik angeht, empfehlen wir das Gleiche wie bei dem anderen Moratorium: endgültige Stilllegung dieser Regierung. Ich glaube, das kommende Wochenende wird ein großer Schritt in diese Richtung sein.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Zu einer Kurzintervention erhält der Kollege Schockenhoff das Wort.</p>
         </sp>
-        <sp who="Dr. Andreas Schockenhoff" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Andreas Schockenhoff">
+      </div>
+      <div type="agenda_item" n="8" what="debate" desc="Debatte">
+        <sp who="Andreas Schockenhoff" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Andreas Schockenhoff" party="CDU" name="Andreas Schockenhoff">
           <speaker>Dr. Andreas Schockenhoff (CDU/CSU):</speaker>
           <p>Herr Trittin, Sie haben gerade gesagt, dass die Resolution 1973, nachdem sie bei deutscher Enthaltung im Sicherheitsrat eine Mehrheit gefunden habe, jetzt auch die Resolution der Bundesregierung sei, die sich aber nicht an der Durchsetzung des darin enthaltenen Waffenembargos beteilige. So haben Sie es soeben dargestellt.</p>
           <stage type="interjection">(Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Nein!)</stage>
@@ -270,7 +284,7 @@
           <stage type="interjection">(Zurufe vom BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Richtig ist auch, dass es bislang keine Anfrage der NATO an die Bundesrepublik Deutschland gibt, sich an der Durchsetzung des Waffenembargos auf Grundlage der Resolution 1970 zu beteiligen, dass diese Frage deshalb nicht endgültig zur Entscheidung anstand und dass sich die Bundesregierung diesbezüglich nicht abschließend festgelegt hat.</p>
         </sp>
-        <sp who="Jürgen Trittin" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Jürgen Trittin">
+        <sp who="Jürgen Trittin" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Jürgen Trittin" party="GRUENE" name="Jürgen Trittin">
           <speaker>Jürgen Trittin (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Lieber Herr Schockenhoff, ich bin Ihnen dankbar. In der Tat ist das Waffenembargo in der Resolution 1970 festgelegt. Was steht in der Resolution 1973? Dort wird Bezug genommen auf Resolution 1970. Man hat sich mit Resolution 1973 den Inhalt von Resolution 1970 zu eigen gemacht.</p>
           <p>Die Kanzlerin hat gesagt: Obwohl sich Deutschland enthalten hat, ist Resolution 1973 jetzt auch unsere Resolution.</p>
@@ -280,12 +294,14 @@
           <p>Die NATO hat beschlossen, dieses Waffenembargo durchzusetzen. Was passiert? Die deutsche Bundesregierung nimmt ihre Soldatinnen und Soldaten in diesem Bereich aus den NATO-Strukturen heraus. Das ist falsch. Herr Kollege Schockenhoff, wenn Sie darauf abheben, dass für die Durchsetzung des Waffenembargos keine NATO-Anfrage vorliegt, dann kann ich Ihnen nur sagen: Eine solche liegt bezüglich des Einsatzes der AWACS-Flugzeuge ebenfalls nicht vor. Damit sind wir wieder an dem Punkt, wo Sie in der Sache argumentieren müssen. Sind Sie dafür, dass dieses Waffenembargo, auch unter deutscher Beteiligung, von der NATO durchgesetzt wird? Ja oder nein? Um diese Frage kommen Sie mit Ihren Zahlenfilibustereien nicht herum.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD - Volker Kauder [CDU/CSU]: Sie verstehen was von 1968, aber nicht von 1970!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält nun der Bundesminister des Auswärtigen, Dr. Guido Westerwelle.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Guido Westerwelle" parliamentary_group="NA" role="government" position="Bundesminister des Auswärtigen" party="FDP" name="Guido Westerwelle">
+      </div>
+      <div type="agenda_item" n="9" what="debate" desc="Debatte">
+        <sp who="Guido Westerwelle" parliamentary_group="NA" role="government" position="Bundesminister des Auswärtigen" who_original="Guido Westerwelle" party="FDP" name="Guido Westerwelle">
           <speaker>Dr. Guido Westerwelle, Bundesminister des Auswärtigen:</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Kolleginnen und Kollegen! Ich möchte vorab einige Bemerkungen an die Adresse der sozialdemokratischen Bundestagsfraktion machen. Ich weiß, dass es bei Ihnen einen schwerwiegenden Abwägungsprozess gibt, und zwar nicht erst in dieser Woche, sondern schon seit den Debatten, die wir Anfang des Jahres über das Afghanistan-Mandat insgesamt geführt haben. Ich mache gar keinen Hehl daraus, dass es mir schon Anfang des Jahres immer darum gegangen ist - auch als wir den Antrag zu diesem Mandat in den Deutschen Bundestag eingebracht haben -, eine möglichst breite Mehrheit für das Afghanistan-Mandat zu erzielen. Ich halte das aber für nicht sachfremd, sondern für richtig.</p>
           <p>Ich glaube, je breiter die Mehrheit hier im Deutschen Bundestag für den Einsatz unserer Frauen und Männer der Bundeswehr in Afghanistan ist, desto mehr Rückendeckung bekommen sie von der Politik. Das ist angemessen, notwendig und auch richtig. Wir sollten nie vergessen: Dieser Einsatz ist unter anderen politischen Verhältnissen begonnen worden. Wir haben jetzt verantwortungsvoll eine gemeinsame Abzugsperspektive erarbeitet.</p>
@@ -303,12 +319,14 @@
           <p>Ich danke für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält nun der Kollege Gernot Erler für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. h. c. Gernot Erler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gernot Erler">
+      </div>
+      <div type="agenda_item" n="10" what="debate" desc="Debatte">
+        <sp who="Gernot Erler" parliamentary_group="SPD" role="mp" position="NA" who_original="Gernot Erler" party="SPD" name="Gernot Erler">
           <speaker>Dr. h. c. Gernot Erler (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Herr Außenminister Westerwelle, ich habe den Eindruck, dass Sie ein Problem nicht verstehen. Wir alle haben in der Vergangenheit versucht, miteinander eine auf möglichst breitem Konsens gestützte Afghanistan-Politik zu verabreden. Das ist für sich schon ein schwieriges Thema. Das, was wir Ihnen vorwerfen, ist, dass Sie uns im Grunde genommen dazu zwingen, jetzt bei einer so wichtigen Abstimmung wie dieser über den AWACS-Einsatz zu überlegen, ob unsere Zustimmung nicht auch als eine Zustimmung zu Ihrer völlig verfehlten Libyen-Politik missverstanden werden kann. Das ist es, worum es hier eigentlich geht. Für viele unserer Mitglieder ist das ein großes Problem.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -321,12 +339,14 @@
           <p>Wir bleiben dabei: Der Schaden, den Sie jetzt anrichten, der schon fast ein GAU für die deutsche Politik ist, wenn man sich das auf internationaler Ebene betrachtet, ist der kurzfristigen, taktischen Überlegung geschuldet, einen Vorteil durch die Nichtbeteiligung zu erlangen. Wir werden noch lange den Preis für das bezahlen, was Sie hier mit den Verbündeten gemacht haben.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Florian Hahn ist der nächste Redner für die CDU/ CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Florian Hahn" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Florian Hahn">
+      </div>
+      <div type="agenda_item" n="11" what="debate" desc="Debatte">
+        <sp who="Florian Hahn" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Florian Hahn" party="CSU" name="Florian Hahn">
           <speaker>Florian Hahn (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Sehr geehrte Kolleginnen und Kollegen! Die Opposition versucht offensichtlich, unsere Bündnisfähigkeit und unsere Solidarität im Bündnis infrage zu stellen.</p>
           <stage type="interjection">(Widerspruch bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -343,12 +363,14 @@
           <p>Sehr geehrte Damen und Herren, ich bitte Sie alle, das Mandat für unseren Beitrag auf dem Weg hin zu Frieden und Sicherheit im Interesse unseres Landes heute zu unterstützen. Unseren Soldatinnen und Soldaten sowie allen Einsatzkräften wünsche ich von dieser Stelle Gottes Segen und danke ihnen für ihren vorbildlichen Einsatz.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Für die Fraktion Die Linke hat der Kollege Jan van Aken noch einmal das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN - Volker Kauder [CDU/CSU]: Noch einmal? Jetzt reißen Sie sich aber am Riemen!)</stage>
         </sp>
-        <sp who="Jan van Aken" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Jan van Aken">
+      </div>
+      <div type="agenda_item" n="12" what="debate" desc="Debatte">
+        <sp who="Jan van Aken" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Jan van Aken" party="DIE LINKE" name="Jan van Aken">
           <speaker>Jan van Aken (DIE LINKE):</speaker>
           <p>Ich finde diese Debatte absolut unwürdig. Hier wird gleich über Krieg und Frieden abgestimmt, und Herr Westerwelle und Herr Steinmeier buhlen darum, wer heute Abend die 10 Sekunden in der Tagesschau bekommt. So machen Sie aus einer Entscheidung, 300 weitere Soldaten nach Afghanistan zu schicken, hier reinen Wahlkampf.</p>
           <stage type="interjection">(Zuruf der Abg. Renate Künast (BÜND-NIS 90/DIE GRÜNEN - Florian Hahn [CDU/ CSU]: Deswegen sprechen Sie so häufig!)</stage>
@@ -359,12 +381,14 @@
           <p>Es geht nicht, dass, wenn es irgendwo auf der Welt eine Krise gibt, deutsches oder europäisches Militär dorthin geschickt wird. Wir können nicht jedes Mal zur Waffe greifen - auch nicht Sie von den Grünen. Sie müssen doch endlich irgendwann wieder einmal Nein zu Kriegen sagen.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Der Kollege Dr. Djir-Sarai hat jetzt für die FDP-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Bijan Djir-Sarai" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Bijan Djir-Sarai">
+      </div>
+      <div type="agenda_item" n="13" what="debate" desc="Debatte">
+        <sp who="Bijan Djir-Sarai" parliamentary_group="FDP" role="mp" position="NA" who_original="Bijan Djir-Sarai" party="FDP" name="Bijan Djir-Sarai">
           <speaker>Dr. Bijan Djir-Sarai (FDP):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Liebe Kollegen! Heute stimmen wir über die Beteiligung deutscher Soldaten am NATO-AWACS-Einsatz in Afghanistan ab. Ich sage Ihnen am Anfang auch ganz bewusst: Es geht heute in erster Linie um Afghanistan, es geht heute um die Sicherung des Erfolges unserer Afghanistan-Strategie, es geht um die Zukunft der afghanischen Bevölkerung, und es geht um die Sicherheit unserer Soldaten im Einsatz. Ich finde es beschämend, dass diese Punkte heute bei Ihnen überhaupt keine Rolle gespielt haben.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
@@ -382,21 +406,25 @@
           <p>Die zeitweise Übernahme der Luftüberwachung durch AWACS sowie der Aufbau afghanischer Kräfte und Infrastruktur in der zivilen Luftverkehrskontrolle stellen ein schlüssiges Konzept zur Sicherung der Afghanistan-Strategie dar. Wir werden dort nicht unendlich mit unseren Aufklärungsflugzeugen bleiben; auch das ist klar. Wir werden auch die Einsatzobergrenze für den gesamten Afghanistan-Einsatz, der hier im Haus schon beschlossen wurde, nicht zusätzlich erhöhen.</p>
           <p>Meine Damen und Herren, die Situation in Libyen hat die Gesamtlage verändert. Das ist hier ja auch mehrmals betont worden. Unsere Hilfe wird jetzt an dieser Stelle gebraucht. Damit ermöglichen wir es unseren NATO-Freunden, in Libyen flexibel und schnell zu handeln. Aus diesem Grund müssen wir schon jetzt über die Zukunft von AWACS-Flugzeugen in Afghanistan diskutieren und nicht erst in einigen Monaten. Das hat viel mit Weitsicht und Verantwortungsbewusstsein zu tun.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege, Sie müssen zum Schluss kommen.</p>
         </sp>
-        <sp who="Dr. Bijan Djir-Sarai" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Bijan Djir-Sarai">
+      </div>
+      <div type="agenda_item" n="14" what="debate" desc="Debatte">
+        <sp who="Bijan Djir-Sarai" parliamentary_group="FDP" role="mp" position="NA" who_original="Bijan Djir-Sarai" party="FDP" name="Bijan Djir-Sarai">
           <speaker>Dr. Bijan Djir-Sarai (FDP):</speaker>
           <p>Ich bin sofort fertig, Herr Präsident. - Meine Damen und Herren, am Ende dieser Überlegungen steht auch die Beendigung des militärischen Einsatzes in Afghanistan bis zum Jahr 2014, wenn die entsprechenden Rahmenbedingungen stimmen. Ich begrüße es, dass die Argumente für dieses Mandat in diesem Haus große Zustimmung finden. Das ist ein Zeichen dafür, dass die Notwendigkeit dieses Einsatzes anerkannt wird.</p>
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält nun der Kollege Jürgen Trittin.</p>
         </sp>
-        <sp who="Jürgen Trittin" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Jürgen Trittin">
+      </div>
+      <div type="agenda_item" n="15" what="debate" desc="Debatte">
+        <sp who="Jürgen Trittin" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Jürgen Trittin" party="GRUENE" name="Jürgen Trittin">
           <speaker>Jürgen Trittin (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Herr van Aken, ich weiß nicht, ob Sie richtig zugehört haben. Die Mehrheit meiner Fraktion hat im Januar dem ISAF-Mandat nicht zugestimmt. Viele haben mit Nein gestimmt, viele haben sich enthalten. Genauso wird sich diese Fraktion heute wieder verhalten, und zwar aus den Gründen, die ich Ihnen hier genannt habe.</p>
           <p>Aus einer Geschichte aber, Herr van Aken, kommen Sie nicht heraus. Sie sind da in merkwürdiger Weise spiegelbildlich, geradezu brüderlich vereint mit dieser Koalition.</p>
@@ -410,12 +438,14 @@
           <p>Sie stellen sich hier hin und sagen: Wir lehnen ein solches Mandat ab. Was aber macht die Bundesregierung? Genau dasselbe. Dafür müssten Sie ihr eigentlich Beifall klatschen. Denn in dem Moment, wo die NATO beschließt, auf der Basis von UN-Resolutionen ein Waffenembargo durchzusetzen, zieht die deutsche Bundesregierung die deutschen Soldaten aus dem Kommando der NATO heraus. CDU/CSU und FDP haben nicht die Traute, sich hier hinzustellen und zu sagen: Jawohl, wir wollen, dass das weitergeht. Lieber Bundestag, stimme dem zu! - Unsere Zustimmung hätten Sie von den Koalitionsfraktionen an dieser Stelle, aber Sie tauchen aus dem einfachen Grund weg, weil Sie Angst vor dem kommenden Sonntag haben. Das ist der Punkt.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Letzter Redner zu diesem Tagesordnungspunkt ist der Kollege Philipp Mißfelder für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Philipp Mißfelder" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Philipp Mißfelder">
+      </div>
+      <div type="agenda_item" n="16" what="debate" desc="Debatte">
+        <sp who="Philipp Mißfelder" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Philipp Mißfelder" party="CDU" name="Philipp Mißfelder">
           <speaker>Philipp Mißfelder (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Herr Trittin, ich bin Ihnen dankbar, dass Sie sich zum dritten Mal zu Wort gemeldet haben. Das hat, so glaube ich, den Zuschauerinnen und Zuschauern sowie den Gästen im Deutschen Bundestag noch einmal die Möglichkeit gegeben, hier einen Einblick in Ihre nicht konsistente außenpolitische Konzeption zu bekommen.</p>
           <stage type="interjection">(Lachen des Abg. Jürgen Trittin [BÜNDNIS 90/ DIE GRÜNEN])</stage>
@@ -431,12 +461,14 @@
           <p>Unsere eigene Sicherheit muss nach wie vor gewährleistet bleiben. Deswegen gibt es keinen kopflosen Abzug aus Afghanistan. Deshalb sehen wir uns in der Verantwortung, die Abzugsperspektive, die diese Regierung - ich nenne den Außenminister, den früheren Verteidigungsminister und den aktuellen Verteidigungsminister - entwickelt hat, konsequent und maßvoll umzusetzen. Wir wollen die Übergabe der Verantwortung bis 2014 erreichen und, wenn die Sicherheitslage es zulässt, schon in diesem Jahr damit beginnen.</p>
           <p>Ein zweiter Aspekt, der zum Afghanistan-Mandat dazugehört, ist die Solidarität mit den Verbündeten. Die Afghanistan-Mission beinhaltet viele Schwierigkeiten. Es zeigt sich aber, dass sich das Bündnis und die Weltgemeinschaft an dieser Stelle bewähren. Trotz der deutlichen Ablehnung und trotz der Wahlniederlagen, die manche unserer Verbündeten wegen dieses Mandats schon haben einstecken müssen, ist es immer noch so, dass sich 48 Nationen solidarisch an dieser Mission beteiligen.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Einen Augenblick, Herr Kollege Mißfelder. - Ich darf die Kolleginnen und Kollegen, die nachher an der Abstimmung teilnehmen wollen, bitten, die Plätze einzunehmen und dem verbleibenden Rest der Debatte mit der gebotenen Aufmerksamkeit zu folgen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Philipp Mißfelder" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Philipp Mißfelder">
+      </div>
+      <div type="agenda_item" n="17" what="debate" desc="Debatte">
+        <sp who="Philipp Mißfelder" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Philipp Mißfelder" party="CDU" name="Philipp Mißfelder">
           <speaker>Philipp Mißfelder (CDU/CSU):</speaker>
           <p>48 Länder beteiligen sich, wie gesagt, solidarisch an diesem Einsatz. Das macht deutlich, dass die Weltgemeinschaft und die NATO Afghanistan noch nicht aufgegeben haben.</p>
           <stage type="interjection">(Florian Hahn [CDU/CSU]: So ist es!)</stage>
@@ -446,13 +478,15 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Ich schließe die Aussprache.</p>
-          <p>Wir kommen zur Beschlussempfehlung des Auswärtigen Ausschusses zum Antrag der Bundesregierung zur Beteiligung deutscher Streitkräfte am Einsatz von NATO-AWACS im Rahmen der Internationalen Sicherheitsunterstützungstruppe in Afghanistan unter Führung der NATO. Der Ausschuss empfiehlt in seiner Beschlussempfehlung auf der Drucksache 17/5251 (neu), den Antrag der Bundesregierung auf der Drucksache 17/5190 anzunehmen. Hierzu liegen mir zahlreiche Erklärungen zur Abstimmung nach § 31 unserer Geschäftsordnung vor, die wir dem Protokoll der Sitzung beifügen.</p>
-          <p>Wir stimmen nun über die Beschlussempfehlung namentlich ab. Ich bitte die Schriftführerinnen und Schriftführer, die vorgesehenen Plätze einzunehmen. - Ich eröffne die Abstimmung.</p>
+          <p>Wir kommen zur Beschlussempfehlung des Auswärtigen Ausschusses zum Antrag der Bundesregierung zur Beteiligung deutscher Streitkräfte am Einsatz von NATO-AWACS im Rahmen der Internationalen Sicherheitsunterstützungstruppe in Afghanistan unter Führung der NATO. Der Ausschuss empfiehlt in seiner Beschlussempfehlung auf der Drucksache 17/5251 (neu), den Antrag der Bundesregierung auf der Drucksache 17/5190 anzunehmen. Hierzu liegen mir zahlreiche Erklärungen zur Abstimmung nach § 31 unserer Geschäftsordnung vor, die wir dem Protokoll der Sitzung beifügen.1</p>
+          <p>Wir stimmen nun über die Beschlussempfehlung namentlich ab. Ich bitte die Schriftführerinnen und Schriftführer, die vorgesehenen Plätze einzunehmen. - Ich eröffne die Abstimmung.2</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+      </div>
+      <div type="agenda_item" n="18" what="debate" desc="Debatte">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Haben alle anwesenden Kolleginnen und Kollegen ihre Stimme abgegeben? - Das ist offensichtlich der Fall. Dann schließe ich die Abstimmung und bitte die Schriftführerinnen und Schriftführer, mit der Auszählung zu beginnen. Das Ergebnis der Abstimmung wird Ihnen später bekannt gegeben.</p>
           <p>Wir setzen die Beratungen nun fort. - Liebe Kolleginnen und Kollegen, ich bitte herzlich, Platz zu nehmen, damit wir in der Tagesordnung fortfahren können.</p>
@@ -473,8 +507,8 @@
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="2" what="debate" desc="a) Beratung des Antrags der Abgeordneten Dr. Barbara Höll, Richard Pitterle, Dr....">
-        <sp who="Dr. Barbara Höll" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Barbara Höll">
+      <div type="agenda_item" n="19" what="debate" desc="Debatte">
+        <sp who="Barbara Höll" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Barbara Höll" party="DIE LINKE" name="Barbara Höll">
           <speaker>Dr. Barbara Höll (DIE LINKE):</speaker>
           <p>Jetzt haben alle Kolleginnen und Kollegen noch die Chance, sich zu entscheiden, ob sie sich hinsetzen und zuhören oder doch lieber den Saal verlassen wollen. - Danke schön.</p>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Eklige Toiletten, teilweise zugenagelte Fenster und veraltete Leitungen, so beschrieb gestern die Leipziger Volkszeitung den Alltag vieler Lehrer und Schüler - nicht in einem Entwicklungsland, sondern an Leipziger Schulen. Wenn es jetzt wieder wärmer wird, empfängt auch meine Tochter in ihrer Grundschule jeden Morgen intensiver Abortgestank - ein toller Schulbeginn. Allein in Leipzig fehlen 570 Millionen Euro zur Sanierung der Schulen. Die Stadt hat nicht einmal genug Eigenmittel, um die Fördergelder des Landes abrufen zu können.</p>
@@ -501,7 +535,7 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Ich gebe Ihnen das von den Schriftführerinnen und Schriftführern ermittelte Ergebnis der namentlichen Abstimmung über die Beschlussempfehlung des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung "Beteiligung deutscher Streitkräfte am Einsatz von NATO-AWACS im Rahmen der Internationalen Sicherheitsunterstützungsgruppe in Afghanistan" bekannt: abgegebene Stimmen 552. Mit Ja haben gestimmt 407, mit Nein haben gestimmt 113, Enthaltungen 32. Die Beschlussempfehlung ist damit angenommen.</p>
           <p>Endgültiges Ergebnis</p>
@@ -906,7 +940,8 @@
           <p>Dr. Claudia Winterstein</p>
           <p>Dr. Volker Wissing</p>
           <p>Hartfrid Wolff (Rems-Murr)</p>
-          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>BÜNDNIS 90/</p>
+          <p>DIE GRÜNEN</p>
           <p>Kerstin Andreae</p>
           <p>Marieluise Beck (Bremen)</p>
           <p>Cornelia Behm</p>
@@ -992,7 +1027,7 @@
           <p>Dorothee Menzner</p>
           <p>Cornelia Möhring</p>
           <p>Niema Movassat</p>
-          <p>Wolfgang Ne kovic</p>
+          <p>Wolfgang Nekovic</p>
           <p>Thomas Nord</p>
           <p>Petra Pau</p>
           <p>Jens Petermann</p>
@@ -1018,7 +1053,8 @@
           <p>Harald Weinberg</p>
           <p>Jörn Wunderlich</p>
           <p>Sabine Zimmermann</p>
-          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>BÜNDNIS 90/</p>
+          <p>DIE GRÜNEN</p>
           <p>Katja Dörner</p>
           <p>Bettina Herlitzius</p>
           <p>Winfried Hermann</p>
@@ -1053,7 +1089,8 @@
           <p>FDP</p>
           <p>Joachim Günther (Plauen)</p>
           <p>Dr. h. c. Jürgen Koppelin</p>
-          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>BÜNDNIS 90/</p>
+          <p>DIE GRÜNEN</p>
           <p>Volker Beck (Köln)</p>
           <p>Viola von Cramon-Taubadel</p>
           <p>Kai Gehring</p>
@@ -1081,7 +1118,9 @@
           <p>Nun setzen wir die Beratung zu diesem Tagesordnungspunkt fort. Ich erteile das Wort dem Kollegen Klaus-Peter Flosbach für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Klaus-Peter Flosbach" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Klaus-Peter Flosbach">
+      </div>
+      <div type="agenda_item" n="20" what="debate" desc="Debatte">
+        <sp who="Klaus-Peter Flosbach" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Klaus-Peter Flosbach" party="CDU" name="Klaus-Peter Flosbach">
           <speaker>Klaus-Peter Flosbach (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Es ist erstaunlich: Es gibt viele Anträge im Bundestag, aber mit diesen Anträgen, die die Linken heute hier vorgelegt haben, ziehen Sie sich selbst die Maske vom Gesicht und zeigen, dass Sie einen Großteil der deutschen Bevölkerung enteignen wollen.</p>
           <stage type="interjection">(Dr. Barbara Höll [DIE LINKE]: Einen Großteil? - Matthias W. Birkwald [DIE LINKE]: Der Großteil hat mehr als 1 Million? Wo leben Sie denn, Herr Kollege?)</stage>
@@ -1119,19 +1158,21 @@
           <p>Jetzt kommt das Besondere: Wenn sie veräußert worden wären, hätte bei den meisten das alte Gesetz mit dem Stand vor der Abgeltungsteuer gegolten. Danach sind diese Veräußerungen steuerfrei. Also ist der gesamte Inhalt Ihres Antrags auch fachlich völlig daneben.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, gestatten Sie eine Zwischenfrage der Kollegin Höll?</p>
         </sp>
-        <sp who="Klaus-Peter Flosbach" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Klaus-Peter Flosbach">
+      </div>
+      <div type="agenda_item" n="21" what="debate" desc="Debatte">
+        <sp who="Klaus-Peter Flosbach" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Klaus-Peter Flosbach" party="CDU" name="Klaus-Peter Flosbach">
           <speaker>Klaus-Peter Flosbach (CDU/CSU):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Dr. Barbara Höll" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Barbara Höll">
+        <sp who="Barbara Höll" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Barbara Höll" party="DIE LINKE" name="Barbara Höll">
           <speaker>Dr. Barbara Höll (DIE LINKE):</speaker>
           <p>Sehr geehrter Herr Kollege, wenn ich hier in der Diskussion Belehrungen wie "erstes Semester" höre, dann kann ich nur sagen: Lesen bildet. Wenn Sie unseren Antrag richtig gelesen hätten, wüssten Sie, dass darin steht, dass wir zwar die Abschaffung der Abgeltungsteuer fordern, aber die Verbreiterung der Bemessungsgrundlage beibehalten wollen. Das unterscheidet uns. Wir fordern nicht einfach eine Rückkehr zum alten Zustand, sondern wir wollen eine Beibehaltung der vorgenommenen Verbreiterung der Bemessungsgrundlage. Das von Ihnen Beschriebene könnte daher nicht eintreten. Diese Unterstellung hätten Sie wohl nicht gemacht, wenn Sie den Antrag richtig gelesen hätten.</p>
         </sp>
-        <sp who="Klaus-Peter Flosbach" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Klaus-Peter Flosbach">
+        <sp who="Klaus-Peter Flosbach" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Klaus-Peter Flosbach" party="CDU" name="Klaus-Peter Flosbach">
           <speaker>Klaus-Peter Flosbach (CDU/CSU):</speaker>
           <p>Liebe Kollegin Höll, Sie müssen nicht nur Ihren eigenen Antrag lesen, Sie müssen auch die Beschlüsse der Großen Koalition von damals lesen. Das ist ganz wichtig. Damals sind all die Schlupflöcher, die es gab, von der Großen Koalition geschlossen worden. Das war der ganz große Unterschied. Warum haben wir den Steuersatz auf 25 Prozent gesenkt? Zum damaligen Zeitpunkt waren alle Kursgewinne nach einem Jahr steuerfrei, und vor allem große Vermögen haben insbesondere über Kursgewinne große Erträge erzielt. Das war einer der wichtigsten Punkte. Wir haben die Dividenden zu 100 Prozent besteuert; früher waren es nur 50 Prozent.</p>
           <stage type="interjection">(Dr. Barbara Höll [DIE LINKE]: Das ist ja okay!)</stage>
@@ -1159,12 +1200,14 @@
           <p>Ich kann deshalb den Kolleginnen und Kollegen der SPD für die weiteren Beratungen nur empfehlen: Machen Sie keinen Pakt mit den Kommunisten, nicht in den Ländern, nicht hier! Die Geschichte hat gezeigt, dass Sie dabei schlecht fahren.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, gestatten Sie noch eine Frage des Kollegen Schick? Damit verlängern Sie Ihre Redezeit.</p>
           <stage type="interjection">(Jutta Krellmann [DIE LINKE]: Was ist das für eine schräge Nummer?)</stage>
         </sp>
-        <sp who="Dr. Gerhard Schick" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Gerhard Schick">
+      </div>
+      <div type="agenda_item" n="22" what="debate" desc="Debatte">
+        <sp who="Gerhard Schick" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Gerhard Schick" party="GRUENE" name="Gerhard Schick">
           <speaker>Dr. Gerhard Schick (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Flosbach, ich möchte Sie noch etwas fragen. Sie haben jetzt die absoluten Steuererträge der Jahre 2000 und 2008 verglichen. Wenn ich mich an mein erstes Semester richtig erinnere, dann muss ich sagen, dass man diesen Vergleich nur dann ziehen kann, wenn man gleichzeitig zumindest die Inflation in dieser Zeit dazu nennt</p>
           <stage type="interjection">(Matthias W. Birkwald [DIE LINKE]: Sehr richtig!)</stage>
@@ -1172,7 +1215,7 @@
           <p>Ich wäre Ihnen dankbar, wenn Sie uns nach diesem bewusst irreführenden Vergleich vielleicht die tatsächlichen Zahlen geben könnten oder zumindest eingestehen, dass Ihr Vergleich arg schief war.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN)</stage>
         </sp>
-        <sp who="Klaus-Peter Flosbach" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Klaus-Peter Flosbach">
+        <sp who="Klaus-Peter Flosbach" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Klaus-Peter Flosbach" party="CDU" name="Klaus-Peter Flosbach">
           <speaker>Klaus-Peter Flosbach (CDU/CSU):</speaker>
           <p>Ich finde diesen Hinweis sehr gut. Herr Kollege, Sie haben inhaltlich recht. Ich werde Ihre Reden, die Sie hier im Parlament gehalten haben, sehr aufmerksam nachlesen.</p>
           <p>Wann haben Sie zum letzten Mal das Wort "Inflation" in den Mund genommen? Wir müssen zunächst immer die absoluten Zahlen vergleichen. Die Inflationssrate von 2000 bis 2008 in Deutschland lag im Durchschnitt unter 1,5 Prozent. Das wissen Sie.</p>
@@ -1183,12 +1226,14 @@
           <p>Ansonsten bedanke ich mich für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Carsten Sieling für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Carsten Sieling" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Carsten Sieling">
+      </div>
+      <div type="agenda_item" n="23" what="debate" desc="Debatte">
+        <sp who="Carsten Sieling" parliamentary_group="SPD" role="mp" position="NA" who_original="Carsten Sieling" party="SPD" name="Carsten Sieling">
           <speaker>Dr. Carsten Sieling (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Ich möchte nach den beiden Beiträgen als Erstes gerne daran erinnern, dass wir uns hier heute in einer Debatte über die Abgeltung- und Vermögensteuer befinden. Ich habe ein bisschen den Eindruck, dass die wichtigste Zahl, die die Rednerin und den Redner vor mir bewegt hat, die Zahl 62 ist; denn in 62 Stunden schließen die Wahllokale in Rheinland-Pfalz, Baden-Württemberg und Hessen.</p>
           <p>Nachdem wir uns beide Reden angehört haben, ist ziemlich deutlich, dass die Sachdebatte leider etwas in den Hintergrund getreten ist. Die Anträge der Linkspartei sind bedauerlicherweise bestenfalls geeignet, in diesem Wahlkampf vielleicht die Litfaßsäulen und die Laternenpfähle zu schmücken, aber sie zeigen nicht die wirklichen Probleme und entsprechende Lösungspunkte auf.</p>
@@ -1226,7 +1271,7 @@
           <p>Ich will in dem Zusammenhang auch klar und deutlich die Richtung angeben; da haben wir innerhalb der Sozialdemokratie einen breiten Konsens. Ich freue mich ja, Herr Kollege Flosbach, dass Sie nach der gestrigen Debatte zur Regierungserklärung der Bundeskanzlerin nicht die Bundeskanzlerin, sondern Peer Steinbrück zitiert haben. Ich glaube, das passt auch zur Presseberichterstattung des heutigen Tages und zu dem, was wir hier gestern erlebt haben. Das ist der richtige Bezugspunkt.</p>
           <p>Ich sage Ihnen: Wir Sozialdemokraten wissen - Peer Steinbrück tut dies ganz explizit -, dass wir dann, wenn wir den Spitzensteuersatz anheben, auch den Satz der Abgeltungsteuer anheben müssen, damit wir die Wirkung, die wir damals gemeinsam in der Großen Koalition gewollt haben, auch wirklich erzielen.</p>
           <p>Man wird dann an den Punkt kommen, an dem man sich die Frage beantworten muss - für uns ist das eine Frage, mit der wir uns im Zusammenhang mit unseren steuerpolitischen Überlegungen sehr ernsthaft auseinandersetzen -, ob wir nicht doch wieder zu einer synthetischen Besteuerung kommen, also auch die Zins- und Kapitaleinkünfte der normalen Einkommensbesteuerung unterwerfen sollten.</p>
-          <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNIS-SES 90/DIE GRÜNEN  - Dr.  Barbara Höll [DIE LINKE]: Unser Vorschlag!)</stage>
+          <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNIS-SES 90/DIE GRÜNEN - Dr. Barbara Höll [DIE LINKE]: Unser Vorschlag!)</stage>
           <p>Aber bitte: Seit 1. Januar 2009 gilt diese Regelung. Man muss sich erst einmal die Effekte und Wirkungen anschauen. Erst dann kann man an dieses Thema herangehen. So ist mittlerweile auch die Beschlussfassung der SPD. All denjenigen, die sich nicht die Mühe machen, SPD-Parteitagsbeschlüsse zu lesen, kann ich sagen, dass wir uns genau diesen Punkt vorgenommen haben und bis Ende des Jahres zu einem vernünftigen Ergebnis kommen werden.</p>
           <p>Meine Damen und Herren, die beiden Anträge der Linken sind</p>
           <stage type="interjection">(Dr. Barbara Höll [DIE LINKE]: Klasse!)</stage>
@@ -1236,12 +1281,14 @@
           <p>Herzlichen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Volker Wissing für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Volker Wissing" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Volker Wissing">
+      </div>
+      <div type="agenda_item" n="24" what="debate" desc="Debatte">
+        <sp who="Volker Wissing" parliamentary_group="FDP" role="mp" position="NA" who_original="Volker Wissing" party="FDP" name="Volker Wissing">
           <speaker>Dr. Volker Wissing (FDP):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Für all die Bürgerinnen und Bürger, die uns an den Bildschirmen oder hier im Saal zuhören, möchte ich zunächst zur Aufklärung beitragen. Die Ausführungen des Herrn Kollegen Sieling waren nicht zutreffend. Die Wahllokale schließen nicht nach 62 Stunden.</p>
           <stage type="interjection">(Jörn Wunderlich [DIE LINKE]: 55 Stunden!)</stage>
@@ -1265,11 +1312,13 @@
           <stage type="interjection">(Matthias W. Birkwald [DIE LINKE]: 1 Million ist doch ein schöner Anreiz!)</stage>
           <p>Herr Kollege Flosbach hat Herrn Steinbrück ja schon zitiert, der gesagt hat: "25 Prozent von X ist besser als 45 Prozent von nix." Wir haben bei diesem Satz ja auch applaudiert. Das ist einer der wenigen klugen Sätze von Herrn Steinbrück, den man auch unterstreichen kann. Deswegen möchte ich Herrn Steinbrück einmal weiter zitieren. Sie hätten sich bei Ihrem Antrag zur Vermögensteuer nämlich auch einmal mit seinen Thesen zur Vermögensteuer auseinandersetzen können. Das hätte Ihnen, Herr Kollege Sieling, vielleicht auch geholfen.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, gestatten Sie eine Zwischenfrage der Kollegin Höll?</p>
         </sp>
-        <sp who="Dr. Volker Wissing" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Volker Wissing">
+      </div>
+      <div type="agenda_item" n="25" what="debate" desc="Debatte">
+        <sp who="Volker Wissing" parliamentary_group="FDP" role="mp" position="NA" who_original="Volker Wissing" party="FDP" name="Volker Wissing">
           <speaker>Dr. Volker Wissing (FDP):</speaker>
           <p>Das brauchen wir nicht; wir haben von Frau Höll genug gehört.</p>
           <stage type="interjection">(Dr. Barbara Höll [DIE LINKE]: Na, na!)</stage>
@@ -1289,11 +1338,13 @@
           <p>Ein Staat, der neben der Verteilungsgerechtigkeit nicht auch immer die Belastungsgerechtigkeit im Blick hat, kann auf Dauer kein sozialer Staat sein. Deswegen lehnen wir Ihren Antrag ab.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort zu einer Kurzintervention erteile ich Kollegin Barbara Höll.</p>
         </sp>
-        <sp who="Dr. Barbara Höll" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Barbara Höll">
+      </div>
+      <div type="agenda_item" n="26" what="debate" desc="Debatte">
+        <sp who="Barbara Höll" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Barbara Höll" party="DIE LINKE" name="Barbara Höll">
           <speaker>Dr. Barbara Höll (DIE LINKE):</speaker>
           <p>Sehr geehrter Herr Kollege Wissing, Herr Flosbach hat vorhin gesagt, Vermögen sei die Voraussetzung für bürgerliche Freiheit. Sie haben diese Auffassung bestätigt, indem Sie uns eine pure Neiddebatte unterstellen.</p>
           <p>Ich halte noch einmal fest, was ich vorhin schon gesagt habe: Zwei Drittel aller Erwachsenen in Deutschland haben gar kein oder nur ein sehr geringes Vermögen. Das heißt, zwei Drittel sind nach Ihrer Auffassung sowieso weit weg von Freiheit und Mitbestimmung.</p>
@@ -1304,11 +1355,13 @@
           <p>Deshalb ist die Verteilungsfrage eine immanent demokratische Frage. Wir haben Ihnen dazu einen sehr fundierten Vorschlag vorgelegt. Es ist notwendig und es lohnt sich, ihn zu diskutieren.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Kollege Wissing, bitte schön.</p>
         </sp>
-        <sp who="Dr. Volker Wissing" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Volker Wissing">
+      </div>
+      <div type="agenda_item" n="27" what="debate" desc="Debatte">
+        <sp who="Volker Wissing" parliamentary_group="FDP" role="mp" position="NA" who_original="Volker Wissing" party="FDP" name="Volker Wissing">
           <speaker>Dr. Volker Wissing (FDP):</speaker>
           <p>Vielen Dank, Herr Präsident. - Sehr geehrte Frau Kollegin Höll, es ist eine Zumutung, von einem fundierten Antrag zu sprechen, wenn Sie die zentralen Fragen, die ich Ihnen in meiner Rede gestellt habe, nicht beantworten können. Sie führen eine reine Neiddebatte,</p>
           <stage type="interjection">(Zurufe von der LINKEN: Nein!)</stage>
@@ -1317,11 +1370,13 @@
           <p>Wir lehnen das ab. Dafür gibt es in Deutschland keine Mehrheit. Das ist gut so. In Deutschland sind nicht mehr Gerechtigkeit und bessere Lebensverhältnisse zu erreichen, wenn es allen gleich schlecht geht. Deswegen sind Sie auf einem Irrweg.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Lisa Paus für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Lisa Paus" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Elisabeth Paus">
+      </div>
+      <div type="agenda_item" n="28" what="debate" desc="Debatte">
+        <sp who="Lisa Paus" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Lisa Paus" party="GRUENE" name="Lisa Paus">
           <speaker>Lisa Paus (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Was haben wir bisher erlebt?</p>
           <p>Wir haben eine Linke erlebt, die wie wir und völlig zu Recht die dramatisch weiter auseinandergehende Schere zwischen Arm und Reich in Deutschland beklagt und anklagt, die mit ihrem Antrag zur Vermögensteuer selbst aber mehr zum Problem als zur Problemlösung beiträgt, weil er handwerklich einfach richtig schlecht ist.</p>
@@ -1343,22 +1398,26 @@
           <p>Wir Grüne schlagen deshalb neben anderen wichtigen steuerpolitischen Reformen wie der Abschaffung der Abgeltungsteuer vor, eine zeitlich befristete Vermögensabgabe einzuführen. Wir wollen damit die Kosten der Krise, die aktuell auf gut 100 Milliarden Euro geschätzt werden, finanzieren. Das Deutsche Institut für Wirtschaftsforschung hat für uns errechnet, dass diese Summe wegen der bestehenden hohen Vermögenskonzentration bereits in zehn Jahren zusammenkommen könnte, und zwar bei einem Freibetrag von 2,5 Millionen Euro für Familien mit zwei Kindern und einem Steuersatz von lediglich 1,4 Prozent. Von den 30 Millionen Steuerpflichtigen in Deutschland würde das lediglich 340 000 Menschen betreffen. Das ist zumutbar und überfällig.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Frau Kollegin, Sie müssen bitte zum Ende kommen.</p>
         </sp>
-        <sp who="Lisa Paus" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Elisabeth Paus">
+      </div>
+      <div type="agenda_item" n="29" what="debate" desc="Debatte">
+        <sp who="Lisa Paus" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Lisa Paus" party="GRUENE" name="Lisa Paus">
           <speaker>Lisa Paus (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Letzter Satz, Herr Präsident.</p>
           <p>Wir werden unser Konzept in den nächsten Wochen mit Fachleuten aus Wirtschaft und Gesellschaft vertieft erörtern und dann einen entsprechenden Antrag im Parlament einbringen. Freuen Sie sich schon jetzt darauf.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Kollege Peter Aumer für die CDU/ CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Peter Aumer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Peter Aumer">
+      </div>
+      <div type="agenda_item" n="30" what="debate" desc="Debatte">
+        <sp who="Peter Aumer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Aumer" party="CSU" name="Peter Aumer">
           <speaker>Peter Aumer (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Liebe Kollegen! Frau Paus, wir haben jetzt einen Wettbewerb um die Einführung neuer Steuern - eine begrenzte Vermögensteuer und eine Finanztransaktionsteuer -, mit denen die Kosten der Krise bewältigt werden sollen. Ich glaube, das ist nicht der richtige Weg, den Sie hier einschlagen. Wir stehen für eine nachhaltige Politik, für eine Politik für die kommenden Generationen. Angela Merkel hat vor einiger Zeit in einer Regierungserklärung gesagt, dass unser Staat in den letzten Jahrzehnten über die Verhältnisse gelebt hat. Angesichts einer Staatsverschuldung von 1,8 Billionen Euro hat sie recht. Für meine Generation und alle folgenden Generationen ist es wichtig, dass wir nicht über Gebühr mit Steuern belastet werden und dass sich der Staat auf die Dinge beschränkt, die wichtig und notwendig sind, um die staatliche Existenz zu sichern und die Infrastruktur aufrechtzuerhalten.</p>
           <p>Wir diskutieren über zwei Anträge der Linken mit den Titeln "Die Abgeltungsteuer abschaffen - Kapitalerträge wie Löhne besteuern" und "Vermögensteuer als Millionärsteuer wieder erheben". Wir haben heute schon sehr viel über den Wahlkampf gesprochen. Meine sehr geehrten Damen und Herren von der Linken, das, was Sie machen, ist Wahlkampf pur. Ihnen geht es nicht darum, verlässliche Politik für unsere Bevölkerung zu machen.</p>
@@ -1407,12 +1466,14 @@
           <p>Herzlichen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Kollege Manfred Zöllmer für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Manfred Zöllmer" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Manfred Zöllmer">
+      </div>
+      <div type="agenda_item" n="31" what="debate" desc="Debatte">
+        <sp who="Manfred Zöllmer" parliamentary_group="SPD" role="mp" position="NA" who_original="Manfred Zöllmer" party="SPD" name="Manfred Zöllmer">
           <speaker>Manfred Zöllmer (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Die Vermögensteuer zählt zu den ältesten Steuern der Welt. Schon in Babylonien und im alten Ägypten hat es Abgaben auf das Vermögen gegeben.</p>
           <stage type="interjection">(Christian Freiherr von Stetten [CDU/CSU]: Damals hat es auch die Todesstrafe und die Folter gegeben!)</stage>
@@ -1452,12 +1513,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Kollege Daniel Volk für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Daniel Volk" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Daniel Volk">
+      </div>
+      <div type="agenda_item" n="32" what="debate" desc="Debatte">
+        <sp who="Daniel Volk" parliamentary_group="FDP" role="mp" position="NA" who_original="Daniel Volk" party="FDP" name="Daniel Volk">
           <speaker>Dr. Daniel Volk (FDP):</speaker>
           <p>Ich danke Ihnen. - Herr Präsident! Liebe Kolleginnen und Kollegen! Meine sehr geehrten Damen und Herren, die Sie hier und an den Bildschirmen die Debatte verfolgen! Es ist sehr erhellend, eine solche Debatte über die Steuerpolitik zu führen; denn man sieht: Die Opposition ist sich einig. Es wird ein Strauß von Steuererhöhungen vorgeschlagen. Man ist sich nur noch nicht ganz einig darüber, in welcher prozentualen Höhe. Aber man ist sich einig darüber: Vermögensabgabe, Vermögensteuer usw. usf. Es wird hier insgesamt das Lied der weiteren Steuererhöhungen gesungen.</p>
           <p>Es interessiert die Opposition offenbar überhaupt nicht, dass wir ohnehin schon eine absolut überzogene Steuerbelastung in Deutschland haben. Die Opposition malt hier auch das Bild, dass nur durch Steuererhöhungen die öffentlichen Haushalte saniert werden könnten. Dem möchte ich doch mal ganz deutlich widersprechen.</p>
@@ -1469,11 +1532,13 @@
           <stage type="interjection">(Manfred Zöllmer [SPD]: Kommen Sie doch mal zur Sache! - Dr. Wolfgang Strengmann-Kuhn [BÜNDNIS 90/DIE GRÜNEN]: Zum Thema!)</stage>
           <p>die Wirtschaft wächst und die Steuereinnahmen ansteigen, ist in Nordrhein-Westfalen das gesamtwirtschaftliche Gleichgewicht gestört. - Es kann nur an der dortigen Landesregierung liegen, dass dort dieses Gleichgewicht gestört ist.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, gestatten Sie eine Zwischenfrage der Kollegin Paus?</p>
         </sp>
-        <sp who="Dr. Daniel Volk" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Daniel Volk">
+      </div>
+      <div type="agenda_item" n="33" what="debate" desc="Debatte">
+        <sp who="Daniel Volk" parliamentary_group="FDP" role="mp" position="NA" who_original="Daniel Volk" party="FDP" name="Daniel Volk">
           <speaker>Dr. Daniel Volk (FDP):</speaker>
           <p>Ich möchte gerne fortfahren.</p>
           <stage type="interjection">(Manfred Zöllmer [SPD]: Ja, ja! Kommen Sie doch mal zur Sache!)</stage>
@@ -1492,17 +1557,19 @@
           <stage type="interjection">(Dr. Axel Troost [DIE LINKE]: Und jetzt fehlen den Kommunen 1,6 Milliarden Euro!)</stage>
           <p>Des Weiteren wurden für die Arbeitnehmerinnen und Arbeitnehmer Steuerentlastungen vorgenommen, die sich auf insgesamt mehr als 20 Milliarden Euro summieren. Gleichzeitig hat der Bundesfinanzminister die mittel- und langfristige Finanzplanung des ehemaligen SPD-Finanzministers bezüglich der Neuverschuldung halbiert:</p>
           <stage type="interjection">(Dr. Wolfgang Strengmann-Kuhn [BÜND-NIS 90/DIE GRÜNEN]: Ihre Politik macht die Kommunen arm!)</stage>
-          <p>Die Neuverschuldung, die Peer Steinbrück noch für das Jahr  2010 vorgesehen hatte, betrug mehr als 80 Mil-liarden Euro; dagegen wurde die Neuverschuldung im schwarz-gelben Bundeshaushalt 2010 auf 40 Milliarden Euro gesenkt.</p>
+          <p>Die Neuverschuldung, die Peer Steinbrück noch für das Jahr 2010 vorgesehen hatte, betrug mehr als 80 Mil-liarden Euro; dagegen wurde die Neuverschuldung im schwarz-gelben Bundeshaushalt 2010 auf 40 Milliarden Euro gesenkt.</p>
           <stage type="interjection">(Dr. Axel Troost [DIE LINKE]: Weil das Steueraufkommen gestiegen ist! Das wusste keiner vorher!)</stage>
           <p>Meine sehr geehrten Damen und Herren, das ist eine vernünftige Wirtschafts-, Steuer- und Finanzpolitik für Deutschland. Ich kann Ihnen nur empfehlen, sich diesem Kurs in der Wirtschafts- und Finanzpolitik anzuschließen.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Michael Schlecht für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Michael Schlecht" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Michael Schlecht">
+      </div>
+      <div type="agenda_item" n="34" what="debate" desc="Debatte">
+        <sp who="Michael Schlecht" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Michael Schlecht" party="DIE LINKE" name="Michael Schlecht">
           <speaker>Michael Schlecht (DIE LINKE):</speaker>
           <p>Herr Präsident! Sehr geehrte Damen und Herren! Die spannende Frage ist, ob wir uns weiterhin den Luxus leisten können, dass die Reichen und Vermögenden immer reicher werden, oder nicht. Ich sage Ihnen klipp und klar: Diesen Luxus kann man sich deshalb nicht mehr leisten - ich sage das nicht, weil ich einen Neidkomplex hätte -, weil auf der anderen Seite der Einkommensskala in unserem Land große Not herrscht und weil im Bereich von Erziehung und Bildung - das wird ja in allen Diskussionen anerkannt - riesige Missstände herrschen. Diesen nur mit strukturellen Maßnahmen zu begegnen, reicht nicht aus, sondern hierfür muss man richtig viel Geld in die Hand nehmen. Um allein im Bereich Erziehung und Bildung in Deutschland auf einen vernünftigen Stand zu kommen, der uns vielleicht der Weltspitze näher bringt, brauchen wir jedes Jahr Mehrausgaben in Höhe von 20 bis 30 Milliarden Euro.</p>
           <p>Wir gehen davon aus, dass wir in dem Bundesland, aus dem ich komme, in Baden-Württemberg, jedes Jahr ungefähr 3 Milliarden Euro mehr benötigen, um vernünftige Bildung zu ermöglichen. In Baden-Württemberg besteht das Problem, dass der CDU-Ministerpräsident, der berühmte Atom-Mappus, in der Bildungspolitik abbauen will: Er will in den nächsten Jahren - vorausgesetzt, er bleibt an der Macht - 6 500 Lehrerstellen abbauen. Das wollen wir nicht. Wir wollen eher 6 500 Lehrerstellen in Baden-Württemberg schaffen.</p>
@@ -1522,30 +1589,36 @@
           <stage type="interjection">(Zuruf des Abg. Manfred Zöllmer [SPD])</stage>
           <p>Ich habe aber nicht die Hoffnung aufgegeben, dass auch hier eines Tages ein Umdenken einsetzt - NA</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, Sie müssen zum Ende kommen.</p>
         </sp>
-        <sp who="Michael Schlecht" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Michael Schlecht">
+      </div>
+      <div type="agenda_item" n="35" what="debate" desc="Debatte">
+        <sp who="Michael Schlecht" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Michael Schlecht" party="DIE LINKE" name="Michael Schlecht">
           <speaker>Michael Schlecht (DIE LINKE):</speaker>
           <p>- einen Satz noch - und ein entscheidender Fortschritt erreicht werden kann, jetzt am Sonntag in Baden-Württemberg durch die Abwahl von Mappus, -</p>
           <stage type="interjection">(Dr. Daniel Volk [FDP]: Wahlkampf pur!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, Sie müssen zum Ende kommen.</p>
         </sp>
-        <sp who="Michael Schlecht" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Michael Schlecht">
+      </div>
+      <div type="agenda_item" n="36" what="debate" desc="Debatte">
+        <sp who="Michael Schlecht" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Michael Schlecht" party="DIE LINKE" name="Michael Schlecht">
           <speaker>Michael Schlecht (DIE LINKE):</speaker>
           <p>- und weitere Fortschritte in den folgenden Jahren.</p>
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der LINKEN - Holger Krestel [FDP]: Noch ein Wahlkampfplakat hochhalten, damit die Rede rund wird!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Gerhard Schick für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Dr. Gerhard Schick" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Gerhard Schick">
+      </div>
+      <div type="agenda_item" n="37" what="debate" desc="Debatte">
+        <sp who="Gerhard Schick" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Gerhard Schick" party="GRUENE" name="Gerhard Schick">
           <speaker>Dr. Gerhard Schick (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Wenn man gegen einen Vorschlag ist, sollte man sich auch überlegen, welche Alternativen es gibt.</p>
           <stage type="interjection">(Dr. Daniel Volk [FDP]: Die Alternative ist Schwarz-Gelb!)</stage>
@@ -1576,12 +1649,14 @@
           <p>Vor diesem Hintergrund muss man einfach einmal konstatieren - ich nehme wahr, dass die Sozialdemokraten auf diesem Weg sind -: Es war ein Fehler, die Abgeltungsteuer einzuführen. Dieser Fehler muss korrigiert werden.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Kollege Christian Freiherr von Stetten für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Christian Freiherr von Stetten" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Christian von Stetten">
+      </div>
+      <div type="agenda_item" n="38" what="debate" desc="Debatte">
+        <sp who="Christian Freiherr von Stetten" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Christian Freiherr von Stetten" party="CDU" name="Christian Frhr. von Stetten">
           <speaker>Christian Freiherr von Stetten (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Es ist in dieser Debatte schon erwähnt worden - die Medien haben Anfang dieses Jahres auch sehr ausführlich darüber berichtet -, dass es in der Linksfraktion eine neue Kommunismusdebatte gibt.</p>
           <p>Nach meiner persönlichen Meinung haben Sie sich zwar nie aufrichtig vom Kommunismus distanziert.</p>
@@ -1603,21 +1678,23 @@
           <p>Meine Damen und Herren, vorhin wurde vom Kollegen der Linken angesprochen, über welches Volumen wir reden: Sie reden von "Steuermehreinnahmen in Höhe von 10 Milliarden Euro" allein in Baden-Württemberg und von insgesamt 80 Milliarden Euro in der Bundesrepublik Deutschland, und das nicht einmalig, sondern jährlich. Da frage ich mich schon, in welchem Land Sie leben bzw. in welches Land Sie uns führen wollen. Sie zeigen mit dem Antrag wieder deutlich: Sie betreiben die Politik des Neides und des Klassenkampfes. Seit heute wissen wir: Sie betreiben auch die Politik der Enteignung.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, gestatten Sie eine Zwischenfrage des Kollegen Schlecht?</p>
         </sp>
-        <sp who="Christian Freiherr von Stetten" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Christian von Stetten">
+      </div>
+      <div type="agenda_item" n="39" what="debate" desc="Debatte">
+        <sp who="Christian Freiherr von Stetten" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Christian Freiherr von Stetten" party="CDU" name="Christian Frhr. von Stetten">
           <speaker>Christian Freiherr von Stetten (CDU/CSU):</speaker>
           <p>Gerne.</p>
         </sp>
-        <sp who="Michael Schlecht" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Michael Schlecht">
+        <sp who="Michael Schlecht" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Michael Schlecht" party="DIE LINKE" name="Michael Schlecht">
           <speaker>Michael Schlecht (DIE LINKE):</speaker>
           <p>Ich finde Ihre Ausführungen interessant. Ich habe vorhin gesagt, dass man sich den Luxus leisten könnte, den Reichen ihren Reichtum zu lassen, wenn es keine Probleme gäbe. Nur können wir uns diesen Luxus nicht leisten. Das gilt auch für Baden-Württemberg; ich habe es Ihnen eben aufgezeigt. Mappus will natürlich nicht die Reichen besteuern, sondern massive Einsparungen im Bildungsbereich vornehmen: Er will 6 500 Lehrerstellen streichen. Wollen Sie das wirklich verantworten? Wie passt das zu den Sonntagsreden, die auch von Politikern der CDU/CSU gehalten werden, dass man mehr für Bildung tun muss? Wie passt das zusammen? Das ist doch ein vollkommen abenteuerlicher Kurs.</p>
           <p>Ich frage mich manchmal wirklich, ob die in den letzten Jahren erfolgten Großspenden in Höhe von 30 Mil-lionen Euro an die Parteien der Regierungskoalition Ihre Gehirne so vernebelt haben, dass Sie nur noch Besitzansprüchen das Wort reden und die Interessen der breiten Bevölkerung mit Füßen treten.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der LINKEN - Widerspruch bei der CDU/CSU - Dr. Daniel Volk [FDP]: Also! - Weiterer Zuruf von der FDP: Unverschämtheit!)</stage>
         </sp>
-        <sp who="Christian Freiherr von Stetten" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Christian von Stetten">
+        <sp who="Christian Freiherr von Stetten" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Christian Freiherr von Stetten" party="CDU" name="Christian Frhr. von Stetten">
           <speaker>Christian Freiherr von Stetten (CDU/CSU):</speaker>
           <p>Ihre Frage macht deutlich, dass es höchste Zeit ist, dass der Wahlkampf zu Ende geht. Dann müssen wir uns solche Zwischenfragen auch nicht mehr gefallen lassen. Aber gerade Baden-Württemberg - das werden Sie sicherlich verstehen - hat unheimlich viel Geld in die Bildungspolitik investiert. Ich möchte Ihnen aber auch sagen: Ich bin Berichterstatter der Regierungsfraktionen zu diesem Gesetzentwurf. Sie haben Ihren Antrag vor gut 13 Monaten in den Bundestag eingebracht. Wenn es Ihnen wirklich um die inhaltliche politische Diskussion gegangen wäre, hätten Sie in diesen 13 Monaten wenigstens einmal zum Telefonhörer greifen und einen von uns anrufen können, um die inhaltlichen Punkte zu diskutieren.</p>
           <stage type="interjection">(Iris Gleicke [SPD]: Ist das der neue Stil? Dafür gibt es ja Ausschusssitzungen!)</stage>
@@ -1641,12 +1718,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Bernd Scheelen für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Bernd Scheelen" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Bernd Scheelen">
+      </div>
+      <div type="agenda_item" n="40" what="debate" desc="Debatte">
+        <sp who="Bernd Scheelen" parliamentary_group="SPD" role="mp" position="NA" who_original="Bernd Scheelen" party="SPD" name="Bernd Scheelen">
           <speaker>Bernd Scheelen (SPD):</speaker>
           <p>Herr Präsident! Meine lieben Kolleginnen und Kollegen! Der Kollege Volk hat vorhin auf die Situation in Nordrhein-Westfalen und auf das sogenannte Wachstumsbeschleunigungsgesetz, das Schwarz-Gelb im Bund durchgesetzt hat, hingewiesen. Sie haben sich hier gerühmt, Herr Kollege Volk, dass Sie die Menschen mit dem Wachstumsbeschleunigungsgesetz entlastet hätten. Richtig ist, dass das Gesetz Bund, Länder und Gemeinden 8 Milliarden Euro gekostet hat, davon allein 1,6 Milliarden Euro die Gemeinden. Das ist eine Politik, die wir nicht mitgemacht haben; denn Sie verteilen Geschenke immer nur zulasten anderer. In dem Paket war zum Beispiel auch die Milliarde für die Hotelbesitzer enthalten. Das ist aus unserer Sicht eine falsche Politik.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
@@ -1672,7 +1751,7 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird die Überweisung der Vorlage auf Drucksache 17/4878 an den Finanzausschuss vorgeschlagen. Sind Sie damit einverstanden? - Das ist der Fall. Dann ist die Überweisung so beschlossen.</p>
@@ -1682,17 +1761,17 @@
           <p>- Drucksachen 17/5125, 17/5196 -</p>
           <p>Überweisungsvorschlag:</p>
           <p>Finanzausschuss (f)</p>
-          <p>Rechtsausschuss </p>
+          <p>Rechtsausschuss</p>
           <p>Ausschuss für Wirtschaft und Technologie</p>
-          <p>Ausschuss für Familie, Senioren, Frauen und Jugend </p>
+          <p>Ausschuss für Familie, Senioren, Frauen und Jugend</p>
           <p>Haushaltsausschuss mitberatend und gemäß § 96 GO</p>
           <p>Nach einer interfraktionellen Vereinbarung ist für die Aussprache eine Dreiviertelstunde vorgesehen. - Ich höre dazu keinen Widerspruch. Dann ist das so beschlossen.</p>
           <p>Ich eröffne die Aussprache und erteile dem Parlamentarischen Staatssekretär Hartmut Koschyk das Wort.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der FDP)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="3" what="debate" desc="Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Steuerve...">
-        <sp who="Hartmut Koschyk" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Finanzen" party="CSU" name="Hartmut Koschyk">
+      <div type="agenda_item" n="41" what="debate" desc="Debatte">
+        <sp who="Hartmut Koschyk" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Finanzen" who_original="Hartmut Koschyk" party="CSU" name="Hartmut Koschyk">
           <speaker>Hartmut Koschyk, Parl. Staatssekretär beim Bundesminister der Finanzen:</speaker>
           <p>Herr Präsident! Werte Kolleginnen und Kollegen! Ein zentrales Ziel der Politik der christlich-liberalen Koalition ist der Bürokratieabbau. Selbstverständlich darf der Bürokratieabbau auch nicht vor unserem Steuerrecht kapitulieren. Deshalb haben wir dieses Steuervereinfachungsgesetz eingebracht und damit eine wichtige Zielsetzung aus unserem Koalitionsvertrag abgearbeitet.</p>
           <p>Der Rahmen, in den sich unsere Entscheidungen für Vereinfachungsmaßnahmen im Steuerrecht einfügen müssen, ist klar gesteckt. Die verfassungsrechtlich verankerte Schuldenbremse erfordert die Rückführung der gesamtstaatlichen Schuldenquote, begrenzt die Kreditaufnahme in Bund und Ländern und trägt im Zusammenwirken mit dem jetzt auch dank der Durchsetzungskraft unserer Bundeskanzlerin ertüchtigten Europäischen Stabilitäts- und Wachstumspakt maßgeblich zur zwingend notwendigen Konsolidierung der öffentlichen Haushalte bei.</p>
@@ -1718,12 +1797,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Ingrid Arndt-Brauer für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Ingrid Arndt-Brauer" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ingrid Arndt-Brauer">
+      </div>
+      <div type="agenda_item" n="42" what="debate" desc="Debatte">
+        <sp who="Ingrid Arndt-Brauer" parliamentary_group="SPD" role="mp" position="NA" who_original="Ingrid Arndt-Brauer" party="SPD" name="Ingrid Arndt-Brauer">
           <speaker>Ingrid Arndt-Brauer (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine sehr geehrten Damen und Herren! Liebe Kolleginnen! Liebe Kollegen! Steuervereinfachungsgesetz 2011 - der Titel deutet an, dass es in Zukunft jedes Jahr eines geben wird. So, wie es in der Vergangenheit jährlich ein Jahressteuergesetz gegeben hat, wird es in Zukunft jährlich ein Steuervereinfachungsgesetz geben. Ziel ist - dies wurde schon gesagt -, die Bürokratie abzubauen und den Haushalt zu konsolidieren.</p>
           <p>Angefangen hat es aber eigentlich anders. Als man am 2. Februar den Beschluss im Kabinett gefasst hat, hat man den Wählern doch noch ein bisschen die Hoffnung gegeben, sie könnten nicht nur eine Steuervereinfachung, sondern vielleicht auch eine Steuerentlastung erwarten. Man hat sich dann die Vorschläge angeschaut, und es gab sofort Kommentare. Die Wirtschaftsverbände haben gesagt: Von den 41 Punkten betreffen zehn Punkte Streichungen von Tatbeständen, die ohnehin nicht mehr existieren. Weitere zehn Punkte dienen lediglich der Umsetzung von Gerichtsurteilen. Nur zehn Punkte betreffen marginal die Wirtschaft, sind aber auch nicht so existenziell nötig. - Das war die Kritik der Wirtschaftsverbände.</p>
@@ -1745,12 +1826,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Volker Wissing für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Volker Wissing" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Volker Wissing">
+      </div>
+      <div type="agenda_item" n="43" what="debate" desc="Debatte">
+        <sp who="Volker Wissing" parliamentary_group="FDP" role="mp" position="NA" who_original="Volker Wissing" party="FDP" name="Volker Wissing">
           <speaker>Dr. Volker Wissing (FDP):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Herr Scheelen hat vorhin gesagt, dass die Sozialdemokraten unter Rot-Grün das in der Steuerpolitik nicht machen konnten, weil sie keine Mehrheit im Bundesrat hatten. Vielleicht lag das aber eher daran, Herr Scheelen, dass Sie keine guten Konzepte hatten</p>
           <stage type="interjection">(Christian Lange [Backnang] [SPD]: Sie haben ja das Beste! Ich sage nur Mövenpick!)</stage>
@@ -1798,12 +1881,14 @@
           <p>Sie werden sehen, dass die Menschen dankbar sein werden, wenn sich die Besteuerung für sie verbessert, und dass Sie mit Ihrer Kleinrederei auf dem Holzweg sind. Jeder Schritt in die richtige Richtung ist ein guter, ein wichtiger Schritt. Deswegen laden wir Sie ein, etwas für die Arbeitnehmerinnen und Arbeitnehmer zu tun und diesen Gesetzentwurf aktiv zu unterstützen. Das wäre ein Weg zu mehr Ehrlichkeit in Ihrer eigenen Politik.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Christian Lange [Backnang] [SPD]: Zur Ehrlichkeit hat Herr Brüderle alles gesagt!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Barbara Höll für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Barbara Höll" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Barbara Höll">
+      </div>
+      <div type="agenda_item" n="44" what="debate" desc="Debatte">
+        <sp who="Barbara Höll" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Barbara Höll" party="DIE LINKE" name="Barbara Höll">
           <speaker>Dr. Barbara Höll (DIE LINKE):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Kollege Wissing, Herr Westerwelle sagte im Januar 2009 über die Steuerentlastung durch das Konjunkturpaket: "Das ist eine Currywurst mit Majo - ohne Pommes". Ihre Ankündigung klang nun so: Jetzt kommen die Pommes dazu, und aus der Currywurst wird eine Riesencurrywurst. Jetzt wird alles ganz toll.</p>
           <p>90 Vorschläge waren im Gespräch, geblieben sind 37 Vereinfachungsvorschläge. Zieht man davon einmal die Rechtsbereinigungen und Absichtserklärungen ab, bleiben noch 25. Davon sind letztlich nur ganze drei Vorschläge finanzwirksam. Ich glaube, die Kritik von allen Seiten, ob aus der Opposition, der Wirtschaft, von Steuerberatern, von den Finanzbehörden oder von Bürgerinnen und Bürgern, ist berechtigt. Das sind 94 Seiten mit wenig brauchbaren Ergebnissen.</p>
@@ -1829,11 +1914,13 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Lisa Paus für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Lisa Paus" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Elisabeth Paus">
+      </div>
+      <div type="agenda_item" n="45" what="debate" desc="Debatte">
+        <sp who="Lisa Paus" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Lisa Paus" party="GRUENE" name="Lisa Paus">
           <speaker>Lisa Paus (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Auch ich erinnere mich an das Zitat von Guido Westerwelle. Es ist gerade einmal zwei Jahre her, als er, damals wie heute Vorsitzender der FDP,</p>
           <stage type="interjection">(Bernd Scheelen [SPD]: Man weiß nicht, wie lange noch!)</stage>
@@ -1869,11 +1956,13 @@
           <p>CSU-Mitglied und Mitglied im Finanzausschuss, die Stellungnahme des Beirats unterzeichnet. Herr Aumer, ich bin gespannt, wie Sie Ihre Empfehlungen in den eigenen Reihen einbringen und durchsetzen werden. Wenn Sie Unterstützung brauchen, dann kommen Sie gerne zu uns.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Frau Kollegin, kommen Sie bitte zum Schluss.</p>
         </sp>
-        <sp who="Lisa Paus" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Elisabeth Paus">
+      </div>
+      <div type="agenda_item" n="46" what="debate" desc="Debatte">
+        <sp who="Lisa Paus" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Lisa Paus" party="GRUENE" name="Lisa Paus">
           <speaker>Lisa Paus (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ich komme zum Schluss.</p>
           <p>Auch der Normenkontrollrat spricht fehlende Informationen über die Kosten dieses Gesetzes an. Der Bundesrat fordert, die Pläne zu überdenken. Sie stellen sich stur. Herr Volk kritisiert den Bundesrat - ich zitiere -:</p>
@@ -1881,12 +1970,14 @@
           <p>Ich sagen Ihnen, Herr Volk: Der Bundesrat hat das sehr wohl verstanden, wir haben es alle richtig verstanden, nur Sie wollen es nicht verstehen, sondern wollen das Problem vertuschen. Wir alle wissen, Ihr Gesetzentwurf ist kein Steuervereinfachungspaket, sondern ein Placebowerk zum Erhalt des Koalitionsfriedens.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat die Kollegin Antje Tillmann von der CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Antje Tillmann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Antje Tillmann">
+      </div>
+      <div type="agenda_item" n="47" what="debate" desc="Debatte">
+        <sp who="Antje Tillmann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Antje Tillmann" party="CDU" name="Antje Tillmann">
           <speaker>Antje Tillmann (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Liebe Zuschauer! Wir sind heute in der ersten Lesung zu einem Steuervereinfachungsgesetz. Das scheint in der Debatte ein bisschen untergegangen zu sein. Wir haben noch hinreichend Gelegenheit zur Diskussion all der guten Vorschläge zu dem, was wir nicht tun sollten. Ich hoffe, dass Sie die Diskussion dann aber auch durch positive Steuervereinfachungsvorschläge anreichern.</p>
           <stage type="interjection">(Ingrid Arndt-Brauer [SPD]: Das ist gut! Machen wir! - Stefan Müller [Erlangen] [CDU/ CSU]: Davon ist nicht auszugehen!)</stage>
@@ -1921,17 +2012,19 @@
           <p>Trotzdem haben wir diesbezüglich schon einige Regelungen im vorliegenden Gesetzentwurf aufgegriffen, weil sie technisch schon so weit ausgereift waren, dass wir sie in Kraft setzen können. Da geht es zum Beispiel um die elektronische Rechnungstellung. Hier kommt immer die Diskussion auf: Wo ist denn der Entlastungseffekt? Ich glaube, es ist völlig wurscht, ob ich 50 Euro weniger Steuern zahle, wenn ich auf der anderen Seite über 1 000 Euro Bürokratiekosten habe. Für Unternehmen ist wesentlich wichtiger, dass wir sicherstellen, dass wir technisch auf dem neuesten Stand sind. Insbesondere müssen wir sicherstellen - der Staatssekretär hat das eben gesagt -, dass das Sozialversicherungsrecht und das Steuerrecht miteinander harmonieren. Momentan wird in den beiden Ausschüssen noch nicht einmal über das Gleiche diskutiert. So soll ein neues IT-System zur Erhebung der Sozialversicherungsbeiträge neben dem des Steuerrechts eingeführt werden. Dadurch fallen in der Wirtschaft Bürokratiekosten in Milliardenhöhe an. Das kann nicht richtig sein.</p>
           <p>Das Gleiche gilt für den Komplex "Konsens". Es ist für den Bürger ausgesprochen interessant, vieles, was er steuerlich mit den Finanzbehörden zu klären hat, demnächst über den Rechner zu erledigen. Elster.de kommt gut an; das ist ein gutes Programm. Die Bürgerinnen und Bürger nutzen es zahlreich. Wir müssen es auf die Unternehmen ausweiten und zum Beispiel für Zerlegungsbescheide für die Körperschaftsteuer nutzen. Das bringt den Unternehmen erheblichen Zeitgewinn und natürlich auch erhebliche Einsparungen.</p>
           <p>Zeitnahe Betriebsprüfungen und die E-Bilanz sind schon genannt worden. Im Rahmen der E-Bilanz müssen wir sicherstellen, dass auch auf dem Rückweg von der Steuerverwaltung zum Steuerberater oder zum Bürger die Vereinfachungseffekte wirken und dass der Steuerberater die berichtigte E-Bilanz zurückbekommt. Auch das spart erhebliche Kosten und hat für den Bundeshaushalt keine negativen Auswirkungen.</p>
-          <p>Da wir heute erst mit der Debatte starten, lassen Sie mich sagen: Es gibt Probleme, die wir noch nicht gelöst haben. Eines der größten und leider auch teuersten Probleme, die wir noch nicht gelöst haben, ist die Istbesteuerung. Die Umsatzgrenze bei der Istbesteuerung von 500 000 Euro gilt nur noch bis zum 31. Dezember 2011. Danach fällt sie wieder auf 250 000 Euro zurück. </p>
+          <p>Da wir heute erst mit der Debatte starten, lassen Sie mich sagen: Es gibt Probleme, die wir noch nicht gelöst haben. Eines der größten und leider auch teuersten Probleme, die wir noch nicht gelöst haben, ist die Istbesteuerung. Die Umsatzgrenze bei der Istbesteuerung von 500 000 Euro gilt nur noch bis zum 31. Dezember 2011. Danach fällt sie wieder auf 250 000 Euro zurück.</p>
           <p>Der Bundesrat hat das in seiner Stellungnahme beanstandet. Der Vereinfachungseffekt liegt darin, dass jetzt Buchführungsgrenzen und Istbesteuerungsgrenzen identisch sind, sodass bis 500 000 Euro Umsatz keine Bilanz zu erstellen ist, wenn man unter der Gewinngrenze bleibt. Wir suchen eine Lösung. Das kostet leider 1,95 Milliarden Euro. Daher kann es keine Lösung sein, dass der Bundesrat das einfach mit in dieses Gesetz packen will; denn bei diesem Gesetz waren die Finanzverwaltung und wir uns einig, dass der Bundeshaushalt die kompletten Kosten trägt, weil wir Länder und Kommunen nicht zusätzlich belasten wollen. Ich sage Ihnen an dieser Stelle zu: Wir wollen das Problem lösen und werden es angehen. Den Kolleginnen und Kollegen der Länder, die das Protokoll nachlesen, kündige ich schon einmal gute kameradschaftliche Verhandlungen an. Ich glaube, wir werden im Verlauf des Gesetzgebungsverfahrens gemeinsam eine Lösung finden. Das wäre ein zusätzlicher Punkt bei echter Vereinfachung.</p>
           <p>Ich danke an dieser Stelle dem Zentralverband des Deutschen Handwerks, der gleichzeitig Gegenfinanzierungsvorschläge gemacht hat. Ich danke auch anderen Verbänden, die unseren Konsolidierungskurs Gott sei Dank unterstützen und bei ihren Vorschlägen zur Steuervereinfachung immer auch die Finanzierung berücksichtigen. Jeder Vorschlag, der gegenfinanziert ist, wird von uns gerne in die Verhandlungen aufgenommen. Ich freue mich auf die Beratungen der nächsten Wochen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Jetzt hat das Wort die Kollegin Sabine Bätzing-Lichtenthäler für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Sabine Bätzing-Lichtenthäler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Sabine Bätzing-Lichtenthäler">
+      </div>
+      <div type="agenda_item" n="48" what="debate" desc="Debatte">
+        <sp who="Sabine Bätzing-Lichtenthäler" parliamentary_group="SPD" role="mp" position="NA" who_original="Sabine Bätzing-Lichtenthäler" party="SPD" name="Sabine Bätzing">
           <speaker>Sabine Bätzing-Lichtenthäler (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Alle meine Reden in dieser Legislaturperiode enthielten bisher immer den Aufruf an die Regierungsfraktionen: Machen Sie Schluss mit Ihrer Klientelpolitik! - Leider geben Sie mir mit Ihren Gesetzentwürfen immer wieder Gelegenheit, genau diesen Ausruf anzustimmen. Dabei hören sich Ihre Gesetzentwürfe und die Behauptung dessen, was Sie eigentlich tun wollen, ganz gut an, auch heute. Steuervereinfachungsgesetz - wer könnte dem nicht zustimmen? Es gibt zwar keine Steuersenkungen, die Sie den Menschen vor der Wahl eigentlich versprochen haben, aber Steuervereinfachungen, Vereinfachungen für die Bürger, Vereinfachungen für die Verwaltung. Wer wollte das nicht? Aber setzen Sie das auch um?</p>
           <stage type="interjection">(Dr. Volker Wissing [FDP]: Ja!)</stage>
@@ -1952,14 +2045,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN - Christian Freiherr von Stetten [CDU/CSU]: Machen Sie doch mal einen konstruktiven Vorschlag! - Gegenruf der Abg. Sabine Bätzing-Lichtenthäler [SPD]: Behindertenpauschale! Da haben Sie nicht zugehört!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird Überweisung des Gesetzentwurfs auf Drucksache 17/5125 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Gibt es anderweitige Vorschläge? - Das ist nicht der Fall. Dann ist die Überweisung so beschlossen.</p>
           <p>Ich rufe den Tagesordnungspunkt 31 auf:</p>
           <p>Beratung des Antrags der Abgeordneten Hilde Mattheis, Dr. Karl Lauterbach, Bärbel Bas, weiterer Abgeordneter und der Fraktion der SPD</p>
           <p>Neuen Pflegebedürftigkeitsbegriff einführen - Chancen zu nötigen Veränderungen nutzen</p>
-          <p>- Drucksache 17/2480 - </p>
+          <p>- Drucksache 17/2480 -</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Gesundheit (f)</p>
           <p>Ausschuss für Ernährung, Landwirtschaft und Verbraucherschutz</p>
@@ -1970,8 +2063,8 @@
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="4" what="debate" desc="Beratung des Antrags der Abgeordneten Hilde Mattheis, Dr. Karl Lauterbach, Bärbe...">
-        <sp who="Hilde Mattheis" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hilde Mattheis">
+      <div type="agenda_item" n="49" what="debate" desc="Debatte">
+        <sp who="Hilde Mattheis" parliamentary_group="SPD" role="mp" position="NA" who_original="Hilde Mattheis" party="SPD" name="Hilde Mattheis">
           <speaker>Hilde Mattheis (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Ich zitiere anfangs aus den Empfehlungen des Beirats zur Überprüfung des Pflegebedürftigkeitsbegriffs. Da heißt es in der Präambel:</p>
           <p>Unsere Gesellschaft muss sich daran messen lassen, wie sie Menschen, Menschen mit Pflegebedarf und/ oder Behinderung begegnet und insbesondere deren Teilhabe am Leben in der Gesellschaft ermöglicht.</p>
@@ -2004,12 +2097,14 @@
           <p>Ich danke.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat der Kollege Willi Zylajew von der CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Willi Zylajew" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Willi Zylajew">
+      </div>
+      <div type="agenda_item" n="50" what="debate" desc="Debatte">
+        <sp who="Willi Zylajew" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Willi Zylajew" party="CDU" name="Willi Zylajew">
           <speaker>Willi Zylajew (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Ich möchte mich zunächst ganz herzlich bei der SPD-Fraktion bedanken, namentlich bei der Kollegin Mattheis: Mit diesem Antrag haben Sie uns wieder einmal die Chance gegeben, deutlich zu machen, wie gut wir im Bereich der Pflege arbeiten.</p>
           <stage type="interjection">(Dr. Marlies Volkmer [SPD]: So sind wir eben! - Hilde Mattheis [SPD]: Ihr Zynismus bringt Sie in der Sache nicht weiter, Herr Zylajew! Das ist Ihre einzige Methode, zu antworten!)</stage>
@@ -2030,12 +2125,14 @@
           <p>Das ist wahr; das ist richtig. Richtig ist aber auch, dass die Ministerin ganz präzise den Auftrag erteilt hat, bei der Pflegereform nicht schon 2007/2008 zu einem Ergebnis zu kommen, sondern frühestens 2009, zum Ende ihrer Amtszeit. Das heißt, Sie haben planmäßig den Beirat beauftragt, bis zum Ende - -</p>
           <stage type="interjection">(Hilde Mattheis [SPD]: Ich glaube nicht, dass sie das Ende ihrer Amtszeit geplant hat, Herr Zylajew! - Mechthild Rawert [SPD]: Sie können der SPD-Fraktion vertrauen: Sie wollte regieren! - Gegenrufe von der FDP)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Ich bitte jetzt, dem Kollegen Zylajew das Wort zu lassen, sodass alle anderen wenigstens zuhören können. - Bitte schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Willi Zylajew" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Willi Zylajew">
+      </div>
+      <div type="agenda_item" n="51" what="debate" desc="Debatte">
+        <sp who="Willi Zylajew" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Willi Zylajew" party="CDU" name="Willi Zylajew">
           <speaker>Willi Zylajew (CDU/CSU):</speaker>
           <p>Sie haben planmäßig darauf hingewirkt, dass erst am Ende der Wahlperiode die Ergebnisse des Beirates für eine Pflegereform vorgelegt wurden.</p>
           <p>Ich darf auch noch darauf hinweisen, dass Frau Schmidt diesen Auftrag Herrn Wilhelm Schmidt gegeben hat, dem Beiratsvorsitzenden und Bundesvorsitzenden der AWO. Der ist ihr dann allerdings abhandengekommen.</p>
@@ -2097,12 +2194,14 @@
           <p>Schönen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Hilde Mattheis [SPD]: Behaupten kann man sehr wohl, allein es fehlen die Beweise!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat die Kollegin Kathrin Senger-Schäfer von der Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Kathrin Senger-Schäfer" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Kathrin Senger-Schäfer">
+      </div>
+      <div type="agenda_item" n="52" what="debate" desc="Debatte">
+        <sp who="Kathrin Senger-Schäfer" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Kathrin Senger-Schäfer" party="DIE LINKE" name="Kathrin Senger-Schäfer">
           <speaker>Kathrin Senger-Schäfer (DIE LINKE):</speaker>
           <p>Sehr geehrter Herr Präsident! Verehrte Kolleginnen und Kollegen! Das Thema Pflege liegt uns allen am Herzen; da sind wir uns fraktionsübergreifend einig. Der neue Pflegebegriff liegt bereits seit Anfang 2009 vor. Aber was ist seither im Interesse der Betroffenen passiert? Nichts. Die Linke brachte das Thema Pflegebegriff zuletzt im Januar dieses Jahres auf die Tagesordnung; aber leider gilt noch immer der alte Pflegebegriff: still, satt und sauber. Ich muss sagen: Das ist eine Katastrophe.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -2135,12 +2234,14 @@
           <p>Herr Minister Rösler - er ist nicht anwesend, aber Sie werden es ihm ausrichten - soll nicht von einem Pflegedialog zum nächsten hetzen, was ohnehin nichts anderes ist als ein gut inszeniertes Ablenkungsmanöver. Meine Aufforderung an Minister Rösler lautet: Handeln Sie!</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt die Kollegin Christine Aschenberg-Dugnus von der FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Christine Aschenberg-Dugnus" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Christine Aschenberg-Dugnus">
+      </div>
+      <div type="agenda_item" n="53" what="debate" desc="Debatte">
+        <sp who="Christine Aschenberg-Dugnus" parliamentary_group="FDP" role="mp" position="NA" who_original="Christine Aschenberg-Dugnus" party="FDP" name="Christine Aschenberg-Dugnus">
           <speaker>Christine Aschenberg-Dugnus (FDP):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Die Debatte über einen neuen Pflegebedürftigkeitsbegriff erinnert mich stark an die Debatte über die UPD. Wir alle sind uns, wenn wir die Detailfragen einmal außen vor lassen, im Grunde einig, was wir wollen. Sowohl bei der UPD als auch beim Pflegebedürftigkeitsbegriff hatte das Ulla-Schmidt-Ministerium schon einmal ein paar Gedanken skizziert - und uns dann, wie immer, eine Baustelle hinterlassen, für die wir jetzt verantwortlich gemacht werden</p>
           <stage type="interjection">(Mechthild Rawert [SPD]: Sie haben neue geschaffen! - Hilde Mattheis [SPD]: Einreißen und sich dann beschweren!)</stage>
@@ -2198,11 +2299,13 @@
           <p>In dieser Reihenfolge wird das gemacht.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Mechthild Rawert [SPD]: Herr Lanfermann, wurden Sie richtig zitiert? - Gegenruf des Abg. Heinz Lanfermann [FDP]: Natürlich! Das war sehr gut und richtig zitiert!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt die Kollegin Elisabeth Scharfenberg von Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Elisabeth Scharfenberg" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Elisabeth Scharfenberg">
+      </div>
+      <div type="agenda_item" n="54" what="debate" desc="Debatte">
+        <sp who="Elisabeth Scharfenberg" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Elisabeth Scharfenberg" party="GRUENE" name="Elisabeth Scharfenberg">
           <speaker>Elisabeth Scharfenberg (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Sehr geehrte Kolleginnen und Kollegen! Auch wenn der Kollege Zylajew während seiner Rede weitgehend nur die Szenen aufgearbeitet hat, die sich hinsichtlich der Pflegepolitik in der schwarz-roten Ehe abgespielt haben,</p>
           <stage type="interjection">(Heiterkeit beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
@@ -2247,12 +2350,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat der Kollege Stephan Stracke von der CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Stephan Stracke" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Stephan Stracke">
+      </div>
+      <div type="agenda_item" n="55" what="debate" desc="Debatte">
+        <sp who="Stephan Stracke" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stephan Stracke" party="CSU" name="Stephan Stracke">
           <speaker>Stephan Stracke (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine sehr verehrten Damen und Herren! Die Menschen in unserem Land werden zum Glück immer älter. Innerhalb eines Jahrhunderts hat sich die Lebenserwartung verdoppelt. Wer heute beispielsweise mit 65 Jahren in den Ruhestand geht, hat meistens noch viele Jahre vor sich: Männer durchschnittlich 17 Jahre, Frauen etwa 20 Jahre. Ein immer größerer Teil dieser Jahre wird in guter Gesundheit verbracht. Hierzu beigetragen hat sicherlich auch das gestiegene Gesundheitsbewusstsein in der Bevölkerung.</p>
           <p>Viele Menschen nutzen diese Zeit nach dem Ausscheiden aus dem Erwerbsleben kreativ mit ihren Erfahrungen und ihrem Wissen. Sie engagieren sich in Vereinen und Verbänden, betreuen ihre Enkel oder pflegen Angehörige. Sie leisten damit einen unschätzbaren Beitrag für die Gesellschaft, erbringen eine soziale Rendite, die im wahrsten Sinne des Wortes unbezahlbar ist, nicht nur für die anderen, sondern vor allem für sich selbst. Denn die Lebenszufriedenheit steigert sich dadurch; dies hat viel mit sozialer Einbindung zu tun.</p>
@@ -2286,12 +2391,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Als letzte Rednerin zu diesem Tagesordnungspunkt hat nun die Kollegin Mechthild Rawert von der SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Mechthild Rawert" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Mechthild Rawert">
+      </div>
+      <div type="agenda_item" n="56" what="debate" desc="Debatte">
+        <sp who="Mechthild Rawert" parliamentary_group="SPD" role="mp" position="NA" who_original="Mechthild Rawert" party="SPD" name="Mechthild Rawert">
           <speaker>Mechthild Rawert (SPD):</speaker>
           <p>Herr Präsident! Liebe Kollegen und Kolleginnen! Herr Stracke, ich danke für die Aufforderung, dass wir uns beteiligen. Die Frage ist nur: Woran?</p>
           <stage type="interjection">(Heiterkeit bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -2299,7 +2406,7 @@
           <p>Wir alle haben herausgestellt, dass wir einen neuen Pflegebedürftigkeitsbegriff wollen. Schon bei der Einführung der Pflegeversicherung durch Norbert Blüm war klar, dass wir verrichtungsbezogene, rein somatische Pflegeleistungen nicht wollen, dass es hiermit Probleme gibt, dass es zu Ungleichbehandlungen von Pflegebedürftigen und somit zu eklatanten Gerechtigkeitslücken kommt.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
           <p>Vor diesem Hintergrund hat Ulla Schmidt die Initiative ergriffen, einen anderen Maßstab zu schaffen. Mit diesem Maßstab wird berücksichtigt, dass, erstens, nicht mehr der Zeitaufwand, sondern der Grad der Selbstständigkeit entscheidend ist und dass, zweitens, andere Inhalte in den Mittelpunkt gestellt werden. Es sollte nicht mehr nur um die Begrenzung auf die Alltagsverrichtungen gehen, sondern darum, dass ein umfassender Pflegebedürftigkeitsbegriff Wirklichkeit wird.</p>
-          <p>Sie haben in Ihrem Koalitionsvertrag, unterzeichnet im Oktober  2009, auf diese gute Arbeit Bezug genommen und festgeschrieben - ich glaube, es war auf Seite 93 -:</p>
+          <p>Sie haben in Ihrem Koalitionsvertrag, unterzeichnet im Oktober 2009, auf diese gute Arbeit Bezug genommen und festgeschrieben - ich glaube, es war auf Seite 93 -:</p>
           <p>Es liegen bereits gute Ansätze vor, die Pflegebedürftigkeit so neu zu klassifizieren, dass nicht nur körperliche Beeinträchtigungen, sondern auch anderweitiger Betreuungsbedarf (z. B. aufgrund von Demenz) berücksichtigt werden können.</p>
           <p>Es ist richtig, dass Bürger und Bürgerinnen und nicht nur die Opposition fragen: Was haben Sie zu der Zeit gedacht?</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -2334,14 +2441,14 @@
           <p>Ich danke für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird Überweisung der Vorlage auf Drucksache 17/2480 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? - Das ist der Fall. Dann ist die Überweisung so beschlossen.</p>
           <p>Ich rufe die Tagesordnungspunkte 8 a bis d sowie Zu-satzpunkt 13 auf:</p>
           <p>8 a) Beratung des Antrags der Abgeordneten Friedrich Ostendorff, Cornelia Behm, Ulrike Höfken, weiterer Abgeordneter und der Fraktion BÜND-NIS 90/DIE GRÜNEN</p>
           <p>Intensive Nutztierproduktion überprüfen</p>
-          <p>- Drucksache 17/5047 - </p>
+          <p>- Drucksache 17/5047 -</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Ernährung, Landwirtschaft und Verbraucherschutz (f)</p>
           <p>Ausschuss für Verkehr, Bau und Stadtentwicklung</p>
@@ -2383,8 +2490,8 @@
           <p>Heinz Paula</p>
           <p>Dr. Christel Happach-Kasan</p>
           <p>Alexander Süßmair</p>
-          <p>Undine Kurth (Quedlinburg) </p>
-          <p>Interfraktionell wird vorgeschlagen, dass die Reden zu Protokoll genommen werden. - Ich sehe, Sie sind damit einverstanden. Es handelt sich um die Reden der Kollegen Dieter Stier und Dr. Max Lehmer, CDU/CSU, Heinz Paula, SPD, Hans-Michael Goldmann, FDP, Alexander Süßmair, Die Linke, und Undine Kurth, Bünd-nis 90/Die Grünen.</p>
+          <p>Undine Kurth (Quedlinburg)</p>
+          <p>Interfraktionell wird vorgeschlagen, dass die Reden zu Protokoll genommen werden. - Ich sehe, Sie sind damit einverstanden. Es handelt sich um die Reden der Kollegen Dieter Stier und Dr. Max Lehmer, CDU/CSU, Heinz Paula, SPD, Hans-Michael Goldmann, FDP, Alexander Süßmair, Die Linke, und Undine Kurth, Bünd-nis 90/Die Grünen.3</p>
           <p>Interfraktionell wird Überweisung der Vorlage auf Drucksache 17/5047 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? - Das ist der Fall. Dann ist die Überweisung so beschlossen.</p>
           <p>Dann kommen wir zur Beschlussempfehlung des Ausschusses für Ernährung, Landwirtschaft und Verbraucherschutz zu dem Antrag der Fraktion Bündnis 90/ Die Grünen mit dem Titel "Haltung von Wildtieren im Zirkus verbieten". Der Ausschuss empfiehlt in seiner Beschlussempfehlung auf Drucksache 17/5197, den Antrag der Fraktion Bündnis 90/Die Grünen auf Drucksache 17/2146 abzulehnen. Wer stimmt für diese Beschlussempfehlung? - Wer stimmt dagegen? - Wer enthält sich? - Die Beschlussempfehlung ist mit den Stimmen der Koalitionsfraktionen gegen die Stimmen der Oppositionsfraktionen angenommen.</p>
           <p>Abstimmung über die Beschlussempfehlung des Ausschusses für Ernährung, Landwirtschaft und Verbraucherschutz auf Drucksache 17/4491. Der Ausschuss empfiehlt unter Buchstabe a seiner Beschlussempfehlung die Ablehnung des Antrags der Fraktion der SPD auf Drucksache 17/3653 mit dem Titel "Tierschutz bei Katzen verbessern". Wer stimmt für diese Beschlussempfehlung? - Wer stimmt dagegen? - Enthaltungen? - Die Beschlussempfehlung ist mit den Stimmen der Koalitionsfraktionen gegen die Stimmen der Oppositionsfraktionen angenommen.</p>
@@ -2395,6 +2502,7 @@
           <p>Wir sind damit am Schluss unserer heutigen Tagesordnung.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 6. April 2011, 13 Uhr, ein.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluss: 13.43 Uhr)</stage>
         </sp>
       </div>
     </body>

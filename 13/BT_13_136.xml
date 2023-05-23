@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-06</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2005/1205/bic/plenarprotokolle/pp/1996/13136a.zip</url>
-        <date>2015-10-20 19:19:15</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -36,7 +36,7 @@
   <text>
     <body>
       <div type="agenda_item" n="1" what="debate" desc="Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und F.D.P. eingebr...">
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Die Sitzung ist eröffnet.</p>
           <p>Guten Morgen, liebe Kolleginnen und Kollegen! Nach kurzer Unterbrechung sind wir wieder beieinander.</p>
@@ -53,10 +53,10 @@
           <p>Nach einer interfraktionellen Vereinbarung ist für die Aussprache eine Stunde vorgesehen. -- Es gibt keinen Widerspruch. Wir verfahren so.</p>
           <p>Ich eröffne die Aussprache. Als erster spricht der Kollege Junghanns.</p>
         </sp>
-        <sp who="Ulrich Junghanns" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ulrich Junghanns">
+        <sp who="Ulrich Junghanns" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ulrich Junghanns" party="CDU" name="Ulrich Junghanns">
           <speaker>Ulrich Junghanns (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Vor meiner Rede bin ich als Berichterstatter veranlaßt, Ihnen, meine Damen und Herren, und damit zu Protokoll einen technischen Hinweis zu geben. Ich bitte, das ohne Zeitanrechnung zu gestatten.</p>
-          <p>Dieser technische Hinweis betrifft die im Ausschußbericht, Drucksache 13/5942, dargestellte Synopse zum Gesetzestext. Auf der Seite 10 muß in der Spalte "Beschlüsse des 10. Ausschusses"   64 i Abs. 2 wie folgt lauten:</p>
+          <p>Dieser technische Hinweis betrifft die im Ausschußbericht, Drucksache 13/5942, dargestellte Synopse zum Gesetzestext. Auf der Seite 10 muß in der Spalte "Beschlüsse des 10. Ausschusses" § 64 i Abs. 2 wie folgt lauten:</p>
           <p>Der Widerruf bedarf der Schriftform. Er muß spätestens drei Monate nach dem Eintritt der Rechtskraft der Feststellung erklärt werden. Zur Fristwahrung genügt die rechtzeitige Absendung der Widerrufserklärung.</p>
           <p>Da ist ein Satz, der aus der ersten Fassung erhalten werden soll, nicht mit in die Spalte der Beschlußfassung übernommen worden. Ich bitte dafür um Verständnis.</p>
           <p>Ich möchte jetzt mit meinem Beitrag beginnen.</p>
@@ -100,11 +100,11 @@
           <p>Ich danke Ihnen für Ihr Zuhören.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Das Wort hat jetzt der Kollege Gerald Thalheim.</p>
         </sp>
-        <sp who="Dr. Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gerald Thalheim">
+        <sp who="Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" who_original="Gerald Thalheim" party="SPD" name="Gerald Thalheim">
           <speaker>Dr. Gerald Thalheim (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine sehr geehrten Damen und Herren! Mit der 4. Novelle des Landwirtschaftsanpassungsgesetzes geht der Streit um das Vermögen der ehemaligen LPGs und dessen Verteilung in eine neue Runde. Kaum ein Gesetzentwurf der Koalitionsfraktionen ist auf so massiven Widerstand in den neuen Ländern gestoßen.</p>
           <stage type="interjection">(Horst Sielaff [SPD]: Das ist wohl wahr!)</stage>
@@ -136,22 +136,22 @@
           <stage type="interjection">(Beifall bei der F.D.P. -- Uwe Lühr [F.D.P.]: Das vertreten wir auch heute noch!)</stage>
           <p>Genau das ist die Gefahr, die gesehen wird.</p>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Thalheim, gestatten Sie eine Zwischenfrage des Kollegen Köhler?</p>
         </sp>
-        <sp who="Dr. Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gerald Thalheim">
+        <sp who="Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" who_original="Gerald Thalheim" party="SPD" name="Gerald Thalheim">
           <speaker>Dr. Gerald Thalheim (SPD):</speaker>
           <p>Aber bitte.</p>
         </sp>
-        <sp who="Hans-Ulrich Köhler" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hans-Ulrich Köhler">
+        <sp who="Hans-Ulrich Köhler (Hainspitz)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hans-Ulrich Köhler (Hainspitz)" party="CDU" name="Hans-Ulrich Köhler">
           <speaker>Hans-Ulrich Köhler (Hainspitz) (CDU/CSU):</speaker>
           <p>Herr Kollege Thalheim, können Sie zu Ihrer Aussage in der 23. Sitzung des Deutschen Bundestages, am 25. April 1991, als Sie von dem gleichen Rednerpult aus sprachen, Stellung nehmen? Ich zitiere:</p>
           <p>Vor allem die wenigen Wiedereinrichter von Familienbetrieben wurden in den meisten Fällen behindert. Auch wurde die Vermögensherausgabe bewußt verzögert. Während viele Vorsitzende bei wirtschaftlichen Entscheidungen sehr großzügig mit dem Geld umgingen, wurde bei der Vermögensherausgabe äußerst restriktiv vorgegangen.</p>
           <p>Würden Sie Ihre Aussage von damals bitte durch eine heutige Aussage korrigieren? Oder wie stehen Sie heute zu dem, was Sie damals gesagt haben?</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Das wird schwierig sein!)</stage>
         </sp>
-        <sp who="Dr. Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gerald Thalheim">
+        <sp who="Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" who_original="Gerald Thalheim" party="SPD" name="Gerald Thalheim">
           <speaker>Dr. Gerald Thalheim (SPD):</speaker>
           <p>Nein, das wird nicht schwierig sein.</p>
           <p>Herr Köhler, Sie greifen einem Teil meiner Rede vor. Wir haben bei der Beratung der Gesetzesnovelle zum Beispiel den Antrag gestellt:</p>
@@ -160,15 +160,15 @@
           <p>Was Sie heute in Ihrer Gesetzesnovelle vorsehen, ist nichts anderes als das, was wir damals vorgeschlagen haben. Herr Köhler, der große Unterschied ist -- hier kommen wir zu dem entscheidenden Punkt der Gesetzesnovelle --: Wir haben nicht mehr das Jahr 1991. Wir sind im Jahre 1996 angekommen. Das Problem der Gesetzesnovelle ist, daß Sie heute das neu aufrollen wollen, was sich 1990/91 abgespielt hat.</p>
           <p>Da Sie mir die Frage gestellt haben -- -- NA</p>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Thalheim, gestatten Sie noch eine weitere Zwischenfrage des Kollegen Carstensen?</p>
         </sp>
-        <sp who="Dr. Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gerald Thalheim">
+        <sp who="Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" who_original="Gerald Thalheim" party="SPD" name="Gerald Thalheim">
           <speaker>Dr. Gerald Thalheim (SPD):</speaker>
           <p>Aber bitte.</p>
         </sp>
-        <sp who="Peter Harry Carstensen" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Harry Carstensen">
+        <sp who="Peter Harry Carstensen" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Harry Carstensen (Nordstrand)" party="CDU" name="Peter H. Carstensen">
           <speaker>Peter Harry Carstensen (Nordstrand) (CDU/CSU):</speaker>
           <p>Herr Kollege Thalheim, auch ich habe dieses Zitat in der Hand. Es ist schon erstaunlich, daß Sie heute aus den Reden zitieren, die damals gehalten wurden, aber zum Beispiel nicht auf das eingehen, was gerade der Kollege Köhler gesagt hat.</p>
           <p>Darf ich Sie darauf hinweisen</p>
@@ -176,7 +176,7 @@
           <p>-- auf die Fragestellung "Darf ich Sie darauf hinweisen" kann der Kollege mit ja oder nein antworten --, daß Sie ebenfalls gesagt haben: "Der letzte Rest Vertrauen wurde so verspielt"? Sind Sie mit mir der Meinung, daß es seinerzeit offensichtlich notwendig war und heute genauso notwendig ist, eine gewisse Waffengleichheit bei der Auseinandersetzung zwischen denjenigen herzustellen, die nicht mehr in der Landwirtschaft tätig sind, die zum Teil in den Dörfern leben und arbeitslos sind, und denjenigen, die ihr Vermögen im Moment, ich sage einmal: bearbeiten?</p>
           <stage type="interjection">(Christel Deichmann [SPD]: Das ist eine späte Einsicht! Das wäre 1991 nötig gewesen!)</stage>
         </sp>
-        <sp who="Dr. Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gerald Thalheim">
+        <sp who="Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" who_original="Gerald Thalheim" party="SPD" name="Gerald Thalheim">
           <speaker>Dr. Gerald Thalheim (SPD):</speaker>
           <p>Herr Kollege Carstensen, auf Ihre Frage ist die gleiche Antwort zu geben wie auf die Frage von Herrn Köhler: 1991 wäre die Zeit gewesen, so zu reagieren. Leider haben Sie dies auch trotz unserer Hinweise nicht getan.</p>
           <p>Wir haben im übrigen den Vorwurf der Waffenungleichheit in unserer Kleinen Anfrage aus dem Jahr 1992 erhoben. Auf diesen Vorwurf hat die Bundesregierung geantwortet,</p>
@@ -188,18 +188,18 @@
           <p>Herr Kollege, wenn Kleine Anfragen einen Sinn machen, dann ist es der, von seiten der Opposition, der Regierung und den Koalitionsparteien einmal einen Fingerzeig zu geben, wo Korrekturbedarf besteht. Ich wiederhole mich: Hätte man dies 1992 getan, hätten Sie in diesem Punkt sicher auch auf unserer Seite Zustimmung gefunden. Aber zwischenzeitlich, seit 1992, sind vier Jahre vergangen. Wir stehen am Ende des Prozesses und nicht am Anfang, wie Sie immer wieder glauben machen wollen.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Thalheim, gestatten Sie eine weitere Zwischenfrage des Kollegen Junghanns? -- Bitte.</p>
         </sp>
-        <sp who="Ulrich Junghanns" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ulrich Junghanns">
+        <sp who="Ulrich Junghanns" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ulrich Junghanns" party="CDU" name="Ulrich Junghanns">
           <speaker>Ulrich Junghanns (CDU/CSU):</speaker>
           <p>Herr Dr. Thalheim, es handelt sich um eine sehr komplizierte Materie. Aber wenn Sie die Zusammenhänge falsch verknüpfen, dann muß ich Sie fragen: Nehmen Sie zur Kenntnis, daß das von Ihnen damals vorgeschlagene Aufsichtsgremium -- --</p>
           <stage type="interjection">(Zurufe von der SPD: Frage!)</stage>
           <p>-- Wollen Sie bitte zur Kenntnis nehmen, daß die damals von Ihnen vorgeschlagenen Aufsichtsgremien den zivilrechtlichen Weg im Streitfall nicht ausgeschlossen hätten? Zweitens: Wollen Sie bitte zur Kenntnis nehmen, daß die in dem vorliegenden Gesetzentwurf vorgesehenen verfahrensrechtlichen Änderungen für die Anspruchsberechtigten keine zwingenden Vorschriften darstellen?</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Eine Möglichkeit!)</stage>
         </sp>
-        <sp who="Dr. Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gerald Thalheim">
+        <sp who="Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" who_original="Gerald Thalheim" party="SPD" name="Gerald Thalheim">
           <speaker>Dr. Gerald Thalheim (SPD):</speaker>
           <p>Herr Kollege Junghanns, es handelte sich 1991 um einen Gesetzentwurf der Koalitionsfraktionen. Als junger Abgeordneter aus den neuen Ländern -- ich war ein halbes Jahr hier --</p>
           <stage type="interjection">(Peter Harry Carstensen [Nordstrand] [CDU/CSU]: Das waren wir alle mal!)</stage>
@@ -220,44 +220,44 @@
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Der Deutsche Bundestag hatte am 3. Oktober oder danach die Möglichkeit, hier Korrekturen vorzunehmen. Es ist bezeichnend, daß Sie erst im Frühjahr dieses Jahres, als das berühmte Fell des Bären längst verteilt war, bereit waren, diese Korrekturen vorzunehmen. Wir wollen an diesem Punkt einmal bei der Wahrheit bleiben.</p>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Thalheim, gestatten Sie eine Zwischenfrage der Kollegin Deichmann?</p>
         </sp>
-        <sp who="Dr. Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gerald Thalheim">
+        <sp who="Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" who_original="Gerald Thalheim" party="SPD" name="Gerald Thalheim">
           <speaker>Dr. Gerald Thalheim (SPD):</speaker>
           <p>Ja, bitte.</p>
         </sp>
-        <sp who="Christel Deichmann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Christel Deichmann">
+        <sp who="Christel Deichmann" parliamentary_group="SPD" role="mp" position="NA" who_original="Christel Deichmann" party="SPD" name="Christel Deichmann">
           <speaker>Christel Deichmann (SPD):</speaker>
           <p>Herr Kollege Thalheim, stimmen Sie mir zu, wenn ich sage, daß diese späte Regelung in bezug auf Kiese und Sande unter den Ackerflächen kein Versäumnis, sondern politischer Wille war?</p>
         </sp>
-        <sp who="Dr. Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gerald Thalheim">
+        <sp who="Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" who_original="Gerald Thalheim" party="SPD" name="Gerald Thalheim">
           <speaker>Dr. Gerald Thalheim (SPD):</speaker>
           <p>Natürlich war das politischer Wille. Erst als die Lagerstätten an Heidelberger Zement, Bilfinger und Berger und wie sie alle heißen, verkauft waren, ist die Gesetzesänderung gekommen. Die Industrie hat grünes Licht gegeben: Wir haben, was wir brauchten; jetzt könnt ihr zuschlagen.</p>
           <stage type="interjection">(Beifall bei der SPD und der PDS sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN -- Ulrich Heinrich [F.D.P.]: Diese Aussage ist unglaublich!)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Thalheim, das hat die nächste Zwischenfrage ausgelöst.</p>
         </sp>
-        <sp who="Dr. Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gerald Thalheim">
+        <sp who="Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" who_original="Gerald Thalheim" party="SPD" name="Gerald Thalheim">
           <speaker>Dr. Gerald Thalheim (SPD):</speaker>
           <p>Ja, bitte.</p>
         </sp>
-        <sp who="Ulrich Junghanns" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ulrich Junghanns">
+        <sp who="Ulrich Junghanns" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ulrich Junghanns" party="CDU" name="Ulrich Junghanns">
           <speaker>Ulrich Junghanns (CDU/CSU):</speaker>
           <p>Weil wir über die Flächen zum Kies kommen, möchte ich Sie fragen, ob Sie zur Kenntnis nehmen wollen, daß im Land Brandenburg weit über 80 Prozent der Entscheidungen für den Verkauf bzw. für Zugeständnisse in dieser Richtung getätigt worden sind, währenddessen sie im Land Thüringen mit Blick auf die damals bevorstehende Gesetzesnovelle ausgesetzt worden sind.</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Hören Sie gut zu, Herr Thalheim!)</stage>
         </sp>
-        <sp who="Dr. Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gerald Thalheim">
+        <sp who="Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" who_original="Gerald Thalheim" party="SPD" name="Gerald Thalheim">
           <speaker>Dr. Gerald Thalheim (SPD):</speaker>
           <p>Herr Kollege Junghanns, selbstverständlich gibt es an der Stelle einen Interessenkonflikt. Am Ende bin auch ich der Meinung, daß die Volkskammer aus diesen Gründen damals so entschieden hat. Nur, wenn wir entlang des Rechts argumentieren, was wir hier heute machen -- Kollege Heinrich, ich erinnere mich an die Diskussion zum Entschädigungs- und Ausgleichsleistungsgesetz --, und Art. 14 zur Kernfrage erheben, können wir, wenn es um die Abwägung von Privateigentum und wirtschaftlichen Interessen geht, nicht anders entscheiden. Auf nichts anderes wollte ich aufmerksam machen.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Ich habe darauf hingewiesen: Mit fragwürdigen Begründungen wollen Sie korrigierend in einen Prozeß eingreifen, dessen Auswirkungen zwar bis heute spürbar sind, der sich aber im Jahre 1990 und danach abgespielt hat. In dieser Zeit sind in unzähligen Gesprächen im Rahmen langwieriger Auseinandersetzungen in einem mühevollen Prozeß Vereinbarungen getroffen worden. Natürlich, Herr Kollege Hornung, waren das oft Kompromisse. Aber an diesen Kompromissen haben in vielen Fällen die Clearingstellen der Länder, Vermittlungsausschüsse, mitgewirkt.</p>
           <p>Den Vereinbarungen, die getroffen wurden, lagen in vielen Fällen Gerichtsentscheidungen zugrunde. Man hat also im außergerichtlichen Rahmen gerichtliche Vergleiche nachgeholt. Insofern ist es sehr bedenklich, das alles heute in Frage zu stellen. Das Gegenteil wäre richtig: sich auf die offenen Fälle zu konzentrieren.</p>
           <stage type="interjection">(Siegfried Hornung [CDU/CSU]: Da müßte ein ganz schlechtes Gewissen da sein!)</stage>
-          <p>Ich darf auf einen weiteren Punkt zu sprechen kommen. Im Kern liegt der Gesetzesnovelle die These zugrunde, daß das Eigenkapital der ehemaligen LPG zu niedrig bewertet wurde und demzufolge nach   44 ausgeschiedenen Mitgliedern in enormem Umfang Vermögenswerte vorenthalten wurden. Am weitesten ging dabei immer die FAZ, die von bis zu 60 Milliarden DM sprach. Einen Beweis für diese These sind bisher alle schuldig geblieben. Im Gegenteil: In der Ausschußberatung haben Sie sich geweigert, auch nur schätzungsweise eine Zahl zu nennen, was Sie damit begründet haben, daß das nicht mit der Fragestellung des Gesetzes im Zusammenhang steht.</p>
+          <p>Ich darf auf einen weiteren Punkt zu sprechen kommen. Im Kern liegt der Gesetzesnovelle die These zugrunde, daß das Eigenkapital der ehemaligen LPG zu niedrig bewertet wurde und demzufolge nach § 44 ausgeschiedenen Mitgliedern in enormem Umfang Vermögenswerte vorenthalten wurden. Am weitesten ging dabei immer die FAZ, die von bis zu 60 Milliarden DM sprach. Einen Beweis für diese These sind bisher alle schuldig geblieben. Im Gegenteil: In der Ausschußberatung haben Sie sich geweigert, auch nur schätzungsweise eine Zahl zu nennen, was Sie damit begründet haben, daß das nicht mit der Fragestellung des Gesetzes im Zusammenhang steht.</p>
           <p>Herr Junghanns, Sie haben das hier heute wiederholt. Ich möchte Sie noch mal fragen: Wenn am Ende ausgeschiedene Mitglieder nicht mehr erhalten sollen, warum machen wir das Ganze überhaupt? Sie wollen ein Gesetz mit erheblichen Folgewirkungen, Prozessen usw. Am Ende kommt heraus: Es gibt für die Betroffenen zwar das gleiche, aber der Rechenweg war richtig. Das wäre die Quintessenz des Gesetzes. Das kann man nicht machen, weil man damit mehr in Frage stellt. Vor allem: Das Ergebnis steht erst am Ende. Das Problem ist der Prozeß, zu diesem Ergebnis zu kommen.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der PDS -- Ulrich Junghanns [CDU/CSU]: Sie haben nicht zugehört!)</stage>
           <p>Vor allem ist es eine gefährliche Illusion, die hiermit geweckt wird. Ich räume ein: Im Einzelfall mag das herauskommen. In vielen Fällen dürfte aber das Gegenteil eintreten: daß sich herausstellt, daß das Vermögen zu hoch bewertet wurde, was die Finanzämter bei den derzeitigen Betriebsprüfungen vielerorts feststellen. Sie verlangen, daß das Vermögen von damals abgewertet wird.</p>
@@ -279,11 +279,11 @@
           <p>Besten Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der PDS sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Als nächste Rednerin die Kollegin Steffi Lemke.</p>
         </sp>
-        <sp who="Steffi Lemke" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Steffi Lemke">
+        <sp who="Steffi Lemke" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Steffi Lemke" party="GRUENE" name="Steffi Lemke">
           <speaker>Steffi Lemke (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Verehrte Kolleginnen und Kollegen! Das noch von der Volkskammer der DDR verabschiedete Landwirtschaftsanpassungsgesetz verfolgte ursprünglich die Ziele der Wiederherstellung des Privateigentums an Grund und Boden und der Personifizierung des LPG-Vermögens sowie die Entwicklung einer vielfältig strukturierten Landwirtschaft verschiedener Eigentums- und Wirtschaftsformen.</p>
           <p>Zitat aus dem Kommentar zum Gesetz 1990:</p>
@@ -305,11 +305,11 @@
           <p>Diese Problematik als einen Bestandteil des Einigungsprozesses zwischen DDR und BRD alt zu begreifen und endlich zu akzeptieren, haben verschiedene Interessengruppen offensichtlich noch immer vor sich.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Als nächster spricht der Kollege Jürgen Türk.</p>
         </sp>
-        <sp who="Jürgen Türk" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Jürgen Türk">
+        <sp who="Jürgen Türk" parliamentary_group="FDP" role="mp" position="NA" who_original="Jürgen Türk" party="FDP" name="Jürgen Türk">
           <speaker>Jürgen Türk (F.D.P.):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine lieben Kolleginnen und Kollegen! Lieber Kollege Thalheim, wenn Sie den ersten Entwurf kritisiert hätten, dann hätten Sie mich im Boot gehabt. Sie haben jetzt aber einen zweiten Entwurf auf dem Tisch, und auf den sind Sie nicht eingegangen. Sie spielen leichtfertig mit den Ängsten der Menschen. Ich finde das wirklich unseriös.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
@@ -325,22 +325,22 @@
           <p>Eine weitere Empfehlung der ostdeutschen Länder war, daß die Novelle enthält, daß Rechtsfolgen erst bei Überschreitung von mindestens 25 Prozent hinnehmbar sind und daß die Prozeßkosten nach Billigkeit geteilt werden. Letztlich forderten die neuen Bundesländer, daß bei einer Neuregelung zur Abberufung von Liquidatoren ein Quorum von mindestens 5 Prozent der Mitglieder notwendig ist.</p>
           <p>Ich glaube, das sind und waren alles berechtigte Forderungen, die bei der Änderung der Novelle zu berücksichtigen waren, um den landwirtschaftlichen Betrieben nicht die zugesicherten Entwicklungschancen zu nehmen, geschweige denn, sie zu zerschlagen, wie es viele Nachfolgeeinrichtungen befürchtet haben. Ich darf anmerken: Diesen Ärger hätten wir uns wirklich ersparen können, wenn der Entwurf mit den Betroffenen sofort abgestimmt worden wäre.</p>
           <p>Über dieses Positionspapier der ostdeutschen Länder hinaus erfolgten -- wenn auch spät -- weitere Abstimmungen sowie eine Anhörung am 23. September 1996 im Bundestag. In einer internen Anhörung der F.D.P. am 14. Oktober 1996 in Potsdam, in der Vertreter der Nachfolgeeinrichtungen, Wiedereinrichter und ehemalige Mitglieder aus ganz Ostdeutschland mit der Brandenburger F.D.P. und mit der F.D.P.-Bundestagsfraktion in Dialog traten, kam folgendes heraus: Es gibt Übervorteilung, also Benachteiligung, von ehemaligen Mitgliedern. Hier muß eine Vermögensauseinandersetzung erfolgen und durchgestanden werden. Es darf aber keine pauschale Kriminalisierung und damit Existenzbedrohung der Nachfolgeeinrichtungen geben. Dort aber, wo es Betrug gab, darf es nicht unter den Teppich gekehrt werden. Das betone ich hier noch einmal ausdrücklich.</p>
-          <stage type="interjection">(Beifall bei der F.D.P.) </stage>
+          <stage type="interjection">(Beifall bei der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Türk, gestatten Sie eine Zwischenfrage?</p>
         </sp>
-        <sp who="Jürgen Türk" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Jürgen Türk">
+        <sp who="Jürgen Türk" parliamentary_group="FDP" role="mp" position="NA" who_original="Jürgen Türk" party="FDP" name="Jürgen Türk">
           <speaker>Jürgen Türk (F.D.P.):</speaker>
           <p>Ja, bitte.</p>
         </sp>
-        <sp who="Ernst Bahr" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ernst Bahr">
+        <sp who="Ernst Bahr" parliamentary_group="SPD" role="mp" position="NA" who_original="Ernst Bahr" party="SPD" name="Ernst Bahr">
           <speaker>Ernst Bahr (SPD):</speaker>
           <p>Herr Kollege Türk, Sie beklagen, daß Herr Thalheim nicht auf Ihren Vorschlag eingegangen wäre. Sie haben da wahrscheinlich nicht zugehört. Aber Sie stellen es hier so dar, als hätten Sie den ursprünglichen Fehler, den Gesetzentwurf auch innerhalb Ihrer Partei nicht entsprechend beraten zu haben, geheilt. Wenn ich hier aber höre, daß Ihr Landeschef in Mecklenburg-Vorpommern heute noch beklagt, daß dieses Gesetz von der F.D.P. nicht mitgetragen wird, und sagt, mit diesem Gesetz könnten die Liberalen nicht leben, dann zeigt das doch, daß es immer noch Abstimmungsprobleme geben muß. Es ist schon verwunderlich, wenn Sie ignorieren, in welcher Weise die Proteste in Ostdeutschland von der parlamentarischen Mehrheit dieses Hauses überhört und sogar übergangen werden.</p>
           <p>Wie bewerten Sie die Haltung der F.D.P. in Ostdeutschland zu diesem Gesetz?</p>
         </sp>
-        <sp who="Jürgen Türk" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Jürgen Türk">
+        <sp who="Jürgen Türk" parliamentary_group="FDP" role="mp" position="NA" who_original="Jürgen Türk" party="FDP" name="Jürgen Türk">
           <speaker>Jürgen Türk (F.D.P.):</speaker>
           <p>Erstens ist der F.D.P.-Chef in Mecklenburg-Vorpommern nicht mein Chef, weil ich Brandenburger bin.</p>
           <p>Zweitens habe ich gestern trotzdem mit dem Chef der Brandenburger F.D.P. gesprochen. Wir haben eindeutig klargemacht, daß der jetzt vorliegende Entwurf alle Forderungen berücksichtigt. Das gleiche hat auch der Chef der mecklenburg-vorpommerschen F.D.P. einer Zeitung gegenüber klargemacht. Das ist jedenfalls mein Informationsstand.</p>
@@ -352,22 +352,22 @@
           <p>Es entspricht einem F.D.P.-Wunsch, daß berufsständische Verbände nicht antragsberechtigt sind. Eine Verbandsklage wird es deshalb auch nicht geben. Ich weiß also nicht, wo da Ihre Kritik liegt.</p>
           <p>Kosten des Verfahrens werden nach dem Maßstab der Billigkeit auferlegt. Auch das war ein anstehendes Problem; das ist gelöst. Es wird also keine Kostenzuweisung nur zu Lasten der Nachfolgeeinrichtungen geben.</p>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Türk, kommen Sie bitte zum Ende.</p>
         </sp>
-        <sp who="Jürgen Türk" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Jürgen Türk">
+        <sp who="Jürgen Türk" parliamentary_group="FDP" role="mp" position="NA" who_original="Jürgen Türk" party="FDP" name="Jürgen Türk">
           <speaker>Jürgen Türk (F.D.P.):</speaker>
           <p>Ja.</p>
           <p>Ich sagte schon, wir wollen, daß hier Gerechtigkeit herrscht, daß die Anspruchsberechtigten zu ihrem Recht kommen, daß sich aber auch die Nachfolgeeinrichtungen weiterentwickeln können. Genau das wird mit diesem veränderten Entwurf der Novelle erreicht. Wir glauben, daß gerade der Friede in den Dörfern -- von dem immer so viel gesprochen wird -- erst erreicht werden kann, wenn diese Novelle durchgesetzt worden ist.</p>
           <p>Ich bedanke mich für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Das Wort hat der Abgeordnete Dr. Günther Maleuda.</p>
         </sp>
-        <sp who="Dr. Günther Maleuda" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Günther Maleuda">
+        <sp who="Günther Maleuda" parliamentary_group="PDS" role="mp" position="NA" who_original="Günther Maleuda" party="PDS" name="Günther Maleuda">
           <speaker>Dr. Günther Maleuda (PDS):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine Damen und Herren! In allen Fraktionen und in der Abgeordnetengruppe des Hohen Hauses sind Abgeordnete anwesend, die am 29. Juni 1990 das Landwirtschaftsanpassungsgesetz in der Volkskammer der DDR mitbeschlossen haben. Es war eine Beschlußfassung, die ohne Gegenstimmen einen Weg eingeleitet hat, der zu einer privatrechtlichen Umgestaltung in der Landwirtschaft und zum Übergang der LPG in neue Betriebsformen geführt hat.</p>
           <p>Diese fraktions- und parteiübergreifende Position gibt es hier heute bei der Beratung und Beschlußfassung der Vierten Novelle leider nicht, obwohl wir noch im Mai etwa im Ausschuß für Ernährung, Landwirtschaft und Forsten eine Kompromißposition hatten, die zu einer übereinstimmenden Regelung geführt hätte.</p>
@@ -380,37 +380,37 @@
           <p>In den letzten Wochen und Monaten wurde aber eine Atmosphäre geschaffen, die letztlich auch zu dieser vierten Novelle geführt hat. Da wird von flächendeckenden Bilanzfälschungen gesprochen. Da wird den LPG-Vorständen und -Vorsitzenden nachgesagt, sie hätten 20, 30 bis 40 Milliarden DM als Betrugsmasse eingesetzt. Die Arbeit der Landesregierungen, die Arbeit von Staatsanwaltschaften und Gerichten wird in Frage gestellt, und es wird von Seilschaften gesprochen.</p>
           <p>In dieser Atmosphäre ist letzten Endes eine sehr breite Diskussion geführt worden, vor allem in den ostdeutschen Ländern.</p>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Dr. Maleuda, gestatten Sie eine Zwischenfrage des Abgeordneten Carstensen?</p>
         </sp>
-        <sp who="Dr. Günther Maleuda" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Günther Maleuda">
+        <sp who="Günther Maleuda" parliamentary_group="PDS" role="mp" position="NA" who_original="Günther Maleuda" party="PDS" name="Günther Maleuda">
           <speaker>Dr. Günther Maleuda (PDS):</speaker>
           <p>Ja bitte, Herr Carstensen.</p>
         </sp>
-        <sp who="Peter Harry Carstensen" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Harry Carstensen">
+        <sp who="Peter Harry Carstensen" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Harry Carstensen (Nordstrand)" party="CDU" name="Peter H. Carstensen">
           <speaker>Peter Harry Carstensen (Nordstrand) (CDU/CSU):</speaker>
           <p>Herr Kollege Maleuda, können Sie bestätigen, daß diese Aussagen in keiner der vielen Sitzungen des Ausschusses, weder in der Anhörung noch in der Debatte, gefallen sind und daß sie nie Grundlage für die Debatten im parlamentarischen Raum und für die Gesetzesinitiative gewesen sind?</p>
           <stage type="interjection">(Vorsitz: Vizepräsidentin Dr. Antje Vollmer)</stage>
         </sp>
-        <sp who="Dr. Günther Maleuda" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Günther Maleuda">
+        <sp who="Günther Maleuda" parliamentary_group="PDS" role="mp" position="NA" who_original="Günther Maleuda" party="PDS" name="Günther Maleuda">
           <speaker>Dr. Günther Maleuda (PDS):</speaker>
           <p>Herr Carstensen, ich verweise beispielsweise auf eine Diskussion, die wir mit Rechtsanwalt Kuchs hatten. Nicht nur in diesem Gespräch sind vor allem die großen Zweifel in bezug auf die Arbeit der Landesregierungen, der Staats- anwaltschaften und der Gerichte angedeutet worden. Es gab sogar die konkrete Aussage in Richtung "Seilschaften". Meinungen und Auffassungen des Präsidenten und der Mitglieder des Deutschen Landvolk-Verbandes unterstreichen dies.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Gestatten Sie eine zweite Zwischenfrage?</p>
         </sp>
-        <sp who="Dr. Günther Maleuda" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Günther Maleuda">
+        <sp who="Günther Maleuda" parliamentary_group="PDS" role="mp" position="NA" who_original="Günther Maleuda" party="PDS" name="Günther Maleuda">
           <speaker>Dr. Günther Maleuda (PDS):</speaker>
           <p>Bitte.</p>
         </sp>
-        <sp who="Peter Harry Carstensen" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Harry Carstensen">
+        <sp who="Peter Harry Carstensen" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Harry Carstensen (Nordstrand)" party="CDU" name="Peter H. Carstensen">
           <speaker>Peter Harry Carstensen (Nordstrand) (CDU/CSU):</speaker>
           <p>Herr Kollege Maleuda, ich möchte etwas präziser fragen. Können Sie bestätigen, daß die Äußerungen über die Zahlen und über die Begründung von Aktivitäten, die Sie gerade gemacht haben, nie die Diskussionsgrundlage von Kolleginnen und Kollegen, von welcher Fraktion auch immer, in der Debatte um dieses Landwirtschaftsanpassungsgesetz gewesen war?</p>
         </sp>
-        <sp who="Dr. Günther Maleuda" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Günther Maleuda">
+        <sp who="Günther Maleuda" parliamentary_group="PDS" role="mp" position="NA" who_original="Günther Maleuda" party="PDS" name="Günther Maleuda">
           <speaker>Dr. Günther Maleuda (PDS):</speaker>
           <p>Diese Zahlen sind von den Mitgliedern des Ausschusses nie genannt worden.</p>
           <stage type="interjection">(Peter Harry Carstensen [Nordstrand] [CDU/CSU]: Danke schön!)</stage>
@@ -426,20 +426,20 @@
           <stage type="interjection">(Beifall bei der PDS)</stage>
           <p>Die Abgeordnetengruppe der PDS folgt der mehrheitlichen Auffassung in den ostdeutschen Ländern. Die vorhandenen gesetzlichen Regelungen der dritten Novelle reichen aus, um auch die strittigen Probleme einer Entscheidung zuzuführen. Unter diesem Gesichtspunkt lehnen wir diesen Gesetzentwurf ab.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Kollege Maleuda, Sie müssen zum Schluß kommen.</p>
         </sp>
-        <sp who="Dr. Günther Maleuda" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Günther Maleuda">
+        <sp who="Günther Maleuda" parliamentary_group="PDS" role="mp" position="NA" who_original="Günther Maleuda" party="PDS" name="Günther Maleuda">
           <speaker>Dr. Günther Maleuda (PDS):</speaker>
           <p>Bedenken haben wir auch gegen die Formulierungen im Gesetzentwurf der SPD und der Grünen, daß neue Verfahren eingeleitet werden können. Wir wären sehr dafür, daß wir bei dem Stand der dritten Novelle bleiben.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Dr. Michael Luther.</p>
         </sp>
-        <sp who="Dr. Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Luther">
+        <sp who="Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Luther" party="CDU" name="Michael Luther">
           <speaker>Dr. Michael Luther (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine Damen und Herren! Ich möchte mit einigen Gedanken und Zitaten beginnen, die in einer Debatte vom Juni dieses Jahres über die von der Koalition vorgelegte vierte Novelle zum Landwirtschaftsanpassungsgesetz zum Ausdruck gebracht wurden. Der Redner freute sich in dieser Debatte, daß das Drängen nach einer Novellierung des LAG nun endlich Früchte trägt. Drei Punkte waren ihm wichtig -- ich zitiere --:</p>
           <p>Zum einen geht es um die Verlängerung der Verjährungsfrist für alle Abfindungs- und Ausgleichsansprüche von fünf auf zehn Jahre. Zweitens geht es um die Einführung eines gerichtlichen Verfahrens zur Bündelung und gemeinsamen Entscheidung aller Streitfragen im Zusammenhang mit der Ermittlung des abfindungsrelevanten Eigenkapitals. Drittens geht es um die Erleichterung der gerichtlichen Abberufung von Liquidatoren.</p>
@@ -457,38 +457,38 @@
           <p>Deshalb freue ich mich, daß wir nunmehr nach Diskussionen im Landwirtschafts- und im Rechtsausschuß genau den Wünschen jenes in der Praxis der Umsetzung des Landwirtschaftsanpassungsgesetzes erfahrenen Mannes, also des sächsischen Staatsministers für Landwirtschaft, Ernährung und Forsten, Herrn Dr. Jähnichen, entsprechen konnten.</p>
           <p>Zur Historie will ich nur soviel sagen: Der erste Antrag führte zu Irritationen. Diese haben wir im parlamentarischen Verfahren beseitigt, was letztendlich nur beweist, daß das Parlament, also wir als Souverän, in der Lage sind, konstruktiv zu beraten, einen eigenen politischen Willen zu formulieren und diesen auch umzusetzen.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Kollege Luther, gestatten Sie eine Zwischenfrage des Kollegen Thalheim?</p>
         </sp>
-        <sp who="Dr. Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Luther">
+        <sp who="Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Luther" party="CDU" name="Michael Luther">
           <speaker>Dr. Michael Luther (CDU/CSU):</speaker>
           <p>Aber gerne.</p>
         </sp>
-        <sp who="Dr. Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gerald Thalheim">
+        <sp who="Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" who_original="Gerald Thalheim" party="SPD" name="Gerald Thalheim">
           <speaker>Dr. Gerald Thalheim (SPD):</speaker>
           <p>Herr Dr. Luther, sind Sie bereit, zur Kenntnis zu nehmen, daß es gerade der sächsische Landwirtschaftsminister Dr. Jähnichen ist, der sich von Ihrem Gesetzentwurf auch in der jetzigen Fassung distanziert hat? Er besteht lediglich noch auf einer Verlängerung der Verjährungsfrist und der Abberufung der Liquidatoren und will dieses Sammelverfahren, das Sie soeben verteidigt haben, und die Kündigung der Vereinbarung nicht mehr. Insofern ist es der Falsche, den Sie zitieren. Können Sie das bestätigen?</p>
         </sp>
-        <sp who="Dr. Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Luther">
+        <sp who="Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Luther" party="CDU" name="Michael Luther">
           <speaker>Dr. Michael Luther (CDU/CSU):</speaker>
           <p>Herr Thalheim, ich habe den sächsischen Landwirtschaftsminister in einer Rede vom Juni dieses Jahres zitiert. Ich habe auch zitiert, was er gesagt und gefordert hat. Warum dieses Sammelverfahren nur in einer solchen Form, wie wir sie vorgesehen haben, durchzuführen ist, werde ich im Laufe meiner Rede noch begründen und möchte deswegen an dieser Stelle darauf verzichten.</p>
           <stage type="interjection">(Dr. Gerald Thalheim [SPD]: Zitieren Sie doch künftig mit Verfallsdatum!)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Gestatten Sie auch eine Zwischenfrage des Kollegen Bahr?</p>
         </sp>
-        <sp who="Dr. Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Luther">
+        <sp who="Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Luther" party="CDU" name="Michael Luther">
           <speaker>Dr. Michael Luther (CDU/CSU):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Ernst Bahr" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ernst Bahr">
+        <sp who="Ernst Bahr" parliamentary_group="SPD" role="mp" position="NA" who_original="Ernst Bahr" party="SPD" name="Ernst Bahr">
           <speaker>Ernst Bahr (SPD):</speaker>
           <p>Herr Kollege Luther, Sie sprechen von einem mißglückten Antrag, den Sie eingebracht hatten. Fühlen Sie sich denn heute in der Lage, wirklich zu begründen, warum diese Novelle nun immer noch notwendig ist? Denn Sie sind ja bisher insgesamt schuldig geblieben, klarzustellen, daß eine Begründung notwendig ist.</p>
           <stage type="interjection">(Beifall bei der SPD und der PDS sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
           <p>Das ist bisher überhaupt noch nicht geschehen. Fühlen Sie sich auch in der Lage, nicht nur zu begründen, daß diese Novelle notwendig ist, sondern auch festzustellen, daß die Proteste, die bei den Betroffenen in Ostdeutschland quer durch alle Parteien noch vehement anhalten und weiter anhalten werden, damit als erledigt angesehen werden können?</p>
         </sp>
-        <sp who="Dr. Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Luther">
+        <sp who="Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Luther" party="CDU" name="Michael Luther">
           <speaker>Dr. Michael Luther (CDU/CSU):</speaker>
           <p>Zum einen will ich die Notwendigkeit begründen; das werde ich gleich tun. Vorweg will ich Ihre Frage zu dem Thema der Proteste aufgreifen. Der erste Entwurf, der in das Parlament eingebracht wurde, enthielt eine Reihe von Elementen, die jetzt dort nicht mehr stehen, weil sie zu Irritationen geführt haben.</p>
           <stage type="interjection">(Horst Sielaff [SPD]: Wer hat den Entwurf denn eingebracht? Und warum?)</stage>
@@ -502,29 +502,29 @@
           <p>Diese vier Punkte sind im Gesetz geändert worden. Demzufolge sind viele von den Aufregungen und von den Demonstrationen fehl am Platze. Das Gesetz hat heute eine sehr gute und qualifizierte Form, und die Landwirtschaft in den neuen Bundesländern kann sehr gut damit leben.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Gestatten Sie auch eine Zwischenfrage der Kollegin Deichmann?</p>
         </sp>
-        <sp who="Dr. Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Luther">
+        <sp who="Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Luther" party="CDU" name="Michael Luther">
           <speaker>Dr. Michael Luther (CDU/CSU):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Christel Deichmann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Christel Deichmann">
+        <sp who="Christel Deichmann" parliamentary_group="SPD" role="mp" position="NA" who_original="Christel Deichmann" party="SPD" name="Christel Deichmann">
           <speaker>Christel Deichmann (SPD):</speaker>
           <p>Herr Kollege Luther, Sie sagen, die Knackpunkte seien in dem Gesetzentwurf jetzt geändert. Wie erklären Sie dann, daß die Vertreter der Bauernverbände der fünf neuen Bundesländer am Dienstag dieser Woche hier in Bonn waren und Ihrem Fraktionsvorsitzenden Herrn Dr. Schäuble eine Liste mit Unterschriften übergeben wollten, die sie dann Mitgliedern des Landwirtschaftsausschusses übergeben haben? Wie erklären Sie sich, daß es bei dem Berufsstand immer noch Protest gibt?</p>
           <stage type="interjection">(Zuruf von der F.D.P.: Das war noch der alte Stand!)</stage>
         </sp>
-        <sp who="Dr. Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Luther">
+        <sp who="Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Luther" party="CDU" name="Michael Luther">
           <speaker>Dr. Michael Luther (CDU/CSU):</speaker>
           <p>Ich verstehe den Protest auch als ein Stück Sorge. Das hat natürlich etwas mit der Debatte des letzten halben Jahres zu tun.</p>
           <p>Aber vielleicht sollte ich jetzt zu meiner Rede zurückkommen, damit ich das Problem, das noch im Raum steht, nämlich das Sammelverfahren, erläutern kann. Dann werden viele von den Sorgen, die vorgetragen werden, nicht mehr ihre Berechtigung haben.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Der Herr Kollege Bahr wollte noch eine Nachfrage stellen. Wollen Sie diese nicht mehr zulassen?</p>
         </sp>
-        <sp who="Dr. Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Luther">
+        <sp who="Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Luther" party="CDU" name="Michael Luther">
           <speaker>Dr. Michael Luther (CDU/CSU):</speaker>
           <p>Nein, ich möchte fortfahren.</p>
           <p>Ich hatte die vier Punkte aufgezählt, die im Gesetz geändert worden sind. Ich glaube, das ist denjenigen unlieb, die eigentlich etwas anderes wollen. Sie wollen nämlich aus dieser Gesetzesnovellierung politisches Kapital schlagen. Sie wollen letztendlich Horrornachrichten verbreiten und die Menschen damit verunsichern.</p>
@@ -542,11 +542,11 @@
           <p>Wer also die Verlängerung der Verjährungsfristen erreichen möchte, muß mehr tun. Darum hat sich die Koalition bemüht. Die Koalition hat sich dieser Aufgabe gestellt. Die Kritiker des Sammelverfahrens mögen zuerst die von mir aufgeworfenen Fragen beantworten. Die Meckerer sollten lieber ruhig sein. Ich hoffe, daß dieses Gesetz ein Beitrag zur Findung von Gerechtigkeit sein wird und daß es auch die notwendige Ruhe in die ostdeutsche Landwirtschaft bringt.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Wieland Sorge.</p>
         </sp>
-        <sp who="Wieland Sorge" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wieland Sorge">
+        <sp who="Wieland Sorge" parliamentary_group="SPD" role="mp" position="NA" who_original="Wieland Sorge" party="SPD" name="Wieland Sorge">
           <speaker>Wieland Sorge (SPD):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Lieber Herr Junghanns, Sie haben gesagt, daß die SPD ungerechtfertigte Angriffe auf die vierte Novelle des Landwirtschaftsanpassungsgesetzes erhoben hat. Deshalb möchte ich mich bei meinen Ausführungen ausschließlich auf Beurteilungen aus der CDU beschränken.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
@@ -560,15 +560,15 @@
           <p>Vor dem Hintergrund der Konkurrenz überlegen in den alten Bundesländern manche, wie sie den Erfolg im Osten etwas herunterspielen können.</p>
           <p>In weiser Voraussicht warnen Sie vor neuen Verteilungskämpfen -- -- NA</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Kollege Sorge, gestatten Sie eine Zwischenfrage des Kollegen Türk? -- Bitte.</p>
         </sp>
-        <sp who="Jürgen Türk" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Jürgen Türk">
+        <sp who="Jürgen Türk" parliamentary_group="FDP" role="mp" position="NA" who_original="Jürgen Türk" party="FDP" name="Jürgen Türk">
           <speaker>Jürgen Türk (F.D.P.):</speaker>
           <p>Lieber Kollege Wieland Sorge, bist du bereit, zur Kenntnis zu nehmen, daß der vorliegende Gesetzentwurf, über den wir heute eigentlich sprechen sollten und wollten, dem Positionspapier der ostdeutschen Länder vom 26. August 1996 voll entspricht? Bist du auch bereit, zur Kennntnis zu nehmen, daß er auch den Forderungen der SPD nach dem Wegfall der Verbandsklage -- sie ist entfallen --, nach einer nicht einseitigen Kostenregelung zu Lasten der Nachfolgeeinrichtung -- das ist jetzt anders und besser geregelt -- und nach Veränderungen beim Widerrufsrecht entspricht? Auch hier sind Veränderungen erfolgt. Bist du bereit, dies zur Kenntnis zu nehmen?</p>
         </sp>
-        <sp who="Wieland Sorge" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wieland Sorge">
+        <sp who="Wieland Sorge" parliamentary_group="SPD" role="mp" position="NA" who_original="Wieland Sorge" party="SPD" name="Wieland Sorge">
           <speaker>Wieland Sorge (SPD):</speaker>
           <p>Natürlich bin ich bereit, das zur Kenntnis zu nehmen. Mein Kollege Dr. Thalheim hat aber bereits ausgeführt, daß wir der Meinung sind, daß denjenigen, die in irgendeiner Form durch Manipulationen, Fälschungen oder was auch immer benachteiligt worden sind, mit den bestehenden Gesetzen, die wir bisher haben, zu ihrem Recht verholfen werden kann.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der PDS -- Zuruf von der SPD: Richtig!)</stage>
@@ -601,11 +601,11 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der SPD und der PDS sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Für die Bundesregierung hat nun der Parlamentarische Staatssekretär Gröbl das Wort.</p>
         </sp>
-        <sp who="Wolfgang Gröbl" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Ernährung, Landwirtschaft und Forsten" party="CSU" name="Wolfgang Gröbl">
+        <sp who="Wolfgang Gröbl" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Ernährung, Landwirtschaft und Forsten" who_original="Wolfgang Gröbl" party="CSU" name="Wolfgang Gröbl">
           <speaker>Wolfgang Gröbl, Parl. Staatssekretär beim Bundesminister für Ernährung, Landwirtschaft und Forsten:</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren!</p>
           <stage type="interjection">(Unruhe -- Glocke der Präsidentin)</stage>
@@ -650,12 +650,12 @@
           <p>Das Sammelverfahren schafft durch seinen Bündelungseffekt und die Verbindlichkeit der Eigenkapitalfeststellung für alle Verfahrensbeteiligten klare Verhältnisse. Es entlastet die Gerichte. Die Unternehmen bekommen schneller die notwendige Planungssicherheit für ihre künftige Entwicklung.</p>
           <p>Und nochmals: Es geht nicht um irgendwelche neuen Ansprüche, es geht nicht um eine Änderung des materiellen Rechts. Es geht darum, den geltenden Regelungen in der Umsetzung zu mehr Wirksamkeit zu verhelfen.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Einen Moment bitte.</p>
           <p>Ich möchte um etwas mehr Ruhe bitten. Es ist immer das Problem vor namentlichen Abstimmungen, daß es sehr laut im Saal ist. Das ist für den Redner sehr schwer. Ich bitte Sie, noch einen Moment Geduld zu haben und zuzuhören.</p>
         </sp>
-        <sp who="Wolfgang Gröbl" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Ernährung, Landwirtschaft und Forsten" party="CSU" name="Wolfgang Gröbl">
+        <sp who="Wolfgang Gröbl" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Ernährung, Landwirtschaft und Forsten" who_original="Wolfgang Gröbl" party="CSU" name="Wolfgang Gröbl">
           <speaker>Wolfgang Gröbl, Parl. Staatssekretär beim Bundesminister für Ernährung, Landwirtschaft und Forsten:</speaker>
           <p>Es werden weder neue Abfindungsansprüche geschaffen, noch wird der Inhalt berechtigter Ansprüche verändert. Die Rechtsprechung hat Maßstäbe gesetzt. Diese Bewertungsmaßstäbe bleiben unberührt. Den LPG-Nachfolgeunternehmen werden mit der Novelle keine neuen Lasten auferlegt.</p>
           <p>Wer in der Vergangenheit die Vermögensauseinandersetzung nach Recht und Gesetz betrieben hat, Herr Dr. Thalheim, braucht weder Kläger noch Richter zu scheuen.</p>
@@ -666,18 +666,18 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Unverschämtheit!)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Ich schließe damit die Aussprache.</p>
           <p>Bevor wir zu den Abstimmungen kommen, möchte ich allen Kolleginnen und Kollegen sagen, daß wir, anders als angekündigt, jetzt zwei namentliche Abstimmungen haben werden.</p>
-          <p>Zu der Abstimmung liegen nach   31 unserer Geschäftsordnung schriftliche Erklärungen von folgenden Kolleginnen und Kollegen vor: Angelika Pfeiffer, Manfred Kolbe und Arnulf Kriedner  ).</p>
+          <p>Zu der Abstimmung liegen nach § 31 unserer Geschäftsordnung schriftliche Erklärungen von folgenden Kolleginnen und Kollegen vor: Angelika Pfeiffer, Manfred Kolbe und Arnulf Kriedner ).</p>
           <p>Wir kommen nun zur Abstimmung über den von den Fraktionen der CDU/CSU und F.D.P. eingebrachten Entwurf zur Änderung des Landwirtschaftsanpassungsgesetzes auf den Drucksachen 13/4950 und 13/5942. Dazu liegt ein gemeinsamer Änderungsantrag der Fraktionen der SPD und des Bündnisses 90/Die Grünen auf Drucksache 13/5974 vor, über den wir zuerst abstimmen. Die Antragsteller verlangen namentliche Abstimmung. Ich bitte die Schriftführerinnen und Schriftführer, die vorgesehenen Plätze einzunehmen. -- Sind alle Urnen besetzt? -- Das ist der Fall. Ich eröffne die Abstimmung.</p>
           <p>) Anlage 2 und 3</p>
           <p>Ist noch ein Mitglied des Hauses anwesend, das seine Stimme nicht abgegeben hat? -- Das ist nicht der Fall. Ich schließe damit die Abstimmung.</p>
           <p>Ich bitte die Schriftführerinnen und Schriftführer, mit der Auszählung zu beginnen. Bis zum Vorliegen des Ergebnisses der namentlichen Abstimmung unterbreche ich die Sitzung.</p>
           <stage type="interjection">(Unterbrechung von 10.40 bis 10.46 Uhr)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Liebe Kolleginnen und Kollegen, die unterbrochene Sitzung ist wieder eröffnet.</p>
           <p>Ich gebe das von den Schriftführern und Schriftführerinnen ermittelte Ergebnis der namentlichen Abstimmung über den gemeinsamen Änderungsantrag der Fraktionen der SPD und Bündnis 90/Die Grünen auf Drucksache 13/5974 bekannt. Abgegebene Stimmen -- 641. Mit Ja haben gestimmt -- 282. Mit Nein haben gestimmt -- 329. Enthaltungen -- 30. Der Änderungsantrag ist damit abgelehnt.</p>
@@ -1377,7 +1377,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="2" what="debate" desc="a)--Zweite und dritte Beratung des von den Fraktionen der CDU/CSU, SPD und F.D.P...">
-        <sp who="Hartmut Büttner" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hartmut Büttner">
+        <sp who="Hartmut Büttner (Schönebeck)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hartmut Büttner (Schönebeck)" party="CDU" name="Hartmut Büttner">
           <speaker>Hartmut Büttner (Schönebeck) (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Wir behandeln heute in zweiter und dritter Lesung die Novelle des Stasi-Unterlagen-Gesetzes. Der Deutsche Bundestag hat dieses Gesetz 1991 mit großer Mehrheit, gegen die Stimmen der PDS, verabschiedet. Der Kernpunkt des Gesetzes war die Öffnung der Stasiakten für die ehemals Unterdrückten und ihre Nutzung für Forschung und Aufarbeitung. Die mögliche Alternative wäre eine Vernichtung der Akten gewesen. Nur, dann hätten die Opfer niemals erfahren, ob und wann sie das Ziel von Maßnahmen des Staatssicherheitsdienstes waren.</p>
           <p>Es war vor allem Initiative und Auftrag der Bürgerbewegung, daß sowohl die frei gewählte Volkskammer als auch der Deutsche Bundestag diese Grundentscheidung akzeptierten. Dieses Gesetz war ohne Beispiel und ohne Vorbild. So war es völlig klar, daß im Laufe seiner praktischen Anwendung ein Änderungs- und Präzisierungsbedarf entstanden ist.</p>
@@ -1414,27 +1414,27 @@
           <p>Heute hat man den Eindruck, die neue Fraktion von Bündnis 90/Die Grünen verteidige das von ihr erkämpfte Stasi-Unterlagen-Gesetz gegen Verwässerungsbemühungen von CDU/CSU, F.D.P. und SPD. Wie ich Ihnen an einigen Beispielen hoffentlich belegen konnte, ist die Gesamtproblematik differenzierter.</p>
           <p>Noch haben Sie die Gelegenheit, die Mehrheit des Deutschen Bundestages für die Novellierung zu vergrößern. Zeigen wir gemeinsam unserer Bevölkerung, daß bei allen Meinungsverschiedenheiten im Detail Ihre Fraktion die Grundentscheidung einer weiteren Nutzung der Stasiakten eindeutig mitträgt.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Kollege, gestatten Sie eine Zwischenfrage des Kollegen Meckel?</p>
         </sp>
-        <sp who="Hartmut Büttner" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hartmut Büttner">
+        <sp who="Hartmut Büttner (Schönebeck)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hartmut Büttner (Schönebeck)" party="CDU" name="Hartmut Büttner">
           <speaker>Hartmut Büttner (Schönebeck) (CDU/CSU):</speaker>
           <p>Ich bin eigentlich bei meinem vorletzten Satz, Herr Meckel.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Da haben Sie noch Zeit.</p>
         </sp>
-        <sp who="Hartmut Büttner" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hartmut Büttner">
+        <sp who="Hartmut Büttner (Schönebeck)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hartmut Büttner (Schönebeck)" party="CDU" name="Hartmut Büttner">
           <speaker>Hartmut Büttner (Schönebeck) (CDU/CSU):</speaker>
           <p>Gut, bitte schön.</p>
         </sp>
-        <sp who="Markus Meckel" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Markus Meckel">
+        <sp who="Markus Meckel" parliamentary_group="SPD" role="mp" position="NA" who_original="Markus Meckel" party="SPD" name="Markus Meckel">
           <speaker>Markus Meckel (SPD):</speaker>
           <p>Sehr geehrter Herr Kollege Büttner, ich wollte Sie nur fragen, ob Sie bereit sind, zur Kenntnis zu nehmen und anzuerkennen, daß es im Jahre 1991 nicht nur die Fraktion des Bündnisses 90/Die Grünen war, sondern daß es ebenfalls die SPD und durchaus auch viele Vertreter der CDU-Fraktion waren, die dieses Gesetz gewollt und auch durchgesetzt haben, zum Teil gegen manchen Widerstand unserer Kollegen?</p>
         </sp>
-        <sp who="Hartmut Büttner" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hartmut Büttner">
+        <sp who="Hartmut Büttner (Schönebeck)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hartmut Büttner (Schönebeck)" party="CDU" name="Hartmut Büttner">
           <speaker>Hartmut Büttner (Schönebeck) (CDU/CSU):</speaker>
           <p>Genau das habe ich gesagt, Herr Meckel.</p>
           <p>Ich lade jetzt die Fraktion von Bündnis 90/Die Grünen ein, heute die breite Zustimmung des Deutschen Bundestages auch gegenüber der Öffentlichkeit deutlich zu machen.</p>
@@ -1443,7 +1443,7 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Bevor ich den nächsten Redner aufrufe, möchte ich Ihnen das von den Schriftführern und Schriftführerinnen ermittelte Ergebnis der namentlichen Schlußabstimmung über den Gesetzentwurf der Fraktionen der CDU/CSU und der F.D.P. "Entwurf eines Vierten Gesetzes zur Änderung des Landwirtschaftsanpassungsgesetzes" aus dem letzten Tagesordnungspunkt mitteilen.</p>
           <p>Abgegebene Stimmen: 642. Mit Ja haben gestimmt: 323. Mit Nein haben gestimmt: 312. Enthaltungen: 7. Der Gesetzentwurf ist damit angenommen.</p>
@@ -2109,7 +2109,7 @@
           <p>Uwe Lühr</p>
           <p>Jetzt rufe ich den Kollegen Rolf Schwanitz auf.</p>
         </sp>
-        <sp who="Rolf Schwanitz" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rolf Schwanitz">
+        <sp who="Rolf Schwanitz" parliamentary_group="SPD" role="mp" position="NA" who_original="Rolf Schwanitz" party="SPD" name="Rolf Schwanitz">
           <speaker>Rolf Schwanitz (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Wir debattieren heute über die Novelle zum Stasi-Unterlagen-Gesetz. Ich will mich auf drei Bemerkungen konzentrieren:</p>
           <p>Zum ersten. Wir bekommen mit dieser Gesetzesnovelle wichtige Erweiterungen gegenüber dem bisherigen Stasi-Unterlagen-Gesetz. Es ist zum erstenmal möglich, die beim Bundesbeauftragten vorhandenen Akten aus der NS-Zeit jetzt ebenso wie die anderen Aktenbestände einer Erforschung und der politisch-historischen Aufarbeitung zuzuführen. Das ist ein großer Fortschritt gegenüber der früheren Situation.</p>
@@ -2137,11 +2137,11 @@
           <p>Schönen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD, der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Kollege Gerald Häfner.</p>
         </sp>
-        <sp who="Gerald Häfner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Gerald Häfner">
+        <sp who="Gerald Häfner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Gerald Häfner" party="GRUENE" name="Gerald Häfner">
           <speaker>Gerald Häfner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Liebe Frau Präsidentin! Liebe Kolleginnen und Kollegen! Das Stasi-Unterlagen-Gesetz ist meines Erachtens kein Gesetz wie jedes andere. Die friedliche Revolution von 1989 verdient diesen Namen vor allem auch wegen der Besetzung der Stasi-Zentralen in Berlin, Leipzig, Dresden, Schwerin und all den Städten, wo diese Krake ihre Zentralen hatte, und der damit verbundenen Sicherstellung der Akten und Aufdeckung der Instrumentarien der Staatssicherheit, das heißt die Aneignung der Werkzeuge und Dokumente des übelsten Unterdrückungsapparates, dieses unter dem Siegel von Demokratie und Sozialismus errichteten totalitären Systems, durch das Volk.</p>
           <p>Damit haben die Bürgerinnen und Bürger eine unglaubliche Menge von Akten -- Sie alle wissen, daß sie aneinandergereiht eine Länge von Hunderten von Kilometern ergeben -- sichergestellt, die sonst vernichtet worden wären. Jedes einzelne Dokument ist Dokument eines schweren menschlichen Schicksals. Jedes Dokument ist zugleich Dokument eines kleinen oder großen Verrates. Jedes Dokument ist Dokument von Einschüchterung, Unterdrückung, Verfolgung, bis hin zur physischen und psychischen Vernichtung von Menschen.</p>
@@ -2156,23 +2156,23 @@
           <p>Das darf und kann nicht Aufgabe der Behörde sein.</p>
           <p>Herr Schwanitz, Sie haben deshalb heute vollkommen zu Recht nicht nur unseren Antrag zitiert, sondern auch zitiert, was wir bereits vor eineinhalb Jahren gesagt haben. Beides ist deckungsgleich. Sie haben versucht, daraus einen Widerspruch zu konstruieren. Das zeigt, daß Sie das Ganze offenbar nicht verstanden haben.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Häfner, gestatten Sie eine Zwischenfrage der Kollegin Sonntag-Wolgast?</p>
         </sp>
-        <sp who="Gerald Häfner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Gerald Häfner">
-          <speaker>Gerald Häfner  (BÜNDNIS 90/DIE GRÜNEN):</speaker>
+        <sp who="Gerald Häfner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Gerald Häfner" party="GRUENE" name="Gerald Häfner">
+          <speaker>Gerald Häfner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Wenn ich meinen Gedankengang zu Ende bringen darf, Frau Präsidentin, dann gerne.</p>
           <p>Das rechtliche Problem muß und kann auf der Verwenderseite gelöst werden. Das heißt, diese Vorgänge dürfen, wenn sie weit in der Vergangsnheit liegen, den Leuten nicht mehr zum Nachteil gereichen. Sie dürfen nicht mehr zu Einstellungshindernissen führen. Sie müssen aber mitgeteilt werden; denn das Unter-den-Teppich-Kehren von solchen Vorgängen ist das letzte, was wir zulassen dürfen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Bitte sehr.</p>
         </sp>
-        <sp who="Dr. Cornelie Sonntag-Wolgast" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Cornelie Sonntag-Wolgast">
+        <sp who="Cornelie Sonntag-Wolgast" parliamentary_group="SPD" role="mp" position="NA" who_original="Cornelie Sonntag-Wolgast" party="SPD" name="Cornelie Sonntag-Wolgast">
           <speaker>Dr. Cornelie Sonntag-Wolgast (SPD):</speaker>
           <p>Herr Kollege Häfner, die Passage Ihrer Rede, auf die ich mich beziehen will, liegt schon etwas zurück. Sie betraf Ihre Ausdrucksweise "Inquisitionsbehörde" oder "-instanz". Haben Sie über diese These und in diesem Wortlaut einmal mit Menschen gesprochen, die ein dringendes Bedürfnis danach hatten, durch die Gauck-Behörde Auskunft über ihre Vergangenheit zu bekommen? Ich halte es -- das muß ich hinzufügen -- wirklich für undenkbar, in diesem Zusammenhang und angesichts der Interessen der Betroffenen und der Opfer einen solchen Begriff zu verwenden.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Gerald Häfner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Gerald Häfner">
+        <sp who="Gerald Häfner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Gerald Häfner" party="GRUENE" name="Gerald Häfner">
           <speaker>Gerald Häfner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Liebe Frau Kollegin Sonntag-Wolgast, ich bin Ihnen außerordentlich dankbar für Ihre Frage, weil sie mir Gelegenheit gibt, etwas zu korrigieren, was zu einem Mißverständnis führen könnte.</p>
           <p>Herr Gauck und seine Behörde haben sich massiv gegen diesen Vorwurf gewandt. Sie wissen, daß er in der Öffentlichkeit nicht von unserer, sondern von anderer Seite und fälschlich erhoben wird. Deshalb hat Joachim Gauck gesagt: Schreibt um Himmels willen bitte nichts in das Gesetz, das dazu führt, daß wir plötzlich entscheiden sollen, was gravierend ist oder nicht, was mitgeteilt wird oder nicht. Dies muß an Hand von Gesetzen und durch rechtsstaatliche Instanzen, die dafür zuständig sind, entschieden werden -- aber bitte nicht durch die Behörde. -- Deswegen hat sich Joachim Gauck gegen diesen Vorwurf gewehrt. Er und wir sehen die Gefahr, daß die Behörde auf Grund einer solchen Regelung in eine Rolle gedrängt wird, die sie nicht haben möchte und nicht haben soll.</p>
@@ -2184,20 +2184,20 @@
           <stage type="interjection">(Vorsitz: Präsidentin Dr. Rita Süssmuth)</stage>
           <p>Wir wissen, daß Mitarbeiter des Kommissariats I in vielen Bereichen des Staates und der Verwaltung tätig sind und daß hier gegenwärtig keine Möglichkeit besteht, sie zu enttarnen, während andere Menschen, die sich weit weniger haben zuschulden kommen lassen, mit dem Vorhalt ihrer früheren Tätigkeit leben und umgehen müssen.</p>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Häfner, Ihre Redezeit ist seit einer Minute beendet.</p>
         </sp>
-        <sp who="Gerald Häfner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Gerald Häfner">
+        <sp who="Gerald Häfner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Gerald Häfner" party="GRUENE" name="Gerald Häfner">
           <speaker>Gerald Häfner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ich bedanke mich, Frau Präsidentin, und schließe damit meine Rede.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Als nächster spricht der Kollege Dr. Rainer Ortleb.</p>
         </sp>
-        <sp who="Dr. Rainer Ortleb" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Rainer Ortleb">
+        <sp who="Rainer Ortleb" parliamentary_group="FDP" role="mp" position="NA" who_original="Rainer Ortleb" party="FDP" name="Rainer Ortleb">
           <speaker>Dr. Rainer Ortleb (F.D.P.):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Zum Sachlichen haben meine Kollegen Büttner und Schwanitz schon genügend ausgeführt. -- Proporzgemäß bleiben mir nur fünf Minuten Redezeit; ich bin also nicht besser dran als mein Kollege Häfner. -- Deswegen möchte ich ein wenig in eine andere Richtung plädieren, nämlich das Emotionale des ganzen Problems aufzugreifen.</p>
           <p>Vor 500 Jahren qualmten auch in Deutschland die Scheiterhaufen. Der Mechanismus der Inquisition war Denunziation. Das war auch der Mechanismus der Staatssicherheit. Die menschliche Dimension dieses Problems ist vielleicht aus der Sicht des sicheren Abstandes von 500 Jahren begreifbar. Wenn Sie wollen, können Sie 500 Jahre zurückgehen, indem Sie in das kleine Städtchen Penzlin im Kreis Müritz gehen. Dort gibt es in der Burg ein Hexenmuseum mit einem Folterkeller, den die Inquisition damals benutzt hat.</p>
@@ -2211,11 +2211,11 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der F.D.P., der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Als nächster spricht der Kollege Dr. Uwe-Jens Heuer.</p>
         </sp>
-        <sp who="Dr. Uwe-Jens Heuer" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Uwe-Jens Heuer">
+        <sp who="Uwe-Jens Heuer" parliamentary_group="PDS" role="mp" position="NA" who_original="Uwe-Jens Heuer" party="PDS" name="Uwe-Jens Heuer">
           <speaker>Dr. Uwe-Jens Heuer (PDS):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Das spezifische Problem unserer heutigen Diskussion und Entscheidung ist nicht nur im Gesetzentwurf der PDS-Bundestagsgruppe, sondern auch im Gesetzentwurf von CDU/CSU, F.D.P. und SPD zutreffend benannt worden. Es geht, wie es hier heißt, um die Eingliederung "weniger belasteter" ehemaliger Mitarbeiter des MfS und um "die Förderung des Rechtsfriedens".</p>
           <p>Zu den Realitäten, die den Rechtsfrieden in diesem Zusammenhang gestört haben, gehört eine Reihe von Umständen und Versäumnissen. Dazu gehört auch, daß wirkliche Opfer nicht nur halbherzig, sondern angemessen entschädigt werden. Aber das ist nicht Aufgabe dieses Gesetzes. Dazu gehört, daß es zehntausende Entlassungen wegen Tätigkeit für das MfS ohne eine wirkliche Nachprüfung der geforderten Unzumutbarkeit gab. Dazu gehört auch, daß Auskünfte der Bundesbehörden in vielen Fällen a priori Schuld und Entlassung begründet haben und daß es weder handhabbare Kriterien noch Verjährungsfristen gibt.</p>
@@ -2227,7 +2227,7 @@
           <p>Er hat jetzt in einem "Spiegel"-Gespräch im Heft 45 dieses Jahres mit Herrn Castorf davon gesprochen -- das wird das letzte sein, was ich hier sage --, daß uns die Bedrohtheit von uns Pastoren und Künstlern besser machte. Er sagte: "Diktatur macht krank. Sie macht einige luzide, und einige macht sie groß. Sie macht einige sogar zu Märtyrern und zum Heiligen." Ich meine, hier ist ein für die Demokratie gefährliches Sendungsbewußtsein zu diagnostizieren.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über den Gesetzentwurf der Fraktionen der CDU/CSU, SPD und F.D.P. zur Änderung des Stasi-Unterlagen-Gesetzes auf den Drucksachen 13/4356 und 13/5816 in der Ausschußfassung.</p>
@@ -2261,7 +2261,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="3" what="debate" desc="12.Beratung des Antrags der Abgeordneten Hans Martin Bury, Ernst Schwanhold, Ank...">
-        <sp who="Hans Martin Bury" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hans Martin Bury">
+        <sp who="Hans Martin Bury" parliamentary_group="SPD" role="mp" position="NA" who_original="Hans Martin Bury" party="SPD" name="Hans Martin Bury">
           <speaker>Hans Martin Bury (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Der Countdown läuft. In zehn Tagen ist es soweit: Die Deutsche Telekom geht an die Börse. Beim größten internationalen Going Public aller Zeiten sollen Aktien im Marktwert von 12,5 bis 15 Milliarden DM plaziert werden. Ob dieser 18. November 1996 zugleich eine Sternstunde des deutschen Finanzmarktes wird, ist noch offen, auch wenn vieles für einen Erfolg der T-Aktie spricht.</p>
           <p>Große Erwartungen wurden im Vorfeld mit der Telekom-Emission verknüpft; denn der Erfolg des Börsengangs hat auch entscheidenden Einfluß auf das Standing deutscher Kreditinstitute am und den Zugang deutscher Unternehmen zum internationalen Kapitalmarkt.</p>
@@ -2317,11 +2317,11 @@
           <p>Wir verbinden Maßnahmen zur Mobilisierung von Risikokapital, verbesserte Rahmenbedingungen zur Finanzierung von Innovationen und Investitionen mit einem Konzept zur Beteiligung der Arbeitnehmerinnen und Arbeitnehmer am Produktivkapital und einer Förderung des Aktiensparens zu einem wirklichen Programm für mehr Wachstum und mehr Beschäftigung in Deutschland.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Das Wort hat jetzt der Parlamentarische Staatssekretär Hauser.</p>
         </sp>
-        <sp who="Hansgeorg Hauser" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Finanzen" party="CSU" name="Hansgeorg Hauser">
+        <sp who="Hansgeorg Hauser" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Finanzen" who_original="Hansgeorg Hauser" party="CSU" name="Hansgeorg Hauser">
           <speaker>Hansgeorg Hauser, Parl. Staatssekretär beim Bundesminister der Finanzen:</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Werter Herr Kollege Bury, wenn Sie Ihre Phrasen und Ihre absoluten Übertreibungen weggelassen hätten, wäre es eine ganz gute Rede gewesen; denn auf sachlicher Basis können wir uns über einige Punkte sehr wohl unterhalten.</p>
           <p>Wissen Sie, man kann sich natürlich nicht immer nur die Bonbons heraussuchen, etwas einmal so und einmal so darstellen. Uns wird im Finanzausschuß immer wieder vorgehalten, wir sollten endlich einmal etwas für die Aktienbesteuerung tun. Da seien steuerfreie Gewinne zu erzielen, da könnten Millionenvermögen gemacht werden, ohne Steuern zu zahlen.</p>
@@ -2346,7 +2346,7 @@
           <stage type="interjection">(Ernst Schwanhold [SPD]: Weil Sie ihr so große Bedeutung zumessen, sind Sie tatenlos!)</stage>
           <p>Auch das ist übrigens ein Thema der Steuerreformkommission; darüber wird intensiv diskutiert.</p>
           <p>Es stellt sich hier allerdings generell die Frage, inwieweit der Staat durch fiskalische Maßnahmen die Sparer in bestimmte Anlageformen drängen soll.</p>
-          <p>Die im "Aktionsprogramm der Bundesregierung für Investition und Beschäftigung" vorgeschlagenen Verbesserungen des Vermögensbildungsgesetzes und des   19 a EStG stehen unter dem Finanzierungsvorbehalt. Das ist angesichts der Lage der öffentlichen Haushalte auch zwingend notwendig. Wir haben uns daher entschlossen, auch dieses Projekt in die Beratungen der Steuerreformkommission einzubeziehen, um sie in diesem Lichte zu überprüfen.</p>
+          <p>Die im "Aktionsprogramm der Bundesregierung für Investition und Beschäftigung" vorgeschlagenen Verbesserungen des Vermögensbildungsgesetzes und des § 19 a EStG stehen unter dem Finanzierungsvorbehalt. Das ist angesichts der Lage der öffentlichen Haushalte auch zwingend notwendig. Wir haben uns daher entschlossen, auch dieses Projekt in die Beratungen der Steuerreformkommission einzubeziehen, um sie in diesem Lichte zu überprüfen.</p>
           <p>Man kann nämlich nicht auf der einen Seite Forderungen aufstellen, das Steuerrecht einfacher zu machen und Subventionstatbestände abzuschaffen, auf der anderen Seite aber permanent neue Forderungen aufstellen. Das paßt einfach nicht zusammen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Zu der von Ihnen vorgeschlagenen Erweiterung des Anlagekatalogs des Gesetzes für Investmentfonds ist zu bemerken, daß für indirekte Beteiligungen an mittelständischen Unternehmen mit dem Gesetz über Unternehmensbeteiligungsgesellschaften bereits ein rechtlicher Rahmen existiert. Wie bereits erwähnt, wird das Dritte Finanzmarktförderungsgesetz eine Novellierung des Gesetzes über Unternehmensbeteiligungsgesellschaften beinhalten.</p>
@@ -2363,11 +2363,11 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Das Wort nimmt jetzt die Kollegin Margareta Wolf.</p>
         </sp>
-        <sp who="Margareta Wolf" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Margareta Wolf">
+        <sp who="Margareta Wolf (Frankfurt)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Margareta Wolf (Frankfurt)" party="GRUENE" name="Margareta Wolf-Mayer">
           <speaker>Margareta Wolf (Frankfurt) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Herr Hauser, Sie haben gerade gesagt, daß die Bundesregierung seit geraumer Zeit damit befaßt ist, die Rahmenbedingungen für einen funktionierenden Risikokapitalmarkt zu verbessern. Ich finde das löblich. Auch Herr Kolb sagt das ja in diesem Hause bei jeder sich bietenden Gelegenheit. Aber ich habe nach wie vor den Eindruck, es handelt sich vor allem um Ankündigungsrhetorik.</p>
           <p>Ich habe mir im Mai diesen Jahres eine Synopse zu Ihrer "Offensive für unternehmerische Selbständigkeit" und zu dem zweiten Paket, das Sie vorgelegt haben, nämlich "Zugang zu Wagniskapital verbessern", gemacht. Die hier vorgeschlagenen Maßnahmen sind alle schon im Jahreswirtschaftsbericht und in der Koalitionsvereinbarung angekündigt worden. Zu keiner der hier vorgeschlagenen Maßnahmen jedoch liegt diesem Hause bisher ein diskussionsfähiges Papier vor.</p>
@@ -2411,11 +2411,11 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Das Wort nimmt jetzt der Kollege Paul Friedhoff.</p>
         </sp>
-        <sp who="Paul K. Friedhoff" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Paul Friedhoff">
+        <sp who="Paul K. Friedhoff" parliamentary_group="FDP" role="mp" position="NA" who_original="Paul K. Friedhoff" party="FDP" name="Paul K. Friedhoff">
           <speaker>Paul K. Friedhoff (F.D.P.):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Beim Lesen der Anträge habe ich mich sehr über sie gefreut; denn ich kann vielen Punkten der Analyse dort zustimmen.</p>
           <stage type="interjection">(Hans Martin Bury [SPD]: Machen Sie es doch!)</stage>
@@ -2440,11 +2440,11 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Als nächster der Kollege Uwe-Jens Rössel.</p>
         </sp>
-        <sp who="Dr. Uwe-Jens Rössel" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Uwe-Jens Rössel">
+        <sp who="Uwe-Jens Rössel" parliamentary_group="PDS" role="mp" position="NA" who_original="Uwe-Jens Rössel" party="PDS" name="Uwe-Jens Rössel">
           <speaker>Dr. Uwe-Jens Rössel (PDS):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Fast möchte ich sagen: wie wohltuend, endlich einmal im Zusammenhang mit dem Thema Attraktivität des sogenannten Standorts Deutschland nicht eine unselige Debatte über die Lohnnebenkosten führen zu müssen. -- Die SPD hat mit ihrem Antrag ein grundsätzliches Problem benannt: Die Eigenkapitalausstattung der kleinen und mittleren Unternehmen ist schlechter denn je. Die Pleitewelle rollt weiter; die jüngsten Zahlen von Montag belegen es. Nicht nur im Osten ist eine Hauptursache für diese Entwicklung die völlig unzureichende Ausstattung der meisten kleinen und mittleren Unternehmen mit Eigenkapital.</p>
           <p>Aber gerade diese Unternehmen sind es, die oft genug in den Innovationsbranchen tätig sind, die sich für Neuerungen einsetzen, die -- dies wurde auch bereits gesagt -- den weitaus größten Teil der so dringend notwendigen Ausbildungsplätze schaffen.</p>
@@ -2455,7 +2455,7 @@
           <p>Die PDS ist der Auffassung, daß die Besteuerung von Wertpapierkursgewinnen auch bei Privatanlegern notwendig ist. Das ist eine Praxis, die in Frankreich und im angelsächsischen Raum seit jeher auf der Tagesordnung steht. Das Gerede, daß, wenn eine solche Besteuerung in der Bundesrepublik eingeführt würde, der Finanzplatz Deutschland zugrunde ginge, führt der Finanzplatz London doch ad absurdum; denn er funktioniert und floriert im besten Sinne des Wortes, und zwar mit der Besteuerung von Kursgewinnen.</p>
           <p>Glauben Sie wirklich, daß Kleinanleger ihre Groschen für die Altersvorsorge auf 12 Jahre in Risikokapitalanlagen anlegen werden, wie Sie es vorschlagen? Glauben Sie wirklich, massenhaft Kleinanleger mit Aktien an eine im globalen Wettbewerb stehende Börse -- Sie kennen den Börsenwettbewerb in Deutschland und die Existenzangst der kleinen Regionalbörsen -- locken zu können und damit in mittelständische Unternehmen zu investieren? Glauben Sie, die Kleinanleger investieren in eine Börse, die zwar gigantische Wachstumsraten für einige Aktien des DAX bzw. des M-DAX verzeichnet, zugleich aber vom Mißbrauch von Finanzderivaten begleitet wird? Ich nenne hier nur die Auswirkungen des Baring-Skandals, der Devisenspekulationen bei der Metallgesellschaft und bei Balsam, durch die das Anlegergeld sehr schnell spürbar aufgezehrt wurde.</p>
           <p>Die jüngsten Fehlspekulationen der Deutsche-Bank-Tochter Morgan Grenfell sind auch nicht gerade eine Sicherheitsgarantie für Kleinanleger; das gleiche gilt für den Skandal des European Kings Club, dessen Prozeß gegenwärtig durchgeführt wird.</p>
-          <p>Die von der SPD geforderte Änderung des   20 Einkommensteuergesetz stellt daher -- so löblich die Absicht auch sein mag --, kein geeignetes Mittel zur Aufbringung von Risikokapital dar. Bevor sich das Anlegerverhalten in Deutschland grundsätzlich ändert, muß auch die Rolle der Bundesaufsichtsämter -- sie sind in der Verantwortung der Bundesregierung -- für den Wertpapierhandel und das Versicherungswesen weiter gestärkt und auf diesem Weg ein wirklicher Schutz der Anleger von Wertpapieren gewährleistet werden. Es ist schon mehr als paradox, wenn jüngst mit den Stimmen von CDU/CSU und -- leider -- auch der SPD im Haushaltsausschuß die ohnehin geringfügigen -- ich möchte sagen: läppischen -- Mittel für die Kontrolle der Finanzderivate beim Bundesaufsichtsamt für das Versicherungswesen für 1997 noch weiter zusammengestrichen wurden. Das ist ein Schritt in die falsche Richtung; ich habe das bereits im Ausschuß sehr deutlich gesagt.</p>
+          <p>Die von der SPD geforderte Änderung des § 20 Einkommensteuergesetz stellt daher -- so löblich die Absicht auch sein mag --, kein geeignetes Mittel zur Aufbringung von Risikokapital dar. Bevor sich das Anlegerverhalten in Deutschland grundsätzlich ändert, muß auch die Rolle der Bundesaufsichtsämter -- sie sind in der Verantwortung der Bundesregierung -- für den Wertpapierhandel und das Versicherungswesen weiter gestärkt und auf diesem Weg ein wirklicher Schutz der Anleger von Wertpapieren gewährleistet werden. Es ist schon mehr als paradox, wenn jüngst mit den Stimmen von CDU/CSU und -- leider -- auch der SPD im Haushaltsausschuß die ohnehin geringfügigen -- ich möchte sagen: läppischen -- Mittel für die Kontrolle der Finanzderivate beim Bundesaufsichtsamt für das Versicherungswesen für 1997 noch weiter zusammengestrichen wurden. Das ist ein Schritt in die falsche Richtung; ich habe das bereits im Ausschuß sehr deutlich gesagt.</p>
           <p>Selbst wenn zu erwarten wäre, daß Sparer stärker an die Börse gehen, ist doch vollkommen unklar, ob Aktien, festverzinsliche Wertpapiere oder gar Derivate gekauft werden. Mit dem Handel von Derivaten läßt sich im Einzelfall in der Bundesrepublik sogar eine Rendite von 500 bis 1 000 Prozent per annum -- und das noch steuerfrei -- erzielen. Das war in den Kursübersichten auch der "Frankfurter Allgemeinen Zeitung" zu den Optionsscheinen auf Aktien der deutschen Großchemie zu lesen.</p>
           <p>Der Derivatehandel aber hat mit der Schaffung von Risikokapital überhaupt nichts zu tun. Diese Renditen sind Ausdruck der Tatsache, daß sich die Finanzmärkte immer mehr von den realwirtschaftlichen Prozessen abgekoppelt haben und ein Eigenleben -- mit allen negativen Wirkungen auf den Arbeitsmarkt und die Wirtschaftsentwicklung -- führen.</p>
           <stage type="interjection">(Beifall der Abg. Dr. Dagmar Enkelmann [PDS])</stage>
@@ -2466,14 +2466,14 @@
           <p>Ich danke für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der PDS -- Hans Michelbach [CDU/CSU]: Eine außerordentliche Rede!)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Als nächster der Kollege Ernst Schwanhold.</p>
         </sp>
-        <sp who="Ernst Schwanhold" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ernst Schwanhold">
+        <sp who="Ernst Schwanhold" parliamentary_group="SPD" role="mp" position="NA" who_original="Ernst Schwanhold" party="SPD" name="Ernst Schwanhold">
           <speaker>Ernst Schwanhold (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Wenn man sich die Entwicklung der Diskussion um Risikokapital und Stärkung des Kapitalmarktes für den Mittelstand bei uns anschaut, dann sind in dem Zusammenhang drei Daten festzuhalten: Januar 1995: Mittelstandsantrag der SPD betreffend Stärkung des Risikokapitalmarktes für Existenzgründer und schnellwachsende Technologieunternehmen, Februar 1996: Antrag zu Risikokapital, über den wir jetzt diskutieren, und Ende März 1996, als diese Koalition, die permanent vom Mittelstand redet, das erste Mal dieses Thema entdeckt und es ins 50-Punkte-Programm schreibt. So ist das. Plötzlich sagen Sie, Sie hätten ein neues Thema entdeckt.</p>
-          <stage type="interjection">(Widerspruch bei der CDU/CSU) </stage>
+          <stage type="interjection">(Widerspruch bei der CDU/CSU)</stage>
           <p>-- Es mag ja für Sie abwegig sein, aber bis heute haben Sie noch nicht einen Gesetzentwurf vorgelegt, den wir hier abarbeiten könnten; die Kollegin Wolf hat es völlig zu Recht so dargestellt. Sie spielen sich zwar zum Hüter des Mittelstandes auf.</p>
           <stage type="interjection">(Hans Michelbach [CDU/CSU]: Sie sind der Erfinder des Mittelstandes!)</stage>
           <p>Aber noch nie hatten es der Mittelstand, schnellwachsende Technologieunternehmen und junge, innovative Menschen in diesem Lande so schwer wie in den Zeiten der Koalition aus CDU/CSU und F.D.P.</p>
@@ -2511,14 +2511,14 @@
           <p>Sie haben überhaupt nichts vorzuweisen, noch nicht einmal einen Antrag, über den wir diskutieren können. Ein Jahr liegt Ihnen unser Antrag vor, und Sie waren noch nicht einmal in der Lage, einen eigenen Gegenentwurf vorzulegen. Dieses ist Beleg genug für ein Trauerspiel, welches diese Regierung in einem Bereich bietet, der dringend auf Wachstum ausgerichtet werden muß.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Kollege Schwanhold macht mich gerade darauf aufmerksam, daß er fünf Minuten Redezeit eingespart hat.</p>
           <stage type="interjection">(Zuruf: Alle haben Zeit eingespart!)</stage>
           <p>-- So kommen wir schneller voran.</p>
           <p>Das Wort hat jetzt die Kollegin Dagmar Wöhrl.</p>
         </sp>
-        <sp who="Dagmar Wöhrl" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Dagmar Wöhrl">
+        <sp who="Dagmar Wöhrl" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Dagmar Wöhrl" party="CSU" name="Dagmar G. Wöhrl">
           <speaker>Dagmar Wöhrl (CDU/CSU):</speaker>
           <p>Wenn die Opposition auch sonst einsparen würde, wären wir ebenfalls dankbar.</p>
           <p>Frau Präsidentin! Liebe Kollegen! Liebe Kolleginnen! Es ist natürlich nicht zu bestreiten, daß der Kapitalmarkt in Deutschland im Moment noch unzureichend funktioniert. Es ist auch nicht zu bestreiten, daß wir unsere Anstrengungen auf diesem Gebiet noch verzehnfachen müssen, um den etwa zehnjährigen Rückstand in der Marktkapitalisierung im Vergleich zu den angelsächsischen Ländern aufzuholen.</p>
@@ -2564,11 +2564,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Das Wort hat jetzt der Kollege Wolfgang Steiger.</p>
         </sp>
-        <sp who="Wolfgang Steiger" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Steiger">
+        <sp who="Wolfgang Steiger" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Steiger" party="CDU" name="Wolfgang Steiger">
           <speaker>Wolfgang Steiger (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Zu dem Antrag der SPD-Fraktion läßt sich sagen: Er ist vielleicht gut gemeint, aber er ist zu kurz gesprungen. Denn wenn die SPD die kleinen und mittleren Unternehmen wirklich unterstützen will, wenn Sie wirklich eine Aktienförderung, eine hilfreiche Börsenkapitalisierung und einen erfolgreichen Risikokapitalmarkt wollen, dann können Sie dafür ein ganz klares Zeichen setzen, indem Sie zur Abschaffung der Vermögensteuer und der Gewerbekapitalsteuer ja sagen. Das haben Sie nicht getan.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
@@ -2591,22 +2591,22 @@
           <p>Auch die NASDAQ hatte erst Erfolg, als sie die sogenannten Pensionsfonds entdeckt und zukunftsträchtige Jungunternehmen in diesem Zusammenhang wesentlich unterstützt hat. Deshalb werden wir in Deutschland ohne eine entsprechende Pensionsfondskultur in diesem Marktsegment nur wenig Erfolg haben.</p>
           <p>Pensionsfonds können uns in drei Bereichen sehr hilfreich sein: Sie können erstens den Unternehmen zu mehr Risikokapital verhelfen, zweitens bei der Stärkung der Altersvorsorge einen wichtigen Beitrag leisten und drittens dem Finanzplatz Deutschland bei seinem Wettbewerb wesentlich helfen.</p>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Steiger, gestatten Sie eine Zwischenfrage des Kollegen Bury?</p>
         </sp>
-        <sp who="Wolfgang Steiger" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Steiger">
+        <sp who="Wolfgang Steiger" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Steiger" party="CDU" name="Wolfgang Steiger">
           <speaker>Wolfgang Steiger (CDU/CSU):</speaker>
           <p>Gern!</p>
         </sp>
-        <sp who="Hans Martin Bury" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hans Martin Bury">
+        <sp who="Hans Martin Bury" parliamentary_group="SPD" role="mp" position="NA" who_original="Hans Martin Bury" party="SPD" name="Hans Martin Bury">
           <speaker>Hans Martin Bury (SPD):</speaker>
           <p>Herr Steiger, da Sie sich nahtlos in die Riege leerer Ankündigungen einreihen,</p>
           <stage type="interjection">(Widerspruch bei der CDU/CSU)</stage>
           <p>möchte ich Sie konkret fragen, welche der folgenden Maßnahmen aus dem unter Ihrem Namen publizierten Programm zur Förderung des Finanzplatzes Deutschland diese Regierungskoalition wann vorlegen wird. Ich nenne einmal aus Ihrem Papier die steuerpolitische Gleichbehandlung aller Anlageformen, die Beschränkung der Steuerbelastung von Dividenden, die Erhöhung des Sparerfreibetrages, die Abschaffung der Besteuerung von Spekulationsgewinnen und eine steuerliche Gleichbehandlung des Aktiensparens beim Sonderausgabenabzug.</p>
           <p>Ist es nicht vielmehr so, daß Sie bei all diesen Maßnahmen eine glatte Bauchlandung in der Koalition erlebt haben?</p>
         </sp>
-        <sp who="Wolfgang Steiger" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Steiger">
+        <sp who="Wolfgang Steiger" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Steiger" party="CDU" name="Wolfgang Steiger">
           <speaker>Wolfgang Steiger (CDU/CSU):</speaker>
           <p>Lieber Herr Bury, da wir uns gemeinsam um den Finanzplatz sorgen, darf ich Sie in diesem Zusammenhang ganz höflich beruhigen: Die CDU/CSU-Bundestagsfraktion wird in dieser Frage sehr schnell auf Sie zukommen. Sie werden ausreichend Gelegenheit bekommen, Ihre Ernsthaftigkeit unter Beweis zu stellen, den Finanzplatz Deutschland sowie kleine und mittlere Unternehmen zu unterstützen.</p>
           <p>Nehmen Sie das Papier, das Sie eben zitiert haben, und vergleichen Sie den Inhalt mit dem, was auf Sie zukommt. Sie werden dann wieder ganz zufrieden schlafen können und sich mit diesen Themen nicht mehr beschäftigen müssen. Aber Sie sollten dann, wenn es darauf ankommt, wenn Sie als Opposition die Chance erhalten, Ihren Beitrag zu einer Förderung der besseren Eigenkapitalausstattung, zu einer Förderung des Finanzplatzes Deutschland zu leisten und gerade den kleinen und mittleren Unternehmen zu helfen, die Gelegenheit wahrnehmen und uns bei der Durchsetzung der genannten Forderungen unterstützen.</p>
@@ -2620,10 +2620,13 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Jetzt hat der Parlamentarische Staatssekretär Herr Kolb das Wort.</p>
-          <p>Dr. Heinrich L. Kolb, Parlamentarischer Staatssekretär beim Bundesminister für Wirtschaft: Frau Präsidentin! Liebe Kolleginnen und Kollegen! Das Problem einer notwendigen Stärkung des Risikokapitalmarktes in Deutschland ist der Bundesregierung wohlbekannt, und sie hat, Herr Kollege Schwanhold, hierzu schon längst Maßnahmen ergriffen. Wenn Sie hier den Eindruck erwecken wollen, die Bundesregierung sei erst im März dieses Jahres auf den Plan getreten, dann stellt das wirklich die Dinge auf den Kopf.</p>
+        </sp>
+        <sp who="Kolb" parliamentary_group="NA" role="government" position="Parlamentarischer Staatssekretär beim Bundesminister für Wirtschaft" who_original="Kolb" party="FDP" name="Heinrich Leonhard Kolb">
+          <speaker>Dr. Heinrich L. Kolb, Parlamentarischer Staatssekretär beim Bundesminister für Wirtschaft:</speaker>
+          <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Das Problem einer notwendigen Stärkung des Risikokapitalmarktes in Deutschland ist der Bundesregierung wohlbekannt, und sie hat, Herr Kollege Schwanhold, hierzu schon längst Maßnahmen ergriffen. Wenn Sie hier den Eindruck erwecken wollen, die Bundesregierung sei erst im März dieses Jahres auf den Plan getreten, dann stellt das wirklich die Dinge auf den Kopf.</p>
           <p>Herr Kollege Schwanhold, wären Sie bereit, zur Kenntnis zu nehmen,</p>
           <stage type="interjection">(Ernst Schwanhold [SPD]: Frau Präsidentin, muß ich antworten, wenn er mich fragt?)</stage>
           <p>-- nein, das müssen Sie nicht --, daß eine Ressortarbeitsgruppe, übrigens unter Federführung des Bundesministeriums für Wirtschaft, bereits in der zweiten Hälfte des Jahres 1995 einen Bericht über Risikokapital für Existenzgründer und mittelständische Unternehmen erstellt hat, und zwar mit einer Reihe von ganz konkreten Vorschlägen? Diese Vorschläge sind in der Kanzlerrunde im Januar 1996 öffentlich geworden. Sie sind Teil des Jahreswirtschaftsberichtes.</p>
@@ -2647,8 +2650,7 @@
           <p>Privatanleger müssen ihre Mentalität verändern. Sie müssen auch über die langfristig höheren Chancen, also die langfristig höhere Rentabilität einer Anlage in Risikokapital aufgeklärt werden. Das muß man ganz deutlich sagen.</p>
           <p>Es geht letztlich um die Börsen, das heißt um die Schaffung neuer Marktsegmente. So ist, übrigens auch unterstützt vom Bundesministerium für Wirtschaft, die Errichtung eines neuen Marktes für wachstumsstarke, publizitätsfreudige, insbesondere technologieorientierte Unternehmen durch die Deutsche Börse AG vorangetrieben worden. Sie wird ihre Tätigkeit im Frühjahr 1997 aufnehmen. Das ist übrigens entgegen Ihrem Antrag auch ohne eine Gesetzesänderung möglich gewesen. Ferner gibt es weitere Initiativen in Leipzig und in München; das ist hier gesagt worden.</p>
           <p>Ich glaube, daß das, was im SPD-Antrag steht -- abgesehen von einigen Ladenhütern wie Tariffonds und die kontraproduktiven Vorschläge zu dem Thema "Macht der Banken und Versicherungen" --, durchaus diskussionswürdig ist, aber das, was Sie bringen, ist sehr selektiv. Das muß man doch sehen. Es ersetzt einfach nicht die im Risikokapitalbericht der Bundesregierung enthaltenen Vorschläge. Ich möchte die hier im einzelnen nicht noch einmal aufführen.</p>
-          <p>Nur, wenn Sie sagen, Frau Kollegin Wolf, wir betrieben hier eine Ankündigungsrhetorik, dann will ich Ihnen sagen: Zu den einzelnen Maßnahmen, die im Jahreswirtschaftsbericht, im Aktionsprogramm</p>
-          <p>und im Risikokapitalbericht enthalten sind -- das taucht an mehreren Stellen auf --, haben wir einen sehr detaillierten Fortschrittsbericht. Wenn Sie es wünschen, bin ich gerne bereit, Ihnen diesen Fortschrittsbericht zuzuschicken. Sie werden sehen, daß wir in allen Punkten sehr hart an der Umsetzung sind.</p>
+          <p>Nur, wenn Sie sagen, Frau Kollegin Wolf, wir betrieben hier eine Ankündigungsrhetorik, dann will ich Ihnen sagen: Zu den einzelnen Maßnahmen, die im Jahreswirtschaftsbericht, im Aktionsprogramm und im Risikokapitalbericht enthalten sind -- das taucht an mehreren Stellen auf --, haben wir einen sehr detaillierten Fortschrittsbericht. Wenn Sie es wünschen, bin ich gerne bereit, Ihnen diesen Fortschrittsbericht zuzuschicken. Sie werden sehen, daß wir in allen Punkten sehr hart an der Umsetzung sind.</p>
           <stage type="interjection">(Ernst Schwanhold [SPD]: Können Sie uns den auch schicken?)</stage>
           <p>-- Wenn Sie es möchten, kann ich ihn auch Ihnen zuschicken, Herr Kollege Schwanhold.</p>
           <p>Sie werden also sehen, wir sind hier hart an der Umsetzung dran. So wird das Kapitalaufnahmeerleichterungsgesetz noch in diesem Jahr ins Kabinett gehen, und das Dritte Finanzmarktförderungsgesetz wird Anfang 1997 ins Kabinett gehen. Jetzt kann man natürlich bedauern, daß es erst dann sein wird; aber es sind eben auch umfassende Maßnahmen, die intensiv beraten werden müssen.</p>
@@ -2658,7 +2660,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Kollege Schwanhold, auf Ihren Zwischenruf, ob Sie antworten müssen, möchte ich Ihnen noch die Rechtslage nach der Geschäftsordnung verdeutlichen. Wenn die Regierung einen Abgeordneten etwas fragt, muß er nicht antworten.</p>
           <stage type="interjection">(Heiterkeit)</stage>
@@ -2675,7 +2677,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="4" what="debate" desc="Beratung der Beschlußempfehlung und des Berichts des Ausschusses für Wirtschaft ...">
-        <sp who="Rita Grießhaber" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Rita Grießhaber">
+        <sp who="Rita Grießhaber" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Rita Grießhaber" party="GRUENE" name="Rita Grießhaber">
           <speaker>Rita Grießhaber (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Gerne hätten wir hier eine Debatte über die deutsche Südostasienpolitik gehabt. Die Reisen von Bundeskanzler Kohl und Außenminister Kinkel waren Anlaß genug, über das Verhältnis von Wirtschaftspolitik und dem Stellenwert von Menschenrechten hier im Parlament zu diskutieren.</p>
           <p>Sie wissen, wir hatten vor einem Jahr den chinesischen Menschenrechtler Harry Wu zu Besuch, der selbst 19 Jahre lang in chinesischen Straflagern interniert war und sich jetzt in den USA bemüht, Aufklärungsarbeit über das chinesische Straflagersystem zu leisten. Damals war Bundeskanzler Kohl wenige Wochen zuvor in China gewesen. Kaum hatte er das Land verlassen, wurde der Bürgerrechtler Wei Jinsheng verhaftet. Kaum war Außenminister Kinkel jetzt aus Peking abgereist, wurde der Dissident Wang Dan in einem Schnellprozeß zu elf Jahren Haft verurteilt.</p>
@@ -2700,11 +2702,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der CDU/CSU, der SPD und der PDS)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Kollege Hermann Gröhe.</p>
         </sp>
-        <sp who="Hermann Gröhe" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hermann Gröhe">
+        <sp who="Hermann Gröhe" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hermann Gröhe" party="CDU" name="Hermann Gröhe">
           <speaker>Hermann Gröhe (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine Damen! Meine Herren! Mit der heutigen Vorlage eines von allen Fraktionen dieses Hauses getragenen Änderungsantrages zum Thema "Verhinderung von Spielzeugimporten aus chinesischen Straflagern" und mit der gemeinsamen Empfehlung, den ursprünglichen Antrag in dieser geänderten Fassung anzunehmen, zeigen wir, daß wir bei allen auch notwendigen Auseinandersetzungen in Fragen der Menschenrechte zu gemeinsamen Positionen finden können. Ich füge hinzu: Auch durch den Versuch, Menschenrechtsdebatten und Menschenrechtspolitik parteitaktisch einzusetzen, wie wir das am gestrigen Morgen erleben konnten, werden wir uns von dem Bemühen, eine Gemeinsamkeit zu erzielen, nicht abhalten lassen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
@@ -2729,11 +2731,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall im ganzen Hause)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Jetzt spricht der Kollege Bindig.</p>
         </sp>
-        <sp who="Rudolf Bindig" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Bindig">
+        <sp who="Rudolf Bindig" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Bindig" party="SPD" name="Rudolf Bindig">
           <speaker>Rudolf Bindig (SPD):</speaker>
           <p>Frau Präsidentin! Sehr geehrte Kolleginnen und Kollegen! Vor fast genau einem Jahr haben wir uns hier mit einem besonders düsteren Kapitel des chinesischen Herrschaftssystems befaßt, der Existenz des chinesischen Archipel Gulag, des Laogai-Systems. In den Laogai-Lagern, den "Reform durch Arbeit"-Lagern, werden aus den verschiedensten Gründen Millionen von Gefangenen festgehalten, unter denen nach Angaben chinesischer Dissidenten zirka hunderttausend politische Gefangene sind. Die Gefangenen müssen unter menschenunwürdigen Bedingungen leben und arbeiten. Wir haben uns darüber unterhalten, daß in diesen Lagern in Zwangsarbeit eine Palette von Produkten hergestellt wird, die in den wirtschaftlichen Kreislauf in China eingebracht werden und für den Export bestimmt sind, mit dem Ziel, Devisen zu verdienen.</p>
           <p>Besonders kraß wird der Gegensatz zwischen der Produktionsweise in Zwangsarbeitslagern und dem Verwendungszweck der erzeugten Güter empfunden, wenn es sich um Kinderspielzeug handelt. Weihnachtsbaumschmuck und Teddybären auf deutschen Gabentischen, die unter sklavenartigen Bedingungen hergestellt worden sind -- das rüttelt auf bei den Bürgern im Land und auch hier im Parlament.</p>
@@ -2754,11 +2756,11 @@
           <p>Dieser ersten Initiative des Bundestages in bezug auf das Kinderspielzeug müssen deshalb noch weitere und umfassendere folgen.</p>
           <stage type="interjection">(Beifall im ganzen Hause)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Als nächster spricht der Kollege Türk.</p>
         </sp>
-        <sp who="Jürgen Türk" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Jürgen Türk">
+        <sp who="Jürgen Türk" parliamentary_group="FDP" role="mp" position="NA" who_original="Jürgen Türk" party="FDP" name="Jürgen Türk">
           <speaker>Jürgen Türk (F.D.P.):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine lieben Kolleginnen und Kollegen! Zum Abschluß dieser wahrlich turbulenten Plenarwoche demonstrieren wir mit dem Antrag über das Importverbot von Kinderspielzeug aus chinesischen Arbeitslagern, daß wir uns in einer Sache auch einig sein können. Das tut zur Abwechslung mal wieder ganz gut.</p>
           <p>Alle Fraktionen fordern die Überprüfung der schwerwiegenden Behauptung, daß die Volksrepublik China in Straflagern produziertes Kinderspielzeug nach Deutschland exportiert; und sie fordern -- weiter gehend als der zuerst vorliegende Antrag der Grünen --, dieser Einfuhr bei Verstößen nicht nur in Deutschland, sondern in der gesamten EU einen Riegel vorzuschieben.</p>
@@ -2772,11 +2774,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall im ganzen Hause)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Jetzt hat der Herr Kollege Hartmann das Wort.</p>
         </sp>
-        <sp who="Hanns-Peter Hartmann" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Hanns-Peter Hartmann">
+        <sp who="Hanns-Peter Hartmann" parliamentary_group="PDS" role="mp" position="NA" who_original="Hanns-Peter Hartmann" party="PDS" name="Hanns-Peter Hartmann">
           <speaker>Hanns-Peter Hartmann (PDS):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Bevor ich zum Antrag der Fraktion Bündnis 90/Die Grünen komme, einige einleitende Worte vorweg: Bei seiner Chinareise hatte Außenminister Kinkel eine Bürgschaftserklärung der deutschen Hermes-Kreditbank über 500 Millionen DM im Koffer. Das war am Parlament vorbei von der Bundesregierung entschieden worden. In dieser Größenordnung sollen sich die deutschen Firmen an dem höchst umstrittenen chinesischen Drei-Schluchten-Staudamm-Projekt beteiligen.</p>
           <p>Umweltschützer und Menschenrechtler lehnen dieses Projekt ab, das mehr als eine Million Menschen zur Umsiedlung zwingt, das traditionelle Wirtschaftsstrukturen vernichtet und kulturelles Erbe zerstört. Mögen auch andere Gründe dahintergestanden haben -- selbst der US-Kongreß hat eine Unterstützung dieses Projektes abgelehnt. Doch der Parlamentarische Staatssekretär des Bundeswirtschaftsministeriums, Kolb, machte den Standpunkt der Regierung klar: Man sei zu dem Ergebnis gekommen, daß die Vorteile überwiegen. Aber damit sind mit Sicherheit nicht die Vorteile für die chinesische Bevölkerung gemeint.</p>
@@ -2790,11 +2792,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Jetzt hat der Abgeordnete Erich Fritz das Wort.</p>
         </sp>
-        <sp who="Erich G. Fritz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Erich G. Fritz">
+        <sp who="Erich G. Fritz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Erich G. Fritz" party="CDU" name="Erich G. Fritz">
           <speaker>Erich G. Fritz (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Handelsfragen -- das ist in dieser Debatte schon mehrfach deutlich geworden -- können nicht von anderen politischen Zielen abgekoppelt werden. Es gibt nicht eine Welt des Handels, eine für Menschenrechte, eine für Arbeitsverhältnisse, eine andere für Umweltfragen, sondern es gibt sozusagen nur das ganze Leben.</p>
           <p>Auf der anderen Seite dürfen die Handelsfragen nicht in der Weise überfrachtet werden, daß man alles über den Handel abwickeln will. Dann ist er nämlich bald nicht mehr möglich. Man muß nach Lösungswegen suchen, die auf der einen Seite den nationalen Standpunkt in solchen Fragen ganz deutlich machen, die auf der anderen Seite aber vor allen Dingen dazu beitragen, daß das multilaterale System funktioniert und weiter ausgebaut wird. Man muß dafür sorgen, daß die globalen Verhältnisse im Handelssystem so gestaltet werden, daß auf Dauer Erscheinungen wie jene, die wir hier behandeln, beseitigt werden.</p>
@@ -2813,11 +2815,11 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall im ganzen Hause)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Als letzter hat der Parlamentarische Staatssekretär Kolb das Wort für die Bundesregierung.</p>
         </sp>
-        <sp who="Dr. Heinrich L. Kolb" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Wirtschaft" party="CDU" name="Heinrich L. Kolb">
+        <sp who="Kolb" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Wirtschaft" who_original="Kolb" party="FDP" name="Heinrich Leonhard Kolb">
           <speaker>Dr. Heinrich L. Kolb, Parl. Staatssekretär beim Bundesminister für Wirtschaft:</speaker>
           <p>Frau Präsidentin! Meine lieben Kolleginnen und Kollegen! Ich glaube, die bisherigen Beratungen dieses Antrags haben Übereinstimmung darüber gezeigt, daß wir einen Import von Spielwaren, die in chinesischen Straflagern hergestellt wurden, nicht dulden können. Ich will zu Beginn ganz deutlich sagen: Wir wollen kein Geschäft mit der Notlage von Menschen machen, die in solchen Lagern unter schwierigsten Umständen leben müssen. Diese Haltung -- eigentlich eine Selbstverständlichkeit -- wird auch von allen mir bekannten Wirtschaftsvertretern und Verbänden geteilt.</p>
           <p>Auch auf internationaler Ebene zeichnet sich eine einhellige Ablehnung der Importe aus Arbeitslagern ab. Ich verweise hierzu nur auf Resolutionen Nr. 29 und 105 der ILO und auf die bereits im Antrag zitierte EU-Verordnung 3281/94.</p>
@@ -2829,42 +2831,42 @@
           <p>Liebe Kolleginnen und Kollegen, Frau Grießhaber hat dem deutschen Botschafter in Peking, wenn ich das richtig verstanden habe, mangelhaftes Demokratieverständnis und eine Brüskierung des Parlamentes vorgeworfen. Ich weise diese Vorwürfe nachdrücklich zurück. Ich nehme an, daß sich diese Vorwürfe, Frau Kollegin Grießhaber, auf eine verzerrende Wiedergabe der Äußerungen von Botschafter Seitz in der Presse stützen.</p>
           <p>Ich möchte an dieser Stelle eindeutig feststellen: Botschafter Seitz hat sich bei dem Treffen des Asien-Pazifik-Ausschusses der deutschen Wirtschaft in Neu-Delhi keineswegs von der Tibet-Resolution des Deutschen Bundestages distanziert, sondern in seinem Vortrag lediglich die chinesische Sichtweise zur Entwicklung des bilateralen Verhältnisses während dieses Jahres referiert, und das in einer Weise, daß niemand hieraus falsche Schlüsse ziehen könnte, der sich ernsthaft die Mühe macht, die Äußerungen so zur Kenntnis zu nehmen, wie sie in Neu-Delhi tatsächlich gemacht worden sind. Daß die chinesische Führung der Resolution dieses Hauses kritisch gegenübersteht, wird niemanden überraschen.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Staatssekretär, gestatten Sie eine Zwischenfrage des Kollegen Poppe?</p>
         </sp>
-        <sp who="Dr. Heinrich L. Kolb" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Wirtschaft" party="CDU" name="Heinrich L. Kolb">
+        <sp who="Kolb" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Wirtschaft" who_original="Kolb" party="FDP" name="Heinrich Leonhard Kolb">
           <speaker>Dr. Heinrich L. Kolb, Parl. Staatssekretär beim Bundesminister für Wirtschaft:</speaker>
           <p>Ja, bitte sehr.</p>
         </sp>
-        <sp who="Gerd Poppe" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Gerd Poppe">
+        <sp who="Gerd Poppe" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Gerd Poppe" party="GRUENE" name="Gerd Poppe">
           <speaker>Gerd Poppe (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Parlamentarischer Staatssekretär, können Sie hier ausdrücklich dementieren, daß das in einer großen deutschen Tageszeitung in Anführungsstrichen zitierte Wort des Deutschen Bundestages als antichinesische Lobby im Zusammenhang mit der gemeinsam beschlossenen Resolution unzutreffend und nicht gefallen ist?</p>
         </sp>
-        <sp who="Dr. Heinrich L. Kolb" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Wirtschaft" party="CDU" name="Heinrich L. Kolb">
+        <sp who="Kolb" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Wirtschaft" who_original="Kolb" party="FDP" name="Heinrich Leonhard Kolb">
           <speaker>Dr. Heinrich L. Kolb, Parl. Staatssekretär beim Bundesminister für Wirtschaft:</speaker>
           <p>Herr Kollege, was ich zu sagen habe, habe ich hier bereits gesagt. Herr Botschafter Seitz hat in seinem Vortrag dort die Position der chinesischen Regierung referiert. Ich kann ausschließen, daß er selbst eine solche Äußerung mit solchem Inhalt getätigt hat. Das ist selbstverständlich und bedarf hier auch keiner besonderen Erwähnung.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Gestatten Sie eine weitere Zwischenfrage des Kollegen Bindig?</p>
         </sp>
-        <sp who="Dr. Heinrich L. Kolb" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Wirtschaft" party="CDU" name="Heinrich L. Kolb">
+        <sp who="Kolb" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Wirtschaft" who_original="Kolb" party="FDP" name="Heinrich Leonhard Kolb">
           <speaker>Dr. Heinrich L. Kolb, Parl. Staatssekretär beim Bundesminister für Wirtschaft:</speaker>
           <p>Eine noch.</p>
         </sp>
-        <sp who="Rudolf Bindig" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Bindig">
+        <sp who="Rudolf Bindig" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Bindig" party="SPD" name="Rudolf Bindig">
           <speaker>Rudolf Bindig (SPD):</speaker>
           <p>Herr Staatssekretär, da das eine wichtige und auch sensible Frage ist: Können Sie vielleicht arrangieren, daß den Rednern, die in der Debatte zu diesem Punkt gesprochen haben, der Wortlaut der dortigen Rede des deutschen Botschafters zugeleitet wird, damit wir uns an der Urquelle orientieren können?</p>
         </sp>
-        <sp who="Dr. Heinrich L. Kolb" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Wirtschaft" party="CDU" name="Heinrich L. Kolb">
+        <sp who="Kolb" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Wirtschaft" who_original="Kolb" party="FDP" name="Heinrich Leonhard Kolb">
           <speaker>Dr. Heinrich L. Kolb, Parl. Staatssekretär beim Bundesminister für Wirtschaft:</speaker>
           <p>Herr Kollege Bindig, ich halte es für einen ausgezeichneten Vorschlag und werde es gerne tun. Ich glaube, das ist auch geeignet, die hier und in der Presse teilweise aufgetretenen Mißverständnisse aus der Welt zu schaffen.</p>
           <p>Liebe Kolleginnen und Kollegen, ich komme zum Schluß. Ich betone abschließend noch einmal: Exporte aus Straflagern können wir nicht hinnehmen. Dem Antrag vom Bündnis 90/Die Grünen in der jetzigen interfraktionellen Fassung stimme ich von daher auch im Namen der Bundesregierung zu.</p>
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Ich schließe damit die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über die Beschlußempfehlung des Ausschusses für Wirtschaft zu dem Antrag der Fraktion des Bündnisses 90/Die Grünen gegen Import von Kinderspielzeug aus chinesischen Arbeitslagern auf Drucksache 13/5079. Der Ausschuß empfiehlt, den Antrag auf Drucksache 13/3054 in der Ausschußfassung anzunehmen. Wer stimmt dafür? -- Gegenstimmen? -- Enthaltungen? -- Die Beschlußempfehlung ist damit einstimmig mit den Stimmen des ganzen Hauses angenommen worden.</p>
@@ -2872,6 +2874,7 @@
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 13. November 1996, 13 Uhr, ein.</p>
           <p>Ich wünsche allen Kolleginnen und Kollegen und den Besucherinnen und Besuchern auf der Tribüne ein schönes Wochenende.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluß der Sitzung: 13.48 Uhr)</stage>
         </sp>
       </div>
     </body>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-07</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2013/0920/dokumente/protokolle/plenarprotokolle/plenarprotokolle/17125.txt</url>
-        <date>2015-10-20 19:56:49</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -35,8 +35,8 @@
   </teiHeader>
   <text>
     <body>
-      <div type="agenda_item" n="1" what="debate" desc="a) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Geset...">
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+      <div type="agenda_item" n="1" what="debate" desc="Debatte">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Guten Morgen, liebe Kolleginnen und Kollegen! Die Sitzung ist eröffnet.</p>
           <p>Wir setzen die Haushaltsberatungen - Tagesordnungspunkt 1 - fort:</p>
@@ -54,7 +54,7 @@
           <p>Als erster Redner hat das Wort der Bundesverkehrsminister Dr. Peter Ramsauer.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Peter Ramsauer" parliamentary_group="NA" role="government" position="Bundesminister für Verkehr, Bau und Stadtentwicklung" party="CSU" name="Peter Ramsauer">
+        <sp who="Peter Ramsauer" parliamentary_group="NA" role="government" position="Bundesminister für Verkehr, Bau und Stadtentwicklung" who_original="Peter Ramsauer" party="CSU" name="Peter Ramsauer">
           <speaker>Dr. Peter Ramsauer, Bundesminister für Verkehr, Bau und Stadtentwicklung:</speaker>
           <p>Guten Morgen, Herr Präsident! Liebe Kolleginnen und Kollegen! Ich glaube, wir sind uns alle einig, dass verlässliche Rahmenbedingungen für eine wachstumsfreundliche Politik und für einen soliden Bundeshaushalt genau das sind, was die deutsche Öffentlichkeit von uns erwartet.</p>
           <stage type="interjection">(Zuruf von der SPD: Die aber enttäuscht wird!)</stage>
@@ -126,12 +126,14 @@
           <p>Besten Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Uwe Beckmeyer [SPD]: Das war aber sehr dürftig, was Sie da erzählt haben!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat der Kollege Johannes Kahrs von der SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Johannes Kahrs" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Johannes Kahrs">
+      </div>
+      <div type="agenda_item" n="2" what="debate" desc="Debatte">
+        <sp who="Johannes Kahrs" parliamentary_group="SPD" role="mp" position="NA" who_original="Johannes Kahrs" party="SPD" name="Johannes Kahrs">
           <speaker>Johannes Kahrs (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Herr Minister, ich habe hier ja schon viel gehört. Aber Ihre Rede war unterirdisch. Wir führen hier eine Debatte über den Bundeshaushalt. Sie jedoch haben sich an uns abgearbeitet. Das kann ich verstehen; denn das, was Sie gemacht haben, ist eben unterirdisch. Es kommt nicht viel dabei herum. Ich schätze Sie ja persönlich sehr und die hinter Ihnen sitzende Boygroup auch; das sind alles feine Jungs.</p>
           <stage type="interjection">(Bettina Herlitzius [BÜNDNIS 90/DIE GRÜNEN]: Solange Sie da nicht sitzen, ist alles okay!)</stage>
@@ -179,12 +181,14 @@
           <p>Vielen Dank. Schönen Tag noch!</p>
           <stage type="interjection">(Beifall bei der SPD - Thomas Jarzombek [CDU/ CSU]: Peinlich war nur diese Rede!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Für die FDP spricht jetzt die Kollegin Dr. Claudia Winterstein.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Claudia Winterstein" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Claudia Winterstein">
+      </div>
+      <div type="agenda_item" n="3" what="debate" desc="Debatte">
+        <sp who="Claudia Winterstein" parliamentary_group="FDP" role="mp" position="NA" who_original="Claudia Winterstein" party="FDP" name="Claudia Winterstein">
           <speaker>Dr. Claudia Winterstein (FDP):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Sehr verehrter Herr Kahrs, Ihre Rede war ja ganz unterhaltsam; das gebe ich zu. Aber jetzt wird es wieder überirdisch.</p>
           <stage type="interjection">(Florian Pronold [SPD]: Eher außerirdisch!)</stage>
@@ -232,12 +236,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat der Kollege Roland Claus von der Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Roland Claus" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Roland Claus">
+      </div>
+      <div type="agenda_item" n="4" what="debate" desc="Debatte">
+        <sp who="Roland Claus" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Roland Claus" party="DIE LINKE" name="Roland Claus">
           <speaker>Roland Claus (DIE LINKE):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Wir reden hier über den Infrastruktur- und Investitionsetat des Bundes. Gewiss, Aufbau von Infrastruktur und Investitionen finden auch in anderen Ressorts statt, aber nicht in dieser Dimension. Mehr als 50 Prozent aller Investitionen des Bundes sind in diesem Ressort veranschlagt.</p>
           <p>Es ist also ein enorm wichtiger Haushalt. Das ist auch der Grund dafür, dass die Linke den zuständigen Bundesminister zu mehr Selbstbewusstsein auffordern muss.</p>
@@ -276,12 +282,14 @@
           <p>Herr Bundesminister, wir werden die Aufstellung Ihres Etats mit Leidenschaft begleiten. Noch einmal zum Thema Selbstbewusstsein: Trotz der vermeintlichen Übermacht des Bundesfinanzministeriums gilt beim Umgang mit diesem Ministerium: Kopf hoch und nicht die Hände, Herr Minister!</p>
           <stage type="interjection">(Beifall bei der LINKEN - Heiterkeit des Abg. Johannes Kahrs [SPD] - Johannes Kahrs [SPD]: Der war gut!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat der Kollege Stephan Kühn vom Bündnis 90/Die Grünen.</p>
           <stage type="interjection">(Johannes Kahrs [SPD]: Aber nun auf sie mit Gebrüll!)</stage>
         </sp>
-        <sp who="Stephan Kühn" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Stephan Kühn">
+      </div>
+      <div type="agenda_item" n="5" what="debate" desc="Debatte">
+        <sp who="Stephan Kühn" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Stephan Kühn" party="GRUENE" name="Stephan Kühn">
           <speaker>Stephan Kühn (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine Damen und Herren! Man kann es nicht oft genug sagen: Der Haushalt ist das in Zahlen gegossene politische Programm einer Regierung. Man müsste darin also eine Strategie erkennen,</p>
           <stage type="interjection">(Lachen des Abg. Johannes Kahrs [SPD] - Johannes Kahrs [SPD]: Das stimmt! Man müsste!)</stage>
@@ -314,11 +322,13 @@
           <p>Sie ändern aber nichts daran, obwohl Anspruch und Wirklichkeit deutlich auseinanderklaffen. Es gibt 2011 und 2012 keine Neubeginne von Projekten im Straßenbereich. Der neue Investitionsrahmenplan, den Sie bald vorlegen werden, wird dem bisherigen Plan gleichen und keine neuen Projekte enthalten. Die bisherige Investitionsstrategie - wenn man überhaupt von einer Strategie reden kann - ist deutlich gescheitert.</p>
           <p>Legen Sie bitte endlich einen Haushalt vor, mit dem die Erreichung der Klimaschutzziele und die Senkung der Lärm- und Schadstoffemissionen wirklich gelingen können. Was Sie machen, ist einfach planlos. Oder soll beispielsweise die Kürzung der Mittel für den Radwegebau an Bundesstraßen Ihr Beitrag zur Haushaltskonsolidierung sein? Ich kann mir das, ehrlich gesagt, nicht vorstellen.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Kommen Sie bitte zum Schluss.</p>
         </sp>
-        <sp who="Stephan Kühn" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Stephan Kühn">
+      </div>
+      <div type="agenda_item" n="6" what="debate" desc="Debatte">
+        <sp who="Stephan Kühn" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Stephan Kühn" party="GRUENE" name="Stephan Kühn">
           <speaker>Stephan Kühn (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ich komme zum Schluss.</p>
           <p>Ich möchte die Gelegenheit nutzen, zum Schluss versöhnliche Worte zu finden und das Thema Transrapid anzusprechen. In der Haushaltsdebatte vom 23. November 2010 hat der Minister zum Thema Transrapid gesagt:</p>
@@ -327,12 +337,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat der Kollege Arnold Vaatz von der CDU/ CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Arnold Vaatz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Arnold Vaatz">
+      </div>
+      <div type="agenda_item" n="7" what="debate" desc="Debatte">
+        <sp who="Arnold Vaatz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Arnold Vaatz" party="CDU" name="Arnold Vaatz">
           <speaker>Arnold Vaatz (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Ich finde schon, dass es erneut gelungen ist, einen Etatentwurf des Ministeriums für Verkehr, Bau und Stadtentwicklung vorzulegen, der angesichts der dramatischen finanzpolitischen Situation, in der er aufgestellt worden ist, einen enormen investiven Anteil aufweist.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
@@ -415,11 +427,13 @@
           <p>Es gibt auch noch - -</p>
           <stage type="interjection">(Bettina Herlitzius [BÜNDNIS 90/DIE GRÜNEN]: Gehen Sie nach Hause! - Thomas Lutze [DIE LINKE]: Ein Schlag ins Gesicht! Sie haben keine Ahnung von Sozialem und Kultur in den Städten! - Weitere Zurufe)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Liebe Kolleginnen und Kollegen, das Wort hat der Kollege Vaatz, und anschließend gibt es noch Redner Ihrer Fraktionen, die dazu Stellung nehmen können. - Bitte.</p>
         </sp>
-        <sp who="Arnold Vaatz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Arnold Vaatz">
+      </div>
+      <div type="agenda_item" n="8" what="debate" desc="Debatte">
+        <sp who="Arnold Vaatz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Arnold Vaatz" party="CDU" name="Arnold Vaatz">
           <speaker>Arnold Vaatz (CDU/CSU):</speaker>
           <p>Es gibt noch ein Problem, und ich hoffe, dass es uns gelingt, dieses zu lösen.</p>
           <stage type="interjection">(Zuruf des Abg. Florian Pronold [SPD])</stage>
@@ -434,12 +448,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Lachen bei Abgeordneten der SPD - Johannes Kahrs [SPD]: Zurück in die Vergangenheit!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat der Kollege Uwe Beckmeyer von der SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD - Johannes Kahrs [SPD]: Guter Mann! - Thomas Jarzombek [CDU/ CSU]: Jetzt sind wir mal gespannt, was ihr bei der Maut wollt! Dazu hat noch keiner was gesagt!)</stage>
         </sp>
-        <sp who="Uwe Beckmeyer" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Uwe Beckmeyer">
+      </div>
+      <div type="agenda_item" n="9" what="debate" desc="Debatte">
+        <sp who="Uwe Beckmeyer" parliamentary_group="SPD" role="mp" position="NA" who_original="Uwe Beckmeyer" party="SPD" name="Uwe Beckmeyer">
           <speaker>Uwe Beckmeyer (SPD):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Herr Vaatz, auf Ihre Rede gehe ich nicht ein.</p>
           <stage type="interjection">(Arnold Vaatz [CDU/CSU]: Dann lassen Sie es! Das ist doch gut so!)</stage>
@@ -470,29 +486,35 @@
           <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Nicht der Individualverkehr auf unseren Straßen, sondern der Güterverkehr wächst. Deshalb brauchen wir neue Konzepte und einen verkehrspolitischen Konsens für den Güterverkehr. Sie holen aber niemanden an den Tisch, um über das, was wir benötigen, zu reden. Sie reden mit niemandem darüber, wie wir es auf die Beine stellen können, damit es gesamtgesellschaftlich im Konsens akzeptiert wird. Genau das ist doch aber nötig. Kümmern Sie sich bitte darum oder treten Sie ab! Sie müssen Antworten auf die Fragen geben, wie wir in Deutschland Infrastruktur organisieren wollen, welches Netz wir auf der Schiene brauchen, welches Autobahnnetz wir benötigen, wo Ergänzungen nötig sind und wie Sie die Brückensanierungsprogramme ordentlich finanzieren wollen.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Herr Beckmeyer, kommen Sie bitte zum Schluss.</p>
         </sp>
-        <sp who="Uwe Beckmeyer" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Uwe Beckmeyer">
+      </div>
+      <div type="agenda_item" n="10" what="debate" desc="Debatte">
+        <sp who="Uwe Beckmeyer" parliamentary_group="SPD" role="mp" position="NA" who_original="Uwe Beckmeyer" party="SPD" name="Uwe Beckmeyer">
           <speaker>Uwe Beckmeyer (SPD):</speaker>
           <p>Ja. - Ich will am Ende sagen: Es ist doch klar, worin die Dramatik liegt. Die Regierungskoalition sagt, dass 10 Milliarden Euro pro Jahr zur Verfügung stehen. Nehmen Sie aber bitte zur Kenntnis, dass in dieser Zeit die Baupreise um 20 Prozent gestiegen sind und dass durch Umplanungen Kostensteigerungen von weiteren 10 Prozent entstanden sind. Real stehen Ihnen dadurch für Ihre Aufgaben aktuell 30 Prozent weniger zur Verfügung. Insofern stellen wir fest, dass wir es hier mit einem Werteverlust in der Verkehrsinfrastruktur zu tun haben. Sie aber bemänteln das.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Herr Beckmeyer!</p>
         </sp>
-        <sp who="Uwe Beckmeyer" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Uwe Beckmeyer">
+      </div>
+      <div type="agenda_item" n="11" what="debate" desc="Debatte">
+        <sp who="Uwe Beckmeyer" parliamentary_group="SPD" role="mp" position="NA" who_original="Uwe Beckmeyer" party="SPD" name="Uwe Beckmeyer">
           <speaker>Uwe Beckmeyer (SPD):</speaker>
           <p>Sehr geehrter Herr Minister, da Sie diesen Aufgaben nicht nachkommen, möchten wir Sozialdemokraten Sie daran erinnern, dass Sie einen Eid gemäß Art. 56 des Grundgesetzes geleistet haben. Sie haben sich dem Wohl des deutschen Volkes zu widmen und seinen Nutzen zu mehren. Tun Sie das bitte!</p>
           <stage type="interjection">(Beifall bei der SPD - Otto Fricke [FDP]: Auch die Opposition!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt der Kollege Patrick Döring von der FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Johannes Kahrs [SPD]: Der Vorkämpfer für die Pkw-Maut!)</stage>
         </sp>
-        <sp who="Patrick Döring" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Patrick Döring">
+      </div>
+      <div type="agenda_item" n="12" what="debate" desc="Debatte">
+        <sp who="Patrick Döring" parliamentary_group="FDP" role="mp" position="NA" who_original="Patrick Döring" party="FDP" name="Patrick Döring">
           <speaker>Patrick Döring (FDP):</speaker>
           <p>Herr Präsident! Meine liebe Kolleginnen und Kollegen! Lieber Herr Kollege Beckmeyer, einen Minister, dem der Haushaltsgesetzgeber 25,3 Milliarden Euro, davon 13,7 Milliarden Euro für Investitionen, zur Verfügung stellen will, als Minister der leeren Taschen zu bezeichnen, sagt viel über Ihr haushaltspolitisches Grundverständnis aus.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Bettina Hagedorn [SPD]: Sie wollen doch die Steuersenkungen!)</stage>
@@ -525,12 +547,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Johannes Kahrs [SPD]: Den Klimaschutz haben Sie doch schon aufgegeben!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Für die Linken hat jetzt das Wort der Kollege Thomas Lutze.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Thomas Lutze" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Thomas Lutze">
+      </div>
+      <div type="agenda_item" n="13" what="debate" desc="Debatte">
+        <sp who="Thomas Lutze" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Thomas Lutze" party="DIE LINKE" name="Thomas Lutze">
           <speaker>Thomas Lutze (DIE LINKE):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Der Bund unterstützt den Eisenbahnverkehr in einem erheblichen Umfang. Neben den Regionalisierungsmitteln sind das vor allen Dingen Investitionen in die Infrastruktur. Als Linke fordern wir dennoch mehr finanzielle Unterstützung für den Bahnverkehr. Wir sind gegen milliardenteure Prestigeprojekte, falls die Frage auftauchen sollte, woher das Geld denn kommen soll.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -558,11 +582,13 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Für die Grünen spricht nun die Kollegin Bettina Herlitzius.</p>
         </sp>
-        <sp who="Bettina Herlitzius" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Bettina Herlitzius">
+      </div>
+      <div type="agenda_item" n="14" what="debate" desc="Debatte">
+        <sp who="Bettina Herlitzius" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Bettina Herlitzius" party="GRUENE" name="Bettina Herlitzius">
           <speaker>Bettina Herlitzius (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrter Herr Präsident! Sehr geehrte Damen und Herren! Und täglich grüßt das Murmeltier: Seitdem Schwarz-Gelb in Berlin regiert, treffen wir uns jährlich im Plenum zu den Haushaltsberatungen, und immer läuft dieselbe Szenerie ab. Den ganzen Sommer über sagen uns die Mitglieder der Regierung, wie wichtig die Städtebauförderung für unsere Städte und die KfW-Förderung für unsere Gebäude ist. Was aber passiert? Sie legen uns tatsächlich wieder einen Haushaltsentwurf vor, der bei genau diesen beiden Schlüsselthemen des Baubereiches, Städtebauförderung und energetischer Gebäudesanierung, massive Kürzungen vorsieht.</p>
           <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNISSES 90/ DIE GRÜNEN und der SPD)</stage>
@@ -582,25 +608,29 @@
           <p>Um die Sanierungsquote auf 2 Prozent zu erhöhen, stellt die Bundesregierung ab dem kommenden Jahr jährlich 1,5 Milliarden Euro ... zur Verfügung. Zusätzlich werden wir steuerliche Förderung schaffen, um weitere Eigentümergruppen für eine energetische Sanierung zu gewinnen.</p>
           <p>Das hört sich erst einmal gut an. Politische Visionen sind aber die eine Seite, die nackten Haushaltszahlen im Herbst sind die andere.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Frau Herlitzius, der Kollege Sebastian Körber würde Ihnen gerne eine Zwischenfrage stellen.</p>
         </sp>
-        <sp who="Bettina Herlitzius" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Bettina Herlitzius">
+      </div>
+      <div type="agenda_item" n="15" what="debate" desc="Debatte">
+        <sp who="Bettina Herlitzius" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Bettina Herlitzius" party="GRUENE" name="Bettina Herlitzius">
           <speaker>Bettina Herlitzius (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Sebastian Körber" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Sebastian Körber">
+      </div>
+      <div type="agenda_item" n="16" what="debate" desc="Debatte">
+        <sp who="Sebastian Körber" parliamentary_group="FDP" role="mp" position="NA" who_original="Sebastian Körber" party="FDP" name="Sebastian Körber">
           <speaker>Sebastian Körber (FDP):</speaker>
           <p>Vielen Dank, Frau Kollegin Herlitzius. Sie haben ein sehr gutes Instrument angesprochen, das zur Gebäudesanierung in Deutschland beitragen könnte, nämlich die steuerlichen Abschreibungsmöglichkeiten für Immobilien. Der Gesetzesvorschlag der Koalition und der Bundesregierung ist bekanntermaßen im Bundesrat abgelehnt worden, und zwar unter Federführung der rot-grün geführten Länder, aber auch des grün-rot geführten Landes, nämlich Baden-Württemberg.</p>
           <p>Wenn man den Koalitionsvertrag von Baden-Württemberg liest, dann hat man das Gefühl, Klimaschutz steht in jeder dritten Zeile. Ich finde es fast unverschämt, wenn Sie hier sagen, dass der Bereich von unserer Seite nicht mit ausreichenden finanziellen Mitteln bedacht worden ist. Ich frage Sie deshalb: Finden Sie es nicht problematisch, oder ist es Ihnen nicht zumindest etwas peinlich, wie sich der grüne Ministerpräsident Herr Kretschmann in diesem Punkt verhält?</p>
           <stage type="interjection">(Daniela Wagner [BÜNDNIS 90/DIE GRÜNEN]: Warum haben Sie denn den Vermittlungsausschuss nicht angerufen?)</stage>
         </sp>
-        <sp who="Bettina Herlitzius" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Bettina Herlitzius">
+        <sp who="Bettina Herlitzius" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Bettina Herlitzius" party="GRUENE" name="Bettina Herlitzius">
           <speaker>Bettina Herlitzius (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Körber, ich glaube, es sollte Ihnen peinlich sein.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -619,26 +649,30 @@
           <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNIS-SES 90/DIE GRÜNEN - Otto Fricke [FDP]: Das ist doch lächerlich!)</stage>
           <p>Im Haushalt sind aber noch einige andere Sommermärchen enthalten. Das Programm "Altersgerecht Umbauen" der KfW war, glaube ich, Ihr Sommermärchen, Herr Körber. Auch hierfür wollten Sie kämpfen. Seit zwei Jahren ist dieses Förderprogramm auf dem Markt. Die Bauherren hatten kaum Zeit, sich darauf einzustellen. Jetzt, da es langsam zu wirken anfängt, stampft diese Regierung es ein.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Frau Kollegin Herlitzius, darf ich Sie noch einmal unterbrechen? - Der Kollege Fricke würde Ihnen gerne eine Zwischenfrage stellen. Sie entscheiden das.</p>
         </sp>
-        <sp who="Bettina Herlitzius" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Bettina Herlitzius">
+      </div>
+      <div type="agenda_item" n="17" what="debate" desc="Debatte">
+        <sp who="Bettina Herlitzius" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Bettina Herlitzius" party="GRUENE" name="Bettina Herlitzius">
           <speaker>Bettina Herlitzius (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Okay.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Otto Fricke" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Otto Fricke">
+      </div>
+      <div type="agenda_item" n="18" what="debate" desc="Debatte">
+        <sp who="Otto Fricke" parliamentary_group="FDP" role="mp" position="NA" who_original="Otto Fricke" party="FDP" name="Otto Fricke">
           <speaker>Otto Fricke (FDP):</speaker>
           <p>Frau Kollegin Herlitzius, ich finde es schon beachtlich,</p>
           <stage type="interjection">(Daniela Wagner [BÜNDNIS 90/DIE GRÜNEN]: Die sind alle hochnervös!)</stage>
           <p>wenn eine Bundestagsabgeordnete fordert, dass die Länder Geld vom Bund erhalten sollen. Sie haben eine Verantwortung für den Bundeshaushalt. Vielleicht beruht Ihre Haltung auf einer mangelnden Faktenkenntnis. Haben nach Ihrer Meinung die Länder und Kommunen mehr Steuereinnahmen oder der Bund? Das wissen Sie wahrscheinlich nicht.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Bettina Herlitzius" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Bettina Herlitzius">
+        <sp who="Bettina Herlitzius" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Bettina Herlitzius" party="GRUENE" name="Bettina Herlitzius">
           <speaker>Bettina Herlitzius (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Fricke, das ist eine allgemeine Aussage. Auf welche Steuern beziehen Sie sich?</p>
           <stage type="interjection">(Patrick Döring [FDP]: Die Gesamtsteuereinnahmen!)</stage>
@@ -659,12 +693,14 @@
           <p>In diesem Sinne.</p>
           <stage type="interjection">(Heiterkeit und Beifall beim BÜNDNIS 90/ DIE GRÜNEN und bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Für die SPD hat der Kollege Florian Pronold das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD - Johannes Kahrs [SPD]: Guter Mann!)</stage>
         </sp>
-        <sp who="Florian Pronold" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Florian Pronold">
+      </div>
+      <div type="agenda_item" n="19" what="debate" desc="Debatte">
+        <sp who="Florian Pronold" parliamentary_group="SPD" role="mp" position="NA" who_original="Florian Pronold" party="SPD" name="Florian Pronold">
           <speaker>Florian Pronold (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Sehr geehrte Damen und Herren! Lieber Herr Minister Ramsauer, Sie sind bei den vergangenen Debatten immer als Ankündigungsminister gestartet - eine Ankündigung nach der anderen. Heute müssen wir feststellen: Sie sind der Stillstandsminister dieser Regierung, weil sich in keinem Ressort so wenig bewegt wie in Ihrem. Der Ankündigung folgt kein Handeln.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -702,12 +738,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN - Abg. Reinhold Sendker [CDU/CSU] begibt sich zum Rednerpult)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Herr Kollege Sendker, ich habe Sie noch nicht aufgerufen. Aber Sie können gerne dort stehen bleiben; denn Sie haben jetzt das Wort. Allerdings ruft immer noch der Präsident die Redner auf. - Das Wort hat der Kollege Reinhold Sendker von der CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Dr. Gesine Lötzsch [DIE LINKE]: Die Abgeordneten werden immer selbstständiger!)</stage>
         </sp>
-        <sp who="Reinhold Sendker" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Reinhold Sendker">
+      </div>
+      <div type="agenda_item" n="20" what="debate" desc="Debatte">
+        <sp who="Reinhold Sendker" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Reinhold Sendker" party="CDU" name="Reinhold Sendker">
           <speaker>Reinhold Sendker (CDU/CSU):</speaker>
           <p>Vielen herzlichen Dank, Herr Präsident. - Meine lieben Kolleginnen und Kollegen! Sehr geehrter Herr Pronold, Sie haben eben die Süddeutsche Zeitung zitiert und unseren Minister als Stillstandsminister bezeichnet.</p>
           <stage type="interjection">(Johannes Kahrs [SPD]: Recht hat er!)</stage>
@@ -749,12 +787,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Als letzte Rednerin zu diesem Geschäftsbereich hat die Kollegin Stefanie Vogelsang von der CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP und des Abg. Johannes Kahrs [SPD] - Johannes Kahrs [SPD]: Gute Frau!)</stage>
         </sp>
-        <sp who="Stefanie Vogelsang" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Stefanie Vogelsang">
+      </div>
+      <div type="agenda_item" n="21" what="debate" desc="Debatte">
+        <sp who="Stefanie Vogelsang" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stefanie Vogelsang" party="CDU" name="Stefanie Vogelsang">
           <speaker>Stefanie Vogelsang (CDU/CSU):</speaker>
           <p>Netter Kollege. - Herr Präsident! Meine Damen und Herren! Lassen Sie mich als Haushaltspolitikerin der Union zum Abschluss dieser Debatte noch einmal einen kurzen Blick auf den Etat des Bundesbauministers werfen. Wir hatten uns - das möchte ich eingangs sagen - in den letzten Monaten, eigentlich schon seit über einem Jahr, mit der Staatsschuldenkrise der Länder in der Euro-Zone zu beschäftigen. In der letzten Wahlperiode hatten wir eine Wirtschafts- und Finanzkrise und haben über 80 Milliarden Euro als Konjunkturmittel zur Verfügung gestellt. Das war eine richtige und wichtige Maßnahme, um die wirtschaftliche Entwicklung in der Bundesrepublik Deutschland voranzubringen. Genau das, was die Bundeskanzlerin versprochen hat, nämlich dass Deutschland stärker aus der Krise hervorgeht, als es hineingegangen ist, ist damit auch wahr geworden.</p>
           <p>Nun geht es aber darum, durch Konsolidierungsmaßnahmen diese 80 Milliarden Euro zu refinanzieren. Die Konjunkturmittel wurden erfolgreich eingesetzt. Jetzt geht es darum, die Ausgaben herunterzufahren. Deswegen ist es so wichtig und richtig, jeden einzelnen Bereich zu evaluieren und zu schauen, wo eingespart werden kann. Ich möchte meinen Schwerpunkt gerne auf drei Punkte legen: die Verkehrsinvestitionen, das CO2-Gebäudesanierungsprogramm und die Äußerungen von Ihnen, Herr Kollege Beckmeyer, zum Thema Städtebauförderung.</p>
@@ -775,11 +815,13 @@
           <p>Hier im Land Berlin - das ist vielleicht das Vorzeigeland für verschiedene Maßnahmen - haben die Kommunen und das Land Sozialarbeiterstellen abgebaut und Mittel des Programms "Soziale Stadt" tatsächlich für Themen wie Malkurse und Zusammenhalten eingesetzt.</p>
           <stage type="interjection">(Bettina Herlitzius [BÜNDNIS 90/DIE GRÜNEN]: Das ist Quatsch! - Sören Bartol [SPD]: Aber das gehört doch dazu! Haben Sie es nicht begriffen? Das ist ein Paket! - Die Abg. Florian Pronold [SPD] und Stefan Liebich [DIE LINKE] melden sich zu einer Zwischenfrage)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Frau Kollegin Vogelsang, Entschuldigung, der Kollege Pronold würde Ihnen gerne eine Zwischenfrage stellen. Lassen Sie das zu?</p>
         </sp>
-        <sp who="Stefanie Vogelsang" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Stefanie Vogelsang">
+      </div>
+      <div type="agenda_item" n="22" what="debate" desc="Debatte">
+        <sp who="Stefanie Vogelsang" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stefanie Vogelsang" party="CDU" name="Stefanie Vogelsang">
           <speaker>Stefanie Vogelsang (CDU/CSU):</speaker>
           <p>Ich spreche meinen Satz noch zu Ende, dann lasse ich sie gerne zu.</p>
           <p>Wichtig ist doch, dass die Gebietskörperschaften in diesem Bereich zusammenarbeiten. Wichtig ist, dass nicht der eine mit dem Finger auf den anderen zeigt,</p>
@@ -789,24 +831,28 @@
           <p>Während wir uns von den Linken im Wahlkampf anhören müssen, dass das Programm "Soziale Stadt" zur Gentrifizierung in den Innenstadtbereichen beiträgt, müssen wir uns von der SPD anhören, dass die "Soziale Stadt" dafür verantwortlich ist, dass in den Innenstadtbereichen kein ärmerer Mensch mehr lebt, weil alle hohe Mieten zahlen müssen. Das ist in diesem Zusammenhang völlig unverständliches Zeug.</p>
           <p>Jetzt würde ich die Zwischenfrage gerne zulassen.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Entschuldigen Sie, jetzt haben Sie Ihre Redezeit weit überschritten; deshalb kommt das nicht mehr infrage.</p>
           <stage type="interjection">(Heiterkeit im ganzen Hause)</stage>
         </sp>
-        <sp who="Stefanie Vogelsang" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Stefanie Vogelsang">
+      </div>
+      <div type="agenda_item" n="23" what="debate" desc="Debatte">
+        <sp who="Stefanie Vogelsang" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stefanie Vogelsang" party="CDU" name="Stefanie Vogelsang">
           <speaker>Stefanie Vogelsang (CDU/CSU):</speaker>
           <p>Ein letzter Satz noch. Ich bin der felsenfesten Überzeugung, dass wir so den richtigen Weg in diesem Bereich gemeinsam gehen können.</p>
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das hat jetzt natürlich den Wunsch nach einer Kurzintervention des Kollegen Pronold ausgelöst.</p>
           <stage type="interjection">(Dr. Gesine Lötzsch [DIE LINKE]: Liebich auch!)</stage>
           <p>- Ich gebe Ihnen das Wort.</p>
         </sp>
-        <sp who="Florian Pronold" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Florian Pronold">
+      </div>
+      <div type="agenda_item" n="24" what="debate" desc="Debatte">
+        <sp who="Florian Pronold" parliamentary_group="SPD" role="mp" position="NA" who_original="Florian Pronold" party="SPD" name="Florian Pronold">
           <speaker>Florian Pronold (SPD):</speaker>
           <p>Liebe Frau Kollegin Vogelsang, Sie hätten sich einfach einmal die Projekte der "Sozialen Stadt" anschauen sollen, statt hier nur darüber zu reden.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der LINKEN)</stage>
@@ -821,23 +867,27 @@
           <p>Wir stehen für sozialen Zusammenhalt. Sie aber bringen soziale Kälte in die Stadt. Hier müssen Sie umkehren.</p>
           <stage type="interjection">(Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN - Patrick Döring [FDP]: Quatsch!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Es gibt den weiteren Wunsch nach einer Kurzintervention des Kollegen Liebich. Frau Vogelsang, Sie können dann auf beide zusammen antworten.</p>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Stefan Liebich" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Stefan Liebich">
+      </div>
+      <div type="agenda_item" n="25" what="debate" desc="Debatte">
+        <sp who="Stefan Liebich" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Stefan Liebich" party="DIE LINKE" name="Stefan Liebich">
           <speaker>Stefan Liebich (DIE LINKE):</speaker>
           <p>Liebe Frau Vogelsang, Sie haben den Berliner Wahlkampf in den Bundestag getragen. Das ist okay. Dann müssen wir ihn aber auch miteinander führen. Ich will hier noch einmal daran erinnern, dass es der rot-rote Senat von Berlin war, der auf Antrag des Wirtschaftssenators Harald Wolf im Bundesrat den Antrag gestellt hat, die Kürzung bei der Städtebauförderung zurückzunehmen. Der Bundesrat hat dem zugestimmt. Das war die Position des Landes Berlin. Diese Position war richtig. Das Problem besteht nicht im Lande Berlin, sondern bei der Mehrheit des Deutschen Bundestages.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten der SPD)</stage>
           <p>Zu den Malkursen, die Ihr Kollege Vaatz angesprochen hat: Wer sich mit der Politik in der Stadt Berlin befasst, der weiß, dass das Quartiermanagement und das Programm "Soziale Stadt" ganz wichtige Arbeit für den sozialen Zusammenhalt leisten. Die vielen Projekte, die immer wieder gelobt werden - gerne auch von Politikern der CDU, gerne auch von Stadträten; früher waren Sie ja selbst Stadträtin hier in Berlin -, werden ganz maßgeblich vom Programm "Soziale Stadt" mitfinanziert. Wir brauchen diese Projekte in Berlin dringend. Wenn Sie die Mittel hierfür mit Ihrer Mehrheit kürzen, dann tun Sie den Berlinerinnen und Berlinern ganz sicher keinen Gefallen.</p>
           <stage type="interjection">(Beifall bei der LINKEN - Patrick Döring [FDP]: Das soll das Land Berlin mit seinen Mitteln selber machen!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Frau Kollegin Vogelsang, Sie können auf beide Interventionen reagieren.</p>
         </sp>
-        <sp who="Stefanie Vogelsang" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Stefanie Vogelsang">
+      </div>
+      <div type="agenda_item" n="26" what="debate" desc="Debatte">
+        <sp who="Stefanie Vogelsang" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stefanie Vogelsang" party="CDU" name="Stefanie Vogelsang">
           <speaker>Stefanie Vogelsang (CDU/CSU):</speaker>
           <p>Vielen Dank, dass Sie mir die Gelegenheit geben. - Herr Kollege Pronold, im Gegensatz zu Ihnen habe ich nicht nur einen Sommer getanzt, sondern ich habe mir die Programme der "Sozialen Stadt" über zehn, zwölf Jahre angeschaut.</p>
           <stage type="interjection">(Sören Bartol [SPD]: Aber nichts gelernt!)</stage>
@@ -852,13 +902,15 @@
           <p>Das haben wir schon selber hingekriegt.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Weitere Wortmeldungen zu diesem Einzelplan liegen nicht vor.</p>
           <p>Wir kommen zur Schlussrunde. Als erstem Redner erteile ich das Wort dem Kollegen Norbert Barthle von der CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Norbert Barthle" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Norbert Barthle">
+      </div>
+      <div type="agenda_item" n="27" what="debate" desc="Debatte">
+        <sp who="Norbert Barthle" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Norbert Barthle" party="CDU" name="Norbert Barthle">
           <speaker>Norbert Barthle (CDU/CSU):</speaker>
           <p>Sehr verehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Am Ende dieser Haushaltswoche kann man die Debatten ein Stück weit Revue passieren lassen. Insbesondere wenn ich an die Beiträge der Opposition denke, stelle ich fest, dass nur sehr wenig substanzielle Kritik am Haushaltsentwurf der Bundesregierung geäußert wurde.</p>
           <stage type="interjection">(Widerspruch bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN - Sven-Christian Kindler [BÜNDNIS 90/DIE GRÜNEN]: Zuhören!)</stage>
@@ -927,12 +979,14 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Carsten Schneider hat das Wort für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD - Johannes Kahrs [SPD]: Guter Mann!)</stage>
         </sp>
-        <sp who="Carsten Schneider" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Carsten Schneider">
+      </div>
+      <div type="agenda_item" n="28" what="debate" desc="Debatte">
+        <sp who="Carsten Schneider (Erfurt)" parliamentary_group="SPD" role="mp" position="NA" who_original="Carsten Schneider (Erfurt)" party="SPD" name="Carsten Schneider">
           <speaker>Carsten Schneider (Erfurt) (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Wenn man die Haushaltsdebatten in dieser Woche Revue passieren lässt und die Zeitungen liest, bekommt man den Eindruck, es ging um vieles - insbesondere bei der Koalition -, aber nur wenig um den Haushalt und die Lage in unserem Land 2012.</p>
           <stage type="interjection">(Dr. h. c. Jürgen Koppelin [FDP]: Das lag an euren Beiträgen! - Otto Fricke [FDP]: Weil ihr nichts zu kritisieren gefunden habt!)</stage>
@@ -1017,12 +1071,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Der Kollege Dr. Jürgen Koppelin hat jetzt das Wort für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. h. c. Jürgen Koppelin" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Jürgen Koppelin">
+      </div>
+      <div type="agenda_item" n="29" what="debate" desc="Debatte">
+        <sp who="Jürgen Koppelin" parliamentary_group="FDP" role="mp" position="NA" who_original="Jürgen Koppelin" party="FDP" name="Jürgen Koppelin">
           <speaker>Dr. h. c. Jürgen Koppelin (FDP):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Der Kollege Carsten Schneider, von mir sehr geschätzt, ist ja ein intelligenter Mensch.</p>
           <stage type="interjection">(Johannes Kahrs [SPD]: Ist er auch!)</stage>
@@ -1089,12 +1145,14 @@
           <p>Ich danke Ihnen für Ihre Geduld.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Dietmar Bartsch hat jetzt das Wort für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Dietmar Bartsch" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Dietmar Bartsch">
+      </div>
+      <div type="agenda_item" n="30" what="debate" desc="Debatte">
+        <sp who="Dietmar Bartsch" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Dietmar Bartsch" party="DIE LINKE" name="Dietmar Bartsch">
           <speaker>Dr. Dietmar Bartsch (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Gestatten Sie mir eine Vorbemerkung: Wir hatten hier eine sehr interessante Haushaltswoche. Es gab nämlich unterschiedliche Realitäten. Die der Regierung ist, dass dies ein wunderschönes Land ohne jegliche haushaltspolitische Probleme ist. Die Opposition hat zweifelsohne eine andere Realität.</p>
           <p>Ich habe vor der Haushaltswoche in Mecklenburg-Vorpommern eine dritte Realität kennenlernen dürfen. Dies geschah nicht im Rahmen der Wahlveranstaltungen der Partei, sondern im Rahmen vieler Gespräche mit Menschen. Ich kann nur eines feststellen: Diese Menschen verstehen uns häufig nicht. Es sollte ein Alarmsignal und eine Herausforderung für uns sein, dass alle hier im Bundestag vertretenen Parteien zusammen keine 50 Prozent der Stimmen der Wahlberechtigten in Mecklenburg-Vorpommern erreicht haben. Lassen Sie uns auch bei Haushaltsdebatten gemeinsam darüber nachdenken.</p>
@@ -1146,11 +1204,13 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Der Kollege Sven-Christian Kindler hat jetzt das Wort für Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Sven-Christian Kindler" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Sven-Christian Kindler">
+      </div>
+      <div type="agenda_item" n="31" what="debate" desc="Debatte">
+        <sp who="Sven-Christian Kindler" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Sven-Christian Kindler" party="GRUENE" name="Sven-Christian Kindler">
           <speaker>Sven-Christian Kindler (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Hinter uns liegt nun die erste Haushaltswoche im Deutschen Bundestag in diesem Jahr. Im Gegensatz zu anderen Haushaltswochen hatten wir eine ganz besondere Woche. Es ging vor allen Dingen um die Fragen: Wie gehen wir mit der Finanzkrise um? Wie gehen wir mit der Krise des Euro um? Wie gehen wir mit der Staatsschuldenkrise um?</p>
           <p>Was waren die Antworten dieser Koalition darauf? Ich fange einmal mit der CSU an. Der Chef der CSU, Horst Seehofer, aus München spekuliert darüber, ob Griechenland nicht aus dem Euro-Raum austreten sollte, und stellt sich offen gegen die Kanzlerin, die eine europäische Wirtschaftsregierung vorschlägt. Die FDP mit dem neuen Fraktionsvorsitzenden Rainer Brüderle zeigt: Beim Anti-Euro-Populismus ist die FDP auf dem gleichen Niveau wie die CSU.</p>
@@ -1191,12 +1251,14 @@
           <p>Wir Grünen werden Ihnen in den Haushaltsverhandlungen faire Angebote für eine nachhaltige und gerechte Haushaltspolitik machen. Wir werden genau zeigen, wo man gezielt und sinnvoll sparen, Subventionen abbauen und gerechte Mehreinnahmen erzielen kann, damit wir auch investieren können. Wir wollen in die Zukunft, in die Energiewende, in den Klimaschutz und in ein zukunftsfähiges Bildungssystem investieren und für globale Gerechtigkeit eintreten. Das ist der zentrale Unterschied zwischen Ihnen und uns. Wir denken an morgen. Sie sind eine Koalition von gestern. Es wird Zeit, dass Sie abgewählt werden.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Der Kollege Hans Michelbach hat jetzt das Wort für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Hans Michelbach" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Hans Michelbach">
+      </div>
+      <div type="agenda_item" n="32" what="debate" desc="Debatte">
+        <sp who="Hans Michelbach" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hans Michelbach" party="CSU" name="Hans Michelbach">
           <speaker>Dr. h. c. Hans Michelbach (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Kolleginnen und Kollegen! Das Fazit der Haushaltsdebatten in dieser Woche lautet: Die christlich-liberale Koalition ist der Anker der Stabilität für Deutschland und Europa. Entschlossen und besonnen bekämpfen wir die internationale Schuldenkrise und die Finanzmarktexzesse, und wir arbeiten für eine erfolgreiche Wachstums- und Wettbewerbsfähigkeit unserer Wirtschaft.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
@@ -1233,22 +1295,26 @@
           <stage type="interjection">(Carsten Schneider [Erfurt] [SPD]: Ihre Redezeit ist um!)</stage>
           <p>Letzten Endes werden wir auch die Unterschiede im Bereich der Finanzmarktregulierung deutlich machen. Wir haben Wesentliches auf die Beine gestellt, von dem Verbot der Leerverkäufe bis zur Bankenabgabe. Da lassen wir uns von niemandem übertreffen.</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Herr Kollege.</p>
         </sp>
-        <sp who="Dr. h. c. Hans Michelbach" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Hans Michelbach">
+      </div>
+      <div type="agenda_item" n="33" what="debate" desc="Debatte">
+        <sp who="Hans Michelbach" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hans Michelbach" party="CSU" name="Hans Michelbach">
           <speaker>Dr. h. c. Hans Michelbach (CDU/CSU):</speaker>
           <p>Wir regulieren die Finanzmärkte, und wir werden dafür sorgen, dass der Faktor des Dienens der Finanzwirtschaft für die Realwirtschaft wieder Platz greift. Das ist der richtige Weg; wir schlagen ihn ein.</p>
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Nicolette Kressl spricht jetzt für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Nicolette Kressl" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Nicolette Kressl">
+      </div>
+      <div type="agenda_item" n="34" what="debate" desc="Debatte">
+        <sp who="Nicolette Kressl" parliamentary_group="SPD" role="mp" position="NA" who_original="Nicolette Kressl" party="SPD" name="Nicolette Kressl">
           <speaker>Nicolette Kressl (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Herr Michelbach, ich glaube, Ihre Rede war symptomatisch für das Problem, in dem die Koalition steckt.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD - Dr. Michael Meister [CDU/CSU]: Ja, die Rede war sehr gut! Die Koalition ist auch sehr gut!)</stage>
@@ -1282,7 +1348,7 @@
           <stage type="interjection">(Beifall bei der SPD - Norbert Barthle [CDU/ CSU]: Hätten Sie lieber der Erhöhung des Kindergeldes zugestimmt! Familienfeindliche Politik machen Sie!)</stage>
           <p>Grund dafür - das wissen Sie doch auch -, dass Ihre mehrmals einberufene Mehrwertsteuerkommission irgendwie nie tagt, ist, dass Sie sich nicht trauen, dieses Problem anzugehen. Ich frage mich: Warum? Der Terminplan kann im Laufe von anderthalb Jahren irgendwie nicht der Grund dafür sein. Es liegt daran, dass Sie nicht zu Potte kommen, zu sagen: Da haben wir einen Fehler gemacht. Das nehmen wir zurück. Damit haben wir für eine vernünftige Struktur unseres Staates jährlich 1 Milliarde Euro mehr. - Das ist doch Ihr Problem. Sie stellen sich den Herausforderungen nicht in verantwortlicher Weise.</p>
           <stage type="interjection">(Beifall bei der SPD - Norbert Barthle [CDU/ CSU]: Sie müssen es korrekt darstellen! Die Milliarde teilt sich auf, auf Bund und Länder! Die haben nicht nur wir!)</stage>
-          <p>Solidarisch und vorausschauend wäre es übrigens auch gewesen, wenn Sie im Rahmen der Gemeindefinanzkommission nicht aufgehört hätten, für strukturelle Verbesserungen bei den Kommunen zu sorgen. Wir finden es ja gut, dass die Kosten für die Grundsicherung übernommen werden. Es bedurfte übrigens massiven Bohrens der A-Länder und der SPD-Seite, dass es so weit gekommen ist. </p>
+          <p>Solidarisch und vorausschauend wäre es übrigens auch gewesen, wenn Sie im Rahmen der Gemeindefinanzkommission nicht aufgehört hätten, für strukturelle Verbesserungen bei den Kommunen zu sorgen. Wir finden es ja gut, dass die Kosten für die Grundsicherung übernommen werden. Es bedurfte übrigens massiven Bohrens der A-Länder und der SPD-Seite, dass es so weit gekommen ist.</p>
           <p>Aber der Punkt ist: Nachdem Sie es nicht geschafft haben, die der Gewerbesteuer zu beseitigen, weigern Sie sich jetzt auch, über strukturelle Veränderungen, über Gemeindewirtschaftsteuern oder Veränderungen bei der Gewerbesteuer oder was auch immer nachzudenken, um so dauerhaft die Situation der Kommunen strukturell zu verbessern. Die Umsetzung eigener Vorschläge nicht gelungen, darüber beleidigt und dann Verweigerungshaltung gegenüber anderen Weiterentwicklungsmöglichkeiten - auch das ist symptomatisch für das, was Sie hier im Bereich der Steuerpolitik bieten.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Sie sind auch nicht bereit, wie wir es sind, über mögliche Veränderungen beispielsweise im Bereich der Brennelementesteuer zu reden. Sie wissen doch, dass diese Steuer nicht das eingebracht hat, was eigentlich vorgesehen war, weil Sie im Vorfeld massive Strukturfehler begangen haben. Ich denke, es ist an der Zeit, sich zu überlegen, wie man es schaffen kann, dass auch aus diesem Bereich entsprechende Einnahmen hereinkommen. In diesem Bereich gab es nämlich massiv steigende Gewinne.</p>
@@ -1316,12 +1382,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Otto Fricke hat jetzt das Wort für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Otto Fricke" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Otto Fricke">
+      </div>
+      <div type="agenda_item" n="35" what="debate" desc="Debatte">
+        <sp who="Otto Fricke" parliamentary_group="FDP" role="mp" position="NA" who_original="Otto Fricke" party="FDP" name="Otto Fricke">
           <speaker>Otto Fricke (FDP):</speaker>
           <p>Geschätzte Frau Vizepräsidentin! Meine sehr geehrten Damen und Herren! Wenn wir bei den Haushaltsberatungen über Zahlen reden, sollte man auch immer bei Klarheit und Wahrheit bleiben. Ich bekomme von Bürgern, die uns zuhören, oft die Frage gestellt: Ist die geplante Neuverschuldung für 2012, wie sie das Kabinett beschlossen hat, viel oder wenig? - Erster Teil der Antwort: Jede Neuverschuldung ist zu viel. Das wissen wir hier alle.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der FDP und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -1376,12 +1444,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Jetzt hat Barbara Höll das Wort für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Barbara Höll" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Barbara Höll">
+      </div>
+      <div type="agenda_item" n="36" what="debate" desc="Debatte">
+        <sp who="Barbara Höll" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Barbara Höll" party="DIE LINKE" name="Barbara Höll">
           <speaker>Dr. Barbara Höll (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Mir ist absolut schleierhaft, warum Sie den Haushalt 2012 so loben. Er macht im Ergebnis die Reichen reicher und die Armen ärmer. Die Neuverschuldung steigt um 27 Milliarden Euro. Das haben Sie zu verantworten.</p>
           <p>Die Schuldenmisere ist Ergebnis Ihrer Politik. Angefangen von Rot-Grün über Schwarz-Rot bis hin zu Schwarz-Gelb haben Sie daran gearbeitet, die Einnahmebasis des Staates stetig zu verkleinern, sodass heute Kindergärten und Schulen um jeden Euro betteln müssen und viele Kommunen in einem desolaten Zustand sind.</p>
@@ -1416,12 +1486,14 @@
           <p>Es wäre gut, wenn Sie sich wieder auf Ihre Grundsätze der Politik besinnen könnten.</p>
           <stage type="interjection">(Beifall bei der LINKEN - Dr. h. c. Jürgen Koppelin [FDP]: Ich denke, Sie sind Atheistin!)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Das Wort hat der Bundesminister Dr. Wolfgang Schäuble.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Wolfgang Schäuble" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" party="CDU" name="Wolfgang Schäuble">
+      </div>
+      <div type="agenda_item" n="37" what="debate" desc="Debatte">
+        <sp who="Wolfgang Schäuble" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" who_original="Wolfgang Schäuble" party="CDU" name="Wolfgang Schäuble">
           <speaker>Dr. Wolfgang Schäuble, Bundesminister der Finanzen:</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Gegen Ende dieser Haushaltswoche ist es vielleicht gut, zunächst einmal das im Wesentlichen Unstreitige zu betonen. Ausnahmen bestätigen die Regel, aber im Wesentlichen unstreitig ist, dass es dem Land zumindest dann, wenn man die heutige Situation mit der Situation vergleicht, aus der wir kommen, gut geht</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
@@ -1469,11 +1541,13 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Priska Hinz hat jetzt das Wort für Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Priska Hinz" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Priska Hinz">
+      </div>
+      <div type="agenda_item" n="38" what="debate" desc="Debatte">
+        <sp who="Priska Hinz (Herborn)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Priska Hinz (Herborn)" party="GRUENE" name="Priska Hinz">
           <speaker>Priska Hinz (Herborn) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Mit diesem Haushaltsentwurf, über den wir in dieser Woche diskutiert haben, sind im Prinzip zentrale Weichenstellungen verbunden: für die Bewältigung der Euro-Krise, über die wir in dieser Woche sehr ausführlich gesprochen haben, für die ökologische Modernisierung und für den Zusammenhalt unserer Gesellschaft. Ich gebe den Kollegen recht, die gesagt haben - das waren vor allen Dingen Herr Barthle und Herr Koppelin -, dass uns polemische Debatten nicht weiterhelfen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -1502,12 +1576,14 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Jetzt hat Hermann Gröhe für die CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Hermann Gröhe" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hermann Gröhe">
+      </div>
+      <div type="agenda_item" n="39" what="debate" desc="Debatte">
+        <sp who="Hermann Gröhe" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hermann Gröhe" party="CDU" name="Hermann Gröhe">
           <speaker>Hermann Gröhe (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Bei so mancher Rede aus den Reihen der Opposition in dieser Woche fragte man sich: In welchem Land leben Sie eigentlich? Ihre Häme und Ihre Kritik passen überhaupt nicht zur Realität in unserem Land. Man wird den Eindruck nicht los, dass Sie den Menschen in unserem Land den gemeinsam erreichten Erfolg nicht gönnen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
@@ -1535,12 +1611,14 @@
           <p>Die christlich-liberale Koalition hat Deutschland erfolgreich durch stürmische Zeiten gelenkt. Es ist gut, dass keine Leichtmatrosen am Ruder sind. Wir stellen mit diesem Haushalt die Weichen für eine gute Zukunft, für ein starkes Deutschland in einem starken Europa.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Sven-Christian Kindler [BÜNDNIS 90/DIE GRÜNEN]: Wie war das mit den Leichtmatrosen? - Christian Lange [Backnang] [SPD]: Was war das gerade eigentlich?)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Florian Toncar hat jetzt das Wort für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP)</stage>
         </sp>
-        <sp who="Florian Toncar" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Florian Toncar">
+      </div>
+      <div type="agenda_item" n="40" what="debate" desc="Debatte">
+        <sp who="Florian Toncar" parliamentary_group="FDP" role="mp" position="NA" who_original="Florian Toncar" party="FDP" name="Florian Toncar">
           <speaker>Florian Toncar (FDP):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen! Liebe Kollegen! Um diesen Haushalt zu beurteilen - das ist schon gesagt worden -, muss man sehen, woher wir kommen. Wir kommen von einer Neuverschuldung von 86 Milliarden Euro, die Sie wollten, liebe Sozialdemokraten. Innerhalb von nur zwei Jahren sind wir auf einen Ansatz von nur 27 Milliarden Euro gekommen. Das ist noch kein endgültiges Ergebnis. Es ist aber in jedem Fall ein gewaltiger Fortschritt, die Neuverschuldung in nur zwei Jahren so stark zu reduzieren.</p>
           <p>Frau Kollegin Hinz, das ist solide gerechnet. Die Haushaltsansätze der letzten zwei Jahre waren eher vorsichtig berechnet. Sie wissen auch, dass der Vollzug des Haushalts wesentlich besser vonstattengegangen ist,</p>
@@ -1571,12 +1649,14 @@
           <p>Ich glaube, dass wir mit diesem Haushalt, mit dieser Politik und mit den Reformprojekten, die wir neben dem Haushalt angehen, Deutschland in einer Zeit voranbringen, die nicht einfach ist, und unter schwierigsten finanziellen Rahmenbedingungen politisch gestalten. Das zeigt, dass wir mit Geld umgehen und dafür sorgen können, dass die Wirtschaft gut durch diese ausgesprochen riskante und schwierige Zeit kommt.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Rüdiger Kruse hat jetzt das Wort für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Rüdiger Kruse" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Rüdiger Kruse">
+      </div>
+      <div type="agenda_item" n="41" what="debate" desc="Debatte">
+        <sp who="Rüdiger Kruse" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Rüdiger Kruse" party="CDU" name="Rüdiger Kruse">
           <speaker>Rüdiger Kruse (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Ich möchte erst einmal auf das letzte Jahr zu sprechen kommen. Vor einem Jahr habe ich hier in einem Beitrag zur Haushaltsdebatte die Regierung daran erinnert, dass das Parlament sich für die Umsetzung des Projekts Villa Tarabya entschieden hat, dass das aber nicht so läuft, wie wir das gerne hätten. Ich komme darauf zurück, weil sich das Außenministerium unter der Federführung von Frau Staatsministerin Pieper dieser Kritik angenommen hat und sie nicht einfach an sich hat abperlen lassen. Sie hat dieses Projekt in den letzten Monaten in Angriff genommen und umgesetzt. Dieses Projekt einer Künstlerakademie ist auf einem sehr guten Weg, genauso wie wir uns das vorgestellt haben.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
@@ -1601,29 +1681,33 @@
           <stage type="interjection">(Lothar Binding [Heidelberg] [SPD]: Auf solche Leute beruft ihr euch!)</stage>
           <p>Mein Dank geht noch einmal an den Minister und die Kanzlerin. Mit dem eingeschlagenen Weg werden wir einen guten Beitrag für Deutschland leisten und die Integration in Europa fördern. Das sehen Sie daran, dass andere Länder unser Modell übernehmen.</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Herr Kollege.</p>
         </sp>
-        <sp who="Rüdiger Kruse" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Rüdiger Kruse">
+      </div>
+      <div type="agenda_item" n="42" what="debate" desc="Debatte">
+        <sp who="Rüdiger Kruse" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Rüdiger Kruse" party="CDU" name="Rüdiger Kruse">
           <speaker>Rüdiger Kruse (CDU/CSU):</speaker>
           <p>Newsweek hat zur Haushaltspolitik von Spanien geschrieben: Budget control German style. - Und das ist ein hohes Lob.</p>
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Norbert Brackmann hat jetzt das Wort für die CDU/ CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Norbert Brackmann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Norbert Brackmann">
+      </div>
+      <div type="agenda_item" n="43" what="debate" desc="Debatte">
+        <sp who="Norbert Brackmann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Norbert Brackmann" party="CDU" name="Norbert Brackmann">
           <speaker>Norbert Brackmann (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Es liegt ein bisschen in der Natur der Sache, dass wir in den Haushaltsberatungen über mögliche Mehreinnahmen durch Steuererhöhungen sprechen oder Bewertungen vornehmen, wie Einsparungen bzw. Kürzungen möglich sind. Ein bisschen vermisst habe ich die Würdigung des dritten Weges, den die Bundesregierung gegangen ist, nämlich auch durch intelligentes Sparen und Wachstumsförderung in nicht unerheblichem Umfang Einnahmen zu generieren.</p>
           <p>Dieser Weg hat nämlich gerade in dieser Zeit dazu geführt, dass die Steuereinnahmen des Gesamtstaates in den ersten sieben Monaten dieses Jahres gegenüber dem Vorjahreszeitraum um 9,7 Prozent gestiegen sind. Die Körperschaftsteuereinnahmen zum Beispiel stiegen um 31,8 Prozent. Aber auch die Lohnsteuereinnahmen legten mit 9,5 Prozent deutlich zu.</p>
           <p>Das ist mehr als nur ein Indiz. Es ist geradezu der Beweis dafür, dass Wirtschaft und Arbeitsmarkt aufblühen. Das Wachstum betrug im vergangenen Jahr 3,5 Prozent und wird in diesem Jahr 2,5 bis 3 Prozent erreichen. Im zweiten Quartal waren in Deutschland rund 41 Millionen Menschen erwerbstätig. Das sind gut 500 000 mehr als im Jahr zuvor und damit in diesem Frühjahr so viele wie noch nie.</p>
           <p>Es gibt noch mehr gute Zahlen. Im August dieses Jahres erreichte die Zahl der Jobsuchenden mit rund 2,95 Millionen den niedrigsten Wert im Monat August seit 20 Jahren. Das sind nicht nur abstrakte Zahlen. Hinter jeder einzelnen Zahl steht ein menschliches Schicksal. Dass es so vielen Menschen wieder gut geht, ist kein Zufall, sondern Ergebnis der guten Politik der deutschen Regierung und der Schaffenskraft seiner Menschen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
-          <p>Wenn über dieses hervorragende Ergebnis Einvernehmen besteht - es wurde in der gesamten Haushaltswoche von niemandem bestritten -, dann mutet es etwas eigentümlich an, wenn davon gesprochen wird, wie heute etwa von Ihnen, Herr Schneider, und am Mittwoch von Herrn Steinmeier, dass dieses Ergebnis trotz dieser Regierung </p>
+          <p>Wenn über dieses hervorragende Ergebnis Einvernehmen besteht - es wurde in der gesamten Haushaltswoche von niemandem bestritten -, dann mutet es etwas eigentümlich an, wenn davon gesprochen wird, wie heute etwa von Ihnen, Herr Schneider, und am Mittwoch von Herrn Steinmeier, dass dieses Ergebnis trotz dieser Regierung</p>
           <stage type="interjection">(Lothar Binding [Heidelberg] [SPD]: Das ist richtig!)</stage>
           <p>und nicht wegen dieser Regierung erzielt wurde.</p>
           <p>Herr Steinmeier hat vor einem Jahr gesagt, das Sparpaket der Bundesregierung drohe den Konjunkturaufschwung abzuwürgen.</p>
@@ -1646,20 +1730,20 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird die Überweisung der Vorlagen auf den Drucksachen 17/6600 und 17/6601 an den Haushaltsausschuss vorgeschlagen. Sind Sie damit einverstanden? - Das ist der Fall. Dann sind die Überweisungen so beschlossen.</p>
           <p>Ich rufe den Tagesordnungspunkt 2 auf:</p>
           <p>Vereinbarte Debatte</p>
-          <p>Für eine Verhandlungslösung im Nahostkonflikt </p>
+          <p>Für eine Verhandlungslösung im Nahostkonflikt</p>
           <p>Nach einer interfraktionellen Vereinbarung ist für die Aussprache eine Stunde vorgesehen. - Ich höre keinen Widerspruch. Dann ist so beschlossen.</p>
           <p>Ich eröffne die Aussprache. Das Wort hat der Kollege Dr. Rainer Stinner für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="2" what="debate" desc="Vereinbarte Debatte">
-        <sp who="Dr. Rainer Stinner" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Rainer Stinner">
+      <div type="agenda_item" n="44" what="debate" desc="Debatte">
+        <sp who="Rainer Stinner" parliamentary_group="FDP" role="mp" position="NA" who_original="Rainer Stinner" party="FDP" name="Rainer Stinner">
           <speaker>Dr. Rainer Stinner (FDP):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Angesichts der veränderten Situation in der Region laufen diesmal in der Debatte, die wir seit Jahren führen, mehrere neue Handlungsstränge zusammen, die wir bisher noch nicht kannten. Ich nenne einerseits die Veränderungen in der arabischen Welt, die natürlich einen wesentlichen Einfluss haben, ich nenne aber auch die uns sehr beunruhigende Situation zwischen Israel und der Türkei. Die Äußerungen des türkischen Ministerpräsidenten in diesen Tagen beunruhigen uns außerordentlich. Wir möchten hier sehr deutlich zum Ausdruck bringen, dass dies natürlich Einfluss hat.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der SPD und des Abg. Dr. Frithjof Schmidt [BÜNDNIS 90/DIE GRÜNEN])</stage>
@@ -1687,7 +1771,7 @@
           <p>Erstens müssen sich die Palästinenser überlegen, was für sie der richtige Weg ist. Wir alle wissen, dass auch unter den Palästinensern bis zum heutigen Tage umstritten ist, was der richtige Weg ist.</p>
           <stage type="interjection">(Wolfgang Gehrcke [DIE LINKE]: Warten Sie den Antrag ab!)</stage>
           <p>- Wir warten den Antrag ab. - Herr Fajjad hat sich sehr skeptisch zu der Frage geäußert, ob es im Interesse Palästinas ist, den Weg nach New York zu gehen. Wir werden sehen, wie sich die Palästinenser einlassen. Wir wissen, dass sie noch über ihr Vorgehen verhandeln.</p>
-          <p>Zweitens müssen wir uns fragen, ob das, was in New York passiert, eine Zwei-Staaten-Lösung - unser erklärtes Ziel - näher rücken lässt oder ob es uns von einer solchen Lösung eher entfernt. Das ist eine Frage, die wir uns stellen müssen. Sie ist weiß Gott nicht einfach zu beantworten. </p>
+          <p>Zweitens müssen wir uns fragen, ob das, was in New York passiert, eine Zwei-Staaten-Lösung - unser erklärtes Ziel - näher rücken lässt oder ob es uns von einer solchen Lösung eher entfernt. Das ist eine Frage, die wir uns stellen müssen. Sie ist weiß Gott nicht einfach zu beantworten.</p>
           <p>Wir müssen uns fragen, ob das, was in New York passiert, und unsere Entscheidung uns unserem ausdrücklichen Ziel, weitere militärische Konfrontation sowie weitere Tote und Verwundete zu vermeiden, näher bringt oder ob die Gefahr besteht, dass das eventuell wieder aufbricht. Wir müssen uns auch fragen, ob die Entscheidung in New York eine friedliche Lösung eher behindert oder befördert.</p>
           <p>Das muss sich natürlich auch Israel sehr genau überlegen; denn - das ist unsere Meinung, und diese Meinung wird von vielen in Israel geteilt; das wissen wir alle genau - die Zeit arbeitet nicht für Israel, und auch Israel muss einen Weg nach vorne gehen.</p>
           <p>Wir alle wissen noch nicht, liebe Kolleginnen und Kollegen, wie die Umbrüche in der arabischen Welt enden werden. Aber eines möchte ich schon wagen vorauszusagen: Was auch immer dabei an staatlicher Struktur in Ägypten und in anderen Staaten dort herauskommt, die Position gegenüber Israel und die Position zwischen Israel und Palästina werden sich jedenfalls nicht zugunsten Israels verändern - das will ich einmal so einigermaßen höflich ausdrücken -; denn es ist selbstverständlich, dass sich jede neue ägyptische Regierung gegenüber Israel anders verhalten wird als Mubarak und sein Regime. Damit müssen wir rechnen, und damit muss natürlich auch Israel rechnen.</p>
@@ -1700,12 +1784,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat Günter Gloser für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Günter Gloser" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Günter Gloser">
+      </div>
+      <div type="agenda_item" n="45" what="debate" desc="Debatte">
+        <sp who="Günter Gloser" parliamentary_group="SPD" role="mp" position="NA" who_original="Günter Gloser" party="SPD" name="Günter Gloser">
           <speaker>Günter Gloser (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Die SPD-Bundestagsfraktion hat im Juni einen Antrag zum heutigen Debattenthema eingebracht. Ich darf den Titel wiederholen: "Den Nahost-Friedensbemühungen neuen Schwung verleihen". Dabei haben wir uns von jenen jungen Palästinensern inspirieren lassen, die in Ramallah, aber auch an anderen Orten im Frühjahr zu Tausenden auf die Straße gegangen sind und friedlich für ein Ende des politischen Stillstandes demonstriert haben. Das war und ist ein hoffnungsvolles Zeichen in einer ansonsten recht verfahrenen Situation. Ich sehe diesen Willen der Jugend in Palästina zur Veränderung deshalb auch als einen Bestandteil des arabischen Frühlings. Wir sollten der palästinensischen Jugend die gleiche Solidarität zusagen, die wir den jungen tunesischen, ägyptischen, syrischen oder libyschen Revolutionären in diesen Tagen ganz selbstverständlich immer wieder versprechen.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
@@ -1736,17 +1822,19 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN - Wolfgang Gehrcke [DIE LINKE]: Warum ärgert sich denn Herr Westerwelle so? Stimmte doch alles! Nicht ärgern!)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Ruprecht Polenz für die Unionsfraktion.</p>
         </sp>
-        <sp who="Ruprecht Polenz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ruprecht Polenz">
+      </div>
+      <div type="agenda_item" n="46" what="debate" desc="Debatte">
+        <sp who="Ruprecht Polenz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ruprecht Polenz" party="CDU" name="Ruprecht Polenz">
           <speaker>Ruprecht Polenz (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Unsere Debatte über den Nahostkonflikt führen wir im Vorfeld der UN-Generalversammlung, wo wir mit einem möglichen Antrag der palästinensischen Führung rechnen, Palästina als Vollmitglied in die UNO aufzunehmen und als Staat anzuerkennen. Nach allem, was man weiß, würde es für einen solchen Antrag wahrscheinlich eine Mehrheit in der Generalversammlung geben.</p>
           <p>Trotzdem muss natürlich jeder, der den Konflikt kennt, die Sorge haben, dass auch bei einer mehrheitlichen Annahme eines solchen Antrags sich für die Palästinenser vor Ort wenig Sichtbares ändert. In dem Fall wäre die Enttäuschung in der palästinensischen Bevölkerung vorherbestimmt. Es käme zu Protesten, die nach aller Erfahrung in der Region wahrscheinlich das Risiko einer gewaltsamen Eskalation bergen würden.</p>
           <p>Deshalb ist es jetzt wichtig, zu schauen - das ist eine weitere Sorge, die ich habe -, dass der Westen, die Europäische Union im Vorfeld dieser Generalversammlung möglichst gemeinsam auftritt. Denn wenn wir nicht gemeinsam votieren, dann hat die Europäische Union, dann hat der Westen im Nachhinein noch weniger Einfluss als jetzt. Das wäre verhängnisvoll.</p>
           <p>Ebenso habe ich eine Sorge, wie diese Entwicklung den arabischen Frühling beeinflussen würde. Bisher gab es keine antiisraelischen, antiwestlichen Demonstrationen auf dem Tahrir Square und anderswo. Aber ein Eskalieren der Spannungen zwischen den Israelis und den Palästinensern würde den alten Herrschern Ablenkungsmöglichkeiten bieten, wie sie sie in der Vergangenheit gerne genutzt haben. Das ägyptische Militär hat nach wie vor keinen klaren Kurs auf Demokratie und Rechtsstaatlichkeit. Vielleicht nutzt man dann solche Vorkommnisse und schwächt auf diese Weise die friedlichen Reformbestrebungen in den arabischen Ländern. Auch diese Nebenwirkungen können also von einer Verschlechterung im Nahostkonflikt nach der Generalversammlung ausgehen.</p>
-          <p>Auch habe ich nach den Anschlägen in Eilat, wo es bei den Vergeltungsmaßnahmen Israels zum Tod ägyptischer Soldaten kam, die Sorge, dass inzwischen jede kleine terroristische Splittergruppe in der Region weiß, dass man bei dem vorhersehbaren Schema von Aktion und Reaktion das Land oder die Region sehr schnell an den Rand eines neuen großen Nahostkrieges bringen kann. </p>
+          <p>Auch habe ich nach den Anschlägen in Eilat, wo es bei den Vergeltungsmaßnahmen Israels zum Tod ägyptischer Soldaten kam, die Sorge, dass inzwischen jede kleine terroristische Splittergruppe in der Region weiß, dass man bei dem vorhersehbaren Schema von Aktion und Reaktion das Land oder die Region sehr schnell an den Rand eines neuen großen Nahostkrieges bringen kann.</p>
           <p>Ich habe auch große Sorgen - Kollege Stinner hat es angesprochen - wegen der Verschlechterung des israelisch-türkischen Verhältnisses. Das hat angefangen mit dem Streit um die Flotilla. Jetzt sind die diplomatischen Beziehungen heruntergestuft. Beide Seiten schauen vor allen Dingen auf die innenpolitische Situation und geben dort Raum für jeweils gegenseitige Ressentiments. Ich glaube aber, dass Israel in diesem Konflikt mehr zu verlieren hat - egal wer recht hat. Denn die Herabstufung der diplomatischen Beziehungen löst jetzt aus der Bevölkerung heraus einen ziemlich starken Druck in Jordanien und Ägypten aus, dasselbe zu tun. Damit wäre das, was durch die Friedensverträge wenigstens im Hinblick auf einen kalten Frieden erreicht worden ist, infrage gestellt.</p>
           <p>Natürlich trägt auf der einen Seite - da stimme ich dem Kollegen Stinner ausdrücklich zu - das Säbelrasseln in der Rhetorik von Erdogan überhaupt nicht dazu bei, die Situation einigermaßen in Grenzen zu halten. Auf der anderen Seite möchte ich aber auf Folgendes hinweisen: Heute war in der Zeitung zu lesen, dass der israelische Außenminister Lieberman unter der Überschrift "Zusammenarbeitsprogramm mit den Feinden der Türkei" ankündigt, sich jetzt besonders den Kurden und den Armeniern im amerikanischen Kongress zuwenden zu wollen. Zwischen den Diplomaten Israels und der Türkei war ja schon, soweit man lesen und hören konnte, eine Formel gefunden, wie der Streit um die Flotilla beigelegt werden könnte. Das ist letztlich am israelischen Außenminister gescheitert.</p>
           <p>Bei all diesen Diskussionen geht unter - deshalb möchte ich es hier erwähnen, vielleicht auch als Appell an die israelische Seite, sich ein umfassendes Bild von der Türkei zu machen -, dass die Türkei gerade jetzt zugestimmt hat, ein Hochleistungsradar im Osten des Landes zu installieren, das - zusammen mit Schiffen der USA - der Abwehr der ballistischen Raketen aus dem Iran dienen soll. Das Kerninteresse Israels ist es, vor der iranischen Bedrohung geschützt zu sein. Hier steht auch für die israelische Seite eine ganze Menge auf dem Spiel.</p>
@@ -1765,12 +1853,14 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Dr. Gregor Gysi für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Gregor Gysi">
+      </div>
+      <div type="agenda_item" n="47" what="debate" desc="Debatte">
+        <sp who="Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Gregor Gysi" party="DIE LINKE" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Am 29. November 1947 beschloss die Generalversammlung der Vereinten Nationen in der Resolution 181, die Teilung des historischen Palästina in einen jüdischen und einen arabischen Staat vorzuschlagen. Großbritannien enthielt sich der Stimme; alle anderen Vetomächte, also die USA, China, Frankreich und die Sowjetunion, unterstützten diesen Teilungsplan. Im Mai 1948 rief Ben-Gurion, fortan israelischer Premierminister, den Staat Israel aus. Es war, wenn man so will, ein einseitiger Schritt Israels, aber eben unter Berufung auf den Teilungsvorschlag der Vereinten Nationen.</p>
           <p>6 Millionen Jüdinnen und Juden wurden durch die deutschen Nazis ermordet. Nur durch die in unserem Land begangenen Verbrechen kam es überhaupt zu einem solchen UN-Beschluss. Deshalb müssen wir Deutsche dafür eintreten, dass die Jüdinnen und Juden das Recht auf einen Staat haben, in dem sie die Mehrheit stellen, aber - dies ist ebenso selbstverständlich - Nichtjüdinnen und Nichtjuden gleichberechtigt zu behandeln haben.</p>
@@ -1803,11 +1893,13 @@
           <p>Wir müssen unsere guten Beziehungen zu Israel aufrechterhalten. Ebenso müssen wir aber den Staat Palästina anerkennen und für die Mitgliedschaft Palästinas in der UNO stimmen.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die Fraktion Bündnis 90/Die Grünen hat die Kollegin Kerstin Müller das Wort.</p>
         </sp>
-        <sp who="Kerstin Müller" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Kerstin Müller">
+      </div>
+      <div type="agenda_item" n="48" what="debate" desc="Debatte">
+        <sp who="Kerstin Müller (Köln)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Kerstin Müller (Köln)" party="GRUENE" name="Kerstin Müller">
           <speaker>Kerstin Müller (Köln) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Die Lage in der Region ist für Israel in den letzten Monaten nicht gerade komfortabler geworden; viele Vorredner haben es schon dargestellt. Israel verhält sich gegenüber den arabischen Revolutionen eher abwartend.</p>
           <p>Zum Teil kann man dies verstehen. Für viele Israelis bestätigen die Anschläge in Eilat vom 18. August das Misstrauen gegenüber den Veränderungen in den arabischen Staaten. Welches Gefahrenpotenzial das derzeitige syrische Regime für den Fall, dass es sein Ende kommen sieht, darstellt, ist auch noch offen.</p>
@@ -1832,17 +1924,19 @@
           <p>Ich finde, das wäre das richtige Vorgehen. Wir dürfen Europa nicht erneut spalten und leichtfertig Einflussmöglichkeiten verspielen, wie das bei der Libyen-Entscheidung der Fall war; denn das wäre zum Schaden einer gemeinsamen europäischen Außenpolitik. Das darf auf keinen Fall passieren.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Dr. Johann Wadephul für die Unionsfraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Johann Wadephul" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Johann Wadephul">
+      </div>
+      <div type="agenda_item" n="49" what="debate" desc="Debatte">
+        <sp who="Johann Wadephul" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Johann Wadephul" party="CDU" name="Johann Wadephul">
           <speaker>Dr. Johann Wadephul (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Im Vorfeld einer möglichen Zuspitzung des Nahostkonflikts vor dem Hintergrund der zu erwartenden palästinensischen Anträge ist es sicherlich gut, dass sich das Hohe Haus mit diesem Thema auseinandersetzt und sich der Herr Bundesaußenminister trotz der Haushaltsdebatte in dieser Woche und der drängenden Probleme im Euro-Raum und in Europa diesem Thema widmet und in diesen Tagen in die Region reisen wird, um sich des Themas vor Ort anzunehmen.</p>
           <p>Bei allen Übereinstimmungen, die im Großen und Ganzen in diesem Hause herrschen - einige Erläuterungen des Kollegen Gysi waren, glaube ich, sehr hilfreich -, möchte ich den Kolleginnen und Kollegen von der Opposition doch sagen: Durch das Verhalten des Bundesaußenministers bzw. der Bundesregierung werden alle Optionen, zu einer gemeinsamen europäischen Position zu kommen, gewahrt. Deswegen danke ich ausdrücklich für das Verhalten in den letzten Wochen und für die Position, die zu diesem Thema eingenommen wurde.</p>
           <p>Wir sind uns darüber einig, dass Europa in der Lage sein muss, auch zu einem so gewaltigen Problem wie dem Nahostkonflikt eine gemeinsame Position zu formulieren. Das erfordert einerseits, dass die handelnden Personen - an dieser Stelle möchte ich die Hohe Vertreterin, Lady Ashton, ausdrücklich nennen - ihre Aufgaben und ihr Amt wahrnehmen. Die europäische Außenpolitik hängt nicht nur von den Grundlagen ab, die im Lissabonner Vertrag festgelegt wurden, sondern sie hängt auch von den Personen ab, die die europäische Außenpolitik gestalten wollen. Sie müssen Formulierungen finden und das Heft des Handelns in Europa in die Hand nehmen. Ich glaube, wir können Lady Ashton nur ermutigen, etwas deutlicher voranzugehen und sich zu bemühen, die europäischen Positionen zu bündeln.</p>
-          <p>Auf der anderen Seite erwarten wir, dass kein Mitgliedstaat vorprescht, sondern sich alle bemühen, zu einer gemeinsamen Position zu kommen. Frau Kollegin Müller, ich glaube, es ist etwas zu früh, an dieser Stelle von einem gespaltenen Europa zu sprechen. Natürlich kann man gar nicht leugnen, dass es unterschiedliche Positionen gibt und man unterschiedlich an die Fragestellung herangeht. Das letzte Treffen der Außenminister habe ich aber so verstanden, dass man sich auf eine gemeinsame Lösung zubewegt. </p>
+          <p>Auf der anderen Seite erwarten wir, dass kein Mitgliedstaat vorprescht, sondern sich alle bemühen, zu einer gemeinsamen Position zu kommen. Frau Kollegin Müller, ich glaube, es ist etwas zu früh, an dieser Stelle von einem gespaltenen Europa zu sprechen. Natürlich kann man gar nicht leugnen, dass es unterschiedliche Positionen gibt und man unterschiedlich an die Fragestellung herangeht. Das letzte Treffen der Außenminister habe ich aber so verstanden, dass man sich auf eine gemeinsame Lösung zubewegt.</p>
           <p>An dieser Stelle, Herr Kollege Gysi, muss man sagen: Die Frage einer Anerkennung des palästinensischen Staates darf man zum jetzigen Zeitpunkt - ich habe Ihren Ausführungen entnommen, dass Sie dies unstreitig stellen; möglicherweise habe ich Sie falsch verstanden - mit Fug und Recht mit einigen Fragezeichen versehen. Die Anerkennung ist schon aus völkerrechtlicher Sicht nicht konstitutiv für eine Staatsqualität. Hierzu braucht es ein genau definiertes Staatsgebiet, ein Staatsvolk, eine Staatsgewalt und eine Anerkennung nach Art. 4 der VN-Charta: Nur ein friedliebender Staat kann Mitglied werden. An die palästinensische Seite, insbesondere an die Hamas, besteht die Aufforderung, sich vor den Verhandlungen klar zum Friedensprozess zu bekennen, auf Gewalt zu verzichten und insbesondere das Existenzrecht Israels anzuerkennen. Das ist eine Voraussetzung für Verhandlungen.</p>
           <p>Wenn Sie, Herr Gysi, abschließend sagen, dass wir gute Beziehungen zu Israel brauchen, sage ich, dass das vollkommen klar ist. Vor dem Hintergrund nicht nur der Bedrohung durch den Iran, sondern der gesamten Situation in dieser Region muss allen Parteien klar sein, dass das Existenzrecht Israels außer Frage steht.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU, der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -1855,17 +1949,19 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Christoph Strässer für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Christoph Strässer" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Christoph Strässer">
+      </div>
+      <div type="agenda_item" n="50" what="debate" desc="Debatte">
+        <sp who="Christoph Strässer" parliamentary_group="SPD" role="mp" position="NA" who_original="Christoph Strässer" party="SPD" name="Christoph Strässer">
           <speaker>Christoph Strässer (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Ich glaube, die Debatte heute zeigt, wie man ernst und ohne Provokationen eine Debatte über ein ganz schwieriges Thema führen kann. Dafür bin ich sehr dankbar.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der LINKEN)</stage>
           <p>Ich hoffe, dass das auch im Fortgang dieser Diskussion so bleiben wird.</p>
-          <p>Ich möchte mit dem Hinweis des Kollegen Gysi auf das Jahr 1947 einsteigen. Ich glaube, dass damals Weichen für völkerrechtliche Entwicklungen gestellt worden sind, die wir noch heute zur Kenntnis nehmen sollten. </p>
+          <p>Ich möchte mit dem Hinweis des Kollegen Gysi auf das Jahr 1947 einsteigen. Ich glaube, dass damals Weichen für völkerrechtliche Entwicklungen gestellt worden sind, die wir noch heute zur Kenntnis nehmen sollten.</p>
           <p>Wenn man so will, dann kann man, glaube ich, zu dem Ergebnis kommen, dass mit der damaligen Resolution 181 der Generalversammlung der Vereinten Nationen zumindest die Weichen für eine Zweistaatenlösung in dieser Region gestellt worden sind. Das war vor 64 Jahren. Diese Entscheidung ist mittlerweile in die Geschichte eingegangen. Aus meiner Sicht - da bin ich vielleicht etwas anderer Auffassung als Sie, Herr Kollege Wadephul - hatte diese Entscheidung auch völkerrechtliche Wirkung. Diese völkerrechtliche Wirkung, mehrfach bestätigt durch verschiedenste Entscheidungen der Generalversammlung, aber auch des Weltsicherheitsrates, bedeutet, dass das palästinensische Volk ein Staatsvolk ist</p>
           <stage type="interjection">(Wolfgang Gehrcke [DIE LINKE]: Ja!)</stage>
           <p>und dass das palästinensische Volk insofern auch eigenständig von seinem Selbstbestimmungsrecht, einen eigenen Staat zu gründen, Gebrauch machen darf.</p>
@@ -1888,12 +1984,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Thomas Silberhorn für die Unionsfraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Thomas Silberhorn" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Thomas Silberhorn">
+      </div>
+      <div type="agenda_item" n="51" what="debate" desc="Debatte">
+        <sp who="Thomas Silberhorn" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Thomas Silberhorn" party="CSU" name="Thomas Silberhorn">
           <speaker>Thomas Silberhorn (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Bereits vor der Sommerpause haben wir hier am 1. Juli 2011 über die Anerkennung Palästinas als eigenständigen Staat debattiert. Meine Auffassung, die ich damals geäußert habe, kann ich nur unterstreichen. Einseitige Schritte, egal von welcher Seite, sind dem Friedensprozess eher abträglich als zuträglich. Bei dem erwägten Antrag handelt es sich um einen einseitigen Schritt. Allerdings ist Bewegung in diese Debatte gekommen, die sich schlecht ergebnislos beenden lässt. Man darf deshalb nichts unversucht lassen, um in den wenigen Tagen bis zum Beginn der UN-Generalversammlung eine Friedensperspektive zu entwickeln, die den Interessen beider Seiten Rechnung trägt.</p>
           <p>Ohne eine Annäherung zwischen Israel und Palästina wird man den Stillstand im Friedensprozess nicht überwinden können. Tragfähige Fortschritte erfordern aber direkte Verhandlungen zwischen den beteiligten Akteuren in Richtung einer Zweistaatenlösung. Es besteht weiterhin die erhebliche Gefahr, dass das geplante palästinensische Vorgehen nicht nur erfolglos bleibt, was die Eigenstaatlichkeit anbelangt, sondern dass es zu einer Verhärtung der Positionen auf beiden Seiten oder - noch schlimmer - zu einer erneuten Eskalation der Gewalt kommt. Niemandem wäre mit einem solchen Ergebnis gedient.</p>
@@ -1916,13 +2014,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Weitere Wortmeldungen liegen mir nicht vor.</p>
           <p>Ich schließe die Aussprache.</p>
           <p>Wir sind damit am Schluss unserer heutigen Tagesordnung.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 21. September 2011, 13 Uhr, ein.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluss: 14.16 Uhr)</stage>
         </sp>
       </div>
     </body>
