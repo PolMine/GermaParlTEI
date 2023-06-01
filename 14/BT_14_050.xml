@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-06</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2005/1205/bic/plenarprotokolle/pp/1999/14050a.zip</url>
-        <date>2015-10-20 19:19:45</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -35,8 +35,8 @@
   </teiHeader>
   <text>
     <body>
-      <div type="agenda_item" n="1" what="1" desc="1">
-        <sp who="Anke Fuchs" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Anke Fuchs">
+      <div type="agenda_item" n="1" what="debate" desc="Vereinbarte Debatte">
+        <sp who="Anke Fuchs" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Anke Fuchs" party="SPD" name="Anke Fuchs">
           <speaker>Vizepräsidentin Anke Fuchs:</speaker>
           <p>Guten Morgen, liebe Kolleginnen und Kollegen, meine Damen und Herren! Ich eröffne die letzte Sitzung des Deutschen Bundestages in Bonn - es ist die 50. Sitzung des Deutschen Bundestages - und begrüße Sie alle sehr herzlich.</p>
           <p>Bevor wir in die Tagesordnung eintreten, gebe ich folgendes bekannt: Gemäß § 93a Abs. 6 unserer Geschäftsordnung können Mitglieder des Europäischen Parlaments an den Sitzungen des Ausschusses für die Angelegenheiten der Europäischen Union teilnehmen. Zahl und Zusammensetzung sind in der Geschäftsordnung nicht vorgesehen und müssen daher vom Plenum festgestellt werden.</p>
@@ -119,12 +119,12 @@
           <p>Innenausschuß (federführend)</p>
           <p>Finanzausschuß</p>
           <p>Interfraktionell wird vorgeschlagen, den Gesetzentwurf an die in der Tagesordnung aufgeführten Ausschüsse zu überweisen. Sind Sie damit einverstanden? - Ich sehe keinen Widerspruch. Dann ist die Überweisung so beschlossen.</p>
-          <p>Nun, Kolleginnen und Kollegen, rufe ich Tagesordnungspunkt 12 auf: </p>
+          <p>Nun, Kolleginnen und Kollegen, rufe ich Tagesordnungspunkt 12 auf:</p>
           <p>Vereinbarte Debatte</p>
           <p>"50 Jahre Demokratie - Dank an Bonn"</p>
           <p>Ich erteile das Wort dem Kollegen Wolfgang Thierse.</p>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="SPD" role="mp" position="NA" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Wolfgang Thierse (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Dies ist unser letzter Tag in diesem schönen Hause, einem Haus, das in seiner Transparenz, in seiner Helligkeit eine gute Heimstatt für unser Parlament war und das in seiner architektonischen Gestalt ein überzeugendes Symbol der deutschen parlamentarischen Demokratie geworden ist.</p>
           <stage type="interjection">(Beifall im ganzen Hause)</stage>
@@ -161,7 +161,7 @@
           <p>Ich bin mir bewußt, daß der Deutsche Bundestag zu dieser Zukunft einen Beitrag leisten kann, nämlich indem er die Zusagen einhält, die der Stadt gemacht worden sind. Ich sage ausdrücklich: Dank soll keine leere Formel bleiben, sondern wir stehen zu unseren Verpflichtungen. Herzlichen Dank an Bonn!</p>
           <stage type="interjection">(Lebhafter Beifall im ganzen Hause)</stage>
         </sp>
-        <sp who="Anke Fuchs" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Anke Fuchs">
+        <sp who="Anke Fuchs" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Anke Fuchs" party="SPD" name="Anke Fuchs">
           <speaker>Vizepräsidentin Anke Fuchs:</speaker>
           <p>Auf der Besuchertribüne haben einige Gäste Platz genommen, die ich herzlich begrüßen möchte, an der Spitze die Frau Oberbürgermeisterin Bärbel Dieckmann.</p>
           <stage type="interjection">(Beifall)</stage>
@@ -175,7 +175,7 @@
           <p>- Auch.</p>
           <p>Nun erteile ich das Wort dem Abgeordneten Dr. Helmut Kohl, CDU/CSU-Fraktion.</p>
         </sp>
-        <sp who="Dr. Helmut Kohl" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Helmut Kohl">
+        <sp who="Helmut Kohl" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Helmut Kohl" party="CDU" name="Helmut Kohl">
           <speaker>Dr. Helmut Kohl (CDU/CSU) (von der CDU/CSU und der F.D.P. mit Beifall begrüßt):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Wir alle spüren es in dieser Stunde: Es ist ein tiefer Einschnitt für unser Land und auch für viele von uns in diesem Saal, für viele, die uns zuschauen und hier in den letzten Jahrzehnten gearbeitet haben. Es gibt viele persönliche Erinnerungen. Es sind Erinnerungen im Guten und im weniger Guten. Aber es ist ein Stück der Geschichte unseres Volkes. Jeder kann dies spüren.</p>
           <p>Vor wenigen Wochen haben wir das 50jährige Jubiläum unseres Grundgesetzes gefeiert. In wenigen Monaten begehen wir den zehnten Jahrestag des Falls der Mauer. Beide Daten, der 23. Mai wie der 9. November, stehen in einem sehr engen Zusammenhang mit dem heutigen Tag.</p>
@@ -224,7 +224,7 @@
           <p>Es entspricht auch einer guten Bonner Tradition - die wir mitnehmen wollen -, daß die demokratischen Parteien nach kürzeren oder längeren Perioden leidenschaftlicher Diskussionen über Grundfragen der Republik immer wieder zu einem Konsens gefunden haben. Das galt ganz besonders in Augenblicken der Bewährung. Gerade an dieser Stelle möchte ich mit Respekt Helmut Schmidt hervorheben. Vor gut 20 Jahren demonstrierte er durch besonnenes und mutiges Verhalten, daß sich unser Rechtsstaat durch Terroristen nicht einschüchtern und nicht erpressen läßt. Das war eine wichtige Erfahrung, die wir auch in der Zukunft nicht vergessen dürfen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU, der SPD und der F.D.P.)</stage>
           <p>Frau Präsidentin, meine Damen und Herren, vieles, was zunächst heftig umstritten war, wurde dann zur gemeinsamen Überzeugung. Das gilt für die soziale Marktwirtschaft, für die NATO-Mitgliedschaft, für die Wiederbewaffnung in den 50er Jahren, für die Ostpolitik der 70er Jahre und die Deutschlandpolitik in den 80er Jahren. Demokratie lebt vom Wettbewerb der Ideen, der Programme und der Personen. Sie lebt aber nicht zuletzt von der Fähigkeit der Bürger und Parteien, sich auf das Gemeinsame, auf das Wohl des Landes zu verständigen. Konsensfähigkeit im Innern ist ja immer auch Voraussetzung für Verständigungsfähigkeit nach außen. Das hat sich auch und gerade an unserem Verhältnis zu unseren östlichen Nachbarn gezeigt.</p>
-          <p>Nach ersten Ansätzen zu einer neuen Ost- und Deutschlandpolitik unter Erhard und Kiesinger leitete Willy Brandt mit den Verträgen von Moskau und War- 4326 Deutscher Bundestag - 14. Wahlperiode - 50. Sitzung. Bonn, Donnerstag, den 1. Juli 1999 Deutscher Bundestag - 14. Wahlperiode - 50. Sitzung. Bonn, Donnerstag, den 1. Juli 1999 4321 Deutscher Bundestag - 14. Wahlperiode - 245. Sitzung, Bonn, Donnerstag, den 25. Juni 1998 2429 Deutscher Bundestag - 14. Wahlperiode - 245. Sitzung, Bonn, Donnerstag, den 25. Juni 1998 2429 schau ein neues und wichtiges Kapitel in unseren Beziehungen zur Sowjetunion und zu Polen ein. Der Grundlagenvertrag mit der DDR gab den innerdeutschen Beziehungen einen neuen Rahmen. Dieser Schritt war richtig und notwendig, wenn auch in jenen Tagen sehr umstritten.</p>
+          <p>Nach ersten Ansätzen zu einer neuen Ost- und Deutschlandpolitik unter Erhard und Kiesinger leitete Willy Brandt mit den Verträgen von Moskau und War- schau ein neues und wichtiges Kapitel in unseren Beziehungen zur Sowjetunion und zu Polen ein. Der Grundlagenvertrag mit der DDR gab den innerdeutschen Beziehungen einen neuen Rahmen. Dieser Schritt war richtig und notwendig, wenn auch in jenen Tagen sehr umstritten.</p>
           <stage type="interjection">(Beifall im ganzen Hause)</stage>
           <p>Das Bild wäre aber nicht vollständig, wenn nicht hinzugefügt würde - ich tue das gerne -: Notwendig war auch die Forderung der damaligen Opposition - ich nenne hier Rainer Barzel und Franz Josef Strauß -, alles zu unterlassen, was eine endgültige Anerkennung der deutschen Teilung bedeutet hätte. Die Entscheidung des Bundesverfassungsgerichts war hier von großer Bedeutung.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
@@ -315,11 +315,11 @@
           <p>Liebe Kolleginnen und Kollegen, ich wünsche uns allen, daß wir uns in Berlin beim Übergang in ein neues Jahrhundert den Geist eines freiheitlichen Patriotismus bewahren, der Vaterlandsliebe, europäische Gesinnung und Weltbürgertum miteinander verbindet. Tun wir ganz einfach unsere Pflicht! Stehen wir zu unseren Überzeugungen, und behalten wir Augenmaß, auch in schwierigen, turbulenten und unruhigen Zeiten. Seien wir gute Nachbarn und verläßliche Partner. Bleiben wir deutsche Europäer und europäische Deutsche. Dann haben wir eine gute Aussicht auf eine Zukunft in Frieden und Freiheit.</p>
           <stage type="interjection">(Anhaltender lebhafter Beifall bei der CDU/CSU und der F.D.P. - Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS - Abgeordnete der CDU/CSU und der F.D.P. sowie Abg. Werner Schulz [Leipzig] [BÜNDNIS 90/DIE GRÜNEN] erheben sich von ihren Plätzen - Bundeskanzler Gerhard Schröder gratuliert seinem Amtsvorgänger)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Kollegin Antje Vollmer.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Dr. Antje Vollmer (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Verehrter Herr Bundeskanzler Helmut Kohl, ich möchte mich bei Ihnen für Ihre Rede bedanken, die ja so etwas wie ein Manifest war. Ich möchte Ihnen sagen, daß Sie für uns - in allem, aber insbesondere in der liberalen, föderalen, europäischen Ausrichtung - immer so etwas waren wie eine Verkörperung der Bonner Republik. Deswegen haben wir Sie ja auch so genau studiert und Ihnen so genau zugeschaut. Das gilt auch für die, die jetzt an der Regierung sind.</p>
           <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNIS- SES 90/DIE GRÜNEN und der SPD sowie bei der CDU/CSU)</stage>
@@ -346,7 +346,7 @@
           <p>Willy Brandt, kniend vor dem Warschauer Getto, das gehört zu den großen wichtigen Bildern dieses Jahrhunderts</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der CDU/CSU, der F.D.P. und der PDS)</stage>
           <p>ebenso wie das von Richard von Weizsäcker mit seiner großen Rede zum 8. Mai, wie das von Hans-Dietrich Genscher auf dem Balkon der Prager Botschaft und Helmut Kohl tapfer die Nationalhymne gegen das Pfeifen vor dem Schöneberger Rathaus ansingend am Tag, als die Mauer fiel. Die Tonlage war nicht ganz richtig, aber die Haltung stimmte.</p>
-          <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNIS- SES 90/DIE GRÜNEN, der SPD, der CDU/CSU und der F.D.P.)</stage>
+          <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNIS- SES 90/DIE GRÜNEN, der SPD, der CDU/ CSU und der F.D.P.)</stage>
           <p>Dazu gehören auch Petra Kelly und Heinrich Böll in Mutlangen. Die Erinnerung daran wird bleiben.</p>
           <p>Die Geschichte der Bonner Republik ist vor allen Dingen die Geschichte einer ganz großen Integrationsleistung. Sie integrierte - das ist schon gesagt worden - 12 Millionen Flüchtlinge und Vertriebene mit dem Besten, was man Menschen anbieten kann, die Traumatisches erlebt haben, nämlich mit Freiheit und Zukunftschancen. Das hat allen genützt, und alle haben davon profitiert. Die Vertriebenen haben daraus eine glückliche Zukunft gemacht, und dieses Land hat davon sehr gewonnen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNIS- SES 90/DIE GRÜNEN und der SPD sowie des Abg. Dr. Friedbert Pflüger [CDU/CSU])</stage>
@@ -367,11 +367,11 @@
           <p>Wir sind in Bonn hoffentlich endlich zu den Citoyens geworden, um die wir die Franzosen, die Engländer und die Amerikaner immer beneidet haben. Die Politik dieses Landes hat alle Voraussetzungen, in Berlin mit dem richtigen Maß und mit der gebührenden Verantwortung, aber auch mit gelegentlicher Ironie neu anfangen zu können. Die Demokratie in Deutschland ist kein weißes Blatt Papier mehr.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD, der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Kollege Wolfgang Gerhardt.</p>
         </sp>
-        <sp who="Dr. Wolfgang Gerhardt" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Wolfgang Gerhardt">
+        <sp who="Wolfgang Gerhardt" parliamentary_group="FDP" role="mp" position="NA" who_original="Wolfgang Gerhardt" party="FDP" name="Wolfgang Gerhardt">
           <speaker>Dr. Wolfgang Gerhardt (F.D.P.):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Liebe Kolleginnen und Kollegen! Ich weiß nicht, wie es Ihnen in den letzten Tagen ergangen ist. Ich jedenfalls habe mich mehrmals dabei ertappt, daß ich länger und nachdrücklicher aus meinem Büro auf den vorbeifließenden Rhein gesehen habe, Eindrücke von vorbeifahrenden Schiffen, abends mit Positionslichtern, verfestigen wollte und mich gefragt habe, ob man in Berlin aus der ganz natürlichen Arbeitshaltung heraus wieder ein solches atmosphärisches Bild gewinnen kann. Ich bin auch ganz anders um den Bundestag herumgegangen und habe ganz anders Begegnungen mit Besuchergruppen vor dem Plenarsaal gesucht. Ich bin sehr bewußt an einige Orte in Bonn gegangen, die gewohnterweise Orte der Begegnungen unter uns gewesen sind - manchmal zuviel unter uns und weniger mit anderen -, ich war in der Innenstadt, obwohl ich dort schon mehrmals war,</p>
           <stage type="interjection">(Heiterkeit)</stage>
@@ -381,7 +381,7 @@
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
           <p>Wenn ich von "politischer Elite" und von "Ressentiments" spreche, klingt das heute, im nachhinein betrachtet, so geschichtlich. Aber er hat das im Parlamentarischen Rat, der hier getagt hat, so formuliert, weil er das Scheitern der Weimarer Republik erlebt hatte und die Ursachen und Gründe genau kannte. Ich wiederhole es: das Vertrautwerden der politischen Eliten mit den wirklichen parlamentarischen Systemen des Westens.</p>
           <p>Nach 1945 war eine erhebliche Integrationsleistung zu vollbringen, es war viel Kraft erforderlich, um sich über die eigenen Biographien der vergangenen zwölf Jahre klarzuwerden. Erlauben Sie mir deshalb noch die Bemerkung - ich bin dankbar, daß Bundestagspräsident Thierse heute morgen bereits darauf hingewiesen hat -: Uns in der alten Bundesrepublik Deutschland hat dabei die positive wirtschaftliche Entwicklung, die mit dem Namen Ludwig Erhards konzeptionell verbunden ist, erheblich geholfen. Die Festigung der Demokratie ist ohne Festigung der Lebensperspektiven für Menschen schwierig. Das, was wir heute als Wirtschaftswunder bezeichnen, hat einen außerordentlich hohen Anteil auch an der Festigung der Demokratie gehabt. Deshalb muß es eindeutig in unserem Interesse liegen, dieses Festigungswerk mit wirtschaftlichem Erfolg und Lebenszuversicht für die Menschen auch in den neuen Ländern zu erhalten. Das ist keine Frage des Transfers. Das ist eine Haltung, die wir einbringen müssen.</p>
-          <stage type="interjection">(Beifall  bei  der  F.D.P.,  der  SPD,  der  CDU/CSU und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der F.D.P., der SPD, der CDU/ CSU und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Deshalb gibt es so einen Ersatz für die alte Deutschlandpolitik, mit der wir uns immer auch kontrovers in der alten Bundesrepublik Deutschland auseinandergesetzt haben. Ich glaube, daß wir dazu kommen sollten, über Parteigrenzen hinweg dieses Thema der Festigung und des ökonomischen Erfolges in den neuen Ländern wirklich zu einer Frage der inneren Haltung zu machen. Für mich ist das der moderne Kern der alten Deutschlandpolitik meiner Partei. Früher war sie durch eine Grenze gehindert. Heute müssen wir anderes überwinden.</p>
           <p>Bonn ist eigentlich ein bescheidener Name, wenn man auf die Geburtsstunden freiheitlicher Ordnungen blickt. Es gibt gewaltige Geburtsstunden freiheitlicher Ordnungen, in denen sich diese berühmten Charms of Liberty großartig entfalten. Nehmen Sie die amerikanische Unabhängigkeitserklärung. Nehmen Sie die Entwicklungen, von denen Sie in Geschichtsbüchern lesen können, am Vorabend der Französischen Revolution. Ja, die Paulskirchenverfassungsdebatte hat für uns durchaus ein Stück vergleichbarer Atmosphäre.</p>
           <p>Ich weiß nicht, ob man die parlamentarischen Beratungen bis zum Grundgesetz so einordnen kann. Aber in ihrer Nachhaltigkeit, in ihrer Wirkung und in ihrer Festigung in einem Land, das in diesem Jahrhundert in seiner Geschichte nach allem anderen gesucht hat und mit vielen politischen Kräften gesegnet war, die wirklich nicht das gesucht haben, was das Grundgesetz beschreibt, ist das eine gewaltige Leistung.</p>
@@ -389,25 +389,25 @@
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
           <p>Es gibt eine überwiegende deutsche politische Kultur, die auf Staat setzt, die mit staatlichen Lösungen kommt und in staatlichen Kategorien denkt. Dieses Land muß immer noch sein inneres Gleichgewicht finden zwischen Freiheit und Verantwortung, zwischen Staat und Privat.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
-          <p>Mit dem Namen Bonn verbunden sind auch Geschichten - ohne jetzt Namen zu nennen -, die dann zu großen Skandalen aufliefen. Da hat sich gezeigt, daß der Name Bonn, jedenfalls dieser Abschnitt der Geschichte, auch dafür steht, daß sich in Deutschland eine kritische Öffentlichkeit herausgebildet hat, und zwar nicht nur in bezug auf das, was wir hier kontrovers debattieren; vielmehr hat sich auch außerhalb dieses Raumes die Fähigkeit herausgebildet zu einer kritischen Beobachtung von  Politik, zu einer kritischen Begleitung, im entscheidenden Bereich sogar zu einer Medienlandschaft in Deutschland, die fähig ist, ein Wächteramt mit anderen zu übernehmen.</p>
+          <p>Mit dem Namen Bonn verbunden sind auch Geschichten - ohne jetzt Namen zu nennen -, die dann zu großen Skandalen aufliefen. Da hat sich gezeigt, daß der Name Bonn, jedenfalls dieser Abschnitt der Geschichte, auch dafür steht, daß sich in Deutschland eine kritische Öffentlichkeit herausgebildet hat, und zwar nicht nur in bezug auf das, was wir hier kontrovers debattieren; vielmehr hat sich auch außerhalb dieses Raumes die Fähigkeit herausgebildet zu einer kritischen Beobachtung von Politik, zu einer kritischen Begleitung, im entscheidenden Bereich sogar zu einer Medienlandschaft in Deutschland, die fähig ist, ein Wächteramt mit anderen zu übernehmen.</p>
           <p>Das gehört zu Geschichten in diesem Jahrhundert, die mit dem Namen Bonn verbunden sind und die in einer Demokratie eben auch wichtig sind.</p>
           <p>Bei dem bevorstehenden Umzug müssen wir darauf achten, daß diese Grundachse nicht verschoben wird, die dieses Land so erfolgreich gemacht hat. Das ist der Kern des Auftrags.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU und der SPD)</stage>
           <p>Deshalb hat der ehemalige Bundeskanzler Kohl völlig recht. Ich stimme ihm voll zu. Es darf und kann für uns keine Bonner Republik geben, und es kann auch keine Berliner Republik geben. Es gibt eine Republik, die der gelungene zweite Versuch der Deutschen in diesem Jahrhundert ist, Demokratie dauerhaft zu verankern. Das muß in Berlin fortgesetzt werden. Ich glaube sogar, daß die Stadt Berlin, die wir in ihrer dynamischen Entwicklung so sehen und zu der wir uns mit Spannung hinbegeben, diese Chance selbst sehen muß.</p>
           <p>Vorhin ist den Bürgerinnen und Bürgern der Stadt Bonn zu Recht gedankt worden. Es ist auf ihr Naturell hingewiesen worden, das für mich - ich komme aus Oberhessen - zu einer großen Bereicherung des Lebens geworden ist.</p>
           <p>Ich sage aber auch für Berlin: Hauptstadt ist man nicht nur durch Beschluß des Bundestages oder weil das verfassungsmäßig so sein sollte. Hauptstadt muß man sein wollen, und Hauptstadt muß man auch gemeinsam dort leben.</p>
-          <p>4328 Deutscher Bundestag - 14. Wahlperiode - 50. Sitzung. Bonn, Donnerstag, den 1. Juli 1999 Deutscher Bundestag - 14. Wahlperiode - 50. Sitzung. Bonn, Donnerstag, den 1. Juli 1999 4335 Deutscher Bundestag - 14. Wahlperiode - 245. Sitzung, Bonn, Donnerstag, den 25. Juni 1998 1 Ich freue mich auf Berlin. Wir haben die innere Spannung dieser Stadt schon bei den vielen Besuchen in den letzten Jahren erfahren. Wir trauen ihr eine ganz dynamische Entwicklung zu. Wir wissen auch, daß unsere europäischen Nachbarn Berlin viel zutrauen. Sie schätzen Berlin als eine der großen europäischen Metropolen - wenn nicht sogar als die große Metropole - der Zukunft ein. Sie erwarten von uns allerdings auch, daß Berlin mit dem Umzug ein Stück Akzentsetzung und ein Stück prägende Kraft gewinnt. Ich glaube, daß in Berlin die Chancen größer als jedes Risiko sind. Wir sollten unsere Nachbarn und die Erwartungen an uns nicht enttäuschen. Daß wir diese Chance haben, daß wir in Berlin diese demokratische Substanz leben und praktizieren können und daß wir dort - in dieser Stadt, in der manches auch schon gescheitert ist - dieses Stück demokratische Stabilität haben, daran hat Bonn, diese Stadt am Rhein, ganz entscheidende Anteile. Aus diesem Grund gilt unser Dank dieser Stadt.</p>
+          <p>Ich freue mich auf Berlin. Wir haben die innere Spannung dieser Stadt schon bei den vielen Besuchen in den letzten Jahren erfahren. Wir trauen ihr eine ganz dynamische Entwicklung zu. Wir wissen auch, daß unsere europäischen Nachbarn Berlin viel zutrauen. Sie schätzen Berlin als eine der großen europäischen Metropolen - wenn nicht sogar als die große Metropole - der Zukunft ein. Sie erwarten von uns allerdings auch, daß Berlin mit dem Umzug ein Stück Akzentsetzung und ein Stück prägende Kraft gewinnt. Ich glaube, daß in Berlin die Chancen größer als jedes Risiko sind. Wir sollten unsere Nachbarn und die Erwartungen an uns nicht enttäuschen. Daß wir diese Chance haben, daß wir in Berlin diese demokratische Substanz leben und praktizieren können und daß wir dort - in dieser Stadt, in der manches auch schon gescheitert ist - dieses Stück demokratische Stabilität haben, daran hat Bonn, diese Stadt am Rhein, ganz entscheidende Anteile. Aus diesem Grund gilt unser Dank dieser Stadt.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
           <p>Meine Damen und Herren, wir müssen sehen, daß Parlament, Verfassung, unabhängige Institutionen, die Debatten, die wir führen, das Bundesverfassungsgericht, die Bundesbank oder jetzt auch schon die Europäische Zentralbank und der föderative Staatsaufbau - also all das, was wir als "balance of power" brauchen, damit Macht geteilt wird und sich keine Allmacht entwickelt -, nicht alles sein kann. Das ist ein Gerüst. Zusätzlich brauchen wir aber Bürgerinnen und Bürger, die die Mitte, das Maß, Toleranz und Weitsicht sowie die Fähigkeit, andere anders sein zu lassen, als sie selbst sind, haben. Institutionen und Verfassungen leben nicht, wenn die mentale Verfassung der Gesellschaft nicht fähig ist, sie zu leben. Deshalb ist eine geschriebene Verfassung nicht ausreichend.</p>
           <p>Bonn ist mit der geschriebenen Verfassung verbunden. Für ihre Dauerhaftigkeit brauchen wir aber die stetige Verankerung einer demokratischen mentalen Verfassung der Gesellschaft und der Politik der Bundesrepublik Deutschland. Das ist eine Aufgabe, die weitergeführt werden muß, die nie enden wird, die große Substanz hat und die vielleicht auch Berlin die Chance gibt, nach vielen Rückschlägen in diesem Jahrhundert jetzt endlich eine deutsche Hauptstadt zu sein, von der für unsere Nachbarn Verläßlichkeit, für unsere Bürger Sicherheit, für unser Land demokratische Stabilität und für alle Welt Weltoffenheit und freundschaftliche Beziehungen ausgehen. Darauf darf sich Berlin mit uns freuen. Wir wollen das Beste dafür tun, daß das gelingt.</p>
           <p>Herzlichen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Kollegin Christa Luft.</p>
         </sp>
-        <sp who="Dr. Christa Luft" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Christa Luft">
+        <sp who="Christa Luft" parliamentary_group="PDS" role="mp" position="NA" who_original="Christa Luft" party="PDS" name="Christa Luft">
           <speaker>Dr. Christa Luft (PDS):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Aus Ostdeutschland kommend gehöre ich einer Generation an, die den größeren Teil des Lebens in einem anderen politischen System verbracht und dort natürlich auch Prägungen erfahren hat. Aber auch diese Generation hat jetzt nur noch dieses eine Land. Daher möchte ich an einem Tage wie dem heutigen wünschen, daß fortan weniger der Streit um unsere getrennte Vergangenheit als vielmehr das Nachdenken über eine gemeinsame Zukunft im Mittelpunkt steht.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
@@ -436,13 +436,13 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der PDS sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
-          <p>Das Wort hat nun der Ministerpräsident des Landes Nordrhein-Westfalen, Wolfgang Clement. </p>
+          <p>Das Wort hat nun der Ministerpräsident des Landes Nordrhein-Westfalen, Wolfgang Clement.</p>
         </sp>
-        <sp who="Wolfgang Clement" parliamentary_group="NA" role="federal_council" position="Ministerpräsident" party=" SPD" name=" Wolfgang Clement">
+        <sp who="Wolfgang Clement" parliamentary_group="NA" role="federal_council" position="Ministerpräsident" who_original="Wolfgang Clement" party="SPD" name="Wolfgang Clement">
           <speaker>Wolfgang Clement, Ministerpräsident (Nordrhein-Westfalen):</speaker>
-          <p> Herr Präsident! Meine sehr verehrten Damen und Herren! Für mich ist es relativ leicht, an die Adresse der Bonnerinnen und Bonner sowie aller anderen Menschen in dieser Region zu sagen: Wir bleiben hier.</p>
+          <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Für mich ist es relativ leicht, an die Adresse der Bonnerinnen und Bonner sowie aller anderen Menschen in dieser Region zu sagen: Wir bleiben hier.</p>
           <stage type="interjection">(Heiterkeit bei der SPD)</stage>
           <p>Ich bitte Sie, das nicht nur wörtlich - das ist für uns Nordrhein-Westfälinger selbstverständlich -, sondern auch politisch zu verstehen. Wir bleiben wirklich hier. Deshalb will ich der Stadt und den hier lebenden Menschen gleich zu Anfang ein Kompliment machen, nämlich daß sie alles mit rheinischer Fröhlichkeit und Gelassenheit ertragen, auch all die Abschiede, die es in diesen Tagen zu feiern gilt.</p>
           <p>Was war der Reiz von Bonn? Der Reiz von Bonn war und ist für die Politik, daß von ihr für nichts und niemanden eine Bedrohung ausgegangen ist. Diese Stadt hat niemanden bedroht.</p>
@@ -484,7 +484,7 @@
           <p>Europas stärkster Trumpf sind seine gesellschaftliche, seine kulturelle und seine politische Vielfalt, seine Werte der Solidarität und des sozialen Zusammenhalts. Wenn wir diese Trümpfe im nächsten Jahrhundert voll ausspielen wollen, brauchen wir nicht mehr Zentralismus, sondern mehr Verantwortung vor Ort und starke föderale Strukturen. Ich bin absolut sicher: Wir werden sie bekommen.</p>
           <p>Meine Damen und Herren, deshalb wird die Politik von Berlin aus ihren Einfluß sehr viel mehr mit dem, was in Brüssel gestaltet wird, teilen müssen. Über 50 Prozent der Entscheidungen, die die Bürgerinnen und Bürger sowie die Unternehmen in unserem Lande betreffen, fallen heute in Brüssel. In manchen Sektoren - von der Agrarwirtschaft ganz zu schweigen - liegt dieser Anteil in der Nähe von 100 Prozent. Das ist die europäische Realität, in der wir leben. Von diesen Realitäten geht auch ein Land wie Nordrhein-Westfalen aus: Es richtet den Blick sowohl nach Berlin als auch nach Brüssel, auf Europa und auf unsere unmittelbaren Nachbarregionen jenseits der Grenzen. Das ist das Potential dieses Landes.</p>
           <p>Bonn ist ein Gewinn für die Bundesrepublik Deutschland. Ich bin so überzeugt wie Sie - ich habe das aus all Ihren Reden herausgehört -: Einen solchen Gewinn verspielt man nicht. Diesen Schatz müssen wir gemeinsam hüten und bewahren. Um dieser Aussage mehr Gestalt zu geben, möchte ich sagen, daß dies natürlich auch für das - wie ich es empfinde - wunderbare, sehr leichte und transparente Parlamentsgebäude gilt. Das gilt für das alte und neue Bundeshaus, für das Wasserwerk und das gesamte Parlamentsviertel. Diesen vorhandenen Schatz müssen wir bewahren. Daraus sollten wir in der Verantwortung des Bundes gemeinsam etwas Unveräußerliches und Unnachahmliches machen.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der F.D.P.)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN sowie bei Abgeordneten der F.D.P.)</stage>
           <p>Was in Ihrer Verantwortung hier geschaffen wurde, gibt es sonst nirgendwo auf der Welt. Ich bin davon überzeugt, daß wir diese Verantwortung weiter tragen werden.</p>
           <p>Wie die Diskussion zwischen den Parteien zeigt, gibt es in der Politik Erblasten. Aber es gibt auch das kostbare Erbe. Was hier in der Stadt Bonn entstanden ist, ist ein kostbares Erbe. Ich möchte Ihnen ans Herz legen, daß wir dieses Erbe gemeinsam wahren und weiter- geben.</p>
           <p>Ich möchte von hier aus Dank sagen an die Bonnerinnen und Bonner, an die Stadt Bonn und an die, die den bisherigen Regierungen und Abgeordneten über viele Jahre Heimat gegeben haben.</p>
@@ -492,11 +492,11 @@
           <p>Alles Gute für Berlin! Ein herzliches Glück auf!</p>
           <stage type="interjection">(Beifall im ganzen Hause)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Als nächster Redner spricht nunmehr für die CDU/CSU-Fraktion der Kollege Michael Glos.</p>
         </sp>
-        <sp who="Michael Glos" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Michael Glos">
+        <sp who="Michael Glos" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Glos" party="CSU" name="Michael Glos">
           <speaker>Michael Glos (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Ich möchte zuvorderst dem Bundeskanzler Dr. Helmut Kohl, dem wir es verdanken, daß Berlin wieder deutsche Hauptstadt und Sitz des Parlamentes sein kann, für eine große Rede danken.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
@@ -546,15 +546,15 @@
           <p>Mit bewundernswerter Gelassenheit haben die Menschen in dieser Region den sehr knappen Mehrheitsbeschluß des Deutschen Bundestages vom 20. Juni 1991 respektiert. Es ist bereits gesagt worden: Bonn braucht Verläßlichkeit. Das sind wir dieser Stadt und diesen Menschen schuldig. Ein herzliches Wort des Dankes für 50 Jahre gute Gastfreundschaft!</p>
           <stage type="interjection">(Beifall bei der CDU/CSU, der SPD und der F.D.P. sowie des Abg. Dr. Gregor Gysi [PDS])</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
-          <p>Ich gebe dem Kollegen Volker Beck, Bündnis 90/Die Grünen, das Wort. </p>
+          <p>Ich gebe dem Kollegen Volker Beck, Bündnis 90/Die Grünen, das Wort.</p>
         </sp>
-        <sp who="Volker Beck" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Volker Beck">
+        <sp who="Volker Beck (Köln)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Volker Beck (Köln)" party="GRUENE" name="Volker Beck">
           <speaker>Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Wir haben in Bonn 50 Jahre lang unter dem Grundgesetz eine stabile Demokratie erlebt. Den Verfassungsvätern und -müttern ist 1949 ein großer Wurf gelungen. Sie haben den Rahmen gesteckt, in dem sich in fünf Jahrzehnten ein wirklich freiheitliches demokratisches Gemeinwesen ent- wickelt hat.</p>
           <p>Zu unserem Glück gezwungen haben uns damals die Alliierten. Auch ihnen sei hier und heute ausdrücklich gedankt.</p>
-          <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD, der CDU/CSU und der F.D.P.)</stage>
+          <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD, der CDU/ CSU und der F.D.P.)</stage>
           <p>Auf ihre Veranlassung trat der Parlamentarische Rat zusammen, kam es zu einer liberalen und demokratischen Verfassung. Die Alliierten haben sozusagen für die Implementierung der Demokratie gesorgt, und das mit großem Erfolg. Es ist geradezu ein Gütesiegel für unsere Demokratie, daß es seit 1949 keine rechtsextreme Partei mehr geschafft hat, in den Bundestag gewählt zu werden. Bei den Bundestagswahlen haben die Bürger und Bürgerinnen den Ideologen der Ungleichheit, der Demokratiefeindlichkeit und des offenen Rassismus regelmäßig eine Abfuhr erteilt - etwas, worauf wir stolz sein können.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
           <p>Das Grundgesetz als Fundament unserer Demokratie ist das klare und radikale Kontrastprogramm zum Na- tionalsozialismus: Unantastbarkeit der Menschenwürde - nicht der Deutschenwürde -, freie Entfaltung der Persönlichkeit, Gleichheit vor dem Gesetz, Glaubens-, Gewissens- und Meinungsfreiheit, Schutz von Ehe und Familie vor staatlichen Eingriffen. Nach den zwölf Jahren des NS-Regimes waren dies damals wahrlich revolutionäre Grundsätze.</p>
@@ -565,7 +565,7 @@
           <p>Meine Damen und Herren, es ist ein großer Schönheitsfleck auf unserer Demokratie, daß solche staatlichen Eingriffe in das Privatleben damals möglich waren, gebilligt vom Gesetzgeber, teilweise sogar mit dem ausdrücklichen Segen des Bundesverfassungsgerichts versehen. Es ist ein großer Erfolg unserer Demokratie, daß eine solche Politik heute einfach nicht mehr denkbar ist. Die Menschen würden es sich schlichtweg nicht gefallen lassen; die ehemals so obrigkeitstreuen Deutschen haben nämlich den Genuß der Freiheit zu schätzen gelernt.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und der F.D.P.)</stage>
           <p>Zu dieser Zivilisierung, zur wachsenden Gelassenheit in Fragen der Sitte und Moral hat sicher auch die Kulturgeographie beigetragen, die Lage des Dauerprovisoriums Bonn. Nehmen wir nur die rheinischen Lebensweisen "Lewe ond lewe losse" und "Jeder Jeck ist anders". Auch das hat, glaube ich, seine Auswirkungen auf die Politik gehabt.</p>
-          <p>4336 Deutscher Bundestag - 14. Wahlperiode - 50. Sitzung. Bonn, Donnerstag, den 1. Juli 1999 Deutscher Bundestag - 14. Wahlperiode - 50. Sitzung. Bonn, Donnerstag, den 1. Juli 1999 4341 Deutscher Bundestag - 14. Wahlperiode - 245. Sitzung, Bonn, Donnerstag, den 25. Juni 1998 1 Gustav Heinemann hat es einmal so ausgedrückt, daß die Demokratie an ihrem Umgang mit ihren Minderheiten gemessen werden müsse. Gleichheit vor dem Gesetz, Diskriminierungs- und Willkürverbot - all das ist in  Art. 3 des Grundgesetzes geregelt. Dieser Art. 3 gehört wahrlich zu den Preziosen unserer Verfassung. Deshalb will ich bei diesem Kernstück der Demokratie kurz verweilen.</p>
+          <p>Gustav Heinemann hat es einmal so ausgedrückt, daß die Demokratie an ihrem Umgang mit ihren Minderheiten gemessen werden müsse. Gleichheit vor dem Gesetz, Diskriminierungs- und Willkürverbot - all das ist in Art. 3 des Grundgesetzes geregelt. Dieser Art. 3 gehört wahrlich zu den Preziosen unserer Verfassung. Deshalb will ich bei diesem Kernstück der Demokratie kurz verweilen.</p>
           <p>Meine Damen und Herren, die Menschen sind nicht gleich; sie sind sehr verschieden. Sie haben ganz unterschiedliche Eigenschaften, unterschiedliche Weltanschauungen, Lebensentwürfe und Vorstellungen von ihrem ganz persönlichen Glück. Gerade deshalb ist es so wichtig, daß unsere Verfassung die Gleichheit vor dem Gesetz als Norm gesetzt hat. Das ist von entscheidender Bedeutung für ein friedliches Zusammenleben. Wir erleben es auch heute noch: Jedes Merkmal, das den einen vom anderen unterscheidet, kann zu Anfeindung und Ausgrenzung führen. Wie kaum ein anderer ist dieser Art. 3 als Antwort auf die Verbrechen der Nazis formuliert worden. Er ist gleichsam ein verfassungsrechtliches "Nie wieder!".</p>
           <p>Unsere Verfassung leitet von der Verschiedenheit der Menschen Gleichheit in den Rechten ab, und nicht Unterschiedlichkeit. Diese Gleichheit ist das Gegenteil von Gleichmacherei; sie ist Ausdruck des Respektes vor der Würde jedes einzelnen Menschen. Der Verfassungsauftrag, die Gleichheit vor dem Gesetz auch in Rechtswirklichkeit umzusetzen, gilt auch heute unvermindert fort. Um diesem Auftrag gerecht zu werden, haben wir uns für diese Wahlperiode noch einiges vorgenommen: ein Gleichstellungsgesetz für Frauen, ein Antidiskriminierungsgesetz, die eingetragene Partnerschaft.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -596,7 +596,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der PDS sowie bei Abgeordneten der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Meine Damen und Herren, liebe Kolleginnen und Kollegen, ich freue mich, daß ich nunmehr auf der Tribüne des Deutschen Bundestages die ehemalige Präsidentin des Parlaments, Annemarie Renger, herzlich begrüßen darf.</p>
           <stage type="interjection">(Beifall im ganzen Hause)</stage>
@@ -605,7 +605,7 @@
           <p>Das Wort hat nunmehr der Kollege Dr. Guido</p>
           <p>Westerwelle für die F.D.P.-Fraktion.</p>
         </sp>
-        <sp who="Dr. Guido Westerwelle" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Guido Westerwelle">
+        <sp who="Guido Westerwelle" parliamentary_group="FDP" role="mp" position="NA" who_original="Guido Westerwelle" party="FDP" name="Guido Westerwelle">
           <speaker>Dr. Guido Westerwelle (F.D.P.):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Ich möchte mich als Bonner Abgeordneter bei Ihnen, beim Haus und beim Präsidium, sehr herzlich dafür bedanken, daß Sie uns mit diesem Tag, auch mit der Vereidigung des neuen Bundespräsidenten hier in Bonn, gewissermaßen ein Abschiedsgeschenk machen. Ich habe gelesen, daß das vom Regierenden Bürgermeister von Berlin sogleich ein wenig neidisch beäugt wurde. Wir Rheinländer sagen dazu: Man muß auch gönnen können. Deswegen mein ganz herzlicher Dank als Bonner an Sie, daß Sie uns diese Ehre geben.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der SPD)</stage>
@@ -631,7 +631,7 @@
           <p>In Berlin ist alles größer, manchmal geradezu pompös. Die Sprache spricht Bände. Bonn war stets die Bundeshauptstadt. Berlin dagegen wird kurz Hauptstadt genannt. Das ist mehr als Semantik. Es ist zugleich auch föderatives Selbstverständnis. Für mich ist Berlin immer noch die Bundeshauptstadt, meine sehr geehrten Damen und Herren.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
           <p>Bonn hat nie den Rest der Republik zur Provinz werden lassen. Auch Berlin darf nicht die anderen Teile Deutschlands zur Provinz werden lassen.</p>
-          <stage type="interjection">(Beifall  bei  der  F.D.P.,  der  SPD,  der  CDU/CSU und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der F.D.P., der SPD, der CDU/ CSU und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Dieses kleine Bonn ist nicht provinziell. Maßvoll ist nicht mäßig und erst recht nicht mittelmäßig. Im Gegenteil, es ist eine Tugend.</p>
           <p>Ich habe in dieser Woche einen von mir sehr geschätzten Intellektuellen, einen Buchautoren, im Fernsehen gehört, der den Umzug mit den Worten kommentierte, jetzt ziehe der Bundestag zum Volk. Waren wir in Bonn nicht beim Volk?</p>
           <stage type="interjection">(Dr. Elke Leonhard [SPD]: Nein!)</stage>
@@ -645,13 +645,13 @@
           <p>Wir Bonner werden unsere Zukunft meistern und unsere Chancen nutzen. Die Bonner sind dem Bundestag für 50 gute Jahre dankbar. Auch der Bundestag zeigt heute seine Dankbarkeit, aber bitte nicht nur an diesem Tag. Am überzeugendsten kann dieser Dank nun durch die Sicherstellung von Planungssicherheit für die Bonnerinnen und Bonner in Stadt und Umland gezeigt werden. Dieselbe Einmütigkeit, mit der wir in dieser Debatte Bonn danken, ist auch nach dem Umzug bei der Einhaltung der Bonn/Berlin-Vereinbarungen nötig. Wir hoffen nicht, daß der Bundestag nach dem Umzug gewissermaßen nach der Devise handelt: Aus den Augen, aus dem Sinn. Erinnern Sie sich an Bonn, auch in Berlin, und erinnern Sie sich in Berlin auch Ihrer Verantwortung gegenüber Bonn, meine sehr geehrten Damen und Herren, Kolleginnen und Kollegen!</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der SPD)</stage>
           <p>Wenn uns in Berlin gelingt, was in Bonn gelang, bleibt Deutschland auf einem guten Weg. Bonn wird Sie vermissen, und ich bin sicher, Sie werden manches Mal noch Bonn vermissen.</p>
-          <stage type="interjection">(Beifall bei der F.D.P., der SPD, der CDU/CSU und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
+          <stage type="interjection">(Beifall bei der F.D.P., der SPD, der CDU/ CSU und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Für die Fraktion der PDS spricht nun die Abgeordnete Angela Marquardt.</p>
         </sp>
-        <sp who="Angela Marquardt" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Angela Marquardt">
+        <sp who="Angela Marquardt" parliamentary_group="PDS" role="mp" position="NA" who_original="Angela Marquardt" party="PDS" name="Angela Marquardt">
           <speaker>Angela Marquardt (PDS):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Kollege Westerwelle, so berechtigt Ihre Kritik an der Bundesregierung gewesen ist, so kann ich, Frau Oberbürgermeisterin Dieckmann, wenn ich mir den gesamten Saal ansehe,</p>
           <stage type="interjection">(Dr. Guido Westerwelle [F.D.P.]: Das ist wohl wahr!)</stage>
@@ -674,12 +674,12 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der PDS sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Als nächste Red-</p>
           <p>nerin spricht für die SPD-Fraktion die Kollegin Iris Gleicke.</p>
         </sp>
-        <sp who="Iris Gleicke" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Iris Gleicke">
+        <sp who="Iris Gleicke" parliamentary_group="SPD" role="mp" position="NA" who_original="Iris Gleicke" party="SPD" name="Iris Gleicke">
           <speaker>Iris Gleicke (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Liebe Oberbürgermeisterin Bärbel Dieckmann! Liebe Bonnerinnen und Bonner! Wir alle haben Bonn dafür zu danken, daß es in den letzten 50 Jahren das Parlament und damit das Herzstück der deutschen Demokratie beherbergt hat.</p>
           <p>Aus meiner Perspektive, aus der Perspektive einer ostdeutschen Abgeordneten, die dem Bundestag seit 1990 angehört, möchte ich es persönlicher formulieren: Ich bin froh und dankbar dafür, daß ich hier in Bonn in den vergangenen neun Jahren bei der Gestaltung der Demokratie mitwirken durfte. Sicherlich war für uns Ostdeutsche Bonn auch in den Jahrzehnten vor dem Fall der Mauer ein Begriff. Bonn, das war für uns ein anderer Name für die westdeutsche Demokratie und für die westdeutsche Gesellschaft. Das Westfernsehen brachte den "Bericht aus Bonn" in die gute Stube, und nach jeder Wahl gab es die "Bonner Runde".</p>
@@ -711,7 +711,7 @@
           <p>Schönen Dank.</p>
           <stage type="interjection">(Beifall im ganzen Hause)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Ich möchte die Gelegenheit nutzen, den ehemaligen Oberbürgermeister von Bonn, Hans Daniels,</p>
           <stage type="interjection">(Beifall)</stage>
@@ -719,7 +719,7 @@
           <stage type="interjection">(Beifall)</stage>
           <p>Als nächster Redner hat der Kollege Wolfgang Gehrcke von der PDS-Fraktion das Wort.</p>
         </sp>
-        <sp who="Wolfgang Gehrcke" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Wolfgang Gehrcke">
+        <sp who="Wolfgang Gehrcke" parliamentary_group="PDS" role="mp" position="NA" who_original="Wolfgang Gehrcke" party="PDS" name="Wolfgang Gehrcke">
           <speaker>Wolfgang Gehrcke (PDS):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Ich möchte meine Sichtweise, die eines Sozialisten aus der Altbundesrepublik, der sich diese Republik aus der linken Opposition in Widerstand und in Gegensatz, in Ablehnung und Rebellion angeeignet hat - also auf ganz andere Art und Weise -, neben Ihre Äußerungen stellen. Ich sage bewußt "neben" und nicht "an die Stelle": Aneignung ist möglich von oben, als Teil des Mainstream, der Mehrheit, die das Land durch Gesetze, Entscheidungen und Verträge prägt. Sie ist aber auch möglich - das ist mir wertvoll - durch Widerspruch und Widerstand.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
@@ -740,13 +740,13 @@
           <p>Schönen Dank.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Bevor ich dem früheren Vizepräsidenten dieses Hauses, Hans-Ulrich Klose, das Wort gebe, möchte ich auch die ehemalige Vizepräsidentin Lieselotte Funcke herzlich begrüßen.</p>
           <stage type="interjection">(Beifall)</stage>
           <p>Bitte schön, Herr Klose.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="SPD" role="mp" position="NA" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Hans-Ulrich Klose (SPD):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Heute abend wird - wenn das Wetter mitspielt - auf dem Bonner Marktplatz das Bonner Konzert erklingen, ein Geschenk des Bundestages an die Stadt Bonn. Es handelt sich um eine Komposition von York Höller, Professor an der Musikhochschule in Köln, der sein Werk am vergangenen Sonntag in einem kleinen Kreis vorgestellt hat. Der Titel des Werkes lautet: Aufbruch. Das klingt optimistisch und dynamisch. So wollte es der Autor, der aber bei der Vorstellung seines Werkes doch zugeben mußte, daß sich in seine Wahrnehmung des Umzugs von Parlament und Regierung von Bonn nach Berlin starke melancho- lische Töne mischten; denn, so meinte er wörtlich, in Bonn sei doch über 50 Jahre gute Politik gemacht worden.</p>
           <p>Das bringt es, wie ich finde, auf den Punkt: "gute Politik" nicht in dem Sinne, daß alles, was hier gesagt, entschieden und getan wurde, immer gut und angemessen war. Streit gab es genug, auch Fehler und Nieder- lagen, auch - ich rede jetzt von mir - persönliche Fehler und Niederlagen. Gleichwohl bleibt richtig: Der zweite demokratische Versuch auf deutschem Boden, der mit dem Namen Bonn verbunden ist, hat sich zur Erfolgs- geschichte entwickelt.</p>
@@ -787,16 +787,16 @@
           <p>Das ist, wie ich finde, eine sehr kluge und beachtenswerte Einschätzung unserer Lage und Möglichkeiten. Es lohnt sich, darüber nachzudenken.</p>
           <stage type="interjection">(Beifall bei der SPD, der CDU/CSU und der F.D.P. sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
           <p>An der europäischen Ausrichtung unserer Außenpolitik sollten wir unbedingt festhalten. Sie hat uns bisher ganz überwiegend Vorteile gebracht. Die werden nicht immer ganz so deutlich wahrgenommen, weil alle EU-Regierungen dazu tendieren, schmerzhafte finanzielle Einschnitte in ihre nationalen Haushalte mit Europa zu begründen, was - vorsichtig formuliert - nicht immer zutreffend ist. Der Effekt ist aber unübersehbar: Die Europabegeisterung der Menschen hat abgenommen, was ich bedaure, denn ich sehe keine Alternative zu einer betont europäischen Politik.</p>
-          <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN, der CDU/CSU und der F.D.P.)</stage>
+          <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/ DIE GRÜNEN, der CDU/CSU und der F.D.P.)</stage>
           <p>In dieser Einschätzung waren wir uns in diesem Hause - von der PDS abgesehen - auch immer einig, und das war und ist gut so. In Grundsatzfragen der außenpolitischen Orientierung muß es nicht ein Mindestmaß, sondern ein Höchstmaß an Konsens geben.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN, der CDU/CSU und der F.D.P.)</stage>
           <p>Noch eine Bemerkung zur Außenpolitik: Manchmal hat man bei Reden zur Außenpolitik hier und anderswo den Eindruck, es gehe den Deutschen in erster Linie um das Wohl der ganzen Menschheit und nicht auch und in erster Linie um die Wahrnehmung deutscher Interessen. Ich verstehe das, füge aber hinzu: Es ist normal, Interessen zu haben und zu verfolgen, auch für Deutschland. Sie zu definieren und durchzusetzen, wenn möglich, ist nicht unanständig, sondern wird geradezu erwartet.</p>
           <stage type="interjection">(Michael Glos [CDU/CSU]: So ist es!)</stage>
           <p>Daß wir aber, um unsere Ziele zu erreichen, mit anderen kooperieren müssen, ist selbstverständlich. Wir können es nur mit ihnen und unter Beachtung auch ihrer Interessen schaffen, weil wir zu klein sind, um mit der Robustheit der Vereinigten Staaten zu operieren, und zu groß, als daß man uns bei solchen Versuchen einfach gewähren ließe. Den kooperativen Stil der deutschen Außenpolitik sollten wir deshalb beibehalten.</p>
-          <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN, der CDU/CSU und der F.D.P.)</stage>
+          <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/ DIE GRÜNEN, der CDU/CSU und der F.D.P.)</stage>
           <p>Worauf ich mit diesen drei Bemerkungen zur Außenpolitik hinaus will, ist klar. Ich gehe davon aus, daß der Umzug von Parlament und Regierung von Bonn nach Berlin eben nicht mit einem Paradigmenwechsel der deutschen Politik, vor allem der Außenpolitik, einhergeht. Ich plädiere entschieden für Kontinuität.</p>
           <p>Natürlich wird es Akzentverschiebungen geben. Berlin ist anders als Bonn, liegt im Osten der Republik, ist viel größer. Den Problemen der Zeit und der Wirklichkeit begegnet man in einer solchen Stadt auf Schritt und Tritt, während wir hier in Bonn, im Regierungs- und Parlamentsviertel - zugegebenermaßen - in einer etwas abstrakten Welt gearbeitet haben: wir hier drinnen und die Menschen draußen. Das wird sich in Berlin hoffentlich ändern, und es wird die Politik verändern, aber nicht im Grundsatz. Der ersten so erfolgreichen Bonner Etappe unseres demokratischen Wiederaufbaus wird - davon bin ich überzeugt - eine ebenso erfolgreiche in Berlin folgen. Das politische Klima in Berlin wird anders sein, aber es bleibt die gleiche Republik: nicht die Bonner Republik, keine Berliner Republik, sondern die Bundesrepublik Deutschland, unser aller gemeinsamer Staat.</p>
-          <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN, der CDU/CSU und der F.D.P. sowie bei Abgeordneten der PDS)</stage>
+          <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/ DIE GRÜNEN, der CDU/CSU und der F.D.P. sowie bei Abgeordneten der PDS)</stage>
           <p>Bleibt auch der Bonner Stil? Gab es so etwas wie einen Bonner Stil? Ich glaube, schon. Bonn ist eine kleine Stadt und mit Berlin nicht vergleichbar. Das Flair einer Weltstadt kann Bonn nicht bieten. Aber diese heitere, eher bescheidene rheinische Stadt bietet etwas, was für uns alle, die wir hier gearbeitet haben, wichtig war: Nähe. Hier in Bonn war alles nah beieinander. Man konnte sich schnell zusammenfinden, begegnete sich laufend, lernte sich schneller - nicht nur politisch, sondern auch persönlich - kennen. Wer an Wochenenden hier blieb und auf den Bonner Markt ging, konnte sicher sein, mindestens ein halbes Dutzend bekannter Gesichter - Politiker, Journalisten und Verbandsvertreter - zu treffen. Da die gastronomischen Möglichkeiten nicht unbegrenzt waren und sind, traf man sich in Bonn auch außerhalb der Politik immer wieder.</p>
           <p>Manch einem war das bisweilen ein bißchen zuviel. Alles in allem hat es uns aber geholfen, freundlich und kollegial miteinander umzugehen. Das soll niemand geringachten.</p>
           <stage type="interjection">(Beifall im ganzen Hause)</stage>
@@ -810,7 +810,7 @@
           <p>Dank, liebe Bärbel Dieckmann, an Bonn! Glück auf, Herr Kollege Diepgen, für Berlin!</p>
           <stage type="interjection">(Beifall im ganzen Hause)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Ich freue mich, daß wir an diesem historischen Tag so viele herausragende Persönlichkeiten als Besucher bei uns haben. Deswegen möchte ich es nicht versäumen, noch den früheren polnischen Außenminister, Herrn Professor Wladyslaw Bartoszewski,</p>
           <stage type="interjection">(Beifall)</stage>
@@ -852,7 +852,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU, der SPD und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Wir sind damit am Schluß unserer Tagesordnung.</p>
@@ -863,6 +863,7 @@
           <p>Die nächste Sitzung des Deutschen Bundestages</p>
           <p>berufe ich ein auf Mittwoch, den 8. September 1999, 10.45 Uhr in Berlin im Reichstagsgebäude.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluß: 12.37 Uhr)</stage>
         </sp>
       </div>
     </body>

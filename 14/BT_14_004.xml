@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-06</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2005/1205/bic/plenarprotokolle/pp/1998/14004a.zip</url>
-        <date>2015-10-20 19:19:37</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -36,7 +36,7 @@
   <text>
     <body>
       <div type="agenda_item" n="1" what="" desc="Fortsetzung der Aussprache zur Regierungs-">
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Liebe Kolleginnen! Liebe Kollegen! Ich wünsche Ihnen einen guten Morgen. Die Sitzung ist eröffnet.</p>
           <p>Bevor wir in die Tagesordnung eintreten, möchte ich zunächst der Kollegin Ulrike Mascher, dem Kollegen Wolfgang Behrendt und dem Kollegen Werner Lensing, die im Oktober jeweils ihren 60. Geburtstag feierten, nachträglich die besten Grüße und Wünsche des Hauses aussprechen.</p>
@@ -52,7 +52,7 @@
           <p>Besteuerung von Luxusgegenständen</p>
           <p>- Drucksache 14/27 -</p>
           <p>Außerdem sollen die Tagesordnungspunkte 5 a bis 5 c und 8 abgesetzt werden. Sind Sie damit einverstanden? - Ich höre keinen Widerspruch. Dann verfahren wir so.</p>
-          <p>Ich rufe die Tagesordnungspunkte 3 und 4 auf: </p>
+          <p>Ich rufe die Tagesordnungspunkte 3 und 4 auf:</p>
           <p>3. Beratung des Antrags der Fraktionen SPD, CDU/CSU, BÜNDNIS 90/DIE GRÜNEN, F.D.P. und PDS</p>
           <p>Bestimmung des Verfahrens für die Berechnung der Stellenanteile der Fraktionen</p>
           <p>- Drucksache 14/21 -</p>
@@ -68,9 +68,9 @@
           <p>Nach einer interfraktionellen Vereinbarung soll die heutige Aussprache bis 14 Uhr dauern. - Ich höre keinen Widerspruch. Dann ist es so beschlossen.</p>
           <p>Wir kommen zunächst zum Themenbereich Arbeit und Soziales. Ich eröffne die Aussprache. Das Wort hat der Kollege Dr. Hermann Kues.</p>
         </sp>
-        <sp who="Dr. Hermann Kues" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hermann Kues">
+        <sp who="Hermann Kues" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hermann Kues" party="CDU" name="Hermann Kues">
           <speaker>Dr. Hermann Kues (CDU/CSU):</speaker>
-          <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Herr Minister Riester, ich wünsche Ihnen bei Ihrer Arbeit eine glückliche Hand  im Interesse der Menschen und im Interesse der Sache. Ich glaube, die Menschen bei uns im Lande haben zu Recht einen Anspruch darauf, daß wir als Opposition Ihre Politik nicht nur deshalb kritisieren, weil sie von Ihnen kommt. Genauso wird von uns erwartet, daß wir nicht sagen, etwas sei nur deshalb richtig, weil es von uns kommt.</p>
+          <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Herr Minister Riester, ich wünsche Ihnen bei Ihrer Arbeit eine glückliche Hand im Interesse der Menschen und im Interesse der Sache. Ich glaube, die Menschen bei uns im Lande haben zu Recht einen Anspruch darauf, daß wir als Opposition Ihre Politik nicht nur deshalb kritisieren, weil sie von Ihnen kommt. Genauso wird von uns erwartet, daß wir nicht sagen, etwas sei nur deshalb richtig, weil es von uns kommt.</p>
           <p>Der Bundeskanzler hat gestern in der Regierungserklärung einen relativ eindeutigen Maßstab genannt: Dienen die vorgesehenen Regelungen dazu, das Hauptziel zu erreichen, nämlich die Arbeitslosigkeit abzubauen? Diese Frage ist für uns die Meßlatte; daran werden wir festhalten.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P.)</stage>
           <p>Ich sage Ihnen ganz offen: Was ich bislang von Ihnen und von anderen Vertretern der Regierung gehört habe, erweckt bei mir den Eindruck, daß Sie sich einerseits um klare Aussagen drücken und daß Sie andererseits in den Punkten, in denen Sie konkret werden, in die falsche Richtung laufen. Wer an einer wichtigen Weggabelung in die falsche Richtung läuft, der gerät nach meiner Überzeugung auf den Holzweg. Alle Maßnahmen muß man danach bewerten, ob sie dem Ziel dienen, mehr Menschen in Beschäftigung zu bringen, und ob sie für diejenigen gedacht sind, die am Rande stehen und keine Möglichkeiten haben, ihre Fähigkeiten in den Wirtschafts- und Arbeitsprozeß einzubringen.</p>
@@ -153,12 +153,12 @@
           <p>Ich sage Ihnen, Herr Minister: Sie werden scheitern, wenn Sie nicht den Mut haben, Veränderungen vorzunehmen, die nicht bei jedem und überall gleich auf Begeisterung stoßen. Sie können das nicht finanzieren, und die Gesellschaft wird dadurch nicht menschlicher. Herr Minister, haben Sie mehr Mut, und drücken Sie sich nicht um Sachverhalte.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P. - Bundesminister Walter Riester tritt an das Rednerpult - Michael Glos [CDU/CSU]: Es ist üblich, daß man zuerst aufgerufen wird!)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Das Wort hat der Redner, der bereits am Rednerpult steht, der Bundesminister für Arbeit und Sozialordnung, Walter Riester.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Walter Riester" parliamentary_group="NA" role="government" position="Bundesminister für Arbeit und Sozialordnung" party="SPD" name="Walter Riester">
+        <sp who="Walter Riester" parliamentary_group="NA" role="government" position="Bundesminister für Arbeit und Sozialordnung" who_original="Walter Riester" party="SPD" name="Walter Riester">
           <speaker>Walter Riester, Bundesminister für Arbeit und Sozialordnung:</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Eine kurze Vorbemerkung: Herr Dr. Kues, ich habe gemerkt, daß Sie nach 16 Jahren Regierung sehr schnell in der Opposition angekommen sind.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
@@ -233,22 +233,22 @@
           <p>Meine Damen und Herren, ich bin überzeugt, daß, wenn wir das systematisch angehen, auch die dritte Frage, der nicht ausgewichen werden darf, nämlich ob wir dafür eigene Lohnniveaus, ob wir dafür eine Kombination mit der Sozialversicherung brauchen, von den Tarifvertragsparteien angegangen wird.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Herr Bundesminister, gestatten Sie eine Frage des Abgeordneten Dr. Schäuble?</p>
         </sp>
-        <sp who="Walter Riester" parliamentary_group="NA" role="government" position="Bundesminister für Arbeit und Sozialordnung" party="SPD" name="Walter Riester">
+        <sp who="Walter Riester" parliamentary_group="NA" role="government" position="Bundesminister für Arbeit und Sozialordnung" who_original="Walter Riester" party="SPD" name="Walter Riester">
           <speaker>Walter Riester, Bundesminister für Arbeit und Sozialordnung:</speaker>
-          <p>Bitte. </p>
+          <p>Bitte.</p>
         </sp>
-        <sp who="Dr. Wolfgang Schäuble" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Schäuble">
+        <sp who="Wolfgang Schäuble" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Schäuble" party="CDU" name="Wolfgang Schäuble">
           <speaker>Dr. Wolfgang Schäuble (CDU/CSU):</speaker>
           <p>Herr Bundesminister, nachdem Sie sich gerade gegen diese Art von Beschäftigung ausgesprochen haben - -</p>
           <stage type="interjection">(Widerspruch bei der SPD)</stage>
           <p>- Doch. Sie haben doch gerade gegen Kofferträger, Schuhputzer usw. gesagt, diese Art von Beschäftigung gebe es nicht. Wo sind denn diese Jobs? - das war Ihre Frage. Deswegen möchte ich Sie fragen, ob mich meine Erinnerung trügt wenn ich darauf verweise, daß der Herr Bundeskanzler gestern in seiner Regierungserklärung unter anderem den Begriff Einpackhilfe gebraucht hat.</p>
           <stage type="interjection">(Zustimmung bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Walter Riester" parliamentary_group="NA" role="government" position="Bundesminister für Arbeit und Sozialordnung" party="SPD" name="Walter Riester">
+        <sp who="Walter Riester" parliamentary_group="NA" role="government" position="Bundesminister für Arbeit und Sozialordnung" who_original="Walter Riester" party="SPD" name="Walter Riester">
           <speaker>Walter Riester, Bundesminister für Arbeit und Sozialordnung:</speaker>
           <p>Wenn Sie mir zugehört hätten, Herr Abgeordneter Schäuble,</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -290,12 +290,12 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Anhaltender Beifall bei der SPD - Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Liebe Kolleginnen und Kollegen, ich schlage vor, daß wir uns darauf verständigen, daß wir jedem Redner zuhören, egal, ob er Minister ist oder nicht.</p>
           <p>Das Wort für die F.D.P. hat die Kollegin Dr. Irmgard Schwaetzer.</p>
         </sp>
-        <sp who="Dr. Irmgard Schwaetzer" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Irmgard Schwaetzer">
+        <sp who="Irmgard Schwaetzer" parliamentary_group="FDP" role="mp" position="NA" who_original="Irmgard Schwaetzer" party="FDP" name="Irmgard Schwaetzer">
           <speaker>Dr. Irmgard Schwaetzer (F.D.P.):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Mit den Versprechungen in der Sozialpolitik hat die neue Koalition die Wahl gewonnen. Aber was waren das für Versprechungen? Sie waren doch sehr widersprüchlich. Die einen erwarten von Ihnen die Wiederherstellung der alten Zustände, die anderen - das ist die von Ihnen besonders umworbene Neue Mitte - erwarten von Ihnen, Herr Bundeskanzler, Modernisierung, die zweifellos nicht mit der Bewahrung der alten Zustände einhergehen kann. Das liegt schon in dem Wort "Modernisierung".</p>
           <p>Ihre Regierungserklärung ist auf Grund dieses Spagats notwendigerweise sehr blaß gewesen. Die Kommentierung in der Presse heute, Herr Bundeskanzler, kann Sie auch nicht gefreut haben.</p>
@@ -344,21 +344,21 @@
           <p>Wir werden Ihre Vorschläge zum Abbau der Jugendarbeitslosigkeit sorgfältig prüfen. Wenn sie ein Stück Modernisierung bringen, dann werden wir Sie auch unterstützen. Aber wir werden Sie nicht aus der Verantwortung entlassen, den vielen Langzeitarbeitslosen eine Brücke in den Arbeitsmarkt zu bauen. Natürlich, Herr Riester, besteht Dienstleistung nicht nur aus einpacken oder Koffer tragen. Es gibt auch für diejenigen, die - aus welchen Gründen auch immer - jetzt langzeitarbeitslos sind und eine geringe Qualifikation besitzen, neben dem Dienstleistungsbereich andere Beschäftigungsmöglichkeiten. Aber anpacken muß man das Problem. Das war mit den Gewerkschaften bisher nicht möglich. Wir werden Ihnen unser Bürgergeldmodell, das eine Brücke in den Arbeitsmarkt auch für diejenigen schafft, die keine Qualifikation haben oder aus Gründen, die sie nicht zu vertreten haben, nicht erreichen können, immer wieder vorhalten.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
-          <p>Frau Kollegin Schwaetzer, kommen Sie bitte zum Ende. </p>
+          <p>Frau Kollegin Schwaetzer, kommen Sie bitte zum Ende.</p>
         </sp>
-        <sp who="Dr. Irmgard Schwaetzer" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Irmgard Schwaetzer">
+        <sp who="Irmgard Schwaetzer" parliamentary_group="FDP" role="mp" position="NA" who_original="Irmgard Schwaetzer" party="FDP" name="Irmgard Schwaetzer">
           <speaker>Dr. Irmgard Schwaetzer (F.D.P.):</speaker>
           <p>Ich komme zum Schluß.</p>
           <p>Opposition als Immer-Dagegensein ist nicht unser Ansatz. Da, Herr Bundeskanzler, wo in Ihren eigenen Reihen Modernisierung durchzusetzen ist, werden wir ein Dialogpartner für Sie sein, und wir werden die Interessen der Bürger zur Richtschnur unseres Handelns machen. Ich wünsche mir auch mit Ihnen, Herr Bundesarbeitsminister, viele interessante Gespräche. Ich wünsche mir, daß wir auch in der Sozialpolitik, was Modernisierung anbetrifft, einem Konsens wieder näher kommen als in der Vergangenheit.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Das Wort hat für Bündnis 90/Die Grünen Frau Dr. Thea Dückert.</p>
         </sp>
-        <sp who="Dr. Thea Dückert" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Thea Dückert">
+        <sp who="Thea Dückert" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Thea Dückert" party="GRUENE" name="Thea Dückert">
           <speaker>Dr. Thea Dückert (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Als ich heute morgen die beiden Reden von Herrn Kues und von Minister Riester angehört habe, ist mir zum wiederholten Male klargeworden, warum Sie, meine Damen und Herren von der CDU, die Wahl verloren haben.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der PDS)</stage>
@@ -398,13 +398,13 @@
           <p>Ich möchte noch auf einen ganz zentralen Punkt zu sprechen kommen: die Arbeitsmarktpolitik, das Problem der Normal- bzw. unstetigen Beschäftigung. Ich hatte dies eben schon genannt. Diese Veränderungen in der Gesellschaft - unstetige Beschäftigung, Arbeitslosigkeit, andere demographische Entwicklungen -, führen dazu, daß wir in der Sozialpolitik einen neuen Generationenvertrag diskutieren und entwickeln müssen.</p>
           <stage type="interjection">(Dr. Hermann Kues [CDU/CSU]: Eine ganz neue Erkenntnis!)</stage>
           <p>Damit junge Leute eine Chance haben, muß die Sozialpolitik mehrere Generationen umfassen. Wir müssen uns verdeutlichen, daß die Standardrente auch für die junge Generation heute zu einer unerreichbaren Fiktion geworden ist. So richtig und wichtig es ist, vier Säulen in das Rentensystem einzuziehen, so klar muß auch sein, daß wir die demographischen Entwicklungen nur dann in den Griff bekommen werden, wenn wir die Rentnergeneration ausgewogen an den Auswirkungen der demographischen Verschiebungen beteiligen.</p>
-          <p>Generationenfragen sind sehr komplizierte Fragen. Sie werden noch komplizierter, wenn sie mit vom Ansatz her spannenden, neuen beschäftigungspolitischen Ansätzen diskutiert werden. Ich erinnere an den Vorschlag des Bundeskanzlers für eine Fondslösung für  eine volle Rente ab 60. Auch Herr Riester hat es vorhin noch einmal erwähnt. Er will das unterstützen. Dieser Vorschlag kommt eigentlich vom DGB. Wir müssen hier sehr, sehr sorgfältig diskutieren. Es ist eine gute Idee, Arbeit zwischen den Generationen zu verteilen. Aber solche Modelle haben immer auch weitere Aspekte. Der eine ist der beschäftigungspolitische Aspekt, die Umverteilung. VW hat in dieser Richtung ein interessantes Modell entwickelt, in dem für ausscheidende ältere Arbeitskräfte Jugendliche nachvollziehbar neu eingestellt und beschäftigt werden. Eine solche Verbindung ist im gesamtgesellschaftlichen Zusammenhang sehr schwierig herzustellen. Ich sage dies nur als Merk- posten.</p>
+          <p>Generationenfragen sind sehr komplizierte Fragen. Sie werden noch komplizierter, wenn sie mit vom Ansatz her spannenden, neuen beschäftigungspolitischen Ansätzen diskutiert werden. Ich erinnere an den Vorschlag des Bundeskanzlers für eine Fondslösung für eine volle Rente ab 60. Auch Herr Riester hat es vorhin noch einmal erwähnt. Er will das unterstützen. Dieser Vorschlag kommt eigentlich vom DGB. Wir müssen hier sehr, sehr sorgfältig diskutieren. Es ist eine gute Idee, Arbeit zwischen den Generationen zu verteilen. Aber solche Modelle haben immer auch weitere Aspekte. Der eine ist der beschäftigungspolitische Aspekt, die Umverteilung. VW hat in dieser Richtung ein interessantes Modell entwickelt, in dem für ausscheidende ältere Arbeitskräfte Jugendliche nachvollziehbar neu eingestellt und beschäftigt werden. Eine solche Verbindung ist im gesamtgesellschaftlichen Zusammenhang sehr schwierig herzustellen. Ich sage dies nur als Merk- posten.</p>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Frau Kollegin, ich muß Sie bitten, zum Schluß zu kommen.</p>
         </sp>
-        <sp who="Dr. Thea Dückert" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Thea Dückert">
+        <sp who="Thea Dückert" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Thea Dückert" party="GRUENE" name="Thea Dückert">
           <speaker>Dr. Thea Dückert (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ich komme zum Schluß. Ich bin fast fertig.</p>
           <p>Auch eine Fondslösung kommt nicht ohne den Einsatz von Steuern aus.</p>
@@ -415,11 +415,11 @@
           <p>Angesichts dessen, was Herr Riester vorhin vorgetragen hat, bin ich wohlgemut, daß wir zu einem sehr konstruktiven, produktiven und nach vorne gerichteten neuen Konzept der Sozial- und Rentenpolitik kommen werden. Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Das Wort hat für die CDU/CSU-Fraktion der Abgeordnete Karl-Josef Laumann.</p>
         </sp>
-        <sp who="Karl-Josef Laumann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Karl-Josef Laumann">
+        <sp who="Karl-Josef Laumann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Karl-Josef Laumann" party="CDU" name="Karl-Josef Laumann">
           <speaker>Karl-Josef Laumann (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Sehr geehrter Herr Arbeitsminister Riester, Sie haben eben gesagt, Sie fänden es nicht so gut, daß Herr Kues in seiner Rede die Oppositionsrolle eingenommen und kritisiert habe.</p>
           <stage type="interjection">(Wilhelm Schmidt [Salzgitter] [SPD]: Das hat er gar nicht gesagt!)</stage>
@@ -429,7 +429,7 @@
           <p>Ich hätte es einmal erleben wollen, was bei Ihnen los gewesen wäre und - vor allen Dingen - was Sie, Herr Riester, in den letzten Tagen in Frankfurt in der IG-Metall-Zentrale veranlaßt hätten, wenn ein ähnlich wichtiger Mann in der CDU, zum Beispiel unser Vorsitzender, Herr Schäuble, einen solchen Vorschlag gemacht hätte.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Im übrigen bin ich in diesem Jahr 25 Jahre Mitglied der gleichen Gewerkschaft wie Sie. Ich kenne mich also in dieser Gewerkschaft aus.</p>
-          <p>In dieser Sozialstaatsdebatte geht es um die Grundsätze unseres Sozialstaates. Ich bin ein Politiker, der die Sozialversicherung für richtig hält. Ich will, daß Arbeiter durch Beiträge klare Rechtsansprüche haben, wenn sie arbeitslos werden. Ich will, daß die Menschen, die pflegebedürftig sind, durch Beiträge klare Rechtsansprüche haben, wenn der Pflegefall eintritt. Ich will nicht, daß der Fleißige sein Häuschen verkaufen muß, bevor er  eine staatliche Leistung erhält, und daß der, der sein Geld in der Toskana ausgegeben hat, vom Staat von vornherein unterhalten wird.</p>
+          <p>In dieser Sozialstaatsdebatte geht es um die Grundsätze unseres Sozialstaates. Ich bin ein Politiker, der die Sozialversicherung für richtig hält. Ich will, daß Arbeiter durch Beiträge klare Rechtsansprüche haben, wenn sie arbeitslos werden. Ich will, daß die Menschen, die pflegebedürftig sind, durch Beiträge klare Rechtsansprüche haben, wenn der Pflegefall eintritt. Ich will nicht, daß der Fleißige sein Häuschen verkaufen muß, bevor er eine staatliche Leistung erhält, und daß der, der sein Geld in der Toskana ausgegeben hat, vom Staat von vornherein unterhalten wird.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. sowie der Abg. Ulla Schmidt [Aachen] [SPD] - Ulla Schmidt [Aachen] [SPD]: Wo er recht hat, hat er recht!)</stage>
           <p>Darüber werden wir natürlich schon wenige Wochen nach der Bundestagswahl miteinander streiten müssen. Sie werden nicht nur die Sozialflügel in meiner Partei, sondern auch die gesamte CDU/CSU-Fraktion als einen großen Kämpfer für dieses Versicherungsprinzip in Deutschland erleben.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P.)</stage>
@@ -444,9 +444,9 @@
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Darauf sollten wir stolz sein. Das sind Gemeinsamkeiten, die wir eigentlich immer gehabt haben.</p>
           <p>Sicherlich muß uns noch etwas einfallen, wie wir verschämte Altersarmut wirksamer bekämpfen können. Es ist immer ein Problem, wenn jemand, der eine ganz kleine Rente hat, aus Scham nicht zum Sozialamt gehen mag. Das können wir statistisch ganz schwer erfassen. Da bin ich, weil wir die Menschen lieb haben, für jeden Vorschlag sehr dankbar, damit wir auch in diesem Bereich etwas Vernünftiges finden.</p>
-          <p>Sie sagen dann, die Rente müsse verläßlich sein. Wissen Sie, durch das Aussetzen der demographischen Formel erreichen Sie, daß die Rente im Juni um 0,3 bis 0,4  Prozent stärker steigen wird, als wenn wir die Wahl gewonnen hätten. Das bedeutet 6 DM mehr Rente im Monat bei einer Rente von 2 100 DM; das ist die durchschnittliche Rente bei der LVA in Münster nach 45 Versicherungsjahren.</p>
+          <p>Sie sagen dann, die Rente müsse verläßlich sein. Wissen Sie, durch das Aussetzen der demographischen Formel erreichen Sie, daß die Rente im Juni um 0,3 bis 0,4 Prozent stärker steigen wird, als wenn wir die Wahl gewonnen hätten. Das bedeutet 6 DM mehr Rente im Monat bei einer Rente von 2 100 DM; das ist die durchschnittliche Rente bei der LVA in Münster nach 45 Versicherungsjahren.</p>
           <stage type="interjection">(Zuruf von der SPD: Wer hat die?)</stage>
-          <p>Die Rentner werden dann vielleicht noch einmal 5 oder 6 DM mehr bekommen, wenn Sie die Senkung der Sozialabgaben um 0,8  Prozent durchsetzen, weil dann ja 0,4 Prozent auch auf die Rentenerhöhung gehen. Das sind dann zusammen vielleicht 12 oder 13 DM.</p>
+          <p>Die Rentner werden dann vielleicht noch einmal 5 oder 6 DM mehr bekommen, wenn Sie die Senkung der Sozialabgaben um 0,8 Prozent durchsetzen, weil dann ja 0,4 Prozent auch auf die Rentenerhöhung gehen. Das sind dann zusammen vielleicht 12 oder 13 DM.</p>
           <stage type="interjection">(Zuruf von der SPD: Es wird immer mehr!)</stage>
           <p>Gleichzeitig belasten Sie aber jeden Rentnerhaushalt mit einer Summe zwischen 40 und 50 DM mehr im Monat für Heizöl, für Gas, für Benzin und für Strom durch die Ökosteuer.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
@@ -483,11 +483,11 @@
           <p>Schönen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. - Dr. Peter Ramsauer [CDU/CSU]: Riester, der Adam Riese! - Klaus Lennartz [SPD]: Alles Worte für das Protokoll! Herr Kollege, tut mir leid!)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Das Wort hat für die Fraktion der PDS Frau Dr. Heidi Knake-Werner.</p>
         </sp>
-        <sp who="Dr. Heidi Knake-Werner" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Heidi Knake-Werner">
+        <sp who="Heidi Knake-Werner" parliamentary_group="PDS" role="mp" position="NA" who_original="Heidi Knake-Werner" party="PDS" name="Heidi Knake-Werner">
           <speaker>Dr. Heidi Knake-Werner (PDS):</speaker>
           <p>Herr Präsident! Meine lieben Kolleginnen und Kollegen! Der Herr Bundeskanzler hat hier gestern vorgetragen, daß er sich und seine Regierung am Umgang mit der Massenarbeitslosigkeit messen lassen will. Er hat die Verringerung der Arbeitslosigkeit auch zum wichtigsten Ziel seiner Regierungsarbeit erklärt. Herr Bundeskanzler, Sie können sich darauf verlassen: Wir werden Sie daran messen.</p>
           <stage type="interjection">(Zuruf von der SPD: Das klingt ja wie eine Drohung!)</stage>
@@ -526,11 +526,11 @@
           <stage type="interjection">(Beifall bei der PDS)</stage>
           <p>In diesem Zusammenhang noch ein Wort zu den prekären Beschäftigungsverhältnissen, zur Scheinselbständigkeit, zu 620-DM- und 520-DM-Jobs. Sie haben unsere Unterstützung immer dann, wenn Sie diese endlich sozialversicherungspflichtig machen und den massenhaften Ausstieg aus der Solidargemeinschaft eindämmen wollen. Wir haben allerdings erhebliche Zweifel, daß der Weg, den Sie einschlagen, der richtige ist, weil wir fürchten - darin sind wir uns einig mit der stellvertretenden DGB-Vorsitzenden Ursula Engelen-Kefer -, daß die bei 300 DM angesiedelte Bagatellgrenze zu hoch ist. Sie fordert förmlich dazu heraus, Arbeitsverhältnisse weiter aufzusplitten.</p>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Kollegin, kommen Sie bitte zum Schluß.</p>
         </sp>
-        <sp who="Dr. Heidi Knake-Werner" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Heidi Knake-Werner">
+        <sp who="Heidi Knake-Werner" parliamentary_group="PDS" role="mp" position="NA" who_original="Heidi Knake-Werner" party="PDS" name="Heidi Knake-Werner">
           <speaker>Dr. Heidi Knake-Werner (PDS):</speaker>
           <p>Ich komme gleich zum Schluß. Wir haben auch kein Verständnis dafür, daß Sie die Arbeitgeber statt zu der bisherigen Pauschalsteuer nun zu Sozialversicherungsbeiträgen verpflichten, den Geringstverdienerinnen ab 300 DM monatlich aber auch den Sozialversicherungsbeitrag für die Rente und die Lohnsteuer aufbürden wollen. Das ist nicht unser Konzept. Wir wollen, daß die Arbeitgeber bis zum Existenzminimum der Beschäftigten beide Anteile der Sozialversicherungsbeiträge bezahlen, weil wir diese Arbeitsverhältnisse zugunsten regulärer Arbeitsverhältnisse unattraktiv machen wollen.</p>
           <p>Ein letztes Wort an den Kollegen Arbeitsminister. Ich muß, Herr Minister Riester, eine tiefe Enttäuschung loswerden: Wenigstens von Ihnen hätte ich erwartet, daß Sie es nach 16 Jahren Kohl, nach 16 Jahren des Abbaus von Gewerkschaftsrechten als eine Ihrer ersten Initiativen begreifen - sozusagen als Ihr Herzblut -, eine Initiative zu starten, die den Abbau von Gewerkschaftsrechten zurücknimmt, und den Vorschlag machen, das vollständige Streikrecht der Gewerkschaften wieder durchzusetzen</p>
@@ -539,11 +539,11 @@
           <p>Ich bedanke mich.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Das Wort für die SPD-Fraktion hat die Kollegin Ulla Schmidt.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt (Aachen)" parliamentary_group="SPD" role="mp" position="NA" who_original="Ulla Schmidt (Aachen)" party="SPD" name="Ulla Schmidt">
           <speaker>Ulla Schmidt (Aachen) (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Sie werden sich nicht wundern, wenn ich, entgegen allen Kassandrarufen heute morgen, sage: Ich habe ein gutes Gefühl bei dieser Regierung. Hier zu stehen, zur Regierungserklärung zu reden und zu wissen, daß ich nach vielen Jahren im Parlament endlich das, wofür ich jahrelang gestritten habe, wofür ich bei den Frauen und Männern in diesem Land geworben habe, mit dieser Regierung auf den Weg bringen kann, das tut gut. Wir sind auf dem richtigen Weg.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -598,7 +598,7 @@
           <p>Für all die, von denen ich jetzt gesprochen habe, galt nicht mehr das Prinzip, daß alle, und zwar auch die mit den stärkeren Schultern, für diejenigen in unserer Gesellschaft einstehen, die in Not geraten sind.</p>
           <p>Herr Kollege Laumann,</p>
           <stage type="interjection">(Karl-Josef Laumann [CDU/CSU]: Ja!)</stage>
-          <p>Sie haben ja recht, daß die Solidargemeinschaft davon lebt, daß jeder und jede nach seinen bzw. ihren Möglichkeiten Beiträge leistet und dadurch individuelle Risiken wie Krankheit, Arbeitslosigkeit und Invalidität durch Rechtsansprüche abgesichert sind. Aber wenn Sie einmal ehrlich sind, dann müssen Sie zugeben, daß doch genau Sie - nicht Sie persönlich, sondern Sie mit Ihrer Bundestagsfraktion, als Sie noch in der Regierung waren - es gewesen sind, die durch die immer stärkere Abwälzung der Lasten auf diejenigen, die tatsächlich bedürftig sind, auf die Kranken, auf die Arbeitslosen, auf die Alleinerziehenden, auf die Frauen, genau diese Rechtsansprüche ausgehöhlt haben und damit einen der Grundsätze unseres Sozialstaates - daß wir keine Entwicklung zu einem karitativen Wohlfahrtsstaat, sondern einen  Sozialstaat mit einklagbaren Rechtsansprüchen wollen - aufheben wollten.</p>
+          <p>Sie haben ja recht, daß die Solidargemeinschaft davon lebt, daß jeder und jede nach seinen bzw. ihren Möglichkeiten Beiträge leistet und dadurch individuelle Risiken wie Krankheit, Arbeitslosigkeit und Invalidität durch Rechtsansprüche abgesichert sind. Aber wenn Sie einmal ehrlich sind, dann müssen Sie zugeben, daß doch genau Sie - nicht Sie persönlich, sondern Sie mit Ihrer Bundestagsfraktion, als Sie noch in der Regierung waren - es gewesen sind, die durch die immer stärkere Abwälzung der Lasten auf diejenigen, die tatsächlich bedürftig sind, auf die Kranken, auf die Arbeitslosen, auf die Alleinerziehenden, auf die Frauen, genau diese Rechtsansprüche ausgehöhlt haben und damit einen der Grundsätze unseres Sozialstaates - daß wir keine Entwicklung zu einem karitativen Wohlfahrtsstaat, sondern einen Sozialstaat mit einklagbaren Rechtsansprüchen wollen - aufheben wollten.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der PDS)</stage>
           <p>Deshalb sehen Sie mich auf Ihrer Seite, wenn es darum geht, diese Rechtsansprüche beizubehalten und auch zu verwirklichen. Denn ich sage Ihnen ganz klar: Bei aller Notwendigkeit, über die Zielgenauigkeit von Sozialleistungen und über die Effizienzsteigerung auch der Leistungssysteme zu streiten, ist der Erhalt dieser Rechtsansprüche für mich die Basis, auf der alle Reformen aufgebaut werden müssen; denn sie allein schaffen Freiheit, und mit ihnen wird die Würde des Menschen respektiert.</p>
           <p>Die heute vom Bundesarbeitsminister angekündigte Verstärkung der aktiven Arbeitsmarktpolitik ist im übrigen ein Weg in diese Richtung. Wir kehren das bestehende Verhältnis von aktiver zu passiver Leistung Zug um Zug um. Damit machen wir nicht nur die Instrumente staatlicher Arbeitsmarktpolitik effizienter; vielmehr konzentrieren wir die finanzielle Leistung vorrangig auf Investitionen in die menschliche Arbeitskraft. Das ist auf Dauer eben nicht nur sinnvoller, vielmehr ist es auch billiger, und es entspricht unserer sozialdemokratischen Auffassung von Sozialpolitik. Sie ist dadurch gekennzeichnet, daß durch staatliche Rahmenbedingungen nicht nur Türen geöffnet werden müssen; vielmehr soll es durch die Förderung der eigenständigen Existenzsicherung den Menschen ermöglicht werden, auf eigenen Füßen durch diese Türen zu gehen und den Weg selber zu bestimmen, den sie gehen wollen.</p>
@@ -624,11 +624,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Zu einer Kurzintervention erteile ich jetzt dem Kollegen Laumann das Wort.</p>
         </sp>
-        <sp who="Karl-Josef Laumann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Karl-Josef Laumann">
+        <sp who="Karl-Josef Laumann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Karl-Josef Laumann" party="CDU" name="Karl-Josef Laumann">
           <speaker>Karl-Josef Laumann (CDU/CSU):</speaker>
           <p>Frau Kollegin Schmidt, Sie haben mich persönlich angesprochen. Sie haben gesagt, daß Sie einen Wohlfahrtsstaat</p>
           <stage type="interjection">(Klaus Lennartz [SPD]: Sozialstaat!)</stage>
@@ -643,11 +643,11 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Frau Kollegin Schmidt.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt (Aachen)" parliamentary_group="SPD" role="mp" position="NA" who_original="Ulla Schmidt (Aachen)" party="SPD" name="Ulla Schmidt">
           <speaker>Ulla Schmidt (Aachen) (SPD):</speaker>
           <p>Herr Kollege Laumann, ich bin für einen Wertekonsens und auch für einen christlichen Wertekonsens, wenn er in dieser Gesellschaft sein soll - aber dann bitte einen ehrlichen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
@@ -662,11 +662,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Rainer Brüderle.</p>
         </sp>
-        <sp who="Rainer Brüderle" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Rainer Brüderle">
+        <sp who="Rainer Brüderle" parliamentary_group="FDP" role="mp" position="NA" who_original="Rainer Brüderle" party="FDP" name="Rainer Brüderle">
           <speaker>Rainer Brüderle (F.D.P.):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Die größte Ungerechtigkeit ist Arbeitslosigkeit. Der Bundeskanzler hat zu Recht als Maßstab, als Meßlatte für sein Handeln die Fortschritte am Arbeitsmarkt gewählt. Genau daran werden wir ihn messen. Er hat gestern in seiner Regierungserklärung beim Höhenflug über viele Politikfelder einige freundliche Worte für den Mittelstand gefunden. Er hat richtig erkannt: Kleine und mittlere Unternehmen sind am ehesten in der Lage, neue Arbeitsplätze zu schaffen.</p>
           <p>Aber genau dieser Mittelstand wird mit dem, was Sie auf den Weg bringen, benachteiligt. Sie machen aus der Neuen Mitte, die mit dem Lockvogelangebot "Stollmann" umworben war, eine "verratene Mitte"; denn der Mittelstand wird durch diese Politik abgestraft.</p>
@@ -675,7 +675,7 @@
           <stage type="interjection">(Beifall bei Abgeordneten der F.D.P.)</stage>
           <p>Das löst nämlich bei den kleinen und mittleren Unternehmen das Gefühl aus: Die wollen uns ans Geld. In einem solchen Klima werden nicht mehr Investitionen getätigt, nicht mehr Arbeitsplätze geschaffen. Eher führt es zu einem Bankenförderprogramm für Luxemburg und die Schweiz anstatt zu einem Arbeitsmarktprogramm für Deutschland.</p>
           <stage type="interjection">(Beifall bei der F.D.P.)</stage>
-          <p>Das Konzept der Steuerpolitik umfaßt zunächst Verschlechterungen, verzögerte Ausgleichsmaßnahmen und Ökosteuermaßnahmen, die ein klares Abkassiermodell sind. Abkassieren hat in Deutschland einen neuen  Namen: Öko! Alles, was "öko" ist, bedeutet Mehrbe- lastung.</p>
+          <p>Das Konzept der Steuerpolitik umfaßt zunächst Verschlechterungen, verzögerte Ausgleichsmaßnahmen und Ökosteuermaßnahmen, die ein klares Abkassiermodell sind. Abkassieren hat in Deutschland einen neuen Namen: Öko! Alles, was "öko" ist, bedeutet Mehrbe- lastung.</p>
           <stage type="interjection">(Beifall bei der F.D.P.)</stage>
           <p>Diese neue Steuerpolitik bringt keine Verbesserungen in der Ökologie, sondern lediglich Belastungen in der Ökonomie und führt dazu, daß Arbeitsplätze gefährdet werden und verlorengehen.</p>
           <p>Nun möchte ich auf die Arbeitsmarktprobleme und auf die Instrumente eingehen, die hier zur Debatte stehen.</p>
@@ -696,11 +696,11 @@
           <p>Der eingeschlagene Weg ist falsch. Sie müssen einen anderen Weg einschlagen. Die Dinge werden nicht dadurch richtig, daß man Rezepte wiederholt, die sich schon früher als falsch erwiesen haben. Ich will hier keinen Streit über Angebots- und Nachfragepolitik führen; aber ein Vulgärkeynesianismus wird die Lösung mit Sicherheit nicht sein.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt die Abgeordnete Annelie Buntenbach.</p>
         </sp>
-        <sp who="Annelie Buntenbach" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Annelie Buntenbach">
+        <sp who="Annelie Buntenbach" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Annelie Buntenbach" party="GRUENE" name="Annelie Buntenbach">
           <speaker>Annelie Buntenbach (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Sehr geehrte Damen und Herren! Die neue Regierung hat die Bekämpfung der Arbeitslosigkeit ganz oben auf die politische Tagesordnung gesetzt. Gerade um diesem gesellschaftlichen Grundübel zu Leibe zu rücken, war ein Politikwechsel längst überfällig. Zu diesem Politikwechsel gehört auch, Herr Brüderle, der ökologische Umbau, den die alte Regierung bis zuletzt verschlafen hatte. In diesem Umbau steckt ein riesiges neues Arbeitsplatzpotential; dieser innovative Bereich muß endlich erschlossen werden.</p>
           <p>Die Massenarbeitslosigkeit, die während der Regierung Kohl unglaubliche Ausmaße angenommen hat, reißt die Gesellschaft auseinander. Für die Betroffenen ist sie eine unerträgliche Belastung. Sie treibt die Sozialkassen an den Rand des Konkurses. Sie schafft ein gesellschaftliches Klima von Angst und Konkurrenz. Sie vergrößert die Kluft zwischen Arm und Reich.</p>
@@ -729,17 +729,17 @@
           <p>Lassen Sie mich einen letzten Punkt ansprechen, der in den nächsten Jahren gesellschaftspolitisch von ganz zentraler Bedeutung sein wird: die Verkürzung der Arbeitszeit und die Umverteilung von Arbeit.. Ich will auch sagen, warum das so wichtig ist. Hier kann erstens auch kurzfristig ein großes Arbeitsplatzpotential mobilisiert werden, auf das wir bei der Bekämpfung der Arbeitslosigkeit auf keinen Fall verzichten können. Zweitens ist mit Arbeitszeitverkürzung untrennbar immer auch die Verteilungsfrage verbunden, nicht nur die nach der Verteilung von Arbeit und Zugang zu sozialen Sicherungen, sondern auch die nach der Verteilung des gesellschaftlichen Reichtums. Last but not least geht es dabei auch um eine Neuverteilung von bezahlter und unbezahlter Arbeit zwischen den Geschlechtern und um den selbstverständlichen Zugang von Frauen zu einer eigenständigen sozialen Sicherung. Gerade hier haben wir noch ein gutes Stück Arbeit und ein gutes Stück gesellschaftliche Debatte vor uns.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der PDS)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Johannes Singhammer.</p>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Johannes Singhammer (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine sehr geehrten Damen und Herren! Wer in den vergangenen 16 Jahren meistens nur dagegen war, der tut sich schwer, einen Zukunftsentwurf vorzulegen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU - Ernst Schwanhold [SPD]: Ihr wart immer dabei und habt nie Verantwortung gehabt!)</stage>
           <p>Statt Aufbruch und exakte Aussagen herrscht in Ihrem Programm schwammige Zaghaftigkeit.</p>
           <stage type="interjection">(Michael Glos [CDU/CSU]: Sehr wahr!)</stage>
-          <p>156 Deutscher Bundestag - 14. Wahlperiode - 4. Sitzung. Bonn, Mittwoch, den 11. November 1998 Deutscher Bundestag - 14. Wahlperiode - 4. Sitzung. Bonn, Mittwoch, den 11. November 1998 131 Deutscher Bundestag - 14. Wahlperiode - 245. Sitzung, Bonn, Donnerstag, den 25. Juni 1998 156 Es ist eben schwierig: Wer lange in der Mechanik des Ablehnens und Blockierens ausgebildet worden ist, hat Schwierigkeiten, im Rahmen der Umschulung vom Bremserhäuschen in die Lokomotive zu klettern.</p>
+          <p>Es ist eben schwierig: Wer lange in der Mechanik des Ablehnens und Blockierens ausgebildet worden ist, hat Schwierigkeiten, im Rahmen der Umschulung vom Bremserhäuschen in die Lokomotive zu klettern.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P.)</stage>
           <p>Herr Arbeitsminister Riester, wir respektieren den Auftrag und die Chancen, welche die Wähler der neuen Regierung in Deutschland gegeben haben. Pawlowsche Reflexe, nämlich alles abzulehnen, was die Regierung vorschlägt - das war in der Vergangenheit nicht unüblich -, werden Sie mit uns nicht erleben. Aber wir werden die Menschen in unserem Land alarmieren, wenn eine erkennbar falsche Richtung eingeschlagen wird.</p>
           <p>Der Bundesfinanzminister, Oskar Lafontaine, will die Arbeitslosenversicherung und die Pflegeversicherung schleifen oder ganz abschaffen. Was heißt das? Staatliche Almosen sollen rechtskräftig erworbene Versicherungsansprüche ersetzen - Fürsorge mit Mottenpulvergeruch statt zukunftsgerichtete Eigenverantwortung.</p>
@@ -758,19 +758,19 @@
           <p>Wer als Pflegefall ohnehin in einer schwierigen Lebenssituation ist, dem darf man eine programmierte Unsicherheit nicht zusätzlich aufbürden. Wer das tut, handelt nicht sozial, handelt nicht gerecht, sondern verbreitet sozialen Eishauch.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie des Abg. Ulrich Heinrich [F.D.P.])</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Kollege, gestatten Sie eine Zwischenfrage des Kollegen Dreßen?</p>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Johannes Singhammer (CDU/CSU):</speaker>
           <p>Ja, wenn er die richtige Frage stellt.</p>
         </sp>
-        <sp who="Peter Dreßen" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Peter Dreßen">
+        <sp who="Peter Dreßen" parliamentary_group="SPD" role="mp" position="NA" who_original="Peter Dreßen" party="SPD" name="Peter Dreßen">
           <speaker>Peter Dreßen (SPD):</speaker>
-          <p>Herr Kollege Singhammer, ich will Sie eigentlich nur fragen, an welcher Stelle der Regierungserklärung Sie das gehört haben, worüber Sie jetzt geredet haben. Ich habe in der gestrigen Regierungserklärung des Bundeskanzlers überhaupt nichts  davon gehört, daß an der Pflegeversicherung gerüttelt werden soll. Können Sie mir in diesem Punkt Auskunft geben, an welcher Stelle der Regierungserklärung eine entsprechende Aussage zu finden ist?</p>
+          <p>Herr Kollege Singhammer, ich will Sie eigentlich nur fragen, an welcher Stelle der Regierungserklärung Sie das gehört haben, worüber Sie jetzt geredet haben. Ich habe in der gestrigen Regierungserklärung des Bundeskanzlers überhaupt nichts davon gehört, daß an der Pflegeversicherung gerüttelt werden soll. Können Sie mir in diesem Punkt Auskunft geben, an welcher Stelle der Regierungserklärung eine entsprechende Aussage zu finden ist?</p>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Johannes Singhammer (CDU/CSU):</speaker>
           <p>Ich wäre sehr froh, wenn ich von seiten der Regierung - der Bundesarbeitsminister und weitere Minister sind ja anwesend - erfahren könnte, wie die Pläne nun tatsächlich aussehen. Der Bundesfinanzminister verkündet dies, und der Herr Bundeskanzler äußert sich mal so und mal so. Es wäre sehr interessant, zu erfahren, wie die Meinung tatsächlich ist. Vielleicht erfahren wir sie heute noch.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P. - Dr. Hermann Kues [CDU/CSU]: Völliges Durcheinander in der Regierung!)</stage>
@@ -791,7 +791,7 @@
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. - Ulrich Heinrich [F.D.P.]: Die Konsequenz ist doch, daß wir länger arbeiten müssen und nicht weniger!)</stage>
           <p>Und das lassen Sie mich auch noch sagen: Wer in dieser Diskussion den Eindruck erweckt, ältere Arbeitnehmer seien leichter wegzudrücken, dem fehlt es zudem an Respekt vor der Lebensleistung und der Lebenserfahrung der Älteren. Mit 60 zählt man nicht zum alten Eisen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU - Zurufe von der SPD)</stage>
-          <p>620-DM-Jobs. Es ist interessant, zu sehen, wie sich Versprechungen vor der Wahl mit dem, was Sie jetzt in Ihrem Regierungsprogramm angekündigt haben, vertragen. Da gab es zum Beispiel auf dem Innovationskongreß der SPD in Dortmund im Oktober 1997 die Aussage des jetzigen Bundeskanzlers, er wolle diese Jobs auf höchstens 10  Prozent in einem Unternehmen begrenzen. Im gleichen Jahr schrieb Oskar Lafontaine im Informationsdienst der SPD "Intern" - ich zitiere -: "Ein Weg wird die Befreiung der Arbeitnehmer und Arbeitgeber von Sozialversicherungsbeiträgen für geringbezahlte Arbeiten sein." Was steht nun in Ihrer Regierungserklärung? Sie sprechen dort von einer Grenze von 300 DM, von der an Sozialversicherungsbeiträge gezahlt werden müssen.</p>
+          <p>620-DM-Jobs. Es ist interessant, zu sehen, wie sich Versprechungen vor der Wahl mit dem, was Sie jetzt in Ihrem Regierungsprogramm angekündigt haben, vertragen. Da gab es zum Beispiel auf dem Innovationskongreß der SPD in Dortmund im Oktober 1997 die Aussage des jetzigen Bundeskanzlers, er wolle diese Jobs auf höchstens 10 Prozent in einem Unternehmen begrenzen. Im gleichen Jahr schrieb Oskar Lafontaine im Informationsdienst der SPD "Intern" - ich zitiere -: "Ein Weg wird die Befreiung der Arbeitnehmer und Arbeitgeber von Sozialversicherungsbeiträgen für geringbezahlte Arbeiten sein." Was steht nun in Ihrer Regierungserklärung? Sie sprechen dort von einer Grenze von 300 DM, von der an Sozialversicherungsbeiträge gezahlt werden müssen.</p>
           <p>Nun gebe ich zu, daß auch wir uns bei der Diskussion, wie wir eine optimale Lösung finden, sehr schwergetan haben. Aber eines muß ich hinzufügen: Das, was Sie jetzt vorhaben, nämlich daß Sie diese zusätzlichen Einnahmen in Höhe von 2,1 Milliarden DM in Form einer Gegenfinanzierung mit anderen Entlastungen verrechnen wollen, wird nicht aufgehen, weil Sie damit im Versicherungsbereich ein Zweiklassensystem schaffen, und zwar zum einen eine nur geringe Rentenanwartschaft und zum anderen keinen Schutz im Falle einer Erwerbsminderung. Die Folge wird ein massenhaftes Abdriften in die Schwarzarbeit sein. Die geplanten Mehreinnahmen werden sich als Luftbuchungen erweisen.</p>
           <stage type="interjection">(Michael Glos [CDU/CSU]: Sehr wahr! - Ulrich Heinrich [F.D.P.]: So wird es sein!)</stage>
           <p>Für uns ist der Mensch Mitte und Maß einer zukunftsgerechten Sozialpolitik. Unter sozialer Gerechtigkeit verstehen wir nicht eine unablässige Umverteilung als Heilsversprechen, sondern die Befähigung der Menschen in unserem Land, aus eigener Kraft ihre Fähigkeiten und Möglichkeiten zu entfalten. Eine sozial gerechte Politik sollte so eingerichtet sein, daß sie nicht das Übel, dem sie begegnen will, verewigt, sondern Heilung von den Wurzeln her anstrebt. Deshalb wollen wir die Eigenverantwortung fördern. Jeder, der von der Gemeinschaft eine Leistung erwartet, muß auch selbst im Rahmen seiner Möglichkeiten eine Leistung für die Gemeinschaft erbringen.</p>
@@ -803,11 +803,11 @@
           <p>Wir brauchen in Deutschland weder eine Koalition noch ein Bündnis für Umverteilung, sondern ein Bündnis für mehr Leistungsbereitschaft, für mehr Ermutigung und für mehr echt verstandene Solidarität.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Adolf Ostertag.</p>
         </sp>
-        <sp who="Adolf Ostertag" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Adolf Ostertag">
+        <sp who="Adolf Ostertag" parliamentary_group="SPD" role="mp" position="NA" who_original="Adolf Ostertag" party="SPD" name="Adolf Ostertag">
           <speaker>Adolf Ostertag (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Endlich haben wir hier in diesem Parlament eine neue Mehrheit, eine neue Regierung und auch einen neuen Arbeitsminister.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -853,35 +853,35 @@
           <p>Meine Damen und Herren, diese Regierung und diese neue Mehrheit im Parlament treten an, um das angeblich wohlbestellte Haus hinsichtlich einer ganzen Reihe von Punkten innerhalb der Sozialpolitik instand zu setzen. Die wesentlichen Punkte sind hier genannt worden; darauf möchte ich nicht mehr eingehen.</p>
           <p>Wir haben im Wahlkampf millionenfach Scheckkarten verteilt und die Menschen gebeten: Heben Sie die gut auf! Darauf stehen neun gute Gründe, uns zu wählen. - Diese sind zum Teil schon genannt worden, zum Beispiel das Programm zur Bekämpfung der Jugendarbeitslosigkeit, die Rücknahme der sozialen Grausamkeiten gegenüber Millionen von Arbeitnehmern beim Kündigungsschutz und bei der Lohnfortzahlung und das "Bündnis für Arbeit". Einen Punkt, den zehnten, haben wir sozusagen schon abgehakt.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Kollege, gestatten Sie eine Zwischenfrage?</p>
         </sp>
-        <sp who="Adolf Ostertag" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Adolf Ostertag">
+        <sp who="Adolf Ostertag" parliamentary_group="SPD" role="mp" position="NA" who_original="Adolf Ostertag" party="SPD" name="Adolf Ostertag">
           <speaker>Adolf Ostertag (SPD):</speaker>
           <p>Der hieß nämlich: Helmut Kohl. Nun ist er nicht mehr Kanzler, und darauf sind wir stolz. Von daher bin ich der Meinung, daß wir das, was wir uns vorgenommen haben, anpacken können. Diese Koalitionsfraktionen werden die Regierung dabei mit kritischer Solidarität begleiten. Ich glaube, die Menschen im Land können sich darauf verlassen, daß es einen Aufbruch gibt und daß wir das, was wir versprochen haben, auch einlösen werden.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Kollege, der Kollege Laumann wollte eine Zwischenfrage stellen. Es handelt sich nunmehr um eine Nachfrage. Möchten Sie diese noch beantworten?</p>
         </sp>
-        <sp who="Adolf Ostertag" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Adolf Ostertag">
+        <sp who="Adolf Ostertag" parliamentary_group="SPD" role="mp" position="NA" who_original="Adolf Ostertag" party="SPD" name="Adolf Ostertag">
           <speaker>Adolf Ostertag (SPD):</speaker>
           <p>Selbstverständlich.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Bitte.</p>
         </sp>
-        <sp who="Karl-Josef Laumann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Karl-Josef Laumann">
+        <sp who="Karl-Josef Laumann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Karl-Josef Laumann" party="CDU" name="Karl-Josef Laumann">
           <speaker>Karl-Josef Laumann (CDU/CSU):</speaker>
           <p>Lieber Kollege Adi Ostertag, ich freue mich, daß Sie mich loben, weil ich die Idee der Sozialversicherung kämpferisch vertrete. Ich habe schließlich nicht geglaubt, daß ich das hier einmal tun muß.</p>
           <p>Ich möchte Sie einmal um Ihre Meinung fragen. Was halten Sie denn in diesem Zusammenhang von den Meinungsäußerungen des Herrn Lafontaine, bei der Pflege und der Arbeitslosigkeit das Bedürftigkeitsprinzip einzuführen? Wo sind denn Ihre kraftvollen Erklärungen zu diesem Thema? Auch Sie wissen doch, daß Ihr Wirtschaftsminister, Herr Müller, das alles befürwortet und diese Idee für ganz richtig hält. Ihr Finanzminister erhält großes Lob von der deutschen Arbeitgeberseite. Das sind Dinge, zu denen ich den Gewerkschaftsflügel der SPD in den letzten Tagen überhaupt nicht vernommen habe.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Adolf Ostertag" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Adolf Ostertag">
+        <sp who="Adolf Ostertag" parliamentary_group="SPD" role="mp" position="NA" who_original="Adolf Ostertag" party="SPD" name="Adolf Ostertag">
           <speaker>Adolf Ostertag (SPD):</speaker>
           <p>Herr Laumann, vor Jahren ist Herr Blüm mit einem langen Besenstil herumgelaufen und hat Plakate mit der Aufschrift "Die Rente ist sicher" geklebt.</p>
           <stage type="interjection">(Karl-Josef Laumann [CDU/CSU]: Das ist sie ja auch!)</stage>
@@ -899,12 +899,12 @@
           <p>Man muß die Behandlung politischer Themen durchhalten. Sie werden mitbekommen haben, daß wir im Ausschuß für Arbeit und Sozialordnung vor sieben, acht Jahren, als die SPD ihre ersten Positionspapiere zur Pflegeversicherung eingebracht hatte, heftig darüber gestritten haben, ob man die Pflegeversicherung aus Steuermitteln finanzieren soll oder ob man sie als ein Versicherungssystem ausgestaltet. Das wissen Sie genauso wie ich; also seien Sie nicht so scheinheilig.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Damit ist die Aussprache zu diesem Themenkomplex beendet.</p>
           <p>Wir setzen die Aussprache zur Regierungserklärung nun mit dem Thema Gesundheit fort.</p>
-          <p>Ich rufe Tagesordnungspunkt 6 auf: </p>
-          <p>Erste Beratung des von den Fraktionen SPD </p>
+          <p>Ich rufe Tagesordnungspunkt 6 auf:</p>
+          <p>Erste Beratung des von den Fraktionen SPD</p>
           <p>und BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes zur Stärkung der Solidarität in der gesetzlichen Krankenversicherung</p>
           <p>- Drucksache 14/24 -</p>
           <p>Überweisungsvorschlag:</p>
@@ -915,8 +915,8 @@
           <p>Ich eröffne die Aussprache. Als erster Redner hat der Kollege Wolfgang Lohmann das Wort.</p>
         </sp>
       </div>
-      <div type="agenda_item" n="2" what="debate" desc="Erste Beratung des von den Fraktionen SPD ">
-        <sp who="Wolfgang Lohmann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Lohmann">
+      <div type="agenda_item" n="2" what="debate" desc="Erste Beratung des von den Fraktionen SPD">
+        <sp who="Wolfgang Lohmann (Lüdenscheid)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Lohmann (Lüdenscheid)" party="CDU" name="Wolfgang Lohmann">
           <speaker>Wolfgang Lohmann (Lüdenscheid) (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Es handelt sich ja um eine verbundene Debatte. Deswegen darf ich vielleicht noch einen Satz an meinen Vorredner richten. Herr Kollege Ostertag, ich finde, es ist ein großartiger Auftakt zu dem vom Bundeskanzler angekündigten "Bündnis für Arbeit", wenn Sie hier unverhohlen Begriffe wie "Ausbeutung durch die Arbeitgeberschaft" in den Raum stellen. Da kann man für die demnächst laufenden Verhandlungen nur viel Vergnügen wünschen.</p>
           <stage type="interjection">(Adolf Ostertag [SPD]: Nicht durch "die"! Sie müssen zuhören!)</stage>
@@ -928,7 +928,7 @@
           <p>keine weitere Steigerung der Belastung der Arbeitskosten, die weitere Zur-Verfügung-Stellung des medizinisch Notwendigen, aber auch das Einfordern von mehr Eigenverantwortung, die ja Ihr Bundeskanzler immer auf seine Fahnen geschrieben hat.</p>
           <p>Nun hat ja, Frau Ministerin - Sie sprechen gleich -, jeder das Recht auf 100 Tage Schonzeit. Ich muß jetzt schon ein wenig das vorwegnehmen, was Sie gleich sagen werden. Das weiß man ja so in etwa!</p>
           <stage type="interjection">(Rezzo Schlauch [BÜNDNIS 90/DIE GRÜNEN]: Hellseherische Fähigkeiten!)</stage>
-          <p>Ich meine sehr wohl, die Schonzeit müßte man Ihnen gewähren. Zudem ist im Bereich der Gesundheitspolitik eine lange Einarbeitungszeit unverzichtbar, weil die Problematik so schwierig ist. Es geht immerhin um über 4  Millionen Menschen, deren Arbeitsplätze in diesem Bereich sind. Es werden 500 Milliarden DM umgesetzt, allein 270 Milliarden DM in der gesetzlichen Krankenversicherung. Deswegen muß nach unserer Auffassung jede gesetzliche Änderung wohlüberlegt sein.</p>
+          <p>Ich meine sehr wohl, die Schonzeit müßte man Ihnen gewähren. Zudem ist im Bereich der Gesundheitspolitik eine lange Einarbeitungszeit unverzichtbar, weil die Problematik so schwierig ist. Es geht immerhin um über 4 Millionen Menschen, deren Arbeitsplätze in diesem Bereich sind. Es werden 500 Milliarden DM umgesetzt, allein 270 Milliarden DM in der gesetzlichen Krankenversicherung. Deswegen muß nach unserer Auffassung jede gesetzliche Änderung wohlüberlegt sein.</p>
           <p>Herr Bundeskanzler, Sie haben gestern gesagt - ich zitiere das -: Auch im Gesundheitswesen reichen die heute zur Verfügung stehenden Finanzmittel für eine qualitativ hochwertige Versorgung aus. - Glauben Sie das wirklich selbst?</p>
           <stage type="interjection">(Bundeskanzler Gerhard Schröder: Ein netter Kerl! Er guckt mich an!)</stage>
           <p>Wenn Sie an die Überalterung der Bevölkerung, die medizinisch-technische Entwicklung, die Multimorbidität, die Erwartungshaltung der Bevölkerung denken, dann werden Sie leicht einsehen: Alles das wird auch auf Dauer mehr Geld kosten. Wenn Sie dann sagen, daß Sie das sektoral oder global budgetieren wollen, dann führen Sie - Ihr zweiter Satz in diesem Zusammenhang lautete: Nicht die Rationierung in der gesetzlichen Krankenversicherung ist der richtige Weg, sondern die Rationalisierung - die gesetzliche Krankenversicherung in die Rationierung.</p>
@@ -938,7 +938,7 @@
           <p>Jetzt wollen Sie das Festzuschußsystem beim Zahnersatz wieder einführen. Das soll soziale Gerechtigkeit sein? Früher war es doch so: Diejenigen, die sich einen höherwertigen Zahnersatz leisten konnten, verursachten einen wesentlich tieferen Griff in die Sozialkasse, weil es ja eine prozentuale Bezuschussung gab. Wer gesagt hat, ich habe nicht so viel, bei mir darf die Versorgung nur 4 000 DM kosten, der verursachte Kosten von 2 000 DM. Wer sagte, mir können Sie deutlich besseren Zahnersatz machen, der dann 8 000 DM kostete, der bekam aus der Sozialkasse 4 000. Das heißt, diejenigen, die es sich leisten konnten, bekamen auch eine bessere Versorgung. Ist das soziale Gerechtigkeit? Wir meinten, nein. Deswegen haben wir Festzuschüsse auf hohem Niveau eingeführt. Damit kam das, was medizinisch notwendig ist, allen zugute.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Sie haben uns nun über mehrere Jahre diffamiert mit der berühmten Frage der Zuzahlung bei Arzneimitteln. Sie haben den Menschen eingeredet, die Zuzahlung sei von Übel, das habe mit Eigenverantwortung nichts zu tun. Und was kommt dabei heraus? Statt 9, 11 und 13 DM sollen es jetzt 8, 9 und 10 DM sein. Es wird demnächst in den Apotheken ein "Sturm des Jubels" losbrechen, weil für das Arzneimittel nicht mehr 9, sondern 8 DM zugezahlt werden müssen. Diese für den einzelnen marginale Entlastung macht in der Summe für die gesetzliche Krankenversicherung rund 1 Milliarde DM aus. Wir fragen Sie, wie Sie dies gegenfinanzieren wollen.</p>
-          <p>Das Krankenhausnotopfer soll gestreckt oder abgeschafft werden. Somit fehlen rückwirkend für das Jahr 1998 880 Millionen DM. Oder wollen Sie - denn zur Gegenfinanzierung ist unter anderem vorgesehen, die 620-Mark-Jobs sozial- und krankenversicherungspflichtig zu machen - die Beitragszahler rückwirkend zur Sozialkasse bitten? Das wäre ja etwas ganz Neues; bis  jetzt habe ich nichts derartiges gelesen. Also fehlen, Frau Ministerin, zumindest für dieses Jahr 880 Millionen DM.</p>
+          <p>Das Krankenhausnotopfer soll gestreckt oder abgeschafft werden. Somit fehlen rückwirkend für das Jahr 1998 880 Millionen DM. Oder wollen Sie - denn zur Gegenfinanzierung ist unter anderem vorgesehen, die 620-Mark-Jobs sozial- und krankenversicherungspflichtig zu machen - die Beitragszahler rückwirkend zur Sozialkasse bitten? Das wäre ja etwas ganz Neues; bis jetzt habe ich nichts derartiges gelesen. Also fehlen, Frau Ministerin, zumindest für dieses Jahr 880 Millionen DM.</p>
           <p>Zum Arzneimittelbudget: Ich habe immer geglaubt, Herr Kollege Dreßler, nach dem Gesundheitsstrukturgesetz, nach der dreijährigen Budgetierung - später wurde sogar ein viertes Jahr angehängt - hätten alle, auch Sie, die neue Regierung, eingesehen, daß Budgetierung, vor allem die sektorale Budgetierung, ins Elend führt. Angesichts der dynamischen Entwicklung im Gesundheitsbereich kann Budgetierung nicht der Gedanke der Zukunft sein. Sie kehren dennoch dahin zurück. Spätestens im Herbst nächsten Jahres werden Sie sich mit der Frage der Rationierung auseinandersetzen müssen. Das ist gar keine Frage.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Dann werden all die auf der Matte stehen, denen Sie entweder abverlangen, Leistungen zu erbringen, ohne dafür Geld zu bekommen, oder denen Sie die Leistungen, die sie vorher bekommen haben, entziehen wollen. Das wird die Folge Ihrer Politik sein.</p>
@@ -952,17 +952,17 @@
           <p>Ich fasse zusammen: Ihr Erstlingswerk, Frau Fischer - auch wenn ich persönliche Sympathie für Sie nicht bestreiten kann -, ist nicht gelungen. Denn Ihre Formulierungsvorschläge für das Gesetz, das ich jetzt hier kritisiere, gefährden die Beitragssatzstabilität und damit auch die Arbeitsplätze in diesem Bereich sozialer Dienstleistungen. Neue werden damit nicht geschaffen. Die qualitativ hochwertige Versorgung wird nicht mehr gewährleistet sein, wenn Sie nicht noch nachbessern. Das ist ja eines der beliebtesten Worte - vielleicht sogar Unworte - des Jahres 1998: Wir müssen noch nachbessern. Aber Vertrauen in unsere solidarische gesetzliche Krankenversicherung schaffen Sie damit nicht. Leider kein guter Start.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt die Ministerin Andrea Fischer.</p>
         </sp>
-        <sp who="Andrea Fischer" parliamentary_group="NA" role="government" position="Bundesministerin für Gesundheit" party="Grüne" name="Andrea Fischer">
+        <sp who="Andrea Fischer" parliamentary_group="NA" role="government" position="Bundesministerin für Gesundheit" who_original="Andrea Fischer" party="GRUENE" name="Andrea Fischer">
           <speaker>Andrea Fischer, Bundesministerin für Gesundheit:</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Die neue Opposition sucht offensichtlich noch nach ihrer Rolle: Gestern hat der Fraktionsvorsitzende der CDU/CSU uns Nichtstun vorgeworfen. Andere aus Ihren Reihen sagen, das, was wir bislang vorgeschlagen hätten, sei irgendwie falsch.</p>
           <stage type="interjection">(Hans-Peter Repnik [CDU/CSU]: Das wenige, was ihr macht, ist auch noch falsch!)</stage>
           <p>- Das ist eine sehr diplomatische Formulierung, Herr Repnik. Aber es hilft alles nichts: Ich finde, es hat durchaus etwas Nickeliges, wie Sie darüber reden.</p>
           <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der SPD - Ingrid Matthäus-Maier [SPD]: "Nickelig"! Sehr gut!)</stage>
-          <p>Ich halte fest: Das, was wir machen, machen wir rasch, insbesondere in der Gesundheitspolitik. Wir wollen mit diesem Vorschaltgesetz die Bedingungen für  eine große Gesundheitsreform schaffen, die Legitimation für die gesetzliche Krankenversicherung wiederherstellen und das Preis-Leistungs-Verhältnis ins Lot bringen. Wir werben für Solidarität in der gesetzlichen Krankenversicherung, die wir erreichen wollen, indem wir die Belastungen gleichmäßiger verteilen, als das in den letzten Jahren geschehen ist.</p>
+          <p>Ich halte fest: Das, was wir machen, machen wir rasch, insbesondere in der Gesundheitspolitik. Wir wollen mit diesem Vorschaltgesetz die Bedingungen für eine große Gesundheitsreform schaffen, die Legitimation für die gesetzliche Krankenversicherung wiederherstellen und das Preis-Leistungs-Verhältnis ins Lot bringen. Wir werben für Solidarität in der gesetzlichen Krankenversicherung, die wir erreichen wollen, indem wir die Belastungen gleichmäßiger verteilen, als das in den letzten Jahren geschehen ist.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD - Zuruf von der F.D.P.: Wo denn?)</stage>
           <p>Wäre ich an Ihrer Stelle: Mir würde es auch nicht gefallen, wenn eine neue Regierung käme und etliche von den Dingen, worum die alte Regierung lange gerungen hat, einfach wieder rückgängig machen würde. Zum formvollendeten Hinnehmen einer Niederlage gehört aber, zu erkennen, warum man eine Niederlage einstecken mußte. Ihre Gesundheitspolitik hat zu dieser Niederlage beigetragen. Dafür haben Sie die Quittung bekommen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der PDS)</stage>
@@ -1005,7 +1005,7 @@
           <p>Aber mit dieser Art der Wortwahl erwecken Sie diesen Eindruck. Wir reden hier über Solidarität. Eine Sozialversicherung ist darauf angewiesen, daß die Menschen sich an ihr beteiligen. Natürlich kann mir jeder einzelne sagen: Wenn ich keinen Beitrag zahle, geht es mir besser, weil ich ja mehr Geld in der Tasche habe. Aber das Free-Rider-Prinzip in der Sozialversicherung funktioniert nur für das Individuum gut. Es funktioniert nicht für das Kollektiv. Eine Sozialversicherung, aus der sich immer mehr Menschen verabschieden, bedeutet, daß die Beiträge für diejenigen, die in ihr bleiben, ständig steigen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der PDS)</stage>
           <p>Deswegen finde ich es berechtigt, wenn wir sagen: Eine Sozialversicherung funktioniert nur, wenn wir uns alle nach unserer Leistungsfähigkeit daran beteiligen.</p>
-          <p>Jetzt noch einige Worte zu dem, was Sie gerade schon gesagt haben - das ist mir inzwischen auch schon reichlich untergekommen -, zur Frage der Ausgabenbegrenzung in den verschiedenen Sektoren des Gesundheitswesens im nächsten Jahr. Herr Lohmann, das darf doch wohl nicht wahr sein, daß Sie sich hier hinstellen und so tun, als würden wir den Leuten Geld wegnehmen. Wir begrenzen im nächsten Jahr die Zuwächse in den einzelnen Sektoren. Das ist doch etwas völlig anderes als die Behauptung, daß wir den Leuten etwas wegnehmen würden. Was erzählen Sie denn hier? Wir begrenzen die Zuwächse der Umsätze in den verschiedenen Sektoren des Gesundheitswesens auf die zu erwartende Lohnsteigerung des nächsten Jahres. Sie als Freunde des freien Wirtschaftens müßten das doch  klasse finden. Welche andere Gruppe in dieser Gesellschaft hat sozusagen garantierte Umsatzzuwächse. Sie erwecken hier die ganze Zeit den Eindruck, als würden wir den Leuten etwas wegnehmen. Das ist doch überhaupt nicht wahr.</p>
+          <p>Jetzt noch einige Worte zu dem, was Sie gerade schon gesagt haben - das ist mir inzwischen auch schon reichlich untergekommen -, zur Frage der Ausgabenbegrenzung in den verschiedenen Sektoren des Gesundheitswesens im nächsten Jahr. Herr Lohmann, das darf doch wohl nicht wahr sein, daß Sie sich hier hinstellen und so tun, als würden wir den Leuten Geld wegnehmen. Wir begrenzen im nächsten Jahr die Zuwächse in den einzelnen Sektoren. Das ist doch etwas völlig anderes als die Behauptung, daß wir den Leuten etwas wegnehmen würden. Was erzählen Sie denn hier? Wir begrenzen die Zuwächse der Umsätze in den verschiedenen Sektoren des Gesundheitswesens auf die zu erwartende Lohnsteigerung des nächsten Jahres. Sie als Freunde des freien Wirtschaftens müßten das doch klasse finden. Welche andere Gruppe in dieser Gesellschaft hat sozusagen garantierte Umsatzzuwächse. Sie erwecken hier die ganze Zeit den Eindruck, als würden wir den Leuten etwas wegnehmen. Das ist doch überhaupt nicht wahr.</p>
           <p>Wir haben zusätzlich - weil wir nicht geschichtsvergessen sind und weil wir die Erfahrungen mit der Budgetierung, die wir hinter uns haben, nicht vergessen haben - hochdifferenzierte Regelungen für jeden der einzelnen Sektoren gefunden. Alle diejenigen, die sich jetzt auch aus Interessensgründen darüber beklagen, fordere ich auf: Schauen Sie sich genau an, was dort steht. Wir haben uns die Situation in den einzelnen Bereichen - sei es das Krankenhaus, sei es die ambulante Versorgung - jeweils ganz genau angeschaut und eine dafür jeweils passende Regelung gefunden. Das ist unser Angebot, auch an die Leistungserbringer, von denen immer behauptet wird, daß wir ihnen einfach nur noch in die Tasche greifen wollten.</p>
           <stage type="interjection">(Dirk Niebel [F.D.P.]: Die spielen Sie doch gegeneinander aus!)</stage>
           <p>Wir begrenzen die Zuwächse der Ausgaben. Das ist etwas anderes als wegnehmen. Ich glaube, daß es sehr richtig ist, wie wir das gemacht haben, nämlich maßvoll und differenziert. Daß wir auf Dauer nicht eine sektorale, sondern eine globale Begrenzung wollen, ist auch klar.</p>
@@ -1021,12 +1021,12 @@
           <p>In diesem Sinne lade ich alle, denen daran liegt, daß wir die Zukunft unserer gesetzlichen Krankenversicherung sichern und ausbauen, in die Reformwerkstatt zu einem offenen Dialog ein, der nicht aus den Gräben heraus, sondern auf gleicher Augenhöhe geführt wird.</p>
           <stage type="interjection">(Anhaltender Beifall beim BÜNDNIS 90/DIE GRÜNEN - Beifall bei der SPD sowie des Abg. Dr. Ilja Seifert [PDS])</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Dr. Dieter Thomae.</p>
           <stage type="interjection">(Rezzo Schlauch [BÜNDNIS 90/DIE GRÜNEN]: Der hat's jetzt aber schwer! - Lachen bei der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Dieter Thomae" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Dieter Thomae">
+        <sp who="Dieter Thomae" parliamentary_group="FDP" role="mp" position="NA" who_original="Dieter Thomae" party="FDP" name="Dieter Thomae">
           <speaker>Dr. Dieter Thomae (F.D.P.):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Dieser Gesetzentwurf knebelt sowohl die Patienten als auch die Leistungserbringer. Das werde ich Ihnen jetzt sehr deutlich sagen.</p>
           <stage type="interjection">(Beifall bei der F.D.P. - Lachen bei der SPD und beim BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -1056,11 +1056,11 @@
           <p>Ich erinnere daran, wie Sie durchs Land gezogen sind und in den Kurorten und im Reha-Bereich Versprechungen gemacht haben, die Sie überhaupt nicht halten können. Wenn ich eine solche Politik machen würde, dann würde ich mich als F.D.P.-Mann schämen, weil ich vor der Wahl etwas versprochen hätte, was ich nach der Wahl überhaupt nicht hätte halten können.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU - Lachen bei der SPD - Bernd Reuter [SPD]: Als F.D.P.-Mann würde ich mich auch schämen!)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Rudolf Dreßler.</p>
         </sp>
-        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Dreßler">
+        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Dreßler" party="SPD" name="Rudolf Dreßler">
           <speaker>Rudolf Dreßler (SPD):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Nichts kennzeichnet glaubwürdige Politik erfolgreicher als die auf die Ankündigung unmittelbar folgende politische Maßnahme.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -1117,41 +1117,41 @@
           <stage type="interjection">(Abg. Wolfgang Lohmann [Lüdenscheid] [CDU/CSU] meldet sich zu einer Zwischenfrage)</stage>
           <p>CDU/CSU, vor allem aber die F.D.P. vertreten seit geraumer Zeit die Auffassung, unsere Sozialsysteme seien nicht die Systeme für möglichst viele oder gar für alle, sondern für einen definierbaren Kreis der darauf Angewiesenen.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
-          <p>Herr Kollege - - </p>
+          <p>Herr Kollege - -</p>
         </sp>
-        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Dreßler">
+        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Dreßler" party="SPD" name="Rudolf Dreßler">
           <speaker>Rudolf Dreßler (SPD):</speaker>
           <p>Mit Verlaub, meine Damen und Herren, was sollte das denn sein? Eine Krankenversicherung nur für Bedürftige, für Alte und Kranke oder eine Pflegeversicherung nur für Arme oder Pflegebedürftige? Vor allem aber: Wie sollte sich das jemals finanzieren? Wie soll es funktionieren, wenn die zu kurz Gekommenen oder in Not Geratenen die Folgen ihrer Not selbst finanzieren, präziser gesagt: untereinander aufteilen müßten? Auch dies wäre doch völlig absurd.</p>
           <p>Ich nehme an, Herr Lohmann, Sie haben eine Zwischenfrage. Bitte.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Wolfgang Lohmann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Lohmann">
+        <sp who="Wolfgang Lohmann (Lüdenscheid)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Lohmann (Lüdenscheid)" party="CDU" name="Wolfgang Lohmann">
           <speaker>Wolfgang Lohmann (Lüdenscheid) (CDU/CSU):</speaker>
           <p>Normalerweise wird das Wort von der Präsidentin erteilt.</p>
         </sp>
-        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Dreßler">
+        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Dreßler" party="SPD" name="Rudolf Dreßler">
           <speaker>Rudolf Dreßler (SPD):</speaker>
-          <p>Ich bitte um Nachsicht. </p>
+          <p>Ich bitte um Nachsicht.</p>
         </sp>
-        <sp who="Wolfgang Lohmann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Lohmann">
+        <sp who="Wolfgang Lohmann (Lüdenscheid)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Lohmann (Lüdenscheid)" party="CDU" name="Wolfgang Lohmann">
           <speaker>Wolfgang Lohmann (Lüdenscheid) (CDU/CSU):</speaker>
           <p>Wenn man anderswo nichts mehr zu sagen hat, ist das vielleicht auch so möglich.</p>
           <stage type="interjection">(Widerspruch bei der SPD)</stage>
         </sp>
-        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Dreßler">
+        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Dreßler" party="SPD" name="Rudolf Dreßler">
           <speaker>Rudolf Dreßler (SPD):</speaker>
           <p>Herr Lohmann, ich hatte mich bei der Präsidentin bereits entschuldigt. Ich weiß nicht, ob Sie das zur Kenntnis genommen haben.</p>
         </sp>
-        <sp who="Wolfgang Lohmann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Lohmann">
+        <sp who="Wolfgang Lohmann (Lüdenscheid)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Lohmann (Lüdenscheid)" party="CDU" name="Wolfgang Lohmann">
           <speaker>Wolfgang Lohmann (Lüdenscheid) (CDU/CSU):</speaker>
           <p>Sie können das mit beantworten. Sie haben gerade gesagt, die unterschiedliche Behandlung der verschiedenen Einkunftsarten soll im weiteren Verlauf Ihre besondere Aufmerksamkeit finden. Habe ich es richtig in Erinnerung, daß Sie in den Wahlkampfpapieren zunächst davon gesprochen haben, die Beitragsbemessungsgrenze und möglicherweise auch die Versicherungspflichtgrenze fallen lassen oder zumindest nach oben setzen zu wollen, und daß Sie dann von dem heutigen Minister Müntefering mit einer weiteren Stellungnahme, daß an dieser sogenannten Friedensgrenze nichts geändert wird, zurückgepfiffen worden sind?</p>
         </sp>
-        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Dreßler">
+        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Dreßler" party="SPD" name="Rudolf Dreßler">
           <speaker>Rudolf Dreßler (SPD):</speaker>
           <p>Herr Lohmann, ich bitte auch in diesem Punkt vorab um Nachsicht, wenn ich sage: Sie haben ein Problem.</p>
           <stage type="interjection">(Heiterkeit bei der SPD - Dr. Dieter Thomae [F.D.P.]: Sie auch!)</stage>
@@ -1180,11 +1180,11 @@
           <p>Schönen Dank, meine Damen und Herren.</p>
           <stage type="interjection">(Anhaltender Beifall bei der SPD - Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt die Abgeordnete Ruth Fuchs.</p>
         </sp>
-        <sp who="Dr. Ruth Fuchs" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Ruth Fuchs">
+        <sp who="Ruth Fuchs" parliamentary_group="PDS" role="mp" position="NA" who_original="Ruth Fuchs" party="PDS" name="Ruth Fuchs">
           <speaker>Dr. Ruth Fuchs (PDS):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Die neue Koalition, die ihre Vorstellungen in der Gesundheitspolitik in zwei Stufen verwirklichen will, legt heute als ersten Schritt einen Gesetzentwurf zur Stärkung der Solidarität in der gesetzlichen Krankenversicherung vor. Nicht nur vom Namen her klingt das schon wesentlich besser als alles Bisherige. Bei genauerem Hinsehen zeigt sich, daß auch im Gesetzentwurf selbst der Wille zur Abkehr von einer auf Deregulierung und Privatisierung des Gesundheitsrisikos gerichteten Politik und zur Wahrung eines solidarischen Gesundheitssystems zum Ausdruck kommt.</p>
           <p>Wir gehen davon aus, daß die beabsichtigten Rücknahmen von Leistungskürzungen und Zuzahlungen das Signal dafür sind, daß es künftig auch im Gesundheitswesen wieder sozial gerechter zugehen soll. Es ist auch zu begrüßen, daß Dinge aufgehoben bzw. ausgesetzt werden sollen, deren Sinnhaftigkeit bis heute niemandem ernsthaft zu vermitteln war. Ich denke beispielsweise an das Notopfer Krankenhaus oder an den unseligen Automatismus zwischen Beitragssteigerungen einer Krankenkasse und der Höhe der Zuzahlungen für ihre Mitglieder.</p>
@@ -1209,11 +1209,11 @@
           <p>Ich danke Ihnen für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Als nächster Redner hat das Wort der Kollege Wolfgang Zöller, CDU/CSU.</p>
         </sp>
-        <sp who="Wolfgang Zöller" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Wolfgang Zöller">
+        <sp who="Wolfgang Zöller" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Zöller" party="CSU" name="Wolfgang Zöller">
           <speaker>Wolfgang Zöller (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Frau Ministerin, zunächst etwas Positives: Wir halten es für sinnvoll, daß im Gesundheitsministerium nun auch die Pflegeversicherung mit bearbeitet wird.</p>
           <p>Aber gestatten Sie mir auch eine kurze Anmerkung zur Arbeitsweise der neuen Mehrheit. Dazu, daß am Montag früh rund 120 Seiten und drei Stunden später 64 Austauschseiten ins Büro geschickt wurden, und dann gestern früh der Gesetzentwurf vorlag, muß ich doch sagen: Ich glaube, man sollte bei einem so diffizilen Thema wie der Gesundheit doch etwas sorgfältiger vorgehen und unser System nicht zum Spielball unseriöser Wahlversprechungen werden lassen.</p>
@@ -1268,18 +1268,18 @@
           <p>Meine sehr geehrten Damen und Herren, ich wünsche uns allen Gesundheit und mehr Mut zur Ehrlichkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Als nächste Rednerin spricht Frau Gudrun Schaich-Walch von der SPD-Fraktion.</p>
         </sp>
-        <sp who="Gudrun Schaich-Walch" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gudrun Schaich-Walch">
+        <sp who="Gudrun Schaich-Walch" parliamentary_group="SPD" role="mp" position="NA" who_original="Gudrun Schaich-Walch" party="SPD" name="Gudrun Schaich-Walch">
           <speaker>Gudrun Schaich-Walch (SPD):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Herr Zöller, diesen Mut zur Ehrlichkeit hätten Sie vielleicht in der letzten Legislaturperiode, als Sie noch an der Regierung waren, zeigen sollen. Dann wäre uns manches erspart geblieben.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der Abg. Dr. Barbara Höll [PDS])</stage>
           <p>Der zweite Punkt: Wenn Sie sich fürchten, Herr Zöller, macht mich das ganz unruhig. Deshalb will ich etwas zur Finanzierung sagen.</p>
           <p>Wir werden die Einbeziehung der geringfügig Beschäftigten haben; wir werden die Aussetzung des Demographiefaktors in der Rentenversicherung haben und damit Mehreinnahmen bekommen.</p>
           <stage type="interjection">(Wolfgang Lohmann [Lüdenscheid] [CDU/CSU]: Irrweg!)</stage>
-          <p>174 Deutscher Bundestag - 14. Wahlperiode - 4. Sitzung. Bonn, Mittwoch, den 11. November 1998 Deutscher Bundestag - 14. Wahlperiode - 4. Sitzung. Bonn, Mittwoch, den 11. November 1998 157 Deutscher Bundestag - 14. Wahlperiode - 245. Sitzung, Bonn, Donnerstag, den 25. Juni 1998 1 Hinzu kommen Mehreinnahmen für die gesetzliche Krankenversicherung durch die Wiedereinführung der Lohnfortzahlung.</p>
+          <p>Hinzu kommen Mehreinnahmen für die gesetzliche Krankenversicherung durch die Wiedereinführung der Lohnfortzahlung.</p>
           <stage type="interjection">(Walter Hirche [F.D.P.]: Alles schädlich für den Arbeitsmarkt!)</stage>
           <p>Ich nenne noch etwas, was Sie vorhin bedauert haben: Es gibt natürlich die Absenkung der Festbeträge im Arzneimittelbereich, und auch dadurch ergeben sich Mehreinnahmen im Bereich der gesetzlichen Krankenversicherung.</p>
           <stage type="interjection">(Dr. Dieter Thomae [F.D.P.]: Was sagen denn die Länderwirtschaftsminister dazu?)</stage>
@@ -1290,21 +1290,21 @@
           <stage type="interjection">(Walter Hirche [F.D.P.]: Um die Arbeitskosten!)</stage>
           <p>Ich möchte Ihnen sagen: Die Krankenversicherung ist erst einmal dazu da, daß die Kranken ordentlich versorgt werden, und dann erst ist sie dazu da, daß diejenigen, die an diesem System teilhaben, ihr entsprechend gerechtes Einkommen erhalten.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Frau Kollegin, erlauben Sie eine Zwischenfrage des Kollegen Zöller?</p>
         </sp>
-        <sp who="Gudrun Schaich-Walch" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gudrun Schaich-Walch">
+        <sp who="Gudrun Schaich-Walch" parliamentary_group="SPD" role="mp" position="NA" who_original="Gudrun Schaich-Walch" party="SPD" name="Gudrun Schaich-Walch">
           <speaker>Gudrun Schaich-Walch (SPD):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Wolfgang Zöller" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Wolfgang Zöller">
+        <sp who="Wolfgang Zöller" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Zöller" party="CSU" name="Wolfgang Zöller">
           <speaker>Wolfgang Zöller (CDU/CSU):</speaker>
           <p>Frau Kollegin Schaich-Walch, Sie haben gerade gesagt, Sie erhofften sich Mehreinnahmen zum Beispiel durch die Wiedereinführung der Lohnfortzahlung. Das ist auch in den Erläuterungen zu dem Gesetzentwurf so vorgesehen. Aber Sie haben dabei etwas vergessen: Möchten Sie das bitte zur Kenntnis nehmen</p>
-          <stage type="interjection">(Zuruf von der SPD: Frage! - Gegenruf der Abg. Hannelore Rönsch [Wiesbaden] [CDU/CSU]: "Möchten Sie bitte zur Kenntnis nehmen", Fragezeichen!)</stage>
+          <stage type="interjection">(Zuruf von der SPD: Frage! - Gegenruf der Abg. Hannelore Rönsch [Wiesbaden] [CDU/ CSU]: "Möchten Sie bitte zur Kenntnis nehmen", Fragezeichen!)</stage>
           <p>- ich stelle eine Frage; das ist schon richtig -, daß mit der Wiedereinführung der Lohnfortzahlung natürlich eine erhebliche Mehrbelastung der gesetzlichen Krankenversicherung durch höhere Krankengeldforderungen entsteht? Das wird in Ihrem Gesetzentwurf nicht erwähnt.</p>
         </sp>
-        <sp who="Gudrun Schaich-Walch" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gudrun Schaich-Walch">
+        <sp who="Gudrun Schaich-Walch" parliamentary_group="SPD" role="mp" position="NA" who_original="Gudrun Schaich-Walch" party="SPD" name="Gudrun Schaich-Walch">
           <speaker>Gudrun Schaich-Walch (SPD):</speaker>
           <p>Erstens einmal muß auch schon jetzt Krankengeld gezahlt werden. Zweitens möchte ich dazu sagen, daß wir davon ausgehen, daß die Mehreinnahmen zur Erhöhung der Krankengeldleistungen ausreichen, zumal wir ja sehen konnten, daß die Zahlen der Krankschreibungen allgemein und auch der langfristigen Krankschreibungen in der letzten Zeit glücklicherweise sehr stark rückläufig gewesen sind.</p>
           <stage type="interjection">(Zuruf von der F.D.P.: Milchmädchenrechnung!)</stage>
@@ -1344,11 +1344,11 @@
           <p>Auf dieser Basis sind wir jederzeit und immer zu einem offenen Dialog bereit, der durchaus auch die Interessenslagen derer, die im Gesundheitswesen arbeiten und dort verdienen, berücksichtigen wird.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Als nächster Redner hat der Kollege Ulf Fink von der CDU/CSU-Fraktion das Wort.</p>
         </sp>
-        <sp who="Ulf Fink" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ulf Fink">
+        <sp who="Ulf Fink" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ulf Fink" party="CDU" name="Ulf Fink">
           <speaker>Ulf Fink (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Die Regierungskoalition legt heute einen ersten Gesetzentwurf im Gesundheitsbereich vor. Es ist anerkanntermaßen nicht die große Gesundheitsreform, sondern es ist ein Vorschaltgesetz.</p>
           <p>Warum diese große Eile?</p>
@@ -1360,7 +1360,7 @@
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU - Rudolf Dreßler [SPD]: Falsch!)</stage>
           <p>Da haben Sie plakatiert: "Wir machen nicht alles anders, aber vieles besser." Jetzt muß es, glaube ich, heißen: Wir machen nicht alles besser und vieles auch überhaupt nicht anders.</p>
           <stage type="interjection">(Zustimmung bei der F.D.P.)</stage>
-          <p>Eine wichtige Zielsetzung des vorliegenden Gesetzentwurfes ist nach Ihren eigenen Aussagen, daß die Beitragssätze der gesetzlichen Krankenversicherung stabil bleiben sollen. Diese Zielsetzung ist absolut richtig. Auch wir sind der Meinung, daß steigende Beitragssätze Gift für Arbeitsplätze wären. Die Frage ist aber: Erreichen Sie dieses Ziel mit Ihrem Gesetzentwurf? Haben Sie für die Mehrausgaben und die Mindereinnahmen  eine echte, seriöse Gegenfinanzierung?</p>
+          <p>Eine wichtige Zielsetzung des vorliegenden Gesetzentwurfes ist nach Ihren eigenen Aussagen, daß die Beitragssätze der gesetzlichen Krankenversicherung stabil bleiben sollen. Diese Zielsetzung ist absolut richtig. Auch wir sind der Meinung, daß steigende Beitragssätze Gift für Arbeitsplätze wären. Die Frage ist aber: Erreichen Sie dieses Ziel mit Ihrem Gesetzentwurf? Haben Sie für die Mehrausgaben und die Mindereinnahmen eine echte, seriöse Gegenfinanzierung?</p>
           <p>Wir müssen feststellen, daß nach Ihrer eigenen finanziellen Begründung im nächsten Jahr fast 2 Milliarden DM an Mindereinnahmen und Mehrausgaben entstehen werden. Gegenfinanziert wird im wesentlichen nur durch die Versicherungspflicht für geringfügige Beschäftigung. Diese Gegenfinanzierung geben Sie in Ihrem eigenen Gesetzentwurf zur gesetzlichen Krankenversicherung mit 1,3 Milliarden DM bis 1,4 Milliarden DM an.</p>
           <stage type="interjection">(Walter Hirche [F.D.P.]: Reine Luftbuchungen!)</stage>
           <p>Dazu kann ich nur sagen: Sie wissen ja noch nicht einmal, wie Sie diesen Gesetzentwurf für die geringfügigen Beschäftigungsverhältnisse ausgestalten wollen. Das geht zwischen Kanzler und Arbeitsminister offenbar noch hin und her: ob Pauschbesteuerung oder nicht, ob Rente oder nicht, ob Krankenversicherung oder nicht. In diesem Gesetzentwurf aber schreiben Sie: Diese Versicherungspflicht für geringfügige Beschäftigung bringt 1,3 Milliarden DM mehr. - Das ist eine Luftnummer sondergleichen.</p>
@@ -1382,14 +1382,14 @@
           <p>Frau Ministerin, wenn Sie Erfolg haben wollen, den wir Ihnen im Interesse unseres Gesundheitswesens wünschen, dann müssen Sie sehr aufpassen, daß sich in der Regierungskoalition nicht die Kräfte durchsetzen, die eine uralte Politik verfolgen. Sie müssen sehr aufpassen, daß die alten Ressentiments aus der sozialdemokratischen Mottenkiste nicht fröhliche Urständ feiern. Noch haben Sie Zeit dazu.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird die Überweisung des Gesetzentwurfes auf Drucksache 14/24 an die in der Tagesordnung aufgeführten Ausschüsse, jedoch nicht an den Haushaltsausschuß, vorgeschlagen. Gibt es dazu anderweitige Vorschläge? - Das ist nicht der Fall. Dann ist die Überweisung so beschlossen.</p>
           <p>Wir kommen zum Themenbereich Familie, Senioren, Frauen und Jugend.</p>
           <p>Ich eröffne die Aussprache. Als erste Rednerin hat die Kollegin Hannelore Rönsch von der CDU/CSU-Fraktion das Wort.</p>
         </sp>
-        <sp who="Hannelore Rönsch" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hannelore Rönsch">
+        <sp who="Hannelore Rönsch (Wiesbaden)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hannelore Rönsch (Wiesbaden)" party="CDU" name="Hannelore Rönsch">
           <speaker>Hannelore Rönsch (Wiesbaden) (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Liebe Kolleginnen! Liebe Kollegen! Gestern hatten wir die Gelegenheit, zwei Stunden lang dem Bundeskanzler bei seiner Regierungserklärung zuzuhören.</p>
           <stage type="interjection">(Dr. Hermann Kues [CDU/CSU]: Sehr anstrengend)</stage>
@@ -1412,12 +1412,12 @@
           <p>Die Familien werden zumindest dann betrogen, wenn ich mir Ihre Vorschläge zur Ökosteuerreform betrachte. Es ist unglaublich, daß die Familien durch eine Kindergelderhöhung mehr Geld in die eine Tasche bekommen, was ihnen durch die Ökosteuerreform wieder aus der anderen Tasche gezogen wird.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. - Irmingard Schewe-Gerigk [BÜNDNIS 90/DIE GRÜNEN]: Dann müssen Sie aber auch sagen, was sie über die Einkommensteuerreform wieder hereinbekommen!)</stage>
           <p>Es ist vollkommen egal, welchen Bereich Sie betrachten, ob Strom oder Gas: Es sind immer die Familien, die es betrifft.</p>
-          <stage type="interjection">(Irmingard Schewe-Gerigk [BÜNDNIS 90/DIE GRÜNEN]: 2 700 DM pro Familie!)</stage>
+          <stage type="interjection">(Irmingard Schewe-Gerigk [BÜNDNIS 90/ DIE GRÜNEN]: 2 700 DM pro Familie!)</stage>
           <p>Nehmen Sie zum Beispiel das Benzin. Mit Sicherheit wird der Schulbus für die Familie teurer werden. Die Bäckereien als die energieintensivsten Betriebe werden sich auch ihre Gedanken machen und die Energieverteuerung auf die Preise für das Brot umlegen. Das soll den Familien an gar keiner Stelle wehtun? Sie haben doch hoffentlich auch einmal die Berechnungen angestellt, über die man momentan in allen großen Tageszeitungen nachlesen kann, bevor Sie an solche Reformvorhaben herangehen; denn hier wird Ihnen ja von den Wirtschaftswissenschaftlern vorgerechnet, daß die Kindergelderhöhung durch die Ökosteuer aufgezehrt wird.</p>
-          <stage type="interjection">(Irmingard Schewe-Gerigk [BÜNDNIS 90/DIE GRÜNEN]: Sie haben die Einkommensteuerreform dabei vergessen!)</stage>
+          <stage type="interjection">(Irmingard Schewe-Gerigk [BÜNDNIS 90/ DIE GRÜNEN]: Sie haben die Einkommensteuerreform dabei vergessen!)</stage>
           <p>Dazu müssen Sie sich - das muß ich Ihnen sagen - schon einmal vorher Ihre Gedanken machen.</p>
           <p>Im Bildungsbereich haben wir Programme zur Heranführung von Mädchen und Frauen an moderne Technologien und weit angelegte Initiativen wie "Frauen in Männerberufen" aufgelegt. Wir haben Art. 3 des Grundgesetzes geändert und die staatliche Verpflichtung festgeschrieben, "die tatsächliche Durchsetzung der Gleichberechtigung von Frauen und Männern" zu fördern und Benachteiligungen zu beseitigen.</p>
-          <stage type="interjection">(Irmingard Schewe-Gerigk [BÜNDNIS 90/DIE GRÜNEN]: Haben Sie das auch umgesetzt?)</stage>
+          <stage type="interjection">(Irmingard Schewe-Gerigk [BÜNDNIS 90/ DIE GRÜNEN]: Haben Sie das auch umgesetzt?)</stage>
           <p>- Ja, aber selbstverständlich; in allen Lebensbereichen haben wir es umgesetzt.</p>
           <stage type="interjection">(Lachen bei der SPD)</stage>
           <p>Ich habe vier Jahre ein Ministerium geleitet, und dieses Ministerium für Familie und Senioren war das Ministerium, das gerade im höheren Dienst den höchsten Frauenanteil hatte. Nun sind Sie gefragt. Liebe Kolleginnen aus der SPD-Fraktion, ich hätte mir schon gewünscht, daß Sie Ihrem Kanzler wenigstens etwas mehr über Frauenpolitik in sein Redemanuskript geschrieben hätten;</p>
@@ -1425,7 +1425,7 @@
           <p>davon stand an keiner Stelle etwas.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
           <p>Für uns heißt Familienpolitik auch, daß wir die Familien mit Preisstabilität in die Lage versetzen, für ihr Geld tatsächlich etwas zu bekommen. Im Moment haben wir eine Inflationsrate von 0,7 Prozent. Die Familien behalten das in der Tasche, was sie tatsächlich erarbeiten. Auch in diesem Punkt werden wir darauf achten, daß das in Zukunft so bleibt.</p>
-          <p>Frau Kollegin, einige Punkte liegen mir auch noch sehr am Herzen. Bisher habe ich Äußerungen von Ihnen dazu immer nur in Presseinterviews gelesen. Deshalb will ich doch noch einige Anmerkungen zum Stellenwert der Familien machen. Es mag nämlich sein -  persönlich habe ich Sie dazu noch nicht gehört -, daß Sie verkehrt zitiert worden sind. Ich will Ihnen unsere Positionen zum Stellenwert der Familie in der Gesellschaft einmal deutlich darstellen. Für uns bleiben die Familien die wichtigste Einheit in unserer Gesellschaft; denn sie vermitteln die Werte und die Verhaltensweisen, ohne die eine freie und solidarische Gesellschaft nicht möglich ist.</p>
+          <p>Frau Kollegin, einige Punkte liegen mir auch noch sehr am Herzen. Bisher habe ich Äußerungen von Ihnen dazu immer nur in Presseinterviews gelesen. Deshalb will ich doch noch einige Anmerkungen zum Stellenwert der Familien machen. Es mag nämlich sein - persönlich habe ich Sie dazu noch nicht gehört -, daß Sie verkehrt zitiert worden sind. Ich will Ihnen unsere Positionen zum Stellenwert der Familie in der Gesellschaft einmal deutlich darstellen. Für uns bleiben die Familien die wichtigste Einheit in unserer Gesellschaft; denn sie vermitteln die Werte und die Verhaltensweisen, ohne die eine freie und solidarische Gesellschaft nicht möglich ist.</p>
           <stage type="interjection">(Wilhelm Schmidt [Salzgitter] [SPD]: Davon hat man aber in den 16 Jahren nicht sehr viel gemerkt!)</stage>
           <p>Dazu haben wir über 16 Jahre die Grundlagen geschaffen, und dazu haben wir über 16 Jahre gestanden.</p>
           <stage type="interjection">(Zuruf von der SPD: Das sehen die Familien aber ganz anders! Sonst hätten Sie die Wahl nicht verloren!)</stage>
@@ -1449,7 +1449,7 @@
           <p>Ein Weiteres, sehr verehrte Frau Ministerin, das mir in Ihren Interviews aufgefallen ist: Sie haben sich fast ausschließlich auf die berufstätige Frau konzentriert. Ich erwarte von Ihnen Respekt auch vor anderen Lebensentwürfen. Wenn sich Frauen in der alten Bundesrepublik dazu entschieden haben, ihre Arbeitsleistung in der Familie zu erbringen und Kinder zu erziehen, dann hat das auch Ihren Respekt und Ihre Anerkennung verdient.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Ich bitte Sie, in der Zukunft mit Ihren Aussagen hierzu ein wenig vorsichtiger zu sein.</p>
-          <p>Ich will noch ganz kurz zum seniorenpolitischen Teil kommen. Ich habe mir Ihre Koalitionsvereinbarung angeschaut. Es scheint hier wenig Widersprüche zu unserer Politik zu geben, und darüber bin ich ausgesprochen froh. Denn ich denke, gerade unsere ältere Generation hat es nicht verdient, in die Mühlen der Politik zu geraten. Ich empfehle Ihnen - dieser Rat muß gestattet sein -, daß Sie den Bundesaltenplan weiter ausbauen. Ich habe 1993 die Institution der Seniorenbüros ins Leben gerufen, und wir haben mittlerweile 114 in der Bundesre- publik Deutschland. Gerade in der letzten Woche hat  eine große Veranstaltung stattgefunden, an der auch ich teilgenommen habe. Die älteren Menschen nutzen die 114 Seniorenbüros; sie treffen sich dort und bringen ihre Fähigkeiten ein. Ich bitte Sie, den Bundesaltenplan fortzuschreiben und die Seniorenbüros zu unterstützen. Bisher waren im Haushalt 30 Millionen DM veranschlagt. Ich denke, daß Sie hierfür noch ein Stück mehr einfordern müssen.</p>
+          <p>Ich will noch ganz kurz zum seniorenpolitischen Teil kommen. Ich habe mir Ihre Koalitionsvereinbarung angeschaut. Es scheint hier wenig Widersprüche zu unserer Politik zu geben, und darüber bin ich ausgesprochen froh. Denn ich denke, gerade unsere ältere Generation hat es nicht verdient, in die Mühlen der Politik zu geraten. Ich empfehle Ihnen - dieser Rat muß gestattet sein -, daß Sie den Bundesaltenplan weiter ausbauen. Ich habe 1993 die Institution der Seniorenbüros ins Leben gerufen, und wir haben mittlerweile 114 in der Bundesre- publik Deutschland. Gerade in der letzten Woche hat eine große Veranstaltung stattgefunden, an der auch ich teilgenommen habe. Die älteren Menschen nutzen die 114 Seniorenbüros; sie treffen sich dort und bringen ihre Fähigkeiten ein. Ich bitte Sie, den Bundesaltenplan fortzuschreiben und die Seniorenbüros zu unterstützen. Bisher waren im Haushalt 30 Millionen DM veranschlagt. Ich denke, daß Sie hierfür noch ein Stück mehr einfordern müssen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
           <p>Gerade 1999 - es ist das Internationale Jahr der Senioren - bietet die beste Gelegenheit, die Solidarität zwischen den Generationen verstärkt einzufordern: Denn auch durch die von Ihnen mitverursachte Diskussion um die Rentenversicherung ist ein Stück dieser Solidarität von jungen zu alten Menschen verlorengegangen. Hier ist es Ihre Aufgabe, zur Versöhnung beizutragen.</p>
           <p>Für Ihre Arbeit wünsche ich Ihnen Kraft und die Standfestigkeit, sich der Männerwelt - das hat sich gestern in der Regierungserklärung sehr deutlich gezeigt - zu widersetzen,</p>
@@ -1457,11 +1457,11 @@
           <p>so daß wir das Wort "Gedöns" für die Arbeit, die Sie leisten, nie mehr hören.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Als nächste Rednerin hat die Bundesministerin Christine Bergmann das Wort.</p>
         </sp>
-        <sp who="Dr. Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" party="SPD" name="Christine Bergmann">
+        <sp who="Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" who_original="Christine Bergmann" party="SPD" name="Christine Bergmann">
           <speaker>Dr. Christine Bergmann, Bundesministerin für Familie, Senioren, Frauen und Jugend:</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Liebe Frau Rönsch, zunächst einmal herzlichen Dank für Ihre freundlichen Wünsche. Ich weiß sie durchaus zu schätzen, auch wenn ich nicht allen Ihren Empfehlungen folgen werde. Auch dafür haben Sie sicher Verständnis.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der Abg. Christina Schenk [PDS])</stage>
@@ -1485,17 +1485,17 @@
           <stage type="interjection">(Beifall bei der SPD - Abg. Hannelore Rönsch [Wiesbaden] [CDU/CSU] meldet sich zu einer Zwischenfrage)</stage>
           <p>- Ja, gerne.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Frau Ministerin, gestatten Sie eine Zwischenfrage?</p>
         </sp>
-        <sp who="Dr. Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" party="SPD" name="Christine Bergmann">
+        <sp who="Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" who_original="Christine Bergmann" party="SPD" name="Christine Bergmann">
           <speaker>Dr. Christine Bergmann, Bundesministerin für Familie, Senioren, Frauen und Jugend:</speaker>
           <p>Aber sicher.</p>
         </sp>
-        <sp who="Hannelore Rönsch" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hannelore Rönsch">
+        <sp who="Hannelore Rönsch (Wiesbaden)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hannelore Rönsch (Wiesbaden)" party="CDU" name="Hannelore Rönsch">
           <speaker>Hannelore Rönsch (Wiesbaden) (CDU/CSU):</speaker>
-          <p>Frau Ministerin, die Genehmigung für eine Zwischenfrage gibt immer nur der Präsident. Deshalb habe ich noch  einen Augenblick gezögert.</p>
+          <p>Frau Ministerin, die Genehmigung für eine Zwischenfrage gibt immer nur der Präsident. Deshalb habe ich noch einen Augenblick gezögert.</p>
           <stage type="interjection">(Zurufe von der SPD: Wir sind hier doch nicht in der Schule! - Oberlehrerin!)</stage>
           <p>- Ich habe das nur zum Einstieg gesagt, und es war auch überhaupt nicht böse gemeint. Würden Sie nicht immer so verkniffen reagieren, hätten Sie das vielleicht auch zur Kenntnis genommen.</p>
           <stage type="interjection">(Weitere Zurufe von der SPD)</stage>
@@ -1506,7 +1506,7 @@
           <p>In Bayern, Sachsen und Baden-Württemberg wird ein eigenes Landeserziehungsgeld gezahlt. In Rheinland-Pfalz gab es das einmal, eingeführt durch die CDU. Es ist dann aber durch die von der SPD geführte Regierung abgeschafft worden. Sehen Sie Möglichkeiten, auf die von der SPD regierten Bundesländer Einfluß zu nehmen, damit es auch dort zur Entlastung der Eltern ein Landeserziehungsgeld gibt?</p>
           <stage type="interjection">(Hubert Hüppe [CDU/CSU]: Das können Sie mit Ja oder Nein beantworten!)</stage>
         </sp>
-        <sp who="Dr. Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" party="SPD" name="Christine Bergmann">
+        <sp who="Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" who_original="Christine Bergmann" party="SPD" name="Christine Bergmann">
           <speaker>Dr. Christine Bergmann, Bundesministerin für Familie, Senioren, Frauen und Jugend:</speaker>
           <p>Ja, ich kann die lange Frage in der Tat knapp beantworten: Das werde ich nicht tun. Sie haben mich ja gerade dafür gescholten, daß für mich die Erwerbsarbeit für Frauen so im Vordergrund steht. Ich werde nichts unterstützen, das Frauen noch länger vom Arbeitsmarkt fernhält, weil ich weiß, welche Konsequenzen das hat.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS - Widerspruch bei der CDU/CSU)</stage>
@@ -1524,24 +1524,24 @@
           <p>Damit gehen wir durchaus nicht gegen den Art. 6 des Grundgesetzes vor. Wir wollen auch in gar keiner Weise - ich lebe selber seit 35 Jahren in einer Ehe, die mir viel gibt - gegen eheliche Lebensgemeinschaften vorgehen. Wir tragen nur der Realität Rechnung. Es ist einfach so, daß viele Menschen in diesem Land anders zusammenleben.</p>
           <p>Für uns zählen - ich sage Ihnen das, weil Sie immer so sehr auf den Wertbegriff abstellen - Fürsorge füreinander und Verantwortung zwischen den Generationen. Diese Werte wollen wir politisch unterstützen, und diese Werte werden eben auch in unterschiedlichen Familienformen gelebt. Das ist die Realität; sie müssen wir einfach zur Kenntnis nehmen. Aber mit der Realität haben Sie sich ja schon manchmal schwergetan.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
-          <p>Wenn wir über Erziehungsurlaub reden, müssen wir natürlich auch darüber reden, wie wir ihn weiterentwickeln wollen. Wir wollen diesen Erziehungsurlaub zu  einem Elternurlaub umwandeln, damit wirklich eine partnerschaftliche Erziehung in dieser Gesellschaft möglich wird. Wir wollen ein Konto, von dem beide Elternteile, Vater und Mutter, Erziehungszeiten abrufen können, und einen Anspruch auf Teilzeitarbeit einführen, damit beide Elternteile Kindererziehung und Berufsarbeit miteinander vereinbaren können. Damit wird auch die Sorge darüber, wie man auf den Arbeitsmarkt zurückkommt, geringer. Wir wollen die Wahlfreiheit fördern. Eine partnerschaftliche Teilhabe an Familie und Beruf von Müttern und Vätern ist ein vernünftiges Modell. Dazu werden wir demnächst einen Gesetzesentwurf vorlegen. Vielleicht können wir dem auch gemeinsam zustimmen.</p>
+          <p>Wenn wir über Erziehungsurlaub reden, müssen wir natürlich auch darüber reden, wie wir ihn weiterentwickeln wollen. Wir wollen diesen Erziehungsurlaub zu einem Elternurlaub umwandeln, damit wirklich eine partnerschaftliche Erziehung in dieser Gesellschaft möglich wird. Wir wollen ein Konto, von dem beide Elternteile, Vater und Mutter, Erziehungszeiten abrufen können, und einen Anspruch auf Teilzeitarbeit einführen, damit beide Elternteile Kindererziehung und Berufsarbeit miteinander vereinbaren können. Damit wird auch die Sorge darüber, wie man auf den Arbeitsmarkt zurückkommt, geringer. Wir wollen die Wahlfreiheit fördern. Eine partnerschaftliche Teilhabe an Familie und Beruf von Müttern und Vätern ist ein vernünftiges Modell. Dazu werden wir demnächst einen Gesetzesentwurf vorlegen. Vielleicht können wir dem auch gemeinsam zustimmen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
           <p>Wir wollen auch eine Arbeitswelt, die familien- und frauenfreundlicher ist. Dafür werden wir sorgen. Ich lade alle Tarifpolitiker ein, das Ihre dazu zu tun.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Frau Ministerin, erlauben Sie eine Zwischenfrage des Kollegen Hüppe?</p>
         </sp>
-        <sp who="Dr. Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" party="SPD" name="Christine Bergmann">
+        <sp who="Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" who_original="Christine Bergmann" party="SPD" name="Christine Bergmann">
           <speaker>Dr. Christine Bergmann, Bundesministerin für Familie, Senioren, Frauen und Jugend:</speaker>
           <p>Ja. Ich halte mich jetzt an die Form. Bitte.</p>
           <stage type="interjection">(Wilhelm Schmidt [Salzgitter] [SPD]: Die Debatte muß doch nicht noch mehr verlängert werden!)</stage>
         </sp>
-        <sp who="Hubert Hüppe" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hubert Hüppe">
+        <sp who="Hubert Hüppe" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hubert Hüppe" party="CDU" name="Hubert Hüppe">
           <speaker>Hubert Hüppe (CDU/CSU):</speaker>
           <p>Frau Ministerin, vor dem Hintergrund Ihrer Aussage, daß ein Landeserziehungsgeld für das dritte Jahr nicht notwendig ist, frage ich Sie, ob Sie dann auch konsequenterweise einen Rechtsanspruch auf einen Kindergartenplatz ab dem zweiten Lebensjahr einführen und den Erziehungsurlaub von drei auf zwei Jahre kürzen wollen.</p>
         </sp>
-        <sp who="Dr. Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" party="SPD" name="Christine Bergmann">
+        <sp who="Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" who_original="Christine Bergmann" party="SPD" name="Christine Bergmann">
           <speaker>Dr. Christine Bergmann, Bundesministerin für Familie, Senioren, Frauen und Jugend:</speaker>
           <p>Ich will den Erziehungsurlaub nicht kürzen. Das ist ganz klar. Zu dem Thema Kinderbetreuung kommen wir noch. Wir haben nicht zuviel, sondern zuwenig Kinderbetreuungseinrichtungen.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
@@ -1556,7 +1556,7 @@
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS - Widerspruch bei der CDU/CSU - Walter Hirche [F.D.P.]: Das ist doch Ernstnehmen der Position!)</stage>
           <p>- Ja, das ist so. - Wenn sich kompetente Frauen zu harten Themen wie zum Beispiel zur Geldpolitik äußern, finde ich das sehr gut. Von mir aus könnte es ruhig noch mehr kompetente Frauen in diesen Bereichen geben. Das gilt auch für Frauen von Bundesministern.</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Warum hat denn dann nicht Frau Müller diesen Job übernommen?)</stage>
-          <p>Denen können wir kein Rede- oder Berufsverbot erteilen. Herr Glos, der sich ja in dieser Weise geäußert hat, </p>
+          <p>Denen können wir kein Rede- oder Berufsverbot erteilen. Herr Glos, der sich ja in dieser Weise geäußert hat,</p>
           <stage type="interjection">(Ingrid Matthäus-Maier [SPD]: Schäuble auch!)</stage>
           <p>hat, wie ich glaube, auch bei den Frauen seiner eigenen Fraktion nicht viel Zustimmung bekommen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
@@ -1580,22 +1580,22 @@
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN - Zuruf von der SPD: Leider!)</stage>
           <p>Es ist richtig, in diesem Bereich ein Gesamtpaket zu schnüren und ein ordentliches Strukturgesetz zu entwerfen, in dem all diese angesprochenen Novellierungen enthalten sind und in dem eine Leitlinie für eine moderne, zukunftsorientierte Altenpolitik festgeschrieben wird.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
-          <p>Frau Ministerin, ich bitte Sie, zum Schluß zu kommen. </p>
+          <p>Frau Ministerin, ich bitte Sie, zum Schluß zu kommen.</p>
         </sp>
-        <sp who="Dr. Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" party="SPD" name="Christine Bergmann">
+        <sp who="Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" who_original="Christine Bergmann" party="SPD" name="Christine Bergmann">
           <speaker>Dr. Christine Bergmann, Bundesministerin für Familie, Senioren, Frauen und Jugend:</speaker>
           <p>Ja, ich komme zum Schluß.</p>
           <p>Die zentralen Leitlinien unserer Politik sind die Bekämpfung von Armut, die Durchsetzung der tatsächlichen Gleichstellung von Frauen und Männern, die Ächtung und Bekämpfung jeder Form von Gewalt und sozialer Ausgrenzung. Ich bitte Sie dabei um Ihre Unterstützung. Viele Menschen im Lande warten darauf, daß auf diesem Feld endlich wieder Politik stattfindet.</p>
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Als nächste Rednerin hat die Kollegin Ina Lenke von der F.D.P.-Fraktion das Wort.</p>
         </sp>
-        <sp who="Ina Lenke" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Ina Lenke">
+        <sp who="Ina Lenke" parliamentary_group="FDP" role="mp" position="NA" who_original="Ina Lenke" party="FDP" name="Ina Lenke">
           <speaker>Ina Lenke (F.D.P.):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Ganz zu Anfang möchte ich bemerken: Mir ist aufgefallen, daß Kanzler Schröder kein sehr großes Interesse an diesem Bereich der Politik hat.</p>
           <stage type="interjection">(Widerspruch bei der SPD)</stage>
@@ -1636,12 +1636,12 @@
           <p>Recht herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das war die Jungfernrede von Frau Lenke. Vielen Dank.</p>
           <p>Als nächste Rednerin hat die Kollegin Irmingard Schewe-Gerigk vom Bündnis 90/Die Grünen das Wort.</p>
         </sp>
-        <sp who="Irmingard Schewe-Gerigk" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Irmingard Schewe-Gerigk">
+        <sp who="Irmingard Schewe-Gerigk" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Irmingard Schewe-Gerigk" party="GRUENE" name="Irmingard Schewe-Gerigk">
           <speaker>Irmingard Schewe-Gerigk (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Darauf haben die Frauen der Republik lange warten müssen: auf den Paradigmenwechsel in der Frauenpolitik. Schluß mit Politikersatz durch Modellprojekte und Broschüren! Schluß mit der Heim und Herdpolitik, mit der Ehefrau als Zuverdienerin! Statt dessen heißen die Stichworte materielle Unabhängigkeit, gleichberechtigter Zugang zur Erwerbsarbeit und gerechte Verteilung der Familienarbeit zwischen Männern und Frauen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der PDS)</stage>
@@ -1659,7 +1659,7 @@
           <p>Für Opfer von Frauenhandel wird es ein Zeuginnenschutzprogramm und einen besseren rechtlichen Schutz durch die Erweiterung der entsprechenden Definition im Strafrecht geben. Wir dürfen nicht länger zulassen, daß die Rechtlosigkeit der Opfer zum besten Täterschutz wird.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der PDS)</stage>
           <p>Auch die rechtliche und soziale Diskriminierung des ältesten Gewerbes der Welt wird zu Beginn des dritten Jahrtausends endlich beseitigt. Ich freue mich sehr, daß die F.D.P. hier auf unserer Seite ist.</p>
-          <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der  F.D.P. und der PDS)</stage>
+          <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der F.D.P. und der PDS)</stage>
           <p>Aber es gibt auch Punkte, angesichts deren wir den Koalitionsvertrag weiterentwickeln müssen. Nicht akzeptabel ist für uns, daß die Verfolgung auf Grund des Geschlechts immer noch nicht generell als Asylgrund anerkannt wird. Es wäre für die Bundesregierung ein guter Start gewesen, Frauen, die im Krieg Vergewaltigung oder Zwangsabtreibung erlitten haben oder wegen anderer frauenspezifischer Verfolgung wie zum Beispiel genitaler Verstümmelung aus ihrer Heimat flüchten, generell politisches Asyl zu gewähren, wie es andere Staaten tun.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD - Beifall bei der F.D.P. und der PDS)</stage>
           <p>Daß ausländische Ehefrauen hier nicht sofort ein vom Ehemann unabhängiges Aufenthaltsrecht erhalten und Opfer von Menschenhandel bisher nur - ich muß leider aus den Koalitionsverhandlungen zitieren - "gegebenenfalls" eine Duldung bis zum Ende des Gerichtsverfahrens erlangen können, entspricht nicht bündnisgrünen Vorstellungen.</p>
@@ -1685,11 +1685,11 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der PDS)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt die Kollegin Petra Bläss von der PDS-Fraktion.</p>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="PDS" role="mp" position="NA" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Petra Bläss (PDS):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Ja, es waren vor allem Frauen, die am 27. September der neoliberalen Regierungskoalition und einer in die Sackgasse geratenen konservativen Frauen- und Familienpolitik eine klare Absage erteilt haben. Zu groß war am Ende der Ära Kohl die Kluft zwischen dem Pochen auf traditionelle Werte, den gerade hier zu gern gehaltenen Sonntagsreden und der Alltagserfahrung von Millionen von Frauen in diesem Land.</p>
           <p>Die anhaltende Frauenerwerbslosigkeit und -dequalifizierung, die wachsende Zahl ungeschützter Beschäftigungsverhältnisse, die Frauendiskriminierung im Arbeits- und Sozialrecht, die fehlende eigenständige Existenzsicherung und Anerkennung der Lebensleistung im Alter, völlig unzureichende Bedingungen für die Vereinbarkeit von Berufstätigkeit und Elternschaft sowie die Tatsache, daß es immer noch ein Armutsrisiko in diesem reichen Land ist, Kinder zu haben, machen den politischen Handlungsbedarf deutlich und die großen Erwartungen an einen rotgrünen Kurswechsel gerade in der Frauen- und Familienpolitik verständlich.</p>
@@ -1719,20 +1719,20 @@
           <stage type="interjection">(Beifall bei der PDS - Zuruf von der CDU/ CSU: Was ist mit den Kindern?)</stage>
           <p>Hier liegt der eigentliche politische Handlungsbedarf - NA</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Frau Kollegin, kommen Sie bitte allmählich zum Schluß.</p>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="PDS" role="mp" position="NA" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Petra Bläss (PDS):</speaker>
           <p>- ja, ich bin sofort fertig -, aber auch die Chance, mit neuen Mehrheiten einen Strafrechtsparagraphen dorthin zu befördern, wo er hingehört: auf den Müllhaufen der Geschichte.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat als nächste Rednerin die Kollegin Maria Eichhorn von der CDU/CSU-Fraktion.</p>
         </sp>
-        <sp who="Maria Eichhorn" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Maria Eichhorn">
+        <sp who="Maria Eichhorn" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Maria Eichhorn" party="CSU" name="Maria Eichhorn">
           <speaker>Maria Eichhorn (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Die Aussage des jetzigen Bundeskanzlers vor einigen Wochen über den Aufgabenbereich von Familien-, Senioren-, Frauen- und Jugendpolitik - er hat sie als "sonstiges Gedöns" bezeichnet - war wohl wirklich ernst gemeint. Denn die Regierungserklärung dazu war sehr deutlich: nur sehr wenige und dann noch unverbindliche Aussagen.</p>
           <p>Frau Ministerin, ich habe heute die Regierungserklärung nochmals nachgelesen, weil ich dachte, ich hätte vielleicht das eine oder andere überhört. Es finden sich dazu nur ganz wenige Sätze - leider. Kein Wort zum Stellenwert der Familie, dafür aber wurde das Ziel in der Koalitionsvereinbarung genannt, daß alle auf Dauer angelegten Lebensformen künftig Anspruch auf Schutz und Rechtssicherheit haben. Soll das die neue Familienpolitik sein?</p>
@@ -1765,11 +1765,11 @@
           <p>Meine Damen und Herren, die Wählerinnen und Wähler werden die Arbeit von Rotgrün nicht mehr wie bisher an Worten, sondern jetzt an Taten messen. Wir werden Ihre Politik in dieser Legislaturperiode kritisch begleiten.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Als letzte Rednerin hat die Kollegin Hildegard Wester von der SPD-Fraktion das Wort.</p>
         </sp>
-        <sp who="Hildegard Wester" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hildegard Wester">
+        <sp who="Hildegard Wester" parliamentary_group="SPD" role="mp" position="NA" who_original="Hildegard Wester" party="SPD" name="Hildegard Wester">
           <speaker>Hildegard Wester (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Am 27. September dieses Jahres haben die Bürgerinnen und Bürger sehr deutlich gemacht, daß sie einen Politikwechsel wünschen. Dieses Ereignis hat unter anderem dazu geführt, daß wir gestern die Regierungserklärung des Bundeskanzlers Schröder zur Kenntnis nehmen durften - wir natürlich sehr erfreut. Ich höre aber, daß einige Kolleginnen hier im Hause wesentliche Kapitel vermissen, die sich mit der Stellung der Frau in der Gesellschaft beschäftigen, was bei uns natürlich auf völliges Unverständnis stößt. Denn ich lese sehr wohl - und habe das auch gehört -, daß Herr Schröder sehr Wesentliches zu dieser Position gesagt hat. Aber ich kann sehr gut nachvollziehen, daß Sie damit nicht sehr einverstanden sind; denn es hat sehr viel mit Ihrem Rollenverständnis zu tun.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
@@ -1813,11 +1813,11 @@
           <stage type="interjection">(Beifall bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
           <p>Dabei ist die finanzielle Ausstattung nur ein Teil einer erfolgreichen Kinder- und Jugendpolitik. Die Ministerin wird die Diskussion über den Zehnten Kinder- und Jugendbericht aufnehmen und Handlungsschritte aus den Empfehlungen der Sachverständigen ableiten. Das begrüßen wir sehr, weil sich die Auseinandersetzung über diesen Bericht bisher im Wegleugnen der Armut erschöpft hat.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Frau Kollegin, kommen Sie allmählich zum Schluß, bitte.</p>
         </sp>
-        <sp who="Hildegard Wester" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hildegard Wester">
+        <sp who="Hildegard Wester" parliamentary_group="SPD" role="mp" position="NA" who_original="Hildegard Wester" party="SPD" name="Hildegard Wester">
           <speaker>Hildegard Wester (SPD):</speaker>
           <p>Aufbruch in der Kinder- und Jugendpolitik bedeutet nicht nur, die Förderschwerpunkte des Kinder- und Jugendplanes zu überarbeiten. Er bedeutet auch, Kinderrechte gesetzlich zu verankern und die politische Teilhabe von Jugendlichen zu fördern und ihnen mit dem Bündnis für Arbeit und Ausbildung Perspektiven am Arbeitsplatz zu eröffnen.</p>
           <p>Es reicht eben nicht, weder in der Kinder- und Jugend- noch in der Seniorenpolitik, zu der ich jetzt aus Zeitgründen nicht mehr komme, hohle Worte und Versprechungen bei Sonntagsreden zu besonderen Anlässen von sich zu geben. Frau Nolte hat die Quittung dafür bekommen, daß sie sich mit symbolischer Politik begnügt hat. Nun ist es Zeit, Taten folgen zu lassen.</p>
@@ -1826,12 +1826,13 @@
           <p>Ich bedanke mich.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN sowie bei Abgeordneten der F.D.P. und der PDS)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Für die heutige Sitzung liegen keine weiteren Wortmeldungen vor.</p>
           <p>Bevor ich die Sitzung schließe, teile ich mit, daß der heute morgen eingesetzte Ausschuß für Fremdenverkehr und Tourismus auf Grund einer interfraktionellen Vereinbarung den Namen "Ausschuß für Tourismus" tragen soll. Sind Sie damit einverstanden? - Ich gehe davon aus. Dann ist das so beschlossen.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf morgen, Donnerstag, den 12. November 1998, 9 Uhr ein.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluß der Sitzung: 14.45 Uhr)</stage>
         </sp>
       </div>
     </body>

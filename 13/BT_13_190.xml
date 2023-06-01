@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-06</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2005/1205/bic/plenarprotokolle/pp/1997/13190a.zip</url>
-        <date>2015-10-20 19:19:25</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -36,7 +36,7 @@
   <text>
     <body>
       <div type="agenda_item" n="1" what="debate" desc="a) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Geset...">
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Die Sitzung ist eröffnet. Liebe Kolleginnen und Kollegen, ich wünsche einen guten Morgen.</p>
           <p>Zunächst komme ich zu dem, was noch mitzuteilen ist. Interfraktionell ist vereinbart worden, die heutige Tagesordnung um den Antrag der Fraktion Bündnis 90/Die Grünen zur umweltorientierten Neuausrichtung des Pflanzenschutzgesetzes, Drucksache 13/8505, zu erweitern.</p>
@@ -44,7 +44,7 @@
           <p>Des weiteren soll eine Beschlußempfehlung des Auswärtigen Ausschusses auf Drucksache 13/8093, die je einen Antrag der Fraktionen der CDU/CSU, SPD und F.D.P. und der Fraktion Bündnis 90/Die Grünen zur Lage der Kosovo-Albaner betrifft, an den Auswärtigen Ausschuß zurücküberwiesen werden. Sind Sie mit diesen Vereinbarungen einverstanden? -- Dann verfahren wir so.</p>
           <p>Ich rufe nun Punkt 1 der Tagesordnung auf:</p>
           <p>a) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 1998</p>
-          <stage type="interjection">(Haushaltsgesetz 1998)</stage>
+          <p>(Haushaltsgesetz 1998)</p>
           <p>-- Drucksache 13/8200 --</p>
           <p>Überweisungsvorschlag:</p>
           <p>Haushaltsausschuß</p>
@@ -56,7 +56,7 @@
           <p>Damit setzen wir die Haushaltsberatungen fort und kommen zur Schlußrunde. Ich erinnere daran, daß wir am Dienstag für die heutige Aussprache zwei Stunden beschlossen haben.</p>
           <p>Die Debatte eröffnet der Kollege Karl Diller.</p>
         </sp>
-        <sp who="Karl Diller" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Karl Diller">
+        <sp who="Karl Diller" parliamentary_group="SPD" role="mp" position="NA" who_original="Karl Diller" party="SPD" name="Karl Diller">
           <speaker>Karl Diller (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Die Kommentare in den Zeitungen über die Haushaltsdebatte dieser Woche sind eindeutig: Die ganze Regierung einschließlich des Kanzlers wirke nur noch grau und von gestern. Eine bleierne Rede des Bundesfinanzministers, ein fahriger, rückwärtsgewandter Kanzler blieben ohne Überzeugungskraft, selbst in den Reihen der Koalition. Meine Damen und Herren, bei Ihnen herrscht zu Recht Endzeitstimmung.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der PDS -- Zuruf von der CDU/CSU: Wo waren Sie denn?)</stage>
@@ -167,39 +167,39 @@
           <p>Im Klartext heißt das für das nächste Jahrzehnt: Die Defizite der Postpensionskassen von 7 Milliarden DM müssen bereits in zweieinhalb Jahren aus dem Bundeshaushalt finanziert werden. Dafür haben Sie keine einzige D-Mark vorgesehen.</p>
           <p>Es kann noch schlimmer kommen. Denn im Vertrag mit der Kreditanstalt für Wiederaufbau haben Sie den Bund verpflichtet, unter bestimmten Bedingungen das Aktienpaket von der Kreditanstalt wieder zurückzukaufen. Das ist doch ein absolut unverantwortlicher Vertrag. Denn wie anders als über neue Schulden könnte dieser zweistellige Milliardenbetrag ab dem Jahre 2000 finanziert werden?</p>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Kollege Diller, gestatten Sie eine Zwischenfrage des Kollegen Weng?</p>
         </sp>
-        <sp who="Karl Diller" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Karl Diller">
+        <sp who="Karl Diller" parliamentary_group="SPD" role="mp" position="NA" who_original="Karl Diller" party="SPD" name="Karl Diller">
           <speaker>Karl Diller (SPD):</speaker>
           <p>Bitte sehr.</p>
         </sp>
-        <sp who="Dr. Wolfgang Weng" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Wolfgang Weng">
+        <sp who="Wolfgang Weng (Gerlingen)" parliamentary_group="FDP" role="mp" position="NA" who_original="Wolfgang Weng (Gerlingen)" party="FDP" name="Wolfgang Weng">
           <speaker>Dr. Wolfgang Weng (Gerlingen) (F.D.P.):</speaker>
           <p>Herr Kollege Diller, auch wenn ich mir den Unmut der Kollegen zuziehe, weil ich Ihnen die Möglichkeit gebe, vom Text abzuweichen:</p>
           <stage type="interjection">(Heiterkeit bei der F.D.P. und der CDU/CSU -- Ingrid Matthäus-Maier [SPD]: Sie Superredner, Sie!)</stage>
           <p>Sie haben hier erneut die Behauptung in den Raum gestellt -- wie auch schon andere Sprecher Ihrer Fraktion --, die Teilprivatisierung der Deutschen Telekom werde die Pensionsverpflichtungen auf den Bundeshaushalt verlagern. Sind Sie bereit, zur Kenntnis zu nehmen, daß diese Behauptung deswegen unwahr ist, weil die verbleibenden Anteile des Bundes für diesen Bedarf über einen langen Zeitraum ausreichen?</p>
           <stage type="interjection">(Ingrid Matthäus-Maier [SPD]: Das wird aber sehr bezweifelt!)</stage>
         </sp>
-        <sp who="Karl Diller" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Karl Diller">
+        <sp who="Karl Diller" parliamentary_group="SPD" role="mp" position="NA" who_original="Karl Diller" party="SPD" name="Karl Diller">
           <speaker>Karl Diller (SPD):</speaker>
           <p>Herr Kollege Dr. Weng, wie Sie genau wissen, werden zur Zeit die auf den Bund entfallenden Verpflichtungen für die Pensionskassen ganz elegant aus dem Dividendenaufkommen der Telekom finanziert, ohne jede Belastung des Bundeshaushaltes. Mit dem, was Sie ab dem Jahre 2000 noch als Aktienbesitz haben werden, werden Sie das überhaupt nicht mehr schaffen können. Deshalb wird der Bund verpflichtet sein, seinen Anteil an den Telekom-Aktien zu verkaufen. Dies wird er dann aber nicht können, weil das mit der Zeit kollidieren wird, in der die Kreditanstalt für Wiederaufbau das bei ihr liegende Aktienpaket auf den Markt zu bringen versuchen wird. Wenn von dieser Seite und von der Seite des Bundes dann zur gleichen Zeit riesige Aktienpakete auf den Markt kämen, würde das nur zu einem Kursverlust und zu einem Wertverlust insgesamt führen, und das können wir uns nicht erlauben. Deswegen wird die Belastung am Schluß beim Bundeshaushalt enden, und das ist das Schändliche an Ihrer Politik.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Diller, es gibt den Wunsch nach einer weiteren Zusatzfrage. Lassen Sie auch die zu?</p>
         </sp>
-        <sp who="Karl Diller" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Karl Diller">
+        <sp who="Karl Diller" parliamentary_group="SPD" role="mp" position="NA" who_original="Karl Diller" party="SPD" name="Karl Diller">
           <speaker>Karl Diller (SPD):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Dr. Wolfgang Weng" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Wolfgang Weng">
+        <sp who="Wolfgang Weng (Gerlingen)" parliamentary_group="FDP" role="mp" position="NA" who_original="Wolfgang Weng (Gerlingen)" party="FDP" name="Wolfgang Weng">
           <speaker>Dr. Wolfgang Weng (Gerlingen) (F.D.P.):</speaker>
           <p>Herr Kollege Diller, sind Sie bereit, zur Kenntnis zu nehmen, daß ich das für eine abenteuerliche Konstruktion halte, die den Tatsachen und der Entwicklung nicht Rechnung tragen wird, und Sie hier insofern auf einer unwahrhaftigen Basis argumentieren?</p>
         </sp>
-        <sp who="Karl Diller" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Karl Diller">
+        <sp who="Karl Diller" parliamentary_group="SPD" role="mp" position="NA" who_original="Karl Diller" party="SPD" name="Karl Diller">
           <speaker>Karl Diller (SPD):</speaker>
           <p>Das behauptet derjenige,</p>
           <stage type="interjection">(Helmut Wieczorek [Duisburg] [SPD]: Der Schulden gemacht hat!)</stage>
@@ -208,11 +208,11 @@
           <p>und prüft, damit nicht seinen Aufgaben nachkommt, sondern hinterher nur immer die Schuld beim Finanzminister sieht! Sie, Herr Dr. Weng, tragen eine Mitverantwortung, denn Sie haben die schändliche Politik von Herrn Waigel mitgetragen. Deswegen wundert mich bei Ihren Einschätzungen überhaupt nichts mehr.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der PDS -- Ingrid Matthäus-Maier [SPD]: Sehr gut!)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Es gibt noch eine Frage vom Kollegen Riedl.</p>
         </sp>
-        <sp who="Dr. Erich Riedl" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Erich Riedl">
+        <sp who="Erich Riedl (München)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Erich Riedl (München)" party="CSU" name="Erich Riedl">
           <speaker>Dr. Erich Riedl (München) (CDU/CSU):</speaker>
           <p>Herr Kollege Diller, da ich dem Haushaltsausschuß schon seit 1970 angehöre</p>
           <stage type="interjection">(Zuruf des Abg. Dietrich Austermann [CDU/CSU])</stage>
@@ -221,7 +221,7 @@
           <p>Sind Sie mit mir nicht der Meinung, daß es kein guter Stil ist, wenn Sie ausgerechnet ihm, den ich oft wegen seines Fleißes bewundere -- man kann in der Sache manchmal anderer Meinung sein --, hier vorhalten, er sei kaum im Haushaltsausschuß? Herr Kollege Diller, ich mache keine Gegenrechnung auf. Auch Sie sind fleißig. Aber ich kenne welche, die nicht so fleißig sind wie Sie und Herr Kollege Weng.</p>
           <stage type="interjection">(Dr. Guido Westerwelle [F.D.P.]: Sag ihm, daß er fleißig ist!)</stage>
         </sp>
-        <sp who="Karl Diller" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Karl Diller">
+        <sp who="Karl Diller" parliamentary_group="SPD" role="mp" position="NA" who_original="Karl Diller" party="SPD" name="Karl Diller">
           <speaker>Karl Diller (SPD):</speaker>
           <p>Herr Kollege Dr. Riedl, ich bestätige Ihnen gerne, daß Herr Kollege Dr. Weng zu den ständigen Teilnehmern an Haushaltsausschußsitzungen gehört,</p>
           <stage type="interjection">(Heiterkeit)</stage>
@@ -260,9 +260,9 @@
           <stage type="interjection">(Beifall bei der SPD sowie der Abg. Antje Hermenau [BÜNDNIS 90/DIE GRÜNEN])</stage>
           <p>Unser Konzept einer Steuer- und Abgabenreform ist kein Allheilmittel. Es ist aber -- davon bin ich überzeugt -- ein auf die finanziellen Möglichkeiten des Staates abgestimmter Schritt in die richtige Richtung, der zu mehr Steuergerechtigkeit und zu mehr Beschäftigung führen wird und so dazu beiträgt, die Finanzprobleme des Staates zu überwinden.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der PDS)</stage>
-          <p>Präsidentin Dr. Rita Süssmuth  In der Debatte spricht jetzt der Kollege Peter Jacoby.</p>
+          <p>Präsidentin Dr. Rita Süssmuth In der Debatte spricht jetzt der Kollege Peter Jacoby.</p>
         </sp>
-        <sp who="Peter Jacoby" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Jacoby">
+        <sp who="Peter Jacoby" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Jacoby" party="CDU" name="Peter Jacoby">
           <speaker>Peter Jacoby (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Am Ende dieser Haushaltswoche und mit Blick auf die Diskussion, die auch über diesen Raum hinaus in Deutschland stattfindet, möchte ich zunächst einmal sagen: Wir haben es in unserem Land ganz offensichtlich mit zwei unterschiedlichen sozialdemokratischen Parteien zu tun.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
@@ -294,36 +294,36 @@
           <p>Es haut einen fast vom Sockel, wenn man sich einmal anschaut, was der Ministerpräsident von Niedersachsen dieser Tage in Dresden gesagt hat zum notwendigen Kurs von mehr Wettbewerb, mehr Liberalisierung und mehr Privatisierung, was nachgeahmt werden soll im Blick auf die Telekommunikation. Das sei ein guter Weg gewesen, der, wie ich hinzufüge, gegen Ihren hartnäckigen Widerstand durchgesetzt worden ist. Ich finde, Sie sollten sich, Kollege Diller, auf die Höhe der programmatischen Diskussion bringen, wenn -- wie im Moment -- Haushaltsdebatten im Deutschen Bundestag zu führen sind.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Jacoby, gestatten Sie eine Zwischenfrage des Kollegen Schily?</p>
         </sp>
-        <sp who="Peter Jacoby" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Jacoby">
+        <sp who="Peter Jacoby" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Jacoby" party="CDU" name="Peter Jacoby">
           <speaker>Peter Jacoby (CDU/CSU):</speaker>
           <p>Jawohl.</p>
         </sp>
-        <sp who="Otto Schily" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Otto Schily">
+        <sp who="Otto Schily" parliamentary_group="SPD" role="mp" position="NA" who_original="Otto Schily" party="SPD" name="Otto Schily">
           <speaker>Otto Schily (SPD):</speaker>
           <p>Herr Kollege, man kann über diese Fragen sehr nüchtern diskutieren. Sie haben eine Beziehung hergestellt zwischen Schulden und Rendite, wenn ich das Zitat richtig verstanden habe,</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Wahrscheinlich nicht!)</stage>
           <p>das besagt, ein Verkauf wäre dann geboten, wenn der Vermögenswert nicht eine ordentliche Rendite abwirft. Da schließt sich doch die Frage an: Wer soll es denn eigentlich kaufen, wenn keine vernünftige Rendite vorhanden ist?</p>
           <stage type="interjection">(Zurufe der CDU/CSU und F.D.P.: Oh!)</stage>
         </sp>
-        <sp who="Peter Jacoby" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Jacoby">
+        <sp who="Peter Jacoby" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Jacoby" party="CDU" name="Peter Jacoby">
           <speaker>Peter Jacoby (CDU/CSU):</speaker>
           <p>Kollege Schily, wir haben gerade in der letzten Woche erlebt, daß die Privatisierung der Lufthansa auch unter ökonomischen und finanzpolitischen Gesichtspunkten ein Erfolg allererster Güte war.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU -- Dr. Guido Westerwelle [F.D.P.]: Als wenn man nur Unternehmen verkaufen könnte, die Gewinne abwerfen!)</stage>
           <p>Insofern geht Ihre Frage am Kern der Sache vorbei.</p>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Nächste Frage, Dr. Weng.</p>
         </sp>
-        <sp who="Dr. Wolfgang Weng" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Wolfgang Weng">
+        <sp who="Wolfgang Weng (Gerlingen)" parliamentary_group="FDP" role="mp" position="NA" who_original="Wolfgang Weng (Gerlingen)" party="FDP" name="Wolfgang Weng">
           <speaker>Dr. Wolfgang Weng (Gerlingen) (F.D.P.):</speaker>
           <p>Herr Kollege Jacoby, Sie haben den Ministerpräsidenten von Niedersachsen im Zusammenhang mit der Privatisierung zitiert. Ist Ihnen bekannt, ob sich das Land Niedersachsen, das seinerzeit die VW-Anteile nicht privatisiert hat wie der Bund, an der kommenden Kapitalerhöhung von VW beteiligen wird bei hohen zusätzlichen Schulden, was dann aus dem Haushalt finanziert werden muß? Das rentiert sich finanziell nicht. Oder wird der Ministerpräsident von Niedersachsen, nachdem er das öffentlich äußert -- wie so manches, was im Moment populär erscheint --, den Weg der Privatisierung der Restbeteiligung des Landes Niedersachsen an VW gehen?</p>
         </sp>
-        <sp who="Peter Jacoby" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Jacoby">
+        <sp who="Peter Jacoby" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Jacoby" party="CDU" name="Peter Jacoby">
           <speaker>Peter Jacoby (CDU/CSU):</speaker>
           <p>Ihre Frage, Kollege Weng, gibt mir Veranlassung, darauf hinzuweisen, daß es natürlich einen sehr nachhaltigen Widerspruch gibt zwischen dem, was der Ministerpräsident von Niedersachsen an neuen ordnungspolitischen Überlegungen propagiert, und dem, was in der eigenen Verantwortung geschieht, sowohl in der Verantwortung des Landes wie auch in der Verantwortung etwa der Landesregierung im Bundesrat, im Vermittlungsausschuß und darüber hinaus. Es klaffen Welten zwischen Anspruch und Wirklichkeit.</p>
           <p>Dennoch sollte man den Mann beim Wort nehmen. Man sollte sich auf das beziehen, was er propagiert; denn womit sollte man sich denn auseinandersetzen angesichts dessen, was wir in dieser Woche in der Haushaltsdebatte des Deutschen Bundestages an unterschiedlichen, widersprüchlichen Akzentsetzungen jeweils erlebt haben?</p>
@@ -347,12 +347,12 @@
           <p>Alles in allem, meine Damen und Herren, eine Haushaltswoche, die deutlich gemacht hat: Wir sind mit ganz unterschiedlichen Positionen aus Ihrem Bereich konfrontiert. Wir wünschen, daß sich diejenigen durchsetzen, die mit uns der Auffassung sind, daß Modernisierung, Erneuerung und Zielorientierung im Blick auf die Zukunft der richtige Weg sind. Wir laden Sie ein, in den anstehenden Verhandlungen der nächsten Tage, der nächsten Woche mitzuhelfen, damit das, was als notwendig und richtig erkannt worden ist, auch entsprechend umgesetzt werden kann. Alle in unserem Land werden davon profitieren.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Die nächste Rednerin ist die Kollegin Kristin Heyne.</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Das Wichtigste haben wir gehört!)</stage>
         </sp>
-        <sp who="Kristin Heyne" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Kristin Heyne">
+        <sp who="Kristin Heyne" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Kristin Heyne" party="GRUENE" name="Kristin Heyne">
           <speaker>Kristin Heyne (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Lieber Kollege Jacoby, es ist bezeichnend, wenn Sie als Haushälter in der Haushaltswoche reden und zu dem konkret vorliegenden Haushaltsplan nicht ein Wort verlieren.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der PDS)</stage>
@@ -374,19 +374,19 @@
           <p>Diese unsinnige Finanzakrobatik ist eben nicht gemeint, wenn im Maastricht-Vertrag von nachhaltiger Haushaltskonsolidierung die Rede ist. Die Erfolge, die diese Regierung unbestreitbar mit dem Maastricht-Vertrag errungen hat, nämlich eine gemeinsame europäische Konsolidierungspolitik, werden jetzt dadurch gefährdet, daß sie sich bei den Finanzen unsolide gebärdet. Diese Finanzpolitik ist das Gegenteil von nachhaltiger Politik, sie ist kurzatmig und zukunftsschädigend.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und der PDS)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Frau Heyne, gestatten Sie eine Zwischenfrage des Kollegen Kalb?</p>
         </sp>
-        <sp who="Kristin Heyne" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Kristin Heyne">
+        <sp who="Kristin Heyne" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Kristin Heyne" party="GRUENE" name="Kristin Heyne">
           <speaker>Kristin Heyne (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Bartholomäus Kalb" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Bartholomäus Kalb">
+        <sp who="Bartholomäus Kalb" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Bartholomäus Kalb" party="CSU" name="Bartholomäus Kalb">
           <speaker>Bartholomäus Kalb (CDU/CSU):</speaker>
           <p>Frau Kollegin, habe ich Sie richtig verstanden, daß Sie über den Haushalt 1998 gesprochen haben, und bestätigen Sie bitte, daß das Referenzjahr für Maastricht das Jahr 1997 ist?</p>
         </sp>
-        <sp who="Kristin Heyne" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Kristin Heyne">
+        <sp who="Kristin Heyne" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Kristin Heyne" party="GRUENE" name="Kristin Heyne">
           <speaker>Kristin Heyne (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Lieber Kollege, Sie wissen doch, daß im Frühjahr 1998 über die Teilnahme an der Währungsunion entschieden wird. Selbstverständlich wird man bei der Gesamteinschätzung dann auch auf die 1998er Haushalte sehen. Sie basteln jetzt einen schönen Haushalt, weil Sie im Frühjahr 1998 noch nicht nachweisen müssen, ob Sie das wirklich einhalten können, was Sie hier an "Schönheiten" hineingeschrieben haben.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
@@ -433,11 +433,11 @@
           <p>Der Haushalt 1998 ist ein Abbild dieser Regierung. Er verschiebt Lasten in die Zukunft, er ist unseriös, er ist unfähig, Zukunft zu gestalten. Ziehen Sie diesen Haushalt zurück und geben Sie den Weg frei für eine andere Regierung!</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und der PDS)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Das Wort hat der Kollege Guido Westerwelle.</p>
         </sp>
-        <sp who="Dr. Guido Westerwelle" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Guido Westerwelle">
+        <sp who="Guido Westerwelle" parliamentary_group="FDP" role="mp" position="NA" who_original="Guido Westerwelle" party="FDP" name="Guido Westerwelle">
           <speaker>Dr. Guido Westerwelle (F.D.P.):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren Kollegen! Die Haushaltswoche ist eigentlich eine Gelegenheit für die Opposition, mit eigenen Alternativen und Konzepten zu überzeugen und sich mit einem eigenen Programm als kommende Regierung zu empfehlen. Diese Gelegenheit haben Sie verpaßt. Obwohl Ihnen die Koalition in diesem Sommer wahrlich unnötige Vorlagen geboten hat, haben Sie in dieser Woche keine dieser Vorlagen in Tore verwandelt.</p>
           <p>Sie haben sich bemüht, Schwächen aufzuzeigen. Aber Sie haben sich nicht als kommende Regierung empfohlen, weil es Ihnen an einem politischen Konzept und Programm fehlt. Hier und da einen Fehler der Regierung oder einen Widerspruch zwischen den Koalitionsparteien zu entdecken reicht nicht aus, um die Regierung in diesem Lande zu übernehmen.</p>
@@ -465,20 +465,20 @@
           <p>Der Unterschied zwischen New Labour und alter SPD ist: Tony Blair hat seine Partei erst erneuert und wollte dann regieren. Oskar Lafontaine will erst regieren und die Partei kein bißchen erneuern.</p>
           <stage type="interjection">(Beifall bei der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Kollege Westerwelle, gestatten Sie eine Zwischenfrage der Abgeordneten Ingrid Matthäus-Maier?</p>
         </sp>
-        <sp who="Dr. Guido Westerwelle" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Guido Westerwelle">
+        <sp who="Guido Westerwelle" parliamentary_group="FDP" role="mp" position="NA" who_original="Guido Westerwelle" party="FDP" name="Guido Westerwelle">
           <speaker>Dr. Guido Westerwelle (F.D.P.):</speaker>
           <p>Bitte sehr.</p>
         </sp>
-        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ingrid Matthäus-Maier">
+        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" who_original="Ingrid Matthäus-Maier" party="SPD" name="Ingrid Matthäus-Maier">
           <speaker>Ingrid Matthäus-Maier (SPD):</speaker>
           <p>Herr Kollege Westerwelle, da Sie Tony Blair so für sich reklamieren, darf ich Sie fragen: Ist Ihnen bekannt, daß Tony Blair gerade in diesen Tagen ein Sonderprogramm zur Bekämpfung der Jugendarbeitslosigkeit für 250 000 Jugendliche aufgelegt hat, finanziert mit einer Sondersteuer? Darf ich Ihr Zitieren von Tony Blair so verstehen, daß Sie Ihren Widerstand -- als F.D.P. und in der Koalition -- gegen ein solches Programm in Deutschland endlich aufgeben?</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS -- Wolf-Michael Catenhusen [SPD]: Zur Sache, Schätzchen!)</stage>
         </sp>
-        <sp who="Dr. Guido Westerwelle" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Guido Westerwelle">
+        <sp who="Guido Westerwelle" parliamentary_group="FDP" role="mp" position="NA" who_original="Guido Westerwelle" party="FDP" name="Guido Westerwelle">
           <speaker>Dr. Guido Westerwelle (F.D.P.):</speaker>
           <p>Frau Kollegin Matthäus-Maier, da Sie mich in Ihrer Rede mit einem Schüttelreim belegt haben, möchte auch ich Ihnen so antworten: Es ist doch stets die alte Leier, was uns da fragt Matthäus-Maier!</p>
           <stage type="interjection">(Heiterkeit und Beifall bei der F.D.P.)</stage>
@@ -491,103 +491,103 @@
           <p>Es gibt eine interessante neue Ausrichtung: Während zu Beginn dieses Jahres die Reformen von der Mehrheit der Bevölkerung als Bedrohung empfunden wurden, ist es heute der Reformstau, vor dem sich die Menschen fürchten. Die meisten Menschen spüren: Das größere Risiko liegt heute nicht darin, das Bestehende zu verändern, sondern darin, es nicht zu tun. Willy Brandt warb 1972 mit dem Slogan: "Wer morgen sicher leben will, muß heute für Reformen kämpfen." Daran sollten sich die Besitzstandsparteien SPD und Grüne heute ein Beispiel nehmen.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Westerwelle, gestatten Sie eine weitere Zwischenfrage des Kollegen Jens?</p>
         </sp>
-        <sp who="Dr. Guido Westerwelle" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Guido Westerwelle">
+        <sp who="Guido Westerwelle" parliamentary_group="FDP" role="mp" position="NA" who_original="Guido Westerwelle" party="FDP" name="Guido Westerwelle">
           <speaker>Dr. Guido Westerwelle (F.D.P.):</speaker>
           <p>Aber gerne. Es ist mir ein größeres Vergnügen.</p>
         </sp>
-        <sp who="Dr. Uwe Jens" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Uwe Jens">
+        <sp who="Uwe Jens" parliamentary_group="SPD" role="mp" position="NA" who_original="Uwe Jens" party="SPD" name="Uwe Jens">
           <speaker>Dr. Uwe Jens (SPD):</speaker>
           <p>Herr Westerwelle, könnten Sie nicht aus dieser theatralischen Rolle, die Sie hier spielen, ein wenig herausschlüpfen und sich manchmal ein bißchen mehr um Wahrheit bemühen? Daß Sie das Bundespostministerium abschaffen, ist eine löbliche Tat. Daß Sie aber eine Regulierungsbehörde einführen, die 40 Millionen DM mehr kostet als die Abschaffung des Postministeriums, ist ein Skandal. Finden Sie das nicht auch?</p>
         </sp>
-        <sp who="Dr. Guido Westerwelle" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Guido Westerwelle">
+        <sp who="Guido Westerwelle" parliamentary_group="FDP" role="mp" position="NA" who_original="Guido Westerwelle" party="FDP" name="Guido Westerwelle">
           <speaker>Dr. Guido Westerwelle (F.D.P.):</speaker>
-          <p>Erstens. Sie haben sich zu Wort gemeldet, um einen Kommentar zu meiner Rede abzugeben. Das ist Ihnen auch gelungen. Aber bei allem Respekt: Wenn es um Theatralik geht, kann niemand in diesem Hause mit Rudolf Scharping konkurrieren. </p>
-          <p>Zweitens. Ich bin sicher, Sie haben der Rede von Herrn Rexrodt zugehört. Dann haben Sie auch ausführliche Erklärungen und ein ausführliches Programm zur Regulierungsbehörde gehört. </p>
-          <p>Im übrigen bin ich persönlich der Auffassung, daß Zwischenfragen an das anknüpfen sollten, was der Redner gesagt hat. Man sollte nicht irgend etwas vortragen, was man schon immer einmal sagen wollte, liebe Kolleginnen und Kollegen. </p>
+          <p>Erstens. Sie haben sich zu Wort gemeldet, um einen Kommentar zu meiner Rede abzugeben. Das ist Ihnen auch gelungen. Aber bei allem Respekt: Wenn es um Theatralik geht, kann niemand in diesem Hause mit Rudolf Scharping konkurrieren.</p>
+          <p>Zweitens. Ich bin sicher, Sie haben der Rede von Herrn Rexrodt zugehört. Dann haben Sie auch ausführliche Erklärungen und ein ausführliches Programm zur Regulierungsbehörde gehört.</p>
+          <p>Im übrigen bin ich persönlich der Auffassung, daß Zwischenfragen an das anknüpfen sollten, was der Redner gesagt hat. Man sollte nicht irgend etwas vortragen, was man schon immer einmal sagen wollte, liebe Kolleginnen und Kollegen.</p>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Es gibt noch den Wunsch nach einer Zwischenfrage des Kollegen Koppelin.</p>
         </sp>
-        <sp who="Dr. Guido Westerwelle" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Guido Westerwelle">
+        <sp who="Guido Westerwelle" parliamentary_group="FDP" role="mp" position="NA" who_original="Guido Westerwelle" party="FDP" name="Guido Westerwelle">
           <speaker>Dr. Guido Westerwelle (F.D.P.):</speaker>
           <p>Bitte sehr.</p>
         </sp>
-        <sp who="Jürgen Koppelin" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Jürgen Koppelin">
+        <sp who="Jürgen Koppelin" parliamentary_group="FDP" role="mp" position="NA" who_original="Jürgen Koppelin" party="FDP" name="Jürgen Koppelin">
           <speaker>Jürgen Koppelin (F.D.P.):</speaker>
           <p>Herr Kollege Westerwelle, wie erklären Sie sich -- gerade nach dieser Frage, die wir eben gehört haben --, daß es auch unter Sozialdemokraten einen unglaublichen Drang gibt, an die Spitze dieser Regulierungsbehörde zu kommen?</p>
-          <stage type="interjection">(Heiterkeit und Beifall bei der F.D.P. und der CDU/CSU) </stage>
+          <stage type="interjection">(Heiterkeit und Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Guido Westerwelle" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Guido Westerwelle">
+        <sp who="Guido Westerwelle" parliamentary_group="FDP" role="mp" position="NA" who_original="Guido Westerwelle" party="FDP" name="Guido Westerwelle">
           <speaker>Dr. Guido Westerwelle (F.D.P.):</speaker>
           <p>Der Drang der Sozialdemokraten an die Spitze dieser Regulierungsbehörde ist mir bekannt, wie ich mir übrigens auch bei der Debatte über die 610-Mark-Beschäftigungsverhältnisse -- aus der Sicht von Sozialdemokraten reines Teufelszeug -- gedacht habe: Ich möchte nicht wissen, wieviel Mitarbeiter von Abgeordneten der SPD-Fraktion auf der Basis von 610-Mark-Beschäftigungsverhältnissen angestellt sind.</p>
-          <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU) </stage>
+          <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
           <p>Die Grenzen der Wirksamkeit des Staates müssen neu bestimmt werden. Die entscheidende Frage lautet: Wie organisieren wir die Gesellschaft mit weniger Staat? Das zentrale Thema heißt: Eigenverantwortung versus Vollkaskostaat.</p>
           <p>Die Verbeamtung der deutschen Politik, die Verstaatlichung des Denkens sind die Ursachen für die Immobilität des politischen Systems. Nach der PDS -- das hat sich in dieser Woche gezeigt -- ist in diesem Hause keine Partei so staats- und planwirtschaftlich orientiert wie die grüne Partei. Wer auf die Globalisierung der Wirtschaft und auf die Internationalisierung der Gesellschaft mit einer Renationalisierung der Politik reagieren will, entscheidet ebenso provinziell wie untauglich.</p>
-          <p>Die Globalisierung ist für die Gesellschaften gefährlich, die nur die Risiken sehen und nicht auch die überwiegenden Chancen. Globalisierung ist nicht zuerst Gefahr, sondern Herausforderung für Deutschland. Die Globalisierung führt nur dort zu Ellbogengesellschaften und sozialem Darwinismus, wo man sie ignoriert und naiv zu verhindern versucht. Um diese Länder machen die Investitionen einen Bogen. Dort wandern Arbeitsplätze ab, geht die Voraussetzung für jede soziale Sicherheit verloren. </p>
-          <p>Alles, was man verteilen will, muß man vorher erst einmal erwirtschaften. </p>
+          <p>Die Globalisierung ist für die Gesellschaften gefährlich, die nur die Risiken sehen und nicht auch die überwiegenden Chancen. Globalisierung ist nicht zuerst Gefahr, sondern Herausforderung für Deutschland. Die Globalisierung führt nur dort zu Ellbogengesellschaften und sozialem Darwinismus, wo man sie ignoriert und naiv zu verhindern versucht. Um diese Länder machen die Investitionen einen Bogen. Dort wandern Arbeitsplätze ab, geht die Voraussetzung für jede soziale Sicherheit verloren.</p>
+          <p>Alles, was man verteilen will, muß man vorher erst einmal erwirtschaften.</p>
           <stage type="interjection">(Beifall bei der F.D.P. -- Abg. Margareta Wolf [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN] meldet sich zu einer Zwischenfrage)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Gestatten Sie? -- Frau Margareta Wolf, bitte.</p>
         </sp>
-        <sp who="Margareta Wolf" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Margareta Wolf">
+        <sp who="Margareta Wolf (Frankfurt)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Margareta Wolf (Frankfurt)" party="GRUENE" name="Margareta Wolf-Mayer">
           <speaker>Margareta Wolf (Frankfurt) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
-          <p>Herr Kollege Westerwelle, sind Sie bereit, zur Kenntnis zu nehmen, daß die ausländischen Direktinvestitionen in Deutschland unter Ihrer Regierung einen absoluten Tiefstand erreicht haben? Sind Sie bereit, zur Kenntnis zu nehmen, daß dies auch den Verlust von Arbeitsplätzen nach sich zieht? </p>
+          <p>Herr Kollege Westerwelle, sind Sie bereit, zur Kenntnis zu nehmen, daß die ausländischen Direktinvestitionen in Deutschland unter Ihrer Regierung einen absoluten Tiefstand erreicht haben? Sind Sie bereit, zur Kenntnis zu nehmen, daß dies auch den Verlust von Arbeitsplätzen nach sich zieht?</p>
           <stage type="interjection">(Birgit Homburger [F.D.P.]: Das wird mit den Grünen nicht besser!)</stage>
         </sp>
-        <sp who="Dr. Guido Westerwelle" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Guido Westerwelle">
+        <sp who="Guido Westerwelle" parliamentary_group="FDP" role="mp" position="NA" who_original="Guido Westerwelle" party="FDP" name="Guido Westerwelle">
           <speaker>Dr. Guido Westerwelle (F.D.P.):</speaker>
           <p>Ich bin hundertprozentig Ihrer Auffassung, daß der Rückgang der ausländischen Direktinvestitionen in Deutschland das eigentliche Alarmsignal ist. Wir hatten 1995 einen Rückgang der ausländischen Direktinvestitionen auf etwas mehr als 18 Milliarden DM. Er ist 1996 auf etwas mehr als 1 Milliarde DM zurückgegangen.</p>
           <p>Deshalb ist es nach meiner Auffassung kein Standortpessimismus, jetzt zu sagen: Wir müssen unseren Standort verbessern. Was uns unterscheidet, ist, daß Sie nur darauf warten, daß andere Länder im internationalen Wettbewerb ihre Standortbedingungen irgendwann einmal verschlechtern. Bei der Steuer- und Abgabenpolitik ist dies besonders offensichtlich. Sie empfehlen, durch europäische und internationale Vereinbarungen dafür zu sorgen, daß beispielsweise in Belgien -- wo Frau Schreinemakers hingeht -- eine vergleichbare Steuer- und Abgabenquote herrscht wie in Deutschland. Darauf hat ganz Belgien gewartet. Frau Kollegin, kein einziges Land auf dieser Welt wird die eigenen Bedingungen und Wettbewerbsvorteile verschlechtern, nur damit die deutsche Wirtschaft wieder mehr Chancen hat. Wir müssen unseren Standort selbst verbessern, zum Beispiel durch eine Steuersenkungspolitik, Frau Kollegin.</p>
-          <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU) </stage>
-          <p>Der Sozialstaat ist auf eine funktionierende und erfolgreiche Volkswirtschaft angewiesen. Sie mögen das mit Neidkampagnen begleiten. Die Neidkampagnen in Wahlkampfzeiten eignen sich vielleicht für demoskopische Erfolge, sie mögen den Leistungsbereiten in dieser Gesellschaft immer neue Lasten aufbürden. Wir sagen dazu: Wir sitzen alle in einem Boot, aber einige müssen auch rudern. Wenn wir die Leistungsbereiten in diesem Lande weiter gängeln und weiter drücken, </p>
+          <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
+          <p>Der Sozialstaat ist auf eine funktionierende und erfolgreiche Volkswirtschaft angewiesen. Sie mögen das mit Neidkampagnen begleiten. Die Neidkampagnen in Wahlkampfzeiten eignen sich vielleicht für demoskopische Erfolge, sie mögen den Leistungsbereiten in dieser Gesellschaft immer neue Lasten aufbürden. Wir sagen dazu: Wir sitzen alle in einem Boot, aber einige müssen auch rudern. Wenn wir die Leistungsbereiten in diesem Lande weiter gängeln und weiter drücken,</p>
           <stage type="interjection">(Joachim Poß [SPD]: Wer macht das denn?)</stage>
-          <p>dann werden die Abwanderungen von Investitionen nicht aufhören und in diesem Lande keine neuen Arbeitsplätze entstehen. Deswegen fordern wir eine Politik der marktwirtschaftlichen Erneuerung und wollen an die Politik anknüpfen, die Mitte der 80er Jahre so erfolgreich in Westdeutschland gewesen ist. </p>
+          <p>dann werden die Abwanderungen von Investitionen nicht aufhören und in diesem Lande keine neuen Arbeitsplätze entstehen. Deswegen fordern wir eine Politik der marktwirtschaftlichen Erneuerung und wollen an die Politik anknüpfen, die Mitte der 80er Jahre so erfolgreich in Westdeutschland gewesen ist.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
-          <p>Die Steuerreform ist der Schlüssel zur Bekämpfung der Arbeitslosigkeit und für stabile Haushalte in unserem Land. Steuersenkungen sind das beste Beschäftigungsprogramm, weil sie für neue Investitionen und damit eben auch für neue Arbeitsplätze sorgen. Nur wer Arbeit hat, kann überhaupt Steuern zahlen. Deswegen reißen Steuersenkungen keine Löcher in öffentliche Kassen, </p>
+          <p>Die Steuerreform ist der Schlüssel zur Bekämpfung der Arbeitslosigkeit und für stabile Haushalte in unserem Land. Steuersenkungen sind das beste Beschäftigungsprogramm, weil sie für neue Investitionen und damit eben auch für neue Arbeitsplätze sorgen. Nur wer Arbeit hat, kann überhaupt Steuern zahlen. Deswegen reißen Steuersenkungen keine Löcher in öffentliche Kassen,</p>
           <stage type="interjection">(Margareta Wolf [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Haussmann, Möllemann, Bangemann und Rexrodt sind doch verantwortlich!)</stage>
           <p>sondern konsolidieren die Haushalte durch eine Trendwende auf dem Arbeitsmarkt.</p>
-          <p>Wir Freie Demokraten sind zu Kompromissen im Rahmen der Steuerverhandlungen bereit. Es darf aber keine Umverteilungsreform als fauler Kompromiß übrigbleiben. Wir Freie Demokraten halten am Ziel einer Nettoentlastung von 30 Milliarden DM fest. Stufenlösungen sind denkbar, aber auch die erste Stufe muß ein Einstieg in eine echte Steuersenkungsreform sein. Für die Freien Demokraten gilt: Steuersenkungen so viel und so früh wie möglich, um neue Investitionen zu ermöglichen. Ich füge hinzu: Der Solidaritätszuschlag wird wie in der Koalition vereinbart um zwei Prozentpunkte zum 1. Januar 1998 gesenkt. </p>
+          <p>Wir Freie Demokraten sind zu Kompromissen im Rahmen der Steuerverhandlungen bereit. Es darf aber keine Umverteilungsreform als fauler Kompromiß übrigbleiben. Wir Freie Demokraten halten am Ziel einer Nettoentlastung von 30 Milliarden DM fest. Stufenlösungen sind denkbar, aber auch die erste Stufe muß ein Einstieg in eine echte Steuersenkungsreform sein. Für die Freien Demokraten gilt: Steuersenkungen so viel und so früh wie möglich, um neue Investitionen zu ermöglichen. Ich füge hinzu: Der Solidaritätszuschlag wird wie in der Koalition vereinbart um zwei Prozentpunkte zum 1. Januar 1998 gesenkt.</p>
           <stage type="interjection">(Beifall bei der F.D.P. -- Ingrid Matthäus-Maier [SPD]: Es klatscht ja nur die F.D.P.!)</stage>
-          <p>Je mehr Mut die Politik bei der Steuerreform jetzt hat, um so besser für die Arbeitsplätze in Deutschland. </p>
+          <p>Je mehr Mut die Politik bei der Steuerreform jetzt hat, um so besser für die Arbeitsplätze in Deutschland.</p>
           <stage type="interjection">(Ingrid Matthäus-Maier [SPD]: Das klingt aber anders als bei Herrn Schäuble!)</stage>
           <p>Die Opposition sagt: Wir können uns eine große Steuerreform nicht leisten. Die Koalition sagt: Deutschland kann sich das Scheitern einer großen Steuerreform nicht leisten.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
-          <p>Wenn die Steuerschraube zu fest angedreht wird, würgt sie die Konjunktur ab, sorgt für das Abwandern von Investitionen und damit für den Verlust von Arbeitsplätzen in Deutschland. Das führt zu weniger Staatseinnahmen. Dieser Effekt wird in der Volkswirtschaft als Laffer-Kurve bezeichnet. </p>
+          <p>Wenn die Steuerschraube zu fest angedreht wird, würgt sie die Konjunktur ab, sorgt für das Abwandern von Investitionen und damit für den Verlust von Arbeitsplätzen in Deutschland. Das führt zu weniger Staatseinnahmen. Dieser Effekt wird in der Volkswirtschaft als Laffer-Kurve bezeichnet.</p>
           <p>Ich möchte Ihnen, liebe Kolleginnen und Kollegen vor allen Dingen von den Grünen, das Buch "Grundzüge der Mikroökonomik" von Varian empfehlen. Sie dürfen es allerdings nur dann lesen, wenn Jürgen Trittin nicht zusieht, weil es aus dem Amerikanischen übersetzt ist. Dort heißt es wörtlich:</p>
           <p>Eine Erhöhung des Steuersatzes führt letztlich zu einer Reduktion der Einnahmen, wenn der Steuersatz bereits hoch genug ist.</p>
-          <p>Mit anderen Worten: Ab einem gewissen Punkt führen höhere Steuern zu einem sinkenden Sozialprodukt und damit zu niedrigeren Steuereinnahmen, weil die Leistungsbereitschaft zerstört wird. Was Tausende von Volkswirtschaftsstudenten jedes Jahr im zweiten Semester lernen, hat die Opposition bis heute noch nicht begriffen. </p>
+          <p>Mit anderen Worten: Ab einem gewissen Punkt führen höhere Steuern zu einem sinkenden Sozialprodukt und damit zu niedrigeren Steuereinnahmen, weil die Leistungsbereitschaft zerstört wird. Was Tausende von Volkswirtschaftsstudenten jedes Jahr im zweiten Semester lernen, hat die Opposition bis heute noch nicht begriffen.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU -- Joachim Poß [SPD]: Sie sind doch verantwortlich für die Steuerbelastungen!)</stage>
-          <p>Wer wie die SPD bis jetzt noch kein eigenes erstes Steuerreformkonzept vorgelegt hat, kann von der Koalition kein zweites Konzept verlangen. Eine Pressemitteilung oder eine flammende Rede der finanzpolitischen Sprecherin in diesem Hause ist noch kein Konzept. </p>
+          <p>Wer wie die SPD bis jetzt noch kein eigenes erstes Steuerreformkonzept vorgelegt hat, kann von der Koalition kein zweites Konzept verlangen. Eine Pressemitteilung oder eine flammende Rede der finanzpolitischen Sprecherin in diesem Hause ist noch kein Konzept.</p>
           <stage type="interjection">(Joachim Poß [SPD]: Sie sind doch der Brandstifter, der die Feuerwehr ruft!)</stage>
           <p>Das mindeste, was man verlangen darf, sind konkrete Vorstellungen der Opposition über einen Tarifverlauf.</p>
           <stage type="interjection">(Joachim Poß [SPD]: Brandstifter Westerwelle!)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
-          <p>Herr Poß, hier muß ich Ihnen einen Ordnungsruf erteilen. "Brandstifter" ist ein Wort, das im Parlament nicht erlaubt ist. </p>
+          <p>Herr Poß, hier muß ich Ihnen einen Ordnungsruf erteilen. "Brandstifter" ist ein Wort, das im Parlament nicht erlaubt ist.</p>
         </sp>
-        <sp who="Dr. Guido Westerwelle" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Guido Westerwelle">
+        <sp who="Guido Westerwelle" parliamentary_group="FDP" role="mp" position="NA" who_original="Guido Westerwelle" party="FDP" name="Guido Westerwelle">
           <speaker>Dr. Guido Westerwelle (F.D.P.):</speaker>
-          <p>Ich meine, die Steuerverhandlungen in der nächsten Woche sind zu wichtig, als daß sie von Herrn Voscherau nur als Wahlkampfgetöse und Schaufensterveranstaltung mißbraucht werden. </p>
+          <p>Ich meine, die Steuerverhandlungen in der nächsten Woche sind zu wichtig, als daß sie von Herrn Voscherau nur als Wahlkampfgetöse und Schaufensterveranstaltung mißbraucht werden.</p>
           <stage type="interjection">(Beifall bei der F.D.P.)</stage>
-          <p>Ich würde gerne noch einmal auf einen Punkt, den Sie immer bringen, hinweisen; es handelt sich um die ökologische Steuerreform. Niemand in diesem Hause bestreitet, daß unser Steuersystem ökologisch stärker ausgerichtet werden soll -- so ist es übrigens auch in der Koalition beschlossen worden. </p>
-          <stage type="interjection">(Wolf-Michael Catenhusen [SPD]: Jetzt kommt der große Eiertänzer!) </stage>
+          <p>Ich würde gerne noch einmal auf einen Punkt, den Sie immer bringen, hinweisen; es handelt sich um die ökologische Steuerreform. Niemand in diesem Hause bestreitet, daß unser Steuersystem ökologisch stärker ausgerichtet werden soll -- so ist es übrigens auch in der Koalition beschlossen worden.</p>
+          <stage type="interjection">(Wolf-Michael Catenhusen [SPD]: Jetzt kommt der große Eiertänzer!)</stage>
           <p>Sie aber wollen Ökosteuern einfach nur auf die ohnehin viel zu hohe Steuer- und Abgabenlast für die Finanzierung Ihrer ideologischen Sonderprogramme draufsatteln.</p>
           <stage type="interjection">(Widerspruch bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
-          <p>Das ist mit uns in diesem Lande nicht zu machen. Darin besteht der Unterschied. </p>
+          <p>Das ist mit uns in diesem Lande nicht zu machen. Darin besteht der Unterschied.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
           <p>Wir haben eine viel zu hohe Steuer- und Abgabenquote. Im übrigen ist es schon dreist, Frau Heyne, bei allem Respekt, wenn Sie ausgerechnet den DIHT für Ihre Politik in Anspruch nehmen, der im Sommer dieses Jahres noch in einem Brief geschrieben hat, daß eine Umschichtung kaum Arbeitsplätze schafft, sondern im Gegenteil eine Entlastung notwendig ist. Das ist das, was wir wollen.</p>
           <p>Ich möchte Ihnen sagen, was in der "Handwerkszeitung" von heute steht. Handwerkliche Existenzgründer 1997 wurden gefragt: Was ist das Wichtigste? Wo fehlt es noch an Unterstützung? 70 Prozent sagten: Es sind die Steuererleichterungen, die wir brauchen. -- Wir sind der Meinung, daß das Handwerk recht hat. Denn im Mittelstand entsteht das Gros der Arbeitsplätze und das Gros der Ausbildungsplätze.</p>
           <p>Sie mögen unsere Mittelstandspolitik als Klientelpolitik diffamieren.</p>
           <stage type="interjection">(Wolf-Michael Catenhusen [SPD]: Sie machen doch gar keine!)</stage>
-          <p>Wir nennen Mittelstandspolitik Arbeitnehmerpolitik. </p>
+          <p>Wir nennen Mittelstandspolitik Arbeitnehmerpolitik.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
           <p>Es gibt keinen Mangel an Arbeit, es gibt einen Mangel an bezahlbarer Arbeit. Das hat jetzt endlich auch Herr Schröder in seinem Papier festgestellt. Wir warten alle darauf, wann die SPD-Fraktion dieses Papier von Herrn Schröder entweder wieder über den Haufen wirft oder endlich zur Kenntnis nimmt.</p>
           <p>Wir brauchen eine Reform der sozialen Sicherungssysteme. Wir brauchen eine Bildungsreform. Wir brauchen eine Rentenreform. Auch da reicht es nicht aus, daß man nur die Lasten von der einen Schulter der Volkswirtschaft auf die andere Schulter der Volkswirtschaft umverteilt. Wir wollen bei der Rentenreform Rentensicherheit für die heutige Seniorengeneration. Aber wir wollen auch einen Umbau des Generationsvertrags, damit auch die nächste Generation Generationengerechtigkeit und Rentensicherheit erfährt.</p>
@@ -599,15 +599,15 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Das Wort zu einer Kurzintervention hat der Kollege Joachim Poß.</p>
         </sp>
-        <sp who="Joachim Poß" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Joachim Poß">
+        <sp who="Joachim Poß" parliamentary_group="SPD" role="mp" position="NA" who_original="Joachim Poß" party="SPD" name="Joachim Poß">
           <speaker>Joachim Poß (SPD):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Im Gegensatz zu mehreren wahrheitswidrigen Behauptungen von Herrn Westerwelle stelle ich hier fest, daß die F.D.P. und die Koalition in den letzten Jahren das Steuerrecht systematisch verwüstet haben,</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der PDS -- Lachen bei der F.D.P.)</stage>
-          <p>Schlupflöcher geschaffen haben für ihre Klientel, </p>
+          <p>Schlupflöcher geschaffen haben für ihre Klientel,</p>
           <stage type="interjection">(Beifall bei der SPD sowie der Abg. Dr. Barbara Höll [PDS])</stage>
           <p>mit dem Ergebnis, daß inzwischen nur noch 50 Prozent aller Einkünfte voll der Besteuerung unterworfen werden,</p>
           <stage type="interjection">(Dr. Wolfgang Freiherr von Stetten [CDU/CSU]: Hand aus der Tasche!)</stage>
@@ -618,11 +618,11 @@
           <p>Wer so viel auf dem Kerbholz hat und sich so an den Menschen versündigt hat, die jeden Tag arbeiten, darf solche Reden hier nicht ungestraft halten.</p>
           <stage type="interjection">(Lebhafter Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Entgegnung, Herr Kollege Westerwelle.</p>
         </sp>
-        <sp who="Dr. Guido Westerwelle" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Guido Westerwelle">
+        <sp who="Guido Westerwelle" parliamentary_group="FDP" role="mp" position="NA" who_original="Guido Westerwelle" party="FDP" name="Guido Westerwelle">
           <speaker>Dr. Guido Westerwelle (F.D.P.):</speaker>
           <p>Zunächst einmal haben wir, Herr Kollege, ganz offensichtlich einen Meinungsunterschied darüber, was Florett ist, was Degen ist und was die Keule ist. Das ist eine Frage des Stils; das bleibt Ihnen unbenommen. Ich habe das nicht zu kommentieren.</p>
           <p>Aber das andere ist eine sachliche Frage, die ich doch sehr bemerkenswert finde. Ich finde, es ist ein starkes Stück, daß Sie, wenn es zum Beispiel um die Konsolidierung der Haushalte geht, pausenlos zum Beispiel im Bereich des Bundesrates Einsparungsmaßnahmen blockieren. Sie beklagen die Haushaltslöcher, die Sie im Bundesrat selber graben. Sie graben die Haushaltslöcher, stellen sich fröhlich pfeifend daneben und haben den Spaten noch in der Hand. Das, was Sie machen, ist nicht seriöse Politik.</p>
@@ -642,17 +642,17 @@
           <p>Nicht diejenigen, die mit Neidparolen durch die Straßen ziehen, sind Arbeitnehmerparteien, sondern diejenigen, die mit marktwirtschaftlichen Bedingungen für Investitionen und neue Arbeitsplätze sorgen. Wir sind die Arbeitnehmerparteien in diesem Hause.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU -- Wolf-Michael Catenhusen [SPD]: Gehen Sie doch nach drüben, Herr Westerwelle! -- Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Nach 27 Jahren liest er so etwas vor! -- Gegenruf des Abg. Dr. Guido Westerwelle [F.D.P.])</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Das Wort hat jetzt die Kollegin Prof. Dr. Luft.</p>
         </sp>
-        <sp who="Dr. Christa Luft" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Christa Luft">
+        <sp who="Christa Luft" parliamentary_group="PDS" role="mp" position="NA" who_original="Christa Luft" party="PDS" name="Christa Luft">
           <speaker>Dr. Christa Luft (PDS):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Herr Kollege Westerwelle, den vielbeschworenen und eben von Ihnen gar lauthals beschrienen Reformstau in diesem Lande werden Sie mit dem Haushalt 1998 natürlich nicht auflösen, über den Sie im übrigen nicht ein einziges Wort verloren haben.</p>
           <stage type="interjection">(Beifall bei der PDS sowie des Abg. Matthias Berninger [BÜNDNIS 90/DIE GRÜNEN])</stage>
           <p>Sie werden mit dem Haushalt 1998 Ihre längst verstaubte, in manchen anderen europäischen Ländern überholte Politik konservieren und zementieren. Mit dieser verstaubten Politik bekommen Sie als F.D.P. in den neuen Bundesländern, die erst seit sieben Jahren die Planwirtschaft hinter sich gelassen haben, marktwirtschaftlich, wie Sie merken, keinen Fuß auf den Boden. Das müssen Sie sich auch einmal sagen lassen.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
-          <p>Nach dieser Schlußrunde in der ersten Lesung des Bundesetats 1998 wird nun dieser Entwurf, der auf außerordentlich schwammigem Fundament steht, in die Ausschußberatungen verwiesen werden. Wenn es nicht noch, was leider nicht zu erwarten ist, einige grundlegende Veränderungen an diesem Etatentwurf gibt, dann steht ein Nachtragshaushalt 1998 schon am Horizont. </p>
+          <p>Nach dieser Schlußrunde in der ersten Lesung des Bundesetats 1998 wird nun dieser Entwurf, der auf außerordentlich schwammigem Fundament steht, in die Ausschußberatungen verwiesen werden. Wenn es nicht noch, was leider nicht zu erwarten ist, einige grundlegende Veränderungen an diesem Etatentwurf gibt, dann steht ein Nachtragshaushalt 1998 schon am Horizont.</p>
           <p>Mit Verlaub: Bei der Aufstellung eines Bundeshaushalts kann man doch nicht wie beim Ausfüllen eines Lottoscheins verfahren. Man kann doch nicht die Eckdaten nach dem Prinzip Hoffnung tippen.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
           <p>Man muß vielmehr ungeschönt und ungeschminkt den Fakten ins Auge sehen und diesen Fakten im Budgetansatz Rechnung tragen.</p>
@@ -686,11 +686,11 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Es spricht jetzt der Kollege Friedrich Merz.</p>
         </sp>
-        <sp who="Friedrich Merz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Friedrich Merz">
+        <sp who="Friedrich Merz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Friedrich Merz" party="CDU" name="Friedrich Merz">
           <speaker>Friedrich Merz (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Lassen Sie mich zu Beginn noch einmal auf die Debatte vom vergangenen Mittwoch und hier insbesondere auf die Rede des saarländischen Ministerpräsidenten Oskar Lafontaine zurückkommen. Herr Lafontaine hat von dieser Stelle aus einzelne Kollegen von uns im Laufe seiner Rede als "Schnösel" bezeichnet.</p>
           <stage type="interjection">(Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Es war nur einer, und den sollten Sie einmal im Handbuch nachschlagen!)</stage>
@@ -752,16 +752,16 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Zu einer Kurzintervention gebe ich der Abgeordneten Matthäus-Maier das Wort.</p>
         </sp>
-        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ingrid Matthäus-Maier">
+        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" who_original="Ingrid Matthäus-Maier" party="SPD" name="Ingrid Matthäus-Maier">
           <speaker>Ingrid Matthäus-Maier (SPD):</speaker>
           <p>Herr Kollege Merz, Sie haben eben gesagt, ich hätte mich am Dienstag wahrheitwidrig zu der steuerlichen Absetzbarkeit von Schmiergeldern im Ausland geäußert. Ich lese Ihnen die kurze Passage einfach vor. Ich habe gesagt:</p>
           <p>Wir sind bereit, die Bemessungsgrundlage zu verbreitern und Schlupflöcher zu schließen. Aber eines muß ich hier doch noch sagen -- weil mir das auffällt --: Wissen Sie, was in Ihrem langen Katalog zum Schließen von Schlupflöchern fehlt? -- Die Abschaffung der steuerlichen Absetzbarkeit von Schmiergeldern im Ausland. Wir mußten Sie dazu drängen, im Jahressteuergesetz die steuerliche Absetzbarkeit von Schmiergeldern im Inland abzuschaffen.</p>
           <p>Ich füge hier hinzu: Es war sehr schwer, das gegen Sie durchzusetzen.</p>
-          <p>Es ist die OECD,  -- so habe ich Dienstag gesagt -- es sind die Amerikaner und Franzosen, die uns auffordern, endlich den Unsinn abzuschaffen, daß Korruption, daß Schmiergelder von deutschen Firmen im Ausland auch noch von der Steuer abgesetzt werden können. Deswegen sagen wir: Das ist das Minimum, das auch in diesen Katalog gehört.</p>
+          <p>Es ist die OECD, -- so habe ich Dienstag gesagt -- es sind die Amerikaner und Franzosen, die uns auffordern, endlich den Unsinn abzuschaffen, daß Korruption, daß Schmiergelder von deutschen Firmen im Ausland auch noch von der Steuer abgesetzt werden können. Deswegen sagen wir: Das ist das Minimum, das auch in diesen Katalog gehört.</p>
           <p>Was ich am Dienstag gesagt habe, entspricht den Tatsachen, der Wahrheit und ist damit nicht wahrheitswidrig. Deswegen fordere ich Sie auf, dies zurückzunehmen.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der PDS)</stage>
           <p>Zweitens. Im Frühjahr und Sommer haben wir zusammen ein Antikorruptionsgesetz gemacht. Es waren die SPD-Mitglieder in dieser Arbeitsgruppe und im Ausschuß, die uns Steuerfachleuten immer wieder berichtet haben, daß sich Ihre Seite vehement dagegen gewehrt hat, die steuerliche Absetzbarkeit von Schmiergeldern im Ausland endlich abzuschaffen.</p>
@@ -770,11 +770,11 @@
           <p>Daß bis heute Schmiergelder im Ausland steuerlich absetzbar sind, ist ein Skandal, schadet Deutschland und der deutschen Wirtschaft im Ausland!</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der Abg. Dr. Christa Luft [PDS])</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Kollege Merz, Sie können darauf antworten. -- Bitte.</p>
         </sp>
-        <sp who="Friedrich Merz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Friedrich Merz">
+        <sp who="Friedrich Merz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Friedrich Merz" party="CDU" name="Friedrich Merz">
           <speaker>Friedrich Merz (CDU/CSU):</speaker>
           <p>Frau Kollegin Matthäus-Maier, ich nehme zunächst einmal zur Kenntnis, daß Sie am Dienstag eine Einschränkung gemacht haben, was das Ausland anbetrifft. Ich habe Ihnen auch nicht vorgeworfen, daß Ihre Aussage wahrheitswidrig ist.</p>
           <stage type="interjection">(Zurufe von der SPD: Doch!)</stage>
@@ -796,11 +796,11 @@
           <p>Ansonsten sollten wir uns gemeinsam um die Lösung dieses Problems bemühen, ohne damit den entsprechenden Neid in der Bundesrepublik Deutschland hervorzurufen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich gebe dem Bundesminister der Finanzen, Dr. Theodor Waigel, das Wort.</p>
         </sp>
-        <sp who="Dr. Theodor Waigel" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" party="CSU" name="Theodor Waigel">
+        <sp who="Theodor Waigel" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" who_original="Theodor Waigel" party="CSU" name="Theodor Waigel">
           <speaker>Dr. Theodor Waigel, Bundesminister der Finanzen:</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Ich möchte zu dem Punkt, der zwischen Ihnen, Frau Kollegin Matthäus-Maier, und dem Kollegen Merz eine Rolle gespielt hat, sagen, daß die Bundesregierung mit allem Nachdruck bemüht ist, so schnell wie möglich eine solche Konvention zu erreichen, weil wir nur mit einer solchen Konvention die Dinge international wirklich in den Griff bekommen können. Einseitige oder bilaterale Entscheidungen sind nicht ausreichend. Das ist es, wofür wir kämpfen, nichts anderes. Wir stehen an der Spitze derer, die für eine umfassende Bekämpfung dieses Tatbestandes auch im Ausland stehen.</p>
           <stage type="interjection">(Joachim Poß [SPD]: Stimmt doch nicht! Sie waren doch die ganzen Jahre im Bremserhäuschen!)</stage>
@@ -848,7 +848,7 @@
           <stage type="interjection">(Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Das sollte man dem Edmund Stoiber einmal sagen! -- Gegenruf des Abg. Michael Glos [CDU/CSU]: Er hört sicher zu!)</stage>
           <p>Unter diesen Umständen ist die Einhaltung des Maastricht-Defizit-Kriteriums für 1997 erreichbar. Das halte ich für eine wichtige Botschaft.</p>
           <p>Kein anderes Land in Europa -- darauf hat der frühere irische Finanzminister Ruairi Quinn, auch ein Sozialdemokrat, hingewiesen -- hat in den letzten sieben Jahren solche Herausforderungen bewältigt. Er fügte hinzu, keine andere Volkswirtschaft der Welt hätte sie bewältigt. Dem ist eigentlich nichts hinzuzufügen.</p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.) </stage>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Wir werden uns im Frühjahr 1998 mit sachverständigem Beistand entscheiden. Dann liegt der Bericht des EWI vor, an dem die Deutsche Bundesbank und Präsident Tietmeyer mitwirken. Natürlich wird die Stellungnahme der Bundesbank auch für unsere Bewertung und Diskussion eine ganz wichtige Rolle spielen. Bundestag und Bundesrat werden sich genauestens informieren und ihre Bewertung abgeben. Die Kommission wird ihre Empfehlung aussprechen. Der Ecofin wird über das Vorliegen exzessiver Defizite entscheiden und Vorschläge zu ihrer Beseitigung machen. Dann wird der Europäische Rat entscheiden -- eine der wichtigsten Entscheidungen in der zweiten Hälfte dieses Jahrhunderts.</p>
           <p>Sie, meine Damen und Herren von der Opposition, haben sich wieder des Begriffs der Steuerquote bedient. Das ist eine völlige Verkennung der Tatsachen. Sie verweisen auf Eurostat: Danach liegt Deutschland etwa im Mittelfeld der EU bei der Steuer- und Abgabenquote. Die Höhe der Steuerquote sagt aber nichts über ihre Qualität aus.</p>
           <p>Wäre die günstige Steuerquote ein Ergebnis der von uns gewollten Steuerreform -- Absenkung der Sätze --, dann wäre sie erwünscht. Wenn diese niedrige Steuerquote aber das Ergebnis von Steueroptimierungen und Steuerverlagerungen ist, dann ist sie nicht erwünscht und muß durch die Steuerreform geändert werden.</p>
@@ -870,7 +870,7 @@
           <p>Wir haben in dieser Woche Kompromißlinien angedeutet. Man könnte das Reformgesetz 1998 um eine Senkung des Eingangssteuersatzes und des Höchststeuersatzes für nichtgewerbliche Einkünfte anreichern. Wir könnten die Nettoentlastung in der Größenordnung lassen, wie wir sie für 1998, für die erste Stufe, miteinander vereinbart haben.</p>
           <p>Dann müßte aber auch die Umsetzung des Restpaketes in finanzwirtschaftlich vertretbaren Stufen klar vereinbart werden. Denn es kann nicht sein, daß wir eine Gegenfinanzierung aufbauen, die in den Jahren danach zu einer Überfinanzierung und Überkompensation der öffentlichen Haushalte führen würde. Genau dies kann nicht dem Prinzip Hoffnung überlassen bleiben, sondern bedarf klarer Festlegungen über die Senkung der Steuersätze, damit die Wirtschaft, damit die Investoren, damit alle Beteiligten eine kalkulierbare Grundlage für ihre Investitionsentscheidungen im nächsten Jahrzehnt bekommen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
-          <p>Sie, Frau Kollegin Matthäus-Maier, sind offensichtlich noch die einzige, die den Höchststeuersatz bei 53 Prozent beibehalten möchte. </p>
+          <p>Sie, Frau Kollegin Matthäus-Maier, sind offensichtlich noch die einzige, die den Höchststeuersatz bei 53 Prozent beibehalten möchte.</p>
           <stage type="interjection">(Dr. Barbara Höll [PDS]: Dann haben Sie aber unser Konzept nicht gelesen!)</stage>
           <p>-- Sind auch Sie dabei?</p>
           <stage type="interjection">(Dr. Barbara Höll [PDS]: Aber sicher!)</stage>
@@ -887,10 +887,10 @@
           <p>Beim Kandidatenkandidaten -- ich meine Schröder -- sieht es nicht besser aus. Bis 1990 betrugen die Schulden in Niedersachsen 37 Milliarden DM. Jetzt, nach sieben Jahren, sind es 70 Milliarden DM. Eine exzessive Personalausdehnung führt nach Berechnungen niedersächsischer Experten bis zum Jahre 2020 zu Schulden in Höhe von etwa 150 Milliarden DM. Es wird festgestellt: Wenn nicht mindestens 40 000 Stellen im Landesdienst gestrichen werden, sind in etwa 20 Jahren drei Viertel des Landeshaushalts durch Zins- und Personalausgaben gebunden.</p>
           <p>Da sagt der Mann: Hören Sie mal, wenn mir der Griff auf die Makroökonomie nicht gegeben wird, wie soll ich dann die Probleme meines Landes lösen? -- Stellen Sie sich einmal vor, einer unserer Ministerpräsidenten würde mit einer solchen Unverfrorenheit in den Landtag gehen und sagen: Ich kann hier gar nichts machen, nur die große Makroökonomie kann mir die großen Rezepte geben.</p>
           <p>Es ist schon ein Stück Unverfrorenheit und Großmannssucht dabei, mit der man versucht, die Deutschen blenden zu wollen; aber ich bin zuversichtlich, sie werden sich nicht blenden lassen.</p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.) </stage>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Ein Wort zur Steuer- und Abgabenlast. Die Abgabenquote lag im Jahr 1977, als wir von einem Weltökonomen regiert wurden, bei 43,3 Prozent des BIP. Das ist ziemlich genau das Niveau von 1993/94. Die Abgabenquote betrug 1970 36,6 Prozent, 1982 lag sie schon bei 42,8 Prozent des BIP. Das ist eine Steigerung um 20 Prozent, und zwar in einer Zeit, in der es nur "normale" Probleme zu bewältigen gab und in der der damalige Bundeskanzler bereits unter der ungeheuren Last einer Ölkrise, die er an die Wand malte, litt. Er war damals nicht in der Lage, die Probleme in den Griff zu bekommen, weil er eine falsche Politik machte.</p>
           <stage type="interjection">(Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Mit der F.D.P.!)</stage>
-          <p>Es gehört schon eine gehörige Portion Unverschämtheit, Gedankenlosigkeit oder Verdrängung der Wirklichkeit in der Vergangenheit dazu, uns, die wir große Probleme im Zusammenhang mit der Vollendung der deutschen Einheit und dem demokratischen Wiederaufbau erfolgreich bewältigt haben, der gleich hohen Steuerabgabe zu zeihen und sie uns vorzuwerfen. </p>
+          <p>Es gehört schon eine gehörige Portion Unverschämtheit, Gedankenlosigkeit oder Verdrängung der Wirklichkeit in der Vergangenheit dazu, uns, die wir große Probleme im Zusammenhang mit der Vollendung der deutschen Einheit und dem demokratischen Wiederaufbau erfolgreich bewältigt haben, der gleich hohen Steuerabgabe zu zeihen und sie uns vorzuwerfen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Auch die F.D.P. war Schuld!)</stage>
           <p>Von 1991 bis 1996 ist die Neuverschuldung trotz der Belastungen durch die Einheit insgesamt um rund 10 Milliarden DM gegenüber der Regierungsplanung unterschritten worden. Dies ist Ihnen in keinem vergleichbaren Zeitraum, in dem sozialdemokratische Finanzminister regierten, gelungen.</p>
           <p>Frau Kollegin Matthäus-Maier, noch ein Wort zu Ihrem Dauerbrenner Jäger 90 bzw. -- wenn Sie das lieber haben -- Eurofighter. Sie sagen, wir würden die Folgebelastungen des Jäger 90 im Haushalt verschweigen. Das ist falsch. Wir werden die erforderlichen Verpflichtungsermächtigungen von rund 23 Milliarden DM im Rahmen des parlamentarischen Verfahrens einbringen.</p>
@@ -912,18 +912,18 @@
           <p>Meine Damen und Herren, es geht darum, die Zukunft zu gewinnen. Niemals in diesem Jahrhundert waren die Aussichten für einen langen globalen Aufschwung günstiger als heute. Die OECD erwartet einen "Quantensprung" in der weltwirtschaftlichen Entwicklung und spricht von einem "Fenster glücklicher Umstände". Es gibt große Chancen für Wettbewerb, Wachstum und Wohlstand sowie für eine ausreichende Zahl von Arbeitsplätzen. Voraussetzung ist, daß wir auf einem marktwirtschaftlichen Kurs bleiben, auf einem Kurs, mit dem Prinzip der Sozialen Marktwirtschaft.</p>
           <p>Wir wollen kein Diktat der Märkte. Wir wollen einen starken Staat, der ein starker Rechtsstaat sein kann, der seine Aufgaben effizient, kostengünstig und bürgerfreundlich erfüllt. Aber es wird ein schlankerer Staat sein müssen als in der Vergangenheit.</p>
           <stage type="interjection">(Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Schlanker Staat ist immer gut!)</stage>
-          <p>Wenn dieses neue Gleichgewicht zwischen Markt und Staat erfolgreich umgesetzt wird, wenn die notwendigen institutionellen und politischen Reformen kommen, dann bestehen auch in Deutschland gute Chancen, an einem neuen Wirtschaftswunder im 21. Jahrhundert weltweit angemessen teilzuhaben. Dafür sind alle in der Pflicht: </p>
+          <p>Wenn dieses neue Gleichgewicht zwischen Markt und Staat erfolgreich umgesetzt wird, wenn die notwendigen institutionellen und politischen Reformen kommen, dann bestehen auch in Deutschland gute Chancen, an einem neuen Wirtschaftswunder im 21. Jahrhundert weltweit angemessen teilzuhaben. Dafür sind alle in der Pflicht:</p>
           <stage type="interjection">(Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Er hat ja keine Lust mehr!)</stage>
           <p>Bundestag, Bundesrat, Bundesregierung und Opposition, die Tarifpartner, die Kirchen, die Verbände und schließlich jeder einzelne. Wohlverstandene Interessenvertretung braucht den Blick auf das Gemeinwohl genauso wie der Markt die Moral.</p>
           <p>Lassen Sie uns -- bei allen Unterschieden -- das Verbindende suchen und unser Land gemeinsam voranbringen. Das schafft Vertrauen nach innen und nach außen. Stabilität und Vertrauen sind unser größtes Kapital, eine Investition in die Zukunft. Damit werden wir die Probleme für Deutschland, für Europa und weltweit lösen.</p>
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Anhaltender Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich gebe das Wort der Abgeordneten Ingrid Matthäus-Maier.</p>
         </sp>
-        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ingrid Matthäus-Maier">
+        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" who_original="Ingrid Matthäus-Maier" party="SPD" name="Ingrid Matthäus-Maier">
           <speaker>Ingrid Matthäus-Maier (SPD):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Da die Debatte zu Ende geht, nur wenige Bemerkungen.</p>
           <p>Erstens. Mehrere Redner von Ihnen haben kritisiert, wir hätten keine Alternativen vorgestellt.</p>
@@ -935,47 +935,47 @@
           <p>Zweitens. Zur F.D.P., gerade nach der Rede von Herrn Westerwelle heute morgen. Bei der F.D.P. ist eines besonders auffällig: Einerseits fordern Sie in Ihrem Grundsatzprogramm, ein Verbot der Neuverschuldung des Staates sogar im Grundgesetz zu verankern. Andererseits machen Sie in der Praxis dauernd Steuersenkungsversprechungen, die zu riesigen neuen Schulden führen würden. Dazu sage ich Ihnen: Einerseits zu versprechen, keine neuen Schulden zu machen und dies sogar im Grundgesetz zu verankern, andererseits aber Steuersenkungen zu versprechen, die zu riesigen neuen Schulden führen, um Wählerstimmen zu kaufen, das ist eine Verhöhnung des gesunden Menschenverstandes.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Frau Matthäus-Maier, gestatten Sie eine Zwischenfrage des Abgeordneten Westerwelle?</p>
         </sp>
-        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ingrid Matthäus-Maier">
+        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" who_original="Ingrid Matthäus-Maier" party="SPD" name="Ingrid Matthäus-Maier">
           <speaker>Ingrid Matthäus-Maier (SPD):</speaker>
-          <p>Ja, bitte. </p>
+          <p>Ja, bitte.</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Dr. Guido Westerwelle" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Guido Westerwelle">
+        <sp who="Guido Westerwelle" parliamentary_group="FDP" role="mp" position="NA" who_original="Guido Westerwelle" party="FDP" name="Guido Westerwelle">
           <speaker>Dr. Guido Westerwelle (F.D.P.):</speaker>
           <p>Frau Kollegin, ist Ihnen bekannt, daß mit der Steuersenkungspolitik und den entsprechenden Beschäftigungseffekten in den USA, in Großbritannien und in Neuseeland -- diese drei Länder sind mir jetzt sofort ohne weitere Unterlagen präsent -- nicht nur die Steuer- und Abgabenquote gesenkt werden konnte, sondern bis zum Jahr 2004 beispielsweise beide Häuser in den USA gemeinsam mit dem Präsidenten sogar eine Rückführung der Verschuldung auf Null beschlossen haben?</p>
-          <p>Sind Sie also bereit, zur Kenntnis zu nehmen, daß diese Politik der Steuersenkungen in diesen Ländern nicht nur für Arbeitsplätze, sondern auch für den Abbau der Staatsschulden gut war? Denn ob man Staatsschulden abbauen kann, hängt davon ab, daß Menschen Arbeit haben. Es kann nämlich nur Steuern zahlen, wer Arbeit hat. </p>
+          <p>Sind Sie also bereit, zur Kenntnis zu nehmen, daß diese Politik der Steuersenkungen in diesen Ländern nicht nur für Arbeitsplätze, sondern auch für den Abbau der Staatsschulden gut war? Denn ob man Staatsschulden abbauen kann, hängt davon ab, daß Menschen Arbeit haben. Es kann nämlich nur Steuern zahlen, wer Arbeit hat.</p>
         </sp>
-        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ingrid Matthäus-Maier">
+        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" who_original="Ingrid Matthäus-Maier" party="SPD" name="Ingrid Matthäus-Maier">
           <speaker>Ingrid Matthäus-Maier (SPD):</speaker>
           <p>Herr Kollege Westerwelle, mir ist bekannt, daß Sie das immer wieder gebetsmühlenhaft erzählen, daß dies aber nicht den Tatsachen entspricht. Die Laffer-Kurve stimmt in der Praxis nicht.</p>
           <p>Nur ein Gegenargument: Es steht fest, daß die Regierung von Präsident Reagen in acht Jahren mehr Schulden in Amerika aufgehäuft hat als alle Präsidenten der USA in 200 Jahren vor ihm und daß die Regierung Clinton diese erst wieder zurückführen mußte, und zwar mit der Folge, daß sie dann mit einem konsolidierten Haushalt die Möglichkeiten von Steuersenkungen hatte -- im Unterschied zu Ihnen.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Frau Kollegin, gestatten Sie noch eine weitere Zwischenfrage des Abgeordneten Dr. Westerwelle?</p>
         </sp>
-        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ingrid Matthäus-Maier">
+        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" who_original="Ingrid Matthäus-Maier" party="SPD" name="Ingrid Matthäus-Maier">
           <speaker>Ingrid Matthäus-Maier (SPD):</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Dr. Guido Westerwelle" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Guido Westerwelle">
+        <sp who="Guido Westerwelle" parliamentary_group="FDP" role="mp" position="NA" who_original="Guido Westerwelle" party="FDP" name="Guido Westerwelle">
           <speaker>Dr. Guido Westerwelle (F.D.P.):</speaker>
-          <p>Genau auf diesen Punkt würde ich gerne noch zu sprechen kommen und deswegen nachfragen. Wir sind sicherlich einer Meinung, daß die Kombination von Steuersenkungspolitik mit den entsprechenden Staatsinterventionismen der Reagen-Ära, wenn Sie an SDI und ähnliche große Ausgabenprogramme denken, sehr unglücklich gewesen ist, was ich hier übrigens ausdrücklich unterstreichen will. </p>
+          <p>Genau auf diesen Punkt würde ich gerne noch zu sprechen kommen und deswegen nachfragen. Wir sind sicherlich einer Meinung, daß die Kombination von Steuersenkungspolitik mit den entsprechenden Staatsinterventionismen der Reagen-Ära, wenn Sie an SDI und ähnliche große Ausgabenprogramme denken, sehr unglücklich gewesen ist, was ich hier übrigens ausdrücklich unterstreichen will.</p>
           <p>Aber die fortgesetzte Steuersenkungspolitik, wie sie von den Demokraten in den USA weitergeführt worden ist, und die Rückführung der Staatsausgaben haben genau zu den Effekten geführt, die Sie hier bezweifeln.</p>
         </sp>
-        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ingrid Matthäus-Maier">
+        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" who_original="Ingrid Matthäus-Maier" party="SPD" name="Ingrid Matthäus-Maier">
           <speaker>Ingrid Matthäus-Maier (SPD):</speaker>
           <p>Herr Kollege Westerwelle, es ist genau umgekehrt. Erst nachdem in den USA unter der Präsidentschaft des Demokraten Clinton und unter Mithilfe -- das machen sie in der Regel gemeinsam -- der Republikaner der Haushalt einiger- maßen in Ordnung gebracht wurde, entstand überhaupt die Möglichkeit um dann neuen Spielraum für Steuersenkungen zu nutzen.</p>
           <stage type="interjection">(Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Was ist der Preis?)</stage>
@@ -988,15 +988,15 @@
           <p>Deswegen sage ich Ihnen: Mit uns kann es Kompromisse geben, aber nur, wenn Sie endlich ein neues Konzept schriftlich auf den Tisch legen, das solide finanziert, sozial gerecht und auch ökonomisch vernünftig ist, um Arbeitsplätze zu schaffen; sonst nicht, meine Damen und Herren.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Frau Kollegin, gestatten Sie noch eine weitere Zwischenfrage der Abgeordneten Rönsch?</p>
         </sp>
-        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ingrid Matthäus-Maier">
+        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" who_original="Ingrid Matthäus-Maier" party="SPD" name="Ingrid Matthäus-Maier">
           <speaker>Ingrid Matthäus-Maier (SPD):</speaker>
           <p>Was war mit dem Kollegen Fischer?</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Er hat darauf verzichtet. Keine Sorge; er hat sich wieder hingesetzt.</p>
           <stage type="interjection">(Widerspruch des Abg. Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN])</stage>
@@ -1004,32 +1004,32 @@
           <p>Die erste hat Frau Kollegin Rönsch, und dann kommt der Abgeordnete Joseph Fischer.</p>
           <p>Bitte schön, Frau Rönsch.</p>
         </sp>
-        <sp who="Hannelore Rönsch" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hannelore Rönsch">
+        <sp who="Hannelore Rönsch (Wiesbaden)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hannelore Rönsch (Wiesbaden)" party="CDU" name="Hannelore Rönsch">
           <speaker>Hannelore Rönsch (Wiesbaden) (CDU/CSU):</speaker>
           <p>Herr Präsident, ich bedanke mich.</p>
           <p>Nachdem der Kollege Fischer wieder Platz genommen hat, habe ich gedacht, er hat seine Zwischenfrage zurückgezogen.</p>
           <p>Frau Matthäus-Maier, wenn ich Sie eben richtig verstanden habe, dann haben Sie uns die Haushaltssanierung von Bill Clinton zum Vorbild gegeben. Ich hätte gerne von Ihnen gewußt, ob Sie bereit sind, ansatzweise die Streichungen im Sozialhaushalt mitzutragen, die Bill Clinton in den USA durchgeführt hat?</p>
           <stage type="interjection">(Wolfgang Zöller [CDU/CSU]: Nein! Sie will nur das Ergebnis!)</stage>
         </sp>
-        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ingrid Matthäus-Maier">
+        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" who_original="Ingrid Matthäus-Maier" party="SPD" name="Ingrid Matthäus-Maier">
           <speaker>Ingrid Matthäus-Maier (SPD):</speaker>
           <p>Frau Kollegin, Bill Clinton hatte die Chance, Steuern zu senken, weil und nachdem er den Haushalt in Ordnung gebracht hat. Damit habe ich nicht gefordert, daß seine Vorschläge in allen Details bei uns umgesetzt werden.</p>
           <stage type="interjection">(Lachen bei der CDU/CSU und der F.D.P.)</stage>
           <p>Da der Kollege Waigel damit heute wieder angefangen hat: Wenn Sie sagen, wir haben kein Geld für den Jäger 90, dann können wir uns über den Rest unterhalten.</p>
           <stage type="interjection">(Lachen bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Verehrte Kollegen, wer eine Frage stellt, muß auch die Ruhe aufbringen, sich die Antwort anzuhören.</p>
           <p>Nun kommt der Kollege Joseph Fischer mit einer Frage.</p>
         </sp>
-        <sp who="Joseph Fischer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Joschka Fischer">
+        <sp who="Joseph Fischer (Frankfurt)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Joseph Fischer (Frankfurt)" party="GRUENE" name="Joseph Fischer">
           <speaker>Joseph Fischer (Frankfurt) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Kollegin, würden Sie mir den freundlichen Gefallen tun und den Fans der amerikanischen Entwicklung die Frage stellen, ob sie in der Tat diese amerikanische Entwicklung hier in diesem Lande wollen? Wollen sie den Anteil von "working poors", und den Anteil von sozialer Desintegration mit Kriminalität, wollen sie die Einkommensspreizung, die eine Konsequenz dieser Politik ist? Das alles muß man mit in Rechnung stellen.</p>
           <p>Wenn hier von Herrn Westerwelle das amerikanische Modell als unsere Zukunft dargestellt wird, sollte er dieses sagen. Es würde mich interessieren, ob er dafür in diesem Land eine Mehrheit bekommt. Das würde bedeuten, daß wir hier in diesem Lande die Gesellschaft sprengen werden.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ingrid Matthäus-Maier">
+        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" who_original="Ingrid Matthäus-Maier" party="SPD" name="Ingrid Matthäus-Maier">
           <speaker>Ingrid Matthäus-Maier (SPD):</speaker>
           <p>Sehr geehrter Herr Fischer, unser Problem ist, daß wir jetzt, um viertel vor zwölf, am Schluß der Debatte sind. Aber eines ist klar: Die Amerikaner haben ganz sicher ein erhebliches Jobwunder geschaffen.</p>
           <stage type="interjection">(Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Um welchen Preis?)</stage>
@@ -1044,12 +1044,12 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Nun gebe ich dem Abgeordneten Dr. Guido Westerwelle zu einer Kurzintervention das Wort.</p>
           <stage type="interjection">(Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Auch Dr. Kiwi genannt!)</stage>
         </sp>
-        <sp who="Dr. Guido Westerwelle" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Guido Westerwelle">
+        <sp who="Guido Westerwelle" parliamentary_group="FDP" role="mp" position="NA" who_original="Guido Westerwelle" party="FDP" name="Guido Westerwelle">
           <speaker>Dr. Guido Westerwelle (F.D.P.):</speaker>
           <p>Herr Kollege Fischer, auf Ihren Zwischenruf möchte ich Ihnen nur sagen: Es schadet auch in der Politik nicht, wenn man noch mehr zu Ende gemacht hat als die Fahrschule. Deshalb -- bei allem Respekt -- mäßigen Sie die Art und Weise, in der Sie Zwischenrufe machen.</p>
           <p>Ich möchte ausdrücklich das aufgreifen, was Sie, Frau Matthäus-Maier, gesagt haben und würdige ausdrücklich, wie differenziert Sie auf die Beschäftigungssituation in den USA eingegangen sind. Ich finde, wir sollten besser auf dieser Diskussionsbasis ins Gespräch kommen, weil ich nämlich Ihre Auffassung vertrete, daß die Steuersenkungspolitik erst in Kombination mit einer entsprechenden Reduzierung der Ausgaben die richtigen politischen Ergebnisse ermöglicht.</p>
@@ -1065,17 +1065,17 @@
           <p>Ich möchte Ihnen noch etwas zu diesen Billig-Jobs sagen. Ich glaube, es ist ganz wichtig, daß wir in diesem Lande auch einmal begreifen, daß die Sockellohnpolitik, die Politik, die auch im Niedriglohnbereich die Kosten und die Niveaus der Löhne immer weiter nach oben getrieben hat, nur dazu geführt hat, daß im Niedriglohnbereich Arbeitsplätze weggefallen sind und die Schwarzarbeit zugenommen hat. Deswegen empfinde ich es nicht als unsozial, zu sagen: Wir brauchen auch Arbeitsplätze für Menschen, die nicht mit einem PC umgehen können.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Frau Matthäus-Maier, Sie können zu allem Überfluß noch antworten.</p>
         </sp>
-        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ingrid Matthäus-Maier">
+        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" who_original="Ingrid Matthäus-Maier" party="SPD" name="Ingrid Matthäus-Maier">
           <speaker>Ingrid Matthäus-Maier (SPD):</speaker>
           <p>Nein.</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
-          <p>Vielen Dank. -- Ich schließe die Aussprache. Das Haushaltsgesetz 1998 und der Finanzplan des Bundes 1997 bis 2001 auf Drucksachen 13/8200 und 13/8201 sollen gemäß   95 der Geschäftsordnung an den Haushaltsausschuß überwiesen werden. Sind Sie damit einverstanden? -- Ich sehe und höre keinen Widerspruch. Dann sind die Überweisungen so beschlossen.</p>
+          <p>Vielen Dank. -- Ich schließe die Aussprache. Das Haushaltsgesetz 1998 und der Finanzplan des Bundes 1997 bis 2001 auf Drucksachen 13/8200 und 13/8201 sollen gemäß § 95 der Geschäftsordnung an den Haushaltsausschuß überwiesen werden. Sind Sie damit einverstanden? -- Ich sehe und höre keinen Widerspruch. Dann sind die Überweisungen so beschlossen.</p>
           <p>Jetzt kommt noch eine leichtere Übung.</p>
           <stage type="interjection">(Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Sind Sie sich denn so sicher, daß es eine leichte ist?)</stage>
           <p>Ich rufe die Zusatzpunkte 4 und 6 auf:</p>
@@ -1083,7 +1083,7 @@
           <p>-- Drucksache 13/8443 --</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuß für Ernährung, Landwirtschaft und Forsten</p>
-          <stage type="interjection">(federführend)</stage>
+          <p>(federführend)</p>
           <p>Ausschuß für Gesundheit</p>
           <p>Ausschuß für Umwelt, Naturschutz und Reaktorsicherheit</p>
           <p>Ausschuß für die Angelegenheiten der Europäischen Union</p>
@@ -1092,7 +1092,7 @@
           <p>-- Drucksache 13/8505 --</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuß für Ernährung, Landwirtschaft und Forsten</p>
-          <stage type="interjection">(federführend)</stage>
+          <p>(federführend)</p>
           <p>Ausschuß für Gesundheit</p>
           <p>Ausschuß für Umwelt, Naturschutz und Reaktorsicherheit</p>
           <p>Ausschuß für die Angelegenheiten der Europäischen Union</p>
@@ -1102,7 +1102,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="2" what="debate" desc="ZP4 Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Erst...">
-        <sp who="Wolfgang Gröbl" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Ernährung, Landwirtschaft und Forsten" party="CSU" name="Wolfgang Gröbl">
+        <sp who="Wolfgang Gröbl" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Ernährung, Landwirtschaft und Forsten" who_original="Wolfgang Gröbl" party="CSU" name="Wolfgang Gröbl">
           <speaker>Wolfgang Gröbl, Parl. Staatssekretär beim Bundesminister für Ernährung, Landwirtschaft und Forsten:</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! In den Mitgliedstaaten der Europäischen Union haben sich Zulassung und Anwendung von Pflanzenschutzmitteln sehr unterschiedlich entwickelt. Eine Regelung im Rahmen der EU war dringend nötig. Maßgebliches Vorbild für die EU-Richtlinie 91/414 war das deutsche Pflanzenschutzgesetz von 1986. Somit hat die Bundesregierung unser hohes Schutzniveau für Mensch, Tier und Naturhaushalt auf europäischer Ebene durchgesetzt. Von der weitgehenden Harmonisierung erwarten wir den Abbau von Wettbewerbsunterschieden für Land-, Forstwirtschaft und Gartenbau.</p>
           <p>Zwischenzeitlich ist auch die erforderliche Nachbesserung im Anhang VI erfolgt. Zur Erinnerung: Die Bundesregierung hatte die Verabschiedung dieser einheitlichen Grundsätze damals abgelehnt, da sie einen geteilten Schutz des Grundwassers enthielten. Diese Regelung hätte unterhalb unseres bestehenden Schutzniveaus gelegen. Das Europäische Parlament ist noch weitergegangen und hat im Sinne der Bundesrepublik dagegen geklagt. So wurde eine Neufassung des Anhangs VI notwendig, die im Agrarministerrat am 22. und 23. September dieses Jahres abgestimmt wird.</p>
@@ -1122,14 +1122,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Nun gebe ich das Wort der Abgeordneten Ulrike Höfken.</p>
         </sp>
-        <sp who="Ulrike Höfken" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Ulrike Höfken">
+        <sp who="Ulrike Höfken" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Ulrike Höfken" party="GRUENE" name="Ulrike Höfken-Deipenbrock">
           <speaker>Ulrike Höfken (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kollegen! Ich wollte Sie nicht mit einer Freitagnachmittagsdebatte ärgern. Aber ein umweltrelevantes Gesetz nach dem anderen wird in den letzten Wochen durch dieses Parlament geschoben, zum Teil -- wohl als Ausdruck der Nervosität der Bundesregierung -- mit erheblicher Eile: das Wasserhaushaltsgesetz, das Bodenschutzgesetz, das BauROG, das Tierschutzgesetz und das Naturschutzgesetz. Ich finde es notwendig, daß wir in diesem Zusammenhang auch über das Pflanzenschutzgesetz eingehend beraten.</p>
-          <p>Das Naturschutzgesetz nimmt sehr eindeutig auf das Pflanzenschutzgesetz Bezug: als Grundlage der Eingriffsregelung, das heißt, als sehr relevanter Bestandteil, und Definition der guten fachlichen Praxis. Aber genau das versäumt die Vorlage der Bundesregierung: eine gesetzliche Definition der guten fachlichen Praxis in diesem Bereich zu geben. Vielmehr soll es offensichtlich zu einer unverbindlichen Bundesempfehlung kommen, die diese Definition vornimmt. Eine Grundlage für die Landwirte, eine Grundlage für den Umweltschutz, für die Wasserbehörden haben wir in diesem Fall nicht. </p>
+          <p>Das Naturschutzgesetz nimmt sehr eindeutig auf das Pflanzenschutzgesetz Bezug: als Grundlage der Eingriffsregelung, das heißt, als sehr relevanter Bestandteil, und Definition der guten fachlichen Praxis. Aber genau das versäumt die Vorlage der Bundesregierung: eine gesetzliche Definition der guten fachlichen Praxis in diesem Bereich zu geben. Vielmehr soll es offensichtlich zu einer unverbindlichen Bundesempfehlung kommen, die diese Definition vornimmt. Eine Grundlage für die Landwirte, eine Grundlage für den Umweltschutz, für die Wasserbehörden haben wir in diesem Fall nicht.</p>
           <p>Ich denke, das ist ein Versäumnis, das man nicht ohne weiteres auf sich beruhen lassen kann. Da kann man nicht sagen, daß es nur darum geht, EU-Vorlagen umzusetzen; das ist eine Selbstverständlichkeit.</p>
           <p>Eine Änderung des Pflanzenschutzgesetzes muß doch den Anforderungen gerecht werden, die sich daraus ergeben, daß die Bundesregierung die Biokonvention in Rio unterschrieben hat, daß sie sich darin verpflichtet hat, den Schutz der biologischen Vielfalt zu fördern und zu sichern. Dies müßte sich in einem solchen Gesetzentwurf, in einer solchen Änderung wiederfinden lassen. Das ist nicht der Fall. Wir haben statt dessen eine risikoreiche Deregulierung.</p>
           <p>Es geht nicht darum, chemische Substanzen "böse" zu finden, Herr Gröbl, sondern darum, ihnen nicht mit einer Naivität zu begegnen, die der Sache überhaupt nicht angemessen ist.</p>
@@ -1138,41 +1138,41 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Nun spricht der Abgeordnete Helmut Lamp.</p>
         </sp>
-        <sp who="Helmut Lamp" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Helmut Lamp">
+        <sp who="Helmut Lamp" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Helmut Lamp" party="CDU" name="Helmut Lamp">
           <speaker>Helmut Lamp (CDU/CSU):</speaker>
-          <p>Herr Präsident! Meine Damen und Herren! Der Staatssekretär hat die Änderung des Pflanzenschutzrechtes umrissen. Ich möchte mir ersparen, das zu ergänzen. Vielmehr möchte ich der Bundesregierung meinen Dank dafür aussprechen, daß sie seit Jahren bemüht ist, die hohen Anforderungen des Umweltschutzes und des Schutzes des Menschen auch hier umzusetzen. Ich denke, daß es sinnvoll ist, alle Harmonisierungsmöglichkeiten zu nutzen, um bestehende oder sich abzeichnende Wettbewerbsnachteile für die deutsche Landwirtschaft, für Industrie und den Handel abzubauen. Darüber wird noch zu reden sein. </p>
+          <p>Herr Präsident! Meine Damen und Herren! Der Staatssekretär hat die Änderung des Pflanzenschutzrechtes umrissen. Ich möchte mir ersparen, das zu ergänzen. Vielmehr möchte ich der Bundesregierung meinen Dank dafür aussprechen, daß sie seit Jahren bemüht ist, die hohen Anforderungen des Umweltschutzes und des Schutzes des Menschen auch hier umzusetzen. Ich denke, daß es sinnvoll ist, alle Harmonisierungsmöglichkeiten zu nutzen, um bestehende oder sich abzeichnende Wettbewerbsnachteile für die deutsche Landwirtschaft, für Industrie und den Handel abzubauen. Darüber wird noch zu reden sein.</p>
           <p>Insbesondere möchte ich mich mit dem Antrag der Grünen beschäftigen. Ich will zunächst darauf eingehen, daß die Grünen in ihrem Antrag Nachweise der Notwendigkeit des Pflanzenschutzes fordern. Es ist offensichtlich zunehmend in Vergessenheit geraten, daß ohne sachgerechten Pflanzenschutz der Hunger in der Welt ganz andere Dimensionen annehmen würde. Für die stark wachsende Weltbevölkerung ist der heutige Stand des sachgerechten Pflanzenschutzes ein Segen.</p>
           <p>Ich möchte auf das Zentrum Ihres Antrages eingehen, das auf die Einführung eines Pestizid-Reduzierungsprogrammes zielt. Sie haben gesagt, daß es solche Programme bereits in Dänemark, in Schweden und in den Niederlanden gibt. Das ist wahr. Schweden ist kein gutes Beispiel, weil dort 60 oder 70 Prozent der Pflanzenschutzmittel in den Wäldern eingesetzt werden. Das ist kein gutes Beispiel für die Landwirtschaft. Aber in Dänemark und in den Niederlanden konnte die Menge der eingesetzten Pflanzenschutzmittel immerhin um 30 Prozent bzw. im Fall der Niederlande um über 40 Prozent reduziert werden.</p>
-          <p>Auf den ersten Blick sind das imponierende Zahlen. Trotzdem lehne ich eine solche Lösung ab; denn hier wird nicht besonders intelligent vorgegangen. Man berücksichtigt vor allen Dingen die Menge und nicht die enormen Wirkungsunterschiede des breiten Mittelangebotes. So käme doch kein Mensch auf die Idee, den Konsum alkoholischer Getränke vom Malzbier bis zum 80 prozentigen Rum ohne Unterscheidung des Alkoholgehalts nur nach Litern zu beurteilen. </p>
+          <p>Auf den ersten Blick sind das imponierende Zahlen. Trotzdem lehne ich eine solche Lösung ab; denn hier wird nicht besonders intelligent vorgegangen. Man berücksichtigt vor allen Dingen die Menge und nicht die enormen Wirkungsunterschiede des breiten Mittelangebotes. So käme doch kein Mensch auf die Idee, den Konsum alkoholischer Getränke vom Malzbier bis zum 80 prozentigen Rum ohne Unterscheidung des Alkoholgehalts nur nach Litern zu beurteilen.</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Kollege Lamp, gestatten Sie eine Zwischenfrage der Kollegin Höfken?</p>
         </sp>
-        <sp who="Helmut Lamp" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Helmut Lamp">
+        <sp who="Helmut Lamp" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Helmut Lamp" party="CDU" name="Helmut Lamp">
           <speaker>Helmut Lamp (CDU/CSU):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Ulrike Höfken" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Ulrike Höfken">
+        <sp who="Ulrike Höfken" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Ulrike Höfken" party="GRUENE" name="Ulrike Höfken-Deipenbrock">
           <speaker>Ulrike Höfken (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sind Sie tatsächlich der Auffassung, daß der Hunger in der Welt reduziert werden konnte? Würden Sie zur Kenntnis nehmen, daß es gerade wegen des Einsatzes von Pestiziden zu weiteren gesundheitlichen Beeinträchtigungen von Menschen gekommen ist und daß der Erfolg der grünen Revolution doch etwas sehr gering im Verhältnis zum betriebenen Aufwand war? Ich denke an die Umweltfolgen, die wir gerade deswegen zu verzeichnen haben, weil Ackerflächen nicht mehr genutzt werden können.</p>
           <p>Der zweite Punkt. Ich denke, Sie haben mit Ihren Anmerkungen über die Mengen recht, die natürlich nicht das einzige Kriterium sein können. Aber wie beurteilen Sie eine Vorgehensweise -- auch wir schlagen sie vor --, die sich an einer qualitativen Reduktion ausrichtet und damit eine Beratung einschließt?</p>
         </sp>
-        <sp who="Helmut Lamp" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Helmut Lamp">
+        <sp who="Helmut Lamp" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Helmut Lamp" party="CDU" name="Helmut Lamp">
           <speaker>Helmut Lamp (CDU/CSU):</speaker>
           <p>Auf den letzten Teil Ihrer Frage komme ich gleich noch zu sprechen.</p>
-          <p>Auf Grund von weltweiten Untersuchungen und Veröffenlichungen und nach meinen eigenen Erfahrungen im Betrieb bin ich der festen Überzeugung, daß die Menge der Welternte ohne den Einsatz von Pflanzenschutzmitteln Jahr für Jahr um mindestens 30 Prozent geringer ausfallen würde. </p>
-          <p>Sie haben schon recht, daß in der dritten Welt oftmals nicht sachgerecht mit den eingesetzten Pflanzenschutzmitteln umgegangen wird. Wenn der Einsatz so wie bei uns gehandhabt wird, treten keine gesundheitlichen Schädigungen auf. Insbesondere sind zu 60 bis 70 Prozent die Anwender gefährdet. Ich habe mich bei den Berufsgenossenschaften erkundigt. </p>
+          <p>Auf Grund von weltweiten Untersuchungen und Veröffenlichungen und nach meinen eigenen Erfahrungen im Betrieb bin ich der festen Überzeugung, daß die Menge der Welternte ohne den Einsatz von Pflanzenschutzmitteln Jahr für Jahr um mindestens 30 Prozent geringer ausfallen würde.</p>
+          <p>Sie haben schon recht, daß in der dritten Welt oftmals nicht sachgerecht mit den eingesetzten Pflanzenschutzmitteln umgegangen wird. Wenn der Einsatz so wie bei uns gehandhabt wird, treten keine gesundheitlichen Schädigungen auf. Insbesondere sind zu 60 bis 70 Prozent die Anwender gefährdet. Ich habe mich bei den Berufsgenossenschaften erkundigt.</p>
           <p>Es gibt hier bei uns keinerlei gesundheitliche Folgen auf Grund der Anwendung dieser Mittel und schon gar nicht auf Grund des Genusses von Lebensmitteln, von denen man sagen könnte, daß sie mit Pflanzenschutzmitteln belastet und daß auf Grund dessen möglicherweise irgendwelche Krankheiten festzustellen seien. Das ist bei uns nicht der Fall. Der Einsatz von Pflanzenschutzmitteln spielt im deutschen Gesundheitswesen keine Rolle.</p>
-          <p>Ich möchte auf Ihr Reduktionsprogramm zurückkommen. Zum einen: Es ist nicht besonders intelligent gestaltet. Zum zweiten möchte ich Ihnen sagen, daß die deutsche Landwirtschaft ohne jede Reduktionsregelung von 1989 bis 1995 die Aufwandmenge hat halbieren können. Das bedeutet 50 Prozent weniger Menge. Das ist eine enorme, viel zu selten anerkannte Leistung, die realisiert werden konnte, weil sich zunehmend die Methoden des integrierten Pflanzenanbaus durchsetzen, sich die Gerätetechnik -- der Staatssekretär hat das schon angesprochen -- weiter verbessert hat, die Resistenz gegen Krankheiten ein vorrangiges Ziel der Züchtung ist und weil das fortschrittsorientierte Wirtschaften der deutschen Landwirte durch einen beispielhaft hohen Ausbildungsstand gesichert wird. Zusätzlich vermitteln Seminare und Schulungen den jeweils neuesten Wissensstand. </p>
+          <p>Ich möchte auf Ihr Reduktionsprogramm zurückkommen. Zum einen: Es ist nicht besonders intelligent gestaltet. Zum zweiten möchte ich Ihnen sagen, daß die deutsche Landwirtschaft ohne jede Reduktionsregelung von 1989 bis 1995 die Aufwandmenge hat halbieren können. Das bedeutet 50 Prozent weniger Menge. Das ist eine enorme, viel zu selten anerkannte Leistung, die realisiert werden konnte, weil sich zunehmend die Methoden des integrierten Pflanzenanbaus durchsetzen, sich die Gerätetechnik -- der Staatssekretär hat das schon angesprochen -- weiter verbessert hat, die Resistenz gegen Krankheiten ein vorrangiges Ziel der Züchtung ist und weil das fortschrittsorientierte Wirtschaften der deutschen Landwirte durch einen beispielhaft hohen Ausbildungsstand gesichert wird. Zusätzlich vermitteln Seminare und Schulungen den jeweils neuesten Wissensstand.</p>
           <p>Es gibt bei uns keine nachweisbaren gesundheitlichen Probleme.</p>
           <stage type="interjection">(Ulrike Höfken [BÜNDNIS 90/DIE GRÜNEN]: Das sagen aber nur die Berufsgenossenschaften, die die Renten nicht zahlen wollen!)</stage>
           <p>Deshalb, so denke ich, benötigen wir ein solches Reduktionsprogramm nicht.</p>
@@ -1180,17 +1180,17 @@
           <p>Ich bedanke mich.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich gebe dem Abgeordneten Dr. Gerald Thalheim das Wort.</p>
         </sp>
-        <sp who="Dr. Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gerald Thalheim">
+        <sp who="Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" who_original="Gerald Thalheim" party="SPD" name="Gerald Thalheim">
           <speaker>Dr. Gerald Thalheim (SPD):</speaker>
-          <p>Sehr geehrter Herr Präsident! Meine sehr geehrten Damen und Herren! Die Landwirtschaft in den westlichen Industrieländern, insbesondere in Europa, hat in den letzten 50 Jahren eine erstaunliche Produktionssteigerung erlebt. Es ist gelungen, die Bevölkerung mit preiswerten Lebensmitteln von hoher Qualität in Überfluß zu versorgen und gleichzeitig den Arbeitsaufwand zu senken. </p>
+          <p>Sehr geehrter Herr Präsident! Meine sehr geehrten Damen und Herren! Die Landwirtschaft in den westlichen Industrieländern, insbesondere in Europa, hat in den letzten 50 Jahren eine erstaunliche Produktionssteigerung erlebt. Es ist gelungen, die Bevölkerung mit preiswerten Lebensmitteln von hoher Qualität in Überfluß zu versorgen und gleichzeitig den Arbeitsaufwand zu senken.</p>
           <p>Dazu hat zweifellos der chemische Pflanzenschutz einen wichtigen Beitrag geleistet. Er ist aus einer modernen Landwirtschaft nicht mehr wegzudenken, allein wenn man bedenkt, wie es gelungen ist, durch chemische Unkrautbekämpfung schwere körperliche Arbeit zu reduzieren, die in der Vergangenheit häufig von Frauen und Kindern geleistet wurde.</p>
-          <p>Angesichts der Ertragssteigerung und der Fortschritte in der Produktionstechnik, die mit dem chemischen Pflanzenschutz möglich waren, sind anfänglich die negativen Folgen dieser Entwicklung vernachlässigt worden. </p>
-          <p>Erst als in den 60er Jahren die durch DDT verursachten Umweltbelastungen bekannt wurden, setzte bei Landwirten und Industrie -- zugegebenermaßen nach langer öffentlicher Diskussion -- endlich ein Umdenken ein. Auch der Gesetzgeber zog mit immer schärferen Bestimmungen im Pflanzenschutzgesetz Grenzen für den Einsatz von Pflanzenschutzmitteln, wobei die Bundesrepublik eine Vorreiterrolle eingenommen hat. </p>
-          <p>Mit der EU-Richtlinie kommt es endlich zu einer einheitlichen Regelung auf europäischer Ebene. Damit entfallen die häufig beklagten Wettbewerbsverzerrungen innerhalb des europäischen Binnenmarkts, über die wir in der Vergangenheit häufig diskutiert haben. </p>
+          <p>Angesichts der Ertragssteigerung und der Fortschritte in der Produktionstechnik, die mit dem chemischen Pflanzenschutz möglich waren, sind anfänglich die negativen Folgen dieser Entwicklung vernachlässigt worden.</p>
+          <p>Erst als in den 60er Jahren die durch DDT verursachten Umweltbelastungen bekannt wurden, setzte bei Landwirten und Industrie -- zugegebenermaßen nach langer öffentlicher Diskussion -- endlich ein Umdenken ein. Auch der Gesetzgeber zog mit immer schärferen Bestimmungen im Pflanzenschutzgesetz Grenzen für den Einsatz von Pflanzenschutzmitteln, wobei die Bundesrepublik eine Vorreiterrolle eingenommen hat.</p>
+          <p>Mit der EU-Richtlinie kommt es endlich zu einer einheitlichen Regelung auf europäischer Ebene. Damit entfallen die häufig beklagten Wettbewerbsverzerrungen innerhalb des europäischen Binnenmarkts, über die wir in der Vergangenheit häufig diskutiert haben.</p>
           <stage type="interjection">(Ulrich Heinrich [F.D.P.]: Es wäre schön, wenn Sie recht hätten! -- Gegenruf der Abg. Susanne Kastner [SPD]: Er hat immer recht!)</stage>
           <p>-- Herr Kollege, es ist zumindest ein Einstieg in die Diskussion erreicht worden. Ich hoffe -- darauf werde ich am Ende meiner Rede noch eingehen --, daß es in den Ausschußberatungen noch zu Veränderungen kommt.</p>
           <p>Mit dem jetzt vorliegenden Gesetzentwurf wird, so denke ich, ein entscheidender Schritt in Richtung einer Harmonisierung getan. Außerdem gelingt es, Lücken in der Gesetzgebung zu schließen. Das gilt -- von meinen Vorrednern wurde das bereits angesprochen -- für den Einsatz von Pflanzenschutzmitteln im Kleingartenbereich, also auf nichtlandwirtschaftlichem Gebiet. Dort gäbe es bei der Umsetzung des Gesetzentwurfes deutliche Fortschritte hinsichtlich der Verbesserung des Umwelt- und Verbraucherschutzes.</p>
@@ -1199,56 +1199,56 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich gebe das Wort dem Abgeordneten Ulrich Heinrich.</p>
         </sp>
-        <sp who="Ulrich Heinrich" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Ulrich Heinrich">
+        <sp who="Ulrich Heinrich" parliamentary_group="FDP" role="mp" position="NA" who_original="Ulrich Heinrich" party="FDP" name="Ulrich Heinrich">
           <speaker>Ulrich Heinrich (F.D.P.):</speaker>
-          <p>Herr Präsident! Meine Damen und Herren! Mit der heutigen ersten Beratung des Regierungsentwurfs eines Pflanzenschutzgesetzes haben wir einen schwierigen Balanceakt zu vollbringen. Einerseits wollen wir das hohe deutsche Schutzniveau für Mensch, Umwelt, Pflanzen und Tiere sichern. Auf der anderen Seite wollen wir es natürlich zu keinen weiteren Wettbewerbsnachteilen für die Landwirte und die heimische Industrie kommen lassen. Wir bewegen uns hier also mitten im Spannungsfeld zwischen Ökonomie und Ökologie. Deshalb appelliere ich an dieser Stelle ausdrücklich an alle Beteiligten auf die alten Grabenkämpfe zu verzichten. Wir sollten vielmehr die Fakten in einem Gesamtzusammenhang sehen, der globale und nicht nationale oder sektorale Antworten erfordert. Daher will ich auch erst die Erfolge aufzeigen, die wir heute im Pflanzenschutz erreicht haben, bevor ich auf die Novelle des Pflanzenschutzgesetzes selber eingehe. </p>
+          <p>Herr Präsident! Meine Damen und Herren! Mit der heutigen ersten Beratung des Regierungsentwurfs eines Pflanzenschutzgesetzes haben wir einen schwierigen Balanceakt zu vollbringen. Einerseits wollen wir das hohe deutsche Schutzniveau für Mensch, Umwelt, Pflanzen und Tiere sichern. Auf der anderen Seite wollen wir es natürlich zu keinen weiteren Wettbewerbsnachteilen für die Landwirte und die heimische Industrie kommen lassen. Wir bewegen uns hier also mitten im Spannungsfeld zwischen Ökonomie und Ökologie. Deshalb appelliere ich an dieser Stelle ausdrücklich an alle Beteiligten auf die alten Grabenkämpfe zu verzichten. Wir sollten vielmehr die Fakten in einem Gesamtzusammenhang sehen, der globale und nicht nationale oder sektorale Antworten erfordert. Daher will ich auch erst die Erfolge aufzeigen, die wir heute im Pflanzenschutz erreicht haben, bevor ich auf die Novelle des Pflanzenschutzgesetzes selber eingehe.</p>
           <p>Am Beispiel Deutschland sieht man, daß man am erfolgreichsten ist, wenn der Staat nicht dirigistisch interveniert. Wir haben den Pflanzenschutzmittelaufwand um 50 Prozent reduziert; Herr Kollege Thalheim hat das bereits gesagt.</p>
           <p>Wir brauchen kein Gesetz zur Beschreibung der guten fachlichen Praxis, Frau Kollegin.</p>
           <stage type="interjection">(Ulrike Höfken [BÜNDNIS 90/DIE GRÜNEN]: Doch!)</stage>
           <p>Wir halten diese Bürokratisierung für nicht angemessen, für hinderlich und nicht innovativ genug. Wenn wir etwas brauchen, können wir allenfalls mit Leitsätzen zur guten fachlichen Praxis im Pflanzenschutzbereich umgehen. Diese Leitsätze sind bereits formuliert und liegen mir hier auch vor. Wir sind durchaus bereit, die gute fachliche Praxis mit in den Vordergrund zu stellen, aber wir sind auf keinen Fall bereit, sie in Gesetzesform zu gießen.</p>
           <p>Daß unsere Bauern verantwortungsvoll mit dem Pflanzenschutz umgehen, belegen die Angaben des Umweltbundesamtes. In 95 Prozent von über 60 000 Proben von Grund- und Oberflächengewässern sind keine Rückstände nachweisbar. In 99 Prozent der Analysen wurde der sehr strenge Vorsorgewert der Trinkwasserverordnung durch die zugelassenen Pflanzenschutzmittel eingehalten. Deutschland hat weltweit die schärfsten Umweltstandards. Dabei unterliegen gerade die Pflanzenschutzmittel sehr strengen Zulassungsverfahren. Sie werden nur zugelassen, wenn ihre Wirkung auf Mensch, Natur und Umwelt von der zuständigen Biologischen Bundesanstalt im Einvernehmen mit dem Umweltbundesamt sowie dem Bundesinstitut für gesundheitlichen Verbraucherschutz und Veterinärmedizin als unbedenklich eingestuft wird.</p>
           <p>Der umweltschonende integrierte Pflanzenschutz hat sich in der Landwirtschaft voll durchgesetzt. Hier sind wir Spitzenreiter. So werden zum Beispiel sogenannte Nützlinge, insbesondere im Obst- und Gemüseanbau, aber auch im Maisanbau, eingesetzt. Ich kann das aus eigener Erfahrung in meinem Betrieb sagen: Ich verzichte auf einen Insektizideinsatz im Maisanbau und setze die nützliche Schlupfwespe ein, um hier wirklich zu reduzieren. Wir tun alles, was sinnvoll ist.</p>
-          <p>Deshalb müssen wir andererseits aber auch sehen, daß wir zu einer globalen Bewertung kommen. Dazu gehört, daß die Weltbevölkerung jedes Jahr um 80 Millionen wächst. Die steigenden Einkommen und eine höhere Nachfrage nach Getreide sind ganz besondere Herausforderungen, die weit über die agrarpolitische Frage hinausgehen und die in der Zukunft auf uns zukommen. Diese globalen Probleme sind nicht ohne Pflanzenschutzmittel und ohne die Biotechnologie zu lösen. </p>
+          <p>Deshalb müssen wir andererseits aber auch sehen, daß wir zu einer globalen Bewertung kommen. Dazu gehört, daß die Weltbevölkerung jedes Jahr um 80 Millionen wächst. Die steigenden Einkommen und eine höhere Nachfrage nach Getreide sind ganz besondere Herausforderungen, die weit über die agrarpolitische Frage hinausgehen und die in der Zukunft auf uns zukommen. Diese globalen Probleme sind nicht ohne Pflanzenschutzmittel und ohne die Biotechnologie zu lösen.</p>
           <p>Auf der Grundlage der EU-Richtlinie über das Inverkehrbringen von Pflanzenschutzmitteln soll nun ein einheitlicher Binnenmarkt weitestgehend ohne Handelsbarrieren geschaffen werden. Große Bedenken habe ich, ob dies mit der Novelle in der jetzt vorliegenden Form erreicht werden kann. In dem Maße, wie wir unser hohes Schutzniveau für Mensch und Umwelt ausbauen, nehmen gleichzeitig die Wettbewerbsverzerrungen zu und eben nicht ab.</p>
-          <p>Mit der sogenannten Indikationszulassung wird insbesondere die Situation für Pflanzenschutzmittelanwendungen in Sonderkulturen weiter verschärft. Ich habe das vorhin bereits in einem Zwischenruf zum Ausdruck gebracht. Welche Alternativen können wir unseren Sonderkulturbetrieben anbieten, wenn wir auf bewährte Mittel immer weniger zurückgreifen können? </p>
+          <p>Mit der sogenannten Indikationszulassung wird insbesondere die Situation für Pflanzenschutzmittelanwendungen in Sonderkulturen weiter verschärft. Ich habe das vorhin bereits in einem Zwischenruf zum Ausdruck gebracht. Welche Alternativen können wir unseren Sonderkulturbetrieben anbieten, wenn wir auf bewährte Mittel immer weniger zurückgreifen können?</p>
           <p>Problematisch ist weiterhin die zunehmende Bürokratie und die Regulierungsdichte. Die Schaffung einer großen Anzahl von zusätzlichen Stellen im Bereich der Industrie und der Landwirtschaft mit zusätzlichen Kosten von 120 Millionen DM zeigt deutlich, daß dieses Gesetz auch finanzielle Auswirkungen hat und wir es vor diesem Hintergrund sehr sorgfältig zu beraten hatten.</p>
-          <p>Weitere Wettbewerbsverzerrungen zu Lasten der deutschen Landwirtschaft entstehen durch Beschränkungen beim Einkauf von Pflanzenschutzmitteln in anderen europäischen Ländern. Daß wir baden-württembergische Bauern natürlich auch im angrenzenden Elsaß einkaufen konnten -- was bei uns bisher gang und gäbe war --, wird damit unterbunden. Ich meine, hier ist das Harmonisierungsziel nicht erreicht. Hier müssen wir den Anforderungen eines offenen Binnenmarktes entsprechend gerecht werden. </p>
+          <p>Weitere Wettbewerbsverzerrungen zu Lasten der deutschen Landwirtschaft entstehen durch Beschränkungen beim Einkauf von Pflanzenschutzmitteln in anderen europäischen Ländern. Daß wir baden-württembergische Bauern natürlich auch im angrenzenden Elsaß einkaufen konnten -- was bei uns bisher gang und gäbe war --, wird damit unterbunden. Ich meine, hier ist das Harmonisierungsziel nicht erreicht. Hier müssen wir den Anforderungen eines offenen Binnenmarktes entsprechend gerecht werden.</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Kollege, Sie müssen zum Schluß kommen.</p>
         </sp>
-        <sp who="Ulrich Heinrich" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Ulrich Heinrich">
+        <sp who="Ulrich Heinrich" parliamentary_group="FDP" role="mp" position="NA" who_original="Ulrich Heinrich" party="FDP" name="Ulrich Heinrich">
           <speaker>Ulrich Heinrich (F.D.P.):</speaker>
           <p>Es wäre vielleicht denkbar, daß wir hier ein vereinfachtes Zulassungsverfahren für identische Importe vorsehen.</p>
           <p>Der vorliegende Entwurf -- wir haben heute die erste Lesung -- wird gründlich überarbeitet werden- müssen, um all den Dingen, die unter anderem ich Ihnen vorgetragen habe, Rechnung zu tragen. Ich bin überzeugt, wir werden diese Aufgabe meistern.</p>
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich gebe das Wort der Abgeordneten Eva Bulling-Schröter.</p>
         </sp>
-        <sp who="Eva Bulling-Schröter" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Eva Bulling-Schröter">
+        <sp who="Eva Bulling-Schröter" parliamentary_group="PDS" role="mp" position="NA" who_original="Eva Bulling-Schröter" party="PDS" name="Eva-Maria Bulling-Schröter">
           <speaker>Eva Bulling-Schröter (PDS):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Offiziell werden in Deutschland pro Jahr etwa 35 000 Tonnen Pflanzenschutzmittel verkauft. Nachdem die Mengen zu Beginn der 90er Jahre gesunken waren, stiegen sie von 1994 auf 1995 wieder um 18 Prozent an, und sie steigen weiter.</p>
-          <p>An dieser Stelle möchte ich nicht auf die zahlreichen Untersuchungen eingehen, die nachgewiesen haben, welche Schäden viele Pflanzenschutzmittel im Naturhaushalt anrichten. Statt zu reduzieren, rechnen die produzierenden Chemiekonzerne mit wachsenden Marktanteilen gerade in diesen Bereichen. Mit steigender Einführung von pestizidresistenten genmanipulierten Pflanzen darf es keine Senkung des Verbrauchs geben; denn dann wären die diesbezüglichen teuren Forschungen in den Sand gesetzt. </p>
-          <p>Nebenbei bemerkt haben deutsche Chemiefirmen keine Hemmungen, bei uns seit langem verbotene Pestizide nach Lateinamerika zu verkaufen, von wo sie zum Beispiel mit importierten Bananen wieder zurückkommen. Das zum Thema Welternährung. </p>
-          <p>Liebe Kolleginnen und Kollegen, das bisherige Pflanzenschutzrecht hat mit dazu beigetragen, daß die konventionelle Landwirtschaft vor allem auf Spezialisierung und Monokultur setzt. Die Pflege der Pflanzenkulturen besteht aus einer Mischung von Prophylaxe vor Schädlingsbefall und Düngung mit synthetischen und Wirtschaftsdüngern. Hinzu kommt der Einsatz von Funktionsregulatoren und Wachstumshemmern, die mit all ihren schädigenden Wirkungen für die Artenvielfalt verbunden sind. Laut Naturschutzbund Deutschland sind bei jeder siebten Pflanzenart, die in der roten Liste auftaucht, Herbizide Hauptursache ihrer Gefährdung. </p>
+          <p>An dieser Stelle möchte ich nicht auf die zahlreichen Untersuchungen eingehen, die nachgewiesen haben, welche Schäden viele Pflanzenschutzmittel im Naturhaushalt anrichten. Statt zu reduzieren, rechnen die produzierenden Chemiekonzerne mit wachsenden Marktanteilen gerade in diesen Bereichen. Mit steigender Einführung von pestizidresistenten genmanipulierten Pflanzen darf es keine Senkung des Verbrauchs geben; denn dann wären die diesbezüglichen teuren Forschungen in den Sand gesetzt.</p>
+          <p>Nebenbei bemerkt haben deutsche Chemiefirmen keine Hemmungen, bei uns seit langem verbotene Pestizide nach Lateinamerika zu verkaufen, von wo sie zum Beispiel mit importierten Bananen wieder zurückkommen. Das zum Thema Welternährung.</p>
+          <p>Liebe Kolleginnen und Kollegen, das bisherige Pflanzenschutzrecht hat mit dazu beigetragen, daß die konventionelle Landwirtschaft vor allem auf Spezialisierung und Monokultur setzt. Die Pflege der Pflanzenkulturen besteht aus einer Mischung von Prophylaxe vor Schädlingsbefall und Düngung mit synthetischen und Wirtschaftsdüngern. Hinzu kommt der Einsatz von Funktionsregulatoren und Wachstumshemmern, die mit all ihren schädigenden Wirkungen für die Artenvielfalt verbunden sind. Laut Naturschutzbund Deutschland sind bei jeder siebten Pflanzenart, die in der roten Liste auftaucht, Herbizide Hauptursache ihrer Gefährdung.</p>
           <p>Das alles ist sicher erschreckend, darf aber nicht dazu führen, den Bäuerinnen und Bauern pauschal die Schuld dafür zuzuschieben; denn sie sind Gefangene in einem harten Konkurrenzkampf und in einem Interessengeflecht von chemischer Industrie, Lebensmittelkonzernen und Großagrariern. Nicht umsonst saß der gerade verabschiedete Präsident des Bauernverbandes, Freiherr von Heereman, lange Jahre im Aufsichtsrat des Chemieriesen Bayer.</p>
           <p>Wir sehen die von der Bundesregierung vorgelegte Novelle des Pflanzenschutzgesetzes als verfehlt an. Notwendig wäre ein weitreichendes Verbot des Einsatzes von Pestiziden. Verbindliche Anwendungsregeln und Zulassungsverfahren sind genauso notwendig wie die Definition des wiederum unbestimmten Begriffes "gute fachliche Praxis".</p>
           <p>Wir lehnen weiterhin die Beschneidung der Mitspracherechte der Bundesländer bei der Zulassung von Pestiziden ab und fordern, wie auch die Umweltverbände, einen Zugang zu Daten über die Auswirkungen der Pestizidwirkstoffe auf die menschliche Gesundheit. Wir unterstützen die Forderung der Umweltverbände, ein Pestizidreduktionsprogramm einzuführen, und werden für den Antrag der Fraktion Bündnis 90/Die Grünen stimmen.</p>
           <stage type="interjection">(Beifall bei der PDS und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Zum Schluß gebe ich das Wort der Abgeordneten Susanne Kastner.</p>
         </sp>
-        <sp who="Susanne Kastner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Susanne Kastner">
+        <sp who="Susanne Kastner" parliamentary_group="SPD" role="mp" position="NA" who_original="Susanne Kastner" party="SPD" name="Susanne Kastner">
           <speaker>Susanne Kastner (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen, die Bundesregierung steht mit der Umsetzung von EG-Richtlinien auf dem Kriegsfuß. Das wissen wir spätestens seit den Urteilen des Europäischen Gerichtshofes im Frühjahr und dem Urteil zur Zahlung von Ersatzleistungen wegen zu später Umsetzung der Pauschalreiserichtlinie. Auch die Vorlage der Bundesregierung zur Änderung des Pflanzenschutzgesetzes war überfällig, gilt es doch, die EG-Pflanzenschutzrichtlinie von 1991 in deutsches Recht umzusetzen und den angestauten Reformbedarf im Pflanzenschutzrecht abzubauen.</p>
           <p>Die Harmonisierung ist aus Gründen des Umweltschutzes, des Gesundheitsschutzes und des Wettbewerbsschutzes dringend erforderlich. So muß zum Beispiel die Anwendung von Pflanzenschutzmitteln wie Atrazin, die ins Grundwasser und ins Trinkwasser gelangen, auch in Frankreich und Belgien verboten werden. Anderenfalls könnten sich die deutschen Landwirte Atrazin oder andere bei uns verbotene Herbizide im Nachbarland kaufen, um sie aus Wettbewerbsgründen bei uns anzuwenden. Da der Grenzwert für Pflanzenschutzmittel in der EG-Trinkwasserrichtlinie mit Erfolg gegen die Änderungsforderungen der Industrie und der Agrarlobby in Brüssel verteidigt werden konnte, muß konsequenterweise auch die Anwendung der wassergefährdenden Wirkstoffe verhindert werden.</p>
@@ -1256,17 +1256,18 @@
           <p>Wir brauchen jedoch weitergehende Änderungen des Pflanzenschutzgesetzes, um gefährliche Auswirkungen der hochwirksamen chemischen Pflanzenschutzwirkstoffe auf die Umwelt, die Gesundheit des Menschen und die Natur möglichst schnell auszuschließen. Durch Anwendung der Herbizide auf Freiflächen geraten Wirkstoffe ins Grundwasser, in die Flüsse und ins Trinkwasser. Die hormonellen Wirkungen von Pflanzenschutzmitteln auf Tiere und Menschen sind erst seit kurzem mit erschreckenden Ergebnissen untersucht worden. Auch zu den krebserregenden Auswirkungen geringster Mengen chemischer Pflanzenschutzmittel gibt es inzwischen neue Untersuchungen.</p>
           <p>Bei der Anwendung von Pflanzenschutzmitteln, die ähnlich wie hochwirksame Arzneimittel nur von Fachleuten und auf Rezept möglich sein dürfte, gibt es noch große Unsicherheit und nicht akzeptable Praktiken. Dazu gehören die Entsorgung von Resten dieser Pflanzenschutzmittel auf dem Hof in die Kanalisation oder die Anwendung bei Wind oder auf bestimmten Flächen in der Nähe von Gewässern.</p>
           <stage type="interjection">(Ulrich Heinrich [F.D.P.]: Was Sie hier beschreiben, ist kriminell! -- Gegenruf von der SPD -- Ulrich Heinrich [F.D.P.]: Natürlich ist das verboten!)</stage>
-          <p>Die Bundesregierung lehnt die Forderung nach einer Rechtsverordnung über die gute fachliche Praxis bei der Anwendung von Pflanzenschutzmitteln aber wiederum ab. Der Bundesrat fordert in vielen Punkten eine Änderung des Gesetzentwurfes der Bundesregierung, die diese Vorschläge aber zum Teil ablehnt. Die Wasserwirtschaft und die Umweltverbände fordern ebenfalls weitergehende Änderungen. </p>
+          <p>Die Bundesregierung lehnt die Forderung nach einer Rechtsverordnung über die gute fachliche Praxis bei der Anwendung von Pflanzenschutzmitteln aber wiederum ab. Der Bundesrat fordert in vielen Punkten eine Änderung des Gesetzentwurfes der Bundesregierung, die diese Vorschläge aber zum Teil ablehnt. Die Wasserwirtschaft und die Umweltverbände fordern ebenfalls weitergehende Änderungen.</p>
           <p>Die SPD wird sich für eine sorgfältige Beratung des Gesetzentwurfes im Umwelt- und Agrarausschuß des Bundestages einsetzen und in einer öffentlichen Anhörung die Streitfragen zur Diskussion stellen. Wir als politisch Verantwortliche haben aber die Aufgabe, nicht nur verbal, sondern auch durch die Tat unsere natürlichen Lebensgrundlagen zu schützen.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Weitere Wortmeldungen liegen nicht vor. Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird die Überweisung des Gesetzentwurfs auf Drucksache 13/8443 und des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN auf Drucksache 13/8505 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. -- Ich sehe und höre dazu keinen Widerspruch. Dann sind die Überweisungen so beschlossen.</p>
           <p>Wir sind damit am Schluß der Tagesordnung.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 24. September 1997, 13 Uhr ein.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluß der Sitzung: 12.25 Uhr)</stage>
         </sp>
       </div>
     </body>

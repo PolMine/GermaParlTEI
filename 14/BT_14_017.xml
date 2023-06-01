@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-06</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2005/1205/bic/plenarprotokolle/pp/1999/14017a.zip</url>
-        <date>2015-10-20 19:19:39</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -36,7 +36,7 @@
   <text>
     <body>
       <div type="agenda_item" n="1" what="debate" desc="10. Erste Beratung des von den Fraktionen SPD und BÜNDNIS 90/DIE GRÜNEN eingebra...">
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Die Sitzung ist eröffnet.</p>
           <p>Ich rufe Tagesordnungspunkt 10 sowie Zusatzpunkt 5 auf:</p>
@@ -73,7 +73,7 @@
           <stage type="interjection">(Dr. Guido Westerwelle [F.D.P.]: Die Regierung fehlt!)</stage>
           <p>Ich erteile das Wort Bundesminister Walter Riester.</p>
         </sp>
-        <sp who="Walter Riester" parliamentary_group="NA" role="government" position="Bundesminister für Arbeit und Sozialordnung" party="SPD" name="Walter Riester">
+        <sp who="Walter Riester" parliamentary_group="NA" role="government" position="Bundesminister für Arbeit und Sozialordnung" who_original="Walter Riester" party="SPD" name="Walter Riester">
           <speaker>Walter Riester, Bundesminister für Arbeit und Sozialordnung:</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Seit Monaten beherrscht kaum ein sozialpolitisches Thema die Debatte so stark wie die Zukunft der sozialversicherungspflichtigen geringfügigen Beschäftigungsverhältnisse.</p>
           <stage type="interjection">(Zuruf von der F.D.P.)</stage>
@@ -85,7 +85,7 @@
           <p>Erstes Beispiel. Ein Handwerksgeselle steht in einem regulären Beschäftigungsverhältnis. Der Geselle arbeitet 38,5 Stunden in der Woche in einem Tischlerbetrieb und zahlt von seinen 4 000 DM brutto Steuern und Sozialabgaben. Nach Feierabend jobbt er für einen anderen Betrieb - bis jetzt sozialabgabenfrei - auf 630-DM-Basis. Die Pauschalsteuer zahlt möglicherweise der Arbeitgeber.</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Muß er ja!)</stage>
           <p>- Nein, das muß der Arbeitgeber nicht. Die Steuerpflicht bei Arbeitgebern ist nicht gegeben.</p>
-          <p>Dieser Handwerksgeselle mit einem Gesamteinkommen von 4 630 DM muß bis zum heutigen Tag nur für  4 000 DM Steuern und Abgaben zahlen. Ein anderer Arbeitnehmer, der das gleiche Einkommen mit nur einem Job erzielt, ist für das gesamte Einkommen steuer- und sozialabgabenpflichtig. Damit subventionieren heute Arbeitnehmer mit ihrem regulären Arbeitsverhältnis die Zweitjobs derjenigen, die noch etwas hinzuverdienen wollen. Niemand kann behaupten, daß das in Ordnung ist. Hier klafft eine Gerechtigkeitslücke.</p>
+          <p>Dieser Handwerksgeselle mit einem Gesamteinkommen von 4 630 DM muß bis zum heutigen Tag nur für 4 000 DM Steuern und Abgaben zahlen. Ein anderer Arbeitnehmer, der das gleiche Einkommen mit nur einem Job erzielt, ist für das gesamte Einkommen steuer- und sozialabgabenpflichtig. Damit subventionieren heute Arbeitnehmer mit ihrem regulären Arbeitsverhältnis die Zweitjobs derjenigen, die noch etwas hinzuverdienen wollen. Niemand kann behaupten, daß das in Ordnung ist. Hier klafft eine Gerechtigkeitslücke.</p>
           <p>Zweites Beispiel. Eine alleinerziehende Frau mit zwei Kindern arbeitet in einem geringfügigen Beschäftigungsverhältnis. Viel mehr kann sie den Umständen bedingt häufig auch gar nicht tun. Diese Frau, die insgesamt eine Dreifachbelastung zu tragen hat, erhält nach jetziger Rechtslage nicht einmal die Chance, für einen Pfennig ihres Verdienstes Rentenansprüche zu erwerben. Auch hier klafft eine Gerechtigkeitslücke.</p>
           <p>Mit dem heute eingebrachten Entwurf eines Gesetzes zur Neuregelung der geringfügigen Beschäftigungsverhältnisse werden wir diese Lücken schließen.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -111,7 +111,7 @@
           <p>Ordnung auf dem Arbeitsmarkt heißt aber auch mehr Transparenz. Jedes Beschäftigungsverhältnis, ob für 300 oder 630 DM im Monat, wird künftig auf der Lohnsteuerkarte vermerkt.</p>
           <stage type="interjection">(Dr. Heinrich L. Kolb [F.D.P.]: Das heißt mehr Bürokratie!)</stage>
           <p>- Nein, das heißt nicht mehr Bürokratie. Das heißt erstmals die Kontrollmöglichkeit und auch die Verhinderung von zunehmender Schwarzarbeit.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN - Lachen bei der F.D.P.)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN - Lachen bei der F.D.P.)</stage>
           <p>Ein Wort aber auch zu den Bedenken in der Wirtschaft: Durch den systematischen Mißbrauch der 630-DM-Jobs verschaffen sich Teile der Wirtschaft Wettbewerbsvorteile zu Lasten derer, die Monat für Monat ihre Beiträge für die Sozialversicherung verantwortungsvoll entrichten. Diese Wettbewerbsverzerrung werden wir beenden.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Wir wollen diese Beschäftigungsform wieder zu dem machen, wozu sie einmal gedacht war. Sie soll nämlich die notwendige Flexibilität im Arbeitseinsatz dort gewährleisten, wo dies mit normalen Arbeitsverhältnissen nur schwierig möglich wäre. Mittelfristig werden wir daher die Ausweitung der geringfügigen Beschäftigungsverhältnisse eindämmen. Das gelingt uns, indem wir die Geringfügigkeitsgrenze bei 630 DM einfrieren.</p>
@@ -141,11 +141,11 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun der Kollege Hermann Kues, CDU/CSU-Fraktion.</p>
         </sp>
-        <sp who="Dr. Hermann Kues" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hermann Kues">
+        <sp who="Hermann Kues" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hermann Kues" party="CDU" name="Hermann Kues">
           <speaker>Dr. Hermann Kues (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Herr Minister Riester, Ihre Rede paßte zu allem möglichen, nur nicht zu dem Gesetzentwurf, den Sie vorgelegt haben.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
@@ -158,11 +158,11 @@
           <p>Das, was sich in den letzten Wochen in der Koalition bei diesem Thema abgespielt hat, spottet jeder Beschreibung.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. - Abg. Ulla Schmidt [Aachen] [SPD] und Abg. Petra Pau [PDS] melden sich zu Zwischenfragen)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Herr Kollege Kues, gestatten Sie eine Zwischenfrage?</p>
         </sp>
-        <sp who="Dr. Hermann Kues" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hermann Kues">
+        <sp who="Hermann Kues" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hermann Kues" party="CDU" name="Hermann Kues">
           <speaker>Dr. Hermann Kues (CDU/CSU):</speaker>
           <p>Im Prinzip gerne. Ich möchte aber zunächst einmal einige Gedanken ausführen.</p>
           <p>Das ist virtuelle Politik à la Bundeskanzler Gerhard Schröder. Man sagt, man müsse etwas tun. Man will aber nichts tun, und wenn man etwas tut, tut man es so, daß die Menschen das am besten überhaupt nicht merken. Ich biete Ihnen jede Wette an, daß dies nicht der letzte Vorschlag ist, den Sie gemacht haben. Man mußte seine Rede, Herr Minister Riester, geradezu am Nachrichtenticker entwerfen, um mitzubekommen, was sich in den letzten Stunden alles geändert hat. So ist nämlich die Wirklichkeit.</p>
@@ -177,27 +177,27 @@
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Diejenigen unter Ihnen - das paßt zu Ihnen, Frau Schmidt -, die sich ehrlich engagiert und geglaubt haben, es gehe bei der Diskussion über die 630-Mark-Jobs wirklich um eine bessere Alterssicherung der Frauen, stehen doch wie begossene Pudel da. Wenn man Ihren Gesetzentwurf genau betrachtet, dann ist festzustellen, daß der Vorschlag so neu wie ein alter Hut ist, den Sie lediglich gewendet haben - statt Steuern jetzt Abgaben - und den Sie vor allem den Frauen andrehen wollen, wobei Sie dann noch behaupten, er stehe ihnen gut.</p>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Herr Kollege Kues, gestatten Sie jetzt eine Zwischenfrage der Kollegin Schmidt?</p>
         </sp>
-        <sp who="Dr. Hermann Kues" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hermann Kues">
+        <sp who="Hermann Kues" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hermann Kues" party="CDU" name="Hermann Kues">
           <speaker>Dr. Hermann Kues (CDU/CSU):</speaker>
           <p>Jetzt gestatte ich eine Zwischenfrage.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt (Aachen)" parliamentary_group="SPD" role="mp" position="NA" who_original="Ulla Schmidt (Aachen)" party="SPD" name="Ulla Schmidt">
           <speaker>Ulla Schmidt (Aachen) (SPD):</speaker>
           <p>Herr Kollege Kues, sind Sie mit mir der Meinung, daß Rentenansprüche von Frauen nicht nur in geringfügiger Beschäftigung - also die knapp 7 DM pro Monat - erworben werden können, sondern daß für die Frauen durch unsere Option eine große Chance eröffnet wird</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Das glauben Sie doch selber nicht!)</stage>
           <p>- Sie sollten zuhören; ich glaube es, sonst würde ich es nicht sagen; Sie kennen mich doch lange genug -, weil im Erwerbsleben einer Frau eine geringfügige Beschäftigung oft zu anderen Beschäftigungen hinzukommt, und daß mit dieser Option Rentenbiographien geschlossen und weitergehende Ansprüche auch im Hinblick auf die Rente langjährig Versicherter, im Hinblick auf die Rente nach Mindesteinkommen, Erwerbsunfähigkeitsrenten und anderes mehr erworben werden können? Sind Sie insofern mit mir der Meinung, daß der Vorteil dieser Regelung nicht darin besteht, daß die Rentenansprüche im Alter um 6,78 DM erhöht werden, sondern darin, daß ein komplettes Angebot geschaffen wird, also eine Zusammenfügung von Renten bzw. Einzahlungszeiten ermöglicht wird angesichts dessen, daß Frauen in ihrem Erwerbsleben vor der Ehe oft zeitlich voll, während der Erziehung der Kinder geringfügig beschäftigt und anschließend wieder in Vollzeit erwerbstätig sind?</p>
           <stage type="interjection">(Beifall bei der SPD - Dr. Irmgard Schwaetzer [F.D.P.]: Das ist doch längst geregelt!)</stage>
         </sp>
-        <sp who="Dr. Hermann Kues" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hermann Kues">
+        <sp who="Hermann Kues" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hermann Kues" party="CDU" name="Hermann Kues">
           <speaker>Dr. Hermann Kues (CDU/CSU):</speaker>
           <p>Frau Kollegin Schmidt, wenn man sich Ihre Frage richtig zu Gemüte führt - "Was könnte alles passieren, wenn ...?" -, dann merkt man schon, wie kompliziert diese ganze Regelung ist. Sie vergessen vor allen Dingen eines: Männer und Frauen erwerben erst dann zusätzliche Rentenansprüche, wenn sie selbst vorher zusätzlich einzahlen. Und Sie sollten auch die Summe nennen: Wenn es um ein Beschäftigungsverhältnis geht, bei dem die Bezahlung unter 300 DM liegt, dann muß ein Mindestsatz von 58,60 DM - 19,5 Prozent von 300 DM - eingezahlt werden. Das heißt: Wenn ich Geld mitbringe, erwerbe ich einen zusätzlichen Rentenanspruch. Das war im gesamten System auch bisher schon möglich.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. - Widerspruch bei der SPD)</stage>
           <p>Noch einmal: Wer Geld mitbringt, der kann bei der von Ihnen vorgesehenen Regelung irgendwann eine minimale Rente bekommen.</p>
-          <p>Ich habe mein Beispiel eben auf die Summe von  300 DM bezogen. Bei einer Frau, die 100 DM im Monat verdient, muß der Arbeitgeber 12 DM zahlen, und sie muß den Rest, nämlich 46,50 DM, tragen. Damit erwirbt sie, auf das Jahr gerechnet, einen Rentenanspruch von  7 DM monatlich. Das ist das Ergebnis Ihres Entwurfs. Ich finde, das ist im Grunde genommen keine Lösung.</p>
+          <p>Ich habe mein Beispiel eben auf die Summe von 300 DM bezogen. Bei einer Frau, die 100 DM im Monat verdient, muß der Arbeitgeber 12 DM zahlen, und sie muß den Rest, nämlich 46,50 DM, tragen. Damit erwirbt sie, auf das Jahr gerechnet, einen Rentenanspruch von 7 DM monatlich. Das ist das Ergebnis Ihres Entwurfs. Ich finde, das ist im Grunde genommen keine Lösung.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Der Minister hat oft das Wort "gerecht" gebraucht. Ich wundere mich eigentlich nicht, daß Sie eine bürokratische Lösung vorschlagen. Es paßt in mein Bild von Ihnen, daß eine komplizierte Regelung herausgekommen ist. Aber daß Sie geringverdienende Frauen mit dieser Regelung schamlos zur Kasse bitten, ist nach meiner festen Überzeugung nicht nur dreist, sondern - soviel zu dem Wort "gerecht" - in hohem Maße ungerecht.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
@@ -208,11 +208,11 @@
           <p>Ich glaube, daß Sie einfach mit unserer Grundphilosophie vom Sozialstaat wenig anfangen können. Die nämlich besteht darin, daß große Risiken staatsfern solidarisch abgesichert werden müssen und die Leistungen den Beiträgen entsprechen. Damit können Sie nichts anfangen. Heute morgen habe ich ein Interview mit Ihnen, Herr Riester, im Deutschlandradio gehört. Sie haben gesagt, die vorgesehene Regelungen bringe nur Vorteile. Ich behaupte einmal: Sozialpolitische Lösungen, die nur mit Vorteilen verbunden sind, gibt es nicht. Es gibt nur sozialpolitisch gerechte Lösungen, und diese müssen Strukturen so verändern, daß das angestrebte Ziel erreicht wird.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Herr Kollege Kues, gestatten Sie eine Zwischenfrage des Kollegen Seifert von der PDS-Fraktion?</p>
         </sp>
-        <sp who="Dr. Hermann Kues" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hermann Kues">
+        <sp who="Hermann Kues" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hermann Kues" party="CDU" name="Hermann Kues">
           <speaker>Dr. Hermann Kues (CDU/CSU):</speaker>
           <p>Nein, das möchte ich im Moment nicht.</p>
           <stage type="interjection">(Dr. Ilja Seifert [PDS]: Haben Sie Angst vor meiner Frage?)</stage>
@@ -225,11 +225,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Das Wort hat Kollegin Thea Dückert, Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Dr. Thea Dückert" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Thea Dückert">
+        <sp who="Thea Dückert" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Thea Dückert" party="GRUENE" name="Thea Dückert">
           <speaker>Dr. Thea Dückert (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Guten Morgen! Herr Präsident! Liebe Kolleginnen und Kollegen! Lieber Herr Dr. Kues, ich muß eingangs einige Bemerkungen zu Ihrer Rede machen. Ich freue mich schon darüber, daß Sie meinen, daß unsere Gesundheitsreform möglicherweise dazu führen kann, daß es demnächst Arbeitnehmerinnen geben wird, die 150 Jahre lang berufstätig gewesen sein werden. Ich glaube allerdings, Herr Dr. Kues, daß diese Ihre Einschätzung etwas an der Realität vorbeigeht.</p>
           <stage type="interjection">(Walter Hirche [F.D.P.]: Vielleicht haben Sie nicht zugehört!)</stage>
@@ -303,20 +303,20 @@
           <p>Die Rentenversicherung ist anders strukturiert. Hier können die Arbeitnehmerinnen und Arbeitnehmer tatsächlich eine Option bekommen. Natürlich müssen sie einen Mindestbeitrag zahlen; das ist bei jeder Versicherung so. Für den Erwerb des Rentenanspruchs muß ein Mindestbeitrag von 300 DM gezahlt werden.</p>
           <p>Diese Option ist besonders für Frauen mit ganz bestimmten Erwerbsbiographien interessant, nämlich für diejenigen, die - das ist für gebrochene Erwerbsbiographien normal - schon an anderer Stelle Rentenbeiträge gezahlt, aber noch keine Rentenansprüche erworben haben, weil die Mindestzeiten der Beitragszahlung nicht eingehalten wurden. Diese Frauen haben sicherlich ein großes Interesse daran - und auch die Möglichkeit -, in diese Rentenversicherung einzusteigen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
-          <p>1150 Deutscher Bundestag - 14. Wahlperiode - 17. Sitzung. Bonn, Freitag, den 22. Januar 1999 Deutscher Bundestag - 14. Wahlperiode - 17. Sitzung. Bonn, Freitag, den 22. Januar 1999 1143 Deutscher Bundestag - 14. Wahlperiode - 245. Sitzung, Bonn, Donnerstag, den 25. Juni 1998 1150 Das ist ein Vorteil. Den können sie wählen. Sie können sich einen Einstieg in eine wirklich eigenständige Absicherung eröffnen.</p>
+          <p>Das ist ein Vorteil. Den können sie wählen. Sie können sich einen Einstieg in eine wirklich eigenständige Absicherung eröffnen.</p>
           <p>Ich weiß, daß viele lieber eine Pflichtversicherung hätten. Ich weiß aber auch, daß diese Pflichtversicherung für viele Frauen nicht günstig wäre, und zwar dann, wenn es in Zukunft möglicherweise zu einer Senkung der Ansprüche käme, die sie sich schon erarbeitet haben. Das ist natürlich ein schwieriges Feld. Deswegen denke ich, daß dieser erste Schritt, diese freiwillige Option für Frauen, in diese Arbeitsverhältnisse zu gehen, sinnvoll ist. Damit erreichen sie in der Tat einen geringen Anstieg ihres Anspruchs auf Altersrente.</p>
           <p>Aber das ist, wie Sie schon richtig gesagt haben, nicht der zentrale Punkt. Der zentrale Punkt ist, daß es ein Vollpaket mit Rente, Reha-Leistungen sowie BU- und EU-Leistungen gibt. Das ist ein gutes Angebot.</p>
-          <p>Sie wissen aber auch, daß die spannende und kontroverse Diskussion in der letzten Zeit insbesondere um die Steuerfrage ging. Wir haben besonders in diese Steuerfrage unser Herzblut hineingesteckt, weil uns von Anfang an die Ankündigung, daß die Nebenjobs nicht versteuert werden sollen, überhaupt nicht gepaßt hat, und zwar aus Steuergerechtigkeitsgründen. Wir haben an dieser Stelle erreicht, daß die Nebenjobs besteuert werden. Es wird so sein, daß Arbeitsverhältnisse zusammengezählt werden. Es wird so sein, daß kleine Arbeitsverhältnisse, also eine Vielzahl von Nebenjobs, zusammengezählt werden. Wir erreichen damit, daß all diejenigen dann - wo immer sie auch arbeiten -, wenn sie in der Summe ihrer Arbeitsverhältnisse die Grenze der Besteuerbarkeit überschreiten, besteuert werden. Ne- benjobs werden besteuert. Das war in der Debatte vom letzten Herbst hier noch anders angekündigt wor- den. Wir sehen es als einen großen grünen Erfolg an,  an dieser Stelle eine Ungerechtigkeit verhindert zu haben.</p>
+          <p>Sie wissen aber auch, daß die spannende und kontroverse Diskussion in der letzten Zeit insbesondere um die Steuerfrage ging. Wir haben besonders in diese Steuerfrage unser Herzblut hineingesteckt, weil uns von Anfang an die Ankündigung, daß die Nebenjobs nicht versteuert werden sollen, überhaupt nicht gepaßt hat, und zwar aus Steuergerechtigkeitsgründen. Wir haben an dieser Stelle erreicht, daß die Nebenjobs besteuert werden. Es wird so sein, daß Arbeitsverhältnisse zusammengezählt werden. Es wird so sein, daß kleine Arbeitsverhältnisse, also eine Vielzahl von Nebenjobs, zusammengezählt werden. Wir erreichen damit, daß all diejenigen dann - wo immer sie auch arbeiten -, wenn sie in der Summe ihrer Arbeitsverhältnisse die Grenze der Besteuerbarkeit überschreiten, besteuert werden. Ne- benjobs werden besteuert. Das war in der Debatte vom letzten Herbst hier noch anders angekündigt wor- den. Wir sehen es als einen großen grünen Erfolg an, an dieser Stelle eine Ungerechtigkeit verhindert zu haben.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
           <p>Dennoch, meine Damen und Herren: Auch wenn wir erfolgreich in diesem Punkt waren, muß man feststellen, daß die Regelung zur Besteuerung einen Schönheitsfehler hat. Sie hat den Schönheitsfehler - das sage ich hier ganz deutlich; da konnten wir uns auch nicht durchsetzen -, daß Ehefrauen ihr Einkommen aus geringfügigen Beschäftigungsverhältnissen bis 630 DM nicht der Besteuerung zuführen müssen. Ihr Einkommen wird nicht der gemeinsamen Besteuerung mit dem Ehepartner zugerechnet. Das empfinden wir als Ungerechtigkeit. Das empfinden wir auch als ungut gegenüber anderen Personengruppen, zum Beispiel gegenüber Alleinerziehenden. Aber ich sage auch: Wir konnten uns hier nicht durchsetzen. Aber es ist eine Aufforderung an uns, dafür zu sorgen, daß zum Beispiel das Ehegattensplitting abgeschafft wird.</p>
           <p>Alles in allem: Es gibt Schattenseiten, aber die guten Seiten des Gesetzentwurfs überwiegen. Die Sozialkassen werden gestärkt; der Mißbrauch wird eingeschränkt; die Rentenoption wird eröffnet, und die Nebenjobs werden besteuert. Wenn ich das alles zusammennehme, muß ich das Fazit ziehen: Gar nicht schlecht, Herr Specht.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun die Kollegin Irmgard Schwaetzer, F.D.P.-Fraktion.</p>
         </sp>
-        <sp who="Dr. Irmgard Schwaetzer" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Irmgard Schwaetzer">
+        <sp who="Irmgard Schwaetzer" parliamentary_group="FDP" role="mp" position="NA" who_original="Irmgard Schwaetzer" party="FDP" name="Irmgard Schwaetzer">
           <speaker>Dr. Irmgard Schwaetzer (F.D.P.):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Einige von Ihnen haben es selber zugegeben, daß sie in der Steuer- und Sozialpolitik einen Fehlstart hingelegt haben. Einige haben auch dazu gesagt, daß sie jetzt einmal eine Denkpause nehmen wollten. Leider - das zeigen die vorliegenden Seiten - haben Sie diese Denkpause für die 630-Mark-Verträge nur dazu genutzt, Regelungen vorzuschlagen, die aufs höchste verfassungsrechtlich bedenklich sind, sozialpolitisch nicht zu den Effekten führen, die Sie damit im Auge haben, und arbeitsmarktpolitisch ausgesprochen negativ wirken.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
@@ -324,7 +324,7 @@
           <stage type="interjection">(Beifall bei Abgeordneten der F.D.P.)</stage>
           <p>Es gibt 57 Druckseiten - das muß man sich einmal vorstellen - für die Regulierung der geringfügigen Beschäftigung. Das ist wirklich eine Höchstleistung. Sie wird zu nichts anderem führen als zu mehr Schwarzarbeit und nichts sonst.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
-          <p>Es beginnt schon mit dem Festschreiben der Versicherungsfreigrenze. Verbal wollen Sie Arbeitnehmern und Betrieben die notwendige Flexibilität erhalten. Das hat schließlich Ihr Kanzler versprochen. Herr Riester hat es heute morgen wiederholt. Aber tatsächlich frieren Sie diese Flexibilität ein. Das ist nichts anderes als der Tod auf Raten für den sich schon heute in einem engen Rahmen bewegenden Rest an individueller Gestaltung auf dem Arbeitsmarkt. -  Nein, Sie können diese Beschäftigungsverhältnisse nicht abschaffen. Aber Sie würgen sie ab. Das ist auch so gewollt; denn das ist der Kompromiß zwischen den Versprechen Ihres Kanzlers und der Ideologie von Rotgrün.</p>
+          <p>Es beginnt schon mit dem Festschreiben der Versicherungsfreigrenze. Verbal wollen Sie Arbeitnehmern und Betrieben die notwendige Flexibilität erhalten. Das hat schließlich Ihr Kanzler versprochen. Herr Riester hat es heute morgen wiederholt. Aber tatsächlich frieren Sie diese Flexibilität ein. Das ist nichts anderes als der Tod auf Raten für den sich schon heute in einem engen Rahmen bewegenden Rest an individueller Gestaltung auf dem Arbeitsmarkt. - Nein, Sie können diese Beschäftigungsverhältnisse nicht abschaffen. Aber Sie würgen sie ab. Das ist auch so gewollt; denn das ist der Kompromiß zwischen den Versprechen Ihres Kanzlers und der Ideologie von Rotgrün.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
           <p>Sie vernichten weitere Arbeitsplätze; denn mit der Zusammenlegung von Haupt- und Nebenbeschäftigung und der Abschaffung der individuellen Freigrenze wird natürlich das Arbeitsverhältnis auch für den Arbeitgeber teurer.</p>
           <p>Daß es Ihnen, meine Damen und Herren, nur um schlichtes Abkassieren geht, das zeigt doch - Frau Dückert, da müssen Sie irgend etwas nicht richtig mitbekommen haben -, daß Sie Beiträge von den Arbeitgebern erheben, aber die Arbeitnehmer im Regelfall keinerlei zusätzliche Ansprüche haben.</p>
@@ -365,11 +365,11 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
-          <p>Das Wort hat Kollegin Knake-Werner, PDS-Fraktion. </p>
+          <p>Das Wort hat Kollegin Knake-Werner, PDS-Fraktion.</p>
         </sp>
-        <sp who="Dr. Heidi Knake-Werner" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Heidi Knake-Werner">
+        <sp who="Heidi Knake-Werner" parliamentary_group="PDS" role="mp" position="NA" who_original="Heidi Knake-Werner" party="PDS" name="Heidi Knake-Werner">
           <speaker>Dr. Heidi Knake-Werner (PDS):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Verehrte Kollegin Schwaetzer, mit der Fähigkeit zur Selbstkritik ist das ja immer so eine Sache. Ich hätte mir in den letzten 16 Jahren auch einmal eine so engagierte Rede von Ihnen gewünscht, wie Sie sie jetzt als Vertreterin einer Oppositionspartei vortragen. Wenn Sie hier gegen das Abkassieren wettern, dann haben Sie wohl schon wieder vergessen, wo Sie in den letzten Jahren hingelangt haben und bei wem Sie in die Taschen gegriffen haben.</p>
           <stage type="interjection">(Beifall bei der PDS sowie bei Abgeordneten der SPD)</stage>
@@ -395,23 +395,23 @@
           <p>Die gleiche Bezahlung von geringfügiger Beschäftigung in Ost und West endlich durchgesetzt zu haben halten wir unter dem Gesichtspunkt der Gleichstellung der Frauen für richtig. Wir unterstützen dies; denn es war den Frauen in Ostdeutschland nicht mehr zu erklären - sie empfanden es als Demütigung -, warum sie 100 DM weniger bekommen sollten.</p>
           <p>Aber unter beschäftigungspolitischen Aspekten ist es in der Tat ein riesengroßes Problem. Durch die geringeren Tarifeinkommen in Ostdeutschland entsteht nämlich die Situation, daß sich viele Frauen, die heute teilzeit- oder noch vollzeitbeschäftigt sind, überlegen werden, ob sie nicht mehr Geld in der Tasche haben, wenn sie auf eine geringfügige Beschäftigung ausweichen. Darin liegt für die Arbeitgeber die Chance, daß die Akzeptanz der geringfügigen Beschäftigung erhöht wird. Das ist eine fatale Entwicklung für die Frauen und für die Sozialkassen.</p>
           <p>Für die Arbeitgeber ist es im wesentlichen ein Nullsummenspiel. Die einzige Änderung für sie ist, daß sie in Zukunft die Pauschalsteuer, wie sie es in der Vergangenheit nicht selten gemacht haben, nun nicht mehr auf die abhängig Beschäftigten abwälzen können. Die Versicherungsbeiträge müssen sie tatsächlich zahlen.</p>
-          <p>Aber trotzdem bringt den Arbeitgebern diese Regelung erhebliche Vorteile. Geringfügige Beschäftigung ist immer noch billiger als sozialversicherungspflichtige Beschäftigung. Viele Leistungen, die auch den geringfügig Beschäftigten auf Grund tarifvertraglicher und gesetzlicher Regelungen zustehen, werden ihnen die Arbeitgeber weiterhin vorenthalten können. Das gilt zum Beispiel für die Lohnfortzahlung im Krankheitsfall, für das Urlaubsgeld, für das Weihnachtsgeld und natürlich auch für den Kündigungsschutz. Das finde ich bedauerlich. Die Arbeitgeber werden jede Chance nutzen, diese Vorteile in Anspruch zu nehmen. Daher glaube ich, daß sie sich nur zum Schein beklagen. In Wirklichkeit ist es die Lösung, die ihnen am meisten  entgegenkommt.</p>
+          <p>Aber trotzdem bringt den Arbeitgebern diese Regelung erhebliche Vorteile. Geringfügige Beschäftigung ist immer noch billiger als sozialversicherungspflichtige Beschäftigung. Viele Leistungen, die auch den geringfügig Beschäftigten auf Grund tarifvertraglicher und gesetzlicher Regelungen zustehen, werden ihnen die Arbeitgeber weiterhin vorenthalten können. Das gilt zum Beispiel für die Lohnfortzahlung im Krankheitsfall, für das Urlaubsgeld, für das Weihnachtsgeld und natürlich auch für den Kündigungsschutz. Das finde ich bedauerlich. Die Arbeitgeber werden jede Chance nutzen, diese Vorteile in Anspruch zu nehmen. Daher glaube ich, daß sie sich nur zum Schein beklagen. In Wirklichkeit ist es die Lösung, die ihnen am meisten entgegenkommt.</p>
           <p>Zum Schluß noch eine Bemerkung. Gerade im Jahr der deutschen EU-Ratspräsidentschaft hätte die Bundesregierung mit einem beherzteren Gesetzentwurf zur Eindämmung geringfügiger Beschäftigung durchaus Punkte sammeln können. Auch diese Chance hat sie leider verpaßt. Die Bundesrepublik Deutschland ist inzwischen neben Großbritannien das einzige Land in Europa, das sich noch diese Art von versicherungsfreier Beschäftigung in diesen Größenordnungen leistet. Dies nur zu dem immer wieder bemühten Argument von der Wettbewerbsfähigkeit.</p>
           <p>Die Vorsitzende des Deutschen Juristinnenbundes, Professor Ursula Nelles, stellt fest: Dieses Gesetz ist nicht nur ein frauenpolitisches Ärgernis, sondern auch ein Verstoß gegen das europäische Gleichbehandlungsrecht. Ich denke, sie hat recht. Liebe Kolleginnen - das sage ich ganz bewußt -, es ist noch Zeit, uns gemeinsam darauf zu besinnen, solche Peinlichkeiten in der Zukunft zu vermeiden.</p>
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun die Kollegin Silvia Schmidt, SPD-Fraktion.</p>
         </sp>
-        <sp who="Silvia Schmidt" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Silvia Schmidt">
+        <sp who="Silvia Schmidt (Eisleben)" parliamentary_group="SPD" role="mp" position="NA" who_original="Silvia Schmidt (Eisleben)" party="SPD" name="Silvia Schmidt">
           <speaker>Silvia Schmidt (Eisleben) (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine Damen und Herren! Als Neue muß ich gleich am Anfang feststellen: Die Opposition hört nicht richtig zu und kann auch nicht richtig addieren.</p>
           <stage type="interjection">(Hans-Peter Repnik [CDU/CSU]: Das kommt ganz auf Ihre Rede an! - Dr. Wolfgang Schäuble [CDU/CSU]: Probieren Sie es einmal!)</stage>
           <p>- Das ist sehr schön, Herr Schäuble. Ich danke Ihnen schon im voraus.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
-          <p>Ich werde es Ihnen als Neue einfach machen, meine  Rede zu verfolgen und zu verstehen.</p>
+          <p>Ich werde es Ihnen als Neue einfach machen, meine Rede zu verfolgen und zu verstehen.</p>
           <p>Mit unserem Gesetzentwurf legen wir zu einem weiteren, seit Jahren nicht gelösten Problem ein Reformprogramm vor. Der Bundesminister für Arbeit hat schon darauf hingewiesen: Innerhalb von fünf Jahren hat sich die Zahl der geringfügig Beschäftigten um 1,1 Millionen erhöht. Die Zahl der sozialversicherungspflichtig Beschäftigten ist aber um 2 Millionen zurückgegangen.</p>
           <p>16 Jahre lang war die alte Regierung nicht in der Lage, diesen Mißstand auf dem Arbeitsmarkt aufzugreifen und zu beseitigen.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
@@ -449,14 +449,14 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Dies war die erste Rede der Kollegin Schmidt. Meine herzliche Gratula-</p>
           <p>tion.</p>
           <stage type="interjection">(Beifall)</stage>
           <p>Nun hat das Wort der Kollege Julius Louven, CDU/CSU-Fraktion.</p>
         </sp>
-        <sp who="Julius Louven" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Julius Louven">
+        <sp who="Julius Louven" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Julius Louven" party="CDU" name="Julius Louven">
           <speaker>Julius Louven (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Am 19. November letzten Jahres hat von diesem Pult aus mit tragender Stimme und gequältem Gesicht der Bundeskanzler eine dritte Variante zur Lösung der 630-Mark-Verträge vorgetragen. Ich habe ihm damals geantwortet und gesagt, ihm sei sein telegenes Lächeln inzwischen vergangen, weil er sich wohl nicht vorstellen konnte, wie schwierig die Problemlösung in diesem Bereich ist.</p>
           <p>Wäre der Bundeskanzler heute hier, dann würde ich ihm sagen: Mit der Variante vier machen Sie sich nun restlos lächerlich.</p>
@@ -505,7 +505,7 @@
           <p>Bei verheirateten Arbeitnehmerinnen und Arbeitnehmer bleibt es auch dann bei der Steuerfreiheit, wenn der andere Ehegatte eigene Einkünfte erzielt.</p>
           <p>Bei anderen wird einfach zusammengerechnet.</p>
           <p>Diesen Sachverhalt garnieren Sie mit der Klammerbemerkung "Brücke zur Rückkehr in das Arbeitsleben". Herr Minister - Sie haben das auch erwähnt -, erläutern Sie doch einmal, worin die "Brücke zur Rückkehr in das Arbeitsleben" hier besteht!</p>
-          <stage type="interjection">(Dr. Wolfgang Schäuble [CDU/CSU]: Lauter Sprüche! - Birgit Schnieber-Jastram [CDU/CSU]: Gute Frage!)</stage>
+          <stage type="interjection">(Dr. Wolfgang Schäuble [CDU/CSU]: Lauter Sprüche! - Birgit Schnieber-Jastram [CDU/ CSU]: Gute Frage!)</stage>
           <p>Eine Brücke zur Rückkehr in normale Beschäftigungsverhältnisse gibt es nur - dies ist meine feste Überzeugung -, wenn wir die 630-Mark-Mauer, wo die geringfügige Beschäftigung derzeit endet, überwinden. Dazu habe ich Vorschläge gemacht.</p>
           <p>Darüber hinaus muß man sich einmal anschauen, wie Sie von der Regierungskoalition dies alles kontrollieren wollen, welche bürokratischen Regeln Sie installieren. Angesichts dessen tun mir insbesondere die Arbeitgeber bei den kleinen und mittelständischen Betriebe leid, die dem ausgesetzt sind - typisch SPD!</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
@@ -527,20 +527,20 @@
           <p>Ihre Regierungserklärung haben Sie überschrieben mit: Weil wir Deutschlands Kraft vertrauen. - Ich denke, die Deutschen vertrauten auf Ihre Vernunft - bisher allerdings in vielen Punkten vergeblich.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P.)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Das Wort hat Bundesministerin Christine Bergmann.</p>
         </sp>
-        <sp who="Dr. Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" party="SPD" name="Christine Bergmann">
+        <sp who="Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" who_original="Christine Bergmann" party="SPD" name="Christine Bergmann">
           <speaker>Dr. Christine Bergmann, Bundesministerin für Familie, Senioren, Frauen und Jugend:</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren Abgeordnete! Ich habe die Debatte um die nichtversicherungspflichtigen Beschäftigungsverhältnisse über viele Jahre mitverfolgt, auch als Arbeitssenatorin. Während wir die Debatte geführt haben, während über viele Jahre, zum Teil auch von Ihnen, Kritik an dieser Form der nichtversicherungspflichtigen Beschäftigung geäußert wurde, hat die Zahl dieser Beschäftigungsverhältnisse stark zugenommen. Die Zahlen haben wir gehört. Von ihnen hat es in den letzten Jahren immer mehr gegeben, und ohne Not sind ordentliche Arbeitsverhältnisse richtiggehend atomisiert worden. Sie haben die ganze Zeit zugeschaut, und wir wären schon zufrieden gewesen, wenn da einmal ein Gesetzesentwurf von Ihnen auf den Tisch gekommen wäre, auch wenn es nur Stückwerk gewesen wäre, wenn wenigstens ein Schritt in die richtige Richtung gegangen worden wäre.</p>
           <stage type="interjection">(Beifall bei der SPD und der PDS sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
           <p>Insofern dürfen Sie hier nicht von "Armutszeugnis" reden. Es ist ein Armutszeugnis für Sie, daß es so weit kommen konnte und daß wir jetzt dastehen und sagen müssen: Es gibt 5 bis 6 Millionen solcher Beschäftigungsverhältnisse. Wir müssen jetzt fragen: Wie schaffen wir es, daß wir die unterschiedlichen Interessen in einem vernünftigen Gesetzentwurf bündeln?</p>
           <p>Hier wird immer die Realität ein wenig schöngeredet. Wieviel Schwarzarbeit um diese nichtversicherungspflichtigen Beschäftigungsverhältnisse herum entstanden ist, das müßten Sie, Frau Schwaetzer, doch sehr genau wissen.</p>
           <stage type="interjection">(Dr. Irmgard Schwaetzer [F.D.P.]: Das wird noch mehr! Da können Sie ganz ruhig sein!)</stage>
-          <p>Es wird ein solches Beschäftigungsverhältnis eingerichtet, und weitere Tätigkeiten im Umfeld dieses Beschäftigungsverhältnisses werden mehr und mehr durch Schwarzarbeit abgedeckt. Das konnte geschehen, weil es 1158 Deutscher Bundestag - 14. Wahlperiode - 17. Sitzung. Bonn, Freitag, den 22. Januar 1999 Deutscher Bundestag - 14. Wahlperiode - 17. Sitzung. Bonn, Freitag, den 22. Januar 1999 1151 Deutscher Bundestag - 14. Wahlperiode - 245. Sitzung, Bonn, Donnerstag, den 25. Juni 1998 1159 keine Möglichkeit des Nachweises und der Kontrolle gab.</p>
+          <p>Es wird ein solches Beschäftigungsverhältnis eingerichtet, und weitere Tätigkeiten im Umfeld dieses Beschäftigungsverhältnisses werden mehr und mehr durch Schwarzarbeit abgedeckt. Das konnte geschehen, weil es keine Möglichkeit des Nachweises und der Kontrolle gab.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der PDS)</stage>
-          <p>Ich bin der Auffassung, daß wir auf Grund des jetzt eingeführten Nachweises - jedes dieser Beschäftigungsverhältnisse muß auf der Steuerkarte nachgewiesen werden - </p>
+          <p>Ich bin der Auffassung, daß wir auf Grund des jetzt eingeführten Nachweises - jedes dieser Beschäftigungsverhältnisse muß auf der Steuerkarte nachgewiesen werden -</p>
           <stage type="interjection">(Dr. Irmgard Schwaetzer [F.D.P.]: Ja, glauben Sie denn, die lassen sich eine Steuerkarte geben?)</stage>
           <p>überhaupt erst wissen, was hier los ist, und wir die Entwicklung verfolgen können. Ich kann Ihnen auch versprechen: Wir werden sehr genau hinschauen, wie sich dieser Bereich in den nächsten Jahren entwickeln wird. Wir sind flexibel; wir werden mit Sicherheit, wenn sich das eine oder andere nicht bewährt, auch bereit sein, Änderungen vorzunehmen. Das ist doch gar keine Frage. Aber wir müssen doch erst einmal den richtigen Einstieg hinbekommen, indem wir sagen: Was gibt es denn in diesem Land? Was passiert da? In welchen Bereichen können wir schnell für eine Regelung sorgen?</p>
           <p>Denn auf Grund dieses Zuwachses der nichtversicherungspflichtigen Beschäftigungsverhältnisse gab es die allseits beklagte Erosion der sozialen Sicherungssysteme. Wir können uns auf der einen Seite nicht hinstellen und darüber klagen, daß es immer weniger Beitragszahler gibt, wenn wir auf der anderen Seite hinnehmen, daß sich Millionen aus diesen Sicherungssystemen völlig legal verabschieden können. Ich denke, daß wir mit dem jetzt vorliegenden Gesetzesentwurf dem einen starken Riegel vorschieben werden. Deswegen bin ich froh, daß wir nun endlich einen solchen Gesetzentwurf auf dem Tisch haben.</p>
@@ -574,38 +574,38 @@
           <stage type="interjection">(Beifall bei der SPD und der PDS)</stage>
           <p>Ich denke, daß wir sehr genau hingucken werden, was in der nächsten Zeit passiert. Entwickeln sich diese Beschäftigungsverhältnisse so, wie wir das mittelfristig wollen? Dieser Blick wird überhaupt erst möglich - - NA</p>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Frau Ministerin - -</p>
         </sp>
-        <sp who="Dr. Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" party="SPD" name="Christine Bergmann">
+        <sp who="Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" who_original="Christine Bergmann" party="SPD" name="Christine Bergmann">
           <speaker>Dr. Christine Bergmann, Bundesministerin für Familie, Senioren, Frauen und Jugend:</speaker>
           <p>Ich komme zum Schluß.</p>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Nein, es ist eine Zwischenfrage vom Kollegen Laumann angemeldet.</p>
         </sp>
-        <sp who="Dr. Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" party="SPD" name="Christine Bergmann">
+        <sp who="Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" who_original="Christine Bergmann" party="SPD" name="Christine Bergmann">
           <speaker>Dr. Christine Bergmann, Bundesministerin für Familie, Senioren, Frauen und Jugend:</speaker>
-          <p>Ja, Herr Laumann, bitte. </p>
+          <p>Ja, Herr Laumann, bitte.</p>
         </sp>
-        <sp who="Karl-Josef Laumann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Karl-Josef Laumann">
+        <sp who="Karl-Josef Laumann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Karl-Josef Laumann" party="CDU" name="Karl-Josef Laumann">
           <speaker>Karl-Josef Laumann (CDU/CSU):</speaker>
           <p>Frau Ministerin, Sie sprachen gerade davon, daß Sie es für richtig halten, daß der 630-DM-Vertrag einer Ehefrau nicht besteuert wird. Da möchte ich Sie fragen: Halten Sie das für gerecht? Wenn ein Rechtsanwalt oder Zahnarzt seine Frau für 630 DM beschäftigt, kann er diese 630 DM von seiner Steuer absetzen; aber das Einkommen dieser Frau wird nicht steuerpflichtig. Halten Sie das gegenüber dem Facharbeiter, der abends kellnern geht und sich 400 DM dazuverdient und das dann voll versteuern muß, wirklich für gerecht?</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" party="SPD" name="Christine Bergmann">
+        <sp who="Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" who_original="Christine Bergmann" party="SPD" name="Christine Bergmann">
           <speaker>Dr. Christine Bergmann, Bundesministerin für Familie, Senioren, Frauen und Jugend:</speaker>
           <p>Ich will noch einmal deutlich machen, was ich gesagt habe. Ich kenne alle diese Beispiele. Ich habe keine Schwierigkeiten damit, daß das Einkommen von Frauen als eigenes Einkommen behandelt wird. Daß Mißbrauch von mir in keiner Form toleriert wird, ist eine andere Frage. Aber Arbeitseinkommen von Frauen, ordentlich erworben, sind eigenständige Arbeitseinkommen.</p>
           <stage type="interjection">(Beifall bei der SPD und der PDS - Zurufe von der CDU/CSU: Antworten! - Weitere Zurufe von der CDU/CSU)</stage>
           <p>- Ja, mit Arbeit erworben.</p>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Eine weitere Zwischenfrage - -</p>
         </sp>
-        <sp who="Dr. Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" party="SPD" name="Christine Bergmann">
+        <sp who="Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" who_original="Christine Bergmann" party="SPD" name="Christine Bergmann">
           <speaker>Dr. Christine Bergmann, Bundesministerin für Familie, Senioren, Frauen und Jugend:</speaker>
           <p>Ich möchte jetzt zum Schluß kommen.</p>
           <stage type="interjection">(Lachen bei der CDU/CSU)</stage>
@@ -620,11 +620,11 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
-          <p>Das Wort hat Kollegin Maria Böhmer, CDU/CSU-Fraktion. </p>
+          <p>Das Wort hat Kollegin Maria Böhmer, CDU/CSU-Fraktion.</p>
         </sp>
-        <sp who="Dr. Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Maria Böhmer">
+        <sp who="Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Maria Böhmer" party="CDU" name="Maria Böhmer">
           <speaker>Dr. Maria Böhmer (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine lieben Kolleginnen und Kollegen! Frau Ministerin Bergmann! Diese Regelung zu verteidigen ist wahrlich ein schwerer Job für eine Frauenministerin.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P.)</stage>
@@ -658,29 +658,29 @@
           <p>- Wollen Sie, Herr Gilges, endlich einmal etwas fragen, oder wollen Sie immer nur schreien?</p>
           <stage type="interjection">(Wolfgang Zöller [CDU/CSU]: Das ist unser Niederschreier!)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Eine Zwischenfrage, bitte, Herr Schemken.</p>
         </sp>
-        <sp who="Heinz Schemken" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Heinz Schemken">
+        <sp who="Heinz Schemken" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Heinz Schemken" party="CDU" name="Heinz Schemken">
           <speaker>Heinz Schemken (CDU/CSU):</speaker>
           <p>Frau Kollegin, sind Sie mit mir der Meinung, daß sich Herr Gilges viel zuviel aufregt?</p>
           <stage type="interjection">(Heiterkeit bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Maria Böhmer">
+        <sp who="Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Maria Böhmer" party="CDU" name="Maria Böhmer">
           <speaker>Dr. Maria Böhmer (CDU/CSU):</speaker>
           <p>Lieber Herr Schemken, in der Tat muß man sagen: Wer so laut schreit, hat wahrscheinlich nicht viel zu bieten.</p>
           <stage type="interjection">(Heiterkeit bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Gestatten Sie eine Zwischenfrage des Kollegen Gilges?</p>
         </sp>
-        <sp who="Dr. Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Maria Böhmer">
+        <sp who="Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Maria Böhmer" party="CDU" name="Maria Böhmer">
           <speaker>Dr. Maria Böhmer (CDU/CSU):</speaker>
-          <p>Ja, nachdem er geschrien hat, soll er jetzt auch fragen. </p>
+          <p>Ja, nachdem er geschrien hat, soll er jetzt auch fragen.</p>
         </sp>
-        <sp who="Konrad Gilges" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Konrad Gilges">
+        <sp who="Konrad Gilges" parliamentary_group="SPD" role="mp" position="NA" who_original="Konrad Gilges" party="SPD" name="Konrad Gilges">
           <speaker>Konrad Gilges (SPD):</speaker>
           <p>Es geht mir ganz gut. Ich habe einen sehr niedrigen Blutdruck, Herr Schemken, der zwischen 65 und 90 liegt. Deshalb tut es mir gut, wenn ich mich morgens ein bißchen aufrege. Das möchte ich nur nebenbei erwähnen.</p>
           <p>Aber ich wollte ganz konkret etwas fragen: Frau Kollegin, Sie haben gesagt, es gebe keinen Belastungsunterschied bei der Steuer. Das ist schlicht und einfach falsch, was Sie sagen. Es ist zwar richtig,</p>
@@ -693,9 +693,9 @@
           <p>Die zukünftige Belastung liegt bei 22 Prozent. Das ist eine Einsparung von 0,8 Prozent.</p>
           <p>Zur zweiten Frage, die ich Ihnen stellen muß</p>
           <stage type="interjection">(Lachen bei der CDU/CSU und der F.D.P.)</stage>
-          <p>- das ist die eigentliche Frage -: Arbeitnehmer und Arbeitgeber - das haben Sie eben behauptet - würden zusätzlich belastet. Tatsächlich gibt es keine Mehrbelastung; vielmehr findet nur eine Umschichtung statt. Sagen Sie doch einmal im Detail, welche zusätzlichen  finanziellen Belastungen für den Arbeitgeber entstehen! Ich habe gerade eben vorgerechnet, daß es Einsparungen gibt. Welche zusätzlichen Belastungen entstehen denn für den Arbeitnehmer?</p>
+          <p>- das ist die eigentliche Frage -: Arbeitnehmer und Arbeitgeber - das haben Sie eben behauptet - würden zusätzlich belastet. Tatsächlich gibt es keine Mehrbelastung; vielmehr findet nur eine Umschichtung statt. Sagen Sie doch einmal im Detail, welche zusätzlichen finanziellen Belastungen für den Arbeitgeber entstehen! Ich habe gerade eben vorgerechnet, daß es Einsparungen gibt. Welche zusätzlichen Belastungen entstehen denn für den Arbeitnehmer?</p>
         </sp>
-        <sp who="Dr. Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Maria Böhmer">
+        <sp who="Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Maria Böhmer" party="CDU" name="Maria Böhmer">
           <speaker>Dr. Maria Böhmer (CDU/CSU):</speaker>
           <p>Herr Gilges, zunächst darf ich einmal feststellen: Ich finde es schon bemerkenswert, wie Sie sich jetzt für die Arbeitgeber stark machen. Das habe ich bei Ihnen noch nie erlebt.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P.)</stage>
@@ -705,28 +705,28 @@
           <p>Es gibt doch einen Bruch im Bereich der Sozialversicherung, wenn hier Beiträge gezahlt werden und daraus keine Leistungen erfolgen. Sie müßten aufstehen in diesem Parlament und sich mit Vehemenz gegen eine solche Regelung aussprechen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P.)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Frau Kollegin, gestatten Sie noch eine Nachfrage des Kollegen Gilges?</p>
         </sp>
-        <sp who="Dr. Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Maria Böhmer">
+        <sp who="Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Maria Böhmer" party="CDU" name="Maria Böhmer">
           <speaker>Dr. Maria Böhmer (CDU/CSU):</speaker>
           <p>Ja, bitte.</p>
         </sp>
-        <sp who="Konrad Gilges" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Konrad Gilges">
+        <sp who="Konrad Gilges" parliamentary_group="SPD" role="mp" position="NA" who_original="Konrad Gilges" party="SPD" name="Konrad Gilges">
           <speaker>Konrad Gilges (SPD):</speaker>
           <p>Ich wollte Sie, Frau Kollegin, nur fragen, ob es Ihnen bekannt ist, daß der Arbeitnehmer - das war in der Vergangenheit so - keinen Anspruch auf die Beitragszahlungen der Arbeitgeber hat. Die alte Bundesregierung hat in den 80er Jahren zum Beispiel ein Gesetz vorgelegt, nach dem türkische Arbeitnehmer Versicherungsbeiträge ausgezahlt bekamen, nachdem sie in die Türkei zurückgekehrt waren. Sie bekamen aber nur diejenigen Versicherungsbeiträge ausgezahlt, die sie selber eingezahlt hatten, während Sie damals die Beiträge der Arbeitgeber eingespart bzw. in der Rentenkasse belassen haben. Das war immer so und soll nach meiner Meinung auch so bleiben. Das ist auch richtig. Aber Sie stellen jetzt neue Grundsatzprinzipien in der Sozialversicherung auf, mit denen Sie - wenn Sie sie durchhalten - in Ihrer eigenen Fraktion große Probleme bekommen.</p>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Herr Kollege, Ihre Frage!</p>
         </sp>
-        <sp who="Konrad Gilges" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Konrad Gilges">
+        <sp who="Konrad Gilges" parliamentary_group="SPD" role="mp" position="NA" who_original="Konrad Gilges" party="SPD" name="Konrad Gilges">
           <speaker>Konrad Gilges (SPD):</speaker>
           <p>Ich habe ja gefragt, ob ihr das bekannt ist.</p>
           <stage type="interjection">(Heiterkeit und Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Maria Böhmer">
+        <sp who="Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Maria Böhmer" party="CDU" name="Maria Böhmer">
           <speaker>Dr. Maria Böhmer (CDU/CSU):</speaker>
           <p>Herr Gilges, ich habe gerade den Präsidenten gebeten, die Uhr anzuhalten. Wenn man die Debatte jetzt so lebhaft führt - das macht mir auch Spaß -, dann sollte das aber nicht auf die Redezeit angerechnet werden, Herr Präsident.</p>
           <p>Lieber Herr Gilges, Sie sind lange genug im Ausschuß für Arbeit und Soziales. Deshalb wundere ich mich darüber, wie Sie so an der Sache vorbeireden können.</p>
@@ -736,51 +736,51 @@
           <p>Bei unserem Sozialversicherungssystem ist von eminenter Bedeutung, daß, wer Beiträge leistet, auch Anspruch auf Leistung hat. So wollen wir es auch für die Zukunft halten.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Frau Kollegin Böhmer, gestatten Sie eine weitere Zusatzfrage des Abgeordneten Seifert?</p>
         </sp>
-        <sp who="Dr. Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Maria Böhmer">
+        <sp who="Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Maria Böhmer" party="CDU" name="Maria Böhmer">
           <speaker>Dr. Maria Böhmer (CDU/CSU):</speaker>
-          <p>Bitte. </p>
+          <p>Bitte.</p>
         </sp>
-        <sp who="Dr. Ilja Seifert" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Ilja Seifert">
+        <sp who="Ilja Seifert" parliamentary_group="PDS" role="mp" position="NA" who_original="Ilja Seifert" party="PDS" name="Ilja Seifert">
           <speaker>Dr. Ilja Seifert (PDS):</speaker>
           <p>Ich möchte auf Ihre Antwort auf die vorhergehende Frage zurückkommen. Wollen Sie allen Ernstes sagen, daß es für die Arbeitnehmerinnen und Arbeitnehmer nichts ist, wenn sie Ansprüche auf Reha-Leistungen sowie EU- und BU-Ansprüche erwerben können? Sie sagten eben, sie bekämen nichts heraus. In Anbetracht dessen, daß sie bisher bei geringfügigen Beschäftigungen nichts dergleichen hatten, ist das jetzt doch ganz schön viel.</p>
           <stage type="interjection">(Karl-Josef Laumann [CDU/CSU]: Das können Sie doch heute auch schon!)</stage>
           <p>Ich habe ansonsten nicht viel Grund, diesen Gesetzentwurf zu verteidigen. Aber an diesem Punkt kann man doch nicht sagen, das sei nichts.</p>
           <stage type="interjection">(Zustimmung bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Maria Böhmer">
+        <sp who="Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Maria Böhmer" party="CDU" name="Maria Böhmer">
           <speaker>Dr. Maria Böhmer (CDU/CSU):</speaker>
           <p>Herr Kollege, ich bin Ihnen dankbar, daß Sie diese Frage gestellt haben; das gibt mir Gelegenheit zur Klarstellung. Wenn mit diesem neuen Gesetz eine Einladung ausgesprochen wird, freiwillig den Rentenbeitrag mit eigenen Beiträgen um 7,5 Prozent aufzustocken, um dann Leistungen zu erhalten, dann werde ich jeder Frau und jedem Mann in geringfügiger Beschäftigung raten, dieses Geld lieber ins Sparschwein zu stecken, statt später so kümmerliche Rentenleistungen herauszubekommen, wie wir es eben gehört haben.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
           <p>Auch wenn Sie eben Reha, Berufs- und Erwerbsunfähigkeit erwähnt haben, kann ich nur sagen: Suchen Sie diejenigen im Lande, die bereit sind, diesen Beitrag in die Rentenversicherung zu zahlen. Ich habe gerade im Fernsehen etliche Interviews gesehen, in denen Frauen das strikt zurückgewiesen haben, weil sie wissen, daß sie an dieser Stelle verschaukelt werden.</p>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Gestatten Sie eine weitere Zwischenfrage der Kollegin Schmidt?</p>
         </sp>
-        <sp who="Dr. Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Maria Böhmer">
+        <sp who="Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Maria Böhmer" party="CDU" name="Maria Böhmer">
           <speaker>Dr. Maria Böhmer (CDU/CSU):</speaker>
           <p>Ja, bitte.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt (Aachen)" parliamentary_group="SPD" role="mp" position="NA" who_original="Ulla Schmidt (Aachen)" party="SPD" name="Ulla Schmidt">
           <speaker>Ulla Schmidt (Aachen) (SPD):</speaker>
-          <p>Frau Kollegin Böhmer, jetzt drängt sich mir doch eine Frage auf, die ich stellen möchte. Im Antrag der CDU/CSU steht unter Punkt 5, daß die geringfügig Beschäftigten in die Sozialversicherung, vor allen Dingen in die Rentenversicherung, einbezogen werden sollten. Können Sie mir einmal sagen, wie hoch nach Ihrem Konzept die Beiträge sein sollen und welche Leistungen jemand erhält, der für 500 DM beschäftigt ist und dementsprechend ab  1. April 19,5 Prozent in die Rentenversicherung einzahlen müßte? </p>
+          <p>Frau Kollegin Böhmer, jetzt drängt sich mir doch eine Frage auf, die ich stellen möchte. Im Antrag der CDU/CSU steht unter Punkt 5, daß die geringfügig Beschäftigten in die Sozialversicherung, vor allen Dingen in die Rentenversicherung, einbezogen werden sollten. Können Sie mir einmal sagen, wie hoch nach Ihrem Konzept die Beiträge sein sollen und welche Leistungen jemand erhält, der für 500 DM beschäftigt ist und dementsprechend ab 1. April 19,5 Prozent in die Rentenversicherung einzahlen müßte?</p>
         </sp>
-        <sp who="Dr. Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Maria Böhmer">
+        <sp who="Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Maria Böhmer" party="CDU" name="Maria Böhmer">
           <speaker>Dr. Maria Böhmer (CDU/CSU):</speaker>
           <p>Liebe Frau Schmidt, wir haben immer das Prinzip der Hälftigkeit gehabt und sind sogar mit Blick auf Arbeitnehmerinnen mit geringfügiger Beschäftigung, als es um die Arbeitsplätze im Privathaushalt und den Arbeitsscheck ging, einen Schritt weitergegangen. Wir haben dort nämlich vorgesehen gehabt, die Frauen mit ihrem geringen Verdienst nicht zusätzlich zu belasten. Um ihnen aber die Möglichkeit zu geben, daß sie ihre Rentenansprüche langsam aufstocken können, sollte der Arbeitgeber beide Beitragsanteile bezahlen. Das halte ich an der Stelle für eine durchaus vernünftige Regelung.</p>
           <p>Jetzt lassen Sie mich aber noch etwas antworten: Es macht mich betroffen - wir haben so lange bei diesem Thema gekämpft; dabei standen Sie in vorderster Reihe der SPD -, daß ich jetzt registrieren muß, wie sehr Sie diese Neuregelung verteidigen, wie sehr Sie auf einmal für die Beibehaltung der geringfügigen Beschäftigung plädieren und sagen, das ermögliche den Frauen, nach der Familienzeit wieder in den Beruf zurückzukehren. Liebe Frau Schmidt, das ist nicht der Fall. Sehen Sie doch bitte, was sich hier abspielt. Es wird ein neuer Billiglohnsektor etabliert, und Sie drängen die Frauen durch diese Neuregelung in solche Beschäftigungsverhältnisse, weil ihnen keine andere Beschäftigung mehr angeboten werden wird.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU - Zuruf von der SPD: Was stellen Sie sich jetzt vor? Wie lautet denn die Antwort auf die Frage?)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Die Kollegin Böhmer bittet darum, jetzt im Gesamtzusammenhang fortfahren zu können, nachdem sie einige Zwischenfragen zugelassen hat. Dieser Bitte müssen wir entsprechen.</p>
           <p>Frau Böhmer, Sie haben das Wort.</p>
         </sp>
-        <sp who="Dr. Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Maria Böhmer">
+        <sp who="Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Maria Böhmer" party="CDU" name="Maria Böhmer">
           <speaker>Dr. Maria Böhmer (CDU/CSU):</speaker>
           <p>Ich füge gern das hinzu, was ich eben zu den Privathaushalten gesagt habe: Das war für dieses Segment eine Lösung, die wir gefunden haben; ansonsten bleiben wir bei den Prinzipien, die die Sozialversicherung bietet. Wir würden dort genauso handeln, wie wir es in anderen Bereichen ebenfalls tun.</p>
           <stage type="interjection">(Zuruf der Abg. Ulla Schmidt [Aachen] [SPD])</stage>
@@ -803,36 +803,36 @@
           <p>Mein Fazit: Ein Gesetz, das die Billigjobs festschreibt, die Aufsplittung regulärer Arbeitsverhältnisse in geringfügige Beschäftigungsverhältnisse nicht stoppt, die Arbeitsplätze in Privathaushalten außen vor läßt und die soziale Sicherung der Frauen nicht verbessert, ist kein Fortschritt, sondern ein Rückschritt. Ein solches Gesetz ist sozial ungerecht. Das werden wir nicht mitmachen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Zu einer Kurzintervention gebe ich das Wort der Kollegin Ulla Schmidt, SPD-Fraktion.</p>
           <stage type="interjection">(Dr. Irmgard Schwaetzer [F.D.P.]: Nimm doch die ordentliche Redezeit!)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt (Aachen)" parliamentary_group="SPD" role="mp" position="NA" who_original="Ulla Schmidt (Aachen)" party="SPD" name="Ulla Schmidt">
           <speaker>Ulla Schmidt (Aachen) (SPD):</speaker>
           <p>Ich unterhalte mich eben so gerne mit Ihnen. - Frau Kollegin Böhmer, wir kennen uns lange genug und arbeiten lange genug an diesem Thema. Ich wäre ja froh, wenn Sie in den letzten Jahren wirklich Reformen in dieser Frage auf den Weg gebracht hätten. Das hätte es uns nämlich einfacher gemacht: Wir hätten auf vorhandenen Reformen aufbauen und diese weiterentwickeln können.</p>
           <p>Die heutige Situation wird, wie schon oft gesagt wurde, von unterschiedlichen Interessenlagen bestimmt.</p>
           <stage type="interjection">(Karl-Josef Laumann [CDU/CSU]: Was haben Sie im Wahlkampf gesagt, und was machen Sie jetzt? - Gegenruf von der SPD: Hören Sie doch einmal zu!)</stage>
           <p>- Lassen Sie mich einmal ausreden; ich habe Sie eben auch ausreden lassen. - Auf der einen Seite haben wir die Situation, daß die Realeinkommen der Familien sinken. Das führt leider dazu, das die 630 DM, die in diesen Jobs verdient werden können, ganz dringend als zusätzliches Einkommen benötigt werden, um die Kosten zu bezahlen, die für Kindererziehung und andere Dinge entstehen. Auf der anderen Seite existiert zwar eine Pauschalbesteuerung auf der Arbeitgeberseite, aber Sie wissen doch so gut wie ich - denn auch Sie haben all die Briefe erhalten -, daß 80 Prozent der Arbeitgeber die 20 Prozent nicht selber gezahlt haben, sondern sie auf ihre Beschäftigten abgewälzt haben.</p>
-          <p>Wir haben jetzt eine Regelung vorgeschlagen - ich bitte Sie angesichts der vielfältigen Situationen, die zu berücksichtigen sind, zur Kenntnis zu nehmen, daß wir Schritt für Schritt vorgehen müssen -, gemäß der der Bertrag, der derzeit pauschal gezahlt werden muß - das waren einschließlich Kirchensteuer und Solidarzuschlag  22,8 Prozent -, in die Sozialkassen eingezahlt werden soll.</p>
+          <p>Wir haben jetzt eine Regelung vorgeschlagen - ich bitte Sie angesichts der vielfältigen Situationen, die zu berücksichtigen sind, zur Kenntnis zu nehmen, daß wir Schritt für Schritt vorgehen müssen -, gemäß der der Bertrag, der derzeit pauschal gezahlt werden muß - das waren einschließlich Kirchensteuer und Solidarzuschlag 22,8 Prozent -, in die Sozialkassen eingezahlt werden soll.</p>
           <stage type="interjection">(Dr. Irmgard Schwaetzer [F.D.P.]: Lesen können wir selbst!)</stage>
           <p>Außerdem dürfen die Arbeitgeber diese Abgaben nicht mehr auf die Beschäftigten abwälzen, sondern sie müssen sie tatsächlich selbst bezahlen. Das ist ein Fortschritt.</p>
           <p>Weiterhin wollen wir, daß 12 Prozent in die Rentenversicherung eingezahlt werden. Die Beschäftigten - das sind vor allen Dingen die Frauen - erhalten mit einer Zuzahlung von 7,5 Prozent die Option, ihre Rentenbiographien zu vervollständigen. Es geht doch nicht um die 7,5 Prozent; das wissen doch auch Sie. Wenn wir von den 500 DM, die jemand verdient, 19,5 Prozent nehmen, dann kommt es auf das gleiche heraus, ob dieser Satz hälftig gezahlt wird oder 12 Prozent plus 7,5 Prozent gezahlt werden. Aber durch die 19,5 Prozent wird es möglich, Rentenanwartschaften zu erwerben bzw. zu erhöhen. Wir versuchen dadurch, einen Weg für Frauen zu finden, denen die Anwartschaften fehlen und die, obwohl sie jahrelang in die Rentenversicherung eingezahlt haben, noch nicht einmal einen Anspruch auf Altersrente erworben haben. Jetzt können sie diesen Anspruch erwerben. Ich halte das für einen Fortschritt.</p>
           <stage type="interjection">(Dr. Irmgard Schwaetzer [F.D.P.]: Das hat deine Kollegin schon alles erzählt!)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
-          <p>Frau Kollegin Schmidt, ich muß darauf hinweisen, daß es sich um eine Kurzintervention handelt. </p>
+          <p>Frau Kollegin Schmidt, ich muß darauf hinweisen, daß es sich um eine Kurzintervention handelt.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt (Aachen)" parliamentary_group="SPD" role="mp" position="NA" who_original="Ulla Schmidt (Aachen)" party="SPD" name="Ulla Schmidt">
           <speaker>Ulla Schmidt (Aachen) (SPD):</speaker>
           <p>Ich gehe auf die Punkte ein.</p>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Es tut mir leid, dann muß Ihre Fraktion das anders regeln. Ich gebe Ihnen noch die Gelegenheit zu einem Abschlußwort.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt (Aachen)" parliamentary_group="SPD" role="mp" position="NA" who_original="Ulla Schmidt (Aachen)" party="SPD" name="Ulla Schmidt">
           <speaker>Ulla Schmidt (Aachen) (SPD):</speaker>
           <p>Ich gehe dann noch auf die Dienstleistungsagenturen ein. Eine Regelung für Dienstleistungsagenturen und für die Beschäftigung in privaten Haushalten muß jetzt folgen,</p>
           <stage type="interjection">(Zurufe von der CDU/CSU und der F.D.P.)</stage>
@@ -841,14 +841,14 @@
           <p>Wir werden das so durchführen. Im Gegensatz dazu haben Sie eine steuerliche Absetzbarkeit nur den Familien ermöglicht, die ihren Angestellten mehr als 620 DM zahlten.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD - Dr. Irmgard Schwaetzer [F.D.P.]: Das ist doch alles Quatsch!)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Ich gebe das Wort der Kollegin Anette Kramme, SPD-Fraktion.</p>
           <stage type="interjection">(Wolfgang Zöller [CDU/CSU]: Sie müssen Frau Böhme wenigstens die Gelegenheit zur Anwort geben! - Dr. Irmgard Schwaetzer [F.D.P.]: Frau Böhme hat zumindest noch das Recht zu antworten!)</stage>
           <p>- Entschuldigung, Frau Kollegin Kramme, ich habe nicht gesehen, daß sich Frau Kollegin Böhmer zu einer Antwort auf die Kurzintervention gemeldet hat.</p>
           <p>Dazu haben Sie das Recht, Frau Böhmer. Ich gebe Ihnen das Wort.</p>
         </sp>
-        <sp who="Dr. Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Maria Böhmer">
+        <sp who="Maria Böhmer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Maria Böhmer" party="CDU" name="Maria Böhmer">
           <speaker>Dr. Maria Böhmer (CDU/CSU):</speaker>
           <p>Herzlichen Dank, Herr Präsident.</p>
           <p>Liebe Frau Schmidt, ich muß sagen: Aus jedem Ihrer Worte spricht das schlechte Gewissen gegenüber der vorliegenden Regelung. Ich kann mir gut vorstellen, wie es in Ihrem Inneren aussieht.</p>
@@ -868,11 +868,11 @@
           <p>Das Ergebnis wird daher weniger reguläre Teilzeitarbeit sein; denn Teilzeitarbeit wird in einem Korridor bis 1 400 DM absolut unattraktiv. Sie sollten etwas anderes auf den Tisch legen, über das man vernünftig reden kann.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
-          <p>Nun gebe ich im zweiten Anlauf der Kollegin Anette Kramme, SPD-Fraktion, das Wort. </p>
+          <p>Nun gebe ich im zweiten Anlauf der Kollegin Anette Kramme, SPD-Fraktion, das Wort.</p>
         </sp>
-        <sp who="Anette Kramme" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Anette Kramme">
+        <sp who="Anette Kramme" parliamentary_group="SPD" role="mp" position="NA" who_original="Anette Kramme" party="SPD" name="Anette Kramme">
           <speaker>Anette Kramme (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kollegen und Kolleginnen! Sehr geehrte Frau Böhmer! Die Vergangenheit wird häufig durch den Weichzeichner wahrgenommen. Sie, die alte Bundesregierung, haben einen Koloß, ein Ungetüm auf dem Arbeitsmarkt gefüttert, gehegt und wuchern lassen. Dieses Ungetüm ist das 630-DM-Arbeitsverhältnis.</p>
           <p>Eine ganz einfache Tatsache ist ursächlich für die Wucherung: Das 630-DM-Arbeitsverhältnis ist im Vergleich zum Normalarbeitsverhältnis ungerechtfertigt begünstigt. Die Pauschalsteuer wird im Regelfall auf die Beschäftigten überwälzt. Sozialversicherungsabgaben sind nicht zu zahlen. Es handelt sich um Billigjobs.</p>
@@ -894,7 +894,7 @@
           <p>Die Gemeinde teilt dem Finanzamt die Zahl der mit Steuerklasse VI ausgestellten Lohnsteuerkarten mit. Es besteht die Auskunftspflicht der Sozialversicherung.</p>
           <p>Liebe Kolleginnen und Kollegen, erstmals seit Einführung der geringfügigen Beschäftigungsverhältnisse schaffen wir neuen sozialen Schutz.</p>
           <stage type="interjection">(Lachen bei der CDU/CSU)</stage>
-          <p>Erstmals können Frauen, die in geringfügigen Arbeitsverhältnissen beschäftigt sind, für die Versicherungspflicht in der Rentenversicherung optieren. Es wird nicht mehr so sein, daß Frauen ihr Leben lang arbeiten und keine Rente erhalten. Wie  war  es  denn  bisher?  Es 1160 Deutscher Bundestag - 14. Wahlperiode - 17. Sitzung. Bonn, Freitag, den 22. Januar 1999 Deutscher Bundestag - 14. Wahlperiode - 17. Sitzung. Bonn, Freitag, den 22. Januar 1999 1163 Deutscher Bundestag - 14. Wahlperiode - 245. Sitzung, Bonn, Donnerstag, den 25. Juni 1998 1168 gab viele Frauen, die immer zum Familieneinkommen beitragen mußten, ihr Leben lang gearbeitet und dennoch keine eigenen Rentenansprüche erworben haben. Darüber hinaus gibt es Hunderttausende von Frauen, die auf Grund ihrer Familienleistungen keine hinreichenden Beitragszeiten erwerben konnten. Diesen Frauen geben wir mit der neuen 630-DM-Regelung durch die freiwillige Zuzahlung die Chance, einen eigenständigen Rentenanspruch zu erwerben. Wir geben den Frauen damit auch ein Stück Würde zurück, die Sie von der CDU/CSU diesen Frauen vorenthalten haben.</p>
+          <p>Erstmals können Frauen, die in geringfügigen Arbeitsverhältnissen beschäftigt sind, für die Versicherungspflicht in der Rentenversicherung optieren. Es wird nicht mehr so sein, daß Frauen ihr Leben lang arbeiten und keine Rente erhalten. Wie war es denn bisher? Es gab viele Frauen, die immer zum Familieneinkommen beitragen mußten, ihr Leben lang gearbeitet und dennoch keine eigenen Rentenansprüche erworben haben. Darüber hinaus gibt es Hunderttausende von Frauen, die auf Grund ihrer Familienleistungen keine hinreichenden Beitragszeiten erwerben konnten. Diesen Frauen geben wir mit der neuen 630-DM-Regelung durch die freiwillige Zuzahlung die Chance, einen eigenständigen Rentenanspruch zu erwerben. Wir geben den Frauen damit auch ein Stück Würde zurück, die Sie von der CDU/CSU diesen Frauen vorenthalten haben.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Künftig erlangen Frauen den vollständigen Schutz der Rentenversicherung, und das zu einem geringen, reduzierten Beitragssatz. Das heißt, Sie können Rehabilitationsmaßnahmen, die Rente wegen Berufs- und Erwerbsunfähigkeit und vorgezogene Altersrenten beziehen. Die Rentenberechnung erfolgt gegebenenfalls nach Mindesteinkommen.</p>
           <p>Erstmals werden geringfügig Beschäftigte mit dem neuen Nachweisgesetz Anspruch auf Dokumentation ihrer Arbeitsbedingungen haben. Nach dem Nachweisgesetz muß der Arbeitgeber sie auch auf die Versicherungsmöglichkeit bei der Rentenversicherung hinweisen.</p>
@@ -902,13 +902,13 @@
           <p>Abschließend folgendes: Die Bundesregierung wird dem Parlament bis zum 31. März 2003 über die Auswirkungen dieses Gesetzes auf den Arbeitsmarkt, die Sozialversicherung und die öffentlichen Finanzen berichten. Wir werden uns nicht scheuen, erforderlichenfalls weitergehende Schritte in die Wege zu leiten.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN - Wolfgang Zöller [CDU/CSU]: Das wird dringend notwendig sein!)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Das war die erste Rede der Kollegin Anette Kramme. Ich möchte ihr dazu im Namen des Hauses gratulieren.</p>
           <stage type="interjection">(Beifall)</stage>
           <p>Ich gebe das Wort dem Kollegen Johannes Singhammer, CDU/CSU-Fraktion.</p>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Johannes Singhammer (CDU/CSU):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Noch nie war das Wort eines Bundeskanzlers so wenig wert wie das von Gerhard Schröder in der Diskussion um die 630-DM-Jobs.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P.)</stage>
@@ -927,19 +927,19 @@
           <p>Das einzige, worauf sich die Menschen in unserem Land bei diesen ständigen Wechseln der Aussagen noch verlassen können, ist der Satz: Es gilt das gebrochene Wort.</p>
           <p>Dem Durcheinander in der Verfahrensweise entspricht das Durcheinander in den jetzt neu angebotenen Lösungswegen. Eine innere Systematik ist nicht mehr erkennbar, Widersprüche liegen offen zutage.</p>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Herr Kollege Singhammer, gestatten Sie eine Zwischenfrage des Kollegen Schemken?</p>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Johannes Singhammer (CDU/CSU):</speaker>
           <p>Sehr gerne.</p>
         </sp>
-        <sp who="Heinz Schemken" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Heinz Schemken">
+        <sp who="Heinz Schemken" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Heinz Schemken" party="CDU" name="Heinz Schemken">
           <speaker>Heinz Schemken (CDU/CSU):</speaker>
           <p>Herr Kollege Singhammer, ich habe eine Frage zu einem Punkt, der bisher wenig beachtet wurde. Sind Sie mit mir der Meinung, daß die sozialstaatliche Sicherheit, die darin liegt, daß in alle Versicherungen zweiteilig gezahlt wird, einmal vom Arbeitgeber und einmal vom Arbeitnehmer, ob es in die Gesundheitskasse, die Rentenkasse, die Arbeitslosenversicherung oder - darauf haben wir sehr geachtet - die Pflegeversicherung ist, jetzt erstmalig durchbrochen wird und hier ein grundsätzliches Prinzip, nämlich daß beide Seiten Beiträge zahlen und damit für den Arbeitnehmer aus seiner Arbeit ein Anspruch entsteht, gröblich vernachlässigt wird?</p>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Johannes Singhammer (CDU/CSU):</speaker>
           <p>Herr Kollege Schemken, ich teile Ihre Auffassung. Ich halte es für sehr bedenklich, daß man das erfolgreiche Sozialversicherungssystem, das auf dem Prinzip Leistung und Gegenleistung gründet, hier erstmals in systemwidriger Weise zu sprengen versucht, indem das Prinzip Leistung nicht mehr dem Prinzip Gegenleistung entsprechen soll. Ich halte das für eine gravierende Verschlechterung, für einen gefährlichen Eingriff auch in die Grundsätze unseres bewährten Sozialversicherungssystems. Ich warne schon heute alle Arbeitnehmer und auch Arbeitgeber, was die Folgen, auch in anderen Systemen, betrifft: Wo ist das Ende, wenn man hier einmal anfängt? Ich teile alle Befürchtungen, die Sie hier angesprochen haben.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
@@ -959,11 +959,11 @@
           <p>Das steht nicht nur auf wackligem Grund. Das ist ohne jedes Fundament. Mein Rat an Sie: Schubladisieren Sie diesen Entwurf schleunigst.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
-          <p>Das Wort hat der Kollege Wolfgang Weiermann, SPD-Fraktion. </p>
+          <p>Das Wort hat der Kollege Wolfgang Weiermann, SPD-Fraktion.</p>
         </sp>
-        <sp who="Wolfgang Weiermann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wolfgang Weiermann">
+        <sp who="Wolfgang Weiermann" parliamentary_group="SPD" role="mp" position="NA" who_original="Wolfgang Weiermann" party="SPD" name="Wolfgang Weiermann">
           <speaker>Wolfgang Weiermann (SPD):</speaker>
           <p>Herr Präsident! Meine Damen! Meine Herren! Unser Gesetzentwurf ist kein Programm für mehr Bürokratie, wie mein Vorredner gerade sagte, sondern ein Stück zurück zu Solidität und Anstand eines Sozialstaates.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
@@ -974,56 +974,56 @@
           <p>- Das sind keine Phrasen, sondern Argumente, die diejenigen, die auf der Tribüne sitzen und zuhören, und diejenigen, die am Radio und im Fernsehen die Debatten verfolgen, realistisch nachvollziehen können. Sonst wären ja die Union und die F.D.P. noch Regierungsparteien, nicht die Sozialdemokraten und die Grünen.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Herr Kollege</p>
           <p>Weiermann, gestatten Sie eine Zwischenfrage der Kollegin Schwaetzer? - Bitte.</p>
         </sp>
-        <sp who="Dr. Irmgard Schwaetzer" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Irmgard Schwaetzer">
+        <sp who="Irmgard Schwaetzer" parliamentary_group="FDP" role="mp" position="NA" who_original="Irmgard Schwaetzer" party="FDP" name="Irmgard Schwaetzer">
           <speaker>Dr. Irmgard Schwaetzer (F.D.P.):</speaker>
           <p>Herr Kollege, wie sonst, wenn nicht als Abkassieren, könnte man denn den Tatbestand, den Sie einführen wollen, verstehen? Es werden Beiträge eingesammelt, obwohl für diese im Regelfall keine Leistungen gewährt werden. Das ist wirklich etwas Neues in unserem Sozialversicherungsrecht. Läßt man die Ideologie einmal beiseite: Was anderes als Abkassieren ist das?</p>
         </sp>
-        <sp who="Wolfgang Weiermann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wolfgang Weiermann">
+        <sp who="Wolfgang Weiermann" parliamentary_group="SPD" role="mp" position="NA" who_original="Wolfgang Weiermann" party="SPD" name="Wolfgang Weiermann">
           <speaker>Wolfgang Weiermann (SPD):</speaker>
-          <p>Die Einführung dieses Systems, so wie wir das vorhaben, schafft in der Tat die Möglichkeit, die sich in Schwierigkeiten befindenden Sozialkassen zu füllen. Aber Sie können nicht sagen, hier kassiere man ab. Die Einnahmen durch die Erhebung dieser Beiträge sind erforderlich, weil Ihre Politik es nicht fertiggebracht hat, von den hohen Arbeitslosenzahlen herunterzukommen, weil Sie es nicht fertiggebracht haben, 6 Millionen befristete Arbeitsverhältnisse entsprechend zu ändern, weil Sie es nicht fertiggebracht haben, die Entwicklung bei der Scheinselbständigkeit zu stoppen. Überschlägig gerechnet kommt man so auf 12 bis 13 Millionen Menschen, die unter normalen Arbeitsverhältnissen arbeiten wollen. Im Wege dessen, was wir vorgeschlagen haben, wird nun wieder mehr in die Sozialkassen eingezahlt. Wenn sie dabei  eigene Ansprüche verwirklichen wollen, müssen sie selber 7,5 Prozent aufbringen. Mir fehlt das Verständnis, um zu erkennen, inwiefern das unsozial sein soll.</p>
+          <p>Die Einführung dieses Systems, so wie wir das vorhaben, schafft in der Tat die Möglichkeit, die sich in Schwierigkeiten befindenden Sozialkassen zu füllen. Aber Sie können nicht sagen, hier kassiere man ab. Die Einnahmen durch die Erhebung dieser Beiträge sind erforderlich, weil Ihre Politik es nicht fertiggebracht hat, von den hohen Arbeitslosenzahlen herunterzukommen, weil Sie es nicht fertiggebracht haben, 6 Millionen befristete Arbeitsverhältnisse entsprechend zu ändern, weil Sie es nicht fertiggebracht haben, die Entwicklung bei der Scheinselbständigkeit zu stoppen. Überschlägig gerechnet kommt man so auf 12 bis 13 Millionen Menschen, die unter normalen Arbeitsverhältnissen arbeiten wollen. Im Wege dessen, was wir vorgeschlagen haben, wird nun wieder mehr in die Sozialkassen eingezahlt. Wenn sie dabei eigene Ansprüche verwirklichen wollen, müssen sie selber 7,5 Prozent aufbringen. Mir fehlt das Verständnis, um zu erkennen, inwiefern das unsozial sein soll.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Gestatten Sie eine weitere Zusatzfrage der Kollegin Schwaetzer? - Bitte.</p>
         </sp>
-        <sp who="Dr. Irmgard Schwaetzer" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Irmgard Schwaetzer">
+        <sp who="Irmgard Schwaetzer" parliamentary_group="FDP" role="mp" position="NA" who_original="Irmgard Schwaetzer" party="FDP" name="Irmgard Schwaetzer">
           <speaker>Dr. Irmgard Schwaetzer (F.D.P.):</speaker>
           <p>Herr Kollege, Sie haben ja nicht bestritten, daß dem Einsammeln dieser Beiträge im Regelfall kein Leistungsanspruch gegenübersteht. Es ist überhaupt nicht bestritten worden, daß man durch einen sehr geringen Beitrag von 58,60 DM im Monat eine Fülle von zusätzlichen Leistungen bekommt. Nur, die Arbeitnehmer in zehn Jahren werden dafür die Rechnung präsentiert bekommen.</p>
           <p>Sie haben also nicht bestritten, daß das zum erstenmal in unserer Sozialversicherung auseinanderklafft.</p>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Frau Kollegin Schwaetzer, ich möchte Sie bitten, eine Frage zu stellen.</p>
         </sp>
-        <sp who="Dr. Irmgard Schwaetzer" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Irmgard Schwaetzer">
+        <sp who="Irmgard Schwaetzer" parliamentary_group="FDP" role="mp" position="NA" who_original="Irmgard Schwaetzer" party="FDP" name="Irmgard Schwaetzer">
           <speaker>Dr. Irmgard Schwaetzer (F.D.P.):</speaker>
           <p>Jawohl, Herr Präsident. - Sie stimmen mir doch zu, daß Sie eben gesagt haben, die Kassen sollten gefüllt werden? Was anderes als Abkassieren ist das?</p>
           <stage type="interjection">(Zuruf von der SPD: Sie versteht es nicht!)</stage>
         </sp>
-        <sp who="Wolfgang Weiermann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wolfgang Weiermann">
+        <sp who="Wolfgang Weiermann" parliamentary_group="SPD" role="mp" position="NA" who_original="Wolfgang Weiermann" party="SPD" name="Wolfgang Weiermann">
           <speaker>Wolfgang Weiermann (SPD):</speaker>
           <p>Nachdem sich die Arbeitgeber dieses Landes, unterstützt von der konservativ-liberalen Regierung der letzten 16 Jahre, aus ihrer sozialpolitischen Verantwortung gestohlen haben, halten wir diesen Schritt für unumgänglich.</p>
           <stage type="interjection">(Beifall bei der SPD - Walter Hirche [F.D.P.]: Strafaktion ohne Rücksicht auf die Folgen!)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
-          <p>Herr Kollege Weiermann, gestatten Sie auch der Kollegin von Renesse </p>
+          <p>Herr Kollege Weiermann, gestatten Sie auch der Kollegin von Renesse</p>
           <p>eine Zwischenfrage? - Bitte.</p>
         </sp>
-        <sp who="Margot von Renesse" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Margot von Renesse">
+        <sp who="Margot von Renesse" parliamentary_group="SPD" role="mp" position="NA" who_original="Margot von Renesse" party="SPD" name="Margot von Renesse">
           <speaker>Margot von Renesse (SPD):</speaker>
           <p>Herr Kollege, würden Sie der Kollegin Schwaetzer, die ja erfreulicherweise neu dabei ist in der Sozialpolitik, erläutern, daß dies in keiner Weise neu ist in der Rentenversicherung, sondern daß es dies bereits des öfteren gab bzw. noch heute gibt: bei der früher existierenden - und dann mit Recht abgeschafften - Heiratserstattung; bei der von der damaligen Koalition, nicht von uns, geförderten Rückkehr von Ausländern, die in die Sozialversicherung eingezahlt hatten; bei der bis heute bestehenden Möglichkeit, daß Beamte, die früher einmal in die Rentenversicherung eingezahlt haben, ihre Beiträge erstattet bekommen?</p>
           <stage type="interjection">(Dr. Irmgard Schwaetzer [F.D.P.]: Das ist doch etwas ganz anderes!)</stage>
           <p>Sie alle erhalten lediglich ihren Arbeitnehmerbeitrag zurück. Der Arbeitgeberanteil ist - würden Sie das bitte erläutern - die Konkretisierung der Sozialpflichtigkeit des Arbeitgebers und erfüllt nicht die Voraussetzungen für eigene Anwartschaften. Die Konten standen damals auf Null, obgleich in diesen Fällen der Arbeitgeberbeitrag bei den Versicherungen verblieb.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD - Konrad Gilges [SPD]: Richtig! Aber das versteht die Frau Schwaetzer nicht!)</stage>
         </sp>
-        <sp who="Wolfgang Weiermann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wolfgang Weiermann">
+        <sp who="Wolfgang Weiermann" parliamentary_group="SPD" role="mp" position="NA" who_original="Wolfgang Weiermann" party="SPD" name="Wolfgang Weiermann">
           <speaker>Wolfgang Weiermann (SPD):</speaker>
           <p>Frau von Renesse, ich brauche das nicht zu erläutern. Ich unterstreiche Ihre Ausführungen und schließe mich Ihren Worten an.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
@@ -1046,7 +1046,7 @@
           <p>Ich bedanke mich für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Meine Damen und Herren, ich schließe die Aussprache. Interfraktionell wird Überweisung der Vorlagen auf Drucksache 14/280 und 14/290 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Der Gesetzentwurf der Koalitionsfraktionen auf Drucksache 14/280 soll zusätzlich an den Innenausschuß, den Sportausschuß, den Ausschuß für Tourismus sowie an den Ausschuß für Kultur und Medien überwiesen werden. Gibt es anderweitige Vorschläge? - Das ist nicht der Fall. Dann sind die Überweisungen so beschlossen.</p>
           <p>Ich rufe den Zusatzpunkt 6 auf:</p>
@@ -1057,7 +1057,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="2" what="recent_issues" desc="Aktuelle Stunde">
-        <sp who="Dr. Barbara Höll" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Barbara Höll">
+        <sp who="Barbara Höll" parliamentary_group="PDS" role="mp" position="NA" who_original="Barbara Höll" party="PDS" name="Barbara Höll">
           <speaker>Dr. Barbara Höll (PDS):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Kinder und Jugendliche sind in der Bundesrepublik Deutschland zu einem Armutsrisiko geworden. 3 Millionen Menschen leben von Sozialhilfe, davon sind rund ein Drittel - 1 Million - Kinder und Jugendliche. In den letzten Jahren ist es leider nicht gelungen, die grundgesetzliche Stellung von Kindern als Grundrechtsträgern und eigenständigen Rechtspersönlichkeiten fester zu verankern. Wir haben dazu entsprechende Gesetzentwürfe bereits in den letzten zwei Legislaturperioden eingebracht.</p>
           <p>Wir wissen natürlich, daß es für eine kinderfreundliche Gesellschaft mehr als der materiellen Sicherstellung bedarf, aber es ist schon ein trauriges Zeichen, wenn erst Urteile des Bundesverfassungsgerichts die Politik dahin gehend treiben, daß der Gesetzgeber tätig wird. Ohne die Peitsche des Bundesverfassungsgerichts hat sich in den letzten Jahren nur sehr wenig getan.</p>
@@ -1074,11 +1074,11 @@
           <p>Hier muß ich Sie von der Koalition und der Regierung wirklich fragen: Wollen Sie die Peinlichkeit begehen und die Politik der alten Regierung fortsetzen und die jeweiligen Zeiträume des Bundesverfassungsgerichtsurteils bis zum letzten ausnutzen? Oder können wir nicht gemeinsam eine umfassende Gesetzesänderung hinsichtlich der existentiellen Steuerfreistellung für Kinder und einer entsprechend positiven Kindergeldzahlung einleiten, die noch in diesem Jahr handhabbar wird bezüglich aller Kinder und Jugendlichen, die von Sozialhilfe leben? Wir müssen tatsächlich Vorschläge wie die vom Bundesverband für Alleinerziehende aufgreifen und sie natürlich entsprechend in die jetzt beginnende Haushaltsberatung und die mittelfristige Finanzplanung einbringen.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Ich gebe das Wort der Parlamentarischen Staatssekretärin Frau Dr. Barbara Hendricks.</p>
         </sp>
-        <sp who="Dr. Barbara Hendricks" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister der Finanzen" party="SPD" name="Barbara Hendricks">
+        <sp who="Barbara Hendricks" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister der Finanzen" who_original="Barbara Hendricks" party="SPD" name="Barbara Hendricks">
           <speaker>Dr. Barbara Hendricks, Parl. Staatssekretärin beim Bundesminister der Finanzen:</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Wir müssen uns heute leider mit einer weiteren Erblast befassen, die uns die alte Regierungskoalition aus CDU/CSU und F.D.P. hinterlassen hat.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der PDS)</stage>
@@ -1119,11 +1119,11 @@
           <p>Der alten Bundesregierung und der sie tragenden ehemaligen Mehrheit in diesem Haus war auch durch solche Gutachten weder zu raten noch zu helfen. Skandalös an Ihrer Politik war und bleibt, daß Sie Familien und Kindern in unserem Land seit 1984 vorenthalten haben, was ihnen von Verfassungs wegen zugestanden hätte. Das werden wir ändern.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN - Zuruf von der CDU/CSU: Was wollen Sie jetzt tun? Dazu haben Sie nichts gesagt!)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
-          <p>Als nächster Redner spricht der Kollege Hansgeorg Hauser, CDU/CSU-Fraktion. </p>
+          <p>Als nächster Redner spricht der Kollege Hansgeorg Hauser, CDU/CSU-Fraktion.</p>
         </sp>
-        <sp who="Hansgeorg Hauser" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Hansgeorg Hauser">
+        <sp who="Hansgeorg Hauser (Rednitzhembach)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hansgeorg Hauser (Rednitzhembach)" party="CSU" name="Hansgeorg Hauser">
           <speaker>Hansgeorg Hauser (Rednitzhembach) (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Es war natürlich klar, daß die neue Regierung es auf die Tour versuchen würde, sich auf Erblasten usw. zurückzuziehen.</p>
           <stage type="interjection">(Widerspruch bei der SPD)</stage>
@@ -1152,24 +1152,24 @@
           <p>Zum Schluß: Überprüfen Sie die Regelungen im Steuerentlastungsgesetz sehr sorgfältig. Wir haben eine ganze Reihe von verfassungsrechtlichen Bedenken. Verhindern Sie, daß es auch bei diesem Gesetz wieder "Endstation Karlsruhe" heißt.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Ich gebe das Wort dem Kollegen Klaus Müller, Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Klaus Wolfgang Müller" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Klaus Müller">
+        <sp who="Klaus Wolfgang Müller (Kiel)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Klaus Wolfgang Müller (Kiel)" party="GRUENE" name="Klaus Wolfgang Müller">
           <speaker>Klaus Wolfgang Müller (Kiel) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Verehrter Herr Präsident! Verehrte Kolleginnen und Kollegen! Herr Kollege Hauser, Altlastensanierung ist ein etwas zwiespältiges Geschäft. Man hat viel Arbeit damit, freut sich aber, daß es nachher nur besser werden kann.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
-          <p>1176 Deutscher Bundestag - 14. Wahlperiode - 17. Sitzung. Bonn, Freitag, den 22. Januar 1999 Deutscher Bundestag - 14. Wahlperiode - 17. Sitzung. Bonn, Freitag, den 22. Januar 1999 1169 Deutscher Bundestag - 14. Wahlperiode - 245. Sitzung, Bonn, Donnerstag, den 25. Juni 1998 1177 Rotgrün ist auf eine weitere Erblast der Regierung Kohl gestoßen. Das Verfahren, das dem Karlsruher Urteil vorausging, lief seit 1984; die Haushaltsrisiken sind seit Dienstag nachträglich auf insgesamt knapp 40 Milliarden DM gestiegen. Nun werden wir uns der Herausforderung stellen.</p>
+          <p>Rotgrün ist auf eine weitere Erblast der Regierung Kohl gestoßen. Das Verfahren, das dem Karlsruher Urteil vorausging, lief seit 1984; die Haushaltsrisiken sind seit Dienstag nachträglich auf insgesamt knapp 40 Milliarden DM gestiegen. Nun werden wir uns der Herausforderung stellen.</p>
           <p>Die Karlsruher Entscheidung bietet aber auch die Chance für einen großen Wurf, für eine zeitgerechte steuerliche Neuregelung für Familien. Das Bundesverfassungsgericht hat uns aufgetragen, den existentiellen Sach- und Betreuungsbedarf, der bei der Kindererziehung anfällt, angemessen zu berücksichtigen. Sowohl das Existenzminimum als auch darüber hinausgehende Kosten bei der Kindererziehung sind steuerlich freizustellen. Dies ist durch Erhöhung sowohl des Freibetrages als auch des Kindergeldes möglich. Aus unserer Sicht ist eindeutig eine Kindergeldlösung anzustreben, wie es das rotgrüne Steuerentlastungsgesetz deutlich macht. Dort haben wir unmittelbar nach Amtsantritt mit der Erhöhung des Kindergelds auf 250 DM - demnächst auf 260 DM - einen großen Schritt in die richtige Richtung getan - hart kritisiert von der Opposition.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
           <p>Die Neuregelung sollte aber nicht bei einer Erhöhung von Freibeträgen stehenbleiben. Vielmehr sollten wir wirklich einen größeren Wurf wagen. Wir sollten die Anregung der Richterinnen und Richter aufgreifen, einen Grundtatbestand zu schaffen, der alle kinderbezogenen Entlastungen umfaßt. Mit der Neuregelung können wir auch einen beherzten Schritt wagen, das Leben mit Kindern statt den Trauschein zu fördern.</p>
-          <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN - Zuruf von der CDU/CSU: Dann haben Sie das Urteil offenbar  nicht richtig gelesen!)</stage>
+          <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN - Zuruf von der CDU/CSU: Dann haben Sie das Urteil offenbar nicht richtig gelesen!)</stage>
           <p>Ich möchte ebenso wie die Kollegin Hendricks einen Blick auf das 82er Urteil des Bundesverfassungsgerichts zum gleichen Thema werfen. Nach unserer Einschätzung hat Karlsruhe eine Wendung in der Einschätzung des Ehegattensplittings vollzogen. Damals hatten Alleinerziehende geklagt. Um in den Genuß des Splittings zu kommen, sollte es statt des Ehegatten- ein Familiensplitting geben. Die Ausweitung des Splittings wurde damals abgelehnt. Die verminderte Leistungsfähigkeit von Alleinerziehenden wurde aber anerkannt; als Kompensation wurde damals der Freibetrag erhöht. 1982 befand man, das Ehegattensplitting habe eine familienpolitische Dimension. 1999 befindet Karlsruhe, das Ehegattensplitting habe nichts mit der Kindererziehung zu tun; es sei explizit keine Kompensation für die Erziehungsarbeit, da auch Ehepaare ohne Kinder davon profitieren. - Lesen Sie es nach! - Die höchsten Richterinnen und Richter zeigen damit ein vom Trauschein unabhängiges Familienverständnis. Das begrüßen wir ausdrücklich.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der PDS)</stage>
           <p>Wenn Erziehungsarbeit gemäß Karlsruhe demnächst über hohe Freibeträge berücksichtigt werden muß, dann hat das Ehegattensplitting keine familienpolitische Dimension mehr. Es fördert nicht mehr das Zusammenleben mit Kindern, sondern lediglich die Institution Ehe. Darum - nicht aus Spargründen - hält Bündnis 90/Die Grünen eine erneute politische Debatte über das Ehegattensplitting für notwendig.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
-          <p>Wir befinden uns damit in guter Gesellschaft. Auch  die schleswig-holsteinische Ministerpräsidentin Heide Simonis und die Vorsitzende des Ausschusses für Familienangelegenheiten, die Kollegin Hanewinckel, haben sich für Veränderungen beim Ehegattensplitting ausgesprochen.</p>
+          <p>Wir befinden uns damit in guter Gesellschaft. Auch die schleswig-holsteinische Ministerpräsidentin Heide Simonis und die Vorsitzende des Ausschusses für Familienangelegenheiten, die Kollegin Hanewinckel, haben sich für Veränderungen beim Ehegattensplitting ausgesprochen.</p>
           <stage type="interjection">(Jürgen Koppelin [F.D.P.]: Das ist eine "gute" Gesellschaft!)</stage>
           <p>- Eine sehr gute Gesellschaft, Herr Koppelin.</p>
           <p>Als ersten Schritt sollten wir die Kappung des Ehegattensplittings, wie es derzeit im - zugegebenermaßen komplizierten - Steuerentlastungsgesetz vorgesehen ist, überdenken und es gegebenenfalls aus diesem Gesetz herausnehmen. Das Bundesverfassungsgericht hat betont, daß verheiratete Eltern nicht schlechter als unverheiratete Eltern gestellt werden dürfen.</p>
@@ -1181,11 +1181,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der PDS)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Ich gebe das Wort der Kollegin Gisela Frick, F.D.P.-Fraktion.</p>
         </sp>
-        <sp who="Gisela Frick" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Gisela Frick">
+        <sp who="Gisela Frick" parliamentary_group="FDP" role="mp" position="NA" who_original="Gisela Frick" party="FDP" name="Gisela Frick">
           <speaker>Gisela Frick (F.D.P.):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Die heutige Aktuelle Stunde ist ein würdiger Abschluß von steuerpolitischen Chaostagen, die wir in der letzten Woche erlebt haben und die nicht mehr zu überbieten sind.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU - Kerstin Müller [Köln] [BÜNDNIS 90/DIE GRÜNEN]: Ausgerechnet Sie sagen das!)</stage>
@@ -1200,11 +1200,11 @@
           <p>Was Sie gesagt haben, das war nur eine Schelte für die Vergangenheit.</p>
           <p>Ich darf einmal daran erinnern, daß es sich im Bereich der Steuergesetzgebung in der Regel um zustimmungsbedürftige Gesetzentwürfe handelt. Daran ist der Bundesrat genauso beteiligt.</p>
           <stage type="interjection">(Detlev von Larcher [SPD]: Unerhört!)</stage>
-          <p>Das heißt, Sie waren genauso in der Verantwortung wie die vorherige Regierung. Insofern ist diese Schelte für die Vergangenheit nicht gerade sehr zielführend. </p>
+          <p>Das heißt, Sie waren genauso in der Verantwortung wie die vorherige Regierung. Insofern ist diese Schelte für die Vergangenheit nicht gerade sehr zielführend.</p>
           <stage type="interjection">(Detlev von Larcher [SPD]: Unerhört! Unglaublich!)</stage>
           <p>Wenn wir uns die öffentliche Diskussion anschauen, dann sehen wir jetzt nur eine Debatte über Steuererhöhungen. Herr Müller, für die Opposition muß ich sagen: Entschuldigen Sie bitte, daß wir den Überblick verlieren. Auch Sie alle haben ihn verloren. Jeden Tag kommt aus einer anderen Ecke der Regierungskoalition ein neuer Anstoß zur Steuererhöhungsdebatte.</p>
           <p>Ich nenne die Mehrwertsteuer, die Mineralölsteuer, die Einschränkung oder Abschaffung des Ehegattensplittings und die Wiedereinführung der privaten Vermögensteuer. Das rasselt nur so. Deshalb ist es ganz klar, daß wir, um den Überblick nicht zu verlieren, versuchen, Ihre verwinkelten Gedankengänge etwas nachzuvollziehen.</p>
-          <p>Da bin ich ausnahmsweise einmal einer Meinung mit dem Finanzminister Lafontaine, der gesagt hat: Bitte keine Steuererhöhungsdebatte! - Aber bitte nicht nur keine Steuererhöhungsdebatte, sondern auch keine  Steuererhöhungen. Das ist ja das Entscheidende!</p>
+          <p>Da bin ich ausnahmsweise einmal einer Meinung mit dem Finanzminister Lafontaine, der gesagt hat: Bitte keine Steuererhöhungsdebatte! - Aber bitte nicht nur keine Steuererhöhungsdebatte, sondern auch keine Steuererhöhungen. Das ist ja das Entscheidende!</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
           <p>- Frau Scheel klatscht auch, das freut mich besonders in diesem Zusammenhang. - Deshalb müssen Sie durch Einsparungen im Haushalt und nicht etwa durch neue Steuererhöhungen versuchen, das erforderliche Volumen freizuschaufeln. Wir haben es eben schon vom Kollegen Hauser gehört: Alle im Moment in die Diskussion eingebrachten Vorschläge zu Steuererhöhungen bringen Benachteiligungen gerade für die Familien mit sich, und sind deshalb kontraproduktiv. Es muß also um Einsparungen im Haushalt gehen. Das ist keine leichte Arbeit. Darum beneiden wir Sie nicht. Aber nur diese Maßnahmen sind der richtige Weg.</p>
           <stage type="interjection">(Detlev von Larcher [SPD]: Schadenfroh sind Sie schon!)</stage>
@@ -1218,19 +1218,19 @@
           <p>Der Kollege Singhammer hat eben im Zusammenhang mit der 630-Mark-Regelung von einer "Schubladisierung" gesprochen - ein sehr schönes, neues Wort. Ich würde sagen, das reicht nicht. Legen Sie die Sachen nicht in die Schubladen, sondern schmeißen Sie sie in den Papierkorb oder - besser noch - in den Reißwolf.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU - Zuruf von der SPD: Sie haben auch schon mal sachlichere Beiträge geliefert!)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
-          <p>Das Wort hat Frau Bundesminister Dr. Christine Bergmann. </p>
+          <p>Das Wort hat Frau Bundesminister Dr. Christine Bergmann.</p>
         </sp>
-        <sp who="Dr. Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" party="SPD" name="Christine Bergmann">
+        <sp who="Christine Bergmann" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" who_original="Christine Bergmann" party="SPD" name="Christine Bergmann">
           <speaker>Dr. Christine Bergmann, Bundesministerin für Familie, Senioren, Frauen und Jugend:</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren Abgeordnete! Frau Frick, Ihr Beitrag war sicher ein ehrenwerter Versuch, von dem eigentlichen Thema hier abzulenken. Ich denke aber, er ist nicht gelungen.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
-          <p>Wir werden mit Sicherheit keine Dinge zurücknehmen, nur weil wir jetzt ein Paket auf den Tisch bekommen haben, das unsere politische Arbeit und Richtung unterstützt. Es handelt sich dabei allerdings - auch das möchte ich noch einmal wiederholen - um eine Erblast der vergangenen Jahre. Das Bundesverfassungsgericht hat sich in der Vergangenheit  mehrfach bemüht, durch seine Urteile den Weg zu mehr steuerlicher Gerechtigkeit zu ebnen. Doch die alte Regierung hat diese Urteile, die die Lasten der Familien betreffen, schlichtweg ignoriert.</p>
+          <p>Wir werden mit Sicherheit keine Dinge zurücknehmen, nur weil wir jetzt ein Paket auf den Tisch bekommen haben, das unsere politische Arbeit und Richtung unterstützt. Es handelt sich dabei allerdings - auch das möchte ich noch einmal wiederholen - um eine Erblast der vergangenen Jahre. Das Bundesverfassungsgericht hat sich in der Vergangenheit mehrfach bemüht, durch seine Urteile den Weg zu mehr steuerlicher Gerechtigkeit zu ebnen. Doch die alte Regierung hat diese Urteile, die die Lasten der Familien betreffen, schlichtweg ignoriert.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>Deshalb können wir jetzt sagen, auch wenn wir zur Zeit nocht keine detaillierten Vorschläge vorlegen können, wie das im einzelnen zu finanzieren sein wird: Es ist auch unsere politische Richtung, die damit bestätigt wird. Ich will hier noch einmal daran erinnern, daß Sie es waren, die noch nicht einmal die Erhöhung des Kindergeldes auf 220 DM wollten. Das haben die SPD-geführten Länder im Bundesrat durchgesetzt.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
-          <p>Vorhin war schon die Rede von Selbstkritik. Die  wäre an dieser Stelle wirklich einmal angebracht. Sie haben den Familien in den letzten Jahren wirklich einiges vorenthalten. Wir versuchen jetzt, die Richtung zu ändern und den Familien schrittweise mehr zukommen zu lassen. Daß sich hier eine solche Last angesammelt hat, verdanken wir wirklich Ihrer Politik, die die früheren Urteile des Bundesverfassungsgerichts nie umgesetzt hat.</p>
+          <p>Vorhin war schon die Rede von Selbstkritik. Die wäre an dieser Stelle wirklich einmal angebracht. Sie haben den Familien in den letzten Jahren wirklich einiges vorenthalten. Wir versuchen jetzt, die Richtung zu ändern und den Familien schrittweise mehr zukommen zu lassen. Daß sich hier eine solche Last angesammelt hat, verdanken wir wirklich Ihrer Politik, die die früheren Urteile des Bundesverfassungsgerichts nie umgesetzt hat.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>Obwohl Sie, wie wir alle wissen, über Familien und Familienförderung gerne reden, haben Sie die Verantwortung dafür auf die Eltern abgewälzt. Wir meinen schon, daß die Erziehung der Kinder in erster Linie in der Verantwortung der Eltern liegt. Das heißt aber nicht, daß die Gesellschaft und die Politik sie damit alleine lassen darf, wie Ihre Politik es getan hat. Es ist Ihnen ja nicht einmal gelungen bzw. sehr schwergefallen, das einfache Existenzminimum von Kindern von der Steuer freizustellen.</p>
           <p>Jetzt unterstreicht das Bundesverfassungsgericht, daß die Leistungen der Familien weit über den existentiellen Sachbedarf von Kindern hinausgehen, und fokussiert den Blick auf die Betreuungsleistungen in den Familien. Kinderbetreuung ist eine Leistung, die auch im Interesse der Gemeinschaft liegt und deren Anerkennung verlangt. Der Staat hat dementsprechend dafür Sorge zu tragen, daß es Eltern gleichermaßen möglich ist, teilweise und auch zeitweise auf eigene Erwerbstätigkeit zugunsten der persönlichen Betreuung der Kinder zu verzichten wie auch Familien- und Erwerbstätigkeit miteinander zu verbinden.</p>
@@ -1245,7 +1245,7 @@
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>Vorhin hat Herr Hauser hier von einer einseitigen Entlastung der Bezieher kleiner Einkommen gesprochen. Dies muß ich schon als Zynismus betrachten; denn genau das Gegenteil hat in der Vergangenheit stattgefunden: eine einseitige Entlastung der Bezieher hoher Einkommen.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
-          <p>Die Bundesregierung wird Lösungsmöglichkeiten erarbeiten, welche das Existenzminimum sowie den Betreuungs- und Erziehungsbedarf von Kindern, wie vom Bundesverfassungsgericht gefordert, steuerlich angemessen berücksichtigen. In einer solchen Herausforderung liegt auch die Chance -  da gebe ich Ihnen recht, Herr Müller -, strukturell moderne Wege einzuschlagen. Das heißt: Die steuerliche Entlastung ist gemäß dem Tenor des Bundesverfassungsgerichtsurteils dort anzusetzen, wo die stärkste Förderung erfolgen muß: bei den Familien mit Kindern.</p>
+          <p>Die Bundesregierung wird Lösungsmöglichkeiten erarbeiten, welche das Existenzminimum sowie den Betreuungs- und Erziehungsbedarf von Kindern, wie vom Bundesverfassungsgericht gefordert, steuerlich angemessen berücksichtigen. In einer solchen Herausforderung liegt auch die Chance - da gebe ich Ihnen recht, Herr Müller -, strukturell moderne Wege einzuschlagen. Das heißt: Die steuerliche Entlastung ist gemäß dem Tenor des Bundesverfassungsgerichtsurteils dort anzusetzen, wo die stärkste Förderung erfolgen muß: bei den Familien mit Kindern.</p>
           <p>Ich denke, daß dieses Urteil unsere Bemühungen umeine Reform des Bundeserziehungsgeldgesetzes unterstützt; denn wenn man dem Gedanken des Bundesverfassungsgerichts hinsichtlich der Betreuungsleistung von Müttern und Vätern folgt, ist der Weg, den wir gehen wollen, richtig, nämlich die Inanspruchnahme des Erziehungsurlaubs flexibler zu gestalten, um Erwerbstätigkeit und Kinderbetreuung besser miteinander vereinbaren zu können. Die Bundesregierung wird also in Kürze einen Reformentwurf zu Elterngeld und Elternurlaub einbringen.</p>
           <p>Das Bundesverfassungsgericht hat diese unsere politische Richtung deutlich bestärkt. Die Bundesregierung hat von Anfang an deutlich gemacht, daß Kinder und Jugendliche an der Spitze ihrer Politik stehen: nicht nur durch die Erhöhung des Kindergeldes, sondern auch durch die Auflegung des Sofortprogramms zur Schaffung von Ausbildungsplätzen für 100 000 Jugendliche und durch die Regelung zur Ausbildungsförderung. Das sind Leistungen, die auch von seiten der Opposition ruhig anerkannt werden könnten; denn sie dienen den Familien und den Kindern in unserem Land.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -1253,11 +1253,11 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Ich gebe der Kollegin Hannelore Rönsch, CDU/CSU-Fraktion, das Wort.</p>
         </sp>
-        <sp who="Hannelore Rönsch" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hannelore Rönsch">
+        <sp who="Hannelore Rönsch (Wiesbaden)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hannelore Rönsch (Wiesbaden)" party="CDU" name="Hannelore Rönsch">
           <speaker>Hannelore Rönsch (Wiesbaden) (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren!</p>
           <p>Liebe Kollegen! Liebe Kolleginnen! Bevor ich zu dem eigentlichen Thema spreche, will ich noch eine Vorbemerkung machen, Frau Kollegin Bergmann. Sie haben noch einmal das 100 000 Jugendliche betreffende Programm angesprochen, mit dem diese jungen Menschen qualifiziert werden sollen, einen Beruf ergreifen zu können, obwohl sie mit einem schlechten Schulabschluß entlassen worden sind. Ich erwähne diesen Punkt ganz bewußt als Hessin,</p>
@@ -1265,7 +1265,7 @@
           <p>weil es mich immer wieder empört, daß dieses Geld nicht in die Schulen gesteckt wird und dadurch den Kindern und Jugendlichen ein Hauptschulabschluß ermöglicht wird, der sie befähigt, einen Lehrberuf zu ergreifen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Jetzt müssen wir Notprogramme hinnehmen, weil die verfehlte Schulpolitik in einigen Bundesländern unsere jungen Menschen ins Leben entläßt, unfähig, einen Lehrberuf zu ergreifen, weil sie noch nicht einmal die Flächenberechnung beherrschen, die sie für den Malerberuf dringend brauchen.</p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -  Ingrid Matthäus-Maier [SPD]: Sie können noch nicht einmal den Kinderfreibetrag berechnen!)</stage>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. - Ingrid Matthäus-Maier [SPD]: Sie können noch nicht einmal den Kinderfreibetrag berechnen!)</stage>
           <p>Jetzt komme ich zu dem eigentlichen Thema. Das Urteil des Bundesverfassungsgerichts ist ein sehr gutes Urteil für die Familien in Deutschland. Wir sollten uns alle darüber freuen. Man merkt die große Freude bei den Regierungsparteien deutlich, so auch heute in dieser Debatte.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU - Detlev von Larcher [SPD]: Bei Ihnen merkt man die Schadenfreude!)</stage>
           <p>Die Partei, die im Wahlkampf angetreten ist, die Familien ein Stück zu stärken und ihnen eine Erhöhung des Kindergeldes zuzugestehen,</p>
@@ -1296,20 +1296,20 @@
           <stage type="interjection">(Detlev von Larcher [SPD]: Deswegen mußten die klagen, weil Sie so gute Politik gemacht haben!)</stage>
           <p>- Nein, weil Sie Kinderfreibeträge abgeschafft und Kindergelderhöhungen wieder zurückgenommen haben.</p>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Frau Kollegin Rönsch, bitte kommen Sie zum Schluß.</p>
         </sp>
-        <sp who="Hannelore Rönsch" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hannelore Rönsch">
+        <sp who="Hannelore Rönsch (Wiesbaden)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hannelore Rönsch (Wiesbaden)" party="CDU" name="Hannelore Rönsch">
           <speaker>Hannelore Rönsch (Wiesbaden) (CDU/CSU):</speaker>
           <p>Ich will Ihnen zum Schluß sagen: Wir werden im Sinne der Familien mithelfen und mit dazu beitragen, daß die 20 bzw. 22 Milliarden DM von den Kommunen, von den Ländern und vom Bund für die Familien bereitgestellt werden. Wir werden gerne den Haushalt daraufhin durchforsten, welche Posten und Positionen, die Ideologie in Ihrem Sinne darstellen, besser für Leistungen an die Familie herangezogen werden können.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Als nächste Rednerin spricht Frau Christine Scheel, Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Christine Scheel" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Christine Scheel">
+        <sp who="Christine Scheel" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Christine Scheel" party="GRUENE" name="Christine Scheel">
           <speaker>Christine Scheel (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Frau Rönsch, mir fällt dazu nur ein: Es schlägt dem Faß den Boden aus!</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
@@ -1321,14 +1321,14 @@
           <p>Wenn auf der anderen Seite - das geht jetzt an Frau Professor Frick; das ist klar - gesagt wird, es gebe steuerpolitische Chaostage,</p>
           <stage type="interjection">(Zuruf von der F.D.P.: Sie haben sie mitgeprägt!)</stage>
           <p>Verrisse unserer Steuerentlastungspläne usw., dann muß ich dazu sagen: Wir haben Anhörungen durchgeführt. Nach unserem parlamentarischen Verständnis führen wir Anhörungen durch, um uns die Vorschläge und Überlegungen von Sachverständigen anzuhören. Deswegen macht man Anhörungen. Das ist nicht "just for fun", sondern sollte auch einen Sinn machen. Danach werten wir die Ergebnisse der Anhörungen selbstverständlich ganz sorgfältig aus und diskutieren sie in aller Ruhe in den Fachausschüssen. Dies haben wir in dieser Woche sowohl bei der Einkommensteuerreform als auch bei der ökologischen Steuerreform im ersten Durchgang so getan. Das ist ein ganz normales ordentliches Verfahren. Man braucht sich hier gar nicht aufzuregen.</p>
-          <p>Was den Überblick betrifft: Für uns ist vollkommen klar, daß wir das Steuerentlastungsgesetz 1999/2000/ 2002, die Einkommensteuerreform, demnächst zeit- gerecht - so wie wir es vorhatten - rückwirkend zum  1. Januar 1999 in der Form, in der es mit den fachlichen Änderungen in einzelnen Punkten vorliegt, in der zweiten und dritten Lesung beschließen.</p>
+          <p>Was den Überblick betrifft: Für uns ist vollkommen klar, daß wir das Steuerentlastungsgesetz 1999/2000/ 2002, die Einkommensteuerreform, demnächst zeit- gerecht - so wie wir es vorhatten - rückwirkend zum 1. Januar 1999 in der Form, in der es mit den fachlichen Änderungen in einzelnen Punkten vorliegt, in der zweiten und dritten Lesung beschließen.</p>
           <stage type="interjection">(Detlev von Larcher [SPD]: Wir wollen es nicht nur, wir tun es!)</stage>
           <p>Das geschieht vollkommen unabhängig von dem Bundesverfassungsgerichtsurteil, das wir jetzt diskutieren.</p>
-          <p>Wir wollen auch die ökologisch-soziale Steuerreform in zweiter und dritter Lesung beschließen, und zwar daran gekoppelt, daß es keine weitere Anhebung der Mineralölsteuer geben wird. Um auch das klarzustellen: Es bleibt so, wie es zwischen den Koalitionspartnern besprochen worden ist. Das hat mit dem Bundesverfassungsgerichtsurteil null zu tun, es ist davon vollkommen losgelöst. Diese ökologisch-soziale Steuerreform ist in Koppelung mit der Absenkung um die 0,8  Prozentpunkte bei der Rentenversicherung vorgesehen.</p>
+          <p>Wir wollen auch die ökologisch-soziale Steuerreform in zweiter und dritter Lesung beschließen, und zwar daran gekoppelt, daß es keine weitere Anhebung der Mineralölsteuer geben wird. Um auch das klarzustellen: Es bleibt so, wie es zwischen den Koalitionspartnern besprochen worden ist. Das hat mit dem Bundesverfassungsgerichtsurteil null zu tun, es ist davon vollkommen losgelöst. Diese ökologisch-soziale Steuerreform ist in Koppelung mit der Absenkung um die 0,8 Prozentpunkte bei der Rentenversicherung vorgesehen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
           <p>Dabei bleibt es 1999. Jede andere Diskussion ist hier fehl am Platz.</p>
-          <stage type="interjection">(Hannelore Rönsch [Wiesbaden] [CDU/CSU]: Das ist doch die Dame, die zusätzlich noch 7  Prozent Mineralölsteuer will!)</stage>
-          <p>- Die 7  Prozent zusätzliche Mineralölsteuer, Frau Rönsch, beziehen sich auf einen Verfahrensweg für die Zukunft à la Großbritannien. Das hat nur etwas damit zu tun, wie man das in den nächsten Stufen in den nächsten Jahren systematisch angeht. Es hat nichts mit irgendwelchen Gegenfinanzierungen zu tun, sondern betrifft die Frage, wie wir mit der zweiten und dritten Stufe umgehen.</p>
+          <stage type="interjection">(Hannelore Rönsch [Wiesbaden] [CDU/CSU]: Das ist doch die Dame, die zusätzlich noch 7 Prozent Mineralölsteuer will!)</stage>
+          <p>- Die 7 Prozent zusätzliche Mineralölsteuer, Frau Rönsch, beziehen sich auf einen Verfahrensweg für die Zukunft à la Großbritannien. Das hat nur etwas damit zu tun, wie man das in den nächsten Stufen in den nächsten Jahren systematisch angeht. Es hat nichts mit irgendwelchen Gegenfinanzierungen zu tun, sondern betrifft die Frage, wie wir mit der zweiten und dritten Stufe umgehen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der SPD)</stage>
           <p>Machen wir das mit irgendwelchen blöden Benzinpreisdebatten, oder machen wir das prozentual? Darüber darf man wohl nachdenken. Aber es darf absolut nicht in diesen Zusammenhang gestellt werden. Das ist vollkommen falsch interpretiert worden;</p>
           <stage type="interjection">(Anke Fuchs [Köln] [SPD]: Sehr richtig!)</stage>
@@ -1338,15 +1338,15 @@
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie des Abg. Dr. Gregor Gysi [PDS])</stage>
           <p>Wir werden einen guten Gesetzentwurf vorlegen.</p>
           <stage type="interjection">(Heinz Seiffert [CDU/CSU]: Das wäre einmal etwas Neues!)</stage>
-          <p>Davon gehen wir von seiten der Regierungsfraktionen aus. Wir werden das tun, was den Familien mit Kindern zusteht. Wir werden das Leben mit Kindern steuerlich  erleichtern. Das war immer das Ziel der jetzigen Regierung und wird es, gerade bei der Umsetzung, auch bleiben.</p>
+          <p>Davon gehen wir von seiten der Regierungsfraktionen aus. Wir werden das tun, was den Familien mit Kindern zusteht. Wir werden das Leben mit Kindern steuerlich erleichtern. Das war immer das Ziel der jetzigen Regierung und wird es, gerade bei der Umsetzung, auch bleiben.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Das Wort hat der Abgeordnete Dr. Gregor Gysi, PDS-Fraktion.</p>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Gregor Gysi">
+        <sp who="Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" who_original="Gregor Gysi" party="PDS" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (PDS):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Als Fraktionsvorsitzender hat man den Vorteil, für alles und auch wieder für nichts Experte zu sein. Deshalb ist man dann so erfolgreich in der Politik.</p>
           <p>Ich will Ihnen folgendes sagen: Ich habe mich sehr über die Rede von Frau Rönsch gewundert. Darf ich Ihnen wenigstens einen Satz aus der Pressemitteilung des Bundesverfassungsgerichts vorlesen, der wie folgt lautet:</p>
@@ -1356,7 +1356,7 @@
           <p>Warum fällt es Ihnen eigentlich so schwer, sich einmal hier hinzustellen und zu sagen: Wir haben einen Fehler gemacht, und jetzt wird es eine gemeinsame Aufgabe des Parlaments sein, diesen Fehler zu bereinigen.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
           <p>Das wäre dann wenigstens ein ehrlicher Anfang. Aber statt dessen kommen Sie mit ominösen Feststellungen zu Ihrer Familienpolitik, die vom Bundesverfassungsgericht bestätigt worden sei, obwohl Sie Jahr für Jahr Bestimmungen erlassen haben, die sich alle als verfassungswidrig herausgestellt haben.</p>
-          <p>Ich kann allerdings -  auch das will ich deutlich sagen  - nicht ganz die Äußerungen der neuen Regierung teilen, das entspreche doch der politischen Richtung, die sie vorgegeben habe. Ich habe Ihre Koalitionsvereinbarung noch einmal gelesen. Darin steht zu alledem nichts. Es sind dort auch keine Vorhaben diesbezüglich angekündigt worden. Auch im Haushalt 1999 findet sich dafür keine müde Mark.</p>
+          <p>Ich kann allerdings - auch das will ich deutlich sagen - nicht ganz die Äußerungen der neuen Regierung teilen, das entspreche doch der politischen Richtung, die sie vorgegeben habe. Ich habe Ihre Koalitionsvereinbarung noch einmal gelesen. Darin steht zu alledem nichts. Es sind dort auch keine Vorhaben diesbezüglich angekündigt worden. Auch im Haushalt 1999 findet sich dafür keine müde Mark.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
           <p>So ganz kann das Ihren unmittelbaren Plänen also nicht entsprochen haben. Auch das hätte man ehrlicherweise sagen können.</p>
           <stage type="interjection">(Beifall bei der PDS - Jürgen Koppelin [F.D.P.]: Wo er recht hat, hat er recht!)</stage>
@@ -1372,14 +1372,14 @@
           <p>Deshalb sage ich Ihnen: Beseitigen Sie diese Ungerechtigkeit, und regeln Sie dies dann rückwirkend für alle. Anders ist eine Gerechtigkeit diesbezüglich nicht herstellbar.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
           <p>Noch zwei Bemerkungen. Wenn es um die Finanzierung geht, dann sollte man über unsere Anträge auf Wiedereinführung der privaten Vermögensteuer und die Einführung einer Luxussteuer und über Abrüstung nachdenken. Ich halte den Verteidigungsetat auch im Haushaltsentwurf dieser Bundesregierung für 1999 nach wie vor für dramatisch hoch.</p>
-          <p>Letzte Bemerkung. Eine Gerechtigkeitslücke bleibt. Damit konnte sich das Bundesverfassungsgericht nicht beschäftigen. Aber ich finde, wir sollten uns endlich einmal damit beschäftigen. Es gibt in diesem Lande Millionen Menschen, die so wenig verdienen, daß sie keine Steuern zahlen können. Die haben überhaupt nichts von irgendwelchen Steuerentlastungsvorschriften. Lassen Sie uns doch einmal zu einer direkten Förderung übergehen! Einer Sozialhilfeempfängerin, die jetzt ein erhöhtes Kindergeld bekommt, wird die Erhöhung im Rahmen der Sozialhilfe wieder abgezogen. Die hat nichts von Ihrer Kindergelderhöhung. Wir brauchen endlich direkte Förderungen für Kinder von Eltern mit Einkommen im unteren Bereich. Sonst bleiben alle Regelungen zur  Steuerentlastung ungerecht.</p>
+          <p>Letzte Bemerkung. Eine Gerechtigkeitslücke bleibt. Damit konnte sich das Bundesverfassungsgericht nicht beschäftigen. Aber ich finde, wir sollten uns endlich einmal damit beschäftigen. Es gibt in diesem Lande Millionen Menschen, die so wenig verdienen, daß sie keine Steuern zahlen können. Die haben überhaupt nichts von irgendwelchen Steuerentlastungsvorschriften. Lassen Sie uns doch einmal zu einer direkten Förderung übergehen! Einer Sozialhilfeempfängerin, die jetzt ein erhöhtes Kindergeld bekommt, wird die Erhöhung im Rahmen der Sozialhilfe wieder abgezogen. Die hat nichts von Ihrer Kindergelderhöhung. Wir brauchen endlich direkte Förderungen für Kinder von Eltern mit Einkommen im unteren Bereich. Sonst bleiben alle Regelungen zur Steuerentlastung ungerecht.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
-          <p>Das Wort hat Frau Nicolette Kressl von der SPD-Fraktion. </p>
+          <p>Das Wort hat Frau Nicolette Kressl von der SPD-Fraktion.</p>
         </sp>
-        <sp who="Nicolette Kressl" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Nicolette Kressl">
+        <sp who="Nicolette Kressl" parliamentary_group="SPD" role="mp" position="NA" who_original="Nicolette Kressl" party="SPD" name="Nicolette Kressl">
           <speaker>Nicolette Kressl (SPD):</speaker>
           <p>Herr Präsident! Sehr geehrte Kolleginnen und Kollegen! Leistungen, die egal in welcher Form in den Familien erbracht werden, müssen vom Gesetzgeber besser anerkannt werden. Das macht dieses Bundesverfassungsgerichtsurteil sehr deutlich. Was daraus noch deutlicher hervorgeht, ist, daß über viele Jahre hinweg der Gesetzgeber die Familien steuerlich zu schlecht behandelt hat.</p>
           <stage type="interjection">(Detlev von Larcher [SPD]: Sehr wahr!)</stage>
@@ -1391,7 +1391,7 @@
           <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Es erscheint mir reichlich unverfroren, daß die Oppositionskolleginnen und -kollegen jetzt so tun, als seien es nicht sie gewesen, die die familienpolitischen Defizite über Jahre haben größer und größer werden lassen. Dieses schnelle Drehen im Wind dieses Urteils erstaunt mich ganz arg.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
-          <p>Es ist noch keine acht Wochen her, daß Frau Hasselfeldt in der Debatte zum Steuerentlastungsgesetz die Kindergelderhöhung mit einem Weihnachtsgeschenk verglichen hat -  wie absurd angesichts dieses Urteils.</p>
+          <p>Es ist noch keine acht Wochen her, daß Frau Hasselfeldt in der Debatte zum Steuerentlastungsgesetz die Kindergelderhöhung mit einem Weihnachtsgeschenk verglichen hat - wie absurd angesichts dieses Urteils.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Und weil Sie, Frau Frick, hier so tun, als hätten Sie die richtigen Ideen, als hätten Sie die richtigen Entscheidungen getroffen, will ich zitieren, was Sie dazu gesagt haben:</p>
           <p>Auch wir halten es für wünschenswert, die Leistungen für Familien zu verbessern. Wir aber haben einen anderen Ansatz.</p>
@@ -1408,11 +1408,11 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Ich gebe das Wort dem Abgeordneten Norbert Barthle, CDU/CSU-Fraktion.</p>
         </sp>
-        <sp who="Norbert Barthle" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Norbert Barthle">
+        <sp who="Norbert Barthle" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Norbert Barthle" party="CDU" name="Norbert Barthle">
           <speaker>Norbert Barthle (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident Liebe Kolleginnen und Kollegen! Es wurde mehrfach gesagt, daß wir von der CDU/CSU-Fraktion dieses Urteil begrüßen. Ich will das wiederholen und aus ganz persönlicher Sicht unterstreichen. Als Vater von zwei Kindern weiß ich sehr wohl, welche finanziellen Belastungen mit der Betreuung und Erziehung von Kindern alltäglich verbunden sind.</p>
           <p>Die bisherige gesetzliche Regelung genügt - das sagt das Bundesverfassungsgericht in lobenswerter Deutlichkeit - dem Kriterium der Freistellung des Existenzminimums nicht. Ich unterstreiche an dieser Stelle, die grundsätzliche Kritik von Frau Scheel, was die Kompetenzzuschreibung von Politik und BVG anbelangt. Nur, daraus nun den Schluß zu ziehen, es handele sich um eine Ohrfeige für die alte Bundesregierung, wie es mehrfach gesagt wurde, halte ich für billige Polemik und letztendlich für Geschichtsklitterung.</p>
@@ -1440,13 +1440,13 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Ich darf auch dem Kollegen Barthle im Namen des Hauses zu seiner ersten Rede gratulieren.</p>
           <stage type="interjection">(Beifall)</stage>
           <p>Ich gebe nunmehr der Kollegin Lydia Westrich von der SPD-Fraktion das Wort.</p>
         </sp>
-        <sp who="Lydia Westrich" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Lydia Westrich">
+        <sp who="Lydia Westrich" parliamentary_group="SPD" role="mp" position="NA" who_original="Lydia Westrich" party="SPD" name="Lydia Westrich">
           <speaker>Lydia Westrich (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Auch heute sprühen in dieser Aktuellen Stunde die Funken, obwohl alle Fraktionen die Situation begrüßen, die zumindest in diesem Zeitrahmen nicht von uns geschaffen wurde, mit der wir aber sehr sorgsam und verantwortlich umgehen müssen. Daher nützen Beiträge à la Kollegin Rönsch überhaupt nichts.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
@@ -1458,7 +1458,7 @@
           <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Selbst als das Verfassungsgericht die Berücksichtigung des Existenzminimums für Kinder zwingend vorgeschrieben hat, meine Damen und Herren aus der CDU/CSU und F.D.P., haben Sie zugelassen, daß dieses verfassungsrechtlich zwingend vorgeschriebene Kindergeld als Sozialklimbim bezeichnet wurde und dessen Einsparung als ständig verfügbare Masse zur Gegenfinanzierung von Unternehmenssteuererleichterungen zur Verfügung stand. Man kam sich ja manchmal wie in einem Steinbruch vor.</p>
           <stage type="interjection">(Detlev von Larcher [SPD]: So ist es!)</stage>
-          <p>Da haben Sie -  Sie haben das auch jetzt wieder erwähnt  - das Bundesverfassungsgerichtsurteil zur Vermögensteuer sehr viel ernsthafter umgesetzt und verteidigt.</p>
+          <p>Da haben Sie - Sie haben das auch jetzt wieder erwähnt - das Bundesverfassungsgerichtsurteil zur Vermögensteuer sehr viel ernsthafter umgesetzt und verteidigt.</p>
           <p>Das verlorengegangene Vertrauen der Familien in die Politik geht ganz auf Ihr Konto; das nehmen wir nicht auf unseren Rücken. Deshalb habe ich auch ein weinendes Auge. Wäre dieses Urteil des Bundesverfassungsgerichts bereits vor der Bundestagswahl ergangen, wären Sie in der Familienpolitik mit Pauken und Trompeten durchgefallen und wären Ihre Fraktionen mit noch viel kleinerer Besetzung im Bundestag vertreten.</p>
           <stage type="interjection">(Beifall der Abg. Margot von Renesse [SPD])</stage>
           <p>Die Frage der Steuergerechtigkeit wird nämlich von den Bürgern viel sensibler aufgenommen, als Sie gedacht haben. Meine sehr verehrten Damen und Herren, ich weiß nicht, ob Sie bei der Größe Ihrer Fraktion noch viel zu lachen haben.</p>
@@ -1470,11 +1470,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Ich gebe das Wort dem Kollegen Jochen-Konrad Fromme, CDU/CSU-Fraktion.</p>
         </sp>
-        <sp who="Jochen-Konrad Fromme" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Jochen-Konrad Fromme">
+        <sp who="Jochen-Konrad Fromme" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Jochen-Konrad Fromme" party="CDU" name="Jochen-Konrad Fromme">
           <speaker>Jochen-Konrad Fromme (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Dieses Urteil steht in einem originären Zusammenhang mit der Steuerreform. Sie sollten wegen des Finanzierungszusammenhangs nicht von Erblasten sprechen, sondern sich um Ihren eigenen finanzpolitischen Trümmerhaufen kümmern.</p>
           <stage type="interjection">(Detlev von Larcher [SPD]: Ach, hören Sie doch auf! Das hilft Ihnen doch auch nichts!)</stage>
@@ -1482,28 +1482,28 @@
           <stage type="interjection">(Dr. Barbara Höll [PDS]: Sehr gut!)</stage>
           <p>Frau Matthäus-Maier warnt davor, Geld aus der Ökosteuer herauszunehmen.</p>
           <p>Meine Damen und Herren, sind es etwa Scheingewinne, die hier eingesetzt werden sollen? Warum muß man überhaupt auf so etwas eingehen?</p>
-          <stage type="interjection">(Anke Fuchs [Köln] [SPD]:  Tun Sie es doch nicht! - Heiterkeit bei der SPD)</stage>
+          <stage type="interjection">(Anke Fuchs [Köln] [SPD]: Tun Sie es doch nicht! - Heiterkeit bei der SPD)</stage>
           <p>Da sagt dann die Haushaltsexpertin Titze-Stecher: Das Ganze geht nur bei Verzicht auf Mehrwertsteuererhöhung oder Ehegattensplitting. Ihr Finanzminister Schleußer aus Nordrhein-Westfalen warnt davor und sagt: Denkt daran, beim Ehegattensplitting ist gar nicht so viel zu holen. Recht hat er, und zwar aus zwei Gründen: erstens, weil es finanziell nicht geht, und zweitens, weil das Verfassungsgericht genau das Gegenteil gesagt hat.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
           <p>Sie haben es immer noch nicht kapiert. Da sagt der Haushaltsexperte Metzger: schmerzhafte Eingriffe in Leistungsgesetze. Meine Damen und Herren, wen trifft denn das? Doch in erster Linie wieder kinderreiche Familien und diejenigen, denen das Verfassungsgericht gerade etwas eingeräumt hat.</p>
           <p>Sie haben zunächst einmal den Schuldenberg gegenüber den Ländern und Kommunen abzutragen.</p>
           <stage type="interjection">(Dr. Barbara Höll [PDS]: Den Sie angehäuft haben!)</stage>
-          <p>1,8  Milliarden DM haben Sie mit dem Kindergelderhöhungsgesetz entgegen dem Grundgesetz nicht erfüllt, obwohl es doch die SPD-Länder waren, die im Bundesrat bei der Neuregelung des Familienlastenausgleiches gerade den Rechtsanspruch der Länder und Kommunen durchgesetzt haben. Jetzt halten Sie sich überhaupt nicht daran. Das ist doch eine Schuld, die Sie noch einlösen müssen. Sie werden spätestens im Bundesrat merken, daß dies auch eingefordert wird.</p>
+          <p>1,8 Milliarden DM haben Sie mit dem Kindergelderhöhungsgesetz entgegen dem Grundgesetz nicht erfüllt, obwohl es doch die SPD-Länder waren, die im Bundesrat bei der Neuregelung des Familienlastenausgleiches gerade den Rechtsanspruch der Länder und Kommunen durchgesetzt haben. Jetzt halten Sie sich überhaupt nicht daran. Das ist doch eine Schuld, die Sie noch einlösen müssen. Sie werden spätestens im Bundesrat merken, daß dies auch eingefordert wird.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU - Detlev von Larcher [SPD]: Es lohnt sich nicht, zuzuhören!)</stage>
-          <p>Meine Damen und Herren, im Steuerentlastungsgesetz haben Sie in der letzten Lesung 36  Änderungen angekündigt. Wir haben ja nichts dagegen und würden uns freuen, wenn Sie denn aus den Anhörungen gelernt hätten. Aber ich empfinde es schon als verantwortungslos, die gesamte Wirtschaft und die Menschen mit irgendwelchen angekündigten Änderungen zu beunruhigen - das haben wir in der Expertenanhörung deutlich spüren können - und hinterher dann wieder Teile zurückzunehmen.</p>
+          <p>Meine Damen und Herren, im Steuerentlastungsgesetz haben Sie in der letzten Lesung 36 Änderungen angekündigt. Wir haben ja nichts dagegen und würden uns freuen, wenn Sie denn aus den Anhörungen gelernt hätten. Aber ich empfinde es schon als verantwortungslos, die gesamte Wirtschaft und die Menschen mit irgendwelchen angekündigten Änderungen zu beunruhigen - das haben wir in der Expertenanhörung deutlich spüren können - und hinterher dann wieder Teile zurückzunehmen.</p>
           <stage type="interjection">(Detlev von Larcher [SPD]: Das sagt er nach Petersberg!)</stage>
           <p>Wenn ich Ihre Steuerpolitik, Herr von Larcher, ansehe, dann muß ich ehrlich sagen: Die Echternacher Springprozession kommt mir vor wie das 24-Stunden-Rennen von Le Mans.</p>
-          <p>Es geht doch bei Ihnen immer nach der gleichen Methode - wir kennen das aus Niedersachsen -: Herr Schröder kündigt 100  Prozent an, nimmt 10  Prozent zurück, läßt sich dafür feiern und macht die Menschen vergessen, daß 90  Prozent bleiben. Deshalb sollten Sie sich von dem von allen Experten verworfenen Entwurf verabschieden. Werfen Sie ihn in den Papierkorb! Machen Sie einen neuen Entwurf unter Berücksichtigung des Bundesverfassungsgerichtsurteils. Dann tun Sie etwas Vernünftiges.</p>
+          <p>Es geht doch bei Ihnen immer nach der gleichen Methode - wir kennen das aus Niedersachsen -: Herr Schröder kündigt 100 Prozent an, nimmt 10 Prozent zurück, läßt sich dafür feiern und macht die Menschen vergessen, daß 90 Prozent bleiben. Deshalb sollten Sie sich von dem von allen Experten verworfenen Entwurf verabschieden. Werfen Sie ihn in den Papierkorb! Machen Sie einen neuen Entwurf unter Berücksichtigung des Bundesverfassungsgerichtsurteils. Dann tun Sie etwas Vernünftiges.</p>
           <p>Schönen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Der Kollege Fromme hat seine erste Rede gehalten. Auch ihm darf ich dazu gratulieren.</p>
           <stage type="interjection">(Beifall)</stage>
           <p>Ich gebe nunmehr als letzter Rednerin der Kollegin Ingrid Matthäus-Maier von der SPD-Fraktion das Wort.</p>
         </sp>
-        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ingrid Matthäus-Maier">
+        <sp who="Ingrid Matthäus-Maier" parliamentary_group="SPD" role="mp" position="NA" who_original="Ingrid Matthäus-Maier" party="SPD" name="Ingrid Matthäus-Maier">
           <speaker>Ingrid Matthäus-Maier (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine sehr verehrten Damen und Herren! Die Entscheidung des Bundesverfassungsgerichtes bestätigt die Zielsetzung der Politik dieser Bundesregierung, die Familien mit Kindern finanziell zu entlasten. Wir haben vor der Wahl gesagt, aus ökonomischen, familienpolitischen und verfassungsrechtlichen Gründen werden wir das Kindergeld auf 250 DM anheben. Wir haben dieses Versprechen gehalten.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -1536,11 +1536,264 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CDU" name="Rudolf Seiters">
+        <sp who="Rudolf Seiters" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Rudolf Seiters" party="CDU" name="Rudolf Seiters">
           <speaker>Vizepräsident Rudolf Seiters:</speaker>
           <p>Meine Damen und Herren, die Aktuelle Stunde ist damit beendet. Wir sind am Schluß unserer Tagesordnung. Ich wünsche Ihnen ein schönes Wochenende.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 27. Januar 1999, 14 Uhr ein. Die Gedenkstunde zum Gedenktag für die Opfer des Nationalsozialismus beginnt um 11 Uhr.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluß der Sitzung 13.16 Uhr)</stage>
+          <p>Anlagen zum Stenographischen Bericht</p>
+          <p>Anlage 1</p>
+          <p>Liste der entschuldigten Abgeordneten</p>
+          <p>Abgeordnete(r)</p>
+          <p>entschuldigt bis</p>
+          <p>einschließlich</p>
+          <p>Andres, Gerd</p>
+          <p>SPD</p>
+          <p>22.1.99</p>
+          <p>Austermann, Dietrich</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Bachmaier, Hermann</p>
+          <p>SPD</p>
+          <p>22.1.99</p>
+          <p>Dr. Bartsch, Dietmar</p>
+          <p>PDS</p>
+          <p>22.1.99</p>
+          <p>Bierwirth, Petra</p>
+          <p>SPD</p>
+          <p>22.1.99</p>
+          <p>Dr. Blank,</p>
+          <p>Joseph-Theodor</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Brüderle, Rainer</p>
+          <p>F.D.P.</p>
+          <p>22.1.99</p>
+          <p>Brudlewsky, Monika</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Bulling-Schröter, Eva</p>
+          <p>PDS</p>
+          <p>22.1.99</p>
+          <p>Buntenbach, Annelie</p>
+          <p>BÜNDNIS 90/ DIE GRÜNEN</p>
+          <p>22.1.99</p>
+          <p>Deligöz, Ekin</p>
+          <p>BÜNDNIS 90/ DIE GRÜNEN</p>
+          <p>22.1.99</p>
+          <p>Dietzel, Wilhelm</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Eymer, Anke</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Friedhoff, Paul K.</p>
+          <p>F.D.P.</p>
+          <p>22.1.99</p>
+          <p>Friedrich (Altenburg),</p>
+          <p>Peter</p>
+          <p>SPD</p>
+          <p>22.1.99</p>
+          <p>Glos, Michael</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Götz, Peter</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Günther (Plauen),</p>
+          <p>Joachim</p>
+          <p>F.D.P.</p>
+          <p>22.1.99</p>
+          <p>Hanewinckel, Christel</p>
+          <p>SPD</p>
+          <p>22.1.99</p>
+          <p>Hartnagel, Anke</p>
+          <p>SPD</p>
+          <p>22.1.99</p>
+          <p>Hasenfratz, Klaus</p>
+          <p>SPD</p>
+          <p>22.1.99</p>
+          <p>Hasselfeldt, Gerda</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Hauser (Bonn),</p>
+          <p>Norbert</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Herzog, Gustav</p>
+          <p>SPD</p>
+          <p>22.1.99</p>
+          <p>Höfken, Ulrike</p>
+          <p>BÜNDNIS 90/ DIE GRÜNEN</p>
+          <p>22.1.99</p>
+          <p>Hohmann, Martin</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Imhof, Barbara</p>
+          <p>SPD</p>
+          <p>22.1.99</p>
+          <p>Jelpke, Ulla</p>
+          <p>PDS</p>
+          <p>22.1.99</p>
+          <p>Knoche, Monika</p>
+          <p>BÜNDNIS 90/ DIE GRÜNEN</p>
+          <p>22.1.99</p>
+          <p>Kossendey, Thomas</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Kraus, Rudolf</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Küchler, Ernst</p>
+          <p>SPD</p>
+          <p>22.1.99</p>
+          <p>Abgeordnete(r)</p>
+          <p>entschuldigt bis</p>
+          <p>einschließlich</p>
+          <p>Labsch, Werner</p>
+          <p>SPD</p>
+          <p>22.1.99</p>
+          <p>Lemke, Steffi</p>
+          <p>BÜNDNIS 90/ DIE GRÜNEN</p>
+          <p>22.1.99</p>
+          <p>Lengsfeld, Vera</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Lippmann-Kasten,</p>
+          <p>Heidi</p>
+          <p>PDS</p>
+          <p>22.1.99</p>
+          <p>Lohmann (Neubranden-</p>
+          <p>burg), Götz-Peter</p>
+          <p>SPD</p>
+          <p>22.1.99</p>
+          <p>Maaß (Wilhelmshaven),</p>
+          <p>Erich</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Dr. Merkel, Angelika</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Möllemann, Jürgen W.</p>
+          <p>F.D.P.</p>
+          <p>22.1.99</p>
+          <p>Neumann (Bramsche),</p>
+          <p>Volker</p>
+          <p>SPD</p>
+          <p>22.1.99</p>
+          <p>Niebel, Dirk</p>
+          <p>F.D.P.</p>
+          <p>22.1.99</p>
+          <p>Nietan, Dietmar</p>
+          <p>SPD</p>
+          <p>22.1.99</p>
+          <p>Nooke, Günter</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Pau, Petra</p>
+          <p>PDS</p>
+          <p>22.1.99</p>
+          <p>Dr. Pfaff, Martin</p>
+          <p>SPD</p>
+          <p>22.1.99</p>
+          <p>Dr. Protzner, Bernd</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Roth (Gießen), Adolf</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Rühe, Volker</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Rupprecht, Marlene</p>
+          <p>SPD</p>
+          <p>22.1.99</p>
+          <p>Scharping, Rudolf</p>
+          <p>SPD</p>
+          <p>22.1.99</p>
+          <p>Schmidt (Eisleben),</p>
+          <p>Silvia</p>
+          <p>SPD</p>
+          <p>22.1.99</p>
+          <p>Dr. Schuchardt, Erika</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Schultz (Everswinkel),</p>
+          <p>Reinhard</p>
+          <p>SPD</p>
+          <p>22.1.99</p>
+          <p>Dr. Schwarz-Schilling,</p>
+          <p>Christian</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Siebert, Bernd</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Dr. Stadler, Max</p>
+          <p>F.D.P.</p>
+          <p>22.1.99</p>
+          <p>Dr. Thalheim, Gerald</p>
+          <p>SPD</p>
+          <p>22.1.99</p>
+          <p>Thiele, Carl-Ludwig</p>
+          <p>F.D.P.</p>
+          <p>22.1.99</p>
+          <p>Dr. Tiemann, Susanne</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Uldall, Gunnar</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Willner, Gert</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Wissmann, Matthias</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Wolf (München),</p>
+          <p>Hanna</p>
+          <p>SPD</p>
+          <p>22.1.99</p>
+          <p>Zeitlmann, Wolfgang</p>
+          <p>CDU/CSU</p>
+          <p>22.1.99</p>
+          <p>Anlage 2</p>
+          <p>Amtliche Mitteilungen</p>
+          <p>Der Bundesrat hat in seiner 733. Sitzung am 18. Dezember 1998 beschlossen, den nachstehenden Gesetzen zuzustimmen bzw. einen Antrag gemäß Artikel 77 Absatz 2 Grundgesetz nicht zu stellen:</p>
+          <p>- Siebtes Gesetz zur Änderung des Parteiengesetzes</p>
+          <p>- Gesetz zur Änderung des Gesetzes über die Rechtsverhältnisse der Parlamentarischen Staatssekretäre</p>
+          <p>- Gesetz zu Korrekturen in der Sozialversicherung und zur Sicherung der Arbeitnehmerrechte</p>
+          <p>- Gesetz zur Änderung des Versorgungsreformgesetzes 1998 und anderer Gesetze (Versorgungsreform-Änderungsgesetz - VReformGÄndG)</p>
+          <p>- Gesetz zur Änderung des Einführungsgesetzes zur Insolvenzordnung und anderer Gesetze (EGInsOÄndG)</p>
+          <p>- Steueränderungsgesetz 1998</p>
+          <p>- Viertes Gesetz zur Änderung des Stasi-Unterlagen-Gesetzes (4. StUÄndG)</p>
+          <p>- Gesetz zu dem Abkommen vom 18. September 1998 zwischen der Regierung der Bundesrepublik Deutschland und der Europäischen Zentralbank über den Sitz der Europäischen Zentralbank</p>
+          <p>- Steuerentlastungsgesetz 1999</p>
+          <p>- Gesetz zur Stärkung der Solidarität in der gesetzlichen Krankenver-</p>
+          <p>sicherung - GKV-Solidaritätsstärkungsgesetz - GKV-SolG</p>
+          <p>Zu den beiden letztgenannten Gesetzen hat der Bundesrat die folgenden Entschließungen gefaßt:</p>
+          <p>Entschließung des Bundesrates zum Steuerentlastungsgesetz 1999:</p>
+          <p>1. Der Bundesrat geht bei der Zustimmung zum Steuerentlastungsgesetz 1999 davon aus, daß das mit dem Entwurf eines Steuerentlastungsgesetzes 1999/2000/2002 (Drucksache 910/98) über eine Verbreiterung steuerlicher Bemessungsgrundlagen insgesamt vorgesehene Volumen zur Finanzierung der Entlastungsmaßnahmen vom Deutschen Bundestag so beschlossen wird. Angesichts der schwierigen Lage der öffentlichen Haushalte sind Steuerausfälle, die über die im Entwurf des Steuer-</p>
+          <p>entlastungsgesetzes genannten rd. 15 Milliarden DM hinausgehen, nicht zu verkraften.</p>
+          <p>2. Durch das Steuerentlastungsgesetz 1999 (Anhebung des Kindergeldes zum 1. Januar 1999) erhöht sich der Ausgleichsanspruch der Länder gegenüber dem Bund bei der Finanzierung des Familienleistungsausgleichs für 1999 auf rd. 4 Milliarden DM; weiterhin besteht eine Aus-</p>
+          <p>gleichsforderung für die Jahre 1996 bis 1998 in Höhe von 5,7 Milliarden DM. Der Bundesrat erwartet, daß der Deutsche Bundestag im weiteren Gesetzgebungsverfahren zum Steuerentlastungsgesetz eine Regelung beschließt, die der verfassungsrechtlich abgesicherten</p>
+          <p>Lastenverteilung beim Familienleistungsausgleich entspricht und eine Kompensation der Einnahmenausfälle bei Ländern und Gemeinden</p>
+          <p>sicherstellt.</p>
+          <p>Entschließung des Bundesrates zum Gesetz zur Stärkung der Solidarität in der gesetzlichen Krankenversicherung - GKV-Solidaritätsstärkungsgesetz - GKV-SolG</p>
+          <p>a) Der Bundesrat unterstützt nachdrücklich die zentralen Anliegen des vorliegenden Gesetzes, zu den Grundprinzipien einer solidarisch finanzierten, paritätischen sozialen Krankenversicherung zurückzukehren, die Finanzgrundlagen der gesetzlichen Krankenversicherung (GKV) kurzfristig zu stabilisieren und damit die Voraussetzungen für eine grundlegende Strukturreform in der GKV zum Jahr 2000 zu schaffen. Er begrüßt, daß damit - wie von ihm in der Vergangenheit wiederholt gefordert - der Weg der zunehmenden Aushöhlung der Funktionstüchtigkeit der GKV, wie er von der alten Bundesregierung in den letzten Jahren beschritten wurde, gestoppt wird.</p>
+          <p>b) Wesentliche Elemente des Gesetzes erfüllen vom Bundesrat seit längerem nachdrücklich vertretene Forderungen. Dies gilt insbesondere für</p>
+          <p>- die Aufhebung des Kopplungsautomatismus von Beitragserhöhungen mit weiteren Zuzahlungsanhebungen,</p>
+          <p>- die Beseitigung klassischer Elemente der privaten Versicherungswirtschaft (Selbstbehalte, Beitragsrückgewähr u. a.), die die solidarischen Finanzierungsgrundlagen der GKV, namentlich die Solidarität der Gesunden mit den Kranken, tendenziell aushöhlen,</p>
+          <p>- die Rückkehr zu qualitäts- und kostensteuernden Strukturen in der zahnmedizinischen Versorgung für alle Versicherten, unabhängig von ihrem Alter,</p>
+          <p>- den Einstieg in eine Rückführung der überhöhten Zuzahlungen vor allem für chronisch Kranke und ältere Versicherte.</p>
+          <p>c) Der Bundesrat weist darauf hin, daß die Finanzneutralität des Gesetzes für die gesetzliche Krankenversicherung im Jahr 1999 bewahrt bleiben muß. Aufgrund des erreichten Beitragssatzniveaus in der GKV und</p>
+          <p>seines unmittelbaren Einflusses auf das Ziel der mittelfristigen Rückführung der Lohnnebenkosten auf unter 40 % hat die Stabilität der Beitragssätze der GKV höchste Priorität</p>
+          <p>d) Der Bundesrat geht davon aus, daß im Rahmen der von der Bundes-</p>
+          <p>regierung zum 1. Januar 2000 angekündigten durchgreifenden Strukturreform in der GKV Gelegenheit bestehen wird, auf eventuelle Problemlagen, die mit dem Gesetz verbunden sein könnten, angemessen zu reagieren. Er teilt die Ziele der Strukturreform, für mehr Wettbewerb um Qualität, Wirtschaftlichkeit und effizientere Versorgungsstrukturen zu sorgen. Von der zu Beginn des Jahres 2000 in Kraft tretenden Strukturreform sind ausreichend Impulse zu erwarten, um die GKV dauerhaft leistungsfähig und bezahlbar zu erhalten. Der Bundesrat wird die Ausgestaltung der Strukturreform von Beginn an konstruktiv begleiten.</p>
+          <p>Druck: Bonner Universitäts-Buchdruckerei, 53113 Bonn</p>
+          <p>Vertrieb: Bundesanzeiger Verlagsgesellschaft mbH, Postfach 13 20, 53003 Bonn, Telefon: 02 28/3 82 08 40, Telefax: 02 28/3 82 08 44</p>
+          <p>ISSN 0720-7980</p>
         </sp>
       </div>
     </body>

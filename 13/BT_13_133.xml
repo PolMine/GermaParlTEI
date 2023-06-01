@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-06</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2005/1205/bic/plenarprotokolle/pp/1996/13133a.zip</url>
-        <date>2015-10-20 19:19:15</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -35,11 +35,11 @@
   </teiHeader>
   <text>
     <body>
-      <div type="agenda_item" n="1" what="1" desc="1">
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+      <div type="agenda_item" n="1" what="debate" desc="Beratung des Antrags der Fraktion der SPD">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Liebe Kolleginnen und Kollegen! Die Sitzung ist eröffnet.</p>
-          <p>Die heutige Sitzung habe ich gemäß Art. 39 Abs. 3 Satz 3 des Grundgesetzes in Verbindung mit   21 Abs. 2 der Geschäftsordnung auf Verlangen der Fraktion der SPD einberufen.</p>
+          <p>Die heutige Sitzung habe ich gemäß Art. 39 Abs. 3 Satz 3 des Grundgesetzes in Verbindung mit § 21 Abs. 2 der Geschäftsordnung auf Verlangen der Fraktion der SPD einberufen.</p>
           <p>Ich rufe den einzigen Tagesordnungspunkt unserer heutigen Sitzung auf:</p>
           <p>Beratung des Antrags der Fraktion der SPD</p>
           <p>Störung des gesamtwirtschaftlichen Gleichgewichts</p>
@@ -47,7 +47,7 @@
           <p>Nach einer interfraktionellen Vereinbarung sind für die Aussprache zwei Stunden vorgesehen. -- Dazu höre ich keinen Widerspruch. Dann ist es so beschlossen.</p>
           <p>Ich eröffne die Aussprache. Das Wort hat der Fraktionsvorsitzende der SPD, Herr Kollege Scharping.</p>
         </sp>
-        <sp who="Rudolf Scharping" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Scharping">
+        <sp who="Rudolf Scharping" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Scharping" party="SPD" name="Rudolf Scharping">
           <speaker>Rudolf Scharping (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Unser Land befindet sich in einer besonders schwierigen Situation.</p>
           <stage type="interjection">(Widerspruch bei der CDU/CSU und der F.D.P.)</stage>
@@ -129,11 +129,11 @@
           <p>Meine sehr verehrten Damen und Herren, diese Bundesregierung hat mit ihrer Tätigkeit, mit der Vorlage und der Abwicklung des Haushaltes 1996, mit der Vorlage des Haushaltes 1997, durch das ständige Hin und Her in ihrer eigenen Steuerpolitik und die massiven Ungerechtigkeiten im sozialen Bereich jeden Kredit verspielt. Wahrscheinlich ist das die Grundlage dafür, daß Sie immer mehr Kredite aufnehmen müssen, anstatt Vertrauen und Investitionen für die Zukunft unseres Landes anzusammeln.</p>
           <stage type="interjection">(Langanhaltender lebhafter Beifall bei der SPD -- Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Das Wort hat der Bundesminister der Finanzen, Dr. Theodor Waigel.</p>
         </sp>
-        <sp who="Dr. Theodor Waigel" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" party="CSU" name="Theodor Waigel">
+        <sp who="Theodor Waigel" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" who_original="Theodor Waigel" party="CSU" name="Theodor Waigel">
           <speaker>Dr. Theodor Waigel, Bundesminister der Finanzen (von der CDU/CSU und der F.D.P. mit Beifall begrüßt):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Herr Kollege Scharping, alles, was Sie heute hier gesagt haben, hätten Sie am nächsten Dienstag oder Mittwoch genauso sagen können, ohne daß Sie in dieser Zeit etwas verändert hätten, und Sie hätten dann nicht heute, am Weltspartag, dem Steuerzahler eine sechsstellige Zahl zumuten müssen, die er für eine überflüssige Sitzung entrichten muß.</p>
           <stage type="interjection">(Lebhafter Beifall bei der CDU/CSU und der F.D.P. -- Lachen und Zurufe von der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -219,7 +219,7 @@
           <stage type="interjection">(Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Ach, wer's glaubt!)</stage>
           <p>Die Steuerschätzung am 7. und 8. November wird -- ohne daß ich ihr vorgreifen wollte -- für 1996 zusätzliche Mindereinnahmen für Bund und Länder ergeben. Wir müssen und werden darauf rechtzeitig für den Haushalt reagieren. Eines muß klar sein: Als Eckdatum steht, daß die Neuverschuldung 1997 nicht über die 56,5 Milliarden DM hinausgeht, die wir gemeinsam vereinbart haben.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU -- Dr. Peter Struck [SPD]: Das möchte ich erleben, ob Sie das einhalten!)</stage>
-          <p>Die Privatisierungserlöse werden in diesem Jahr das veranschlagte Soll von 9 Milliarden DM nicht erreichen. Nur: Den Vorwurf mangelnder Etatreife lasse ich nicht gelten. Das Bundeskabinett hat am 28. November 1995 den Bericht des Bundesfinanzministers "Verringerung von Beteiligungen des Bundes, Fortschreibung 1995" beraten und den darin vorgeschlagenen Maßnahmen zugestimmt. Das gilt für Lufthansa, für Tank  Rast und auch für die Postbank.</p>
+          <p>Die Privatisierungserlöse werden in diesem Jahr das veranschlagte Soll von 9 Milliarden DM nicht erreichen. Nur: Den Vorwurf mangelnder Etatreife lasse ich nicht gelten. Das Bundeskabinett hat am 28. November 1995 den Bericht des Bundesfinanzministers "Verringerung von Beteiligungen des Bundes, Fortschreibung 1995" beraten und den darin vorgeschlagenen Maßnahmen zugestimmt. Das gilt für Lufthansa, für Tank Rast und auch für die Postbank.</p>
           <p>Eines ist klar, meine Damen und Herren: Aus heutiger Sicht wird keine der für 1996 geplanten Privatisierungen scheitern. Lediglich der Abschluß wird sich in einigen Fällen um wenige Monate verzögern. Für die Bruttokreditaufnahme und für die Kapitalsituation in Deutschland ist dies unerheblich.</p>
           <stage type="interjection">(Dr. Peter Struck [SPD]: Und für den Haushalt?)</stage>
           <p>Nun noch einmal zu Art. 115 des Grundgesetzes: Das Soll der Nettokreditaufnahme lag mit knapp 60 Milliarden DM unter der Summe der Investitionen von rund 66 Milliarden DM. Bei der Haushaltsaufstellung war die Kreditobergrenze des Art. 115 des Grundgesetzes damit eingehalten. Nach überwiegender Auffassung der Haushaltsrechtsexperten -- das wissen Sie ganz genau, Herr Scharping -- bezieht sich die Kreditobergrenze des Art. 115 des Grundgesetzes auf die Haushaltsaufstellung, nicht auf den Haushaltsvollzug.</p>
@@ -230,9 +230,9 @@
           <stage type="interjection">(Widerspruch bei der SPD)</stage>
           <p>Wir haben mit dem Rechnungsprüfungsausschuß und dem Bundesrechnungshof ein Verfahren vereinbart. Die Bundesregierung nimmt bei der Rechnungslegung zu einer Überschreitung der Kreditobergrenze im Haushaltsvollzug Stellung. Wenn im Rahmen des Haushaltsvollzugs wegen einer wesentlich veränderten wirtschaftlichen Lage die Nettokreditaufnahme die Summe der Investitionen übersteigt, so kann dies gemäß Art. 112 des Grundgesetzes sehr wohl zulässig sein. Danach ist es dem Bundesfinanzminister erlaubt, bei unvorhergesehenem und unabweisbarem Bedarf über- bzw. außerplanmäßige Ausgaben zu leisten.</p>
           <stage type="interjection">(Anke Fuchs [Köln] [SPD]: Das war aber vorhersehbar!)</stage>
-          <p>Bei den Leistungen für den Arbeitsmarkt handelt es sich um die Erfüllung von Rechtsverpflichtungen. Für solche überplanmäßigen Leistungen bedarf es gemäß   37 der Bundeshaushaltsordnung keines Nachtragshaushalts. Sie müssen mir die Frage beantworten: War es nicht richtig, daß ich das überplanmäßig genehmigt habe? Hätten Sie die Ausgaben nicht vollziehen wollen, zu denen wir beim Arbeitslosengeld und bei der Arbeitslosenhilfe verpflichtet sind?</p>
+          <p>Bei den Leistungen für den Arbeitsmarkt handelt es sich um die Erfüllung von Rechtsverpflichtungen. Für solche überplanmäßigen Leistungen bedarf es gemäß § 37 der Bundeshaushaltsordnung keines Nachtragshaushalts. Sie müssen mir die Frage beantworten: War es nicht richtig, daß ich das überplanmäßig genehmigt habe? Hätten Sie die Ausgaben nicht vollziehen wollen, zu denen wir beim Arbeitslosengeld und bei der Arbeitslosenhilfe verpflichtet sind?</p>
           <stage type="interjection">(Ingrid Matthäus-Maier [SPD]: Das war aber vorhersehbar! -- Karl Diller [SPD]: So ein Unfug! Es ist unglaublich!)</stage>
-          <p>Art. 110 Abs. 4 des Grundgesetzes und   18 der Bundeshaushaltsordnung lassen es zu, nicht verbrauchte Kreditermächtigungen des Vorjahres zur Deckung von Ausgaben des laufenden Jahres heranzuziehen. Auch dies ist allgemein üblich. Die Haushaltsordnungen der Länder haben entsprechende Regelungen.</p>
+          <p>Art. 110 Abs. 4 des Grundgesetzes und § 18 der Bundeshaushaltsordnung lassen es zu, nicht verbrauchte Kreditermächtigungen des Vorjahres zur Deckung von Ausgaben des laufenden Jahres heranzuziehen. Auch dies ist allgemein üblich. Die Haushaltsordnungen der Länder haben entsprechende Regelungen.</p>
           <p>Meine Damen und Herren, die parlamentarischen Beratungen zum Haushalt 1997 stehen im Zeichen verbesserter Wachstumserwartungen für das Jahr 1997. Die Wachstumsannahmen von real 2,3 vom Hundert vom Frühjahr, von denen wir bisher ausgegangen sind, haben sich als realistisch erwiesen. Die gestern vorgelegten Prognosen der Institute untermauern unsere Einschätzung vom Frühjahr und gehen von 2,5 Prozent realem Wachstum aus.</p>
           <p>Diese Dynamik reicht leider nicht aus, um die Arbeitsmarkt- und Steuereinnahmeprobleme zu lösen. Ich habe schon im September in der Haushaltsdebatte auf Risiken für den Haushalt 1997 hingewiesen. Wir müssen uns auf weitere Steuermindereinnahmen für 1997 einstellen.</p>
           <stage type="interjection">(Hans Büttner [Ingolstadt] [SPD]: Das ist alles vorhersehbar!)</stage>
@@ -247,11 +247,11 @@
           <p>Meine Damen und Herren, lassen Sie uns diese überflüssige Debatte beenden! Lassen Sie uns endlich zur vernünftigen Arbeit zurückkehren! Tragen Sie Ihren Teil zur Sanierung, zur Beschäftigung und für mehr Investitionen in Deutschland bei! Sie haben sich bisher Ihrer Aufgabe in den Ländern und im Bundestag verweigert. Sie sind die Blockade für die Zukunft Deutschlands.</p>
           <stage type="interjection">(Anhaltender Beifall bei der CDU/CSU und der F.D.P. -- Widerspruch bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Das Wort hat der Fraktionsvorsitzende der Fraktion Bündnis 90/Die Grünen, Joseph Fischer.</p>
         </sp>
-        <sp who="Joseph Fischer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Joschka Fischer">
+        <sp who="Joseph Fischer (Frankfurt)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Joseph Fischer (Frankfurt)" party="GRUENE" name="Joseph Fischer">
           <speaker>Joseph Fischer (Frankfurt) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Herr Bundesfinanzminister,</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Direkt aus dem Urlaub, wie?)</stage>
@@ -324,12 +324,12 @@
           <p>Wir brauchen eine ökologische und soziale Erneuerung, mehr Innovation in diesem Land. Wir müssen die Menschen endlich mit der Wahrheit konfrontieren und mit einer Politik Schluß machen, die auf steuerpolitischen Lügen aufgebaut ist.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der PDS)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Das Wort nimmt jetzt der Kollege Dr. Wolfgang Gerhardt.</p>
           <stage type="interjection">(Gerd Andres [SPD]: Der Vorsitzende der Steuererhöhungspartei!)</stage>
         </sp>
-        <sp who="Dr. Wolfgang Gerhardt" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Wolfgang Gerhardt">
+        <sp who="Wolfgang Gerhardt" parliamentary_group="FDP" role="mp" position="NA" who_original="Wolfgang Gerhardt" party="FDP" name="Wolfgang Gerhardt">
           <speaker>Dr. Wolfgang Gerhardt (F.D.P.):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Herr Fischer hat recht: Im Kern geht es um die Kursbestimmung der Politik in Deutschland, und nicht nur um eine Haushaltsfrage.</p>
           <stage type="interjection">(Dr. Peter Struck [SPD]: Nein, es geht um das Überleben einer Splitterpartei!)</stage>
@@ -353,7 +353,7 @@
           <p>Sie sind zu Kurskorrekturen nicht in der Lage, weil Sie Ihre vielseitigen Bindungen -- sei es im gewerkschaftlichen Milieu, sei es zu Interessengruppen -- daran hindern, mutige Entscheidungen zu treffen.</p>
           <stage type="interjection">(Beifall bei der F.D.P.)</stage>
           <p>Die Koalition muß die notwendigen Entscheidungen treffen, weil sie die Verantwortung hat. Sie reibt sich, und es gibt auch Diskussionen. Aber sie ist als einzige Gruppierung in Deutschland dazu in der Lage. Wir wollen diesen Weg fortzusetzen.</p>
-          <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU --  Zuruf des Abg. Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN])</stage>
+          <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU -- Zuruf des Abg. Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN])</stage>
           <p>-- Wir haben durchaus einen Rückschlag erlitten, Herr Kollege Fischer; das gestehe ich Ihnen zu. Aber nicht diejenigen beschädigen die Zukunft der Bundesrepublik Deutschland, die eine Steuersenkung verschieben, sondern die, die zu Entscheidungen zur Steuersenkung gar nicht fähig sind und Ausgabenprogramme beschließen, die sie kreditfinanzieren, ohne auf die Seriosität der Haushalte zu achten. Die sitzen aber nicht im Regierungslager.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU -- Josef Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Wer war das denn? -- Anke Fuchs [Köln] [SPD]: Wen meinen Sie damit?)</stage>
           <p>Wir haben Diskussionen über die Notwendigkeit von Reformen bei den sozialen Sicherungssystemen geführt. Sie wissen genausogut wie ich: Wenn wir die sozialen Systeme heute nicht reformieren, werden wir morgen Arbeitsplätze in Deutschland vernichten, statt neue zu schaffen. Sie sind hinsichtlich der sozialen Sicherungssysteme zu keinem Reformvorschlag in der Lage. Sie bestätigen altes Besitzstandswahrungsdenken, ohne daß Sie jährliche Wachstumsraten zur Verfügung haben, wie wir sie früher hatten. Sie sind nicht zu Reformschritten in der Lage und halten an alten Besitzständen fest, über die wir hinweg müssen, wenn dieses Land Zukunft haben will.</p>
@@ -392,11 +392,11 @@
           <p>Deshalb sage ich zum Abschluß: Im Gegensatz zu Ihnen vertreten wir eine Politik, die die Fähigkeit zu Reformen, auch die Fähigkeit zu Kurskorrekturen und damit ein Stück notwendige Neuorientierung der Politik in Deutschland beinhaltet. Sie befindet sich jetzt in einer schwierigen Situation, aber wir müssen es durchstehen, wenn wir der Bundesrepublik Deutschland eine stabile Zukunft geben wollen.</p>
           <stage type="interjection">(Anhaltender Beifall bei der F.D.P. -- Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Das Wort hat jetzt Dr. Gregor Gysi.</p>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Gregor Gysi">
+        <sp who="Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" who_original="Gregor Gysi" party="PDS" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (PDS):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Herr Gerhardt, Sie haben soeben verkündet, daß Ihre Fraktion, daß die Koalition für die Reform und den Umbau des Sozialstaates steht. Warum nennen Sie es denn eigentlich nicht beim Namen: Sie stehen für Sozialabbau, nicht für Umbau, sondern für klaren Abbau.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
@@ -449,13 +449,13 @@
           <p>Dann haben wir, glaube ich, eine Alternative, die in dieser Bevölkerung mehrheitsfähig ist. Dann kann mit einer anderen Politik, der Politik des ökologischen Umbaus, der Politik der Gleichstellung, der Politik einer anderen Behandlung von Flüchtlingen und vor allem der Politik der sozialen Gerechtigkeit und der Steuergerechtigkeit in dieser Gesellschaft, begonnen werden.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Das Wort hat der Ministerpräsident des Saarlandes, Oskar Lafontaine.</p>
         </sp>
-        <sp who="Oskar Lafontaine" parliamentary_group="NA" role="federal_council" position="Ministerpräsident" party=" SPD" name=" Oskar Lafontaine">
+        <sp who="Oskar Lafontaine" parliamentary_group="NA" role="federal_council" position="Ministerpräsident Saarland" who_original="Oskar Lafontaine" party="SPD" name="Oskar Lafontaine">
           <speaker>Ministerpräsident Oskar Lafontaine (Saarland) (von der SPD mit Beifall begrüßt):</speaker>
-          <p> Frau Präsidentin! Meine sehr geehrten Damen und Herren! Die Debatte am heutigen Tag findet zu einem Zeitpunkt statt, wo die Wirtschaftsinstitute festgestellt haben, daß sie damit rechnen, daß auch im nächsten Jahr die Arbeitslosigkeit nicht sinken, sondern noch leicht ansteigen wird. Dies zeigt den Ernst der Situation. Ich meine, es wäre gut, wenn die Bekämpfung der Arbeitslosigkeit wieder in den Mittelpunkt der deutschen Politik gerückt würde.</p>
+          <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Die Debatte am heutigen Tag findet zu einem Zeitpunkt statt, wo die Wirtschaftsinstitute festgestellt haben, daß sie damit rechnen, daß auch im nächsten Jahr die Arbeitslosigkeit nicht sinken, sondern noch leicht ansteigen wird. Dies zeigt den Ernst der Situation. Ich meine, es wäre gut, wenn die Bekämpfung der Arbeitslosigkeit wieder in den Mittelpunkt der deutschen Politik gerückt würde.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der PDS)</stage>
           <p>Der Bundeskanzler hat auf dem CDU-Parteitag -- das ist kaum bemerkt worden -- das Ziel relativiert, die Arbeitslosigkeit bis zum Jahr 2000 zu halbieren. Es wirft doch die Frage auf, ob Sie selbst nicht mehr an den Erfolg Ihrer eigenen Politik glauben, wenn Sie, kaum daß ein Ziel ausgesprochen ist, es schon wieder zurücknehmen.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -522,11 +522,11 @@
           <p>Deshalb ist es richtig, wenn beispielsweise die Wochenzeitung "Die Zeit" schreibt: "Die Regierung Kohl ist in ihrem jetzigen Zustand überfordert, die Probleme in Deutschland zu lösen." Das ist ein ausgewogenes, ein sachliches Urteil. Die Ursache dafür ist Ihre tiefe Zerstrittenheit, die Sie handlungsunfähig gemacht hat. Die Leidtragenden sind die Arbeitslosen in diesem Lande. Dieser Zustand darf nicht länger andauern.</p>
           <stage type="interjection">(Lebhafter Beifall bei der SPD -- Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Es spricht jetzt der Vorsitzende der CDU/CSU-Fraktion, Dr. Wolfgang Schäuble.</p>
         </sp>
-        <sp who="Dr. Wolfgang Schäuble" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Schäuble">
+        <sp who="Wolfgang Schäuble" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Schäuble" party="CDU" name="Wolfgang Schäuble">
           <speaker>Dr. Wolfgang Schäuble (CDU/CSU) (von der CDU/CSU mit Beifall begrüßt):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Herr Ministerpräsident Lafontaine, wenn die Bürger etwas leid sind, dann, fürchte ich, ist es diese Art von Reden und Debatten, wie Sie sie heute geführt haben.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P.)</stage>
@@ -543,20 +543,20 @@
           <p>Das finde ich völlig unerträglich. Ich finde es völlig unerträglich, hier Sondersitzungen -- Schauveranstaltungen -- durchzuführen und dort, wo die Arbeit gemacht werden muß, damit die Finanzen in Ordnung kommen, die Beschlußunfähigkeit herbeizuführen. Das paßt nicht zusammen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Wenn nichts mehr hilft, hilft ein Hilfsargument!)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Dr. Schäuble, gestatten Sie eine Zwischenfrage des Kollegen Struck?</p>
         </sp>
-        <sp who="Dr. Wolfgang Schäuble" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Schäuble">
+        <sp who="Wolfgang Schäuble" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Schäuble" party="CDU" name="Wolfgang Schäuble">
           <speaker>Dr. Wolfgang Schäuble (CDU/CSU):</speaker>
           <p>Bitte sehr.</p>
         </sp>
-        <sp who="Dr. Peter Struck" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Peter Struck">
+        <sp who="Peter Struck" parliamentary_group="SPD" role="mp" position="NA" who_original="Peter Struck" party="SPD" name="Peter Struck">
           <speaker>Dr. Peter Struck (SPD):</speaker>
           <p>Herr Kollege Schäuble, sind Sie bereit, zur Kenntnis zu nehmen, daß die Absage dieser Sitzung des Vermittlungsausschusses, die Sie zutreffend beschrieben haben, unter anderem darauf zurückzuführen ist, daß von CDU und CSU regierte Länder keine Möglichkeit sahen, an dieser Sitzung teilzunehmen?</p>
           <stage type="interjection">(Zurufe von der SPD: Hört! Hört! -- Weitere Zurufe von der SPD)</stage>
         </sp>
-        <sp who="Dr. Wolfgang Schäuble" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Schäuble">
+        <sp who="Wolfgang Schäuble" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Schäuble" party="CDU" name="Wolfgang Schäuble">
           <speaker>Dr. Wolfgang Schäuble (CDU/CSU):</speaker>
           <p>Entschuldigung, sobald Sie ruhig sind, antworte ich Ihnen. Erstens können Sie von der Bundesratsbank überhaupt keine Zwischenrufe machen, und zweitens: Lassen Sie mich doch antworten!</p>
           <p>Ich habe mich genau vergewissert, Herr Kollege Struck, weil ich das ja auch wissen will. Die mir erteilte Auskunft ist, daß bei allen vier Pairingvereinbarungen zwischen den Ländern -- sie pairen untereinander -- jeweils das SPD-regierte Land die Initiative ergriffen hat und auf ein unionsregiertes Land zugegangen ist. Das ist die Wahrheit.</p>
@@ -620,11 +620,11 @@
           <p>Wenn Sie jeden Einsparvorschlag für die öffentlichen Haushalte wie für die soziale Sicherung -- Krankenversicherung, Rentenversicherung, Arbeitslosenversicherung, Sozialhilfe -- so diffamieren, bekämpfen und blockieren, wie Sie es in diesem Jahr getan haben, dann kommen wir nicht in dem Maße voran, das notwendig wäre, wenn wir mehr Arbeitsplätze und weniger Arbeitslosigkeit erreichen wollen. Deswegen appelliere ich an Sie, damit aufzuhören, vielmehr endlich daran mitzuwirken und Ihre Verantwortung ernst zu nehmen.</p>
           <stage type="interjection">(Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Macht doch eine Koalition mit denen! -- Dr. Wolfgang Gerhardt [F.D.P.]: Man darf auch sonst mitarbeiten! -- Hannelore Rönsch [Wiesbaden] [CDU/CSU]: Diese Opposition hört noch nicht einmal zu!)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Dr. Schäuble, darf ich in der Zwischenzeit fragen, ob Sie eine Frage der Kollegin Sonntag-Wolgast genehmigen?</p>
         </sp>
-        <sp who="Dr. Wolfgang Schäuble" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Schäuble">
+        <sp who="Wolfgang Schäuble" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Schäuble" party="CDU" name="Wolfgang Schäuble">
           <speaker>Dr. Wolfgang Schäuble (CDU/CSU):</speaker>
           <p>Frau Präsidentin, wenn die Opposition ein bißchen ruhiger wäre, würde ich Zwischenfragen zulassen. Im Augenblick möchte ich erst einmal ungestört reden.</p>
           <stage type="interjection">(Lachen bei der SPD)</stage>
@@ -704,11 +704,11 @@
           <p>Deswegen stelle ich fest: Wir, die CDU/CSU, werden uns in der Koalition mit der F.D.P. nicht davon abhalten lassen, den mühsamen, aber notwendigen Weg zu gehen, erforderliche Reformen und Innovationen durchzusetzen, damit der Wohlstand, der in 50 Jahren in diesem Land erarbeitet worden ist, auch in den nächsten 50 Jahren sicher ist und das höhere Maß an sozialer Sicherheit, das wir in Deutschland im Vergleich zu den allermeisten anderen Ländern haben, auch in der Zukunft erhalten werden kann. Das aber geht nicht durch Blockieren, sondern nur durch Erneuerung. Die Union ist dazu bereit.</p>
           <stage type="interjection">(Langanhaltender lebhafter Beifall bei der CDU/CSU -- Beifall bei der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Als letzte Rednerin in dieser Debatte erhält Dr. Christa Luft das Wort.</p>
         </sp>
-        <sp who="Dr. Christa Luft" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Christa Luft">
+        <sp who="Christa Luft" parliamentary_group="PDS" role="mp" position="NA" who_original="Christa Luft" party="PDS" name="Christa Luft">
           <speaker>Dr. Christa Luft (PDS):</speaker>
           <p>Frau Präsidentin! Verehrte Kolleginnen und Kollegen! Verehrter Kollege Dr. Schäuble, auch Sie haben sich leider eben nur bei taktischen Manövern aufgehalten. Sie haben so getan, als sei das Finanzchaos der Bundesrepublik vom Himmel gefallen bzw. hänge nur mit der Blockadehaltung der Opposition zusammen.</p>
           <p>Ich sage Ihnen: Immer mehr Menschen in diesem Lande begreifen doch, daß es in diesem Lande an Reformen mangelt, und Sie zu der Zeit, als Reformen in die Wege geleitet werden mußten, sie für imageschädigend gehalten und daher verschleppt haben.</p>
@@ -722,17 +722,17 @@
           <p>Bei der Reform der Arbeitsförderung und bei der Reform der Rentenversicherung -- weiß Gott, wesentliche Reformvorhaben -- beschränken Sie sich auf die Kürzung von ABM und der Arbeitslosenhilfe, auf Erhöhung des Renteneintrittsalters und ähnliche Dinge. Aber an die Errichtung eines öffentlich geförderten Beschäftigungssektors, eine Herausforderung der Gegenwart und noch mehr der Zukunft, haben Sie keinen Gedanken verschwendet.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Frau Luft, Ihre Redezeit ist zu Ende.</p>
         </sp>
-        <sp who="Dr. Christa Luft" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Christa Luft">
+        <sp who="Christa Luft" parliamentary_group="PDS" role="mp" position="NA" who_original="Christa Luft" party="PDS" name="Christa Luft">
           <speaker>Dr. Christa Luft (PDS):</speaker>
           <p>An eine bedarfsorientierte soziale Grundsicherung gehen Sie nicht heran und auch nicht daran, die Vergabe öffentlicher Fördermittel an Beschäftigungsimpulse zu binden. Dies sind Forderungen, die einer Reform gerecht werden könnten. Dies alles wäre notwendig, damit sich die Regierung endlich dem Gemeinwohl zuwendet und nicht weiterhin Klientelpolitik betreibt und Gruppeninteressen bedient.</p>
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über den Antrag der Fraktion der SPD "Störung des gesamtwirtschaftlichen Gleichgewichts" auf Drucksache 13/5902. Ich bitte diejenigen, die dem Antrag zuzustimmen wünschen, um das Handzeichen. -- Gegenprobe! -- Enthaltungen? -- Damit ist der Antrag mit den Stimmen der CDU/CSU und der F.D.P. abgelehnt.</p>
@@ -740,6 +740,7 @@
           <p>Wir sind damit am Schluß unserer Tagesordnung.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 6. November 1996, 13 Uhr ein.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluß der Sitzung: 16.14 Uhr)</stage>
         </sp>
       </div>
     </body>

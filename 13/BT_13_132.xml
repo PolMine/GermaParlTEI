@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-06</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2005/1205/bic/plenarprotokolle/pp/1996/13132a.zip</url>
-        <date>2015-10-20 19:19:15</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -36,7 +36,7 @@
   <text>
     <body>
       <div type="agenda_item" n="1" what="recent_issues" desc="Aktuelle Stunde">
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Die Sitzung ist eröffnet. Guten Morgen, verehrte Kolleginnen und Kollegen!</p>
           <p>Ich rufe zunächst den Zusatzpunkt 4 auf:</p>
@@ -45,7 +45,7 @@
           <p>Haltung der Bundesregierung zur Zukunft der SKET Schwermaschinenbau GmbH Magdeburg als einem der letzten industriellen Großunternehmen in den neuen Ländern</p>
           <p>Ich eröffne die Aussprache. Das Wort hat der Kollege Wolfgang Bierstedt, PDS.</p>
         </sp>
-        <sp who="Wolfgang Bierstedt" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Wolfgang Bierstedt">
+        <sp who="Wolfgang Bierstedt" parliamentary_group="PDS" role="mp" position="NA" who_original="Wolfgang Bierstedt" party="PDS" name="Wolfgang Bierstedt">
           <speaker>Wolfgang Bierstedt (PDS):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine Damen und Herren! Der "Spiegel" überschrieb einen Artikel bereits am 7. Oktober 1996 wie folgt:</p>
           <p>Das größte selbständige Ostunternehmen steht vor dem Aus, vom einstigen Schwermaschinenbaukombinat Sket werden nur noch minimale Reste bleiben. Und das ist vor allem die Schuld des Eigentümers -- des Staats.</p>
@@ -66,11 +66,11 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Hartmut Büttner, CDU/CSU.</p>
         </sp>
-        <sp who="Hartmut Büttner" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hartmut Büttner">
+        <sp who="Hartmut Büttner (Schönebeck)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hartmut Büttner (Schönebeck)" party="CDU" name="Hartmut Büttner">
           <speaker>Hartmut Büttner (Schönebeck) (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Mein Wahlkreis ist von großen Gegensätzen gekennzeichnet: Wir haben bei uns in der Magdeburger Börde die beste Bodenqualität Deutschlands. Die noch vorhandenen Industrieunternehmen stehen aber in einem heftigen Existenzkampf. Aktuellstes Negativbeispiel ist der traditionsreiche Magdeburger Schwermaschinenbauer SKET.</p>
           <p>Der Weg von SKET ist besonders bitter, vor allem deshalb, weil trotz stets neuer Tiefpunkte in der Beschäftigtenzahl immer wieder neue Zukunftshoffnung aufkeimte. So schmolz die Belegschaft allein in Magdeburg von 13 000 Mitarbeitern auf zuletzt 1 435 Beschäftigte zusammen. Vorletzter trauriger Höhepunkt war die gescheiterte Privatisierung.</p>
@@ -102,11 +102,11 @@
           <p>Gerade jetzt brauchen wir zur Rettung des letzten Restes von SKET das Zusammenspiel aller verantwortlichen Stellen. Nur wenn Bund, Land, BvS, Geschäftsleitung und Belegschaft gemeinsam am Überleben des SKET arbeiten, haben wir noch eine Chance. Der Bund läßt SKET nicht im Stich. Das Land sollte endlich diesem Beispiel folgen!</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Uwe Küster, SPD.</p>
         </sp>
-        <sp who="Dr. Uwe Küster" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Uwe Küster">
+        <sp who="Uwe Küster" parliamentary_group="SPD" role="mp" position="NA" who_original="Uwe Küster" party="SPD" name="Uwe Küster">
           <speaker>Dr. Uwe Küster (SPD):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Herr Kollege Büttner, es wundert mich schon sehr, wenn Sie den Verantwortlichen, den Bundeskanzler, unseren "Landesvater", an dieser Stelle ganz rauslassen. Über die Verantwortung der Bundesregierung habe ich von Ihnen kein Wort gehört!</p>
           <stage type="interjection">(Beifall bei der SPD und der PDS)</stage>
@@ -134,11 +134,11 @@
           <p>Die Sanierung von Unternehmen dieser Größenordnung braucht -- und hier gerade angesichts des hohen Symbolwerts für den Aufbau Ostdeutschlands -- Zeit, Geld und starken Willen. Daß dies vorhanden ist, muß heute als Signal von hier ausgehen.</p>
           <stage type="interjection">(Beifall bei der SPD und der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat die Kollegin Steffi Lemke, Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Steffi Lemke" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Steffi Lemke">
+        <sp who="Steffi Lemke" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Steffi Lemke" party="GRUENE" name="Steffi Lemke">
           <speaker>Steffi Lemke (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrter Herr Präsident! Werte Kollegen und Kolleginnen! Im Land der ersten Spatenstiche macht wieder einmal ein Unternehmen Schlagzeilen, wohlgemerkt: negative Schlagzeilen. Es wird von "Filetierung" eines Unternehmens gesprochen; aber das wurde hier schon ausgeführt.</p>
           <p>Mit der derzeitigen SKET-Krise wird der Pleiten-Pech-und-Pannen-Politik der Treuhand und ihrer Nachfolgeeinrichtungen ein neues Kapitel hinzugfügt, ein trauriges Kapitel. Die BvS hat gemeinsam mit der Bundesregierung eine unrühmliche Rolle gespielt. Die Gesamtvollstreckung diese Woche ist dabei nur das -- ich hoffe, letzte -- Tüpfelchen auf dem i.</p>
@@ -157,11 +157,11 @@
           <p>In der Diskussion der letzten Wochen ist klargeworden, daß der Sanierungszeitraum für SKET von Anfang an viel zu kurz bemessen gewesen ist. Ein längerer Zeitraum muß eingeräumt werden. Dies haben sowohl Politiker als auch Wirtschaftswissenschaftler in den letzten Tagen betont. Ich erwarte von Herrn Rexrodt dazu konkretere Aussagen, auch was die finanzielle Unterstützung der Bundesregierung anbetrifft. Geben Sie hier heute ein eindeutiges Signal an die Belegschaft von SKET und an das Land Sachsen-Anhalt und sagen Sie, wie Sie sich die Zukunft von SKET vorstellen!</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Paul Friedhoff, F.D.P.</p>
         </sp>
-        <sp who="Paul K. Friedhoff" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Paul Friedhoff">
+        <sp who="Paul K. Friedhoff" parliamentary_group="FDP" role="mp" position="NA" who_original="Paul K. Friedhoff" party="FDP" name="Paul K. Friedhoff">
           <speaker>Paul K. Friedhoff (F.D.P.):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Liebe Kolleginnen und Kollegen, wer der Bundesregierung vorwirft, sie sei ihrer Verantwortung bei der Sicherung des industriellen Kerns SKET nicht nachgekommen, bei dem muß die Wahrnehmungsfähigkeit ein bißchen getrübt sein.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
@@ -189,36 +189,36 @@
           <stage type="interjection">(Beifall des Abg. Andreas Schmidt [Mülheim] [CDU/CSU])</stage>
           <p>Wie geht es nun weiter?</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Es tut mir sehr leid, Herr Kollege, Sie müssen auf die Zeit achten.</p>
         </sp>
-        <sp who="Paul K. Friedhoff" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Paul Friedhoff">
+        <sp who="Paul K. Friedhoff" parliamentary_group="FDP" role="mp" position="NA" who_original="Paul K. Friedhoff" party="FDP" name="Paul K. Friedhoff">
           <speaker>Paul K. Friedhoff (F.D.P.):</speaker>
           <p>SKET hat bei richtiger Dimensionierung der Mitarbeiterzahl eine Chance. 122 Millionen DM Umsatz rechtfertigen nicht über 1 000, sondern nur knapp 600 Mitarbeiter. Das bedeutet, daß das Konzept, das jetzt erarbeitet werden muß, dann umgesetzt werden kann. Die F.D.P. wird sich dafür einsetzen, daß dieses Konzept auch wei-ter -- NA</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege, bitte!</p>
         </sp>
-        <sp who="Paul K. Friedhoff" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Paul Friedhoff">
+        <sp who="Paul K. Friedhoff" parliamentary_group="FDP" role="mp" position="NA" who_original="Paul K. Friedhoff" party="FDP" name="Paul K. Friedhoff">
           <speaker>Paul K. Friedhoff (F.D.P.):</speaker>
           <p>-- mit Steuergeldern begleitet wird.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege Friedhoff, bitte. Ich kann Sie nicht dreimal aufrufen. Ihre Redezeit ist abgelaufen.</p>
         </sp>
-        <sp who="Paul K. Friedhoff" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Paul Friedhoff">
+        <sp who="Paul K. Friedhoff" parliamentary_group="FDP" role="mp" position="NA" who_original="Paul K. Friedhoff" party="FDP" name="Paul K. Friedhoff">
           <speaker>Paul K. Friedhoff (F.D.P.):</speaker>
           <p>Ich bedanke mich.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU -- Zuruf von der PDS: Das war ja furchtbar!)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Herr Bundesminister Dr. Rexrodt.</p>
         </sp>
-        <sp who="Dr. Günter Rexrodt" parliamentary_group="NA" role="government" position="Bundesminister für Wirtschaft" party="FDP" name="Günter Rexrodt">
+        <sp who="Günter Rexrodt" parliamentary_group="NA" role="government" position="Bundesminister für Wirtschaft" who_original="Günter Rexrodt" party="FDP" name="Günter Rexrodt">
           <speaker>Dr. Günter Rexrodt, Bundesminister für Wirtschaft:</speaker>
           <p>Herr Präsident! Meine Damen und Herren! 18 000 Beschäftigte bei SKET zur Zeit der Wende, 1 800 Beschäftigte heute und möglicherweise bald noch weniger -- jeder weiß, das ist ein dramatischer Niedergang. Wir sind uns auch als Bundesregierung sehr wohl bewußt, was das für die Arbeitnehmer in dieser Region und darüber hinaus bedeutet: tiefe Umbrüche in der Lebenssituation und hohe persönliche Anpassungsleistungen im Negativen. Das ist die Tatsache.</p>
           <stage type="interjection">(Wolfgang Bierstedt [PDS]: Amen!)</stage>
@@ -255,11 +255,11 @@
           <p>Schönen Dank.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Wolfgang Thierse, SPD.</p>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="SPD" role="mp" position="NA" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Wolfgang Thierse (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Wenn man Sie so hört, Herr Rexrodt, hat man den Eindruck, niemand ist schuld, niemand trägt die Verantwortung,</p>
           <stage type="interjection">(Clemens Schwalbe [CDU/CSU]: Doch, die Landesregierung!)</stage>
@@ -288,11 +288,11 @@
           <p>Der Bund trägt also die Hauptverantwortung für die Zukunft dieses Unternehmens. Mit dem Bund müssen natürlich das Land, die Europäische Union und die Belegschaft zusammenwirken, damit das Unternehmen eine weitere Zukunft hat.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Gunnar Uldall, CDU/CSU.</p>
         </sp>
-        <sp who="Gunnar Uldall" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Gunnar Uldall">
+        <sp who="Gunnar Uldall" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Gunnar Uldall" party="CDU" name="Gunnar Uldall">
           <speaker>Gunnar Uldall (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen! Meine Herren! Der Staat kann nicht Produkte eines Unternehmens verkaufen; er kann einem Unternehmen auch nicht Aufträge und Kunden beschaffen. Das sind Aufgaben, die sich der Unternehmensführung stellen. Der Staat kann nur eines tun: Er kann mit Zuschüssen flankierend zur Seite stehen. Diese Zuschüsse sind gerade im Fall von SKET überreichlich geflossen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
@@ -314,11 +314,11 @@
           <p>wenn gerade diejenigen, die diese falsche wirtschaftliche Entwicklung zu verantworten haben, heute mit Tränen in den Augen eine Aktuelle Stunde beantragen und Furore machen wollen. Die wahren Schuldigen sitzen auf der Seite der PDS.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Zurufe von der PDS: Oh!)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Ernst Schwanhold, SPD.</p>
         </sp>
-        <sp who="Ernst Schwanhold" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ernst Schwanhold">
+        <sp who="Ernst Schwanhold" parliamentary_group="SPD" role="mp" position="NA" who_original="Ernst Schwanhold" party="SPD" name="Ernst Schwanhold">
           <speaker>Ernst Schwanhold (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Meine erste Bemerkung. Herr Kollege Uldall, es ist richtig, daß nicht der Staat die Unternehmenskonzepte zu schreiben hat. Ebenso richtig ist aber, daß der Staat verunsichert, wenn er ein Unternehmenskonzept nicht befördert und dieses nicht langfristig absichert.</p>
           <stage type="interjection">(Clemens Schwalbe [CDU/CSU]: Siehe Landesregierung!)</stage>
@@ -346,11 +346,11 @@
           <p>Und Sie stellen sich hierher und sagen, die Mitarbeiterinnen und Mitarbeiter seien selbst schuld daran und hätten sich nicht darum gekümmert. Das ist kein würdiger Umgang mit den Sorgen und Nöten der Menschen.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Ulrich Petzold, CDU/CSU.</p>
         </sp>
-        <sp who="Ulrich Petzold" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ulrich Petzold">
+        <sp who="Ulrich Petzold" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ulrich Petzold" party="CDU" name="Ulrich Petzold">
           <speaker>Ulrich Petzold (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine sehr geehrten Damen und Herren! Von den Mitgliedern dieses Hohen Hauses bin ich wohl der einzige, der jemals bei SKET Magdeburg tätig war. Um so mehr machen mich die Nachrichten der letzten Tage betroffen.</p>
           <p>Hier geht es nicht um irgendeinen Betrieb. SKET ist symbolträchtig. Es ist ein industrieller Kern, dem das Aus droht. Aber waren die Schwierigkeiten, die heute von allen Seiten beklagt werden, nicht schon lange abzusehen?</p>
@@ -369,11 +369,11 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Gregor Gysi, PDS.</p>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Gregor Gysi">
+        <sp who="Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" who_original="Gregor Gysi" party="PDS" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (PDS):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Vielleicht, Kollegen Büttner, Petzold, Uldall, ist Ihnen doch eines aufgefallen: das völlige Desinteresse Ihrer Koalition an diesem Thema. Von weit über 300 Abgeordneten sind gerade mal 15 erschienen,</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
@@ -405,21 +405,21 @@
           <p>Ich habe erwartet, daß Sie sich wenigstens einmal bereit erklärt hätten, ein ähnliches regionales Denken zu entfalten, wie das in den alten Bundesländern ganz häufig geschehen ist, wenn dort eine ganze Region gefährdet war. Denken Sie einmal über die Fristen nach und über die Subventionen, die dort geflossen sind, um verträglichen Umbau zu ermöglichen. Nichts dergleichen haben Sie in Ostdeutschland und auch nicht in dieser Region praktiziert.</p>
           <p>Ich glaube, es stört Sie sogar, daß ein Unternehmen wie SKET, das einmal Weltruf hatte, überhaupt noch existiert. Sie wollen so etwas gar nicht, auch aus ideologischen Gründen. Das ist das Idiotischste, was ich erkennen kann. Sie wissen ganz genau -- NA</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege Gysi, die Zeit.</p>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Gregor Gysi">
+        <sp who="Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" who_original="Gregor Gysi" party="PDS" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (PDS):</speaker>
           <p>-- ja --: ein Land wie Sachsen-Anhalt ist dringend gerade auch auf dieses Unternehmen angewiesen. Sie zerstören doch nicht nur diesen Betrieb und viele Zuliefereinrichtungen, sondern auch die ganze Region.</p>
           <p>Wenn der Bundeskanzler jetzt nicht auch noch durch seine eigenen Ministerien hier im Land vorgeführt werden soll, dann muß SKET jetzt saniert werden, und zwar auf der Grundlage des Gutachtens von Hickel. Damit hätte es eine reelle Chance. Aber dann muß er jetzt endlich einmal zu seinem Wort stehen.</p>
           <stage type="interjection">(Beifall bei der PDS sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Hartmut Schauerte, CDU/CSU.</p>
         </sp>
-        <sp who="Hartmut Schauerte" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hartmut Schauerte">
+        <sp who="Hartmut Schauerte" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hartmut Schauerte" party="CDU" name="Hartmut Schauerte">
           <speaker>Hartmut Schauerte (CDU/CSU):</speaker>
           <p>Es ist bei dieser Debatte, Herr Präsident, meine verehrten Damen und Herren, schon hochinteressant, unmittelbar nach Herrn Gysi reden zu dürfen. Herr Gysi, Sie sind der inhaltliche und der vermögensrechtliche Rechtsnachfolger der Politik, die letztlich die eigentliche Ursache für die Probleme gelegt hat, die wir heute hier diskutieren müssen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU -- Dr. Ruth Fuchs [PDS]: Das erzählen Sie noch in 15 Jahren!)</stage>
@@ -457,21 +457,21 @@
           <stage type="interjection">(Lachen bei der PDS)</stage>
           <p>Laßt uns an dieser Stelle gemeinsam versuchen, das Konzept umzusetzen, sonst stiften wir noch größeren Schaden. Am Ende wird es dann nämlich -- NA</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Die Zeit, Herr Kollege.</p>
         </sp>
-        <sp who="Hartmut Schauerte" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hartmut Schauerte">
+        <sp who="Hartmut Schauerte" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hartmut Schauerte" party="CDU" name="Hartmut Schauerte">
           <speaker>Hartmut Schauerte (CDU/CSU):</speaker>
           <p>-- mein letzter Satz -- überhaupt keine Chance mehr geben. Laßt uns deswegen das Reden sein lassen und in die Gespräche eintreten.</p>
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Rudolf Scharping, SPD.</p>
         </sp>
-        <sp who="Rudolf Scharping" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Scharping">
+        <sp who="Rudolf Scharping" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Scharping" party="SPD" name="Rudolf Scharping">
           <speaker>Rudolf Scharping (SPD):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Das Unternehmen gehört dem Bund. Drei Vertreter des Bundes sitzen im Aufsichtsrat. Die volle Verantwortung für die Entscheidungen über das Konzept -- wenn man es überhaupt so nennen kann -- trifft den Bund und niemanden sonst.</p>
           <stage type="interjection">(Beifall bei der SPD und der PDS)</stage>
@@ -497,20 +497,20 @@
           <stage type="interjection">(Lachen bei der CDU/CSU)</stage>
           <p>-- Ich sage Ihnen das einmal in aller Seelenruhe und in aller Deutlichkeit.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Zeit, Herr Kollege.</p>
         </sp>
-        <sp who="Rudolf Scharping" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Scharping">
+        <sp who="Rudolf Scharping" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Scharping" party="SPD" name="Rudolf Scharping">
           <speaker>Rudolf Scharping (SPD):</speaker>
           <p>Das ist mein letzter Satz, Herr Präsident. -- Die Frage, wie der Staat mit den Familien umgeht, unterliegt einem internationalen Vergleich. Daß er mißverständlich ist, ist mir wohlbekannt. Aber ich nehme lieber solche Mißverständnisse in Kauf als die völlige Unehrlichkeit einer Politik, die in Magdeburg anders redet, als sie in Bonn handelt.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Clemens Schwalbe, CDU/CSU.</p>
         </sp>
-        <sp who="Clemens Schwalbe" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Clemens Schwalbe">
+        <sp who="Clemens Schwalbe" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Clemens Schwalbe" party="CDU" name="Clemens Schwalbe">
           <speaker>Clemens Schwalbe (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Nicht die Tatsache, daß wir heute über SKET reden, sondern die Tatsache, daß die PDS eine Aktuelle Stunde zu dem Thema SKET beantragt hat</p>
           <stage type="interjection">(Zuruf von der PDS: Das ärgert Sie wohl!)</stage>
@@ -550,12 +550,12 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Die Aktuelle Stunde ist beendet.</p>
           <p>Ist das eine Wortmeldung zur Geschäftsordnung, Herr Kollege Struck? -- Bitte.</p>
         </sp>
-        <sp who="Dr. Peter Struck" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Peter Struck">
+        <sp who="Peter Struck" parliamentary_group="SPD" role="mp" position="NA" who_original="Peter Struck" party="SPD" name="Peter Struck">
           <speaker>Dr. Peter Struck (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Wir haben gerade eben ein bedauerliches aktuelles Beispiel von Regierungsversagen diskutiert.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
@@ -570,11 +570,11 @@
           <p>Wir wollen, daß dies sofort diskutiert wird. Wir sind auch gerne bereit, unsere Alternativen zur Sanierung des Haushaltes darzulegen. Deshalb beantrage ich, diesen Tagesordnungspunkt sofort zu diskutieren.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege Schmidt, bitte.</p>
         </sp>
-        <sp who="Andreas Schmidt" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Andreas Schmidt">
+        <sp who="Andreas Schmidt (Mülheim)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Andreas Schmidt (Mülheim)" party="CDU" name="Andreas Schmidt">
           <speaker>Andreas Schmidt (Mülheim) (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Herr Kollege Struck, das ist schon ein dolles Stück, wie Sie hier versuchen, Politik zu machen.</p>
           <stage type="interjection">(Lachen bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -585,12 +585,12 @@
           <p>Herr Kollege Struck, wir widersprechen Ihrem Antrag. Aber ich will Sie an dieser Stelle auch auffordern: Hören Sie mit Ihrer Blockadepolitik auf! Nehmen Sie Ihre Verantwortung gegenüber den Arbeitslosen für unseren Sozialstaat in Deutschland wahr! Hören Sie auf mit diesen Schaufensteranträgen!</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P. -- Widerspruch bei der SPD)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege van Essen, bitte.</p>
           <stage type="interjection">(Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Oberster Umfaller!)</stage>
         </sp>
-        <sp who="Jörg van Essen" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Jörg van Essen">
+        <sp who="Jörg van Essen" parliamentary_group="FDP" role="mp" position="NA" who_original="Jörg van Essen" party="FDP" name="Jörg van Essen">
           <speaker>Jörg van Essen (F.D.P.):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Auch wir widersprechen diesem Antrag der SPD-Bundestagsfraktion.</p>
           <stage type="interjection">(Zurufe von der SPD)</stage>
@@ -602,16 +602,16 @@
           <p>Er liegt auch politisch falsch. Die Fragen, die beantwortet werden müssen, sind wesentlich auf die SPD zurückzuführen. Wir haben bereits mehrfach deutlich gemacht: Von Ihnen ist nichts, aber auch gar nichts an Vorschlägen gekommen. Deshalb widersprechen wir diesem Vorschlag der SPD-Bundestagsfraktion.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Weitere Erklärungen in dieser Geschäftsordnungsdebatte? -- Vom Bündnis 90/Die Grünen?</p>
           <stage type="interjection">(Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Nein! Wir wollen abstimmen!)</stage>
           <p>-- Gut.</p>
-          <p>Dann weise ich darauf hin, daß Ergänzungen der Tagesordnung nach   20 Abs. 3 unserer Geschäftsordnung nicht möglich sind, wenn eine Fraktion oder fünf vom Hundert der Mitglieder des Bundestages widerspricht. Das ist der Fall.</p>
-          <p>Es bleibt nur die Möglichkeit, Herr Kollege Fischer, nach   126 der Geschäftsordnung von dieser abzuweichen. Das ist nur möglich, wenn zwei Drittel der anwesenden Mitglieder des Bundestages zustimmen.</p>
+          <p>Dann weise ich darauf hin, daß Ergänzungen der Tagesordnung nach § 20 Abs. 3 unserer Geschäftsordnung nicht möglich sind, wenn eine Fraktion oder fünf vom Hundert der Mitglieder des Bundestages widerspricht. Das ist der Fall.</p>
+          <p>Es bleibt nur die Möglichkeit, Herr Kollege Fischer, nach § 126 der Geschäftsordnung von dieser abzuweichen. Das ist nur möglich, wenn zwei Drittel der anwesenden Mitglieder des Bundestages zustimmen.</p>
           <stage type="interjection">(Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Das beantragen wir! -- Zuruf von der CDU/CSU: Rechnen könnt ihr auch nicht!)</stage>
           <p>Wir werden das jetzt feststellen, weil es anders nicht zu machen ist.</p>
-          <p>Ich lasse also abstimmen, wer in Abweichung von der Geschäftsordnung nach   126 diesen Tagesordnungspunkt aufsetzen will. Darf ich um das Handzeichen bitten? -- Die Gegenprobe! -- Es gibt keine Klarheit im Präsidium. Auch dafür gibt es Regeln. Ich lasse noch mal abstimmen.</p>
+          <p>Ich lasse also abstimmen, wer in Abweichung von der Geschäftsordnung nach § 126 diesen Tagesordnungspunkt aufsetzen will. Darf ich um das Handzeichen bitten? -- Die Gegenprobe! -- Es gibt keine Klarheit im Präsidium. Auch dafür gibt es Regeln. Ich lasse noch mal abstimmen.</p>
           <p>Wer für die Aufsetzung dieses Punktes ist, den bitte ich um das Handzeichen. -- Wer ist dagegen? -- Das Präsidium ist uneinig. Auch dafür gibt es Regeln. Wir müssen das Ergebnis durch Auszählung feststellen. Sie kennen den Mechanismus. Darf ich Sie bitten, den Plenarsaal zu verlassen?</p>
           <p>Ich bitte die Türen zu schließen. Sind die drei Türen mit Schriftführern besetzt? -- Das ist der Fall. Dann ist die Abstimmung eröffnet. --</p>
           <p>Wie sieht es da oben an den Türen aus? -- Ich kann die Türen nicht ewig offenhalten. --</p>
@@ -622,7 +622,7 @@
           <p>-- Ich denke, es ist sinnvoll, die Sitzung für wenige Minuten zu unterbrechen, damit diejenigen von Ihnen, die der weiteren Beratung nicht zu folgen wünschen, den Saal verlassen können.</p>
           <stage type="interjection">(Unterbrechung von 9.43 bis 9.45 Uhr)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Wir setzen die Sitzung fort.</p>
           <p>Nach einer interfraktionellen Vereinbarung soll die heutige Tagesordnung um die in der Zusatzpunktliste aufgeführten Punkte ergänzt werden.</p>
@@ -640,18 +640,18 @@
         </sp>
       </div>
       <div type="agenda_item" n="2" what="debate" desc="Beratung der Beschlußempfehlung und des Berichts des Ausschusses für Wahlprüfung...">
-        <sp who="Wolfgang Bierstedt" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Wolfgang Bierstedt">
+        <sp who="Wolfgang Bierstedt" parliamentary_group="PDS" role="mp" position="NA" who_original="Wolfgang Bierstedt" party="PDS" name="Wolfgang Bierstedt">
           <speaker>Wolfgang Bierstedt (PDS):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine Damen und Herren! Der Geschäftsordnungsausschuß empfiehlt heute dem Deutschen Bundestag, dem 2. Untersuchungsausschuß, welchem ich für die PDS angehöre, den Auftrag zu erteilen, das Verschwinden von Beihilfen für ostdeutsche Werften aufzuklären. Ich werde mich bei der Abstimmung der Stimme enthalten und möchte das begründen.</p>
           <p>Die PDS stellte bereits am 5. März 1996 als erste einen Antrag auf Untersuchung, und monatelang war sie die einzige politische Kraft im Bundestag, die die parlamentarische Suche nach den beim Bremer Vulkan versickerten Beihilfen forderte. Die jetzt zur Abstimmung stehende Auftragserweiterung, genauer gesagt, der Kompromiß zwischen SPD und Koalition, läßt in den Formulierungen befürchten, daß ausgerechnet die Umstände der Privatisierung der Ostwerften, die dubiosen Aktivitäten von Bundesregierung und Treuhandanstalt in der Zeit zwischen Anfang 1991 und März 1993 nicht untersucht werden sollen.</p>
           <stage type="interjection">(Wilhelm Schmidt [Salzgitter] [SPD]: Sie müssen eine persönliche Erklärung abgeben!)</stage>
           <p>Aber ohne genaues Durchleuchten der Entstehungsgeschichte und Ursprünge der Privatisierungsverträge kann überhaupt nicht beurteilt werden, ob und wo staatliche Stellen eventuell versagt haben.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege Bierstedt, entschuldigen Sie, daß ich Sie unterbreche. Sie können eine persönliche Erklärung zu Ihrem Abstimmungsverhalten abgeben, aber keinen Debattenbeitrag. Ich weiß, es ist manchmal schwierig, das zu trennen, aber ich bitte Sie, Ihr Abstimmungsverhalten zu begründen und sonst nichts. Ich müßte Ihnen sonst das Wort entziehen.</p>
         </sp>
-        <sp who="Wolfgang Bierstedt" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Wolfgang Bierstedt">
+        <sp who="Wolfgang Bierstedt" parliamentary_group="PDS" role="mp" position="NA" who_original="Wolfgang Bierstedt" party="PDS" name="Wolfgang Bierstedt">
           <speaker>Wolfgang Bierstedt (PDS):</speaker>
           <p>Ich begründe mein Abstimmungsverhalten damit, daß zu befürchten gilt, daß es jetzt darum geht, Persilscheine für die Treuhandanstalt, die BvS und das Bundesfinanzministerium auszustellen. Im übrigen erkläre ich mein Abstimmungsverhalten auch damit, daß wir der Auffassung sind, daß eine seriöse Untersuchung eigentlich einen dritten Untersuchungsausschuß fordert. Ich erkläre meine Enthaltung auch damit, daß der bestehende 2. Untersuchungsausschuß bereits jetzt hilflos überlastet ist.</p>
           <p>Immerhin ist es zumindest erstaunlich, daß nach monatelanger Verzögerung Ihres Antrages, meine Damen und Herren von der SPD, jetzt, wo sich der Rechnungsprüfungsausschuß ausführlich den Vulkan-Vorgängen zuwenden will, diese schnell in den bestehenden Untersuchungsausschuß verschoben werden sollen. Daran ändert auch die in der gestrigen nichtöffentlichen Sitzung des 2. Untersuchungsausschusses getroffene Übereinkunft zum zeitlichen Vorgehen nichts.</p>
@@ -660,7 +660,7 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Wir kommen jetzt zur Abstimmung. Wer stimmt für die Beschlußempfehlung des Ausschusses für Wahlprüfung, Immunität und Geschäftsordnung auf Drucksache 13/5843? -- Wer stimmt dagegen? -- Wer enthält sich? -- Die Beschlußempfehlung ist mit den Stimmen der Koalitionsfraktionen und der Fraktionen von SPD und Bündnis 90/Die Grünen bei Stimmenthaltung der Gruppe der PDS angenommen worden.</p>
           <p>Ich rufe jetzt den Tagesordnungspunkt 17 auf:</p>
@@ -677,7 +677,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="3" what="debate" desc="Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und F.D.P. eingebr...">
-        <sp who="Dr. Peter Ramsauer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Peter Ramsauer">
+        <sp who="Peter Ramsauer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Ramsauer" party="CSU" name="Peter Ramsauer">
           <speaker>Dr. Peter Ramsauer (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! Nach all den Aufgeregtheiten dieses Morgens wenden wir uns jetzt einem äußerst trockenen Thema zu, einer thematisch am Rande des sozialpolitischen Geschehens gelegenen, aber für die Sozialpolitik in Deutschland doch sehr bedeutsamen Sache.</p>
           <p>Leider Gottes -- das möchte ich gleich zu Beginn sagen -- ist dieses Gesetz in der Mitte dieser Woche sicherlich zu Unrecht in negative Schlagzeilen geraten. Es wurde behauptet, das Bundesjustizministerium als Verfassungsressort habe in diesem Gesetz verfassungsrechtliche Risiken festgestellt. Ich möchte gleich am Anfang festhalten, daß dieser Gesetzentwurf in engster Abstimmung mit beiden Verfassungsressorts, dem BMJ und dem BMI, vorbereitet und von diesen beiden letztlich auch als verfassungsgemäß gewertet wurde.</p>
@@ -706,22 +706,22 @@
           <stage type="interjection">(Anke Fuchs [Köln] [SPD]: Aber Sie haben doch keine Änderungen übernommen!)</stage>
           <p>Die Opposition war damit einverstanden, dieses Gesetz am Mittwoch im Ausschuß abzuschließen. Wir hätten auch gestern und heute noch Zeit gehabt. Die Sitzungen waren anberaumt. Es hätte in Ihrer Hand gelegen, es noch weiter zu beraten. Von Durchpeitschen kann überhaupt keine Rede sein.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege Ramsauer, sehen Sie bitte auf die Uhr.</p>
         </sp>
-        <sp who="Dr. Peter Ramsauer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Peter Ramsauer">
+        <sp who="Peter Ramsauer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Ramsauer" party="CSU" name="Peter Ramsauer">
           <speaker>Dr. Peter Ramsauer (CDU/CSU):</speaker>
           <p>Ich schaue auf die Uhr. Ich weiß, meine Redezeit ist abgelaufen. -- Ich weise aber diese Vorwürfe mit aller Entschiedenheit zurück. Das Gesetz ist sorgfältig beraten worden.</p>
           <p>Eines ist schon komisch: Gestern hat Frau Däubler-Gmelin noch großspurige Erklärungen abgegeben, und heute ist sie bei dieser Debatte nicht anwesend. Das ist kein guter politischer Stil.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P.)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Hans Büttner, SPD.</p>
         </sp>
-        <sp who="Hans Büttner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hans Büttner">
+        <sp who="Hans Büttner (Ingolstadt)" parliamentary_group="SPD" role="mp" position="NA" who_original="Hans Büttner (Ingolstadt)" party="SPD" name="Hans Büttner">
           <speaker>Hans Büttner (Ingolstadt) (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Dieser Gesetzentwurf, so sehr er auch am Rande steht, ist viel diffiziler und bedeutsamer, als Sie es, Herr Kollege Ramsauer, in Ihrer Rede deutlich zu machen versucht haben.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
@@ -764,11 +764,11 @@
           <p>Ich danke Ihnen für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich gebe der Abgeordneten Andrea Fischer das Wort.</p>
         </sp>
-        <sp who="Andrea Fischer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Andrea Fischer">
+        <sp who="Andrea Fischer (Berlin)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Andrea Fischer (Berlin)" party="GRUENE" name="Andrea Fischer">
           <speaker>Andrea Fischer (Berlin) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Ich suche schon die ganze Zeit den Kollegen Ramsauer. Ist es richtig, daß er nicht mehr im Saal ist?</p>
           <stage type="interjection">(Michaela Geiger [CDU/CSU]: Er ist ausgerufen worden! -- Dr. Gisela Babel [F.D.P.]: Er hat vor Ihnen nicht die Flucht ergriffen!)</stage>
@@ -788,11 +788,11 @@
           <p>Auch ich gehe davon aus, daß das Gesetz, das Sie heute verabschieden werden -- wir werden es ablehnen --, wieder das Bundesverfassungsgericht und damit auch uns beschäftigen wird. Wir werden es ablehnen, hoffen allerdings, daß es später entsprechend geändert werden muß, auch wenn es uns ärgert, daß dieser lange und umständliche Weg erforderlich ist, um Ihnen das beizubringen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der PDS)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich gebe der Abgeordneten Dr. Gisela Babel das Wort.</p>
         </sp>
-        <sp who="Dr. Gisela Babel" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Gisela Babel">
+        <sp who="Gisela Babel" parliamentary_group="FDP" role="mp" position="NA" who_original="Gisela Babel" party="FDP" name="Gisela Babel">
           <speaker>Dr. Gisela Babel (F.D.P.):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Das Gesetz zur sozialrechtlichen Behandlung von einmalig gezahltem Arbeitsentgelt reagiert auf ein Urteil des Bundesverfassungsgerichts vom 11. Januar 1995. Darin wurde es als verfassungswidrig angesehen, daß der Gesetzgeber eine Einmalzahlung, wie zum Beispiel die Zahlung des Weihnachtsgeldes, zwar zu den Einnahmen zählt, nach denen die Beiträge zur Arbeitslosen- und Krankenversicherung berechnet werden, aber keine entsprechend höhere Leistungen einräumt. Ein Arbeitnehmer, dem eine solche Einmalzahlung gewährt wird, zahlt also mehr in die Kassen ein als ein Arbeitnehmer, dem keine solche Einmalzahlung gewährt wird. Er bekommt aber keine höheren Leistungen dafür.</p>
           <p>Das Bundesverfassungsgericht hat den Gesetzgeber aufgefordert, spätestens zum 1. Januar 1997 eine neue Regelung zu schaffen, die diese Ungereimtheit -- man kann auch von Ungerechtigkeit sprechen --</p>
@@ -812,11 +812,11 @@
           <p>Ich bedanke mich.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU -- Hans Büttner [Ingolstadt] [SPD]: Doch! Wir haben den Vorschlag der Träger aufgenommen!)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Dann gebe ich das Wort der Abgeordneten Petra Bläss.</p>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="PDS" role="mp" position="NA" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Petra Bläss (PDS):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Der Leitsatz des Urteils des Bundesverfassungsgerichts vom 11. Januar 1995 lautet:</p>
           <p>Es ist mit dem allgemeinen Gleichheitssatz (Art. 3 Abs. 1 GG) unvereinbar, daß einmalig gezahltes Arbeitsentgelt (Weihnachtsgeld, Urlaubsgeld usw.) zu Sozialversicherungsbeiträgen herangezogen wird, ohne daß es bei der Berechnung von kurzfristigen Lohnersatzleistungen (beispielsweise Arbeitslosengeld, Krankengeld und Übergangsgeld) berücksichtigt wird.</p>
@@ -831,11 +831,11 @@
           <p>Ich kann mich daher nur dem Appell des DGB anschließen, den heute vorliegenden Gesetzentwurf abzulehnen und eine den Rechten der Beitragszahlerinnen und Beitragszahler entsprechende Lösung vorzulegen.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich gebe dem Parlamentarischen Staatssekretär Horst Günther das Wort.</p>
         </sp>
-        <sp who="Horst Günther" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Arbeit und Sozialordnung" party="CDU" name="Horst Günther">
+        <sp who="Horst Günther" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Arbeit und Sozialordnung" who_original="Horst Günther" party="CDU" name="Horst Günther">
           <speaker>Horst Günther, Parl. Staatssekretär beim Bundesminister für Arbeit und Sozialordnung:</speaker>
           <p>Herr Präsident! Meine sehr verehrten Kolleginnen und Kollegen! Frau Bläss, wenn der DGB angekündigt hat, gegen das Gesetz beim Verfassungsgericht zu Felde zu ziehen, dann müssen wir dieses Gesetz erst beschließen; denn sonst kann der DGB das nicht. Deshalb bitte ich um Zustimmung.</p>
           <p>Das Bundesverfassungsgericht hat, wenn es hierzu aufgerufen wird, zu prüfen, ob die Gesetze, die dieses Parlament beschließt, mit dem Grundgesetz in Einklang stehen. Wenn es bei dieser Prüfung zu dem Ergebnis kommt, daß die erlassenen Rechtsnormen in verfassungsrechtlich verbriefte Rechte eingreifen, kann es diese Normen verwerfen oder, wenn dies geboten ist, dem Gesetzgeber die Gelegenheit geben, seine Regelung im Lichte der Entscheidung zu überdenken und eine andere Gestaltung zu wählen.</p>
@@ -859,7 +859,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Wir kommen zur Abstimmung, und zwar zunächst über den von den Fraktionen der CDU/CSU und F.D.P. eingebrachten Gesetzentwurf zur sozialrechtlichen Behandlung von einmalig gezahltem Arbeitsentgelt. Das sind die Drucksachen 13/5062 und 13/5826. Ich bitte diejenigen, die dem Gesetzentwurf in der Ausschußfassung zustimmen wollen, um das Handzeichen. -- Die Gegenprobe! -- Stimmenthaltungen? -- Dann stelle ich fest, daß der Gesetzentwurf in zweiter Beratung mit den Stimmen der Koalition gegen die Stimmen der Opposition angenommen worden ist.</p>
@@ -879,7 +879,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="4" what="debate" desc="Beratung des Antrags der Abgeordneten Petra Bläss, Dr. Ruth Fuchs, Gerhard Jütte...">
-        <sp who="Gerhard Jüttemann" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Gerhard Jüttemann">
+        <sp who="Gerhard Jüttemann" parliamentary_group="PDS" role="mp" position="NA" who_original="Gerhard Jüttemann" party="PDS" name="Gerhard Jüttemann">
           <speaker>Gerhard Jüttemann (PDS):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Im westdeutschen Steinkohlenbergbau gibt es seit 1988 eine Richtlinie, nach der Bergleute, die 25 Jahre oder mehr unter Tage arbeiteten, die Möglichkeit haben, ab dem 50. Lebensjahr Anpassungsgeld und anschließend Knappschaftsausgleichsleistung zu erhalten. Für ostdeutsche Bergleute gelten bis Ende dieses Jahres infolge des Renten-Überleitungsgesetzes ähnliche Regelungen, die den Bezug einer Bergmannsvollrente ab dem 50. Lebensjahr nach DDR-Recht und -- nach einer Sonderregelung -- ab dem 55. Lebensjahr den Bezug von Knappschaftsausgleichsleistungen ermöglichen.</p>
           <p>Die westdeutsche Regelung ist 1994 neu aufgelegt worden und gilt weiter; die ostdeutsche Regelung läuft ersatzlos aus, mit katastrophalen sozialen Folgen für die Betroffenen. Was liegt nun also näher, als die Frage zu stellen: Warum sollen die westdeutschen Regelungen nicht auch in Ostdeutschland gelten? Wir haben diese Frage der Bundesregierung gestellt. In der bemerkenswerten Antwort heißt es, daß zur Bewältigung des Umstrukturierungsprozesses der Unternehmen in den neuen Bundesländern von Oktober 1990 bis Ende 1992 für alle 55jährigen Arbeitnehmer als entsprechendes Instrument das Altersübergangsgeld eingesetzt wurde. Damit sei -- ich zitiere -- der Anpassungsprozeß im Bergbau in den neuen Ländern, insbesondere was die älteren Arbeitnehmer betrifft, erfolgreich flankiert worden.</p>
@@ -896,32 +896,32 @@
           <p>Ich danke.</p>
           <stage type="interjection">(Beifall bei der PDS sowie der Abg. Erika Lotz [SPD])</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Nun spricht der Abgeordnete Wolfgang Engelmann.</p>
         </sp>
-        <sp who="Wolfgang Engelmann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Engelmann">
+        <sp who="Wolfgang Engelmann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Engelmann" party="CDU" name="Wolfgang Engelmann">
           <speaker>Wolfgang Engelmann (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen, meine Herren! Die PDS versucht, zwei Sachverhalte, die nur auf den ersten Blick zusammenzupassen scheinen, in unzulässiger Weise zu vermengen. Wie lauten die Fakten? Die PDS fordert, daß nach Auslaufen der Stichtagsregelung für den Bezug der Bergmannsvollrente -- so hießen und heißen die Renten der Bergleute ab 50 Jahre in der ehemaligen DDR -- zum 31. Dezember 1996 ersatzweise -- ersatzweise! -- das im Steinkohlenbergbau gezahlte Anpassungsgeld, APG, in Ostdeutschland in Kraft gesetzt wird, damit ein anschließender Anspruch auf Knappschaftsausgleichsleistung erwächst.</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Kollege Engelmann, gestatten Sie eine Zwischenfrage des Kollegen Jüttemann?</p>
         </sp>
-        <sp who="Wolfgang Engelmann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Engelmann">
+        <sp who="Wolfgang Engelmann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Engelmann" party="CDU" name="Wolfgang Engelmann">
           <speaker>Wolfgang Engelmann (CDU/CSU):</speaker>
           <p>Bitte.</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Gerhard Jüttemann" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Gerhard Jüttemann">
+        <sp who="Gerhard Jüttemann" parliamentary_group="PDS" role="mp" position="NA" who_original="Gerhard Jüttemann" party="PDS" name="Gerhard Jüttemann">
           <speaker>Gerhard Jüttemann (PDS):</speaker>
           <p>Herr Kollege Engelmann, Sie scheinen unseren Antrag nicht richtig gelesen zu haben. Wir fordern nicht eine Verlängerung des DDR-Rechts; wir fordern eine sozialverträgliche Lösung unter den gleichen Bedingungen, wie sie für die Bergleute in den alten Bundesländern gelten. Die Strukturkrise im Osten ist schlimmer als die Strukturkrise im Westen im Steinkohlenbergbau. Wir fordern Anpassungsgeld. Wir fordern ferner, daß die Beschäftigten auch dann, wenn sie nicht aus einem knappschaftlichen Betrieb kommen, Altersübergangsgeld erhalten.</p>
           <p>Was ist Ihre Idee dazu? Haben Sie Konzepte? Ist es richtig, wenn man Menschen in Ost und West unterschiedlich behandelt?</p>
         </sp>
-        <sp who="Wolfgang Engelmann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Engelmann">
+        <sp who="Wolfgang Engelmann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Engelmann" party="CDU" name="Wolfgang Engelmann">
           <speaker>Wolfgang Engelmann (CDU/CSU):</speaker>
           <p>Herr Jüttemann, hören Sie einmal zu; Sie können die ganze Zeit stehenbleiben.</p>
           <p>Das nach den Richtlinien des Bundeswirtschaftsministeriums gewährte Anpassungsgeld ist eine Leistung, die seit 1972 der sozialen Flankierung des Umstrukturierungsprozesses der Unternehmen des Steinkohlenbergbaus -- ausschließlich des Steinkohlenbergbaus! -- dient</p>
@@ -951,11 +951,11 @@
           <p>Wir können dem Antrag der PDS nicht zustimmen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Zu einer Kurzintervention gebe ich dem Abgeordneten Gerhard Jüttemann das Wort.</p>
         </sp>
-        <sp who="Gerhard Jüttemann" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Gerhard Jüttemann">
+        <sp who="Gerhard Jüttemann" parliamentary_group="PDS" role="mp" position="NA" who_original="Gerhard Jüttemann" party="PDS" name="Gerhard Jüttemann">
           <speaker>Gerhard Jüttemann (PDS):</speaker>
           <p>Herr Engelmann, da Sie meine Frage nicht beantworten konnten oder wahrscheinlich den Sinn und das Ziel dieses Antrages gar nicht erkannt haben: Ich spreche nicht von den älteren Arbeitnehmern, die schon entlassen sind. Ich spreche von den vielen Bergleuten, die zur Zeit arbeitslos oder auf dem zweiten Arbeitsmarkt tätig sind, die 25 Jahre erfüllt, aber keine Zukunft haben.</p>
           <p>Sie wissen genau, daß diese Regelung für Anpassungsgeld in den alten Bundesländern Jahr für Jahr weiterläuft. Wer dort mit 50 Jahren aus dem Berufsleben ausscheidet, bekommt zunächst Anpassungsgeld, mit 55 Jahren KAL und anschließend die Altersrente.</p>
@@ -963,11 +963,11 @@
           <p>Wenn die Begründung -- die einzige Begründung war die Strukturkrise im Steinkohlenbergbau -- dazu geführt hat, daß in den alten Bundesländern Regelungen geschaffen wurden -- die finde ich gut und richtig --, daß Bergleute nicht ins soziale Abseits gedrängt werden, dann kann ich nur sagen: Die Strukturkrise im ostdeutschen Bergbau ist genauso schlimm wie und noch schlimmer als die im Steinkohlebergbau. Wir verlangen bloß eine Gleichbehandlung, weiter gar nichts.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Kollege Engelmann, Sie können darauf antworten.</p>
         </sp>
-        <sp who="Wolfgang Engelmann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Engelmann">
+        <sp who="Wolfgang Engelmann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Engelmann" party="CDU" name="Wolfgang Engelmann">
           <speaker>Wolfgang Engelmann (CDU/CSU):</speaker>
           <p>Herr Jüttemann, Sie scheinen meinen Ausführungen nicht klar gefolgt zu sein. Ich habe deutlich genug gesagt, daß die Regelung des Anpassungsgeldes nur für den Steinkohlenbergbau gilt. Das wird von den jeweiligen Ländern mitfinanziert.</p>
           <p>Das, was Sie ansprechen, wollen Sie auf den gesamten Bergbau ausweiten, der schon vor der Wende in den neuen Ländern größtenteils erloschen gewesen ist.</p>
@@ -976,11 +976,11 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Dr. Barbara Höll [PDS]: Sie sollten sich mit dem Thema auseinandersetzen! -- Andrea Fischer [Berlin] [BÜNDNIS 90/DIE GRÜNEN]: Das haben wir mehr getan als ihr! Wenn man sich so einen Antrag anschaut! -- Dr. Barbara Höll [PDS]: Sind Sie schon bei der CDU, Frau Fischer? Das wußte ich noch nicht!)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Damit gebe ich das Wort dem Abgeordneten Hans-Eberhard Urbaniak.</p>
         </sp>
-        <sp who="Hans-Eberhard Urbaniak" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hans-Eberhard Urbaniak">
+        <sp who="Hans-Eberhard Urbaniak" parliamentary_group="SPD" role="mp" position="NA" who_original="Hans-Eberhard Urbaniak" party="SPD" name="Hans-Eberhard Urbaniak">
           <speaker>Hans-Eberhard Urbaniak (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Das Anpassungsgeld und die Knappschaftsausgleichleistung haben eine lange Geschichte. Die Knappschaftsausgleichsleistung ist in den 60er Jahren geschaffen worden, nachdem seinerzeit die Abschmelzung der Steigerungssätze in der knappschaftlichen Versicherung von 2,5 auf 2 Prozent vorgenommen worden war, um das Rentenniveau nicht so in die Höhe zu treiben, daß es zu Schwierigkeiten hätte kommen können.</p>
           <p>Man hat eine Knappschaftsausgleichsleistung geschaffen, um mit den Problemen im Zuge der Strukturveränderungen im Steinkohlenbergbau so fertigzuwerden, daß die betroffenen freigesetzten Arbeitnehmer abgesichert waren. Dies ist ausschließlich für den Steinkohlenbergbau, für den Braunkohlentiefbau und für den Braunkohlenbergbau im Wege des Stellvertreterprinzips gemacht worden.</p>
@@ -1002,11 +1002,11 @@
           <p>Der Bundesregierung sage ich: Schaffen Sie in den betroffenen Regionen und Bergbauzweigen, die mit dem Antrag angesprochen sind, Arbeit und noch einmal Arbeit! Dann werden wir solche Probleme, wie sie hier aufgezeigt sind, nicht zu lösen haben. Aber das ist Ihre Bringschuld. Sie sollten hier den Vorschlägen der sozialdemokratischen Opposition folgen, die Sie bisher -- ich sage: leider -- immer abgelehnt haben.</p>
           <stage type="interjection">(Beifall bei der SPD sowie der Abg. Annelie Buntenbach [BÜNDNIS 90/DIE GRÜNEN])</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich gebe das Wort der Abgeordneten Andrea Fischer.</p>
         </sp>
-        <sp who="Andrea Fischer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Andrea Fischer">
+        <sp who="Andrea Fischer (Berlin)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Andrea Fischer (Berlin)" party="GRUENE" name="Andrea Fischer">
           <speaker>Andrea Fischer (Berlin) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Auch wenn die PDS versucht, einen anderen Eindruck zu erwecken: Allein die Tatsache, daß man einen solchen Antrag vorlegt, heißt nicht, daß man sich mehr für die ostdeutschen Bergleute engagiert als andere in diesem Hause.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
@@ -1028,30 +1028,30 @@
           <p>Wenn Sie hier solche Anträge stellen, dann müssen Sie sich etwas mehr Mühe geben, um unter Beweis zu stellen, daß die ostdeutschen Bergleute Ihnen wirklich etwas wert sind.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der CDU/CSU, der SPD und der F.D.P. -- Gerhard Jüttemann [PDS]: Es gibt eine Regelung für von der Strukturkrise betroffene Bergleute!)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Damit gebe ich das Wort dem Abgeordneten Uwe Lühr.</p>
         </sp>
-        <sp who="Uwe Lühr" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Uwe Lühr">
+        <sp who="Uwe Lühr" parliamentary_group="FDP" role="mp" position="NA" who_original="Uwe Lühr" party="FDP" name="Uwe-Bernd Lühr">
           <speaker>Uwe Lühr (F.D.P.):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Werte Frau Fischer, dieser Antrag ist nicht nur "hingerotzt", sondern es ist wieder einmal ein typischer Antrag der PDS. Hier soll erneut der Eindruck erzeugt werden, als verweigere die Bundesregierung die Gleichstellung von Bürgern in den neuen Bundesländern mit den Bürgern der alten Länder. Es soll der Eindruck erweckt werden, als verweigere die Bundesregierung damit ein elementares Stück innerer Einheit. Die PDS gefällt sich hier in einer Art Robin-Hood-Rolle, in der sie angeblich die Interessen der entrechteten Ostdeutschen wahrt. In Wirklichkeit ist ihr Interesse genau umgekehrt: Nicht innere Einheit ist das Ziel, sondern Vertiefung der Spaltung.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU -- Zurufe von der CDU/CSU: Spaltpilze!)</stage>
           <p>Nur der Separatistenbonus nützt gegenwärtig der PDS hier in diesem Hause und sicherlich auch in den neuen Ländern.</p>
           <p>Mittel zum Zweck für diese Strategie ist heute der älteste Zweig der Sozialversicherung, die Knappschaftsversicherung. Natürlich muß der PDS bekannt sein, daß es sich beim Anpassungsgeld nicht um originäre Rentenbestandteile der Knappschaftsversicherung, sondern um eine aus Haushaltsmitteln des Bundes und der Länder Nordrhein-Westfalen, Hessen und Saarland finanzierte staatliche Sonderleistung für Bergleute handelt, eingeführt als befristete soziale Abfederung der Zusammenbruchs des Steinkohlebergbaus.</p>
           <p>Sicherlich ist der Zusammenbruch aller Sektoren des Bergbaus in der ehemaligen DDR ähnlich dramatisch gewesen, wenn nicht sogar dramatischer, als es die Bergleute an der Ruhr, mit schwarzen Fahnen demonstrierend, aufzeigen mußten. Aber das Anpassungsgeld steht nun einmal nur Betroffenen aus dem Steinkohlenbergbau zur Verfügung; das ist heute hier schon mehrfach festgestellt worden. Das ist das entscheidende Kriterium. Dieser Steinkohlebergbau ist in der DDR aber schon vor fast 20 Jahren quasi aufgegeben worden.</p>
-          <p>Die Knappschaftsausgleichsleistung nach   239 des SGB VI gilt auch in den neuen Bundesländern. Allerdings sind die Übergangsregelungen für die Bergleute in der ehemaligen DDR bis zum 31. Dezember dieses Jahres befristet.</p>
+          <p>Die Knappschaftsausgleichsleistung nach § 239 des SGB VI gilt auch in den neuen Bundesländern. Allerdings sind die Übergangsregelungen für die Bergleute in der ehemaligen DDR bis zum 31. Dezember dieses Jahres befristet.</p>
           <p>Die Knappschaftsrente ist wohl nach wie vor die angesehenste Rente überhaupt. Allerdings bedingt das höhere Leistungsniveau auch einen entsprechend höheren Beitragssatz. Trotzdem kann die knappschaftliche Rentenversicherung ihre Ausgaben nicht vollständig selbst finanzieren. Da sie nicht am Finanzausgleich zwischen der Arbeiter- und der Angestelltenversicherung teilnimmt, trägt der Bund das jährliche Defizit. Im Jahr 1993 waren das rund 13 Milliarden DM, 11,8 Milliarden DM in den alten Bundesländern und rund 1,2 Milliarden DM in den neuen Bundesländern.</p>
           <p>Auf rund 189 000 Pflichtversicherte kamen im Jahr 1993 rund 670 000 Renten. In den neuen Bundesländern kamen auf 166 000 Pflichtversicherte knapp 280 000 Renten. Das entspricht einem Verhältnis von 3,5 Renten zu einem Versicherten in den alten Bundesländern und 1,7 Renten zu einem Versicherten in den neuen Bundesländern.</p>
           <p>Wer also vor diesem Hintergrund eine Angleichung verlangt, wo nichts anzugleichen ist, provoziert bewußt die Ablehnung dieses Hauses, um sie dann im Osten präsentieren und dort Enttäuschung wachsen lassen zu können. Ich muß Ihnen ehrlich sagen: Das ist ein schlimmer Populismus, den meine Fraktion nicht mittragen kann.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird die Überweisung der Vorlage auf Drucksache 13/5592 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. -- Ich sehe und höre keinen Widerspruch. Dann ist die Überweisung so beschlossen.</p>
           <p>Dann rufe ich die Tagesordnungspunkte 19 a und b auf:</p>
           <p>a)--Zweite und dritte Beratung des Entwurfs eines Gesetzes zur Anpassung der wohngeldrechtlichen Überleitungsregelungen für das in Artikel 3 des Einigungsvertrages genannte Gebiet</p>
-          <stage type="interjection">(Wohngeldüberleitungsgesetz -- WoGÜG)</stage>
+          <p>(Wohngeldüberleitungsgesetz -- WoGÜG)</p>
           <p>-- Drucksachen 13/5587, 13/5729 --</p>
           <p>(Erste Beratung 125. und 128. Sitzung)</p>
           <p>--Zweite und dritte Beratung des von dem Abgeordneten Klaus-Jürgen Warnick und der Gruppe der PDS eingebrachten Entwurfs eines Gesetzes zur Anpassung des wohngeldrechtlichen Überleitungsregelungen -- Wohngeldüberleitungsgesetz (WoGÜG)</p>
@@ -1064,7 +1064,7 @@
           <p>Norbert Otto (Erfurt)</p>
           <p>Wolfgang Spanier</p>
           <p>Herbert Frankenhauser</p>
-          <p>bb)Bericht des Haushaltsausschusses (8. Ausschuß) gemäß   96 der Geschäftsordnung</p>
+          <p>bb)Bericht des Haushaltsausschusses (8. Ausschuß) gemäß § 96 der Geschäftsordnung</p>
           <p>-- Drucksachen 13/5832, 13/5833 --</p>
           <p>Berichterstattung:</p>
           <p>Abgeordnete Dr. Rolf Niese</p>
@@ -1091,11 +1091,11 @@
         </sp>
       </div>
       <div type="agenda_item" n="5" what="debate" desc="a)--Zweite und dritte Beratung des Entwurfs eines Gesetzes zur Anpassung der woh...">
-        <sp who="Rolf Rau" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Rolf Rau">
+        <sp who="Rolf Rau" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Rolf Rau" party="CDU" name="Rolf Rau">
           <speaker>Rolf Rau (CDU/CSU):</speaker>
-          <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Zum 31. Dezember 1996 läuft das Wohngeldgesetz aus. Damit bestand die Gefahr, daß die Wohngeldregelung West ohne Übergang auf die neuen Länder trifft. Dies konnten wir nicht akzeptieren. Deshalb mahnten die Vertreter meiner Fraktion aus den neuen Bundesländern bereits im Mai eine angemessene Weiterführung an. Unter anderem schlugen wir vor, dies in der Überleitungsvorschrift des   42 des Wohngeldgesetzes zu realisieren und ab 1. Januar 1997 mit neuen Parametern abzuschließen. Der Entwurf der Bundesregierung zum Wohngeldüberleitungsgesetz eröffnete erste Schritte zur Anpassung.</p>
+          <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Zum 31. Dezember 1996 läuft das Wohngeldgesetz aus. Damit bestand die Gefahr, daß die Wohngeldregelung West ohne Übergang auf die neuen Länder trifft. Dies konnten wir nicht akzeptieren. Deshalb mahnten die Vertreter meiner Fraktion aus den neuen Bundesländern bereits im Mai eine angemessene Weiterführung an. Unter anderem schlugen wir vor, dies in der Überleitungsvorschrift des § 42 des Wohngeldgesetzes zu realisieren und ab 1. Januar 1997 mit neuen Parametern abzuschließen. Der Entwurf der Bundesregierung zum Wohngeldüberleitungsgesetz eröffnete erste Schritte zur Anpassung.</p>
           <p>Die umfangreiche Diskussion -- auch im Bundesrat -- unterstützt unser Anliegen. Daß heute die Zahlung eines Wohngeldes in Höhe von 102 Millionen DM durch den Bund -- die Länder müssen Gleiches dazugeben -- zu beschließen ist, ist ohne Zweifel ein wichtiger Erfolg. Ich bedanke mich in diesem Zusammenhang ausdrücklich für die Unterstützung und das Verständnis seitens der Kollegen aus den alten Ländern, die gern selbst eine verbesserte Wohngeldregelung für ihren Verantwortungsbereich durchgesetzt hätten.</p>
-          <p>Daß wir trotzdem insgesamt 60  Millionen DM weniger ausgeben, ist nicht nur auf haushälterische Zwänge zurückzuführen, sondern das ist auch dem Prozeß der Entwicklung und Anpassung geschuldet. Gleich teure Wohnungen, gleiche Einkommen, ob in Essen oder Chemnitz, und eine unterschiedliche Wohngeldfinanzierung stellen uns vor Probleme, die man nur im Zusammenwachsen lösen kann. Deshalb ist es gut, daß unsere heutige Gesetzesregelung für zwei Jahre gilt und eine Option auf zwei weitere Verlängerungsjahre beinhaltet. In dieser Zeit sollte im Interesse aller ein gesamtdeutsches Wohngeldgesetz entwickelt werden.</p>
+          <p>Daß wir trotzdem insgesamt 60 Millionen DM weniger ausgeben, ist nicht nur auf haushälterische Zwänge zurückzuführen, sondern das ist auch dem Prozeß der Entwicklung und Anpassung geschuldet. Gleich teure Wohnungen, gleiche Einkommen, ob in Essen oder Chemnitz, und eine unterschiedliche Wohngeldfinanzierung stellen uns vor Probleme, die man nur im Zusammenwachsen lösen kann. Deshalb ist es gut, daß unsere heutige Gesetzesregelung für zwei Jahre gilt und eine Option auf zwei weitere Verlängerungsjahre beinhaltet. In dieser Zeit sollte im Interesse aller ein gesamtdeutsches Wohngeldgesetz entwickelt werden.</p>
           <p>Wieviel Bewegung bei der Entgegennahme von Wohngeld vorhanden ist, soll ein Beispiel aus Sachsen zeigen: Hatten wir 1991 400 000 Wohngeldempfänger, so waren es 1995 nur noch 190 000. Sie sehen, meine Damen und Herren, man muß sich immer wieder auf entsprechende Situationen einstellen können. Man darf dabei nicht übersehen, daß es unterschiedliche Ursachen für diese Entwicklung gibt.</p>
           <p>Ich verweise auf drei Punkte, die wir im Rahmen der parlamentarischen Arbeit, im Rahmen unserer Beratung gegenüber dem Entwurf der Bundesregierung zugunsten der Bürger der ostdeutschen Länder verbessern konnten:</p>
           <p>Erstens. In der Tabelle haben wir die Berechnungsgrundlage der Wohnungen mit Sammelheizung von 9 DM auf 9,50 DM pro Quadratmeter erhöht. Dabei haben wir genau den Bereich getroffen, der im Rahmen der Modernisierungen in den neuen Bundesländern von Mietsteigerungen betroffen war. Wir betrachten dies als echten Vertrauensschutz in bezug auf die vereinbarte Modernisierung.</p>
@@ -1115,11 +1115,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich gebe der Abgeordneten Iris Gleicke das Wort.</p>
         </sp>
-        <sp who="Iris Gleicke" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Iris Gleicke">
+        <sp who="Iris Gleicke" parliamentary_group="SPD" role="mp" position="NA" who_original="Iris Gleicke" party="SPD" name="Iris Gleicke">
           <speaker>Iris Gleicke (SPD):</speaker>
           <p>Herr Präsident! Meine lieben Kolleginnen und Kollegen! Herr Minister Töpfer hat im vergangenen Jahr hier im Parlament hervorgehoben, wie wichtig es sei, daß der Kompromiß zur Einführung des Vergleichsmietensystems in Ostdeutschland die Verpflichtung enthalte, "ein neues Wohngeldgesetz vorzulegen, das im Jahr 1996 wirksam wird". Der Bauminister wollte eine Regelung finden, "die alle Seiten mittragen können". Was er im vergangenen Sommer vorgelegt hat, war aber alles andere als die versprochene gesamtdeutsche Wohngeldnovelle. Das war nichts anderes als ein glatter Wortbruch.</p>
           <p>Wir Sozialdemokraten -- Herr Rau, Sie tun gut daran, unseren Sprecher dafür zu loben -- haben das Schlimmste verhindern können. Wir haben verhindert, daß das ostdeutsche Wohngeld auf das niedrige Westniveau abgesenkt wird; denn das und nichts anderes war der Kern des ursprünglichen Gesetzentwurfs.</p>
@@ -1150,11 +1150,11 @@
           <p>Schönen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich gebe das Wort der Abgeordneten Franziska Eichstädt-Bohlig.</p>
         </sp>
-        <sp who="Franziska Eichstädt-Bohlig" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Franziska Eichstädt-Bohlig">
+        <sp who="Franziska Eichstädt-Bohlig" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Franziska Eichstädt-Bohlig" party="GRUENE" name="Franziska Eichstädt-Bohlig">
           <speaker>Franziska Eichstädt-Bohlig (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Der Bauminister hatte uns ein Wohngeldreformgesetz versprochen. Heute wird ein Flickschustergesetz verabschiedet.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
@@ -1186,11 +1186,11 @@
           <p>Ich fordere Sie auf: Ziehen Sie aus dieser Niederlage endlich die Konsequenzen! Machen Sie eine Kehrtwende in Richtung neuer Wohnungspolitik, die die Mieten dämpft und die preiswerten Wohnungsbestände, die wir im öffentlichen Bereich noch haben, nicht verscherbelt, sondern sichert!</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der PDS)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich gebe das Wort dem Abgeordneten Hildebrecht Braun.</p>
         </sp>
-        <sp who="Hildebrecht Braun" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Hildebrecht Braun">
+        <sp who="Hildebrecht Braun (Augsburg)" parliamentary_group="FDP" role="mp" position="NA" who_original="Hildebrecht Braun (Augsburg)" party="FDP" name="Hildebrecht Braun">
           <speaker>Hildebrecht Braun (Augsburg) (F.D.P.):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Es ist schon eine wundersame Geschichte.</p>
           <stage type="interjection">(Iris Gleicke [SPD]: Das ist wahr!)</stage>
@@ -1212,26 +1212,26 @@
           <stage type="interjection">(Iris Gleicke [SPD]: Reden Sie doch einmal mit Ihrem Koalitionspartner!)</stage>
           <p>Tatsache ist aber, daß die Neuvermietungs- und Wiedervermietungsmieten bundesweit zurückgegangen sind. Das steht im Mietenbericht. Sie haben es nur nicht gesehen.</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Kollege Braun, gestatten Sie eine Zwischenfrage der Abgeordneten Eichstädt-Bohlig?</p>
         </sp>
-        <sp who="Hildebrecht Braun" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Hildebrecht Braun">
+        <sp who="Hildebrecht Braun (Augsburg)" parliamentary_group="FDP" role="mp" position="NA" who_original="Hildebrecht Braun (Augsburg)" party="FDP" name="Hildebrecht Braun">
           <speaker>Hildebrecht Braun (Augsburg) (F.D.P.):</speaker>
           <p>Ja, bitte.</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Frau Eichstädt-Bohlig, Sie können eine Zwischenfrage stellen.</p>
         </sp>
-        <sp who="Franziska Eichstädt-Bohlig" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Franziska Eichstädt-Bohlig">
+        <sp who="Franziska Eichstädt-Bohlig" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Franziska Eichstädt-Bohlig" party="GRUENE" name="Franziska Eichstädt-Bohlig">
           <speaker>Franziska Eichstädt-Bohlig (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Kollege Braun, haben Sie unseren Antrag gelesen und zur Kenntnis genommen, daß wir darin die Ergebnisse der einprozentigen Wohnungs- und Gebäudestichprobe referieren, nach der festgestellt worden ist, daß die Mieten zwischen 1988 und 1993 um 58 Prozent</p>
           <stage type="interjection">(Herbert Frankenhauser [CDU/CSU]: Frage! Keinen Vortrag!)</stage>
           <p>und die Einkommen um 20 Prozent gestiegen sind? Können Sie garantieren, daß die Einkommen in der nächsten Zeit stärker als die Mieten steigen werden? Nur dann wäre Ihr ganzes wohnungspolitisches Gebäude gerechtfertigt.</p>
           <stage type="interjection">(Beifall der Abg. Iris Gleicke [SPD])</stage>
         </sp>
-        <sp who="Hildebrecht Braun" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Hildebrecht Braun">
+        <sp who="Hildebrecht Braun (Augsburg)" parliamentary_group="FDP" role="mp" position="NA" who_original="Hildebrecht Braun (Augsburg)" party="FDP" name="Hildebrecht Braun">
           <speaker>Hildebrecht Braun (Augsburg) (F.D.P.):</speaker>
           <p>Liebe Frau Eichstädt-Bohlig, Sie haben es heute mit mir relativ leicht; denn ich habe mich heute mehr an die SPD gewandt.</p>
           <stage type="interjection">(Franziska Eichstädt-Bohlig [BÜNDNIS 90/DIE GRÜNEN]: Das ändert nichts an den Daten!)</stage>
@@ -1243,11 +1243,11 @@
           <p>Das ist eine Beleidigung gegenüber den Mietern in Deutschlands Westen, die bei gleichem Einkommen und -- wohlgemerkt -- gleicher Miete all diese Zusatzleistungen nicht bekommen und leider auch in Zukunft nicht bekommen können. Denn dafür ist kein Geld vorhanden.</p>
           <p>Ich verstehe nicht, warum in Deutschlands Osten einige Verbände, aber leider auch einige Parteien agitieren, die Leute aufhetzen und bei ihnen den Eindruck erwecken, es würden tatsächlich Leistungen um 50 Prozent gekürzt. So ein Krampf!</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Kollege Braun, gestatten Sie eine Zwischenfrage der Kollegin Anke Fuchs?</p>
         </sp>
-        <sp who="Hildebrecht Braun" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Hildebrecht Braun">
+        <sp who="Hildebrecht Braun (Augsburg)" parliamentary_group="FDP" role="mp" position="NA" who_original="Hildebrecht Braun (Augsburg)" party="FDP" name="Hildebrecht Braun">
           <speaker>Hildebrecht Braun (Augsburg) (F.D.P.):</speaker>
           <p>Nein, ich möchte die Sache doch zu Ende führen.</p>
           <p>Ich möchte festhalten: Das Wohngeldsondergesetz Ost läuft zum Jahresende aus. Das war der politische Wille aller Beteiligten. Das heißt, das, was in Zukunft gezahlt wird, ist nicht zu vergleichen mit den Leistungen, die für einen begrenzten Zeitraum in einer Sondersituation zugesichert waren, sondern mit der rechtlichen Situation, die eingetreten wäre, wenn wir jetzt nicht ein neues Wohngeldüberleitungsgesetz machen würden.</p>
@@ -1266,11 +1266,11 @@
           <p>In diesem Punkt stimme ich Ihnen zu. Wir haben uns den 1. Juli des nächsten Jahres vorgenommen. Wir hoffen, daß der Bund und die Länder, die das mitfinanzieren müssen, dies gegenwärtig aber nicht können, dann dazu in der Lage sein werden. Wir stehen zum Wohngeld als der Subjektförderung, mit der punktgenau diejenigen gefördert werden, die die Förderung tatsächlich benötigen. Es soll kein Zweifel daran bestehen, daß das Wohngeld nach wie vor zentraler Bestandteil unserer Wohnungspolitik ist. Ich freue mich, daß Sie das in diesem Punkt auch so sehen.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich erteile dem Abgeordneten Klaus-Jürgen Warnick das Wort.</p>
         </sp>
-        <sp who="Klaus-Jürgen Warnick" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Klaus-Jürgen Warnick">
+        <sp who="Klaus-Jürgen Warnick" parliamentary_group="PDS" role="mp" position="NA" who_original="Klaus-Jürgen Warnick" party="PDS" name="Klaus-Jürgen Warnick">
           <speaker>Klaus-Jürgen Warnick (PDS):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Die Diskussion über zukünftige Bedingungen für den Bezug von Wohngeld entwickelt sich mittlerweile immer mehr zur "unendlichen Geschichte." Auch Münchhausen kommt darin des öfteren vor. Was wurde nicht schon alles in der Hoffnung auf die Vergeßlichkeit der Wählerinnen und Wähler bis zur nächsten Bundestagswahl versprochen und intern ausgekungelt: Gebt ihr uns die Zustimmung zum Mietenüberleitungsgesetz in Ostdeutschland, geben wir euch das Versprechen für ein besseres gesamtdeutsches Wohngeld spätestens ab 1997.</p>
           <p>Doch weit gefehlt. Von einer gesamtdeutschen Wohngeldnovelle keine Spur. Statt dessen hat die Regierungskoalition einen schlechten Gesetzentwurf eingebracht, diesen von der Opposition und den ostdeutschen Bauministern zerreißen lassen, um ihn dann, mit wenigen Nettigkeiten versehen, als wesentlich verbessert zur Abstimmung vorzulegen.</p>
@@ -1288,22 +1288,22 @@
           <p>Eine beliebte Methode der Bundesregierung hat in der letzten Zeit Hochkonjunktur -- ich nenne sie immer sarkastisch die "Methode Zukunft"-- , nämlich die Abwälzung möglichst vieler Kosten auf die ohnehin mit dem Rücken zur Wand stehenden Kommunen. Dies wird auch im vorliegenden Gesetzentwurf praktiziert. Dies scheint sich zur Standardnotlösung zu entwickeln, die aber schnell auf den Verursacher selbst zurückfallen kann.</p>
           <p>Wir bleiben dabei: Natürlich hätte es Alternativen gegeben, und wir haben sie aufgezeigt. Auch Bündnis 90/Die Grünen und die SPD sehen wohl praktikable Finanzierungsmöglichkeiten. Sonst wären ihre Vorschläge hier nicht unterbreitet worden. Warum aber erst ab 1. Juli 1997? Das bleibt ihr Geheimnis. Oder hat dies auch etwas mit der doppelbödigen Politik der sozialdemokratischen Minister in vielen westlichen Bundesländern oder mit dem grünen Minister Vesper zu tun?</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Kollege, Ihre Redezeit ist abgelaufen.</p>
         </sp>
-        <sp who="Klaus-Jürgen Warnick" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Klaus-Jürgen Warnick">
+        <sp who="Klaus-Jürgen Warnick" parliamentary_group="PDS" role="mp" position="NA" who_original="Klaus-Jürgen Warnick" party="PDS" name="Klaus-Jürgen Warnick">
           <speaker>Klaus-Jürgen Warnick (PDS):</speaker>
           <p>Letzter Satz.</p>
           <p>Wenn die von der Bundesregierung vielbeschworene Angleichung der Lebensverhältnisse des Ostens und des Westens auch in anderen sozialen Bereichen so aussehen soll wie beim Wohngeld, sollten sich Millionen Ost- und Westdeutsche auf weitere soziale Ungerechtigkeiten einstellen oder, besser, sich schon heute Gedanken über ihr Wahlverhalten 1998 machen.</p>
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich erteile das Wort dem Abgeordneten Herbert Frankenhauser.</p>
         </sp>
-        <sp who="Herbert Frankenhauser" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Herbert Frankenhauser">
+        <sp who="Herbert Frankenhauser" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Herbert Frankenhauser" party="CSU" name="Herbert Frankenhauser">
           <speaker>Herbert Frankenhauser (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine verehrten Kolleginnen und Kollegen! Die "Süddeutsche Zeitung" vom 28. September 1996 überschreibt einen Artikel über die Mietentwicklung in München folgendermaßen: "Der Vermietermarkt hat sich zum Mietermarkt gewandelt."</p>
           <stage type="interjection">(Beifall bei Abgeordneten der F.D.P. -- Achim Großmann [SPD]: Das ist doch schön! Gott sei Dank!)</stage>
@@ -1326,11 +1326,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich gebe dem Abgeordneten Wolfgang Spanier das Wort.</p>
         </sp>
-        <sp who="Wolfgang Spanier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wolfgang Spanier">
+        <sp who="Wolfgang Spanier" parliamentary_group="SPD" role="mp" position="NA" who_original="Wolfgang Spanier" party="SPD" name="Wolfgang Spanier">
           <speaker>Wolfgang Spanier (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Liebe Kolleginnen und Kollegen! Es ist wirklich selten, daß sich in diesem Hause alle einig sind, und das ist heute der Fall. Im Grunde genommen sind sich alle Fraktionen einig, daß wir heute über das falsche Gesetz beraten.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -1349,20 +1349,20 @@
           <stage type="interjection">(Beifall bei der SPD und der PDS)</stage>
           <p>Ich weiß, daß weder der Bundesbauminister noch die Koalition den Vorwurf, sie hätten Wortbruch begangen, gerne hören. Aber was ist es denn anderes, wenn die Wohngeldnovelle für die gesamte Bundesrepublik hier von diesem Podium aus in den letzten zwei Jahren immer wieder mit genauen Daten angekündigt worden ist und bis zum heutigen Tage auch wieder nur ein Termin vorliegt, 1. Juli 1997, aber im Haushalt für 1997 kein zusätzliches Geld vorgesehen ist und bis heute noch nicht einmal Eckpunkte, wie denn diese Wohngeldnovelle aussehen soll, vorliegen? Von daher kann man das, denke ich, nicht anders als Wortbruch nennen.</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Kollege Spanier, gestatten Sie eine Zwischenfrage des Abgeordneten Braun?</p>
         </sp>
-        <sp who="Wolfgang Spanier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wolfgang Spanier">
+        <sp who="Wolfgang Spanier" parliamentary_group="SPD" role="mp" position="NA" who_original="Wolfgang Spanier" party="SPD" name="Wolfgang Spanier">
           <speaker>Wolfgang Spanier (SPD):</speaker>
           <p>Herr Braun!</p>
         </sp>
-        <sp who="Hildebrecht Braun" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Hildebrecht Braun">
+        <sp who="Hildebrecht Braun (Augsburg)" parliamentary_group="FDP" role="mp" position="NA" who_original="Hildebrecht Braun (Augsburg)" party="FDP" name="Hildebrecht Braun">
           <speaker>Hildebrecht Braun (Augsburg) (F.D.P.):</speaker>
           <p>Werter Kollege, ist Ihnen bekannt, daß auch die SPD-geführten Bundesländer gegenwärtig nicht in der Lage sind, die Mittel aufzubringen, die erforderlich wären, um bundesweit das von Ihnen und uns gemeinsam gewünschte neue bundesdeutsche Wohngeld zu finanzieren?</p>
           <stage type="interjection">(Iris Gleicke [SPD]: Das ist doch gar nicht wahr! Wir haben doch schon vor zwei Jahren beschlossen, daß wir das tun!)</stage>
         </sp>
-        <sp who="Wolfgang Spanier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wolfgang Spanier">
+        <sp who="Wolfgang Spanier" parliamentary_group="SPD" role="mp" position="NA" who_original="Wolfgang Spanier" party="SPD" name="Wolfgang Spanier">
           <speaker>Wolfgang Spanier (SPD):</speaker>
           <p>Herr Braun, wir hatten 1995, auf Initiative der Bundesländer -- federführend war damals Frau Brusis aus Nordrhein-Westfalen --, eine echte Chance, mit einer Härtefallregelung wenigstens die schlimmsten Verwerfungen zwischen dem Wohngeld Ost und dem Wohngeld West zu beseitigen. 1995 war der richtige Zeitpunkt. Heute allerdings -- wenn Sie, Herr Warnick, diesen Antrag sozusagen ausgraben und als PDS übernehmen -- stimmt der Zeitpunkt einfach nicht mehr. Heute ist das Wohngeldüberleitungsgesetz ausgelaufen. Deswegen paßt der zeitliche Rahmen nicht.</p>
           <p>Herr Braun, das ist die Antwort auf Ihre Frage. Wir hätten das schon längst regeln können. Das ist damals versäumt worden. Deswegen haben wir heute diese äußerst mißliche Situation, die wir vor den Wählerinnen und Wählern vor allen Dingen in den alten Bundesländern kaum noch vertreten können. Das heißt: Sie müssen dies vertreten; denn das ist nicht unsere Sache.</p>
@@ -1396,22 +1396,22 @@
           <stage type="interjection">(Zuruf von der SPD: So ist das!)</stage>
           <p>Ich glaube, daß man das mit Fug und Recht sagen kann. Es bleibt aber dabei: Die große Wohngeldnovelle ist heute nicht vorgelegt worden. Nach wie vor bleiben die Verwerfungen zwischen Ost und West. Wir werden in den kommenden Wochen und Monaten nicht lockerlassen, -- NA</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Sie müssen zum Schluß kommen, Herr Kollege.</p>
         </sp>
-        <sp who="Wolfgang Spanier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wolfgang Spanier">
+        <sp who="Wolfgang Spanier" parliamentary_group="SPD" role="mp" position="NA" who_original="Wolfgang Spanier" party="SPD" name="Wolfgang Spanier">
           <speaker>Wolfgang Spanier (SPD):</speaker>
           <p>-- daß tatsächlich zum 1. Juli 1997 -- dann aber wirklich allerspätestens -- ein vernünftiger Vorschlag von Ihnen auf den Tisch kommt.</p>
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der PDS)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Das letzte Wort hat der Parlamentarische Staatssekretär Joachim Günther.</p>
           <stage type="interjection">(Iris Gleicke [SPD]: Das letzte Wort nicht! Das letzte Wort hat das Parlament!)</stage>
         </sp>
-        <sp who="Joachim Günther" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Raumordnung, Bauwesen und Städtebau" party="FDP" name="Joachim Günther">
+        <sp who="Joachim Günther" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Raumordnung, Bauwesen und Städtebau" who_original="Joachim Günther" party="FDP" name="Joachim Günther">
           <speaker>Joachim Günther, Parl. Staatssekretär beim Bundesminister für Raumordnung, Bauwesen und Städtebau:</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Frau Eichstädt-Bohlig, auch auf Grund Ihres heutigen Debattenbeitrags, gebe ich Ihnen einen Tip: Werden Sie Sensationsjournalistin; schlechte Nachrichten verkaufen sich gut, sie gehen nur an der Realität vorbei. Sie haben den Wohngeld- und Mietenbericht wohl nicht gelesen.</p>
           <p>Wer den Wohngeld- und Mietenbericht gelesen hat, der muß doch einfach die Realitäten zur Kenntnis nehmen, und zwar auch die positiven Aspekte: 2,4 Millionen neue Wohnungen in den letzten fünf Jahren; eine Million Wohnungen wurde in dem Berichtszeitraum mehr erstellt als im Zeitraum von 1985 bis 1990.</p>
@@ -1442,7 +1442,7 @@
           <p>-- Sie haben doch eben selbst dargelegt, daß es anerkennungswert ist, was in diesem Bereich erreicht wurde, Kollege Spanier. Sie haben sich bei der Abstimmung im Ausschuß der Stimme enthalten. Vielleicht überwinden Sie sich heute und stimmen unserem Entwurf eines Wohngeldüberleitungsgesetzes zu. Er ist die richtige Alternative.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Wiederspruch bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich schließe damit die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über die von der Bundesregierung sowie den Fraktionen der CDU/CSU und F.D.P. eingebrachten Entwürfe eines Wohngeldüberleitungsgesetzes, Drucksachen 13/5729 und 13/5587. Der Ausschuß für Raumordnung, Bauwesen und Städtebau empfiehlt auf Drucksache 13/5831 unter Nr. 1, den Gesetzentwurf zusammengefaßt in der Ausschußfassung anzunehmen. Ich bitte diejenigen, die dem Gesetzentwurf in der Ausschußfassung zustimmen wollen, um das Handzeichen. -- Gegenprobe! -- Stimmenthaltungen? -- Dann ist der Gesetzentwurf mit den Stimmen der Koalition bei Stimmenthaltung der Fraktion der SPD und Gegenstimmen im übrigen in zweiter Beratung angenommen.</p>
@@ -1467,6 +1467,7 @@
           <p>Dann sind wir am Schluß unserer Tagesordnung.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 6. November 1996, 13 Uhr ein.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluß der Sitzung: 12.07 Uhr)</stage>
         </sp>
       </div>
     </body>

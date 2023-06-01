@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-07</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://www.bundestag.de/blob/378340/bf613f39fd5478602c01557f6c0206b8/18110-data.txt</url>
-        <date>2015-10-20 20:01:26</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -36,7 +36,7 @@
   <text>
     <body>
       <div type="agenda_item" n="1" what="debate" desc="– Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs ...">
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Nehmen Sie bitte Platz. Die Sitzung ist eröffnet.</p>
           <p>Guten Morgen, liebe Kolleginnen und Kollegen! Ich begrüße Sie alle herzlich.</p>
@@ -54,9 +54,9 @@
           <p>Ich eröffne die Aussprache und erteile das Wort dem Bundesminister des Innern, Dr. Thomas de Maizière.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
-          <p>Herr Präsident! Liebe Kolleginnen und Kollegen! IT Sicherheit, Cyberwar, Cybercrime, Cyberdefence: An markigen Schlagworten mangelt es nicht, wenn es darum geht, die Herausforderungen der Digitalisierung zu beschreiben. Manche sprechen von gestohlenen Identitäten. Ich halte das für Unsinn. Die Identität wird nicht geklaut. Es geht um den Zugriff auf Passworte und auf Geld, aber nicht um gestohlene Identitäten. Wir sollten mit unserer Sprache aufpassen.</p>
+          <p>Herr Präsident! Liebe Kolleginnen und Kollegen! IT-Sicherheit, Cyberwar, Cybercrime, Cyberdefence: An markigen Schlagworten mangelt es nicht, wenn es darum geht, die Herausforderungen der Digitalisierung zu beschreiben. Manche sprechen von gestohlenen Identitäten. Ich halte das für Unsinn. Die Identität wird nicht geklaut. Es geht um den Zugriff auf Passworte und auf Geld, aber nicht um gestohlene Identitäten. Wir sollten mit unserer Sprache aufpassen.</p>
           <p>Gehackte Datenbanken, sabotierte Infrastrukturen, ausgespähte Unternehmen und ein ausgespähter Deutscher Bundestag: Alle diese Szenarien prägen die öffentliche Debatte. Es reicht aber nicht aus, solche Herausforderungen wortreich zu bestaunen oder Ängste zu schüren. Es gibt auch keinen Königsweg zur IT-Sicherheit. Es gibt keinen Big Bang oder eine einzelne Maßnahme, mit der von heute auf morgen IT-Sicherheit hergestellt ist.</p>
           <p>Es ist wie auch sonst in der Politik: Man muss die Herausforderungen analysieren und dann Schritt für Schritt die Lösungen angehen. Mit dem Entwurf des IT-Sicherheitsgesetzes, der heute in zweiter und dritter Lesung beraten wird, gehen wir einen wichtigen Schritt in Richtung mehr IT-Sicherheit, und dafür bin ich dankbar.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
@@ -96,12 +96,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält nun die Kollegin Petra Pau für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Petra Pau (DIE LINKE):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Wir beraten heute final über ein Gesetz zur Erhöhung der Sicherheit informationstechnischer Systeme, kurz IT-Sicherheit. Ein solches Gesetz ist überfällig. Immer mehr Prozesse und Abläufe sind computergestützt und basieren auf Datennetzwerken. Die Digitalisierung der Gesellschaft nimmt zu; rasant und umfassend.</p>
           <p>IT-Pannen oder gar gezielte Angriffe könnten verheerende Folgen haben. Man stelle sich nur einmal den Ausfall der Wasser- oder der Energieversorgung oder wesentlicher Teile des Verkehrs vor. Die gesamte Gesellschaft käme zum Erliegen. Insofern unterstelle ich, dass alle Parteien ein großes Interesse an einer höchstmöglichen IT-Sicherheit haben. Die Linke hat es jedenfalls.</p>
@@ -129,12 +129,12 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Gerold Reichenbach ist der nächste Redner für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Gerold Reichenbach" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gerold Reichenbach">
+        <sp who="Gerold Reichenbach" parliamentary_group="SPD" role="mp" position="NA" who_original="Gerold Reichenbach" party="SPD" name="Gerold Reichenbach">
           <speaker>Gerold Reichenbach (SPD):</speaker>
           <p>Herr Präsident! Werte Kolleginnen und Kollegen! Sehr geehrte Damen und Herren auf der Tribüne und an den Bildschirmen! Ein Ende der Durchdringung unseres Lebens durch Digitalisierung ist nicht absehbar – das ist genannt worden –: automatisierte Fahrzeuge, Gesundheitsdienstleistungen, intelligente Fabriken oder gar intelligente Städte.</p>
           <p>Sicherheitslücken und Cyberangriffe können dramatische Folgen haben. Nehmen wir das von Ihnen genannte Beispiel der immer komplexer werdenden Logistikketten. Heute wissen nur noch die Computer, in welchem Regal, auf welchem Schiff oder welchem Lkw sich Waren befinden. Eine Störung oder ein Ausfall von Rechnern und Netzwerken hätte zur Folge, dass niemand mehr darauf zugreifen kann. Die Waren wären zwar noch da, aber keiner weiß mehr, wo. Nicht auszudenken, was das für unsere Versorgung bedeutet, etwa mit Nahrungsmitteln oder Arzneimitteln. Wie wir gerade im Bundestag leidvoll erleben, können sich solche Störungen nicht nur über Stunden, sondern über Tage oder vielleicht sogar über Monate hinziehen. Um solche Situationen geht es beim IT-Sicherheitsgesetz, über dessen Entwurf wir heute in zweiter und dritter Beratung beraten.</p>
@@ -145,7 +145,7 @@
           <p>Das Parlament hat – auch hier gilt das Struck’sche Gesetz, wonach kein Gesetz den Deutschen Bundestag so verlässt, wie es hineingekommen ist – eine Expertenanhörung durchgeführt. Die Koalitionsfraktionen haben wichtige Anregungen der Experten, die sich alle grundsätzlich über die Bedeutung und Wichtigkeit dieses Gesetzes einig waren, aufgenommen. Auch auf europäischer Ebene – das wurde bereits genannt – beraten wir zurzeit über eine Richtlinie, die im europäischen Rahmen für mehr Sicherheit im Internet und in den informationstechnischen Systemen sorgen soll; das ist die sogenannte NIS-Richtlinie. Deswegen haben wir Vorgaben, die diese Richtlinie absehbar enthalten wird, per Änderungsantrag der Koalition bereits in den Gesetzentwurf aufgenommen. Das betrifft die Möglichkeit der bußgeldbewehrten Sanktionen, wenn Betreiber kritischer Infrastrukturen gegen die im Gesetz festgeschriebenen Pflichten wie etwa die Meldepflicht verstoßen.</p>
           <p>Keinerlei Sanktionsbefugnisse vorzusehen, wie von Teilen der Wirtschaft gefordert, stünde nicht nur im Widerspruch zur absehbaren europäischen Richtlinie, sondern würde auch zu Ungleichbehandlungen führen; denn in der Telekommunikation und im Energiebereich gibt es bereits Sanktionsmechanismen. Schließlich wäre es unsinnig, ein Gesetz zu beschließen, das für diejenigen, die es nicht befolgen, keine Folgen hätte. Damit verhielte es sich wie mit einem Parkverbot ohne Bußgeld.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
-          <p>Das alles widerspricht aber keineswegs dem grundsätzlich kooperativen Ansatz des Gesetzes, wie es der Minister genannt hat. Für IT Sicherheit kann Politik nicht alleine sorgen. Wir sind auch wegen der Komplexität der Materie auf die Mitarbeit der Unternehmen und ihr Know-how angewiesen. Deshalb binden wir die Unternehmen und die Verbände mit ihrem Sachverstand ein. Das BSI wird die vorzugebenden Sicherheitsstandards gemeinsam mit der Wirtschaft erarbeiten.</p>
+          <p>Das alles widerspricht aber keineswegs dem grundsätzlich kooperativen Ansatz des Gesetzes, wie es der Minister genannt hat. Für IT-Sicherheit kann Politik nicht alleine sorgen. Wir sind auch wegen der Komplexität der Materie auf die Mitarbeit der Unternehmen und ihr Know-how angewiesen. Deshalb binden wir die Unternehmen und die Verbände mit ihrem Sachverstand ein. Das BSI wird die vorzugebenden Sicherheitsstandards gemeinsam mit der Wirtschaft erarbeiten.</p>
           <p>Während der parlamentarischen Beratungen wurden von vielen Stellen die fehlenden Mitwirkungspflichten von sogenannten Komponentenherstellern, also den Zulieferern von Soft- und Hardware für die Betreiber kritischer Infrastrukturen, kritisiert; denn diese Betreiber sind bei der Erfüllung der ihnen auferlegten Pflicht, mehr Sicherheit herzustellen, unter Umständen auf die Mitarbeit der Zulieferer angewiesen.</p>
           <p>Das ist natürlich zuvörderst vertraglich zwischen den Unternehmen und ihren Vertragspartnern zu regeln; aber bei Monopolsituationen oder auch im Streitfall kann es bei der Durchsetzung dieser Mitwirkung durchaus zu Schwierigkeiten kommen. Gerade bei kritischen Infrastrukturen, wie der Stromversorgung, der Nahrungsmittelversorgung und, und, und, können wir nicht warten, bis die Streitigkeiten auf zivilrechtlichem Wege geklärt sind. Deswegen besteht in diesen Fällen – dies ist einer der Änderungsvorschläge, den die Koalition in den Gesetzentwurf eingebracht hat – eine Anordnungsbefugnis des BSI gegenüber den Herstellern, die in einem sogenannten kritischen Fall bei der Beseitigung einer Störung mitwirken müssen.</p>
           <p>Außerdem haben wir als Ergebnis der Anhörung die Untersuchungsbefugnisse des BSI und die Zweckbindung klarer gefasst. Wir haben explizit klargestellt, dass sie nur für die Erfüllung folgender Aufgaben des BSI genutzt werden dürfen: zur Abwehr von Gefahren für die Sicherheit der Informationstechnik des Bundes, zur Beratung und Warnung, zur Erfüllung der Aufgaben des BSI als zentrale Meldestelle für die Sicherheit in der Informationstechnik bei kritischen Infrastrukturen nach §§ 8 a und 8 b des BSI-Gesetzes – für nichts mehr. Die Opposition mutmaßt, es bestehe dennoch die Gefahr, dass diese Daten auch für andere Interessen verwendet werden könnten. Dem ist ein klarer gesetzlicher Riegel vorgeschoben.</p>
@@ -170,11 +170,11 @@
           <p>Ich bin der festen Überzeugung, dass wir hier mit diesem IT-Sicherheitsgesetz und mit den von der Koalition vorgelegten Änderungen einen richtigen und wichtigen Schritt getan haben. Frau Pau, mit Ihrem Beispiel haben Sie übrigens leider nur deutlich gemacht, dass die Linke immer noch ein bisschen in der Vergangenheit ist.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege, Sie achten bitte auf die Uhr.</p>
         </sp>
-        <sp who="Gerold Reichenbach" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gerold Reichenbach">
+        <sp who="Gerold Reichenbach" parliamentary_group="SPD" role="mp" position="NA" who_original="Gerold Reichenbach" party="SPD" name="Gerold Reichenbach">
           <speaker>Gerold Reichenbach (SPD):</speaker>
           <p>Ich komme zum Schluss, Herr Präsident. – Denn in der digitalen Welt ist die Null nicht gleich null wie in der analogen Welt, sondern von der Information gleichwertig gegenüber der Eins.</p>
           <stage type="interjection">(Beifall des Abg. Philipp Mißfelder [CDU/CSU] – Dr. Petra Sitte [DIE LINKE]: Das ist ja das Problem!)</stage>
@@ -182,11 +182,11 @@
           <p>Ich bedanke mich für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält nun der Kollege Dieter Janecek für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Dieter Janecek" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Dieter Janecek">
+        <sp who="Dieter Janecek" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Dieter Janecek" party="GRUENE" name="Dieter Janecek">
           <speaker>Dieter Janecek (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrter Herr Präsident! Sehr geehrter Herr Minister! Sehr geehrter Herr Reichenbach, danke für die Einführung in die binäre Logik.</p>
           <stage type="interjection">(Heiterkeit – Gerold Reichenbach [SPD]: Offensichtlich muss das einer ja mal tun!)</stage>
@@ -217,12 +217,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält nun der Kollege Stephan Mayer für die CDU/CSU.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Stephan Mayer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Stephan Mayer">
+        <sp who="Stephan Mayer (Altötting)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stephan Mayer (Altötting)" party="CSU" name="Stephan Mayer">
           <speaker>Stephan Mayer (Altötting) (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Sehr verehrte Kolleginnen! Sehr geehrte Kollegen! Ich glaube, man kann mit Fug und Recht behaupten, dass die digitale Infrastruktur, die Systeme der Information und der Telekommunikation mittlerweile das Rückgrat unserer modernen Gesellschaft sind. Unser Arbeits- und Wirtschaftsleben, die ehrenamtliche Tätigkeit, aber auch in vielen Bereichen unser privates Leben wären ohne eine funktionierende IT-Infrastruktur nicht mehr denkbar. Unser Leben wird dadurch in vielerlei Hinsicht einfacher und bequemer.</p>
           <p>Wir erleben es ja derzeit selbst als Parlamentarier: In allen Lebensbereichen steigt in zunehmendem Maße auch die Abhängigkeit von einer funktionierenden und sicheren IT-Infrastruktur. Deshalb ist es richtig und wichtig, dass wir dieses IT-Sicherheitsgesetz – dieses Gesetz zum Schutz kritischer Infrastrukturen – so stringent vorangetrieben haben und heute in der zweiten und dritten Lesung abschließend behandeln.</p>
@@ -243,18 +243,18 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Nächste Rednerin für die Fraktion Die Linke ist die Kollegin Petra Sitte.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Petra Sitte" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Petra Sitte">
+        <sp who="Petra Sitte" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Petra Sitte" party="DIE LINKE" name="Petra Sitte">
           <speaker>Dr. Petra Sitte (DIE LINKE):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Das IT-Sicherheitsgesetz soll den Schutz kritischer Infrastrukturen vor Angriffen auf deren IT-Netze unterstützen. Komischerweise ist im Gesetz aber gar nicht definiert, was unter diesen kritischen Infrastrukturen zu verstehen ist.</p>
           <stage type="interjection">(Marian Wendt [CDU/CSU]: Doch, klar!)</stage>
           <p>Das soll künftig erst eine Verordnung regeln. Ich finde, Gesetzentwürfe, bei denen unklar ist, worauf sie sich eigentlich konkret beziehen, bedürfen keiner Beratung durch den Bundestag, sondern einer Überarbeitung durch den Einreicher.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
-          <p>Unser Hohes Haus, der Bundestag selbst, hält im besten Wortsinne auch kritische Infrastrukturen vor – der Opposition sei Dank. Nehmen wir doch mal an, das Gesetz gälte eben auch für uns als Parlament. Etwa 20 000 Accounts haben Zugriff auf Server und Netze des Bundestages. Schon jetzt ist der Begriff „Drucksache“ eigentlich ein Anachronismus. Künftig werden wahrscheinlich nur noch Alterspräsidenten oder  präsidentinnen wissen, was man damit anfangen kann.</p>
+          <p>Unser Hohes Haus, der Bundestag selbst, hält im besten Wortsinne auch kritische Infrastrukturen vor – der Opposition sei Dank. Nehmen wir doch mal an, das Gesetz gälte eben auch für uns als Parlament. Etwa 20 000 Accounts haben Zugriff auf Server und Netze des Bundestages. Schon jetzt ist der Begriff „Drucksache“ eigentlich ein Anachronismus. Künftig werden wahrscheinlich nur noch Alterspräsidenten oder -präsidentinnen wissen, was man damit anfangen kann.</p>
           <stage type="interjection">(Heiterkeit bei Abgeordneten der LINKEN und der CDU/CSU)</stage>
           <p>Ein Parlament ohne funktionierendes und sicheres Datennetz ist heutzutage, wie wir erfahren haben, leider ziemlich aufgeschmissen. Wir alle haben größtes Interesse daran, dass unsere Rechner funktionieren und dass eben keine Daten abfließen. Trotz aller Bemühungen um IT-Sicherheit im Bundestag hat es einen Angriff geben. Technisch versiert ist man ziemlich tief in die Datennetze des Bundestages eingedrungen. Daten sind eben abgeflossen, und das Netz ist kompromittiert.</p>
           <p>Nach IT-Sicherheitsgesetz müsste nun gemeldet werden. Solche Vorfälle dürfen also nicht verschwiegen werden, sie dürfen nicht als Interna behandelt werden, schon gar nicht dürfen sie ausgesessen werden.</p>
@@ -279,12 +279,12 @@
           <p>Ich komme zum Schluss. Wir sind uns einig: Wir brauchen mehr IT-Sicherheit. Die im vorgelegten IT-Sicherheitsgesetz enthaltenen Maßnahmen gehen jedoch an einer echten Problemlösung vorbei. Es ist vor allem ein „Geheimdienstaufbaugesetz“. Außerdem führt es – meine Damen und Herren, das ist nicht zu vergessen – von hinten durch die kalte Küche die Vorratsdatenspeicherung ein. Besser als die Blogger von netzpolitik.org kann man es nicht auf den Punkt bringen: Es wird hier und heute ein „IT-Sicherheitssimulationsgesetz“ verabschiedet werden.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Der Kollege Metin Hakverdi ist der nächste Redner für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Metin Hakverdi" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Metin Hakverdi">
+        <sp who="Metin Hakverdi" parliamentary_group="SPD" role="mp" position="NA" who_original="Metin Hakverdi" party="SPD" name="Metin Hakverdi">
           <speaker>Metin Hakverdi (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Das IT-Sicherheitsgesetz ist ein überfälliger, notwendiger Schritt zum Aufbau einer Sicherheitsarchitektur für das digitale Leben in unserem Land. Die Enthüllungen Edward Snowdens und millionenfacher Datendiebstahl haben das Vertrauen der Menschen in die digitale Zukunft tiefgreifend gestört. Kriminelle, Hacker, ausländische Geheimdienste – sie alle verlagern ihre Aktivitäten mit der wachsenden digitalen Durchdringung aller gesellschaftlichen und wirtschaftlichen Lebensbereiche eben in diese digitale Welt.</p>
           <p>Heute kann man aus der Ferne von nahezu jedem Ort der Welt zu jedem beliebigen Zeitpunkt einen Angriff starten. Laut Lagebericht zur IT-Sicherheit in Deutschland übersteigt die Gesamtzahl der PC-basierten Schadprogrammvarianten inzwischen die 250-Millionen-Marke, es gibt in Deutschland jeden Monat mindestens 1 Million Infektionen durch Schadprogramme, und die Zahl der Schadprogrammvarianten steigt täglich um 300 000. Diese schier unglaublichen Zahlen zeigen: Mit solchen Angriffen finanziert sich heute schon eine ganze kriminelle Industrie. Diese kriminelle Industrie ist arbeitsteilig organisiert: von der Aufdeckung von Softwareschwachstellen über die Entwicklung von Produkten zur gezielten Ausnutzung dieser Schwachstellen und der Vermarktung dieser Produkte bis hin zur wirtschaftlichen oder anderweitigen Verwertung.</p>
@@ -300,17 +300,17 @@
           <p>Nachdenklich hat mich ein Punkt im Gesetzentwurf gemacht, über den ich hier sprechen möchte: Der Kompetenzzuwachs beim Bundesamt für Sicherheit in der Informationstechnik, insbesondere die Einbeziehung der Bundesbehörde in den Anwendungsbereich des Gesetzes, ist – das muss man hier deutlich sagen – heikel. Ich bin mir nicht sicher, ob die Anbindung des Bundesamtes für Sicherheit in der Informationstechnik beim Bundesinnenministerium heute noch gerechtfertigt ist. Immerhin ist das BSI berechtigt, von anderen Bundesbehörden Protokolldaten abzufragen.</p>
           <stage type="interjection">(Clemens Binninger [CDU/CSU]: Nur zur Aufgabenerfüllung!)</stage>
           <p>Verträgt sich dies mit der Staatsorganisation unseres Landes? Wie verträgt sich das mit dem Ressortprinzip? Am Ende kommt es darauf an, lieber Herr Kollege, wie die Anbindung vonseiten des Bundesinnenministeriums tatsächlich, faktisch gelebt wird.</p>
-          <p>Ich kann mir vorstellen, dass das Bundesamt für Sicherheit in der Informationstechnik perspektivisch zu einer unabhängigen Behörde nach dem Vorbild der Bundesdatenschutzbeauftragten weiterentwickelt wird. Eine solche unabhängige oberste Bundesbehörde hätte die Aufgabe, die IT-Sicherheit bei allen Verfassungsorganen sicherzustellen. Eine solche Behörde würde über die IT Sicherheit in unserem Land wachen. Eine solche unabhängige oberste Bundesbehörde wäre die Partnerin der Bundesdatenschutzbeauftragten.</p>
+          <p>Ich kann mir vorstellen, dass das Bundesamt für Sicherheit in der Informationstechnik perspektivisch zu einer unabhängigen Behörde nach dem Vorbild der Bundesdatenschutzbeauftragten weiterentwickelt wird. Eine solche unabhängige oberste Bundesbehörde hätte die Aufgabe, die IT-Sicherheit bei allen Verfassungsorganen sicherzustellen. Eine solche Behörde würde über die IT-Sicherheit in unserem Land wachen. Eine solche unabhängige oberste Bundesbehörde wäre die Partnerin der Bundesdatenschutzbeauftragten.</p>
           <p>Insgesamt liegt uns ein Gesetzentwurf vor, der rund und auch für die Opposition zustimmungsfähig ist. Die Koalitionsfraktionen haben bei der Verbesserung dieses Gesetzes gute Arbeit geleistet. Wir haben die wesentlichen Kritikpunkte aus der öffentlichen Anhörung aufgenommen. Das betrifft den Punkt der Sanktionsregime für den Fall von Verstößen gegen IT-Sicherheitsstandards, und das betrifft die Einbeziehung von Bundesbehörden in den Anwendungsbereich des Gesetzes. Besonders freut mich die obligatorische Evaluation, die aus diesem Haus gefordert wurde und nun Gesetz wird. Dafür ein großer Dank an die Kolleginnen und Kollegen!</p>
           <p>IT-Sicherheit, liebe Kolleginnen und Kollegen, ist eine Daueraufgabe. Wir sollten uns nicht scheuen, auch bei der Entwicklung des rechtlichen Rahmens auf der Höhe der Zeit zu sein.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält nun Renate Künast, Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Renate Künast" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Renate Künast">
+        <sp who="Renate Künast" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Renate Künast" party="GRUENE" name="Renate Künast">
           <speaker>Renate Künast (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Selten war ja eine Debatte im Deutschen Bundestag so tagesaktuell wie diese. Lassen Sie mich auf ein Zitat, das ich gestern gelesen habe, zu sprechen kommen. Da wurde geschrieben, das Bundesamt für Sicherheit in der Informationstechnik sei zu dem Ergebnis gekommen, dass das Netz des Bundestages nicht mehr gegen den Angriff verteidigt werden könne und aufgegeben werden müsse.</p>
           <stage type="interjection">(Volker Kauder [CDU/CSU]: Was? Der Bundestag muss aufgegeben werden?)</stage>
@@ -345,23 +345,23 @@
           <p>Mein Vorschlag lautet: Legen Sie gleich beide Gesetzentwürfe weg. Organisieren Sie Sicherheit als Prozess. Sorgen Sie für einen ständigen Anreiz für die Wirtschaft und die Betreiber der kritischen Infrastruktur, dranzubleiben. Setzen Sie Standards, und fangen Sie an, auch die sonstigen Rechtsbereiche anders zu regeln.</p>
           <p>Sicherheit stellen Sie übrigens nur her, wenn Sie Open-Source-Produkte nutzen.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Kollegin.</p>
         </sp>
-        <sp who="Renate Künast" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Renate Künast">
+        <sp who="Renate Künast" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Renate Künast" party="GRUENE" name="Renate Künast">
           <speaker>Renate Künast (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Letzter Gedanke. – Bei Open-Source-Produkten kann man Sicherheitslücken nicht verstecken, sondern jeder kann schauen, ob Sicherheitslücken bestehen und Abhilfe schaffen.</p>
           <stage type="interjection">(Beifall der Abg. Kathrin Vogler [DIE LINKE])</stage>
           <p>Sorgen Sie dafür, dass der Staat Sicherheitslücken nicht geheim hält oder sogar anhäuft. Fangen Sie endlich an. Sorgen Sie endlich für Sicherheit, nicht nur mittels moderner Technik, sondern auch durch kreative Analyseformen und das Durchspielen von Gefahrensituationen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Clemens Binninger ist der nächste Redner für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Clemens Binninger" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Clemens Binninger">
+        <sp who="Clemens Binninger" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Clemens Binninger" party="CDU" name="Clemens Binninger">
           <speaker>Clemens Binninger (CDU/CSU):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Der Innenminister hat vorhin einen interessanten Satz gesagt, den man etwas mit Fakten untermauern muss; denn dann wird das Problem, glaube ich, deutlich. Er hat gesagt: Über das Netz des Bundes, zu dem der Deutsche Bundestag nicht gehört, hat das BSI einen stabilen Schutzschild gelegt. Er verhindert Angriffe wie den, den wir jetzt erleben müssen.</p>
           <stage type="interjection">(Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Dann hoffe ich mal, dass morgen nicht das Gegenteil bewiesen wird!)</stage>
@@ -391,12 +391,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Christina Kampmann ist die nächste Rednerin für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Christina Kampmann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Christina Kampmann">
+        <sp who="Christina Kampmann" parliamentary_group="SPD" role="mp" position="NA" who_original="Christina Kampmann" party="SPD" name="Christina Kampmann">
           <speaker>Christina Kampmann (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! -Sicherheit spielt in der politischen Rhetorik eine immens große Rolle, egal ob wir über den G-7-Gipfel, den internationalen Terrorismus oder den Schutz vor Einbruch und Diebstahl reden. Für einen Bereich aber wurde dieses Thema viel zu lange vernachlässigt, nämlich für die gesamte Informationstechnologie. Bei aller Kritik an dem Gesetzentwurf, bei allen berechtigten Forderungen, noch weiterzugehen, und bei allen Zweifeln an den Details in der Umsetzung ist es gut, dass damit endlich Schluss ist, liebe Kolleginnen und Kollegen. Gut, dass wir dieses Thema endlich auf die politische Agenda gesetzt haben. Gut, dass die Große Koalition mit dem IT-Sicherheitsgesetz eines der ersten Vorhaben im Rahmen der Digitalen Agenda umsetzen wird.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
@@ -429,12 +429,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält nun der Kollege Hansjörg Durz für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Hansjörg Durz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Hansjörg Durz">
+        <sp who="Hansjörg Durz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hansjörg Durz" party="CSU" name="Hansjörg Durz">
           <speaker>Hansjörg Durz (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Meine sehr geehrten Damen und Herren! Bei der Einbringung und auch heute haben alle Redner betont: Die IT-Sicherheitslage in Deutschland ist angespannt. Der Hackerangriff auf unser Parlament – auch das wurde in vielen Reden erwähnt – ist das jüngste Beispiel dafür, wie verwundbar informationstechnische Systeme sind. Für unsere Wirtschaft hat KPMG ermittelt, dass 40 Prozent der deutschen Firmen in den vergangenen zwei Jahren Ziel von Computerkriminalität waren. Die dabei entstandene Schadenssumme geht in die Milliarden. Gestern hat BITKOM kommuniziert, dass Unternehmen bei der IT-Sicherheit deutlich nachbessern müssen. Die Schadsoftware wird immer komplexer und bleibt nicht selten unerkannt. Auch der letzte Bericht des BSI zur Lage der IT-Sicherheit in Deutschland stellte klar heraus, dass durch die zunehmende digitale Durchdringung und Vernetzung aller Lebensbereiche und Arbeitsbereiche eine dynamische Gefährdungslage entsteht. Anders ausgedrückt: Die zunehmende Vernetzung macht unsere Systeme insgesamt immer anfälliger.</p>
           <p>Genau hier setzt das IT-Sicherheitsgesetz an. Im Grundsatz klingt das Ziel des Gesetzes zunächst einfach: Um die Chancen der Digitalisierung erfolgreich nutzen zu können, ist es erforderlich, das IT-Sicherheitsniveau zu erhöhen. Das klingt einleuchtend, man könnte fast sagen: banal. Dass es aber alles andere als selbstverständlich ist, entsprechende Vorkehrungen zu treffen, belegen die eben zitierten Studien sehr eindeutig.</p>
@@ -453,12 +453,12 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Marian Wendt ist der letzte Redner zu diesem Tagesordnungspunkt für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Marian Wendt" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Marian Wendt">
+        <sp who="Marian Wendt" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Marian Wendt" party="CDU" name="Marian Wendt">
           <speaker>Marian Wendt (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine Damen und Herren! Der Stirb langsam-Filmheld John McLane kommentierte seinen Sieg über das Böse immer mit den Worten „Yippie-ya-yeah“. Auch in der vierten Folge mit dem finalen Sieg über den Cyberterroristen Thomas Gabriel nutzte er diese Worte. Dieser Cyberterrorist hatte zuvor die gesamte IT-Infrastruktur der Ostküste der Vereinigten Staaten lahmgelegt, um einen riesigen Raubzug durchzuführen. Das wäre ihm auch fast gelungen, hätte es nicht John McClane und seinen Mitstreiter gegeben. – Alles nur Film? Alles nur ausgedacht? Davon hat man 2007, als der Film veröffentlicht wurde, vielleicht noch überzeugt sein können. Jetzt und heute zu glauben, dass diese Geschichte – abgesehen von einigen Details – an den Haaren herbeigezogen ist, ist weltfremd.</p>
           <p>Da ich nun Ihre volle Aufmerksamkeit habe, können wir den vorliegenden Gesetzentwurf näher betrachten. Das IT-Sicherheitsgesetz, dessen Entwurf uns hier vorliegt, ist sicherlich sachlicher und dröger als der Klassiker Stirb langsam. Es gibt keine bekannten Helden, außer vielleicht dem BSI-Präsidenten Hange, und nur recht wenig Action.</p>
@@ -476,7 +476,7 @@
           <p>Das vorliegende IT-Sicherheitsgesetz ist ein entscheidender Schritt hin zur Absicherung unserer kritischen -Infrastruktur und zur allgemeinen IT-Sicherheit in Deutschland. Die klarere Rolle des Bundesamtes für -Sicherheit in der Informationstechnik ist zum Beispiel ein großer Erfolg. Dennoch ist das IT-Sicherheitsgesetz nur ein Mosaiksteinchen im immer wichtigeren Gesamtbild bei der Bekämpfung von Cybercrime, das meine Kollegen und ich im Rahmen der digitalen Agenda auf dem Schirm haben. Ich sehe das Gesetz – auch im Vorfeld der europäischen NIS-Direktive – als wegweisenden Schritt und freue mich daher heute über diesen Erfolg. Ich möchte fast sagen: Yippie-ya-yeah!</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Bevor wir zu den Abstimmungen über den von der Bundesregierung eingebrachten Gesetzentwurf und den Entschließungsantrag kommen, will ich noch eine Bemerkung zu dem in der Debatte aus guten Gründen mehrfach hergestellten Zusammenhang zwischen den Gesetzesvorschlägen und den konkreten Angriffen auf das Datennetz des Bundestages machen. Dazu hat es in den letzten Tagen neben begründeten Nachfragen manche bemerkenswerten öffentlichen Erklärungen einiger Kolleginnen und Kollegen gegeben, die für mich noch plausibler gemacht haben, warum wir in diesem Gesetzentwurf betroffenen Unternehmen die Vertraulichkeit zusagen, die wir für uns selbst offenkundig nicht gelten lassen wollen im Umgang mit der Aufklärung solcher sensibler Zusammenhänge.</p>
@@ -515,7 +515,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="2" what="debate" desc="a) Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwu...">
-        <sp who="Heiko Maas" parliamentary_group="NA" role="government" position="Bundesminister der Justiz und für Verbraucherschutz" party="SPD" name="Heiko Maas">
+        <sp who="Heiko Maas" parliamentary_group="NA" role="government" position="Bundesminister der Justiz und für Verbraucherschutz" who_original="Heiko Maas" party="SPD" name="Heiko Maas">
           <speaker>Heiko Maas, Bundesminister der Justiz und für Verbraucherschutz:</speaker>
           <p>Sehr geehrter Herr Präsident! Meine sehr verehrten Damen und Herren! Bei dem vorliegenden Gesetzentwurf stehen sich zwei große Werte gegenüber: Freiheit und Sicherheit. Da ist auf der einen Seite das Recht der Bürgerinnen und Bürger auf eine unkontrollierte, freie Telekommunikation. Sie wird geschützt durch Artikel 10 des Grundgesetzes. Zu ihr gehört nicht nur der Inhalt von Gesprächen, sondern auch die Information, wann von welchem Telefonanschluss welche Nummer angewählt worden ist. Auf der anderen Seite steht der Anspruch der Menschen auf eine effektive Strafverfolgung, auf eine rasche Aufklärung und Ahndung von Verbrechen und damit darauf, einen Beitrag zu leisten, dass weitere Verbrechen erst gar nicht geschehen. Hierfür geben wir mit diesem Gesetz den Sicherheitsbehörden bei schwersten Straftaten ein zusätzliches Instrument.</p>
           <p>Um zu beurteilen, wie tief der Eingriff in diese Werte und auch in die Rechte von Einzelpersonen ist, ist es sinnvoll, sich mit der Rechtslage auseinanderzusetzen, die wir jetzt haben. Nach § 100 g Absatz 1 der StPO ist es bereits heute, das heißt ohne dieses Gesetz, erlaubt, Verkehrsdaten zu erheben, und zwar ohne Wissen der Betroffenen – es handelt sich also um eine heimliche Ermittlungsmaßnahme –, um Straftaten von erheblicher Bedeutung aufzuklären. Die Erhebung bezieht sich auf Verkehrsdaten, das heißt auf alle Verbindungsdaten und auch auf alle Standortdaten, die bei der Telekommunikation und ihren Unternehmen gespeichert werden.</p>
@@ -559,12 +559,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Jan Korte für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN – Michael Grosse-Brömer [CDU/CSU]: Haben Sie ein Buch geschrieben?)</stage>
         </sp>
-        <sp who="Jan Korte" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Jan Korte">
+        <sp who="Jan Korte" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Jan Korte" party="DIE LINKE" name="Jan Korte">
           <speaker>Jan Korte (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Egal was Sie erzählen, wie Sie es nennen: Eine Vorratsdatenspeicherung bleibt eine Vorratsdatenspeicherung bleibt eine Vorratsdatenspeicherung. Deswegen lehnen wir sie ab.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -584,15 +584,15 @@
           <stage type="interjection">(Thomas Jarzombek [CDU/CSU]: In der -Sache!)</stage>
           <p>Ich will deswegen – es tut mir leid – auf die SPD eingehen. Ich glaube, bei der CDU/CSU ist in dieser Frage nichts mehr zu retten.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollege Korte, bevor Sie das tun: Der Kollege Wendt wünscht, eine Frage zu stellen oder eine Bemerkung zu machen.</p>
         </sp>
-        <sp who="Jan Korte" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Jan Korte">
+        <sp who="Jan Korte" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Jan Korte" party="DIE LINKE" name="Jan Korte">
           <speaker>Jan Korte (DIE LINKE):</speaker>
           <p>Je mehr Zeit für die Opposition, desto besser.</p>
         </sp>
-        <sp who="Marian Wendt" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Marian Wendt">
+        <sp who="Marian Wendt" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Marian Wendt" party="CDU" name="Marian Wendt">
           <speaker>Marian Wendt (CDU/CSU):</speaker>
           <p>Vielen Dank, Herr Kollege. – Bevor ich meine Frage an Sie richte, gestatten Sie mir die Zwischenbemerkung, dass ich es als kleinen Treppenwitz der Geschichte betrachte, dass sich gerade die Linkspartei als Nachfolgerin des SED-Staates zum Rechtsstaataufklärer und -verteidiger aufschwingt.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU – Ulla Jelpke [DIE LINKE]: Legt doch einmal eine andere Platte auf! – Weitere Zurufe von der LINKEN)</stage>
@@ -602,7 +602,7 @@
           <stage type="interjection">(Zuruf von der LINKEN: Das ist Polizei-arbeit!)</stage>
           <p>Vielen Dank.</p>
         </sp>
-        <sp who="Jan Korte" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Jan Korte">
+        <sp who="Jan Korte" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Jan Korte" party="DIE LINKE" name="Jan Korte">
           <speaker>Jan Korte (DIE LINKE):</speaker>
           <p>Vielen Dank, Herr Kollege. – Zunächst: Bei der Vorratsdatenspeicherung geht es um anlasslose Speicherung, nicht um anlassbezogene.</p>
           <stage type="interjection">(Beifall bei der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -655,12 +655,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN – Abg. Jan Korte [DIE LINKE] überreicht Bundesminister Heiko Maas Unterschriftenlisten – Michael Grosse-Brömer [CDU/CSU]: Wenn schon digital, dann gar kein Papier mehr!)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Parlamentarische Staatssekretär Dr. Günter Krings.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Günter Krings" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister des Innern" party="CDU" name="Günter Krings">
+        <sp who="Günter Krings" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister des Innern" who_original="Günter Krings" party="CDU" name="Günter Krings">
           <speaker>Dr. Günter Krings, Parl. Staatssekretär beim Bundesminister des Innern:</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Der letzte Redebeitrag hat gezeigt, dass zumindest der linke Teil der Opposition die verfassungsrechtliche Orientierung in Fragen der Speicherfristen für Verkehrsdaten ganz offensichtlich verloren hat. Ich möchte Ihrem politischen Tunnelblick gerne die verfassungsrechtliche Orientierung entgegensetzen und Ihnen diese Orientierung zurückgeben</p>
           <stage type="interjection">(Michael Grosse-Brömer [CDU/CSU]: Das ist wirklich anstrengend!)</stage>
@@ -690,11 +690,11 @@
           <p>Vielen herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Die Kollegin Katrin Göring-Eckardt hat für die Fraktion Bündnis 90/Die Grünen das Wort.</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Katrin Göring-Eckardt (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen! Liebe Kollegen! Lieber Herr Maas, das war wirklich eine schwere Rede für Sie. So viel habe ich Sie hier im Plenum noch nie ablesen sehen.</p>
           <stage type="interjection">(Dagmar Ziegler [SPD]: Das stimmt noch nicht mal! – Thomas Strobl [Heilbronn] [CDU/CSU]: Sie lesen ja auch ab! – Volker Kauder [CDU/CSU]: Reden Sie doch mal frei! Zettel weg! – Michael Grosse-Brömer [CDU/CSU]: Wie wäre es denn mal mit einer sachlichen Auseinandersetzung? – Thomas Jarzombek [CDU/CS]): Das müssen Sie gerade sagen!)</stage>
@@ -745,12 +745,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat die Kollegin Dr. Eva Högl für die SPD Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Eva Högl" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Eva Högl">
+        <sp who="Eva Högl" parliamentary_group="SPD" role="mp" position="NA" who_original="Eva Högl" party="SPD" name="Eva Högl">
           <speaker>Dr. Eva Högl (SPD):</speaker>
           <p>Liebe Frau Präsidentin! Liebe Kolleginnen und Kollegen! Meine sehr geehrten Damen und Herren! Im Jahr 1987 habe ich gemeinsam mit vielen Bürgerinnen und Bürgern in der Bundesrepublik Deutschland gegen die geplante Volkszählung demonstriert. Vielleicht haben das auch einige von Ihnen gemacht.</p>
           <stage type="interjection">(Thomas Strobl [Heilbronn] [CDU/CSU]: Nein!)</stage>
@@ -779,12 +779,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat die Kollegin Halina Wawzyniak für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Halina Wawzyniak" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Halina Wawzyniak">
+        <sp who="Halina Wawzyniak" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Halina Wawzyniak" party="DIE LINKE" name="Halina Wawzyniak">
           <speaker>Halina Wawzyniak (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Kolleginnen und Kollegen! Bisher dürfen Telekommunikationsanbieter zu Abrechnungszwecken Daten speichern. Wenn die Vorratsdatenspeicherung durchkommt, müssen sie es machen.</p>
           <p>Dass der Gesetzentwurf Grundrechte einschränkt, ist unstreitig. Wenn wir grundrechtseinschränkende Gesetzesvorhaben beraten, dann prüfen wir, ob sie geeignet, erforderlich und angemessen sind. Meistens diskutieren wir über die Angemessenheit bzw. die Verhältnismäßigkeit im engeren Sinne. Doch so weit kommen wir mit der Vorratsdatenspeicherung gar nicht. Denn die Erforderlichkeit der Vorratsdatenspeicherung ist nicht belegbar.</p>
@@ -808,28 +808,28 @@
           <stage type="interjection">(Abg. Dirk Wiese [SPD] meldet sich zu einer Zwischenfrage)</stage>
           <p>– Ich lasse die Frage zu.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Herr Kollege Wiese, Sie haben das Wort zu einer Frage oder einer Bemerkung.</p>
         </sp>
-        <sp who="Dirk Wiese" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dirk Wiese">
+        <sp who="Dirk Wiese" parliamentary_group="SPD" role="mp" position="NA" who_original="Dirk Wiese" party="SPD" name="Dirk Wiese">
           <speaker>Dirk Wiese (SPD):</speaker>
           <p>Vielen Dank, dass Sie die Frage zulassen. – Sie haben gerade ausführlich aus dem Gutachten des Max-Planck-Instituts für ausländisches und internationales Strafrecht vom Juli 2011 zitiert. Dieses Gutachten ist sehr umfangreich. Stimmen Sie mir zu, dass auf Seite 218 des Gutachtens steht, dass es sich um eine „Momentaufnahme“ handelt? Bestätigen Sie weiterhin, dass auf Seite 218 des Gutachtens steht, dass es sich um eine „unsichere statistische Datengrundlage“ handelt?</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU – Thomas Strobl [Heilbronn] [CDU/CSU]: Ja, Sie hätten weiterlesen müssen! – Dr. Volker Ullrich [CDU/CSU]: Alter juristischer Grundsatz: Immer noch umblättern!)</stage>
         </sp>
-        <sp who="Halina Wawzyniak" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Halina Wawzyniak">
+        <sp who="Halina Wawzyniak" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Halina Wawzyniak" party="DIE LINKE" name="Halina Wawzyniak">
           <speaker>Halina Wawzyniak (DIE LINKE):</speaker>
           <p>Da die von mir zitierten Passagen – die Einschätzung des Max-Planck-Instituts – auf den Seiten 219 und 220 stehen, ist Ihre Erkenntnis überholt, da die Seiten 219 und 220 nach der Seite 218 kommen.</p>
           <stage type="interjection">(Beifall bei der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Es hilft also nichts, einzelne Änderungen an Ihrem Gesetzentwurf anzuregen. Der Gesetzentwurf ist rechtspolitisch eine Katastrophe und rechtsstaatlich nicht akzeptabel, und es gibt nur einen Ort, wo er hingehört: in den Reißwolf.</p>
           <stage type="interjection">(Beifall bei der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Der Kollege Thomas Strobl hat für die CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie der Abg. Dagmar Ziegler [SPD])</stage>
         </sp>
-        <sp who="Thomas Strobl" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Thomas Strobl">
+        <sp who="Thomas Strobl (Heilbronn)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Thomas Strobl (Heilbronn)" party="CDU" name="Thomas Strobl">
           <speaker>Thomas Strobl (Heilbronn) (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Auch in der heutigen Debatte ist insbesondere von der Linken davon gesprochen worden, dass es bei uns Massenüberwachung, Massenspeicherung, Totalüberwachung geben soll.</p>
           <stage type="interjection">(Jan Korte [DIE LINKE]: Demnächst! – Weiterer Zuruf von der LINKEN: Hat niemand gesagt!)</stage>
@@ -865,11 +865,11 @@
           <p>Danke fürs Zuhören.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Die Kollegin Katja Keul hat für die Fraktion Bündnis 90/Die Grünen das Wort.</p>
         </sp>
-        <sp who="Katja Keul" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Katja Keul">
+        <sp who="Katja Keul" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Katja Keul" party="GRUENE" name="Katja Keul">
           <speaker>Katja Keul (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Am 18. März dieses Jahres haben wir hier in einer Aktuellen Stunde über die geplante Vorratsdatenspeicherung debattiert. Gestern habe ich mir noch einmal das Protokoll angesehen und darin interessante Zwischenrufe aus der SPD gefunden. Als ich sagte, die Vorschläge der SPD-Führung ließen an deren Rechtsverständnis zweifeln, da riefen die Kollegen Flisek und Klingbeil, die heute im Übrigen wohl aus gutem Grunde gar nicht da sind: „Es gibt doch gar keine Vorschläge!“, und: „Welche Vorschläge denn?“</p>
           <stage type="interjection">(Dr. Eva Högl [SPD]: Herr Flisek ist krank!)</stage>
@@ -904,12 +904,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die SPD-Fraktion hat der Kollege Dr. Johannes Fechner das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Johannes Fechner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Johannes Fechner">
+        <sp who="Johannes Fechner" parliamentary_group="SPD" role="mp" position="NA" who_original="Johannes Fechner" party="SPD" name="Johannes Fechner">
           <speaker>Dr. Johannes Fechner (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Liebe Zuhörerinnen und Zuhörer! Wenn wir Verbindungsdaten anlasslos speichern, dann ist das ohne Zweifel ein Grundrechtseingriff, den wir als Gesetzgeber gut begründen und rechtfertigen müssen. Ich meine, dass es vor allem zwei Aspekte sind, die es rechtfertigen, den vorliegenden Gesetzentwurf zu beschließen, zwei Aspekte, weshalb dieser Gesetzentwurf sinnvoll und erforderlich ist.</p>
           <p>Erstens. Wir haben uns in vielen Gesprächen mit Praktikern, Richtern und Staatsanwälten – es waren keine Scharfmacher, sondern erfahrene und besonnene Richter und Staatsanwälte – davon überzeugt, dass es Beispielsfälle gibt, in denen dieses Instrument notwendig ist, weil damit Verbrechen aufgeklärt werden können, weil dadurch Täter ermittelt werden können und weil dadurch zukünftig Verbrechen verhindert werden können.</p>
@@ -938,12 +938,12 @@
           <p>Für mich ist dieser Gesetzentwurf deshalb ein Baustein für mehr Sicherheit, möglicherweise kein Allheilmittel. Damit verbunden ist zugegebenermaßen ein Grundrechtseingriff, aber kein ungerechtfertigter. Und er läutet bestimmt nicht das Ende der modernen digitalen Gesellschaft ein. Dieser sehr restriktive Gesetzentwurf ist ein gelungener Interessenausgleich zwischen der Sicherung der bürgerlichen Freiheiten einerseits und dem berechtigten Anliegen der Bevölkerung auf eine effektive Kriminalitätsbekämpfung andererseits.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Die Kollegin Elisabeth Winkelmeier-Becker hat für die CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Elisabeth Winkelmeier-Becker" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Elisabeth Winkelmeier-Becker">
+        <sp who="Elisabeth Winkelmeier-Becker" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Elisabeth Winkelmeier-Becker" party="CDU" name="Elisabeth Winkelmeier-Becker">
           <speaker>Elisabeth Winkelmeier-Becker (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Liebe Zuhörer! Sie haben es gemerkt: Wir freuen uns sehr, dass wir heute mit diesem Gesetzentwurf endlich ins parlamentarische Verfahren gehen können</p>
           <stage type="interjection">(Jan Korte [DIE LINKE]: Endlich!)</stage>
@@ -981,31 +981,31 @@
           <p>Ich bin sicher: Wenn diese Studie im zweiten Versuch nicht das gewünschte Ergebnis gebracht hätte, wäre sie so zerpflückt worden, wie sie es verdient hätte. Selbst der Direktor des Max-Planck-Instituts und Leiter der strafrechtlichen Abteilung, Professor Dr. Ulrich Sieber, schreibt in dem Band über die Verhandlungen des Deutschen Juristentages, den er mit herausgegeben hat:</p>
           <p>Die bisherige Vorratsdatenspeicherung war in zahlreichen Fällen ein entscheidender und oft der einzige Aufklärungsansatz für die Verfolgung von Straftaten. Sie hat auch eine große Bedeutung bei der Ermittlung von organisierten Täterstrukturen.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Frau Kollegin.</p>
         </sp>
-        <sp who="Elisabeth Winkelmeier-Becker" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Elisabeth Winkelmeier-Becker">
+        <sp who="Elisabeth Winkelmeier-Becker" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Elisabeth Winkelmeier-Becker" party="CDU" name="Elisabeth Winkelmeier-Becker">
           <speaker>Elisabeth Winkelmeier-Becker (CDU/CSU):</speaker>
           <p>Auch er hält das für wichtiger als die erkennbare Auswirkung auf die Statistik.</p>
           <p>Fragen Sie den Deutschen Richterbund, fragen Sie die Generalstaatsanwälte, fragen Sie den Sachverständigen Franosch, der als Sachverständiger vor kurzem im Edathy-Untersuchungsausschuss ausgesagt hat. Wir werden ihn auch als Sachverständigen in unserer Sachverständigenanhörung hören.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Sehr geehrte Kollegin, ich muss Sie darauf aufmerksam machen, dass Sie jetzt auf Kosten Ihrer noch nachfolgenden Kollegen sprechen.</p>
         </sp>
-        <sp who="Elisabeth Winkelmeier-Becker" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Elisabeth Winkelmeier-Becker">
+        <sp who="Elisabeth Winkelmeier-Becker" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Elisabeth Winkelmeier-Becker" party="CDU" name="Elisabeth Winkelmeier-Becker">
           <speaker>Elisabeth Winkelmeier-Becker (CDU/CSU):</speaker>
           <p>Entscheiden Sie, wem Sie mehr glauben und vertrauen. Ich vertraue auf die Praktiker, die uns das Richtige sagen.</p>
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Dr. Volker Ullrich für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Volker Ullrich" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Volker Michael Ullrich">
+        <sp who="Volker Ullrich" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Volker Ullrich" party="CSU" name="Volker Ullrich">
           <speaker>Dr. Volker Ullrich (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Folgende Frage liegt der heutigen Debatte zugrunde: Wie kann der Staat den Schutz der Bürger gewährleisten und ihre Freiheitsrechte sichern, ohne selbst zu tief in Grundrechte einzugreifen? Dem Gesetzentwurf zur Einführung einer Speicherpflicht für Verbindungsdaten gelingt diese Balance. Er ist eine geeignete und verhältnismäßige Antwort des wehrhaften und demokratischen Rechtsstaates.</p>
           <stage type="interjection">(Jan Korte [DIE LINKE]: Stimmt nicht!)</stage>
@@ -1037,12 +1037,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie der Abg. Dagmar Ziegler [SPD])</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Der Kollege Thomas Jarzombek hat für die CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Thomas Jarzombek" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Thomas Jarzombek">
+        <sp who="Thomas Jarzombek" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Thomas Jarzombek" party="CDU" name="Thomas Jarzombek">
           <speaker>Thomas Jarzombek (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren!</p>
           <p>Wir wollen ein Internet der Freiheit. Dabei hat für uns Freiheit ohne Verantwortung keinen Wert.</p>
@@ -1063,7 +1063,7 @@
           <p>Vielen Dank, meine Damen und Herren.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird die Überweisung der Vorlagen auf den Drucksachen 18/5088 und 18/4971 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? – Das ist der Fall. Dann sind die Überweisungen so beschlossen.</p>
@@ -1077,7 +1077,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="3" what="debate" desc="Beratung des Antrags der Abgeordneten Klaus Ernst, Matthias W. Birkwald, Dr. Die...">
-        <sp who="Klaus Ernst" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Klaus Ernst">
+        <sp who="Klaus Ernst" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Klaus Ernst" party="DIE LINKE" name="Klaus Ernst">
           <speaker>Klaus Ernst (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Dank der Linken haben Sie wieder einmal die Möglichkeit, tatsächlich die Interessen der Bürger aufzugreifen: Sie brauchen sich nur mit dem von uns vorgelegten Antrag gegen die privaten Schiedsgerichte auszusprechen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der LINKEN – Peter Beyer [CDU/CSU]: Die heute-show kommt doch erst heute Abend! – Gegenruf der Abg. Elisabeth Winkelmeier-Becker [CDU/CSU]: Die hat Sommerpause!)</stage>
@@ -1102,7 +1102,7 @@
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
           <p>Ich habe auch noch Slowenien vergessen, um das deutlich zu sagen. So, es sind 14 Länder. Offiziell nötig wären nur 7, um eine entsprechende Europäische Bürgerinitiative zum Erfolg zu bringen.</p>
           <p>Meine Damen und Herren, Investor-Staat-Klagemöglichkeiten sind eine Gefahr für die demokratischen Strukturen. Das wissen Sie; deshalb gibt es bei den Sozialdemokraten Gott sei Dank auch erheblichen Widerstand dagegen. Staaten können in Millionenhöhe, nein, in Milliardenhöhe verklagt werden – wie die Bundesrepublik Deutschland derzeit von Vattenfall verklagt wird vor einem internationalen Schiedsgericht. Meine Damen und Herren, ausländische Investoren werden bessergestellt als einheimische. Das Klagerecht bekommen nur internationale Konzerne, aber nie die Bürger.</p>
-          <p>Jetzt schlägt Herr Gabriel einen staatlich organisierten internationalen Gerichtshof vor. Meine Damen und Herren, das ändert aber nichts an dem Punkt, und das wissen Sie auch genau. Frau Malmström hat Ihnen gesagt, dass es kurzfristig schlichtweg nicht möglich ist, einen solchen Gerichtshof zu installieren. In CETA, in dem Abkommen mit Kanada, ist es nun eindeutig so, dass diese Schiedsgerichte vereinbart sind, und zwar die alten, nicht die nach dem Vorschlag von Gabriel. </p>
+          <p>Jetzt schlägt Herr Gabriel einen staatlich organisierten internationalen Gerichtshof vor. Meine Damen und Herren, das ändert aber nichts an dem Punkt, und das wissen Sie auch genau. Frau Malmström hat Ihnen gesagt, dass es kurzfristig schlichtweg nicht möglich ist, einen solchen Gerichtshof zu installieren. In CETA, in dem Abkommen mit Kanada, ist es nun eindeutig so, dass diese Schiedsgerichte vereinbart sind, und zwar die alten, nicht die nach dem Vorschlag von Gabriel.</p>
           <p>Wenn Sie also wenigstens den Vorschlag Ihres eigenen Parteivorsitzenden ernst nehmen würden, dann müssten Sie aus diesem Grunde CETA ablehnen, weil Sie diese Dinge sonst automatisch auch bei TTIP nicht mehr loswerden.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
           <p>Aber auch das tun Sie nicht, sondern Sie eiern herum. Wer an einen solchen Gerichtshof glaubt, der glaubt auch, dass der Storch die Kinder bringt. Ich glaube, dem einen oder anderen ist aus der Realität etwas anderes bekannt.</p>
@@ -1113,12 +1113,12 @@
           <p>Danke fürs Zuhören.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie des Abg. Dieter Janecek [BÜNDNIS 90/DIE GRÜNEN])</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Der Kollege Andreas Lämmel hat für die CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Andreas G. Lämmel" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Andreas Lämmel">
+        <sp who="Andreas G. Lämmel" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Andreas G. Lämmel" party="CDU" name="Andreas G. Lämmel">
           <speaker>Andreas G. Lämmel (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Herr Ernst, Sie bescheren uns heute, am Freitagmittag, noch eine Debatte zu TTIP und Schiedsgerichten.</p>
           <stage type="interjection">(Alexander Ulrich [DIE LINKE]: Eine schöne Debatte!)</stage>
@@ -1156,19 +1156,19 @@
           <stage type="interjection">(Alexander Ulrich [DIE LINKE]: Was sagen Sie zu den 40 000 in München?)</stage>
           <p>– Sie haben nicht ein einziges Argument vorgebracht. Das ist ja das Problem.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollege Lämmel, gestatten Sie eine Frage oder Bemerkung des Kollegen Ernst?</p>
         </sp>
-        <sp who="Andreas G. Lämmel" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Andreas Lämmel">
+        <sp who="Andreas G. Lämmel" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Andreas G. Lämmel" party="CDU" name="Andreas G. Lämmel">
           <speaker>Andreas G. Lämmel (CDU/CSU):</speaker>
           <p>Eine würde ich versuchen. – Herr Ernst, legen Sie los, die Zeit läuft mir sonst davon.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Die Uhr ist angehalten.</p>
         </sp>
-        <sp who="Klaus Ernst" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Klaus Ernst">
+        <sp who="Klaus Ernst" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Klaus Ernst" party="DIE LINKE" name="Klaus Ernst">
           <speaker>Klaus Ernst (DIE LINKE):</speaker>
           <p>Herr Lämmel, Ihren Ausführungen ist deutlich zu entnehmen, dass Sie ein Problem mit der Gerichtsbarkeit der Bundesrepublik Deutschland haben.</p>
           <stage type="interjection">(Peter Beyer [CDU/CSU]: Frage!)</stage>
@@ -1177,7 +1177,7 @@
           <p>Ein zweiter Punkt, Herr Lämmel. Wir haben ja die Möglichkeit, unterirdisch zu diesem Saal zu gelangen. Ich würde Ihnen empfehlen, einmal wieder von vorne in diesen schönen Reichstag zu gehen. Dort steht: „Dem deutschen Volke“, und nicht: „Der deutschen Exportwirtschaft“.</p>
           <stage type="interjection">(Beifall bei der LINKEN – Dagmar Ziegler [SPD]: Oh Gott!)</stage>
         </sp>
-        <sp who="Andreas G. Lämmel" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Andreas Lämmel">
+        <sp who="Andreas G. Lämmel" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Andreas G. Lämmel" party="CDU" name="Andreas G. Lämmel">
           <speaker>Andreas G. Lämmel (CDU/CSU):</speaker>
           <p>Das war der gleiche Stil, den Sie schon in Ihrer Rede gezeigt haben, Herr Ernst. Ich hatte gedacht, Sie hätten mir zugehört. Ich habe gesagt: Schiedsgerichte gibt es auf allen Ebenen in der Welt, und sie funktionieren.</p>
           <stage type="interjection">(Zuruf der Abg. Heike Hänsel [DIE LINKE])</stage>
@@ -1188,16 +1188,16 @@
           <stage type="interjection">(Klaus Ernst [DIE LINKE]: Das ist doch Gericht! Das ist doch nur ein privates Gericht, aber ein Gericht!)</stage>
           <p>– Das hat doch mit einem privaten Gericht nichts zu tun. Herr Ernst, schauen Sie sich nur einmal die Schiedsgerichtsverfahren bei der WTO an. Dort können Sie sehen, was Schiedsgerichte leisten. Dann werden Sie Ihre Meinung dazu wahrscheinlich ändern.</p>
           <stage type="interjection">(Peter Beyer [CDU/CSU]: Glaube ich nicht! Hoffnung verloren!)</stage>
-          <p>Meine Damen und Herren, um das noch einmal zusammenzufassen: Wir gehen davon aus, dass das Verfahren zu den internationalen Schiedsgerichten im Zusammenhang mit den TTIP-Verhandlungen im Moment ausgesetzt ist und in den Verhandlungsteams in Brüssel darüber diskutiert wird, wie man ein Schiedsgerichtsverfahren, ein Investorenschutzverfahren so modern ausgestalten kann, dass es in der Welt Maßstäbe setzt. TTIP wird, wenn es zum Abschluss kommt, Maßstäbe setzen. Dadurch werden natürlich gerade die Bedingungen für Schiedsgerichte definiert. Diese Maßstäbe werden bei anderen Abkommen nicht mehr unterschritten werden können. </p>
+          <p>Meine Damen und Herren, um das noch einmal zusammenzufassen: Wir gehen davon aus, dass das Verfahren zu den internationalen Schiedsgerichten im Zusammenhang mit den TTIP-Verhandlungen im Moment ausgesetzt ist und in den Verhandlungsteams in Brüssel darüber diskutiert wird, wie man ein Schiedsgerichtsverfahren, ein Investorenschutzverfahren so modern ausgestalten kann, dass es in der Welt Maßstäbe setzt. TTIP wird, wenn es zum Abschluss kommt, Maßstäbe setzen. Dadurch werden natürlich gerade die Bedingungen für Schiedsgerichte definiert. Diese Maßstäbe werden bei anderen Abkommen nicht mehr unterschritten werden können.</p>
           <p>Wir lehnen es ab, über Ihren Antrag in der Sache zu entscheiden, und werden eine Überweisung beantragen. Ich kann nur dazu aufrufen: Wenn man dem deutschen Volke dienen will, dann muss man eine sachliche Diskussion führen, und man darf keine Polemik betreiben, wie es die Linke die ganze Zeit tut.</p>
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Dieter Janecek für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Dieter Janecek" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Dieter Janecek">
+        <sp who="Dieter Janecek" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Dieter Janecek" party="GRUENE" name="Dieter Janecek">
           <speaker>Dieter Janecek (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Das ist eine lebhafte Diskussion. Aber ich muss Ihnen, Herr Lämmel, schon sagen: In den ersten Minuten hatte ich den Eindruck, dass Sie nicht über Schiedsgerichte im Rahmen der Freihandelsabkommen zwischen den zwei größten Handelszonen der Welt reden; es klang eher nach Nachbarschaftsstreit und Schiedsrichtern auf dem Fußballplatz. Ein bisschen ernster sollten wir das schon formulieren;</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -1233,12 +1233,12 @@
           <p>In diesem Sinne danke ich Ihnen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Der Kollege Dirk Wiese hat für die SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dirk Wiese" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dirk Wiese">
+        <sp who="Dirk Wiese" parliamentary_group="SPD" role="mp" position="NA" who_original="Dirk Wiese" party="SPD" name="Dirk Wiese">
           <speaker>Dirk Wiese (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Es ist gut, dass endlich über das Für und Wider von Freihandelsabkommen diskutiert wird. Das ist eine große Errungenschaft, die in den letzten Monaten endlich erreicht wurde.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
@@ -1286,29 +1286,29 @@
           <p>Faymann erteilt TTIP keine grundsätzliche Absage, sondern will dieses Abkommen, wie die SPD, reformieren; er will gestalten. Das ist etwas ganz anderes, als Sie wollen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD – Klaus Ernst [DIE LINKE]: Er will die Schiedsgerichte nicht! Das hat er gesagt! Das ist unser Antrag! Lesen bildet!)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Herr Kollege, gestatten Sie eine Zwischenfrage der Abgeordneten Hänsel?</p>
         </sp>
-        <sp who="Dirk Wiese" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dirk Wiese">
+        <sp who="Dirk Wiese" parliamentary_group="SPD" role="mp" position="NA" who_original="Dirk Wiese" party="SPD" name="Dirk Wiese">
           <speaker>Dirk Wiese (SPD):</speaker>
           <p>Ja klar, selbstverständlich.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Bitte schön, Frau Hänsel.</p>
         </sp>
-        <sp who="Heike Hänsel" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Heike Hänsel">
+        <sp who="Heike Hänsel" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Heike Hänsel" party="DIE LINKE" name="Heike Hänsel">
           <speaker>Heike Hänsel (DIE LINKE):</speaker>
           <p>Danke schön, Frau Präsidentin. – Lieber Kollege Wiese, Sie machen hier jetzt den starken Max.</p>
           <stage type="interjection">(Beifall des Abg. Alexander Ulrich [DIE LINKE])</stage>
           <p>Das alles ist ja auch schön und gut. Sie sagen, wie Gabriel sich hier einsetzt, was alles auf der Tagesordnung ist usw.</p>
-          <p>In dieser Woche erfolgte im Unterausschuss eine Unterrichtung. Es ging unter anderem darum, was beim G 7-Gipfel diskutiert und behandelt wurde. Ich habe nachgefragt, ob die alternativen Ideen zu einem internationalen Schiedsgericht zur Sprache gekommen sind und ob die Diskussionen, die wir hier führen, beim G-7-Gipfel behandelt oder auch nur mit einem Wort einmal erwähnt wurden. Die Antwort war: Nein, es wurde auf dem G-7-Gipfel überhaupt nicht darüber diskutiert, ob die Schiedsgerichte vielleicht hinterfragt werden. Das war kein Thema.</p>
+          <p>In dieser Woche erfolgte im Unterausschuss eine Unterrichtung. Es ging unter anderem darum, was beim G-7-Gipfel diskutiert und behandelt wurde. Ich habe nachgefragt, ob die alternativen Ideen zu einem internationalen Schiedsgericht zur Sprache gekommen sind und ob die Diskussionen, die wir hier führen, beim G-7-Gipfel behandelt oder auch nur mit einem Wort einmal erwähnt wurden. Die Antwort war: Nein, es wurde auf dem G-7-Gipfel überhaupt nicht darüber diskutiert, ob die Schiedsgerichte vielleicht hinterfragt werden. Das war kein Thema.</p>
           <stage type="interjection">(Peter Beyer [CDU/CSU]: Sie wissen schon, wer das verhandelt?)</stage>
           <p>Ich frage mich, wie Sie sich eigentlich hierhinstellen und uns so eine Nummer vorspielen können. Sie bauen einen Popanz auf, hinter dem real überhaupt nichts steht. Das ist nur heiße Luft.</p>
           <stage type="interjection">(Beifall bei der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dirk Wiese" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dirk Wiese">
+        <sp who="Dirk Wiese" parliamentary_group="SPD" role="mp" position="NA" who_original="Dirk Wiese" party="SPD" name="Dirk Wiese">
           <speaker>Dirk Wiese (SPD):</speaker>
           <p>Frau Kollegin Hänsel, ich danke Ihnen für die Frage und dafür, dass ich das noch einmal klarstellen kann. – Wir haben zusammen in dem Unterausschuss gesessen, und die Verantwortliche aus dem Bundeskanzleramt, sozusagen die Sherpa, die den G-7-Gipfel vorbereitet hat, hat auf Ihre Frage hin gesagt, dass das nicht konkret besprochen worden ist. Sie müssen ja wissen, wer am Tisch gesessen hat.</p>
           <p>In der Abschlusserklärung steht etwas zum Freihandelsabkommen mit Japan und zum transpazifischen Abkommen. Außerdem steht darin, dass der WTO-post-Bali-Prozess vorangebracht werden soll, und am Ende steht der entscheidende Satz – diesen haben Sie gerade auch bewusst unterschlagen –, dass wir bis zum Jahresende nicht zu einem Abschluss der TTIP-Verhandlungen kommen werden. Sie sagen doch immer, das werde in nächster Zeit abgestimmt und dass bis zum Jahresende etwas vorliegen soll.</p>
@@ -1321,12 +1321,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächster Redner ist Professor Dr. Heribert Hirte, CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Heribert Hirte" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Heribert Hirte">
+        <sp who="Heribert Hirte" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Heribert Hirte" party="CDU" name="Heribert Hirte">
           <speaker>Dr. Heribert Hirte (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Es ist wie immer bei Anträgen von den Linken: sehr laut und nicht lustig. Lustig war es bei der SPD; das muss man eingangs wirklich einmal sagen.</p>
           <stage type="interjection">(Alexander Ulrich [DIE LINKE]: Was war denn da lustig?)</stage>
@@ -1350,21 +1350,21 @@
           <stage type="interjection">(Zuruf der Abg. Heike Hänsel [DIE LINKE])</stage>
           <p>Wenn wir ihm das erleichtern, ist das gelebte Subsidiarität. Es geht darum, dass die Unternehmen des einen Staates unmittelbar in dem anderen Staat klagen können. Ich würde mir wünschen, wir hätten eine solche Regelung auch bei Doppelbesteuerungsabkommen, sodass die Kläger ihre Rechte unmittelbar gegenüber den Begünstigten geltend machen können.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Herr Kollege Hirte, gestatten Sie eine Zwischenfrage des Kollegen Ernst?</p>
           <stage type="interjection">(Zurufe von der CDU/CSU: Oh nein!)</stage>
         </sp>
-        <sp who="Dr. Heribert Hirte" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Heribert Hirte">
+        <sp who="Heribert Hirte" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Heribert Hirte" party="CDU" name="Heribert Hirte">
           <speaker>Dr. Heribert Hirte (CDU/CSU):</speaker>
           <p>Schon wieder? Vielleicht in ein paar Minuten; es könnte sein, dass sich die Frage dann schon erledigt hat.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>In ein paar Minuten haben Sie keine Redezeit mehr. Dann geht es nicht mehr. Sie sagen also Nein? – Bitte schön.</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Danke, Heribert!)</stage>
         </sp>
-        <sp who="Dr. Heribert Hirte" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Heribert Hirte">
+        <sp who="Heribert Hirte" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Heribert Hirte" party="CDU" name="Heribert Hirte">
           <speaker>Dr. Heribert Hirte (CDU/CSU):</speaker>
           <p>Das bedeutet doch, dass es um eines geht: Irreführung, Fehlangaben, Fehldarstellungen. Das verbreiten Sie hier. Dem sitzen leider viele Leute in unserem Land auf. Das bedeutet: Wir müssen die Dinge richtigstellen. Daran arbeiten wir. Ich finde es bedauerlich, dass sich der Deutsche Gewerkschaftsbund jetzt auch in die Liste der TTIP-Gegner eingereiht hat.</p>
           <stage type="interjection">(Beifall des Abg. Alexander Ulrich [DIE LINKE])</stage>
@@ -1387,11 +1387,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Das Wort zu einer Kurzintervention hat jetzt der Kollege Klaus Ernst.</p>
         </sp>
-        <sp who="Klaus Ernst" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Klaus Ernst">
+        <sp who="Klaus Ernst" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Klaus Ernst" party="DIE LINKE" name="Klaus Ernst">
           <speaker>Klaus Ernst (DIE LINKE):</speaker>
           <p>Herr Hirte, Sie haben uns vorgeworfen – ich darf -zitieren –: Irreführung, Falschdarstellungen.</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: So ist es!)</stage>
@@ -1399,11 +1399,11 @@
           <p>Erstens. Können Sie ein Unternehmen mit unter 100 Beschäftigten nennen, das vor einem bestehenden internationalen Gerichtshof geklagt hat? Sie werden keines finden. Alle Unternehmen, die bisher vor internationalen Schiedsgerichten geklagt haben, waren große Konzerne: Vattenfall, Lone Pine, Philip Morris. Sie behaupten aber hier, es gehe bei diesen Fragen mehr um die Kleinen, und Sie werfen uns Fehldarstellungen vor. Es ist eine eklatante Fehldarstellung, zu sagen, es gehe bei diesen Fragen um die kleinen Unternehmen. Es geht in der Praxis schlichtweg um die großen Konzerne.</p>
           <p>Zweitens. Sie haben gesagt, es gehe nun darum, diese Vorschläge ernst zu nehmen und zu implementieren. Glauben Sie wirklich, und das ist eine Frage, die Sie gern beantworten können, dass im CETA, dem Freihandelsabkommen mit Kanada, das fertig verhandelt wurde, die Vorschläge eines internationalen Handelsgerichtshofes noch eine Rolle spielen? Und wie würden Sie sich verhalten, wenn diese Vorschläge im CETA nicht berücksichtigt werden? Stimmen Sie dann zu, oder stimmen Sie dagegen? Und genau das müssen sich auch die Sozialdemokraten überlegen.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Jetzt hat der Kollege Hirte die Gelegenheit, zu antworten. – Bitte schön.</p>
         </sp>
-        <sp who="Dr. Heribert Hirte" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Heribert Hirte">
+        <sp who="Heribert Hirte" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Heribert Hirte" party="CDU" name="Heribert Hirte">
           <speaker>Dr. Heribert Hirte (CDU/CSU):</speaker>
           <p>Sie haben es richtig gesagt: Sie reden über die Vergangenheit.</p>
           <stage type="interjection">(Klaus Ernst [DIE LINKE]: Zukunft! CETA!)</stage>
@@ -1413,12 +1413,12 @@
           <p>Wenn Sie nach CETA fragen: Über CETA reden wir gesondert, wenn die Abstimmung darüber ansteht. Dann werden wir gucken, wie weit wir bei dem Thema Schiedsverfahren sind, und dann werden wir da auch eine Entscheidung treffen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Danke schön. – Für die SPD-Fraktion erhält jetzt Dr. Nina Scheer das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Nina Scheer" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Nina Scheer">
+        <sp who="Nina Scheer" parliamentary_group="SPD" role="mp" position="NA" who_original="Nina Scheer" party="SPD" name="Nina Scheer">
           <speaker>Dr. Nina Scheer (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine lieben Kolleginnen und Kollegen! Ich denke, wir alle hier in diesem Haus sollten uns vergegenwärtigen, warum wir diese Diskussionen führen. Der Grund ist, dass wir eine Prozessverantwortung zu übernehmen haben. Es geht darum, dass sich die Parlamentarier, auch wenn sie nicht unmittelbar am Verhandlungstisch sitzen, damit befassen sollten, was zwischen der Erteilung eines Verhandlungsmandats und dem späteren Abschluss eines Handelsabkommens steht.</p>
           <p>Zwischen dem formaljuristischen Auftrag an die Kommission, doch bitte etwas auszuhandeln, und der späteren Aufforderung zur Ratifizierung kann sich einiges verändert haben. Diese Änderungen liegen in der Natur der Sache von solchen über Jahre auszuhandelnden Abkommen. Deswegen sollten wir uns hier nicht gegenseitig das Leben schwer machen, wenn es darum geht, genau diese Prozessverantwortung zu übernehmen und diese Dinge, die sich in den letzten Jahren und vor allem in den letzten Monaten im Laufe dieses Prozesses, also auch während der Verhandlungen, als Änderungsbedarfe gezeigt haben, fortzuentwickeln.</p>
@@ -1442,14 +1442,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Danke schön. – Damit ist die Aussprache beendet.</p>
-          <p>Wir kommen nun zum Antrag der Fraktion Die Linke auf Drucksache 18/5094. Die Fraktion Die Linke wünscht Abstimmung in der Sache. Die Fraktionen der CDU/CSU und der SPD wünschen Überweisung, und zwar federführend an den Ausschuss für Wirtschaft und Energie und mitberatend an den Ausschuss für Recht und Verbraucherschutz sowie an den Ausschuss für die Angelegenheiten der Europäischen Union. </p>
+          <p>Wir kommen nun zum Antrag der Fraktion Die Linke auf Drucksache 18/5094. Die Fraktion Die Linke wünscht Abstimmung in der Sache. Die Fraktionen der CDU/CSU und der SPD wünschen Überweisung, und zwar federführend an den Ausschuss für Wirtschaft und Energie und mitberatend an den Ausschuss für Recht und Verbraucherschutz sowie an den Ausschuss für die Angelegenheiten der Europäischen Union.</p>
           <p>Wir stimmen nach ständiger Übung zuerst über den Antrag auf Ausschussüberweisung ab. Ich frage deshalb: Wer stimmt für die beantragte Überweisung? – Wer stimmt dagegen? – Wer enthält sich? – Damit ist der Antrag angenommen, und zwar mit der Mehrheit der Stimmen von CDU/CSU- und SPD-Fraktion. Dann ist die Überweisung so beschlossen. Damit stimmen wir heute nicht über den Antrag auf Drucksache 18/5094 in der Sache ab.</p>
           <p>Ich rufe den Tagesordnungspunkt 26 auf:</p>
           <p>Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Anpassung des nationalen Bankenabwicklungsrechts an den Einheitlichen Abwicklungsmechanismus und die europäischen Vorgaben zur Bankenabgabe (Abwicklungsmechanismusgesetz – AbwMechG)</p>
-          <p>Drucksache 18/5009 </p>
+          <p>Drucksache 18/5009</p>
           <p>Überweisungsvorschlag:</p>
           <p>Finanzausschuss (f)</p>
           <p>Ausschuss für Recht und Verbraucherschutz</p>
@@ -1461,7 +1461,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="4" what="debate" desc="Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes...">
-        <sp who="Dr. Michael Meister" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Finanzen" party="CDU" name="Michael Meister">
+        <sp who="Michael Meister" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Finanzen" who_original="Michael Meister" party="CDU" name="Michael Meister">
           <speaker>Dr. Michael Meister, Parl. Staatssekretär beim Bundesminister der Finanzen:</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Wir haben im vergangenen Jahr die Bankenabwicklungsrichtlinie für das Jahr 2015 umgesetzt und damit die notwendigen Regelungen zur Bankenabwicklung geschaffen. Nun beabsichtigen wir, mit dem Gesetz, dessen Entwurf vorliegt, das nationale Recht so anzupassen, dass der einheitliche europäische Abwicklungsmechanismus ab 2016 seine volle Wirkung entfalten kann. Mit diesem Gesetz sind wir Vorreiter in Europa. Viele andere Mitgliedstaaten haben die neuen Abwicklungsregeln der Bankenabwicklungsrichtlinie noch nicht umgesetzt und müssen auch die intergouvernementale Vereinbarung zur Bankenabgabe ratifizieren.</p>
           <p>Sinn und Zweck ist, dass wir zu geordneten Verfahren in Krisensituationen von Banken und Bankinstituten kommen, insbesondere dann, wenn es sich um grenzüberschreitende Konstellationen handelt. Wir wollen nicht im Bail-out verbleiben, sondern zum Bail-in kommen. Das heißt, nicht die Steuerzahler, sondern Eigentümer und Gläubiger der Banken tragen die Last von Fehlentwicklungen.</p>
@@ -1481,12 +1481,12 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Für die Fraktion Die Linke spricht jetzt Axel Troost.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Axel Troost" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Axel Troost">
+        <sp who="Axel Troost" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Axel Troost" party="DIE LINKE" name="Axel Troost">
           <speaker>Dr. Axel Troost (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Ich möchte kurz auf den Beginn der Finanzkrise im September 2008 zurückblicken. Nach der Pleite der US-Bank Lehman Brothers versuchte der damalige Finanzminister Steinbrück uns noch weiszumachen, die Finanzkrise sei vor allen Dingen ein amerikanisches Problem. Wenige Tage später standen überall in Europa die Menschen vor den Banken.</p>
           <stage type="interjection">(Manfred Zöllmer [SPD]: Überall nicht! Das stimmt nicht!)</stage>
@@ -1498,12 +1498,12 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Das Wort hat Manfred Zöllmer, SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Manfred Zöllmer" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Manfred Zöllmer">
+        <sp who="Manfred Zöllmer" parliamentary_group="SPD" role="mp" position="NA" who_original="Manfred Zöllmer" party="SPD" name="Manfred Zöllmer">
           <speaker>Manfred Zöllmer (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Keine Steuergelder für Pleitebanken – das ist unser politisches Credo, das wir seit der Finanzmarktkrise wie ein Mantra vor uns hertragen und immer wiederholen. Deswegen müssen wir uns in diesem Jahr fragen: Wie sieht eigentlich der Weg vom Mantra zur Realität aus? Wo stehen wir auf diesem Weg?</p>
           <p>Der vorliegende Gesetzentwurf ist aus unserer Sicht ein weiterer wichtiger Baustein, die politische Forderung, die ich eben formuliert habe, Realität werden zu lassen. Mit ihm werden wir eine Vielzahl von gesetzlichen Regelungen in Deutschland an eine Reihe von europarechtlichen Vorgaben anpassen.</p>
@@ -1528,11 +1528,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Das Wort hat Dr. Gerhard Schick, Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Dr. Gerhard Schick" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Gerhard Schick">
+        <sp who="Gerhard Schick" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Gerhard Schick" party="GRUENE" name="Gerhard Schick">
           <speaker>Dr. Gerhard Schick (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Wenn man die Opposition kritisiert, lieber Herr Zöllmer, dann sollte man sich daran erinnern, was man noch vor wenigen Jahren selber gesagt hat.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN – Ingrid Arndt-Brauer [SPD]: Wir haben uns seitdem weiterentwickelt!)</stage>
@@ -1556,12 +1556,12 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächster Redner ist Klaus-Peter Flosbach, CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Klaus-Peter Flosbach" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Klaus-Peter Flosbach">
+        <sp who="Klaus-Peter Flosbach" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Klaus-Peter Flosbach" party="CDU" name="Klaus-Peter Flosbach">
           <speaker>Klaus-Peter Flosbach (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Das Jahr 2014 war geprägt von der Diskussion auch in diesem Hause über das Thema Bankenunion. Hier ging es immer um zwei Themen. Auf der einen Seite ging es um die Aufsicht insbesondere über die großen, system-relevanten internationalen Banken. Auf der anderen Seite ging es um das Thema: Was passiert, wenn eine Bank in eine Schieflage gerät? Wie kann sie abgewickelt oder gegebenenfalls saniert werden?</p>
           <p>Wir haben im Jahr 2008 – es ist sieben Jahre her – die große Banken- und Finanzkrise erlebt. Ein Jahr später hatten wir eine Wirtschaftskrise, ein weiteres Jahr darauf eine Staatsschuldenkrise. In diesen Krisenjahren bestand in der Tat immer die Gefahr, dass der Steuerzahler für Fehler herangezogen wird, die im Bankensystem passieren. Unser ganzes Bestreben in diesen sieben Jahren war, diese Gefahr zu überwinden und zu erreichen, dass, wenn Fehler in der Wirtschaft, im Bankenbereich gemacht werden, jeweils diejenigen, die den Fehler gemacht haben, dafür geradestehen und haften. Das war unser Bestreben, und das haben wir in all den Jahren auch umgesetzt, liebe Kolleginnen und Kollegen.</p>
@@ -1579,12 +1579,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächster Redner ist Lothar Binding, SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Lothar Binding" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Lothar Binding">
+        <sp who="Lothar Binding (Heidelberg)" parliamentary_group="SPD" role="mp" position="NA" who_original="Lothar Binding (Heidelberg)" party="SPD" name="Lothar Binding">
           <speaker>Lothar Binding (Heidelberg) (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Sehr verehrte Damen und Herren! Wir sprechen immer davon, dass unsere Politik den Weg beschreitet vom Bail-out zum Bail-in. Ich will kurz erklären, was das eigentlich heißt. Bail-out heißt, dass, wenn eine Bank Schulden hat und Probleme bekommt, die Schulden und die Tilgung der Verpflichtungen der Bank oder die Haftung von jemand übernommen wird. Bei uns steht dann immer vornehm: Das wird von Dritten übernommen. – Die Dritten, die sitzen hier oben auf den Zuschauerrängen: Das sind die Steuerzahler. Sie treten ein, wenn eine Bank ein Problem hat. Das hat uns immer geärgert. Wir sagen: Wenn eine Bank ein Problem hat, dann soll sich die Bank um die Problemlösung kümmern und nicht der Steuerzahler.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
@@ -1602,14 +1602,14 @@
           <p>Diese Möglichkeiten, die das Gesetz jetzt erlaubt, sollten wir ausschließen. Da haben wir noch ein bisschen Arbeit; aber es gilt immer das Struck’sche Gesetz, dass kein Gesetz den Bundestag so verlässt, wie es eingebracht wird. Ich glaube, da sind wir auf einem sehr guten Weg.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank, Herr Kollege Binding. – Nur damit keine Missverständnisse entstehen, möchte ich darauf hinweisen, dass nicht nur die Damen und Herren auf den Tribünen, sondern auch die Damen und Herren hier unten im Saal Steuerzahler und Steuerzahlerinnen sind.</p>
           <stage type="interjection">(Heiterkeit und Beifall bei Abgeordneten der SPD und der CDU/CSU – Lothar Binding [Heidelberg] [SPD]: Ja, natürlich! Vielen Dank für den Hinweis!)</stage>
           <p>Nächster Redner ist Alexander Radwan, CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Alexander Radwan" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Alexander Radwan">
+        <sp who="Alexander Radwan" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Alexander Radwan" party="CSU" name="Alexander Radwan">
           <speaker>Alexander Radwan (CDU/CSU):</speaker>
           <p>Meine sehr verehrten Damen und Herren! Heute debattieren wir den Entwurf eines Gesetzes zur Anpassung des nationalen Rechts an den Einheitlichen Abwicklungsmechanismus. Es ist ja schon mehrfach gesagt worden: Es ist ein wichtiger Baustein der Bankenunion, dass keine Steuergelder mehr verwendet werden, sondern die Banken selber haften sollen. Wir haben die nationale Umsetzung im Rahmen des Gesetzes schon hinter uns. Derzeit befindet sich die Behörde im Aufbau. Bereits jetzt hat sie mit Frau König eine Präsidentin, die hart daran arbeitet, qualifizierte Mitarbeiter zu bekommen. 150 sollen es dieses Jahr werden, bis 2017 sollen es 300 sein. Wir werden uns noch intensiv damit beschäftigen, wie die Behörde zukünftig zu finanzieren ist. Natürlich beschäftigen wir uns aber auch damit, wie das, was in der Theorie gut klingt – grenzüberschreitende Abwicklung –, hinhaut. Dazu nehmen wir jetzt eine Anpassung vor, um gesetzliche Hürden, die vorhanden sind, abzubauen.</p>
           <p>Das Bail-in ist schon angesprochen worden. Der Kollege Binding hat uns gerade plastisch beschrieben, was der Unterschied zwischen Bail-in und Bail-out ist. Dem stehen konkrete Fragen gegenüber. Dabei geht es zum Beispiel um das Insolvenzrecht und die Nachrangigkeit der Papiere. Die Diskussion über die Nachrangigkeit der Papiere beeinflusst schon jetzt die Frage, wie die Papiere bepreist werden. Dies ist ein Thema, mit dem wir uns im Gesetzgebungsverfahren – Herr Kollege Binding nickt – beschäftigen müssen.</p>
@@ -1622,7 +1622,7 @@
           <p>Besten Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Damit sind wir am Ende der Aussprache angelangt.</p>
           <p>Interfraktionell wird Überweisung der Vorlage auf Drucksache 18/5009 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. – Ich sehe, Sie sind damit einverstanden. Dann ist die Überweisung so beschlossen.</p>
@@ -1639,7 +1639,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="5" what="debate" desc="a) Beratung des Antrags der Fraktionen der CDU/CSU und SPD">
-        <sp who="Frank Heinrich" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Frank Heinrich">
+        <sp who="Frank Heinrich (Chemnitz)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Frank Heinrich (Chemnitz)" party="CDU" name="Frank Heinrich">
           <speaker>Frank Heinrich (Chemnitz) (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Liebe Damen und Herren! Vielleicht erinnert sich der eine oder andere an das Gewinnerlied des Eurovision Song Contest von Baku, der Stadt, um die es heute auch geht.</p>
           <stage type="interjection">(Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Können Sie das mal eben vorsingen?)</stage>
@@ -1672,12 +1672,12 @@
           <p>Ich danke Ihnen für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Es spricht jetzt Dr. André Hahn, Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. André Hahn" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="André Hahn">
+        <sp who="André Hahn" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="André Hahn" party="DIE LINKE" name="André Hahn">
           <speaker>Dr. André Hahn (DIE LINKE):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine Damen und Herren! Die Linke teilt die Einschätzung, dass es in Aserbaidschan beträchtliche Defizite bei bestimmten Menschenrechten gibt. Hier darf nichts beschönigt werden. Es sollte aber auch nichts pauschalisiert werden.</p>
           <p>Defizite bei der Einhaltung von Menschenrechten und der Umsetzung von internationalen Konventionen gibt es leider auch in vielen anderen Staaten dieser Welt. Selbst Deutschland ist davon nicht ausgenommen. So ist beispielsweise die UN-Behindertenrechtskonvention bereits seit 2009 in Kraft, die gesetzliche Umsetzung in Bund und Ländern jedoch bis heute nur mangelhaft erfolgt.</p>
@@ -1705,43 +1705,43 @@
           <p>Ich denke, wir sollten mit anderen Ländern einen Menschenrechtsdialog auf Augenhöhe und ohne Überheblichkeit führen. Nur dann sind wir glaubwürdig und können wir Erfolge erzielen.</p>
           <p>Ich wünsche mir ganz zum Schluss – hier schließe ich mich dem Kollegen Frank Heinrich von der CDU an –, dass wir den Sportlerinnen und Sportlern, die dort an den Wettbewerben teilnehmen werden, gemeinsam die Daumen drücken und ihnen beste Erfolge wünschen.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Denken Sie bitte an die Zeit, Herr Kollege. Sie sind jetzt schon eine Minute über Ihrer Redezeit.</p>
         </sp>
-        <sp who="Dr. André Hahn" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="André Hahn">
+        <sp who="André Hahn" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="André Hahn" party="DIE LINKE" name="André Hahn">
           <speaker>Dr. André Hahn (DIE LINKE):</speaker>
           <p>Sehr wohl, Frau Präsidentin, ich komme zum Schluss. – Ich wünsche mir, dass wir den Menschenrechtsdialog mit Aserbaidschan auch nach den Spielen weiterführen; denn gerade wenn die Lichter aus sind und die Öffentlichkeit nicht mehr so präsent ist, ist er notwendig und wichtig.</p>
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN – Frank Schwabe [SPD]: So etwas Peinliches habe ich überhaupt noch nie gehört!)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Das Wort zu einer Kurzintervention hat jetzt der Kollege Frank Schwabe.</p>
         </sp>
-        <sp who="Frank Schwabe" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Frank Schwabe">
+        <sp who="Frank Schwabe" parliamentary_group="SPD" role="mp" position="NA" who_original="Frank Schwabe" party="SPD" name="Frank Schwabe">
           <speaker>Frank Schwabe (SPD):</speaker>
           <p>Herr Dr. Hahn, der Kollege Movassat hat in seiner Rede zu Eritrea am Mittwoch Teilen des Hauses vorgeworfen, bei Menschenrechtsfragen mit zweierlei Maß zu messen. Mein Eindruck ist – das tut mir ganz schrecklich leid –, dass genau Sie gerade zweierlei Maß angelegt haben. Wie kann man hier fünf Minuten reden und die Menschenrechtsverletzungen in Aserbaidschan nicht beim Namen nennen?</p>
           <p>Sie werden mir ja vielleicht noch antworten. Würden Sie bitte einmal benennen, dass es politische Gefangene in Aserbaidschan gibt? Oder sehen Sie nicht, dass es solche politischen Gefangenen gibt und dass es deshalb auch notwendig ist, das hier im Deutschen Bundestag zu benennen, um den Menschen vor Ort jedenfalls ein bisschen zu helfen?</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Herr Kollege Hahn.</p>
         </sp>
-        <sp who="Dr. André Hahn" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="André Hahn">
+        <sp who="André Hahn" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="André Hahn" party="DIE LINKE" name="André Hahn">
           <speaker>Dr. André Hahn (DIE LINKE):</speaker>
           <p>Frau Präsidentin, ich will gerne darauf reagieren. – Herr Schwabe, ich bitte Sie einfach, zur Kenntnis zu nehmen, dass ich in meinem ersten Satz davon gesprochen habe, dass es beträchtliche Menschenrechtsverletzungen in Aserbaidschan gibt. Ich habe dann auch konkret welche genannt, nämlich die Einschränkung von Presse- und Versammlungsfreiheit, die nicht vorhandene Unabhängigkeit der Justiz und die weitverbreiteten korruptiven Strukturen. Das habe ich aufgezählt.</p>
           <p>Ich bestreite nicht, dass es politische Gefangene gibt. Es gibt auch keinen Grund, das zu bestreiten. Ich habe nur versucht, deutlich zu machen, dass Sie hier vor sportlichen Großereignissen bei bestimmten Ländern Anträge stellen, während Sie das bei anderen Ländern, in denen es auch Menschenrechtsverletzungen gibt – dafür habe ich als Beispiel die Todesstrafe in den Vereinigten Staaten genannt –, nicht tun.</p>
           <p>Ich glaube, dass es wichtig ist, mit den Verantwortlichen in Aserbaidschan einen politischen Dialog zu führen. Es hilft nicht, die Menschenrechtsverletzungen, die es gibt, zu leugnen oder zu verharmlosen. Das will ich auch nicht tun. Aber wir möchten uns dann bitte schön alle ernst nehmen und andere Defizite, die es gibt, ebenso deutlich ansprechen.</p>
           <stage type="interjection">(Dr. Rolf Mützenich [SPD]: Die hätten Sie beim Besuch des ägyptischen Staatspräsidenten auch nennen müssen!)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächste Rednerin ist Dr. Ute Finckh-Krämer, SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Ute Finckh-Krämer" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ute Finckh-Krämer">
+        <sp who="Ute Finckh-Krämer" parliamentary_group="SPD" role="mp" position="NA" who_original="Ute Finckh-Krämer" party="SPD" name="Ute Finckh-Krämer">
           <speaker>Dr. Ute Finckh-Krämer (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Liebe Zuhörerinnen und Zuhörer auf den Tribünen! Vor gut vier Wochen hat die Arbeitsgruppe Menschenrechte der SPD-Fraktion die Initiative zu dem Koalitionsantrag ergriffen, der heute zur Abstimmung vorliegt. Wir wollten die heutige Eröffnung der Europaspiele in Baku zum Anlass nehmen, die Menschenrechtssituation in Aserbaidschan zu reflektieren, die sich nach der Einschätzung von internationalen Menschenrechtsorganisationen in den letzten Jahren deutlich verschlechtert hat.</p>
           <p>Insbesondere sind wir um das Schicksal der politischen Gefangenen im Land besorgt. Unter menschenunwürdigen Bedingungen sitzen immer mehr Menschenrechtsverteidiger, Rechtsanwälte, Journalisten, Blogger und politisch aktive Personen, die eine unabhängige Meinung vertreten, im Gefängnis. Denken wir stellvertretend für alle unrechtmäßig Inhaftierten an Intigam Aliyev, Khadija Ismayilova, Rasul Jafarov, Ilgar Mammadov, Tofig Yagublu, Anar Mammadli, Seymur Haziyev, Rauf Mirgadirov, Ilkin Rustemzadeh und an Leyla und Arif Yunus.</p>
@@ -1763,11 +1763,11 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Danke schön. – Für Bündnis 90/Die Grünen hat jetzt Özcan Mutlu das Wort.</p>
         </sp>
-        <sp who="Özcan Mutlu" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Özcan Mutlu">
+        <sp who="Özcan Mutlu" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Özcan Mutlu" party="GRUENE" name="Özcan Mutlu">
           <speaker>Özcan Mutlu (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Es ist interessant, dass sich bei einer Redezeit von insgesamt zehn Minuten kein einziger Sportpolitiker der CDU/CSU-Fraktion die Mühe gemacht hat, zu den European Games Position zu beziehen. Wir haben als Fraktion vor mehreren Wochen einen Antrag in den Bundestag eingebracht mit dem Titel „Für verbindliche politische Regeln im internationalen Sport – Menschenrechte achten, Umwelt schützen, Korruption bekämpfen“. Die jüngsten Skandale der FIFA und auch die aktuelle Debatte über die European Games in Baku sind der beste Beweis dafür, wie richtig wir mit unserem Antrag liegen und wie wichtig es ist, dass wir uns an dieser Stelle endlich einmal bewegen. Ich empfehle Ihnen, vor allem der Großen Koalition, unseren Antrag vor der zweiten Beratung hier im Bundestag noch einmal, dann aber bitte ohne schwarz-rote Scheuklappen, genau durchzulesen. Vielleicht können Sie dann über Ihren Schatten springen. Unser Antrag bietet konkrete Lösungsansätze und formuliert klare Kriterien, um Ausrichter von Sportgroßveranstaltungen in der ganzen Welt insbesondere in der Frage der Einhaltung der Menschenrechte beim Wort und an die Kandare zu nehmen.</p>
           <p>Heute diskutieren wir über die Menschenrechtslage in Aserbaidschan. Ehrlich gesagt: Ich hätte nicht gedacht, dass wir diese Diskussion führen; ich hätte Ihnen das nicht zugetraut. Nach Tagen der Unklarheit darüber, ob diese Debatte überhaupt stattfinden wird, war ich wirklich überrascht, doch so klare Worte in Ihrem Antrag zu finden. Anscheinend haben sich bei Ihnen in den Reihen der Großen Koalition die Freunde der aserbaidschanischen Führung nicht durchsetzen können, und ich sage an dieser Stelle: Das ist auch gut so.</p>
@@ -1781,13 +1781,13 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. Das ist auch der Grund, warum ich immer an die Redezeitbegrenzung erinnern muss.</p>
           <p>Als letzte Rednerin zu diesem Tagesordnungspunkt spricht jetzt die Kollegin Michaela Engelmeier, SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Michaela Engelmeier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Michaela Engelmeier-Heite">
+        <sp who="Michaela Engelmeier" parliamentary_group="SPD" role="mp" position="NA" who_original="Michaela Engelmeier" party="SPD" name="Michaela Engelmeier">
           <speaker>Michaela Engelmeier (SPD):</speaker>
           <p>Herzlichen Dank. – Sehr geehrte Frau Präsidentin! Liebe Kolleginnen! Liebe Kollegen! Meine sehr verehrten Damen und Herren! Drei Minuten Redezeit sind kurz. Deswegen komme ich schnell zur Sache. – Eines vorweg: Ich unterstütze den gemeinsamen Antrag von CDU/CSU- und SPD-Fraktion voll und ganz. Aber gestatten Sie mir als sportpolitische Sprecherin meiner Fraktion, die übrigens nicht zu den European Games nach Aserbaidschan reist, auf die sportpolitischen Dimensionen kurz einzugehen.</p>
           <p>Wir haben es gehört: Vom 12. bis zum 28. Juni 2015 finden die ersten European Games in der aserbaidschanischen Hauptstadt Baku statt. Diese Spiele sind nicht nur ein sportliches Großereignis, sondern auch ein Politikum; das muss man in aller Deutlichkeit sagen. Seit der Präsidentschaftswahl 2013 hat sich die Menschenrechtslage in Aserbaidschan – Herr Heinrich, Sie haben es bereits angeführt – massiv verschlechtert. Viele Regimekritiker verlassen das Land, sind inhaftiert oder werden überwacht. Die staatliche Repression richtet sich gegen Menschenrechtsverteidiger, Rechtsanwälte, Journalisten und alle politisch aktiven Personen, die eine unabhängige Meinung vertreten. Um eine kritische Berichterstattung während der Europaspiele zu verhindern, drohen die Behörden den Journalisten mit dem Entzug der Akkreditierung und weiteren Strafmaßnahmen. Zugleich nutzt die aserbaidschanische Regierung die Europaspiele als politische Imagewerbung.</p>
@@ -1803,7 +1803,7 @@
           <p>Mein letzter Satz. Im Übrigen finde ich es geradezu eine Unverschämtheit und halte es für einen Affront, dass die aserbaidschanische Botschaft in einer Pressemitteilung Journalisten in unserem Land brandmarkt, weil sie kritisch über die Spiele berichten. Sehr geehrter Herr Botschafter aus Aserbaidschan, zu Ihrer Information: In unserem Land herrscht Presse- und Meinungsfreiheit!</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Ich schließe die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über den Antrag der Fraktionen der CDU/CSU und SPD auf Drucksache 18/5092 mit dem Titel „Einhaltung der Menschenrechte in Aserbaidschan einfordern“.</p>
@@ -1820,7 +1820,7 @@
           <p>Ausschuss für die Angelegenheiten der Europäischen Union</p>
           <p>b) Beratung des Antrags der Abgeordneten Ulla Jelpke, Jan Korte, Wolfgang Gehrcke, weiterer Abgeordneter und der Fraktion DIE LINKE</p>
           <p>Das Mittelmeer darf nicht zum Massengrab werden – Für eine Umkehr in der EU-Asyl-politik</p>
-          <p>Drucksache 18/4838 </p>
+          <p>Drucksache 18/4838</p>
           <p>Überweisungsvorschlag:</p>
           <p>Innenausschuss (f)</p>
           <p>Auswärtiger Ausschuss</p>
@@ -1831,7 +1831,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="6" what="debate" desc="a) Beratung des Antrags der Abgeordneten Luise Amtsberg, Tom Koenigs, Omid Nouri...">
-        <sp who="Tom Koenigs" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Tom Koenigs">
+        <sp who="Tom Koenigs" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Tom Koenigs" party="GRUENE" name="Tom Koenigs">
           <speaker>Tom Koenigs (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Seenotrettung, das können wir, das geht. Die Deutsche Gesellschaft zur Rettung Schiffbrüchiger mit 180 Festangestellten und 800 Freiwilligen rückt jedes Jahr 2 000-mal aus und rettet Hunderte. Nord- und Ostsee sind sicher. Das wünschten wir uns auch für das Mittelmeer.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN sowie des Abg. Rüdiger Veit [SPD])</stage>
@@ -1857,12 +1857,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Danke schön. – Für die Bundesregierung spricht jetzt der Parlamentarische Staatssekretär Dr. Ole Schröder.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Ole Schröder" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister des Innern" party="CDU" name="Ole Schröder">
+        <sp who="Ole Schröder" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister des Innern" who_original="Ole Schröder" party="CDU" name="Ole Schröder">
           <speaker>Dr. Ole Schröder, Parl. Staatssekretär beim Bundesminister des Innern:</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Deutschland und Europa stehen vor der größten Herausforderung im Bereich der Asylpolitik seit den 90er-Jahren.</p>
           <stage type="interjection">(Beifall des Abg. Tom Koenigs [BÜNDNIS 90/DIE GRÜNEN])</stage>
@@ -1879,25 +1879,25 @@
           <stage type="interjection">(Rüdiger Veit [SPD]: Das geschieht doch schon seit Jahren!)</stage>
           <p>Wir verbessern außerdem die Zusammenarbeit mit den Herkunfts- und Transitländern – das ist ganz entscheidend –, insbesondere mit Libyen und Ägypten. Nur so ist es möglich, auch die Fluchtursachen zu bekämpfen.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Herr Kollege Schröder, gestatten Sie eine Zwischenfrage des Kollegen Trittin?</p>
         </sp>
-        <sp who="Dr. Ole Schröder" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister des Innern" party="CDU" name="Ole Schröder">
+        <sp who="Ole Schröder" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister des Innern" who_original="Ole Schröder" party="CDU" name="Ole Schröder">
           <speaker>Dr. Ole Schröder, Parl. Staatssekretär beim Bundesminister des Innern:</speaker>
           <p>Gerne.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Jürgen Trittin" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Jürgen Trittin">
+        <sp who="Jürgen Trittin" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Jürgen Trittin" party="GRUENE" name="Jürgen Trittin">
           <speaker>Jürgen Trittin (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Kollege Schröder, kann ich Ihre Äußerung, dass es nötig sei, Boote zu zerstören, so verstehen, dass Sie hier namens der Bundesregierung erklären, dass Sie zur Schaffung der völkerrechtlichen Voraussetzungen als Bundesrepublik Deutschland aktiv ein solches Mandat beim Sicherheitsrat der Vereinten Nationen dafür anstreben? Das wäre ja die Konsequenz Ihrer Äußerung.</p>
           <stage type="interjection">(Ulla Jelpke [DIE LINKE]: So hat es sich angehört! Das stimmt!)</stage>
           <p>Diese Frage sollten Sie hier vielleicht einmal beantworten.</p>
         </sp>
-        <sp who="Dr. Ole Schröder" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister des Innern" party="CDU" name="Ole Schröder">
+        <sp who="Ole Schröder" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister des Innern" who_original="Ole Schröder" party="CDU" name="Ole Schröder">
           <speaker>Dr. Ole Schröder, Parl. Staatssekretär beim Bundesminister des Innern:</speaker>
           <p>Herr Trittin, wir sind uns doch darüber einig, dass es notwendig ist, die Schlepperbanden zu bekämpfen. Ich habe manchmal, wenn ich mir Reden von Mitgliedern Ihrer Fraktion anhöre, das Gefühl, dass Sie die Schlepper mittlerweile als eine humanitäre Organisation ansehen.</p>
           <stage type="interjection">(Rüdiger Veit [SPD]: Das ist doch Unsinn!)</stage>
@@ -1905,24 +1905,24 @@
           <p>Meine Damen und Herren, ganz entscheidend ist, dass wir unseren humanitären Verpflichtungen nachkommen, dass wir das ernst nehmen. Das werden wir auch weiter tun. Ganz besonders wichtig ist die Hilfe vor Ort im Nahen und Mittleren Osten. Hiermit erreichen wir die meisten Menschen. Das sehen auch alle Helfer so.</p>
           <p>Außerdem haben wir unser nationales Resettlement-Programm für besonders Schutzbedürftige ausgebaut. Wir gehören damit zu den Vorreitern in Europa. Die Kommission ist mit ihrem Vorschlag für ein EU-Resettlement-Programm unserem Ansatz ja auch gefolgt. Jetzt sollte schnell darüber entschieden werden, dass nach Möglichkeit auch alle anderen Mitgliedstaaten diesem Beispiel folgen.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Herr Staatssekretär, es sind noch zwei weitere Zwischenfragen von den Herren Koenigs und Nouripour angemeldet. Wollen Sie die zulassen?</p>
         </sp>
-        <sp who="Dr. Ole Schröder" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister des Innern" party="CDU" name="Ole Schröder">
+        <sp who="Ole Schröder" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister des Innern" who_original="Ole Schröder" party="CDU" name="Ole Schröder">
           <speaker>Dr. Ole Schröder, Parl. Staatssekretär beim Bundesminister des Innern:</speaker>
           <p>Ich würde angesichts der fortgeschrittenen Zeit eine Zwischenfrage zulassen.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Dann ist es der Kollege Nouripour. Er hatte sich als Erster gemeldet. – Herr Kollege Koenigs, Sie dann nicht.</p>
         </sp>
-        <sp who="Dr. Ole Schröder" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister des Innern" party="CDU" name="Ole Schröder">
+        <sp who="Ole Schröder" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister des Innern" who_original="Ole Schröder" party="CDU" name="Ole Schröder">
           <speaker>Dr. Ole Schröder, Parl. Staatssekretär beim Bundesminister des Innern:</speaker>
           <p>Bitte. – Ich beantworte eine Zwischenfrage. Sie können sich ja das nächste Mal um mehr Redezeit bemühen.</p>
-          <stage type="interjection">(Widerspruch bei der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <p>(Widerspruch bei der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</p>
         </sp>
-        <sp who="Omid Nouripour" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Omid Nouripour">
+        <sp who="Omid Nouripour" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Omid Nouripour" party="GRUENE" name="Omid Nouripour">
           <speaker>Omid Nouripour (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Staatssekretär, herzlichen Dank, dass Sie die Frage zulassen. Wie wir in unserer Fraktion die Redezeiten verteilen, ist unsere Angelegenheit.</p>
           <p>Ich möchte etwas zurückweisen und eine Frage stellen. Zurückweisen möchte ich das, was Sie permanent als Pappkameraden aufstellen: Wir können nicht alle aufnehmen. – Nein, wir können auch nicht alle Chinesen aufnehmen. Das wäre zu viel. Das ist aber hier gar nicht das Thema. Deshalb ist es einfach nur Stimmungsmache, immer davon zu sprechen, dass wir nicht alle aufnehmen können.</p>
@@ -1931,7 +1931,7 @@
           <p>Wenn Boote draußen sind, befinden sich Menschen in ihnen. Dann kann man sie nicht aus der Luft zerstören. Wie wollen Sie denn – aus der Luft auf einen Hafen schauend, in dem sich ein leeres Boot befindet – beurteilen, ob es ein Fischerboot ist, ob es ein Schlepperboot ist oder ob es vielleicht tagsüber ein Fischerboot und nachts ein Schlepperboot ist? Wie wollen Sie das eigentlich unterscheiden?</p>
           <stage type="interjection">(Rüdiger Veit [SPD]: Man muss es sich anschauen!)</stage>
         </sp>
-        <sp who="Dr. Ole Schröder" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister des Innern" party="CDU" name="Ole Schröder">
+        <sp who="Ole Schröder" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister des Innern" who_original="Ole Schröder" party="CDU" name="Ole Schröder">
           <speaker>Dr. Ole Schröder, Parl. Staatssekretär beim Bundesminister des Innern:</speaker>
           <p>Ich glaube, Sie machen den Fehler, den zweiten vor dem ersten Schritt zu machen. Zunächst einmal würde ich es begrüßen, wenn Sie sich, bevor Sie hier mögliche Hindernisse benennen und Probleme formulieren, in einem ersten Schritt einmal dazu bekennen würden, dass es richtig ist, Schlepperboote, wenn sie denn als solche identifiziert werden, zu zerstören. Dieses Bekenntnis zur Bekämpfung der Schlepperkriminalität habe ich von Ihnen bisher nicht gehört, sondern Sie haben bis jetzt nur Probleme formuliert.</p>
           <p>Für mich kommt es darauf an, dass wir uns zunächst einmal darüber einig sind, was notwendig ist. Notwendig ist, diesen kriminellen Schleppern und Netzwerken, die mit der humanitären Katastrophe, mit dem Leid der Menschen Millionen verdienen, das Handwerk zu legen. Ich glaube, darüber sollten wir uns erst einmal einig sein.</p>
@@ -1945,11 +1945,11 @@
           <p>Meine Damen und Herren, es muss europäische Aktivitäten geben, wie wir das Problem der Asylbewerber in Europa in den Griff bekommen. Die Bundesregierung stellt sich diesen Aufgaben. Ich fand es wohltuend, lieber Herr Koenigs, dass Sie heute nicht nur Betroffenheit formuliert haben, wie wir das so häufig aus Ihrer Fraktion kennen, sondern sich auch intensiv mit Möglichkeiten der Problemlösung auseinandergesetzt haben; denn genau darum geht es bei diesem komplexen und schwierigen Thema. Ich fordere Sie als Opposition auf, sich an diesem Diskurs zu beteiligen und für Problemlösung zu sorgen. Das ist notwendig in dieser Zeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Der Kollege Trittin hat eine Kurz-intervention angemeldet. Bitte schön.</p>
         </sp>
-        <sp who="Jürgen Trittin" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Jürgen Trittin">
+        <sp who="Jürgen Trittin" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Jürgen Trittin" party="GRUENE" name="Jürgen Trittin">
           <speaker>Jürgen Trittin (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Sehr geehrter Kollege Herr Schröder, ich finde, Sie haben hier ziemlich unglaubliche Äußerungen getan. Sie haben erstens gesagt, dass jede Form von Rettung auch eine Erleichterung des Geschäftes für Schlepper ist. Wollen Sie ernsthaft dann der umgekehrten Logik folgen: „Je weniger wir retten, umso schwieriger ist das Geschäft für Schlepper“? Oder ist es nicht so gewesen, dass, als Europa weniger Menschen gerettet hat, nicht weniger Menschen von Schleppern auf See gesetzt worden sind, sondern einfach mehr ersoffen sind? Das ist eine unglaublich unmenschliche Haltung, die Sie an den Tag gelegt haben.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
@@ -1960,11 +1960,11 @@
           <p>weil genau diese Unterscheidung, die Sie gemacht haben, nicht gemacht werden kann. – Ich bin der Auffassung, dass Deutschland auf den Kurs der Vereinten Nationen zurückkehren und von dem Kurs der Eskalation und des militärischen Abenteurertums in Libyen absehen sollte.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Herr Staatssekretär, Sie haben jetzt die Gelegenheit, zu antworten. Bitte schön.</p>
         </sp>
-        <sp who="Dr. Ole Schröder" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister des Innern" party="CDU" name="Ole Schröder">
+        <sp who="Ole Schröder" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister des Innern" who_original="Ole Schröder" party="CDU" name="Ole Schröder">
           <speaker>Dr. Ole Schröder, Parl. Staatssekretär beim Bundesminister des Innern:</speaker>
           <p>Herr Trittin, ich finde Ihre Äußerung ungeheuerlich. Ich finde es vor allen Dingen ungeheuerlich, dass es noch nicht einmal möglich ist, im Bundestag ein Dilemma darzustellen.</p>
           <stage type="interjection">(Steffi Lemke [BÜNDNIS 90/DIE GRÜNEN]: Reden Sie sich doch nicht raus!)</stage>
@@ -1977,12 +1977,12 @@
           <p>Insofern würde ich mir wünschen, dass Sie, Herr Trittin, nicht versuchen, hier Stimmung zu machen, sondern sich der Verantwortung bewusst werden, gemeinsam nach Lösungen zu suchen, anstatt nur Probleme zu sehen und nicht einmal bereit zu sein, sich dazu zu bekennen, dass es notwendig ist, Schlepperkriminalität zu bekämpfen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächste Rednerin ist die Kollegin Ulla Jelpke, Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Ulla Jelpke" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Ulla Jelpke">
+        <sp who="Ulla Jelpke" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Ulla Jelpke" party="DIE LINKE" name="Ulla Jelpke">
           <speaker>Ulla Jelpke (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Herr Staatssekretär Schröder, ich glaube, das Hauptproblem ist, dass Sie immer wieder Schlepper als das Hauptpro-blem darstellen, wenn es um die Seenotrettung geht. So ist es eben nicht. Es ist zynisch, wenn man hauptsächlich darauf abstellt und nicht selbstkritisch zur Debatte stellt, was denn in Sachen Bekämpfung von Fluchtursachen getan wurde, was denn getan wurde, um tatsächlich – wie eben schon erwähnt – legale, sichere Wege für Flüchtlinge nach Europa zu schaffen. In diesen Bereichen wird wirklich nichts getan.</p>
           <p>Sie entziehen den Schleppern eben nicht die Geschäftsgrundlage. Um das zu tun, könnten Sie zum Beispiel humanitäre Visa ausgeben und tatsächlich Fähren schicken. Sie könnten im Grunde genommen die Menschen, die heute schon auf legalem Wege hierherkommen könnten, viel schneller hierherholen, zum Beispiel diejenigen, die einen Anspruch auf Familienzusammenführung haben und heute – das ist ein Skandal – über ein Jahr darauf warten, überhaupt nach Europa zu kommen. Diese wenigen Schritte sind Sie bisher überhaupt nicht gegangen, sondern haben nur ein Ziel und fragen sich immer: Wie können wir Schlepper bekämpfen? So kommt man meiner Meinung nach nicht zu einer anderen Flüchtlingspolitik, schon gar nicht dazu, dass das Massensterben im Mittelmeer endlich ein Ende hat.</p>
@@ -1996,24 +1996,24 @@
           <stage type="interjection">(Beifall bei der LINKEN sowie des Abg. Tom Koenigs [BÜNDNIS 90/DIE GRÜNEN])</stage>
           <p>Auch innerhalb Europas steht es nicht zum Besten. Alleine am letzten Wochenende sind 5 000 Menschen aus Seenot gerettet und nach Italien gebracht worden. Fast täglich kommen 600 Menschen auf den griechischen Inseln an. In beiden Ländern ist die Situation für Flüchtlinge katastrophal. Allein in Italien sind 180 000 Flüchtlinge in Lagern untergebracht. Die Lager sind völlig überfordert, und die Flüchtlinge können nicht angemessen versorgt werden. Vor diesem Hintergrund muss man sich einmal vorstellen, dass diskutiert wurde, als Notmaßnahme 40 000 Flüchtlinge aus Griechenland und Italien in den Mitgliedstaaten aufzunehmen, und man nun einmal eben so aus den Medien erfährt, dass man diese Maßnahme auf den Herbst verschoben hat. Geht es hier wirklich um die Schutzsuchenden, um diejenigen, die Hilfe brauchen? Wie kann es sein, dass die nationalen Eigeninte-ressen innerhalb Europas so stark im Vordergrund stehen, dass es nicht möglich ist, die Flüchtlinge sofort in andere europäische Länder zu bringen und sie wirklich zu schützen?</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Sie kommen bitte zum Schluss, Frau Kollegin.</p>
         </sp>
-        <sp who="Ulla Jelpke" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Ulla Jelpke">
+        <sp who="Ulla Jelpke" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Ulla Jelpke" party="DIE LINKE" name="Ulla Jelpke">
           <speaker>Ulla Jelpke (DIE LINKE):</speaker>
           <p>Ja, ich komme zum Schluss. – Lassen Sie mich noch einen Aspekt des Militäreinsatzes ansprechen. Wer versucht, Schiffe durch das Militär zu versenken, wird die Flüchtlinge auf noch unsicherere Schiffe bringen, nämlich auf Schlauchboote; denn die sind nicht so einfach zu vernichten, die kann man sehr schnell aufpusten. Das bedeutet noch mehr Tote. Deswegen ist es zynisch und unglaublich, wenn Sie an dieser Militäraktion festhalten wollen, Herr Staatssekretär. Die Linke jedenfalls lehnt das eindeutig ab.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
-          <p>Vielen Dank. – Bevor ich jetzt die nächste Rednerin aufrufe, möchte ich noch etwas klarstellen: Die Fraktion Bündnis 90/Die Grünen hat noch Kurzinterventionen angemeldet, aber ich habe entschieden, sie nicht zuzulassen, weil ich glaube, dass die Fraktion Bündnis 90/Die Grünen heute die Gelegenheit hatte, nicht nur zu reden, sondern auch Zwischenfragen zu stellen, und zwar mehr als eine, und auch eine Kurzintervention hatte. </p>
+          <p>Vielen Dank. – Bevor ich jetzt die nächste Rednerin aufrufe, möchte ich noch etwas klarstellen: Die Fraktion Bündnis 90/Die Grünen hat noch Kurzinterventionen angemeldet, aber ich habe entschieden, sie nicht zuzulassen, weil ich glaube, dass die Fraktion Bündnis 90/Die Grünen heute die Gelegenheit hatte, nicht nur zu reden, sondern auch Zwischenfragen zu stellen, und zwar mehr als eine, und auch eine Kurzintervention hatte.</p>
           <p>Zwei Gründe spielen hierfür eine Rolle. Erstens. Wir geben uns einen Zeitrahmen, auf den sich alle Kolleginnen und Kollegen einstellen. Was die Redezeiten, aber auch, was die Zwischenfragen betrifft, war ich schon sehr großzügig, weil es ein emotionales Thema ist. Zweitens. Der Antrag wird heute nicht abschließend beraten. Er wird im gegenseitigen Einverständnis überwiesen. Wir haben in den Ausschüssen Gelegenheit, darüber zu reden, und auch noch einmal im Plenum. Deshalb ist die Entscheidung so gefallen, wie ich sie jetzt dargestellt habe.</p>
           <stage type="interjection">(Michaela Noll [CDU/CSU]: Das ist die richtige Entscheidung!)</stage>
           <p>Die nächste Rednerin ist Christina Kampmann, SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Christina Kampmann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Christina Kampmann">
+        <sp who="Christina Kampmann" parliamentary_group="SPD" role="mp" position="NA" who_original="Christina Kampmann" party="SPD" name="Christina Kampmann">
           <speaker>Christina Kampmann (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! Seit anderthalb Jahren bin ich jetzt hier im Bundestag und kann mit dazu beitragen, denen eine Stimme zu geben, die sonst keine Lobby haben. Ich habe verstanden, dass das Bohren dicker Bretter mit ein Teil von Politik ist. Ich finde aber: Wenn es um das Leben von Menschen geht, dann können wir uns nicht mit dem Bohren von Brettern aufhalten. Es sind dabei nicht ausschließlich die über 800 Toten, die wir im vergangenen April zu beklagen hatten. Es sind auch nicht ausschließlich die fast 2 000 Menschen, die in diesem Jahr umgekommen sind, und auch nicht die 366, die im Oktober 2013 umgekommen sind und zu denen ich meine erste Rede hier im Bundestag gehalten habe. Es ist diese unglaublich große Zahl von 25 000 Menschen, die seit Anfang des Jahrtausends beim Versuch, das Mittelmeer zu überqueren, umgekommen sind. 25 000, ich finde, das ist eine unglaublich große Zahl.</p>
           <stage type="interjection">(Beifall des Abg. Jürgen Trittin [BÜNDNIS 90/DIE GRÜNEN])</stage>
@@ -2033,22 +2033,22 @@
           <p>Wo es aber weiterhin einen Dissens gibt – Sie fordern es wieder in Ihrem Antrag –, ist das Free-Choice-Verfahren, das wir ablehnen. Free Choice bedeutet, dass sich jeder Flüchtling den Mitgliedstaat aussuchen kann, in dem er seinen Asylantrag stellt. Wir haben die Befürchtung, dass es dann zu einer Reduzierung der Standards kommt, weil die Mitgliedstaaten hoffen: Je geringer die Standards sind, desto weniger Flüchtlinge kommen zu uns. – Deshalb lehnen wir das entschieden ab. Wir glauben, dass das auch im Sinne der Flüchtlinge ist, die zu uns kommen.</p>
           <p>Es gibt einen zweiten Punkt, bei dem noch ein eindeutiger Dissens besteht.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Frau Kollegin Kampmann, ich muss Sie an die Zeit erinnern. Jetzt bitte nicht noch „zweitens“, „drittens“, „viertens“, sondern bitte zum Schluss kommen!</p>
         </sp>
-        <sp who="Christina Kampmann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Christina Kampmann">
+        <sp who="Christina Kampmann" parliamentary_group="SPD" role="mp" position="NA" who_original="Christina Kampmann" party="SPD" name="Christina Kampmann">
           <speaker>Christina Kampmann (SPD):</speaker>
           <p>Es gibt nur noch „zweitens“, liebe Frau Präsidentin; das betrifft die Abschaffung von Frontex. Auch da können wir nicht zustimmen. Wir sagen aber, dass es eindeutig ein Seenotrettungsmandat von Frontex geben muss. Wir hatten dieses Thema diese Woche im Innenausschuss. Da wurde eindeutig gesagt: Das macht einen großen Teil der Arbeit von Frontex aus. Deshalb ist es nur ehrlich, wenn wir hier ein rechtliches Seenotrettungsmandat hinbekommen. – Dafür werden wir uns weiter starkmachen. Ich glaube, dass wir dann auf dem richtigen Weg sind und weiter in eine gute Richtung gehen.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächste Rednerin ist Nina Warken, CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Nina Warken" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Nina Warken">
+        <sp who="Nina Warken" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Nina Warken" party="CDU" name="Nina Warken">
           <speaker>Nina Warken (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Immer wieder bestimmen die dramatischen Ereignisse, die sich im Mittelmeer abspielen, die Schlagzeilen unserer Nachrichten. Der traurige Höhepunkt in diesem Jahr ereignete sich am 19. April. Ein völlig überladenes Schlepperboot mit Flüchtlingen an Bord kenterte auf seinem Weg von Libyen nach Italien. Nach Schätzungen sind dabei über 800 Menschen ums Leben gekommen, auch weil sie unter Deck zusammengepfercht waren. Nur 28 Menschenleben konnten gerettet werden.</p>
           <p>Katastrophen wie diese machen uns alle tief betroffen. Aber, liebe Kolleginnen und Kollegen, von dem Unglück ging auch ein Signal aus: Europa war bereit, sofort und entschlossen zu handeln. Auf dem EU-Sondergipfel am 24. April dieses Jahres wurden als Sofortmaßnahme die Mittel für die Seenotrettung im Mittelmeer deutlich aufgestockt und ausgeweitet. Auch Deutschland stellte sich seiner Verantwortung und hat umgehend Schiffe der Bundeswehr ins Mittelmeer entsandt. Letzten Samstag wurden bei einer Rettungsaktion von deutschen Schiffen rund 1 400 Menschen aufgenommen und versorgt. Inzwischen sind es insgesamt über 3 000 Flüchtlinge, die die Bundesmarine aus Seenot gerettet hat. Für ihren unermüdlichen Einsatz möchte ich unseren Soldatinnen und Soldaten danken. Sie werden weiterhin im Mittelmeer Präsenz zeigen und unter psychisch wie physisch schwersten Bedingungen dort Leben retten. Wir schulden ihnen allen unseren Dank.</p>
@@ -2070,12 +2070,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächster Redner ist Dr. Lars Castellucci, SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Lars Castellucci" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Lars Castellucci">
+        <sp who="Lars Castellucci" parliamentary_group="SPD" role="mp" position="NA" who_original="Lars Castellucci" party="SPD" name="Lars Castellucci">
           <speaker>Dr. Lars Castellucci (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! Es ist daran erinnert worden, dass im April schätzungsweise 800 Menschen im Mittelmeer zu Tode gekommen sind. Es ist gesagt worden, dies sei der Fall gewesen, weil sie sich auf diesen Weg begeben hätten. Sie hätten sich auf den Weg über das Mittelmeer begeben müssen, und sie seien im Inneren dieses Bootes zusammengepfercht worden.</p>
           <p>Zur Ehrlichkeit gehört aber auch: Sie sind umgekommen, weil Europa nicht geholfen hat.</p>
@@ -2110,11 +2110,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU – Michaela Noll [CDU/CSU]: Das war überzeugend, das war gut!)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Jetzt hat Andrea Lindholz, CDU/CSU-Fraktion, das Wort.</p>
         </sp>
-        <sp who="Andrea Lindholz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Andrea Lindholz">
+        <sp who="Andrea Lindholz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Andrea Lindholz" party="CSU" name="Andrea Lindholz">
           <speaker>Andrea Lindholz (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine sehr geehrten Damen und Herren! Der Anlass dieser Debatte berührt uns alle, und das Kernanliegen der beiden Anträge halte ich auch für berechtigt.</p>
           <p>Natürlich darf Europa nicht tatenlos zusehen, wenn Menschen auf dem Mittelmeer ertrinken. Europa sieht auch nicht tatenlos zu. Europäische Marinesoldaten überwachen in diesem Moment ein gewaltiges Gebiet vor der nordafrikanischen Küste und haben schon Tausende Menschenleben gerettet. Ihr Einsatz verdient unsere höchste Anerkennung.</p>
@@ -2133,7 +2133,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Danke schön. – Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird Überweisung der Vorlagen auf den Drucksachen 18/4695 und 18/4838 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. – Ich sehe, Sie sind damit einverstanden. Dann ist die Überweisung so beschlossen.</p>
@@ -2141,6 +2141,7 @@
           <p>Ich berufe die nächste Sitzung des Bundestages auf Mittwoch, den 17. Juni 2015, 13 Uhr, ein.</p>
           <p>Ich wünsche Ihnen jetzt allen ein hoffentlich nicht so arbeitsreiches und vor allen Dingen sonniges Wochenende.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluss: 15.44 Uhr)</stage>
         </sp>
       </div>
     </body>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-07</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://www.bundestag.de/blob/359238/f3b61253063632ba228f3eed4709d6be/18083-data.txt</url>
-        <date>2015-10-20 20:01:36</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -36,7 +36,7 @@
   <text>
     <body>
       <div type="agenda_item" n="1" what="debate" desc="16 Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Geset...">
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Nehmen Sie bitte Platz. Die Sitzung ist eröffnet.</p>
           <p>Guten Morgen, liebe Kolleginnen und Kollegen! Ich begrüße Sie alle herzlich. Es gibt keine weiteren Veränderungen der gestern modifizierten Tagesordnung, sodass wir gleich mit dem Tagesordnungspunkt 16 sowie dem Zusatzpunkt 7 beginnen können:</p>
@@ -56,7 +56,7 @@
           <p>Ich eröffne die Aussprache und erteile das Wort zunächst der Bundesministerin der Verteidigung, Ursula von der Leyen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Ursula von der Leyen" parliamentary_group="NA" role="government" position="Bundesministerin der Verteidigung" party="CDU" name="Ursula von der Leyen">
+        <sp who="von der Leyen" parliamentary_group="NA" role="government" position="Bundesministerin der Verteidigung" who_original="Ursula von der Leyen" party="CDU" name="Ursula von der Leyen">
           <speaker>Dr. Ursula von der Leyen, Bundesministerin der Verteidigung:</speaker>
           <p>Vielen Dank, Herr Präsident. – Meine Damen und Herren! Wer heute einen Computer kaufen will, der recherchiert erst einmal im Internet und schaut im Vergleich zu anderen Computern, was er kostet, was er leisten kann, und vor allem, wie andere die Leistung des Computers bewerten. Das heißt, niemand kauft mehr die sprichwörtliche Katze im Sack. Genauso ist das heute auch auf dem Arbeitsmarkt. Wenn man sich irgendwo bewerben will, geht niemand mehr zum „Arbeitgeber im Sack“. Vielmehr schauen die jungen Leute ganz genau, wohin sie gehen und wie vor allem andere das bewerten.</p>
           <p>Umfragen zufolge schaut jeder Dritte im Internet, wie Arbeitgeber bewertet werden, was sie bieten, was sie können, ob es sich lohnt, sich dort zu bewerben, und wie andere über den jeweiligen Arbeitgeber sprechen. Wir haben uns deshalb einmal angeschaut, wie die Bundeswehr bei einem Jobzufriedenheitsbarometer abschneidet. Da stehen dann zum Beispiel als Pros: „Gutes Gehalt – Gute Ausbildung – Gutes Essen“, und als Kontras: „Zu kleine Betten – Standortwechsel sehr schwer“. Dieses kleine Beispiel macht sehr deutlich, wie vollständig sich der Arbeitsmarkt inzwischen gedreht hat. Die jungen Menschen stehen nicht mehr Schlange nach offenen Ausbildungsstellen. Vielmehr sitzen wir, die Bundeswehr, buchstäblich mitten im Schaufenster neben vielen anderen Arbeitgebern und werden ganz kritisch beäugt.</p>
@@ -95,12 +95,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Christine Buchholz ist die nächste Rednerin für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Christine Buchholz" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Christine Buchholz">
+        <sp who="Christine Buchholz" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Christine Buchholz" party="DIE LINKE" name="Christine Buchholz">
           <speaker>Christine Buchholz (DIE LINKE):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Die Bundesregierung will mit dem vorliegenden Gesetz die Attraktivität der Bundeswehr als Arbeitgeber steigern;</p>
           <stage type="interjection">(Dr. Karl A. Lamers [CDU/CSU]: Gut erkannt!)</stage>
@@ -130,12 +130,12 @@
           <p>Frau von der Leyen, machen Sie den Leuten nichts vor! Es geht nicht darum, ihnen eine persönliche Lebensperspektive zu schaffen, sondern es geht darum, die Bundeswehr als Armee im Einsatz handlungsfähig zu machen. Wir werden diesen Weg nicht mitgehen.</p>
           <stage type="interjection">(Beifall bei der LINKEN – Zuruf von der CDU/CSU: Gott sei Dank!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Rainer Arnold erhält nun das Wort für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Rainer Arnold" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rainer Arnold">
+        <sp who="Rainer Arnold" parliamentary_group="SPD" role="mp" position="NA" who_original="Rainer Arnold" party="SPD" name="Rainer Arnold">
           <speaker>Rainer Arnold (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Nur ein Satz zu den Linken – es sitzen ja auch Soldaten hier im Saal –: Würden Sie und Ihre Fraktionsspitze den Soldaten einfach mal sorgfältiger zuhören, dann würden Sie merken, was Sie hier für falsche Thesen aufstellen und wie sehr Sie insgesamt mit Ihrer Sichtweise im Abseits sind.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU – Zuruf von der LINKEN: Oberlehrer!)</stage>
@@ -174,11 +174,11 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort hat nun die Kollegin Doris Wagner für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Doris Wagner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Doris Wagner">
+        <sp who="Doris Wagner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Doris Wagner" party="GRUENE" name="Doris Wagner">
           <speaker>Doris Wagner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Frau Ministerin! Verehrte Kolleginnen und Kollegen! Zufall oder Planung? Auf jeden Fall passt es gut, dass wir das Artikelgesetz in erster Lesung just in der Sitzungswoche beraten, in der wir auch den neuen Wehrbericht erhielten.</p>
           <p>Sie, Frau Ministerin, möchten die Bundeswehr zum attraktivsten Arbeitgeber Deutschlands machen. Die Frage ist: Erreichen Sie dieses Ziel mit dem vorliegenden Gesetzentwurf? Ich glaube, dass das nur die ersten Schritte des Marathons sind, den Sie ansprachen; denn der vorliegende Gesetzentwurf trägt nicht ausreichend dazu bei, die Probleme der Bundeswehr wirklich zu lösen.</p>
@@ -203,12 +203,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Henning Otte ist der nächste Redner für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Henning Otte" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Henning Otte">
+        <sp who="Henning Otte" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Henning Otte" party="CDU" name="Henning Otte">
           <speaker>Henning Otte (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! Heute geht es um einen sehr wichtigen Gesetzentwurf: um den Entwurf eines Gesetzes zur Steigerung der Attraktivität des Dienstes in der Bundeswehr. Es war für die Union ein ganz besonders wichtiger Punkt, dies in den Koalitionsvertrag einzubringen und nun auch umzusetzen. Wir stehen immer an der Seite unserer Soldatinnen und Soldaten. Wir danken unserem Koalitionspartner dafür, dass er uns bei dieser Arbeit unterstützt.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
@@ -232,12 +232,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort hat nun der Kollege Michael Leutert für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Michael Leutert" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Michael Leutert">
+        <sp who="Michael Leutert" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Michael Leutert" party="DIE LINKE" name="Michael Leutert">
           <speaker>Michael Leutert (DIE LINKE):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Frau Ministerin, Sie haben im Frühjahr letzten Jahres eine Attraktivitätsoffensive angekündigt und das Ziel formuliert, dass die Bundeswehr der attraktivste Arbeitgeber im Lande werden soll. Heute liegt uns ein Gesetzentwurf vor, durch den über zehn Gesetze und Verordnungen geändert werden sollen, Kostenpunkt: zwischen 250 und 300 Millionen Euro im Jahr im Durchschnitt, also die nächsten vier Jahre ungefähr 1 Milliarde Euro. Im Kern geht es – das ist hier schon gesagt worden – um Arbeitsbedingungen, höhere Vergütung bzw. Erschwerniszuschläge, soziale Absicherung.</p>
           <p>All das – Frau Ministerin, Sie haben das selber gesagt – sind allerdings Dinge, bei denen sich in den letzten Jahren etwas angestaut hat und jetzt notwendigerweise Abhilfe geschaffen werden muss. Sie haben selber gesagt, Sie arbeiten sich auf Normalmaß vor. Die letzte Wehrsolderhöhung zum Beispiel gab es im Jahr 2008, damals um 2 Euro. Dieses Mal soll es wieder eine Wehrsolderhöhung geben, wieder um 2 Euro – pro Tag im Übrigen; das muss man dazusagen. Ich bin mir nicht sicher, ob das dazu beiträgt, die Bundeswehr attraktiver zu machen.</p>
@@ -269,17 +269,17 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Der Kollege Felgentreu hat nun für die SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Fritz Felgentreu" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Fritz Felgentreu">
+        <sp who="Fritz Felgentreu" parliamentary_group="SPD" role="mp" position="NA" who_original="Fritz Felgentreu" party="SPD" name="Fritz Felgentreu">
           <speaker>Dr. Fritz Felgentreu (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Programmatische Äußerungen zur Attraktivität des Dienstes in der Bundeswehr sind so alt wie die Truppe selbst. Ich denke da an Sätze, wie ich sie als aktiver Soldat vor 25 Jahren in der Truppe öfter gehört habe, zum Beispiel den Klassiker „Klagt nicht! Kämpft!“ oder auch solche Sätze wie „Ein Offizier beschwert sich nicht!“</p>
           <stage type="interjection">(Lachen bei der LINKEN)</stage>
           <p>oder so etwas wie „Schreiben Sie doch einen Brief: Lieber Herr Wehrbeauftragter...“ Zusammengefasst wurde das alles in einem durchaus ernstgemeinten Grundsatz, dem ich seine allgemeine -Berechtigung auch gar nicht absprechen will: „Der Soldat ist immer im Dienst.“ „Der Soldat ist immer im Dienst“ – das galt für eine Bundeswehr, die als große Wehrpflichtigenarmee mit hoher Bereitschaft in der Zeit der Blockkonfrontation oft eher damit Probleme hatte, ihre vielen Soldaten sinnvoll zu beschäftigen, als mit der Frage, woher sie gute Leute bekommen sollte. Denn unter den vielen fanden sich fast immer genug, die feststellten, dass ihnen der Soldatenberuf liegt, und aus deren Reihen kommen die erfahrenen Offiziere und Unteroffiziere der Generation um die 50, die heute in vorderster Verantwortung stehen.</p>
-          <p>Die Zeiten und die Bundeswehr haben sich aber gründlich geändert. Sie war damals eine große Armee, sie hatte den Auftrag, einen mächtigen Gegner abzuschrecken und so den Frieden in Europa zu sichern, schlimmstenfalls das Land zu verteidigen. Daraus ist heute eine für ein 80 Millionen-Volk in der Mitte Europas wirklich sagenhaft schlanke, kleine Truppe geworden. Heute konzentriert sich die Bundeswehr vor allem auf ihre Fähigkeit, gemeinsam mit Partnernationen internationale Einsätze durchzuführen.</p>
+          <p>Die Zeiten und die Bundeswehr haben sich aber gründlich geändert. Sie war damals eine große Armee, sie hatte den Auftrag, einen mächtigen Gegner abzuschrecken und so den Frieden in Europa zu sichern, schlimmstenfalls das Land zu verteidigen. Daraus ist heute eine für ein 80-Millionen-Volk in der Mitte Europas wirklich sagenhaft schlanke, kleine Truppe geworden. Heute konzentriert sich die Bundeswehr vor allem auf ihre Fähigkeit, gemeinsam mit Partnernationen internationale Einsätze durchzuführen.</p>
           <p>Die Wehrpflicht, die das deutsche Militär seit den Befreiungskriegen geprägt hatte, ist praktisch abgeschafft. Schon die beiden ersten Worte des alten Grundsatzes „Der Soldat ist immer im Dienst“ passen nicht mehr. Heute muss es heißen: „Der Soldat und die Soldatin …“ Aber bisher haben wir als Gesellschaft, als Gesetzgeber, als Dienstherr aus diesen Veränderungen weder mental noch in der Ausgestaltung die notwendigen Konsequenzen gezogen, damit diese veränderte Armee in einer veränderten Welt ihren Auftrag auf Dauer zuverlässig erfüllen kann.</p>
           <p>Wir haben eine Freiwilligenarmee. Das bedeutet – ich habe jetzt einfach einmal den Mut zur Banalität –: Wir brauchen Freiwillige. Die Freiwilligen stehen aber nicht allein vor unseren Karrierecentern Schlange.</p>
           <stage type="interjection">(Christine Buchholz [DIE LINKE]: Die kommen nicht freiwillig!)</stage>
@@ -312,23 +312,23 @@
           <p>In jedem Fall ist unser Weg in eine moderne und attraktive Bundeswehr mit diesem Gesetz nicht zu Ende. Am Standort und im Einsatz können wir an vielen Stellen mehr für die Zufriedenheit der Soldatinnen und Soldaten tun – mein Kollege Thomas Hitschler wird darauf gleich noch eingehen –: durch Gesetzgebung und Finanzierung, aber auch dadurch, wie der rechtliche Rahmen mit Leben erfüllt wird. Jeder Kommandeur sollte den Ehrgeiz haben, dass die Bundeswehr immer die attraktivste Arbeitgeberin an seinem Standort ist.</p>
           <p>Die Anforderungen an Soldatinnen und Soldaten sind hoch, und sie werden hoch bleiben; das ist auch richtig so.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege, könnten Sie mit diesem wunderschönen Gedanken Ihre Rede allmählich beenden?</p>
         </sp>
-        <sp who="Dr. Fritz Felgentreu" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Fritz Felgentreu">
+        <sp who="Fritz Felgentreu" parliamentary_group="SPD" role="mp" position="NA" who_original="Fritz Felgentreu" party="SPD" name="Fritz Felgentreu">
           <speaker>Dr. Fritz Felgentreu (SPD):</speaker>
           <p>Letzter Satz. – Wenn es uns gelingt, Jahr für Jahr eine ausreichende Zahl tüchtiger junger Leute für den anspruchsvollen Dienst in einer modernen und attraktiven Bundeswehr zu gewinnen, dann ist mir um die Zukunft unserer Freiwilligenarmee und auch um die Sicherheit unseres Landes nicht bange. – Herr Präsident, ich danke für Ihre Geduld.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Geht doch.</p>
           <stage type="interjection">(Heiterkeit)</stage>
           <p>Nun hat die Kollegin Brugger für die Fraktion Bündnis 90/Die Grünen das Wort.</p>
         </sp>
-        <sp who="Agnieszka Brugger" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Agnieszka Brugger">
+        <sp who="Agnieszka Brugger" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Agnieszka Brugger" party="GRUENE" name="Agnieszka Brugger">
           <speaker>Agnieszka Brugger (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Die Hochglanzbroschüre ist längst verteilt, der Showroom an der Berliner Friedrichstraße ist eingerichtet und mehr oder weniger gut besucht.</p>
           <stage type="interjection">(Wilfried Lorenz [CDU/CSU]: Sehr gut besucht!)</stage>
@@ -352,12 +352,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Michaela Noll ist die nächste Rednerin für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Michaela Noll" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michaela Noll">
+        <sp who="Michaela Noll" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michaela Noll" party="CDU" name="Michaela Noll">
           <speaker>Michaela Noll (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Meine Damen und Herren! Wenn ich meinen Blick nach oben richte, sehe ich Herrn Wüstner und Herrn Schönmeyer vom BundeswehrVerband. Ich möchte Ihnen sagen: Vielen Dank für Ihre Anregungen! Vieles von dem, was wir hier heute diskutieren, war Gegenstand des Dialogs zwischen Ihnen und uns.</p>
           <p>Ich weiß, dass Sie circa 200 000 Mitglieder haben. Ich befürchte aber, dass nicht alle heute vor dem Fernseher sitzen und diese Debatte verfolgen. Deswegen würde ich Sie bitten, das, was Sie heute aus dieser Debatte mitnehmen, an die Soldatinnen und Soldaten vor Ort weiterzutragen, damit diese wissen: Es ist ein sehr guter Tag für die Soldatinnen und Soldaten.</p>
@@ -371,7 +371,7 @@
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
           <p>Ich möchte etwas erwähnen, was den Soldaten, aber nicht all denjenigen, die hier im Saal sind, vertraut ist:</p>
           <p>Ich schwöre, der Bundesrepublik Deutschland treu zu dienen und das Recht und die Freiheit des deutschen Volkes tapfer zu verteidigen.</p>
-          <p>Das ist der Diensteid, den die Berufssoldatinnen und  soldaten und die Soldaten auf Zeit leisten. Ich habe ihn bewusst wiedergegeben, um zu transportieren, über was und über wen wir hier wirklich sprechen. Es geht um die Menschen, die bereit sind, im schlimmsten Fall ihr Leben für uns, für unsere Sicherheit und für unsere Freiheit einzusetzen.</p>
+          <p>Das ist der Diensteid, den die Berufssoldatinnen und -soldaten und die Soldaten auf Zeit leisten. Ich habe ihn bewusst wiedergegeben, um zu transportieren, über was und über wen wir hier wirklich sprechen. Es geht um die Menschen, die bereit sind, im schlimmsten Fall ihr Leben für uns, für unsere Sicherheit und für unsere Freiheit einzusetzen.</p>
           <p>Ich mache einmal einen kleinen Abstecher. Ich war diese Woche Montag im „Wald der Erinnerung“; General Fritz hat mich durchgeführt. In diesem Wald sieht man an den Stelen und Bäumen die Namen der gefallenen und gestorbenen Soldaten. Ich denke, diese Gedenkstätte ist ein deutliches Zeichen gegen das Vergessen. Er ist auf Wunsch der Hinterbliebenen entstanden. Es ist ein Ort der Stille und der Trauer. Deswegen sage ich: Soldat ist kein Beruf wie jeder andere. Denn die Soldatinnen und Soldaten sind bereit, alles zu geben.</p>
           <p>Dass Freiheit und Sicherheit nicht mehr selbstverständlich sind, haben jetzt und heute, glaube ich, alle begriffen. Die weltweite Sicherheitslage hat sich komplett verändert. Überall in der Welt gibt es Krisen und Instabilität. Es gibt Auseinandersetzungen, zum Beispiel in der Ukraine oder in Form des Vormarsches des IS und der Anschläge in Paris. Freiheit und Frieden sind keine Selbstverständlichkeit mehr.</p>
           <p>Die Generation, die heute hier oben und unten im Saal sitzt, ist die Generation, die letztendlich noch nie einen Krieg erlebt hat. Wir kennen ihn nur aus den Erzählungen unserer Eltern und unserer Großeltern. Deswegen sage ich: Sicherheit ist nicht zum Nulltarif zu haben. Wir müssen Geld für die Bundeswehr in die Hand nehmen; denn die Ansprüche an die Bundeswehr und an ihr Personal werden weiter zunehmen. Rund 120 Millionen Euro zusätzlich werden allein im Jahr 2015 zur Verfügung gestellt. Das ist ein Anfang.</p>
@@ -388,13 +388,13 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Ein ermutigendes Beispiel dafür, dass ein Debattenbeitrag auch durch radikale Kürzung des Manuskripts nicht an Wirkung verlieren muss.</p>
           <stage type="interjection">(Heiterkeit)</stage>
           <p>Nächster Redner ist der Kollege Thomas Hitschler für die SPD-Fraktion.</p>
         </sp>
-        <sp who="Thomas Hitschler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Thomas Hitschler">
+        <sp who="Thomas Hitschler" parliamentary_group="SPD" role="mp" position="NA" who_original="Thomas Hitschler" party="SPD" name="Thomas Hitschler">
           <speaker>Thomas Hitschler (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Die öffentliche Aufmerksamkeit für sicherheits- und verteidigungspolitische Themen hat im vergangenen Jahr deutlich zugenommen. Die dramatischen Veränderungen im Weltgeschehen und die Frage nach unserer eigenen Rolle und Verantwortung auf der einen Seite sowie der Zustand der Ausrüstung unserer Truppe auf der anderen Seite haben für viel Aufsehen gesorgt.</p>
           <p>Die Vielzahl der Bilder und Karikaturen mit sicherheitspolitischen Themen in unseren Zeitungen ist ein Indikator für die gesteigerte Aufmerksamkeit. Das wurde mir gerade in dieser Woche bei der Veranstaltung „Rückblende 2014“ in der Landesvertretung Rheinland-Pfalz deutlich vor Augen geführt. In einer zentral platzierten Karikatur hüpft beispielsweise ein junger Soldat händeklatschend durch eine Waldorfkaserne und freut sich darüber, dass dort gesungen, geklatscht und gebastelt wird.</p>
@@ -424,11 +424,11 @@
           <p>Sei es bei der Ausrüstung, sei es bei den Kasernen, sei es bei den Themen, die wir nun mit dem Attraktivitätsgesetz konkret anpacken – ich ermutige uns alle: Lassen wir uns nicht von etwas Spott und Häme über Wohlfühltruppen und Waldorfkasernen davon abbringen. Denn dafür ist dieses Thema viel zu wichtig.</p>
           <p>Vielen Dank.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält nun die Kollegin Julia Obermeier für die CDU/CSU-Fraktion.</p>
         </sp>
-        <sp who="Julia Obermeier" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Julia Obermeier">
+        <sp who="Julia Obermeier" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Julia Obermeier" party="CSU" name="Julia Bartz">
           <speaker>Julia Obermeier (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Der Soldatenberuf ist kein Beruf wie jeder andere. Der Dienst in den Streitkräften ist fordernd, außergewöhnlich und manchmal lebensgefährlich. Ob Piloten von Kampfjets, U-Boot-Fahrer, Scharfschützen, Instandsetzungsfeldwebel, Flugzeugmechaniker oder Sanitäter, alle Angehörigen der Bundeswehr haben den Auftrag, uns und unser Land zu verteidigen. Diese für die äußere Sicherheit unseres Staates wesentliche Aufgabe legen wir Tag für Tag in ihre Hände.</p>
           <p>Ich habe die Bundeswehr bei vielen Truppenbesuchen erlebt. Vor allem im Ausland wurde mir deutlich vor Augen geführt, welch herausragende Leistungen unsere Frauen und Männer in Uniform bei der Erfüllung ihres Dienstes erbringen.</p>
@@ -449,12 +449,12 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Letzter Redner zu diesem Tagesordnungspunkt ist der Kollege Oswin Veith, auch für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Oswin Veith" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Oswin Veith">
+        <sp who="Oswin Veith" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Oswin Veith" party="CDU" name="Oswin Veith">
           <speaker>Oswin Veith (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Liebe Soldatinnen und Soldaten auf der Besuchertribüne! Zum Schluss der Debatte will ich noch einmal daran erinnern: Vor knapp sechs Monaten haben Sie, Frau Bundesministerin von der Leyen, Ihren Anspruch formuliert, die Bundeswehr zu einem der attraktivsten Arbeitgeber in Deutschland zu machen. Von vielen -damals belächelt, lassen Sie mit dem vorliegenden Gesetzentwurf im Rekordtempo Taten folgen. Das ist vorbildlich und zeigt den hohen Stellenwert und die Wertschätzung der Leistungen unserer Soldatinnen und Soldaten, und das begrüße ich und begrüßt meine Fraktion außerordentlich.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
@@ -474,7 +474,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird Überweisung des Gesetzentwurfs auf der Drucksache 18/3697 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Gibt es dazu andere Vorschläge? – Das ist nicht der Fall, dann ist die Überweisung so beschlossen.</p>
@@ -492,7 +492,7 @@
           <p>Haushaltsausschuss mitberatend und gemäß § 96 der GO</p>
           <p>b) Beratung der Unterrichtung durch die Bundesregierung</p>
           <p>Zweiter Erfahrungsbericht der Bundesregierung zum Bundesgleichstellungsgesetz</p>
-          <stage type="interjection">(Berichtszeitraum 1. Juli 2004 bis 30. Juni 2009)</stage>
+          <p>(Berichtszeitraum 1. Juli 2004 bis 30. Juni 2009)</p>
           <p>Drucksache 17/4307</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Familie, Senioren, Frauen und Jugend (f)</p>
@@ -518,16 +518,16 @@
         </sp>
       </div>
       <div type="agenda_item" n="2" what="debate" desc="a) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Geset...">
-        <sp who="Manuela Schwesig" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" party="SPD" name="Manuela Schwesig">
+        <sp who="Manuela Schwesig" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" who_original="Manuela Schwesig" party="SPD" name="Manuela Schwesig">
           <speaker>Manuela Schwesig, Bundesministerin für Familie, Senioren, Frauen und Jugend:</speaker>
           <p>Aber Herr Lammert ist da. Das ist doch auch toll. Ein Präsident, der zuhört.</p>
           <stage type="interjection">(Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Der Chef!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Er ist gelegentlich schon einmal hier. Ich bedanke mich ausdrücklich für die freundliche Erwähnung.</p>
         </sp>
-        <sp who="Manuela Schwesig" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" party="SPD" name="Manuela Schwesig">
+        <sp who="Manuela Schwesig" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" who_original="Manuela Schwesig" party="SPD" name="Manuela Schwesig">
           <speaker>Manuela Schwesig, Bundesministerin für Familie, Senioren, Frauen und Jugend:</speaker>
           <p>Sehr geehrter Herr Präsident! Sehr geehrte Damen und Herren Abgeordnete!</p>
           <p>Männer und Frauen sind gleichberechtigt.</p>
@@ -563,12 +563,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält nun die Kollegin Caren Lay für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Caren Lay" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Caren Lay">
+        <sp who="Caren Lay" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Caren Lay" party="DIE LINKE" name="Caren Lay">
           <speaker>Caren Lay (DIE LINKE):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Über ein Jahr wird nun schon lauthals und öffentlich über die Frauenquote für die Privatwirtschaft diskutiert. Es wurde zäh verhandelt, und es gab sage und schreibe sechs verschiedene Referentenentwürfe. Die Wirtschaftsvertreter warnten vor unzumutbaren Belastungen für die deutsche Wirtschaft, und Herr Kauder, der Fraktionschef der CDU/CSU-Fraktion, machte sich auch noch einen Namen als Obermacho des Deutschen Bundestages, als er Frau Schwesig als weinerlich beschimpfte; dabei hatte Herr Kauder – ich sehe ihn gerade nicht – wirklich harte Konkurrenz.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -596,12 +596,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Für die CDU/CSU spricht jetzt der Kollege Marcus Weinberg.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie der Abg. Christina Jantz [SPD] und Dr. Carola Reimann [SPD])</stage>
         </sp>
-        <sp who="Marcus Weinberg" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Marcus Weinberg">
+        <sp who="Marcus Weinberg (Hamburg)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Marcus Weinberg (Hamburg)" party="CDU" name="Marcus Weinberg">
           <speaker>Marcus Weinberg (Hamburg) (CDU/CSU):</speaker>
           <p>Vielen Dank. – Herr Präsident! Liebe Kolleginnen und Kollegen! Ja, das kennen wir von den Linken: mehr, mehr, mehr.</p>
           <stage type="interjection">(Dr. Petra Sitte [DIE LINKE]: Besser! Besser!)</stage>
@@ -646,11 +646,11 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Nächste Rednerin ist die Kollegin Katja Dörner für Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Katja Dörner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Katja Dörner">
+        <sp who="Katja Dörner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Katja Dörner" party="GRUENE" name="Katja Dörner">
           <speaker>Katja Dörner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen! Liebe Kollegen! Wir haben in den vergangenen Jahren hier im Bundestag häufig über die Quote diskutiert, aber heute sprechen wir erstmals über einen Gesetzentwurf, der aller Voraussicht nach nicht nur beschlossen werden wird, sondern auch in Kraft treten wird. Deshalb, finde ich, ist heute die richtige Gelegenheit, Danke zu sagen all denen, die jahrelang dafür geackert haben, dass eine gesetzliche Quote für die Aufsichtsräte jetzt tatsächlich in greifbarer Nähe ist.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der CDU/CSU und der LINKEN)</stage>
@@ -662,13 +662,13 @@
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und der LINKEN)</stage>
           <p>Liebe Kolleginnen, liebe Kollegen, wir ernten heute die Früchte jahrelanger Arbeit, und ich möchte an die Adresse aller, die gesät, begossen, gehegt und gepflegt haben, sagen: Danke für dieses Wahnsinnsengagement!</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
-          <p>Liebe Kolleginnen, liebe Kollegen, eine 30 Prozent-Quote für die Aufsichtsräte, da haben wir durchaus einen anständigen Spatz in der Hand. Aber Sie wissen, wir Grünen wollen mehr. Unser Gesetzentwurf fordert eine Quote von 40 Prozent ein. 40 Prozent wären weiß Gott keine Taube auf dem Dach, sondern das ist das gute Recht der Frauen.</p>
+          <p>Liebe Kolleginnen, liebe Kollegen, eine 30-Prozent-Quote für die Aufsichtsräte, da haben wir durchaus einen anständigen Spatz in der Hand. Aber Sie wissen, wir Grünen wollen mehr. Unser Gesetzentwurf fordert eine Quote von 40 Prozent ein. 40 Prozent wären weiß Gott keine Taube auf dem Dach, sondern das ist das gute Recht der Frauen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und der LINKEN)</stage>
           <p>Aber ich will mich bei den 30 Prozent nicht aufhalten. Schon in der Berliner Erklärung hat es geheißen: 30 Prozent können ein erster Schritt sein.</p>
-          <p>Was mich aber an dem Regierungsentwurf wirklich stört und was leider zeigt, dass Frau Schwesig doch auf einer Schnecke reitet, ist, dass die 30 Prozent-Quote gerade einmal für mickrige 108 Unternehmen gelten soll. Die Quote nur für börsennotierte und mitbestimmte Unternehmen, das ist uns Grünen definitiv zu wenig.</p>
+          <p>Was mich aber an dem Regierungsentwurf wirklich stört und was leider zeigt, dass Frau Schwesig doch auf einer Schnecke reitet, ist, dass die 30-Prozent-Quote gerade einmal für mickrige 108 Unternehmen gelten soll. Die Quote nur für börsennotierte und mitbestimmte Unternehmen, das ist uns Grünen definitiv zu wenig.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Wer wirklich will, dass sich für die Frauen etwas ändert und dass die Quote ausstrahlt, der muss die rund 3 500 börsennotierten oder mitbestimmungspflichtigen Unternehmen mit ins Boot holen. Das wollen wir.</p>
-          <p>Liebe Kolleginnen, liebe Kollegen, ich will aber auch einen Blick auf das Bundesgremienbesetzungsgesetz werfen, also auf die Führungspositionen in den öffentlichen Unternehmen. Da klingen mir noch die vielen Reden von Frau Schwesig im Ohr nach dem Motto: Die öffentlichen Unternehmen müssen mit gutem Beispiel vorangehen. – Wie sieht es denn bei den öffentlichen Unternehmen aus? Da gibt es schon seit 1994 – eingeführt von der damaligen Frauenministerin Angela Merkel – eine ganz klare Regelung: Vorstände, Beiräte, Verwaltungs- und Aufsichtsräte müssen paritätisch besetzt sein. Das ist also quasi eine 50 Prozent-Quote. Umgesetzt ist die nicht. Die Nichteinhaltung hat keinerlei Konsequenzen – eben mit der Folge, dass der Frauenanteil in den Aufsichtsgremien gerade einmal bei 25 Prozent liegt. Klar ist: Hier muss sich etwas ändern.</p>
+          <p>Liebe Kolleginnen, liebe Kollegen, ich will aber auch einen Blick auf das Bundesgremienbesetzungsgesetz werfen, also auf die Führungspositionen in den öffentlichen Unternehmen. Da klingen mir noch die vielen Reden von Frau Schwesig im Ohr nach dem Motto: Die öffentlichen Unternehmen müssen mit gutem Beispiel vorangehen. – Wie sieht es denn bei den öffentlichen Unternehmen aus? Da gibt es schon seit 1994 – eingeführt von der damaligen Frauenministerin Angela Merkel – eine ganz klare Regelung: Vorstände, Beiräte, Verwaltungs- und Aufsichtsräte müssen paritätisch besetzt sein. Das ist also quasi eine 50-Prozent-Quote. Umgesetzt ist die nicht. Die Nichteinhaltung hat keinerlei Konsequenzen – eben mit der Folge, dass der Frauenanteil in den Aufsichtsgremien gerade einmal bei 25 Prozent liegt. Klar ist: Hier muss sich etwas ändern.</p>
           <p>Nun passiert aber mit dem vorliegenden Gesetzentwurf etwas ziemlich Absonderliches. Es werden nämlich nicht etwa Maßnahmen implementiert, um eine paritätische Besetzung zu gewährleisten und damit das bestehende Gesetz wirklich einzuhalten, nein, die geforderte Quote wird zunächst auf 30 Prozent abgesenkt und damit einfach – salopp gesagt – der Realität angepasst. Von einer Vorreiterrolle kann hier tatsächlich keine Rede sein.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Was das Thema Vorbild angeht, erlaube ich mir einen kleinen Exkurs. Wie sieht es denn mit der Bundesregierung aus?</p>
@@ -682,12 +682,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Nächste Rednerin ist die Kollegin Elisabeth Winkelmeier-Becker für die CDU/CSU.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Elisabeth Winkelmeier-Becker" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Elisabeth Winkelmeier-Becker">
+        <sp who="Elisabeth Winkelmeier-Becker" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Elisabeth Winkelmeier-Becker" party="CDU" name="Elisabeth Winkelmeier-Becker">
           <speaker>Elisabeth Winkelmeier-Becker (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Zunächst einmal freue ich mich über die schöne Debattenzeit, die wir dieses Mal haben. Weder als Rechtspolitiker noch als Frauenpolitiker sind wir es gewöhnt, hier am Freitagmorgen zur besten Sendezeit zu debattieren.</p>
           <p>Ich freue mich auch über die Reihenfolge der Themen. Beim ersten Tagesordnungspunkt haben wir heute über die Personalpolitik der Bundeswehr gesprochen, und jetzt sprechen wir über Frauenförderung mit Blick auf Führungspositionen. Früher hätte man gedacht: Größer kann der Gegensatz gar nicht sein: zuerst die Männerdomäne, dann die Frauenpolitik. Heute reicht ein Blick ins Ministerium, in die Truppe und auf das, was sich das Ministerium vornimmt, damit die Bundeswehr weiterhin attraktiv ist, um zu wissen, dass auch hier eine andere Zeit angebrochen ist und dass beides zusammenhängt, dass nämlich Frauen auch Führungspositionen in vermeintlichen Männerdomänen einnehmen können. Das ist ein gutes Zeichen auch für das Thema, das wir jetzt debattieren.</p>
@@ -718,22 +718,22 @@
           <p>Wir haben auch immer gesagt, dass 30 Prozent reichen, um die Strukturen aufzubrechen. Wir wünschen uns – und es wird nach meiner Auffassung sicherlich dazu kommen –, dass noch deutlich mehr Frauen in Führungspositionen kommen. Aber 30 Prozent reichen, um die Hindernisse abzubauen. Alles andere können wir dann dem Talent der qualifizierten Frauen überlassen. Dann wird sich alles von alleine ergeben. Zugleich bedeutet die 30-Prozent-Regelung definitiv keine Überforderung der Unternehmen. Es geht um wenige Hunderte Frauen. Insofern wird es kein Problem sein, in Deutschland oder darüber hinaus entsprechende qualifizierte und motivierte Frauen zu finden.</p>
           <p>Die weitere Regelung für die sonstigen börsennotierten und mitbestimmungspflichtigen Unternehmen – NA</p>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Frau Kollegin Winkelmeier-Becker, denken Sie bitte an die vereinbarte Redezeit.</p>
         </sp>
-        <sp who="Elisabeth Winkelmeier-Becker" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Elisabeth Winkelmeier-Becker">
+        <sp who="Elisabeth Winkelmeier-Becker" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Elisabeth Winkelmeier-Becker" party="CDU" name="Elisabeth Winkelmeier-Becker">
           <speaker>Elisabeth Winkelmeier-Becker (CDU/CSU):</speaker>
           <p>– das tue ich – wird auch diese nicht überfordern. Wir erwarten allerdings, dass diese Unternehmen ihre Pflichten sehr ernst nehmen und eine entsprechende Motivation an den Tag legen, um mehr Frauen in Führungspositionen zu bekommen, und werden das, soweit sie das transparent machen müssen, sehr aufmerksam verfolgen. Ich freue mich auf unsere weiteren Beratungen.</p>
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Nächste Rednerin ist die Kollegin Sabine Zimmermann für die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Sabine Zimmermann" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Sabine Zimmermann">
+        <sp who="Sabine Zimmermann (Zwickau)" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Sabine Zimmermann (Zwickau)" party="DIE LINKE" name="Sabine Zimmermann">
           <speaker>Sabine Zimmermann (Zwickau) (DIE LINKE):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Wir reden heute wieder einmal über die gleichberechtige Teilhabe von Frauen und Männern in der Wirtschaft und im öffentlichen Dienst. Meine Damen und Herren, wie lange wollen wir noch darüber reden? Es sind schon Jahrzehnte, und im Wesentlichen werden die Frauen immer wieder auf die Zukunft vertröstet. Das darf doch nicht wahr sein. Wir müssen endlich einmal zu Potte kommen. Wie lange soll das noch gehen?</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -757,12 +757,12 @@
           <p>Es ist offensichtlich: Von dieser Regierung sind keine Initiativen für mehr Gleichstellung zu erwarten. Deshalb steht die Linke gemeinsam mit der Gewerkschaft Verdi an der Seite der Beschäftigten in sozialen Berufen. Denn das, was hier überwiegend Frauen leisten, ist harte Arbeit und richtig wichtig, richtig gut und richtig was wert. Wer dafür kämpft und streikt, tut tausendmal mehr für die Gleichberechtigung als die Bundesregierung mit ihrem Gesetzentwurf.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Für die SPD spricht jetzt die Kollegin Dr. Carola Reimann.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Carola Reimann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Carola Reimann">
+        <sp who="Carola Reimann" parliamentary_group="SPD" role="mp" position="NA" who_original="Carola Reimann" party="SPD" name="Carola Reimann">
           <speaker>Dr. Carola Reimann (SPD):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren!</p>
           <p>Ob ein Mann mir seinen Platz in der Straßenbahn anbietet, das ist mir egal, er soll mir einen Platz in seinem Aufsichtsrat anbieten.</p>
@@ -783,12 +783,12 @@
           <p>Danke fürs Zuhören.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Vielen Dank, insbesondere auch für die präzise Einhaltung der Redezeit.</p>
           <p>Jetzt erteile ich der Kollegin Renate Künast, Bündnis 90/Die Grünen, das Wort.</p>
         </sp>
-        <sp who="Renate Künast" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Renate Künast">
+        <sp who="Renate Künast" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Renate Künast" party="GRUENE" name="Renate Künast">
           <speaker>Renate Künast (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Geschenkt worden ist uns Frauen nichts. Das knüpft vielleicht gut an die Rede von Carola Reimann an, die am Ende über die Solidarität geredet hat. Es waren am Ende immer die Frauen, die ihre Rechte und ihre Möglichkeiten in dieser Gesellschaft selbst erkämpft haben.</p>
           <p>Wenn beim Parlamentarischen Rat, der das Grund-gesetz 1949 erarbeitet hat, nicht eine Frau, nämlich Elisabeth Selbert, die Bereitschaft gehabt hätte, allen anderen Herren auf die Nerven zu gehen, hätten wir die Gleichstellung im Grundgesetz nie gehabt. Uns hätte ein Ausgangspunkt gefehlt.</p>
@@ -817,12 +817,12 @@
           <p>Wir sind wieder einmal einen Schritt weiter. Ich denke, wir werden einen Dominoeffekt auslösen und für eine Ermutigung sorgen, die Kultur zu ändern. Die gute Botschaft, meine Damen und Herren, insbesondere meine Damen, ist: Solidarität innerhalb und außerhalb des Bundestages hat sich gelohnt. Wir sollten uns das für die Zukunft bewahren; denn wir haben mit dem Kampf um die Gleichstellung erst angefangen. Wenn wir dieses Gesetz verabschiedet haben, könnten wir zum Beispiel bei der Entgeltgleichheit weitermachen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Für die CDU/CSU spricht jetzt die Kollegin Gudrun Zollner.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Gudrun Zollner" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Gudrun Zollner">
+        <sp who="Gudrun Zollner" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Gudrun Zollner" party="CSU" name="Gudrun Zollner">
           <speaker>Gudrun Zollner (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine werten Kolleginnen und Kollegen! Die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen, im Sprachgebrauch kurz: Frauenquote, haben wir in den letzten Monaten immer wieder kontrovers diskutiert, und wir debattieren auch heute wieder darüber. Die Gleichberechtigung ist zwar im Grundgesetz verankert; aber in der Realität ist sie immer noch nicht angekommen.</p>
           <p>Wir sind uns einig, dass Frauen in Führungspositionen unserem Land guttäten.</p>
@@ -852,12 +852,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Für die Bundesregierung spricht jetzt der Parlamentarische Staatssekretär Christian Lange.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucherschutz" party="SPD" name="Christian Lange">
+        <sp who="Christian Lange" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucherschutz" who_original="Christian Lange" party="SPD" name="Christian Lange">
           <speaker>Christian Lange, Parl. Staatssekretär beim Bundesminister der Justiz und für Verbraucherschutz:</speaker>
           <p>Sehr geehrter Herr Präsident! Meine sehr verehrten Damen und Herren! 96 Jahre nach Einführung des Frauenwahlrechts in Deutschland beenden wir mit dem Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst der Bundesregierung eine jahrzehntelange Auseinandersetzung darüber, wie wir Artikel 3 Grundgesetz zum Durchbruch verhelfen können. Ja, wir beenden quasi einen Kulturkampf.</p>
           <p>Vor fast genau 96 Jahren, am 19. Februar 1919, sagte die von mir geschätzte Marie Juchacz, nachdem sie in die Weimarer Nationalversammlung gewählt wurde und als erste Parlamentarierin nach Einführung des Frauenwahlrechts sprechen durfte – ich zitiere sie –:</p>
@@ -884,17 +884,17 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Der Kollege Professor Heribert Hirte ist der nächste Redner für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Heribert Hirte" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Heribert Hirte">
+        <sp who="Heribert Hirte" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Heribert Hirte" party="CDU" name="Heribert Hirte">
           <speaker>Dr. Heribert Hirte (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Liebe Zuhörer! Vor allen Dingen: Liebe Schülerinnen und liebe Schüler! Der hier vorgelegte Gesetzentwurf ist ein richtiges Signal, das zur Verbesserung der Chancengleichheit von Frauen und Männern in Führungspositionen beiträgt; denn in deutschen Aufsichtsräten und Vorständen sind zu wenige Frauen vertreten. Es ist richtig, wenn wir gemeinsam daran arbeiten, dies zu verbessern. Aber es ist auch nur ein Signal. Das erklärt auch, warum das Gesetzesvorhaben in Teilen meiner Fraktion durchaus auch kritisch gesehen wird.</p>
           <p>Denn wenn wir eine Quote einführen, durch die eine kleine dreistellige Zahl von Frauen in Führungspositionen gelangen wird, blenden wir einen großen Teil der Schwierigkeiten aus, die gerade Frauen auf dem Weg dorthin zu gewärtigen haben. Das betrifft, was im momentanen Gesetzestext noch nicht so richtig zum Ausdruck kommt, vor allen Dingen Frauen mit Kindern. Empirische Studien belegen, dass gerade solche Frauen – aber eben nur solche – mit teilweise erheblichen Einkommens- und Karrierenachteilen zu rechnen haben. Kinderbetreuung in den Zeiten, in denen sie für die Tätigkeit als Vorstand oder Aufsichtsrat erforderlich ist, ist unverändert nicht leicht zu organisieren, schon gar nicht legal. Deshalb ist es nachdrücklich zu begrüßen, dass vor allen Dingen große Unternehmen diese Aufgabe selbst übernehmen. Das erklärt dann vielleicht auch, warum bei kleinen und mittelständischen Unternehmen – SDAX, MDAX usw. – der Frauenanteil in Führungspositionen nicht ganz so groß ist wie bei den ganz großen Unternehmen.</p>
           <p>Wenn der entsprechend größere Aufwand für die Kinderbetreuung dann auch steuerlich nur begrenzt geltend gemacht werden kann, „rechnet“ sich für viele rational denkende Eltern der Aufwand einer doppelten Karriere mit Kindern nicht. Ich bin deshalb auf den Fortgang einiger finanzgerichtlicher Prozesse gespannt, in denen Eltern diese Abzugsbeschränkungen zu Fall bringen wollen. Wenn zudem gerade Kindergärten „mit besonderer Liebe“ bestreikt werden, konterkariert auch dies die Bereitschaft von Müttern – übrigens auch von Vätern – zur Übernahme von Führungspositionen.</p>
-          <p>Es ist  – anders ausgedrückt – noch deutlich mehr zu tun, und dies an anderer Stelle, um die Familienkompatibilität von Führungspositionen herzustellen. Andererseits: Ein bisschen Sog von oben schadet eben auch nicht.</p>
+          <p>Es ist – anders ausgedrückt – noch deutlich mehr zu tun, und dies an anderer Stelle, um die Familienkompatibilität von Führungspositionen herzustellen. Andererseits: Ein bisschen Sog von oben schadet eben auch nicht.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
           <p>Kommen wir zu einem zweiten Punkt. Frau Ministerin, Sie begründen die Quotenvorgaben damit, dass die Zahl qualifizierter Frauen in den letzten Jahren stetig zugenommen habe. Das ist richtig, aber unvollständig; denn im Aufsichtsrat – Gleiches gilt für die Führungsebenen darunter – gilt es, ganz unterschiedliche Fähigkeiten und Profile zusammenzuführen, wie etwa die Kenntnis bestimmter Branchen, ausländischer Märkte oder von Organisationsfragen einschließlich der Datenverarbeitung.</p>
           <p>Der Aufsichtsrat ist eine Fußballmannschaft und kein Elferrat. Deshalb kommt es schon sehr darauf an, ob man sich gerade für Bilanzrecht oder Steuerrecht interessiert oder – wie die Tochter unserer rechtspolitischen Sprecherin – für Maschinenbau, das sie nämlich studiert. Wir brauchen Stürmerinnen, Mittelfeldspielerinnen und Verteidigerinnen mit jeweils unterschiedlichen Qualifikationen. Ich würde mir wünschen, wenn sich mehr Frauen für diese wirtschaftsnahen Detailqualifikationen über die schlichte Wahl des Studienfaches hinaus interessieren würden; aber die Realität sah – jedenfalls bis vor kurzem – noch ganz anders aus.</p>
@@ -923,12 +923,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU – Ulle Schauws [BÜNDNIS 90/DIE GRÜNEN]: Sie wissen schon, dass Sie in einer Koalition mit denen sind? Sie torpedieren das ganze Gesetz!)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Für die SPD hat jetzt das Wort die Kollegin Christina Jantz.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Christina Jantz" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Christina Jantz">
+        <sp who="Christina Jantz" parliamentary_group="SPD" role="mp" position="NA" who_original="Christina Jantz" party="SPD" name="Christina Jantz">
           <speaker>Christina Jantz (SPD):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Herr Professor Hirte, eingangs möchte ich mich insbesondere im Namen meiner Fraktion, aber, wie ich denke, auch im -Namen vieler anderer Kolleginnen hier im Plenarsaal dagegen verwehren, Gleichstellungsbeauftragte als Bürokratieaufbau zu bezeichnen.</p>
           <stage type="interjection">(Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -947,12 +947,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Als Nächstes hat das Wort der Kollege Oswin Veith für die CDU/CSU.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Oswin Veith" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Oswin Veith">
+        <sp who="Oswin Veith" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Oswin Veith" party="CDU" name="Oswin Veith">
           <speaker>Oswin Veith (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Seit 66 Jahren garantiert unser Grundgesetz in Artikel 3 die gleichberechtigte Teilhabe von Männern und Frauen. Um das zu erreichen, haben wir in den letzten Jahren bereits vieles auf den Weg gebracht. Mit der Privatwirtschaft haben wir freiwillige Selbstverpflichtungen vereinbart und für den öffentlichen Dienst das Bundesgremienbesetzungsgesetz und auch das Bundesgleichstellungsgesetz verabschiedet.</p>
           <p>Der vorliegende Gesetzentwurf sieht nun eine Quotenregelung zur Verbesserung der Chancengleichheit für Frauen und Männer bei der Besetzung von Führungspositionen vor. Für börsennotierte Unternehmen, die der paritätischen Mitbestimmung unterliegen, gilt damit zukünftig für ihre Aufsichtsräte eine Geschlechterquote von mindestens 30 Prozent. Zudem wird es verbindliche Zielvereinbarungen für börsennotierte und mitbestimmungspflichtige Unternehmen geben. Ich bedaure es ausdrücklich, dass es nicht gelungen ist, gemeinsam mit der Privatwirtschaft dieses freiwillige Ziel zu erreichen.</p>
@@ -967,12 +967,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Abschließender Redner zu diesem Tagesordnungspunkt ist der Kollege Metin Hakverdi, SPD.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Metin Hakverdi" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Metin Hakverdi">
+        <sp who="Metin Hakverdi" parliamentary_group="SPD" role="mp" position="NA" who_original="Metin Hakverdi" party="SPD" name="Metin Hakverdi">
           <speaker>Metin Hakverdi (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Endlich – nicht im Sinne von heute, sondern im Sinne von: nach so vielen Jahren des Debattierens, der getroffenen Selbstverpflichtung durch Wirtschaft und Politik, der politischen Auseinandersetzung – hat sich die Einsicht durchgesetzt: Eine gerechte Gesellschaft, bei der alle – Frauen und Männer gleichermaßen – in Wirtschaft und Verwaltung Aufstiegschancen haben und Führungspositionen besetzen können, ist ohne eine gesetzlich verbindliche Quote offensichtlich nicht zu erreichen: Obwohl Frauen heute besser qualifiziert sind als Männer, obwohl Frauen über 50 Prozent der Bevölkerung aus-machen, liegt der Frauenanteil in den Aufsichtsräten der 160 größten deutschen Unternehmen unter 20 Prozent, bei den Vorständen sogar unter 6 Prozent.</p>
           <p>Der eine oder andere, die eine oder andere findet einen Eingriff des Gesetzgebers unangemessen. Denen sage ich: Gesetzgeberisches Handeln ist immer dort erforderlich, wo die gesellschaftlichen Mechanismen nicht in der Lage sind, eine offensichtliche Ungerechtigkeit zu überwinden. In diesem Fall muss der Gesetzgeber handeln: Männlich dominierte Strukturen lösen sich offensichtlich nicht freiwillig auf; das ist die Erkenntnis der letzten Jahre. Deshalb lasse ich weder das Argument unnötiger Bürokratie noch das eines unzulässigen Eingriffs in die unternehmerische Freiheit gelten.</p>
@@ -983,20 +983,20 @@
           <p>Ich bedanke mich für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Vielen Dank. – Damit schließe ich die Aussprache zu diesem Tagesordnungspunkt.</p>
           <p>Interfraktionell wird die Überweisung der Vorlagen auf den Drucksachen 18/3784, 18/4307 und 18/4308 (neu) an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. – Ich sehe, dass sich kein Widerspruch erhebt, Sie also alle damit einverstanden sind. Dann ist diese Überweisung so beschlossen.</p>
           <p>Ich rufe jetzt den Tagesordnungspunkt 18 auf:</p>
           <p>Beratung des Antrags der Abgeordneten Renate Künast, Hans-Christian Ströbele, Luise Amtsberg, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN</p>
           <p>Bericht über das Inhaftierungs- und Verhörprogramm der CIA vollständig und ungeschwärzt übermitteln</p>
-          <p>Drucksache 18/3558 </p>
+          <p>Drucksache 18/3558</p>
           <p>Nach einer interfraktionellen Vereinbarung sind für diese Aussprache 38 Minuten vorgesehen. – Ich höre auch hier keinen Widerspruch. Dann ist das so beschlossen.</p>
           <p>Damit eröffne ich die Aussprache und erteile als erster Rednerin der Kollegin Renate Künast, Bündnis 90/Die Grünen, das Wort.</p>
         </sp>
       </div>
       <div type="agenda_item" n="3" what="debate" desc="Beratung des Antrags der Abgeordneten Renate Künast, Hans-Christian Ströbele, Lu...">
-        <sp who="Renate Künast" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Renate Künast">
+        <sp who="Renate Künast" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Renate Künast" party="GRUENE" name="Renate Künast">
           <speaker>Renate Künast (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Ein ernstes Thema. Es geht um einen Antrag, bei dem meines Erachtens eigentlich niemand in diesem Haus dagegen sein kann.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie der Abg. Halina Wawzyniak [DIE LINKE])</stage>
@@ -1007,7 +1007,7 @@
           <p>Eigentlich haben wir bei diesem Thema doch alle die gleiche Meinung, zum Beispiel gerade gestern bezüglich des Bloggers in Saudi-Arabien. Der Kollege Tom Koenigs, der zum Beispiel dazu geredet hat, sitzt jetzt auch hier. Logisch. Aber wenn das so ist, meine Damen und Herren, muss doch der Deutsche Bundestag jetzt gemeinsam begrüßen, dass – erstens – der Geheimdienstausschuss des US-Senats unter Leitung von Dianne Feinstein diese Aufklärung über das Inhaftierungs- und Verhörprogramm der CIA, über Jahre mühevoll betrieben hat, und müsste – zweitens – logischerweise dann auch zustimmen, wenn wir heute beschließen wollen: Wir ersuchen die zuständigen Stellen in den USA, uns den vollständigen Bericht von 6 000 Seiten ungeschwärzt zu übermitteln. Das alles gehört logisch zusammen, meine Damen und Herren.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
           <p>Wir kennen ja nun alle die Zusammenfassung, die mittlerweile auf Deutsch – auf meinem Tisch liegt sie – erschienen ist, 500 Seiten.</p>
-          <stage type="interjection">(Monika Lazar [BÜNDNIS 90/DIE GRÜNEN] hält ein Buch hoch mit dem Titel „Der CIA-Folterbericht“)</stage>
+          <p>(Monika Lazar [BÜNDNIS 90/DIE GRÜNEN] hält ein Buch hoch mit dem Titel „Der CIA-Folterbericht“)</p>
           <p>Aber der Bericht hat eben 6 000 Seiten. Selbst bei dieser Zusammenstellung auf 500 Seiten – wenn man sie liest – kann man verzweifeln. Es ist unglaublich, dass so etwas in den USA geschehen ist, dass sich dieses politische System, vermeintlich um Freiheit zu verteidigen, dahin versteigen kann:</p>
           <p>Waterboarding. – Ich kann mir gar nicht vorstellen, wie sich ein Mensch physisch und psychisch dabei fühlt. Man ist dann doch zerstört, im wahrsten Sinne des Wortes zerstört – schon nach dem ersten Mal. Hier war es mindestens 18-mal.</p>
           <p>Entzug von Schlaf. – Meine Damen und Herren, das ist mit einem Land, dessen Verfassung anfängt mit „We the People“, eigentlich gar nicht vereinbar.</p>
@@ -1026,21 +1026,21 @@
           <p>Ich will diese Taten gar nicht voll gleichstellen, aber wenn etwas eine Straftat ist, dann ist etwas eine Straftat, und der deutsche Rechtsstaat und der Deutsche Bundestag sind nur glaubwürdig, wenn sie ohne Ansehen der Person und ohne Ansehen der Staaten sagen: Solche Straftaten werden von uns verfolgt. – Darum geht es.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Frau Kollegin Künast, ich darf Sie um Ihren letzten Satz bitten.</p>
         </sp>
-        <sp who="Renate Künast" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Renate Künast">
+        <sp who="Renate Künast" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Renate Künast" party="GRUENE" name="Renate Künast">
           <speaker>Renate Künast (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ja, ich komme zum Schluss. – Meine Damen und Herren, wenn wir bei der Prävention und Bekämpfung von Folter erfolgreich sein wollen, dann muss der Deutsche Bundestag diesen Bericht – 6 000 Seiten, ungeschwärzt – fordern. Ich meine, wenn wir in unserem Rechtsstaat wirklich gegen Folter kämpfen wollen, dann müssen wir die Frage nach diesem Bericht immer wieder stellen. Wir werden nie aufhören, nach diesem Bericht zu fragen – bis wir ihn haben.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Für die CDU/CSU spricht jetzt der Kollege Frank Heinrich.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Frank Heinrich" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Frank Heinrich">
+        <sp who="Frank Heinrich (Chemnitz)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Frank Heinrich (Chemnitz)" party="CDU" name="Frank Heinrich">
           <speaker>Frank Heinrich (Chemnitz) (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Am 17. Dezember 2014 haben wir an dieser Stelle über die Foltermethoden der CIA debattiert und waren uns über die Parteigrenzen hinweg einig – das wurde von Frau Künast in ihrer Rede gerade auch ge-sagt –, diese grausamen Praktiken zu verurteilen. Ich selber habe zu Beginn meiner Rede damals gesagt: „Schämt euch, Freunde in den USA …!“ Wir haben von sogenannten erweiterten Verhörtechniken gehört. Das ist eine grobe Verharmlosung von Folter. Lassen Sie mich einige der gravierendsten Verstöße einfach einmal ins Gedächtnis rufen: Verhaftungen auf Verdacht ohne jede Anklage, Abschottung von der Außenwelt in Geheimgefängnissen, Drohungen gegen die Familie, zum Beispiel die Drohung, die Mutter zu vergewaltigen, Eintauchen in eine Tonne mit Eiswasser, Schlafentzug über drei Tage. Man könnte das noch weiter fortsetzen.</p>
           <p>Der Bundesregierung lag bisher nur ein Teil des 6 000-seitigen Berichts vor, der von Frau Feinstein so toll und mit großer Ausdauer vorbereitet wurde, 500 Seiten, und diese sind an vielen Stellen geschwärzt. Man bekommt Angst, wenn man sich vorstellt, was auf den restlichen Seiten oder unter diesen geschwärzten Stellen des Berichts noch verborgen sein könnte.</p>
@@ -1067,12 +1067,12 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie des Abg. Dr. Rolf Mützenich [SPD])</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Nächster Redner ist der Kollege Dr. André Hahn, Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. André Hahn" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="André Hahn">
+        <sp who="André Hahn" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="André Hahn" party="DIE LINKE" name="André Hahn">
           <speaker>Dr. André Hahn (DIE LINKE):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine Damen und Herren! Die Linke wird sich natürlich keinem Antrag entgegenstellen, dessen erster Satz lautet: „Der Deutsche Bundestag verurteilt Folter.“</p>
           <stage type="interjection">(Beifall bei Abgeordneten der LINKEN)</stage>
@@ -1094,12 +1094,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Nächste Rednerin ist die Kollegin Angelika Glöckner für die SPD.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Angelika Glöckner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Angelika Glöckner">
+        <sp who="Angelika Glöckner" parliamentary_group="SPD" role="mp" position="NA" who_original="Angelika Glöckner" party="SPD" name="Angelika Glöckner">
           <speaker>Angelika Glöckner (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Wir haben uns vor wenigen Wochen hier im Deutschen Bundestag mit dem gleichen Thema befasst, mit dem Bericht des US-Senats zu den Folterpraktiken des amerikanischen Geheimdienstes CIA.</p>
           <p>„Folter“ ist in der Tat – da gebe ich allen Vorrednern recht – der treffende Begriff; denn um nichts anderes handelt es sich hier bei den von der CIA als verschärfte Verhörmethoden bezeichneten Praktiken. Ich betone ebenfalls noch einmal: Diese Folterpraxis der CIA ist grauenhaft und vollkommen inakzeptabel. Dass es Folter gab, wissen wir seit der Veröffentlichung der Kurzfassung des Berichts des US-Senats im Dezember 2014. Der vollständige Bericht umfasst – das wurde bereits mehrfach gesagt – 6 000 Seiten. Der veröffentlichte Bericht umfasst rund 500 Seiten, die teilweise geschwärzt sind.</p>
@@ -1107,19 +1107,19 @@
           <p>Im Juli 2002 wurde diese Foltermethode durch den obersten Rechtsberater der US-Regierung zunächst als zulässige Foltermethode vermieden, aber nur wenige Tage später durch Vorspiegelung falscher Tatsachen durch die CIA letztendlich doch zugelassen. Allein schon dieses Beispiel dokumentiert, wie sehr sich der Sicherheitsapparat der USA nach dem Anschlag auf das World Trade Center im Jahr 2001 im Kampf gegen den Terrorismus sozusagen verselbstständigt hat. Bisher hatte ich dies in Demokratien und erst recht in den USA für unmöglich gehalten.</p>
           <p>Die Täter, die in das Folterprogramm des amerikanischen Geheimdienstes eingebunden waren, müssen juristisch verfolgt werden. Das gilt natürlich auch für jene, die die politische Verantwortung für dieses Folterprogramm tragen. Die USA haben sowohl den Internationalen Pakt über bürgerliche und politische Rechte als auch die UN-Antifolterkonvention unterzeichnet und ratifiziert und 1994 in nationales Recht umgesetzt. Damit ist der rechtliche Rahmen geschaffen für strafrechtliche Verfolgung von Folter in den USA. Eine Verfolgung der Straftaten ist sogar zwingend geboten.</p>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Frau Kollegin Glöckner, gestatten Sie eine Zwischenfrage des Kollegen Ströbele?</p>
         </sp>
-        <sp who="Angelika Glöckner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Angelika Glöckner">
+        <sp who="Angelika Glöckner" parliamentary_group="SPD" role="mp" position="NA" who_original="Angelika Glöckner" party="SPD" name="Angelika Glöckner">
           <speaker>Angelika Glöckner (SPD):</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Bitte sehr.</p>
         </sp>
-        <sp who="Hans-Christian Ströbele" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Hans-Christian Ströbele">
+        <sp who="Hans-Christian Ströbele" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Hans-Christian Ströbele" party="GRUENE" name="Hans-Christian Ströbele">
           <speaker>Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Danke, Frau Kollegin, dass Sie die Frage zulassen. – Vielleicht zunächst eine kleine Korrektur. Wir wissen nicht erst seit dem Folterbericht von dieser Folter, sondern spätestens seit sich ein Untersuchungsausschuss des Deutschen Bundestages in den Jahren nach 2004 intensiv mit den Foltermethoden und auch mit dem Fall el-Masri und dem Fall Kurnaz beschäftigt hat. Wir haben also schon genügend Zeit gehabt. Aber das ist nicht meine Frage.</p>
           <p>Sie fordern völlig zu Recht, dass das juristische Konsequenzen haben muss, dass nur, wenn dies tatsächlich juristisch geahndet wird, wir Hoffnung haben können, dass das so schnell nicht wieder passiert. Der Bundesjustizminister hat das ja auch schon gefordert. Leider ist er heute nicht hier.</p>
@@ -1127,7 +1127,7 @@
           <p>Ich frage Sie: Warum erteilt der Bundesjustizminister dem Generalbundesanwalt nicht die Anweisung, endlich Ermittlungen insbesondere gegen die von der US-Presse so genannte Folterlady bzw. Folterkönigin der USA einzuleiten, die im Bericht erwähnt wird und die beispielsweise im Fall el-Masri Verschleppung und Folter ausdrücklich angeordnet haben soll? Das ist mir ein großes Rätsel. Alle Reden, in denen gesagt wird, dass hier eine Strafverfolgung stattfinden muss und dass das nicht straffrei bleiben darf, sind wohlfeil, solange man selbst nicht alles tut, um die Strafverfolgung sicherzustellen. Meine Frage an Sie lautet: Was tun Sie, was tut Ihr Justizminister dafür, dass endlich die Strafverfolgung beginnt?</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN – Dr. Rolf Mützenich [SPD]: Da muss man den Justizminister fragen!)</stage>
         </sp>
-        <sp who="Angelika Glöckner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Angelika Glöckner">
+        <sp who="Angelika Glöckner" parliamentary_group="SPD" role="mp" position="NA" who_original="Angelika Glöckner" party="SPD" name="Angelika Glöckner">
           <speaker>Angelika Glöckner (SPD):</speaker>
           <p>Danke, Herr Ströbele. – Ich vertrete die Auffassung – das entspricht vielleicht nicht ganz Ihrer Auffassung –, dass es Sache des Generalbundesanwaltes ist, hier tätig zu werden. Ich gebe Ihnen insoweit recht, als dass dieses Parlament bestimmte Aufgaben hat – wenn Sie gestatten, werde ich in meinen weiteren Ausführungen darauf noch zu sprechen kommen –, die aber nicht so aussehen, wie Sie sich das vorstellen. Wir können nicht von hier aus ermitteln. Das ist Sache der Jurisdiktion und nicht Sache des Parlaments. Ich vertrete hier eine andere Auffassung als Sie.</p>
           <stage type="interjection">(Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Dann müssen Sie unserem Antrag zustimmen, damit der GBA weiß, was wir wollen! Das ist doch klar! – Uli Grötsch [SPD]: Das entscheiden wir auch selbst!)</stage>
@@ -1158,21 +1158,21 @@
           <p>Zudem stellt sich die Frage, wie realistisch die Forderung nach einer vollständigen Veröffentlichung des Senatsberichts wirklich ist. Der Weg bis zur heutigen Aufklärung der Vorwürfe war sehr steinig. Das zeigt sich daran, dass zwischen dem ersten Vorlegen des Gesamtberichts und der ersten Veröffentlichung der Kurzfassung immerhin zwei Jahre harter innenpolitischer Auseinandersetzungen lagen. Am Ende fanden die Konfliktparteien in Amerika den Kompromiss, dass eine Zusammenfassung veröffentlicht werden sollte, bei der mit Blick auf die nationale Sicherheit jene Namen und Stellen geschwärzt wurden, die auf die Identität der Täter hinweisen könnten. Diese Verhandlungsergebnisse sollten wir nicht einfach ignorieren, meine Damen und Herren.</p>
           <p>Die amerikanische Regierung hat bereits mehrfach klargestellt, dass sie aus Gründen der nationalen Sicherheit der Herausgabe des vollständigen Berichts eben nicht zustimmen wird. Vor diesem Hintergrund wäre im günstigsten Fall mit einer Übergabe unter Geheimhaltungspflicht zu rechnen.</p>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Frau Kollegin, erlauben Sie eine Zwischenfrage von Herrn Liebich?</p>
         </sp>
-        <sp who="Angelika Glöckner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Angelika Glöckner">
+        <sp who="Angelika Glöckner" parliamentary_group="SPD" role="mp" position="NA" who_original="Angelika Glöckner" party="SPD" name="Angelika Glöckner">
           <speaker>Angelika Glöckner (SPD):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Stefan Liebich" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Stefan Liebich">
+        <sp who="Stefan Liebich" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Stefan Liebich" party="DIE LINKE" name="Stefan Liebich">
           <speaker>Stefan Liebich (DIE LINKE):</speaker>
           <p>Vielen Dank, dass Sie die Zwischenfrage zulassen, Frau Kollegin. – Das Bild, das Sie hier von den Vereinigten Staaten zeichnen, scheint mir doch etwas vereinfacht zu sein. Es ist nämlich nicht so, dass dort massenweise der Ruf nach Strafverfolgung erschallt, und es ist auch nicht so, dass es einen politischen Kompromiss gegeben hat. Vielmehr haben die Demokraten im Kongress gegen den massiven Widerstand der Republikaner durchgesetzt, dass es diesen Bericht überhaupt gibt. Bis auf wenige Ausnahmen kämpfen die Republikaner bis heute dagegen, dass er überhaupt veröffentlicht wird. Da reden wir überhaupt nicht von Strafverfolgung.</p>
           <p>Nun gab es inzwischen Wahlen. Inzwischen sind diejenigen in der Mehrheit und in den entsprechenden Positionen, die gar nicht wollten, dass dieser Bericht veröffentlicht wird. Ist es deshalb nicht umso wichtiger, dass wir als deutsches Parlament ein Signal senden, dass wir mit diesem Weg nicht einverstanden sind?</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Angelika Glöckner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Angelika Glöckner">
+        <sp who="Angelika Glöckner" parliamentary_group="SPD" role="mp" position="NA" who_original="Angelika Glöckner" party="SPD" name="Angelika Glöckner">
           <speaker>Angelika Glöckner (SPD):</speaker>
           <p>Ich sagte es ja, Herr Kollege: Ich glaube, das tun wir heute. Ich habe insofern auch den Antrag der Fraktion Bündnis 90/Die Grünen begrüßt.</p>
           <stage type="interjection">(Norbert Müller [Potsdam] [DIE LINKE]: Indem Sie ihn ablehnen!)</stage>
@@ -1184,15 +1184,15 @@
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
           <p>Alle von mir aufgeführten Gesichtspunkte berücksichtigt der Antrag nicht. Ich empfehle daher, den Antrag abzulehnen.</p>
           <p>Danke schön.</p>
-          <stage type="interjection">(Beifall bei der SPD und der CDU/CSU – Andrej Hunko [DIE LINKE]: Peinliche Rede!   – Gegenruf des Abg. Dr. Rolf Mützenich [SPD]: Frechheit!)</stage>
+          <stage type="interjection">(Beifall bei der SPD und der CDU/CSU – Andrej Hunko [DIE LINKE]: Peinliche Rede! – Gegenruf des Abg. Dr. Rolf Mützenich [SPD]: Frechheit!)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Danke, Frau Kollegin. – Einen schönen guten Tag von mir für Sie und die Gäste auf der Tribüne.</p>
           <p>Die nächste Rednerin in der Debatte ist Andrea Lindholz für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Andrea Lindholz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Andrea Lindholz">
+        <sp who="Andrea Lindholz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Andrea Lindholz" party="CSU" name="Andrea Lindholz">
           <speaker>Andrea Lindholz (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine sehr geehrten Damen und Herren! Bereits am 17. Dezember letzten Jahres hat sich der Bundestag in diesem Haus differenziert zu den Berichten über Folter durch die CIA geäußert. Dieser Debatte lässt sich heute kaum noch etwas hinzufügen.</p>
           <stage type="interjection">(Stefan Liebich [DIE LINKE]: Konsequenzen!)</stage>
@@ -1231,12 +1231,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD – Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Das war ja jetzt feige! – Norbert Müller [Potsdam] [DIE LINKE]: Alles nur peinlich!)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Frau Kollegin Lindholz. – Nächster und letzter Redner in dieser Debatte: Dr. Egon Jüttner für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Egon Jüttner" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Egon Jüttner">
+        <sp who="Egon Jüttner" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Egon Jüttner" party="CDU" name="Egon Jüttner">
           <speaker>Dr. Egon Jüttner (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine Damen und Herren! Seit Dezember liegt der Untersuchungsbericht des Geheimdienstausschusses des Senats der Vereinigten Staaten von Amerika über die Behandlung von Terrorverdächtigen vor. Es bedarf dringend einer Aufarbeitung dieses Skandals.</p>
           <stage type="interjection">(Beifall des Abg. Tom Koenigs [BÜNDNIS 90/DIE GRÜNEN])</stage>
@@ -1261,7 +1261,7 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD – Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Das ist doch ein Parlamentspapier! Kontrolle! – Tom Koenigs [BÜNDNIS 90/DIE GRÜNEN]: Das ist doch unser Auftrag!)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Dr. Jüttner.</p>
           <p>Damit schließe ich die Aussprache.</p>
@@ -1274,7 +1274,7 @@
           <p>– Gut, dann fangen wir jetzt an.</p>
           <p>Ich rufe den Tagesordnungspunkt 19 a auf:</p>
           <p>Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Änderung des Personalausweisgesetzes zur Einführung eines Ersatz-Personalausweises und zur Änderung des Passgesetzes</p>
-          <p>Drucksache 18/3831 </p>
+          <p>Drucksache 18/3831</p>
           <p>Überweisungsvorschlag:</p>
           <p>Innenausschuss (f)</p>
           <p>Ausschuss für Recht und Verbraucherschutz</p>
@@ -1284,7 +1284,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="4" what="debate" desc="Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs...">
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Frau Präsidentin! Meine lieben Kolleginnen und Kollegen! Europa und damit auch Deutschland stehen im erklärten Zielgebiet des internationalen Terrorismus. Das haben uns die Anschläge von Paris mit schrecklicher Klarheit vor Augen geführt. Die Bundesregierung, unsere Sicherheitsbehörden, treten dieser Bedrohung seit längerem entgegen: wachsam, ruhig, entschlossen und mit einem ganzheitlichen Ansatz. Dazu gehört Prävention; dazu gehört Deradikalisierung; dazu gehören Maßnahmen unserer Sicherheitsbehörden, teils verdeckt, teils offen – Beobachtung, Ansprache, Durchsuchungen, Festnahmen, Ermittlungsverfahren, Verurteilungen –; dazu gehören auch gut ausgestattete Sicherheitsbehörden in Bund und Ländern; und dazu gehören natürlich auch gesetzgeberische Maßnahmen. Einen wichtigen Baustein hierbei stelle ich Ihnen heute in der ersten Lesung des vorliegenden Gesetzes vor.</p>
           <p>Wir wollen nicht, dass aus Deutschland der Terrorismus nach Syrien und in den Irak exportiert wird. Und wir wollen erst recht nicht, dass Menschen, die dort in Kämpfe verwickelt waren, unerkannt wieder einreisen und gegebenenfalls hier Anschläge planen oder verüben. Deswegen müssen wir entsprechende Ausreisen verhindern. Und deswegen müssen wir Wiedereinreisen verhindern oder erkennen. Bisher haben sich – Sie kennen die Zahlen – ungefähr 3 400 Kämpfer aus Europa dazu entschlossen, für den sogenannten Islamischen Staat zu kämpfen. Allein aus Deutschland sind es rund 600, vielleicht etwas mehr, die daran beteiligt sind. Etwa 200 Personen sind nach Deutschland zurückgekehrt, 35 davon als kampferprobte Fundamentalisten.</p>
@@ -1300,12 +1300,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Dr. de Maizière. – Nächster Redner in der Debatte: Frank Tempel für die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Frank Tempel" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Frank Tempel">
+        <sp who="Frank Tempel" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Frank Tempel" party="DIE LINKE" name="Frank Tempel">
           <speaker>Frank Tempel (DIE LINKE):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Sehr geehrter Herr Minister! Sehr geehrte Damen und Herren! Die Gefahr von Terroranschlägen kann gerade mit Blick auf viele internationale Konflikte in keinem Land der Welt vollständig ausgeschlossen werden. Auch hier bei uns besteht diese latente Gefahr. Natürlich ist es Aufgabe der Bundesregierung, diese Gefahr zumindest so gering wie möglich zu halten. Damit dies gelingt, müssen wir uns zuallererst fragen, was Terroristen mit ihren Anschlägen hier erreichen wollen. Sie wollen hier bei uns kein Territorium erobern, keine Rohstoffe erbeuten und keine unliebsame Regierung stürzen. Sie wollen uns in unserer freiheitlichen demokratischen Grundordnung angreifen. Sie wollen Angst schüren, um uns unsere Freiheit Stück für Stück zu nehmen. Wenn es dann unsere Antwort ist, aus Angst vor Terroranschlägen Bürgerrechte zu beschränken, Grundrechte einzuschränken, entspricht unser Handeln genau dem, was Terroristen mit ihren Anschlägen erreichen wollen.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -1337,12 +1337,12 @@
           <p>Forcieren Sie deswegen weiter die Prävention, investieren Sie noch mehr in Aufklärung und Dialog, und bekämpfen Sie die Ursachen des Terrorismus, statt ihm nachzugeben und so unsere Freiheit und Demokratie weiter zu beschneiden.</p>
           <stage type="interjection">(Beifall bei der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Herr Kollege Tempel. – Nächste Rednerin in der Debatte: Gabriele Fograscher für die SPD.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Gabriele Fograscher" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gabriele Fograscher">
+        <sp who="Gabriele Fograscher" parliamentary_group="SPD" role="mp" position="NA" who_original="Gabriele Fograscher" party="SPD" name="Gabriele Fograscher">
           <speaker>Gabriele Fograscher (SPD):</speaker>
           <p>Frau Präsidentin! Verehrte Kolleginnen und Kol-legen! Der islamistisch motivierte Terrorismus ist eine Bedrohung für Deutschland und die westliche Staaten-gemeinschaft und eine Herausforderung für die Sicherheitsbehörden und die Politik. Nicht erst seit dem grausamen und abscheulichen Terroranschlag auf die französische Satirezeitschrift Charlie Hebdo und auf -einen jüdischen Supermarkt zu Beginn dieses Jahres wissen wir, dass wir unsere freiheitlich-demokratische Grundordnung gegen Terroristen verteidigen müssen. Die Bedrohung durch den internationalen Terrorismus ist nicht auf die islamischen Staaten beschränkt. Sie ist schon lange im Westen, in Europa, in Deutschland angekommen. Auch wenn es zum Glück in Deutschland noch keine Anschläge gab, so sind wir doch im Visier des internationalen islamistischen Terrorismus.</p>
           <p>Aus Europa sind inzwischen 3 400 Menschen – der Minister hat die Zahlen genannt – Richtung Syrien und Irak gegangen, um sich dem „Islamischen Staat“ anzuschließen. Davon kommen etwa 600 Islamisten aus Deutschland. Mehr als die Hälfte davon besitzen die deutsche Staatsangehörigkeit. Von diesen rund 600 so-genannten Foreign Fighters aus Deutschland haben sich 10 als Selbstmordattentäter in Syrien in die Luft gesprengt, 150 bis 180 sind radikalisiert zurückgekehrt, und 30 von ihnen gelten als kampferprobt und gewaltbereit.</p>
@@ -1360,11 +1360,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU sowie der Abg. Renate Künast [BÜNDNIS 90/DIE GRÜNEN])</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Gabi Fograscher. – Nächste Rednerin in der Debatte: Irene Mihalic für Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Irene Mihalic" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Irene Mihalic">
+        <sp who="Irene Mihalic" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Irene Mihalic" party="GRUENE" name="Irene Mihalic">
           <speaker>Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen! Liebe Kollegen! Natürlich: Nicht erst die schrecklichen Anschläge von Paris machen Maßnahmen gegen den Terrorismus notwendig; das ist völlig richtig. Das ist eine Debatte, die wir schon viel länger und auch völlig zu Recht führen. Dabei ist aber eine Sache ganz besonders wichtig: eben nicht in Aktionismus zu verfallen, sondern die Terrorgefahr sauber zu analysieren, Kräfte und Kompetenzen in der Sache zu bündeln und sorgfältig Maßnahmen zu entwickeln, die wirklich greifen, Herr Minister.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
@@ -1396,12 +1396,12 @@
           <p>Ganz herzlichen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Frau Kollegin. – Nächster Redner in der Debatte – jetzt sind Sie dran –: Clemens Binninger für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Clemens Binninger" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Clemens Binninger">
+        <sp who="Clemens Binninger" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Clemens Binninger" party="CDU" name="Clemens Binninger">
           <speaker>Clemens Binninger (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Verehrte Kolleginnen und Kollegen! Man überlegt sich ja immer, wie man in eine Rede einsteigt. Ihr Beitrag, Frau Kollegin Mihalic, veranlasst mich dazu, mein Konzept zu ändern und gleich auf Ihre Rede einzugehen.</p>
           <stage type="interjection">(Irene Mihalic [BÜNDNIS 90/DIE GRÜNEN]: Dafür bin ich sehr dankbar! – Dr. Konstantin von Notz [BÜNDNIS 90/DIE GRÜNEN]: Ja, die hat gesessen! Das fand ich auch!)</stage>
@@ -1437,13 +1437,13 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Herr Binninger. – Er hat wirklich keine Zeit – selbstverständlich sagt er die Wahrheit –; er hat schon mit Herrn Mayer getauscht. – Kommen Sie gut wohin auch immer!</p>
           <p>Uli Grötsch für die SPD ist der nächste Redner in der Debatte.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Uli Grötsch" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Uli Grötsch">
+        <sp who="Uli Grötsch" parliamentary_group="SPD" role="mp" position="NA" who_original="Uli Grötsch" party="SPD" name="Uli Grötsch">
           <speaker>Uli Grötsch (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Sicherheitspolitik darf nicht reaktiv sein, Sicherheitspolitik muss zuallererst präventiv sein. Neue Gesetze zur Terrorabwehr dürfen nicht erst dann beschlossen werden, wenn es zu einem Anschlag gekommen ist. Unser Ziel muss es sein, dort Lücken zu schließen, wo die Sicherheit und damit die Freiheit der Menschen in Deutschland gefährdet ist.</p>
           <p>Der heute vorliegende Gesetzentwurf regelt die Bedingungen eines Entzuges des Personalausweises bei solchen Bundesbürgern – und nur bei solchen Bundesbürgern –, bei denen der dringende Tatverdacht besteht, dass sie sich im Ausland einer terroristischen Vereinigung anschließen oder an solchen Handlungen teilnehmen werden.</p>
@@ -1469,36 +1469,36 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Danke, Herr Kollege Grötsch. – Nächster Redner in dieser Debatte vor der spannenden Beratung im Ausschuss ist Stephan Mayer für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Stephan Mayer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Stephan Mayer">
+        <sp who="Stephan Mayer (Altötting)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stephan Mayer (Altötting)" party="CSU" name="Stephan Mayer">
           <speaker>Stephan Mayer (Altötting) (CDU/CSU):</speaker>
           <p>Sehr verehrte Frau Präsidentin! Sehr verehrte Kolleginnen! Sehr geehrte Kollegen! Das Gesetz zur Änderung des Personalausweisgesetzes und des Passgesetzes ist zwar nur ein Baustein, aber es ist ein durchaus nicht unwesentlicher Baustein im Kampf gegen den islamistischen, dschihadistischen Terrorismus. Ich lege auch Wert auf die Feststellung, dass wir hier fernab von jeglichem Aktionismus und von jeglicher Symbolpolitik sind. Dieses Gesetz ist keine unmittelbare Reaktion auf die barbarischen Anschläge von Paris.</p>
           <stage type="interjection">(Irene Mihalic [BÜNDNIS 90/DIE GRÜNEN]: Hat auch keiner behauptet!)</stage>
           <p>Dieser Gesetzentwurf ist noch vor Weihnachten im Bundeskabinett verabschiedet worden und ist aus meiner Sicht angemessen und verhältnismäßig.</p>
           <p>Ich muss ganz ehrlich sagen, meine sehr verehrte Kollegin Mihalic und sehr geehrter Kollege Tempel: Ich war schon etwas verwundert über Ihre Argumentation. Man muss ja nicht alles teilen, was die Bundesregierung vorbringt, und natürlich müssen Sie sich als Oppositionsfraktionen irgendwelche Argumente aus den Fingern saugen, um dieses Gesetz abzulehnen.</p>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Herr Mayer, erlauben Sie eine direkte Frage?</p>
         </sp>
-        <sp who="Stephan Mayer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Stephan Mayer">
+        <sp who="Stephan Mayer (Altötting)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stephan Mayer (Altötting)" party="CSU" name="Stephan Mayer">
           <speaker>Stephan Mayer (Altötting) (CDU/CSU):</speaker>
           <p>Selbstverständlich. Sehr gern.</p>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Gut. – Frau Mihalic.</p>
         </sp>
-        <sp who="Irene Mihalic" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Irene Mihalic">
+        <sp who="Irene Mihalic" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Irene Mihalic" party="GRUENE" name="Irene Mihalic">
           <speaker>Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Vielen Dank, Herr Mayer, dass Sie die Zwischenfrage zulassen. – Sie haben vorhin gesagt, das Gesetz sei verhältnismäßig, es sei angemessen. Also, Sie sind zutiefst davon überzeugt, dass Sie mit diesem Gesetzentwurf das Richtige tun. Deswegen würde mich einfach nur einmal interessieren, womit Sie das begründen.</p>
           <p>Wir werden das Ganze ja auch noch im Innenausschuss miteinander erörtern. Offen gestanden war ich aber doch ein bisschen überrascht, als ich zur Kenntnis genommen habe, dass ausgerechnet Ihre Fraktion zu diesem Gesetzentwurf eine Ausschussanhörung beantragt hat. Ich habe mich gefragt, ob Sie sich vielleicht doch nicht ganz sicher sind, dass das, was Sie mit diesem Gesetzentwurf vorhaben, verhältnismäßig und angemessen ist.</p>
         </sp>
-        <sp who="Stephan Mayer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Stephan Mayer">
+        <sp who="Stephan Mayer (Altötting)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stephan Mayer (Altötting)" party="CSU" name="Stephan Mayer">
           <speaker>Stephan Mayer (Altötting) (CDU/CSU):</speaker>
           <p>Sehr verehrte Frau Kollegin Mihalic, ich danke Ihnen und nehme stellvertretend für den Kollegen Binninger auch gerne Fragen entgegen.</p>
           <stage type="interjection">(Heiterkeit bei der CDU/CSU – Irene Mihalic [BÜNDNIS 90/DIE GRÜNEN]: Das hätte ich ihn auch fragen können!)</stage>
@@ -1523,25 +1523,25 @@
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
           <p>Meine sehr verehrten Kolleginnen und Kollegen, ich darf auch ein paar Worte zum Kollegen Tempel sagen: Es ist ja schön, dass Sie Ihren Schwerpunkt auf Prävention und Deradikalisierung legen. Das ist auch wichtig, und das möchte ich auch gar nicht negieren und verharmlosen. Ich halte es aber, mit Verlaub, Herr Kollege Tempel, schon für reichlich fahrlässig, dass Sie sagen: Bei diesem durchaus sehr ernst zu nehmenden Kampf gegen den islamistischen und dschihadistischen Terrorismus verlegen wir uns einseitig nur auf den Bereich der Prävention und der Deradikalisierung. – Das ist aus meiner Sicht zu kurz gegriffen.</p>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Herr Mayer, erlauben Sie eine Frage oder einen Kommentar von Herrn Tempel?</p>
         </sp>
-        <sp who="Stephan Mayer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Stephan Mayer">
+        <sp who="Stephan Mayer (Altötting)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stephan Mayer (Altötting)" party="CSU" name="Stephan Mayer">
           <speaker>Stephan Mayer (Altötting) (CDU/CSU):</speaker>
           <p>Selbstverständlich, sehr gerne.</p>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Gut.</p>
         </sp>
-        <sp who="Frank Tempel" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Frank Tempel">
+        <sp who="Frank Tempel" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Frank Tempel" party="DIE LINKE" name="Frank Tempel">
           <speaker>Frank Tempel (DIE LINKE):</speaker>
           <p>Da Sie mich angesprochen haben: Sie haben hoffentlich vernommen, dass ich gesagt habe, dass die Sicherheitsbehörden durch entsprechende Gesetze natürlich ein Rüstzeug an die Hand bekommen müssen, um wirksam und aktiv arbeiten zu können, und ich habe auch gesagt, dass die Messlatte dabei sehr hoch liegen muss. Es muss also auch überprüft werden, ob die Maßnahmen geeignet sind.</p>
           <p>Ich frage Sie: Wie kommen Sie dazu, zu behaupten, dass wir einseitig nur mit Prävention arbeiten wollen, obwohl ich doch sehr deutlich gesagt habe, dass wir natürlich entsprechende Gesetze brauchen, die aber auf ihre Wirksamkeit, Geeignetheit, Erforderlichkeit und Angemessenheit hin überprüft werden müssen?</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Stephan Mayer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Stephan Mayer">
+        <sp who="Stephan Mayer (Altötting)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stephan Mayer (Altötting)" party="CSU" name="Stephan Mayer">
           <speaker>Stephan Mayer (Altötting) (CDU/CSU):</speaker>
           <p>Herr Kollege Tempel, ich habe Ihren Äußerungen klar entnommen, dass Sie die Gefahren des Terrorismus nicht bagatellisieren, sich aber eindeutig darauf verlegt haben, zu sagen: Man muss viel mehr tun, um zu verhindern, dass es überhaupt zu einer Radikalisierung kommt. Darauf muss doch der Schwerpunkt gelegt werden. – Dem möchte ich schon entgegentreten. Beides ist erforderlich: Wir brauchen ein großes Maßnahmenpaket, und wir sind sehr wohl auch der festen Überzeugung, dass es wichtig ist – hier sind vor allem die Länder gefordert –,</p>
           <stage type="interjection">(Irene Mihalic [BÜNDNIS 90/DIE GRÜNEN]: Ach so, das müssen dann die Länder machen, oder was?)</stage>
@@ -1558,25 +1558,25 @@
           <p>Herzlichen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD – Irene Mihalic [BÜNDNIS 90/DIE GRÜNEN]: Dann fangen Sie einmal an mit seriös!)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Danke, Herr Mayer. – Ich schließe damit die Aussprache.</p>
           <stage type="interjection">(Frank Tempel [DIE LINKE]: Frau Präsidentin, ich hatte gesagt, ich brauche eine Minute für eine Kurzintervention!)</stage>
           <p>– Das tut mir leid. Das war aber nicht ganz eindeutig. – Also gut, eine ganz kurze Kurzintervention von Herrn Frank Tempel von einer Minute. Dazu haben Sie natürlich das Recht.</p>
         </sp>
-        <sp who="Frank Tempel" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Frank Tempel">
+        <sp who="Frank Tempel" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Frank Tempel" party="DIE LINKE" name="Frank Tempel">
           <speaker>Frank Tempel (DIE LINKE):</speaker>
           <p>Meine Kurzintervention ist wirklich ganz kurz. – Da nach Herrn Binninger nun auch der Kollege Mayer wiederholt erklärt hat, ich hätte etwas gesagt, was ich aber nicht so gemeint habe, was aber anders geklungen haben soll, möchte ich auf Folgendes hinweisen: Hier im Bundestag gilt bitte schön das gesprochene Wort. Bitte nehmen Sie das, was gesagt wurde, und interpretieren Sie nicht einfach, wie es klang.</p>
           <p>Ich spreche hier für meine Fraktion. Wir in unserer Fraktion entscheiden selber, was wir sagen wollen. Wir bitten darum, das zu respektieren und so zur Kenntnis zu nehmen und nicht irgendwelche Klangtöne hineinzuinterpretieren.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Danke schön, Herr Tempel. Entschuldigung, ich habe nicht verstanden, was Sie mir sagen wollten.</p>
           <stage type="interjection">(Paul Lehrieder [CDU/CSU]: Wir auch nicht!)</stage>
           <p>Herr Mayer, bitte.</p>
         </sp>
-        <sp who="Stephan Mayer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Stephan Mayer">
+        <sp who="Stephan Mayer (Altötting)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stephan Mayer (Altötting)" party="CSU" name="Stephan Mayer">
           <speaker>Stephan Mayer (Altötting) (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Kollege Tempel, ich nehme Ihre Äußerungen mit großem Respekt zur Kenntnis, möchte aber schon betonen: Ich hatte aufgrund Ihrer Rede den klaren Eindruck, dass Sie an dem Gesetz Kritik üben. Das steht Ihnen zu, das ist Ihnen unbenommen; keine Frage.</p>
           <p>Aber von Ihnen und auch von der gesamten Fraktion Die Linke kommt kein einziger gesetzgeberischer Vorschlag, wie wir die gestiegene Bedrohung angehen sollen. Von Ihnen kommt kein einziger Vorschlag, was wir denn konkret tun können, um den islamistisch-dschihadistischen Terrorismus in Deutschland zu bekämpfen.</p>
@@ -1586,7 +1586,7 @@
           <p>Aber darüber hinaus bezeichnen Sie jeden gesetzgeberischen Vorschlag, den wir einbringen, als unverhältnismäßig, nicht angemessen und untauglich. Wo bleiben denn Ihre konkreten Vorschläge? Die Bevölkerung erwartet Ihre Vorschläge.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, liebe Kollegen. Damit schließe ich die Aussprache.</p>
           <p>Interfraktionell wird Überweisung des Gesetzentwurfs auf Drucksache 18/3831 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Gibt es dazu anderweitige Vorschläge? – Das ist nicht der Fall. Dann ist die Überweisung so beschlossen. Ich wünsche Ihnen eine sehr lebendige Aussprache und Debatte in den Ausschüssen.</p>
@@ -1594,7 +1594,7 @@
           <p>Ich rufe den Tagesordnungspunkt 20 auf:</p>
           <p>Beratung des Antrags der Abgeordneten Marcus Weinberg (Hamburg), Christina Schwarzer, Ursula Groden-Kranich, weiterer Abgeordneter und der Fraktion der CDU/CSU sowie der Abgeordneten Sönke Rix, Susann Rüthrich, Petra Crone, weiterer Abgeordneter und der Fraktion der SPD</p>
           <p>Aufarbeitung von sexuellem Kindesmissbrauch sicherstellen</p>
-          <p>Drucksache 18/3833 </p>
+          <p>Drucksache 18/3833</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Familie, Senioren, Frauen und Jugend (f)</p>
           <p>Innenausschuss</p>
@@ -1610,7 +1610,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="5" what="debate" desc="Beratung des Antrags der Abgeordneten Marcus Weinberg (Hamburg), Christina Schwa...">
-        <sp who="Marcus Weinberg" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Marcus Weinberg">
+        <sp who="Marcus Weinberg (Hamburg)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Marcus Weinberg (Hamburg)" party="CDU" name="Marcus Weinberg">
           <speaker>Marcus Weinberg (Hamburg) (CDU/CSU):</speaker>
           <p>Vielen Dank, Frau Präsidentin. – Werte Kolleginnen und Kollegen! Es sind nicht selten in der Geschichte Briefe, die Steine ins Rollen bringen. Es war auch diesmal ein Brief des Rektors einer Berliner Bildungseinrichtung im Jahr 2010, der einen Stein ins Rollen gebracht hat. Er hat sich bei ehemaligen Schülerinnen und Schülern für das Leid, für die sexuellen Übergriffe entschuldigt, die diesen angetan wurden.</p>
           <p>Anfang 2010 wurde das weitere Ausmaß des sexuellen Kindesmissbrauchs in Deutschland in einer Reihe von Bildungseinrichtungen bekannt: im Westen wie auch in Kinderheimen und Jugendwerkstätten im Osten. Wir alle waren damals schockiert, und wir alle sind heute noch darüber erschüttert, was sich damals abgespielt hat und wie weit verbreitet sexuelle Gewalt an Kindern ist. Heute noch müssen wir darüber sprechen, weil mehr als ein Zehntel der Bevölkerung betroffen ist.</p>
@@ -1622,7 +1622,7 @@
           <p>Ich möchte mich bei Ihnen für Ihr Engagement bedanken und dafür, dass Sie diese Debatte angestoßen haben und mit viel Mut die traumatischen Erinnerungen öffentlich kundtun. Ihnen ist es zu verdanken, dass das Thema sexueller Missbrauch Minderjähriger nicht länger tabuisiert wird. Politik und Gesellschaft müssen dafür sensibilisiert werden. Denn wir wissen aus der Psychologie und der Psychoanalyse: Wer sich nicht erinnert, der verdrängt, vergisst und wiederholt. Das ist auch ein gesellschaftliches Problem bei diesem Thema. Deswegen sind die Aufarbeitung des Unrechts und der Schmerz der betroffenen Mädchen und Jungen für uns Christdemokraten ein Thema, das ganz oben auf der Agenda steht.</p>
           <p>Was haben wir getan? Wir haben, nachdem die Debatte 2010 ins Rollen gebracht wurde, im März 2010 Frau Dr. Christine Bergmann zur Unabhängigen Beauftragten zur Aufarbeitung des sexuellen Kindesmissbrauchs ernannt. Dies wird fortgeführt durch Johannes-Wilhelm Rörig, den ich auch hier begrüßen darf, dem unser Dank für seine hervorragende, engagierte Arbeit in diesem Bereich gilt. Sie sind ein Lobbyist, dem wir vertrauen. Sie sind ein Lobbyist, der wichtig ist. Arbeiten Sie so engagiert weiter! Sie haben unsere volle Unterstützung.</p>
           <stage type="interjection">(Beifall im ganzen Hause)</stage>
-          <p>Wir haben auch viele einzelne Maßnahmen und Kampagnen entwickelt, zum Beispiel die Kampagne „Sprechen hilft“, eine Anlaufstelle des Unabhängigen Beauftragten. 27 000 Telefongespräche sind in diesem Rahmen geführt worden und über 5 000 Briefe eingegangen. </p>
+          <p>Wir haben auch viele einzelne Maßnahmen und Kampagnen entwickelt, zum Beispiel die Kampagne „Sprechen hilft“, eine Anlaufstelle des Unabhängigen Beauftragten. 27 000 Telefongespräche sind in diesem Rahmen geführt worden und über 5 000 Briefe eingegangen.</p>
           <p>Im März 2010 wurde der Runde Tisch „Sexueller Kindesmissbrauch in Abhängigkeits- und Machtverhältnissen in privaten und öffentlichen Einrichtungen und im familiären Bereich“ von der Bundesregierung eingesetzt. Im April 2013 fand ein Hearing statt. Seit dem 1. Mai 2013 gibt es den Fonds „Sexueller Missbrauch im familiären Bereich“, für den der Bund 50 Millionen Euro bereitgestellt hat.</p>
           <p>Wir diskutieren – gerade auch im letzten Jahr – über sehr viele einzelne Maßnahmen und weitere Gesetzesvorhaben, die die Rechte von Opfern stärken sollen, die Aufarbeitungsprozesse begleiten sollen und die Kinder schützen sollen. Dazu gehören das Bundeskinderschutzgesetz, das in diesem Jahr evaluiert wird, das Gesetz zur Stärkung der Rechte von Opfern sexuellen Missbrauchs, aber auch die ergänzenden Hilfssysteme für von sexuellem Missbrauch betroffene Menschen. Am 22. September wurde das Gesamtkonzept zum Schutz von Kindern und Jugendlichen vor sexueller Gewalt vorgestellt. Für uns war und ist diese Debatte, auch zu diesem Zeitpunkt, wichtig, um der Erinnerungskultur Rechnung zu tragen; denn sie ist unsere gesellschaftliche Aufgabe in der Folge der damaligen Diskussionen.</p>
           <p>Neben diesen wichtigen Schritten zum Schutz von Kindern und Jugendlichen muss auch die Aufarbeitung sexuellen Kindesmissbrauchs der Vergangenheit fortgeführt und intensiviert werden. Daher unterstützen wir die Einrichtung einer unabhängigen Kommission und fordern die Bundesregierung im Antrag entsprechend auf, den Unabhängigen Beauftragten zur Aufarbeitung des sexuellen Kindesmissbrauchs bei seiner Arbeit zu unterstützen. Entscheidend ist dabei für uns, dass im Rahmen der Arbeit der Kommission Betroffene angehört werden und es nicht länger zu Verschleierungen kommt. Denn auch die Institutionen sind nicht aus ihrer Pflicht zu entlassen; sie müssen sich weiterhin beteiligen. Es gilt für uns, dass die Arbeit nicht ersetzt werden soll, sondern ergänzt werden muss. Die betreffenden Institutionen haben sich daran zu beteiligen.</p>
@@ -1631,12 +1631,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Marcus Weinberg. – Nächster Redner in der Debatte: Norbert Müller für die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Norbert Müller" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Norbert Müller">
+        <sp who="Norbert Müller (Potsdam)" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Norbert Müller (Potsdam)" party="DIE LINKE" name="Norbert Müller">
           <speaker>Norbert Müller (Potsdam) (DIE LINKE):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Werte Kolleginnen und Kollegen! Liebe Besucher auf den Tribünen! Es ist Teil der menschlichen Zivilisationsgeschichte, es sollte fraktionsübergreifend unser aller Ziel sein, Gewalt aus zwischenmenschlichen, aus politischen und aus gesellschaftlichen Beziehungen zu verdrängen. Sexueller Missbrauch von Kindern und Jugendlichen ist eine besonders schreckliche Form von Gewalt; er ist ein fundamentaler Eingriff in das Recht auf freie Entfaltung der Persönlichkeit und körperliche Unversehrtheit und steht damit in eklatantem Widerspruch zu unserer Verfassung und zur UN-Kinderrechtskonvention.</p>
           <p>Sexueller Missbrauch von Kindern ist dabei kein Problem, das nur in – ich zitiere Pastor Klaus Mertes – „männerbündisch verengten homosozialen Strukturen des Klerus“ stattfindet; er ist ein gesellschaftliches Problem mit vielen Gesichtern. Er kann an staatlichen Einrichtungen wie an privaten Einrichtungen stattfinden. Ja, wir wissen auch: Die meisten Fälle betreffen am Ende den familiären Raum.</p>
@@ -1658,16 +1658,16 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Norbert Müller. – Nächste Rednerin in der Debatte ist Susann Rüthrich von der SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Susann Rüthrich" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Susann Rüthrich">
+        <sp who="Susann Rüthrich" parliamentary_group="SPD" role="mp" position="NA" who_original="Susann Rüthrich" party="SPD" name="Susann Rüthrich">
           <speaker>Susann Rüthrich (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Vor allem liebe Gäste! Liebe Betroffene! Vielen Dank, dass Sie heute an unserer Debatte teilnehmen.</p>
           <p>Vor fünf Jahren hallte ein Aufschrei durch das Land. Der Leiter einer Berliner Bildungseinrichtung entschuldigte sich bei seinen Schülern für die jahrelange sexuelle Gewalt, die ihnen in dieser Einrichtung angetan wurde. Viele weitere Opfer fanden daraufhin den Mut, das ihnen angetane Leid ebenfalls öffentlich zu machen. Ich denke, ich spreche für uns alle: Wir erschraken über diese Art von Beziehungstaten von Menschen, die ein enges Verhältnis zu Kindern und Jugendlichen hatten. Da wären eigentlich Schutz und Begleitung beim Erwachsenwerden zu erwarten gewesen. Stattdessen missbrauchten diese Erwachsenen ihre Macht und taten ihren Schützlingen furchtbare Gewalt an. Opfer wurden sichtbar, Täter und Täterinnen ebenfalls. Doch oft wussten viel mehr Menschen im Umfeld von dem, was geschah. Doch auch sie schützten die Kinder nicht.</p>
-          <p>Warum? Warum schaut man weg? Warum macht man offene Geheimnisse nicht zum Thema? Warum sind Schweigen und Tatenlosigkeit offenbar leichter zu ertragen, als Verantwortung zu übernehmen und Kindern das Leid zu ersparen, Opfer sexueller Gewalt zu werden? Antworten auf diese Fragen zu finden, das ist für mich der Grund, eine unabhängige Aufarbeitungskommission einzurichten. </p>
+          <p>Warum? Warum schaut man weg? Warum macht man offene Geheimnisse nicht zum Thema? Warum sind Schweigen und Tatenlosigkeit offenbar leichter zu ertragen, als Verantwortung zu übernehmen und Kindern das Leid zu ersparen, Opfer sexueller Gewalt zu werden? Antworten auf diese Fragen zu finden, das ist für mich der Grund, eine unabhängige Aufarbeitungskommission einzurichten.</p>
           <p>Wie wichtig das ist, zeigt sich, wenn wir kurz darüber nachdenken, was passieren würde, wenn wir nicht zurückschauen würden. Weitere Kinder würden Opfer, und zwar auf genau dieselbe Art und Weise, wie es viel zu viele vor ihnen wurden. Täter und Täterinnen könnten sich weiter sicher sein, dass unsere Scham, unsere blinden Flecken und unser Nicht-Wahrhaben-Wollen sie decken.</p>
           <p>Der Schutz und die Hilfe für die heutigen Kinder wären ohne sicheres Fundament, und die Prävention wäre an vielen Stellen zwar gut gemeint, aber nicht gut. Herr Rörig, der Unabhängige Beauftragte zur Aufarbeitung des sexuellen Kindesmissbrauchs, sagte dazu an diesem Montag:</p>
           <p>Solange nicht alle uns bekannten Handlungsmöglichkeiten ausgeschöpft werden, bleibt Missbrauch weiterhin ein Skandal in Deutschland!</p>
@@ -1684,11 +1684,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall im ganzen Hause)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Susann Rüthrich. – Nächste Rednerin in der Debatte ist Katja Dörner für Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Katja Dörner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Katja Dörner">
+        <sp who="Katja Dörner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Katja Dörner" party="GRUENE" name="Katja Dörner">
           <speaker>Katja Dörner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen! Liebe Kollegen! Liebe Zuhörerinnen und Zuhörer! Ich bin wirklich froh, dass wir heute über die Einrichtung einer Kommission zur Aufarbeitung von sexuellem Kindesmissbrauch hier diskutieren. Obwohl in den letzten Jahren Betroffene über ihren persönlich erlebten Missbrauch gesprochen haben und auch Institutionen sich auf den Weg der Aufarbeitung gemacht haben, haben wir in Deutschland immer noch keine wirklich systematische und weitreichende Aufarbeitung. Genau dafür brauchen wir eine solche Kommission.</p>
           <p>Eine solche Kommission hat nicht nur der Unabhängige Beauftragte schon lange gefordert, sondern insbesondere die Betroffenen. Deshalb finden wir Grünen es gut, dass die Kommission jetzt auf den Weg gebracht wird.</p>
@@ -1713,12 +1713,12 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Katja Dörner. – Nächste Rednerin in der Debatte: Christina Schwarzer für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Christina Schwarzer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Christina Schwarzer">
+        <sp who="Christina Schwarzer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Christina Schwarzer" party="CDU" name="Christina Schwarzer">
           <speaker>Christina Schwarzer (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Liebe Gäste auf den Tribünen! Das weiße Kreuz hier an meiner Jacke steht für Sicherheit und Schutz. Die Farbe Weiß symbolisiert Verletzlichkeit, die Verletzlichkeit von Kindern und Jugendlichen, die geschützt werden müssen. Das weiße Kreuz ist Symbol-träger einer bundesweiten Kampagne zum Thema „Sexuelle Gewalt gegen Kinder und Jugendliche“. Ich trage es heute zur Erinnerung für uns alle. Uns muss bewusst sein, dass wir hier im Deutschen Bundestag auch zukünftig Teil einer großen Verantwortungsgemeinschaft sind.</p>
           <p>Aber nicht nur mit dem Tragen des weißen Kreuzes leisten wir unseren Beitrag dazu, dass die so wichtige Debatte zur Aufarbeitung sexuellen Missbrauchs im institutionellen und privaten Bereich nicht verstummt. Es darf nicht nur eine Bundestagsdebatte, sondern muss auch eine gesellschaftliche Debatte sein und bleiben. Das sind wir den Opfern schuldig, die vor fünf Jahren einen unbeschreiblichen Mut aufgebracht haben und mit ihren Qualen an die Öffentlichkeit gegangen sind.</p>
@@ -1738,17 +1738,17 @@
           <p>Lassen Sie uns gemeinsam daran arbeiten, dass diese Debatte nicht verstummt, damit der Mut der Opfer nicht umsonst war, damit ihr Mut nicht umsonst war.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Christina Schwarzer. – Nächste Rednerin in der Debatte ist die Parlamentarische Staatssekretärin Caren Marks.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Caren Marks" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin bei der Bundesministerin für Familie, Senioren, Frauen und Jugend" party="SPD" name="Caren Marks">
+        <sp who="Caren Marks" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin bei der Bundesministerin für Familie, Senioren, Frauen und Jugend" who_original="Caren Marks" party="SPD" name="Caren Marks">
           <speaker>Caren Marks, Parl. Staatssekretärin bei der Bundesministerin für Familie, Senioren, Frauen und Jugend:</speaker>
           <p>Sehr geehrte Frau Präsidentin! Sehr geehrte Damen und Herren! Liebe Kolleginnen und Kollegen! Wir debattieren heute über ein Thema, das die gesamte Gesellschaft bewegt, bewegen muss. Sexuelle Gewalt gegen Kinder und Jugendliche bedeutet körperliche und seelische Qualen für die Betroffenen. Sie leiden, sie leiden ein Leben lang.</p>
           <p>Wir wissen, dass es eine hohe Dunkelziffer gibt. Viele zeigen den oder die Täter nicht an, und wenn Betroffene ihr Schweigen brechen, dann oftmals erst viele Jahre später als Erwachsene. Was ich ganz besonders erschütternd finde: Wenn Missbrauch stattfindet, dann in einem hohen Maße im unmittelbaren Umfeld dieser Kinder und Jugendlichen; in Einrichtungen, in Familien. Vertrauensverhältnisse werden missbraucht. Sie werden zerstört, und das bereits im Kindesalter.</p>
           <p>Wir müssen uns heute hier vergegenwärtigen: Das Aufdecken von Missbrauchsskandalen vor fünf Jahren hat nicht dazu geführt, dass der Missbrauch ein Ende hat. Davor und danach fand und findet sexuelle Gewalt gegen Kinder und gegen Jugendliche statt; mitten unter uns. Die Öffentlichkeit nimmt dies aber nicht immer gleich stark wahr.</p>
-          <p>Meine lieben Kolleginnen und Kollegen, vor fünf Jahren wurde der Runde Tisch „Sexueller Kindesmissbrauch“ eingerichtet, der ressortübergreifend arbeitete und interdisziplinär besetzt war. Der Runde Tisch erarbeitete einen Abschlussbericht mit konkreten Empfehlungen zum Thema Missbrauch. Zudem nahm damals die Unabhängige Beauftragte, Frau Dr. Christine Bergmann, im Auftrag der Bundesregierung ihre Arbeit auf. Seitdem ist einiges geschehen. Beispielsweise wurden in den vergangenen Jahren Regelungen zum Schutz von Kindern und Jugendlichen weiterentwickelt, im Strafrecht Verjährungsfristen ausgeweitet sowie die Rechte von Opfern in Strafverfahren verbessert. </p>
+          <p>Meine lieben Kolleginnen und Kollegen, vor fünf Jahren wurde der Runde Tisch „Sexueller Kindesmissbrauch“ eingerichtet, der ressortübergreifend arbeitete und interdisziplinär besetzt war. Der Runde Tisch erarbeitete einen Abschlussbericht mit konkreten Empfehlungen zum Thema Missbrauch. Zudem nahm damals die Unabhängige Beauftragte, Frau Dr. Christine Bergmann, im Auftrag der Bundesregierung ihre Arbeit auf. Seitdem ist einiges geschehen. Beispielsweise wurden in den vergangenen Jahren Regelungen zum Schutz von Kindern und Jugendlichen weiterentwickelt, im Strafrecht Verjährungsfristen ausgeweitet sowie die Rechte von Opfern in Strafverfahren verbessert.</p>
           <p>Die Bundesregierung hat die Arbeit des Unabhängigen Beauftragten zur Aufarbeitung des sexuellen Kindesmissbrauchs, Herrn Rörig, in dieser Legislaturperiode abgesichert. Ich begrüße Sie, Herr Rörig, sowie die Betroffenen ganz herzlich auf der Besuchertribüne. Sie verfolgen die Debatte heute. Ich sage Danke für Ihre wertvolle Arbeit und das großartige Engagement. Den Betroffenen danke ich für den Mut und den Einsatz, den sie zeigen. Auch wir sind alle darauf angewiesen in unserer Gesellschaft. Vielen Dank.</p>
           <stage type="interjection">(Beifall im ganzen Hause)</stage>
           <p>Es ist einiges geschehen, aber wir haben auch noch einiges vor. Bundesfamilienministerin Manuela Schwesig hat ein Gesamtkonzept zum Schutz von Kindern und Jugendlichen vor sexualisierter Gewalt vorgestellt. Es beruht auf dem Gedanken, dass wir gemeinsam daran arbeiten müssen, Missbrauch wirksamer zu verhindern und die Unterstützungsangebote und Hilfen für Betroffene zu verbessern.</p>
@@ -1758,42 +1758,42 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD, der CDU/CSU und der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Caren Marks. – Letzter Redner in dieser Debatte ist Paul Lehrieder für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Paul Lehrieder">
+        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Paul Lehrieder" party="CSU" name="Paul Lehrieder">
           <speaker>Paul Lehrieder (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen! Liebe Kollegen! Es wurde von meinen Vorrednern schon sehr viel Zutreffendes ausgeführt. Ich will das Positive der heutigen Debatte direkt voranstellen: Wir sind fraktionsübergreifend, losgelöst von Koalition und Opposition, in diesem Punkt ziemlich einig und auf einem guten Weg. Wir haben konsensual den Schutz der Betroffenen im Fokus. Dafür allen Vorrednern ein herzliches Wort des Dankes.</p>
           <stage type="interjection">(Abg. Katja Keul [BÜNDNIS 90/DIE GRÜNEN] meldet sich zu einer Zwischenfrage)</stage>
           <p>– Dort möchte jemand eine Frage stellen.</p>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Das habe ich schon gesehen, Herr Lehrieder. Keine Angst. Meine Augen sind überall.</p>
         </sp>
-        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Paul Lehrieder">
+        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Paul Lehrieder" party="CSU" name="Paul Lehrieder">
           <speaker>Paul Lehrieder (CDU/CSU):</speaker>
           <p>Ja, ich wollte Sie nur höflich darauf hinweisen.</p>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Wollen Sie die Frage zulassen?</p>
         </sp>
-        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Paul Lehrieder">
+        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Paul Lehrieder" party="CSU" name="Paul Lehrieder">
           <speaker>Paul Lehrieder (CDU/CSU):</speaker>
           <p>Natürlich, ja.</p>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Frau Keul, bitte.</p>
         </sp>
-        <sp who="Katja Keul" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Katja Keul">
+        <sp who="Katja Keul" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Katja Keul" party="GRUENE" name="Katja Keul">
           <speaker>Katja Keul (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Vielen Dank, Herr Kollege Lehrieder. – Sie haben gerade zu Recht gesagt, dass wir konsensual dieses Vorgehen begrüßen. Ich habe noch nicht die Antwort auf die Frage meiner Kollegin Dörner gehört, warum die CDU/CSU-Fraktion darauf bestanden hat, das im Parlament nicht gemeinsam zu machen und die Opposition auszuschließen. Was ist die Antwort darauf?</p>
         </sp>
-        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Paul Lehrieder">
+        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Paul Lehrieder" party="CSU" name="Paul Lehrieder">
           <speaker>Paul Lehrieder (CDU/CSU):</speaker>
           <p>Frau Kollegin, wir werden Sie natürlich an den Debatten beteiligen. Wir ziehen Sie natürlich mit. Sie dürfen sich an diesem Werk entsprechend konstruktiv einbringen. Sie dürfen versichert sein, so wie früher bei Rot-Grün, dass eine Regierungskoalition ein gewisses Maß an Verantwortung für die Bevölkerung trägt und ein Initiativrecht hat, zu sagen: Wir bringen etwas auf den Weg, und die anderen Parteien nehmen wir dann später mit. Von daher sollten wir das nicht in parteipolitischem Klein-Klein zerreden, Frau Kollegin – Sie können stehen bleiben, ich bin noch nicht fertig –, sondern das große Ganze sehen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der LINKEN – Katja Keul [BÜNDNIS 90/DIE GRÜNEN]: Ja, eben!)</stage>
@@ -1809,7 +1809,7 @@
           <p>Herzlichen Dank und schönes Wochenende.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Danke, Paul Lehrieder. – Ich schließe diese intensive, fraktionsübergreifend sehr bewegende Aussprache und wünsche Ihnen gute Weiterarbeit an diesem Thema.</p>
           <p>Interfraktionell wird Überweisung der Vorlage auf Drucksache 18/3833 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sie sind damit einverstanden? – Das ist der Fall. Dann ist die Überweisung so beschlossen.</p>
@@ -1817,7 +1817,7 @@
           <p>Ich rufe den Tagesordnungspunkt 21 auf:</p>
           <p>Beratung des Antrags der Abgeordneten Caren Lay, Eva Bulling-Schröter, Kerstin Kassner, weiterer Abgeordneter und der Fraktion DIE LINKE</p>
           <p>Übernahme der Energienetze durch Stadtwerke erleichtern</p>
-          <p>Drucksache 18/3745 </p>
+          <p>Drucksache 18/3745</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Wirtschaft und Energie (f)</p>
           <p>Innenausschuss</p>
@@ -1829,7 +1829,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="6" what="debate" desc="Beratung des Antrags der Abgeordneten Caren Lay, Eva Bulling-Schröter, Kerstin K...">
-        <sp who="Caren Lay" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Caren Lay">
+        <sp who="Caren Lay" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Caren Lay" party="DIE LINKE" name="Caren Lay">
           <speaker>Caren Lay (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Die Privatisierungswelle, die sich seit den 90er-Jahren vollzieht, neigt sich nun hoffentlich bald ihrem Ende zu. Viele Kommunen wollen die Netze für Strom- und Gasversorgung, die sie an private Betreiber übergeben, zum Teil verhökert haben, nun wieder zurück. Der Zeitpunkt dafür ist genau richtig; denn bis zum Jahr 2016 werden über 2 000 Netzverträge auslaufen. Das ist also eine Riesenchance für die kommunalen Stadtwerke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -1857,12 +1857,12 @@
           <p>Ich bitte daher um Unterstützung unseres Antrags.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Jens Koeppen für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Jens Koeppen" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Jens Koeppen">
+        <sp who="Jens Koeppen" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Jens Koeppen" party="CDU" name="Jens Koeppen">
           <speaker>Jens Koeppen (CDU/CSU):</speaker>
           <p>Vielen Dank. – Frau Präsidentin! Liebe Kolleginnen und Kollegen! Wir reden über die Rekommunalisierung der Energienetze. Beim Durchlesen des Antrages – ich lese Ihre Anträge tatsächlich – habe ich festgestellt, dass er mir unwahrscheinlich bekannt vorkommt. Nach einer kurzen Recherche fand ich heraus, dass Sie in der Tat vor fünf Jahren den Antrag „Energienetze in die öffentliche Hand“ gestellt hatten.</p>
           <stage type="interjection">(Matthias W. Birkwald [DIE LINKE]: Ja, wir bleiben am Ball! Wenn Sie es gemacht hätten, hätten wir heute keinen Antrag gestellt! – Caren Lay [DIE LINKE]: Wir stellen den Antrag auch in Berlin, weil es richtig ist!)</stage>
@@ -1902,21 +1902,21 @@
           <p>Auch ein Scheitern ist möglich. Wenn ein Stadtwerk scheitert, dann haben die Verluste Auswirkungen auf die anderen Aufgaben der Verwaltung, nämlich auf die Aufwendungen für Kitas, Schulen, Vereine, Musikschulen, Infrastruktur usw. Das alles muss beachtet werden.</p>
           <p>Mein Fazit im Hinblick auf Ihren Antrag lautet: Stadtwerke sind natürlich keine karitativen Einrichtungen.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollege Koeppen, gestatten Sie eine Frage oder Bemerkung der Kollegin Lay?</p>
         </sp>
-        <sp who="Jens Koeppen" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Jens Koeppen">
+        <sp who="Jens Koeppen" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Jens Koeppen" party="CDU" name="Jens Koeppen">
           <speaker>Jens Koeppen (CDU/CSU):</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Caren Lay" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Caren Lay">
+        <sp who="Caren Lay" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Caren Lay" party="DIE LINKE" name="Caren Lay">
           <speaker>Caren Lay (DIE LINKE):</speaker>
           <p>Verehrter Herr Kollege Koeppen, ich möchte Sie erstens fragen, ob Sie zur Kenntnis genommen haben, dass ich nicht die Ansicht vertreten habe, dass sich alle Kommunen zwingend um eine Neuvergabe bemühen müssen.</p>
           <p>Zweitens. Sind Sie, wie ich, der Auffassung, dass die Kommunen, wenn sie es wollen – in der Stadt Titisee-Neustadt beispielsweise ist man parteiübergreifend der Auffassung, dass die Netze in kommunale Hand überführt werden sollten –, wenigstens nicht durch eine ungeklärte Rechtslage auf Bundesebene behindert werden sollten? Das Stichwort „Energiewirtschaftsgesetz“ haben Sie genannt, den Leitfaden der beiden Bundesbehörden habe ich erwähnt. Durch diese Regelungen wird eine rechtssichere Übernahme offenbar behindert. Sonst würde es nicht so viele Urteile geben, die zur Folge haben, dass eine Rekommunalisierung rückabgewickelt werden muss. Insofern frage ich mich, ehrlich gesagt, ob Sie diese Position verstanden haben und ob Sie mir zustimmen, dass schnellstmöglich eine Novelle zum Energiewirtschaftsgesetz kommen muss.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie des Abg. Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN])</stage>
         </sp>
-        <sp who="Jens Koeppen" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Jens Koeppen">
+        <sp who="Jens Koeppen" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Jens Koeppen" party="CDU" name="Jens Koeppen">
           <speaker>Jens Koeppen (CDU/CSU):</speaker>
           <p>Ich habe die Position natürlich verstanden; aber ich kann ihr nicht zustimmen.</p>
           <stage type="interjection">(Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN]: In den Koalitionsvertrag haben Sie etwas anderes geschrieben!)</stage>
@@ -1945,11 +1945,11 @@
           <p>Ihnen allen ein schönes Wochenende.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU – Caren Lay [DIE LINKE]: Mein Gott!)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Oliver Krischer für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Oliver Krischer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Oliver Krischer">
+        <sp who="Oliver Krischer" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Oliver Krischer" party="GRUENE" name="Oliver Krischer">
           <speaker>Oliver Krischer (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Herr Koeppen, ich habe gedacht, am Freitagnachmittag haben wir hier einen Punkt, wo man vielleicht mal eine gemeinsame große Linie findet. Den Vortrag von Ihnen, den ich gerade gehört habe, werde ich allen CDU-Bürgermeistern, die ich kenne, empfehlen,</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN – Dr. Thomas Gambke [BÜNDNIS 90/DIE GRÜNEN]: Auch den CSU-Bürgermeistern! – Matthias W. Birkwald [DIE LINKE]: Nicht den Bürgermeistern, den Wählern muss man das sagen! Den CDU-Wählern!)</stage>
@@ -1971,11 +1971,11 @@
           <stage type="interjection">(Andreas G. Lämmel [CDU/CSU]: Kann schon sein! Deswegen regieren Sie auch nicht!)</stage>
           <p>Wir wollen, dass die Kommunen frei entscheiden können, wie sie ihre Netze betreiben wollen, ob sie es selber machen oder ob sie ein anderes Stadtwerk damit beauftragen oder ob sie sich am Ende für den Verbleib bei einem Energiekonzern entscheiden. Das sollen die dann selber wissen. Aber dazu muss das Energiewirtschaftsgesetz in § 46 geändert werden.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollege Krischer, achten Sie bitte auf die Zeit.</p>
         </sp>
-        <sp who="Oliver Krischer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Oliver Krischer">
+        <sp who="Oliver Krischer" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Oliver Krischer" party="GRUENE" name="Oliver Krischer">
           <speaker>Oliver Krischer (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Wenn Sie den Antrag der Linken ablehnen, werden wir in nächster Zeit noch einmal eine konkrete Gesetzesinitiative im Rahmen einer EEG-Novelle einbringen.</p>
           <stage type="interjection">(Florian Post [SPD]: Wir sind schon dabei!)</stage>
@@ -1983,12 +1983,12 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Der Kollege Johann Saathoff hat für die SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU – Caren Lay [DIE LINKE]: Jetzt bin ich echt gespannt!)</stage>
         </sp>
-        <sp who="Johann Saathoff" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Johann Saathoff">
+        <sp who="Johann Saathoff" parliamentary_group="SPD" role="mp" position="NA" who_original="Johann Saathoff" party="SPD" name="Johann Saathoff">
           <speaker>Johann Saathoff (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Meine Damen und Herren von den Linken, ich freue mich, dass wir heute darüber sprechen, wie wir die Kommunen bei der Vergabe von Netzkonzessionen unterstützen können. Bevor ich Bundestagsabgeordneter wurde, war ich nämlich nicht nur Bürgermeister einer Gemeinde in Ostfriesland, sondern auch Geschäftsführer einer Gesellschaft, die die Energienetze rekommunalisieren sollte, als der Konzessionsvertrag nach zwölf Jahren auslief. Deshalb kann ich Ihnen sagen: Die Entscheidung für die Übernahme der Energienetze darf man sich auf keinen Fall leicht machen.</p>
           <p>Die Sympathie der Räte für die Rekommunalisierung der Energienetze wächst. Mit der Übernahme des Netzbetriebes durch Kommunen verbinden sich viele Hoffnungen – manchmal sogar die letzte Hoffnung. Mit Ihrem Antrag springen Sie genau auf dieses Pferd.</p>
@@ -2014,30 +2014,30 @@
           <stage type="interjection">(Caren Lay [DIE LINKE]: Ja, das ist doch gut!)</stage>
           <p>Das besorgen sich die in der Regel klammen Kommunen, indem sie sogenannte strategische Partner mit in die Netzgesellschaft aufnehmen, und das ist natürlich ein Partner aus der Privatwirtschaft.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollege Saathoff, gestatten Sie eine Frage oder Bemerkung des Kollegen Krischer?</p>
         </sp>
-        <sp who="Johann Saathoff" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Johann Saathoff">
+        <sp who="Johann Saathoff" parliamentary_group="SPD" role="mp" position="NA" who_original="Johann Saathoff" party="SPD" name="Johann Saathoff">
           <speaker>Johann Saathoff (SPD):</speaker>
           <p>Aber selbstverständlich, Frau Präsidentin.</p>
           <stage type="interjection">(Andreas G. Lämmel [CDU/CSU]: Aber nur, wenn es etwas Schlaues ist! – Arnold Vaatz [CDU/CSU]: Das ist aber wahrscheinlich nichts! – Gegenruf der Abg. Sylvia Kotting-Uhl [BÜNDNIS 90/DIE GRÜNEN]: Das ist immer was Schlaues!)</stage>
         </sp>
-        <sp who="Oliver Krischer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Oliver Krischer">
+        <sp who="Oliver Krischer" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Oliver Krischer" party="GRUENE" name="Oliver Krischer">
           <speaker>Oliver Krischer (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Kollege Saathoff, ich verstehe, ehrlich gesagt, Ihren Vortrag nicht ganz.</p>
           <stage type="interjection">(Arnold Vaatz [CDU/CSU]: Er versteht es nicht!)</stage>
         </sp>
-        <sp who="Johann Saathoff" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Johann Saathoff">
+        <sp who="Johann Saathoff" parliamentary_group="SPD" role="mp" position="NA" who_original="Johann Saathoff" party="SPD" name="Johann Saathoff">
           <speaker>Johann Saathoff (SPD):</speaker>
           <p>Das kann ich nachvollziehen.</p>
         </sp>
-        <sp who="Oliver Krischer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Oliver Krischer">
+        <sp who="Oliver Krischer" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Oliver Krischer" party="GRUENE" name="Oliver Krischer">
           <speaker>Oliver Krischer (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sie reden hier darüber, was der Rat einer Gemeinde, einer Stadt diskutieren muss, wenn der Konzessionsvertrag ausläuft. Dieser wird dann entweder verlängert, oder er wählt einen neuen Konzessionsnehmer. Dabei muss er sich all diese Fragen stellen: Habe ich das technische Know-how? Kann ich das selber machen? Habe ich das Kapital? Will ich das überhaupt? Gehe ich das Risiko ein? – Das alles ist richtig.</p>
           <p>Das ist hier aber gar nicht unser Punkt; darum geht es hier gar nicht. Es geht allein um die Frage: Wollen Sie den Kommunen die Möglichkeit eröffnen, wie es eigentlich im Energiewirtschaftsgesetz angelegt und verankert ist, selbst frei zu entscheiden, indem Sie die rechtlichen Hürden und die Rechtsunklarheit, die 2011 durch die letzte große EnWG-Novelle hervorgerufen wurden und Übertragungen unmöglich machen, beseitigen, oder wollen Sie im Grunde genommen alles so lassen, wie es ist?</p>
         </sp>
-        <sp who="Johann Saathoff" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Johann Saathoff">
+        <sp who="Johann Saathoff" parliamentary_group="SPD" role="mp" position="NA" who_original="Johann Saathoff" party="SPD" name="Johann Saathoff">
           <speaker>Johann Saathoff (SPD):</speaker>
           <p>Herr Kollege Krischer, als erste Nachfrage zu einer meiner Reden hätte ich mir schon eine etwas intelligentere Frage gewünscht.</p>
           <stage type="interjection">(Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN]: Was ist das denn? – Weitere Zurufe vom BÜNDNIS 90/DIE GRÜNEN – Zuruf von der CDU/CSU: Wir haben es ja gleich gesagt!)</stage>
@@ -2062,12 +2062,12 @@
           <p>Herzlichen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU – Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN]: Das war eher Lebensberatung als Rechtsberatung, was Sie gemacht haben!)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die CDU/CSU-Fraktion spricht nun der Kollege Karl Holmeier.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Karl Holmeier" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Karl Holmeier">
+        <sp who="Karl Holmeier" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Karl Holmeier" party="CSU" name="Karl Holmeier">
           <speaker>Karl Holmeier (CDU/CSU):</speaker>
           <p>Sehr verehrte Frau Präsidentin! Verehrte Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! Mit dem Antrag der Fraktion Die Linke soll die Übernahme der Energienetze durch Stadtwerke erleichtert werden. Wieder einmal suggeriert die Linke den Menschen, dass sie der Bundesregierung die politischen Themen diktiert. Genau das Gegenteil ist der Fall.</p>
           <stage type="interjection">(Lachen bei der LINKEN)</stage>
@@ -2091,12 +2091,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die SPD-Fraktion hat der Kollege Florian Post das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Florian Post" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Florian Post">
+        <sp who="Florian Post" parliamentary_group="SPD" role="mp" position="NA" who_original="Florian Post" party="SPD" name="Florian Post">
           <speaker>Florian Post (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Verehrte Kolleginnen und Kollegen! Ich hätte nie erwartet, dass am Freitagnachmittag zu diesem Punkt so eine doch aufgeheizte Debatte stattfindet.</p>
           <stage type="interjection">(Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN]: Ich auch nicht!)</stage>
@@ -2123,13 +2123,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird Überweisung der Vorlage auf Drucksache 18/3745 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? – Das ist der Fall. Dann ist die Überweisung so beschlossen.</p>
           <p>Wir sind damit am Schluss unserer heutigen Tagesordnung.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 4. Februar 2015, 13 Uhr, ein.</p>
           <p>Die Sitzung ist geschlossen. Ich wünsche Ihnen alles Gute.</p>
+          <stage type="interjection">(Schluss: 15.39 Uhr)</stage>
         </sp>
       </div>
     </body>

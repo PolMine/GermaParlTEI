@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-06</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2005/1205/bic/plenarprotokolle/pp/1996/13139a.zip</url>
-        <date>2015-10-20 19:19:16</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -36,7 +36,7 @@
   <text>
     <body>
       <div type="agenda_item" n="1" what="debate" desc="a)Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und F.D.P. einge...">
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Guten Morgen, liebe Kolleginnen und Kollegen! Die Sitzung ist eröffnet.</p>
           <p>Interfraktionell ist vereinbart worden, daß in der Haushaltswoche vom 26. November 1996 keine Befragung der Bundesregierung, keine Fragestunde und keine Aktuellen Stunden stattfinden. Sind Sie mit dieser Abweichung von der Geschäftsordnung einverstanden? -- Das ist der Fall.</p>
@@ -61,7 +61,7 @@
           <p>Es liegt ein Entschließungsantrag der Fraktion Bündnis 90/Die Grünen vor. Ich weise darauf hin, daß wir im Anschluß an die Aussprache über das 1. GKV-Neuordnungsgesetz namentlich abstimmen werden.</p>
           <p>Nach einer interfraktionellen Vereinbarung sind für die Aussprache zwei Stunden vorgesehen. -- Dazu höre ich keinen Widerspruch; wir verfahren so. Als erste in der Debatte spricht die Kollegin Eva-Maria Kors.</p>
         </sp>
-        <sp who="Eva-Maria Kors" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Eva-Maria Kors">
+        <sp who="Eva-Maria Kors" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Eva-Maria Kors" party="CDU" name="Eva-Maria Kors">
           <speaker>Eva-Maria Kors (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Mit dem Gesetz zur Weiterentwicklung der Strukturreform in der GKV und dem Krankenhausfinanzierungsgesetz 1997 haben wir Gesetze vorgelegt und in diesem Hohen Hause verabschiedet, die sowohl die Verbesserung der Gestaltungsmöglichkeiten und die Stärkung der Finanzverwaltung der Krankenkassen als auch Maßnahmen zur Beitragsstabilisierung vorsahen.</p>
           <p>Beide Gesetze sind durch die Blockadepolitik der SPD-geführten Länder im Bundesrat gescheitert. Wenn wir heute also zustimmungsfreie Gesetze vorlegen, dann liegt das einzig und allein an der Opposition; denn daß Handlungsbedarf besteht, dürfte unstrittig sein.</p>
@@ -73,11 +73,11 @@
           <stage type="interjection">(Editha Limbach [CDU/CSU]: Sehr richtig!)</stage>
           <p>Unsere beiden heute auf der Tagesordnung stehenden Gesetze zur Neuordnung von Selbstverwaltung und Eigenverantwortung in der GKV beinhalten gesetzlich notwendige Maßnahmen, die die Eigenverantwortung sowohl des einzelnen als auch die der Selbstverwaltung stärken und damit den von der Selbstverwaltung immer wieder geforderten größeren Gestaltungsraum ermöglichen.</p>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Frau Kors, gestatten Sie eine Zwischenfrage des Kollegen Pfaff?</p>
         </sp>
-        <sp who="Eva-Maria Kors" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Eva-Maria Kors">
+        <sp who="Eva-Maria Kors" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Eva-Maria Kors" party="CDU" name="Eva-Maria Kors">
           <speaker>Eva-Maria Kors (CDU/CSU):</speaker>
           <p>Nein, ich möchte heute geschlossen vortragen.</p>
           <p>Im 1. GKV-Neuordnungsgesetz erschweren wir aus den von mir eingangs genannten Gründen Beitragsanhebungen und verbinden sie mit der gleichzeitigen Erhöhung von Zuzahlungen. Dies machen wir übrigens nicht, um die Versicherten zu ärgern, sondern dies soll die Krankenkassen veranlassen, ihre Aufgaben wahrzunehmen, nämlich ihre Wirtschaftlichkeitsreserven auszuschöpfen und bessere Verträge zu machen.</p>
@@ -105,7 +105,7 @@
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Dr. Dieter Thomae [F.D.P.]: Wir haben 26 000!)</stage>
           <p>Lassen Sie mich jetzt zu einem Thema im Krankenhausbereich kommen, das sich auch in den Gesprächen mit der Deutschen Krankenhausgesellschaft und dem Verband der Krankenhausdirektoren immer wieder als Knackpunkt herausgestellt hat und für die Krankenhäuser von existentieller Bedeutung ist. Das ist die bisher ungelöste Frage der Übernahme der Instandhaltungskosten der Krankenhäuser.</p>
           <stage type="interjection">(Wolfgang Lohmann [Lüdenscheid] [CDU/CSU]: Die Länder haben sich gedrückt!)</stage>
-          <p>1993 hat das Bundesverwaltungsgericht eine Regelungslücke hierzu in der Abgrenzungsverordnung festgestellt. Seit dieser Zeit haben sich die Länder  --außer Bayern -- aus ihrer Verantwortung für diesen Bereich im Krankenhaus geschlichen. Seit dieser Zeit haben sich aber auch die Instandhaltungsaufwendungen, nach Schätzung der Deutschen Krankenhausgesellschaft: in Milliardenhöhe, aufgestaut. Das ist ein dicker Batzen, der in den Kassen der Länder verblieb.</p>
+          <p>1993 hat das Bundesverwaltungsgericht eine Regelungslücke hierzu in der Abgrenzungsverordnung festgestellt. Seit dieser Zeit haben sich die Länder --außer Bayern -- aus ihrer Verantwortung für diesen Bereich im Krankenhaus geschlichen. Seit dieser Zeit haben sich aber auch die Instandhaltungsaufwendungen, nach Schätzung der Deutschen Krankenhausgesellschaft: in Milliardenhöhe, aufgestaut. Das ist ein dicker Batzen, der in den Kassen der Länder verblieb.</p>
           <stage type="interjection">(Anneliese Augustin [CDU/CSU]: Das ist ein Skandal!)</stage>
           <p>-- Ja, das ist ein Skandal.</p>
           <p>Liebe Kolleginnen und Kollegen, obwohl wir die Verantwortung für die Instandhaltungskosten eindeutig bei den Ländern sehen,</p>
@@ -141,11 +141,11 @@
           <p>Ich danke Ihnen für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Klaus Kirschner [SPD]: Das war wirklich eine tolle Nummer!)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Das Wort hat der Kollege Rudolf Dreßler.</p>
         </sp>
-        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Dreßler">
+        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Dreßler" party="SPD" name="Rudolf Dreßler">
           <speaker>Rudolf Dreßler (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Die heutige Debatte zu den von der Koalition vorgelegten Neuordnungsgesetzen in der Krankenversicherung betrifft keinen isolierten, auf die Gesundheitspolitik beschränkten Vorgang.</p>
           <stage type="interjection">(Jürgen W. Möllemann [F.D.P.]: Fein beobachtet!)</stage>
@@ -178,30 +178,30 @@
           <p>So oder ähnlich geistert es seit Wochen durch die Presselandschaft. Da bleibt eigentlich nur noch eine Alternative: Entweder sind die deutschen Journalisten durchweg von Sinnen und haben die Gesetze nicht gelesen, oder sie haben sie nicht nur gelesen, sondern auch verstanden und ungeachtet aller Nebelkerzen und Leimruten der Koalition als Machwerk enttarnt. Das ist der Punkt.</p>
           <stage type="interjection">(Beifall bei der SPD und der PDS)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Dreßler, gestatten Sie eine Zwischenfrage des Kollegen Lohmann?</p>
         </sp>
-        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Dreßler">
+        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Dreßler" party="SPD" name="Rudolf Dreßler">
           <speaker>Rudolf Dreßler (SPD):</speaker>
           <p>Aber mit Vergnügen, mit größtem Vergnügen.</p>
         </sp>
-        <sp who="Wolfgang Lohmann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Lohmann">
+        <sp who="Wolfgang Lohmann (Lüdenscheid)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Lohmann (Lüdenscheid)" party="CDU" name="Wolfgang Lohmann">
           <speaker>Wolfgang Lohmann (Lüdenscheid) (CDU/CSU):</speaker>
           <p>Herr Kollege Dreßler, Sie sprechen gerade von "arglistiger Täuschung" und zitieren aus der Presse. Ich habe gestern gelesen, daß Sie unsere Gesetze unter anderem so kritisieren: Es "drohen den Versicherten 1997 höhere Beiträge und Zuzahlungen, die leicht mehrere tausend Mark erreichen könnten." Wenn ich jetzt unter "mehrere tausend Mark" 2 000 DM verstehe -- denn 1 000 DM wären ja nicht mehrere tausend Mark --: Kann es sein, daß die arglistige Täuschung von Ihnen versucht wird, indem Sie so tun, als würden Versicherte mit 2 000 DM zur Kasse gebeten, obwohl Sie doch genau wissen, daß es sich auf Grund der Überforderungsklausel dann schon um Versicherte handeln müßte, die deutlich mehr als 100 000 DM verdienen?</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Dreßler">
+        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Dreßler" party="SPD" name="Rudolf Dreßler">
           <speaker>Rudolf Dreßler (SPD):</speaker>
           <p>Herr Lohmann, Sie geben mir Gelegenheit, Ihren Fraktionskollegen, die sich mit anderen politischen Schwerpunkten beschäftigen müssen, eine kleine Aufklärung über die Hinterlist Ihres Gesetzentwurfes zu geben. Ich komme gleich noch einmal darauf zurück.</p>
           <stage type="interjection">(Jürgen W. Möllemann [F.D.P.]: Frage beantworten!)</stage>
           <p>Frau Präsidentin, ich gehe davon aus, daß die Zeit gestoppt wird. Dann kann ich das nämlich zweimal sagen, schon alleine deshalb, damit es in wacher Erinnerung bleibt.</p>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Dreßler, entweder Sie beantworten jetzt die Frage, dann wird die Zeit gestoppt; wenn Sie sie jetzt nicht beantworten, dann wird auch die Zeit nicht gestoppt.</p>
         </sp>
-        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Dreßler">
+        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Dreßler" party="SPD" name="Rudolf Dreßler">
           <speaker>Rudolf Dreßler (SPD):</speaker>
           <p>Aber natürlich, ich beantworte die Frage.</p>
           <stage type="interjection">(Wolfgang Lohmann [Lüdenscheid] [CDU/CSU]: Jetzt muß ich also wieder aufstehen!)</stage>
@@ -277,7 +277,7 @@
           <p>Die Stammkundschaft der gesetzlichen Krankenkassen -- das sind ja bekanntlich die Mitglieder der F.D.P.-Bundestagsfraktion; die sind höchstwahrscheinlich alle in der Gärtnerkrankenkasse wegen der Pflege der Landschaft -- hat bei der Entdeckung einer solchen Idee übersehen, daß es Gesetzesvorschriften gibt, nach denen sich jede einzelne Krankenkasse zu richten hat. Sie hat nämlich von Gesetzes wegen einen ausgeglichenen Haushalt vorzulegen. Die gesetzliche Verpflichtung zwingt die Kasse zu Beitragssatzerhöhungen, wenn mit den erwarteten Einnahmen die zu erwartenden Ausgaben nicht zu bedienen sein werden. Herr Möllemann, das geschieht nicht aus Jux und Tollerei wie Herr Seehofer seit geraumer Zeit der Öffentlichkeit einzureden versucht, sondern ist die gesetzliche Pflicht der deutschen Krankenkassen. An dieser Pflicht können Sie nicht herummanipulieren, und Sie können nicht die Krankenkassen für einen Zustand verantwortlich machen, den die Politik diesen Krankenkassen aufgebürdet hat.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der PDS)</stage>
           <p>Man stelle sich die Lage vor, wie die sogenannten Neuordnungsgesetze sie herbeiführen werden: Einer Krankenkasse durch Gesetz die Beitragssatzerhöhung vorschreiben, dann den Mitgliedern der Kasse für diesen Fall eine sofortige Kündigungsmöglichkeit einräumen, dann die Kasse durch eine parallele Zwangserhöhung der Selbstbeteiligung dazu bringen, die Mitglieder gleichsam indirekt auch noch hinauszuwerfen, und dann noch behaupten, das Ganze sei wettbewerbsfördernd. Das nenne ich schlicht pervers.</p>
-          <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN) </stage>
+          <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
           <p>Man stelle sich vor, diese Regierung hätte in den vergangenen 14 Jahren ihre Steuerpolitik mit solchen Mechanismen versehen, etwa nach der Regel: Jede Steuererhöhung -- davon gibt es ja etliche -- wird mit einem sofort wirksamen Kündigungsrecht für die deutsche Staatsbürgerschaft verknüpft. Die Bundesrepublik wäre vor zehn Jahren mangels Staatsbürgern geschlossen worden, denn wir alle wären Luxemburger oder Liechtensteiner geworden.</p>
           <p>Man muß sich wirklich einmal die Mühe machen, praktisch nachzuvollziehen, zu was die beiden vorliegenden Gesetze führen werden. Die Krankenkassen werden am Ende des Jahres ein Defizit von 14 Milliarden DM vor sich herschieben. Dazu kommt eine gesetzlich erzwungene Beitragssatzabsenkung von 0,4 Prozent, die noch nicht einmal annähernd durch die erste Tranche der Seehoferschen Gesetzesgrobheiten ausgeglichen wird.</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Der will Spitzenpolitiker sein!)</stage>
@@ -297,11 +297,11 @@
           <p>widerspricht dem Gesetzestext. Der Gesetzestext besagt eindeutig, daß diese Leistungen von der Selbstverwaltung ausgegrenzt werden sollen, und zwar in einer Höhe von 16 Milliarden DM.</p>
           <stage type="interjection">(Widerspruch bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Dreßler, gestatten Sie eine Zwischenfrage des Kollegen Lohmann?</p>
         </sp>
-        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Dreßler">
+        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Dreßler" party="SPD" name="Rudolf Dreßler">
           <speaker>Rudolf Dreßler (SPD):</speaker>
           <p>Nein, jetzt nicht mehr, Frau Präsidentin. Jetzt wird sich Herr Lohmann anhören, was das bedeutet.</p>
           <p>Damit klar ist, was unter anderem auf der Streichliste steht, erwähne ich: häusliche Krankenpflege, Volumen: 3,3 Milliarden DM; Fahrtkosten, Volumen: 1 Milliarde DM; Kuren und Rehabilitation, Volumen: 5,1 Milliarden DM; Heilmittel, physikalische Therapie, Krankengymnastik, Sprachtherapie nach Schlaganfall oder bei stotternden Kindern, Volumen: 5,4 Milliarden DM.</p>
@@ -311,11 +311,11 @@
           <p>Die SPD-Bundestagsfraktion macht sich gemeinsam mit den Gewerkschaften, den Verbänden des Sozial- und Gesundheitswesens, den Krankenkassen, aber auch gemeinsam mit Millionen sozial verantwortlich fühlenden Menschen in unserem Land zum Sprecher der vielen, die von diesen Maßnahmen betroffen sind. Ich sage Ihnen, auch wenn Sie hier heute morgen dies alles nicht wahrhaben wollen: Denken Sie darüber nach! Ich sage in Richtung von CDU/CSU und F.D.P.: Kommen Sie heute morgen endlich noch zur Vernunft; ziehen Sie diese unanständigen Gesetze zurück!</p>
           <stage type="interjection">(Anhaltender Beifall bei der SPD -- Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Das Wort hat die Kollegin Monika Knoche.</p>
         </sp>
-        <sp who="Monika Knoche" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Monika Knoche">
+        <sp who="Monika Knoche" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Monika Knoche" party="GRUENE" name="Monika Knoche">
           <speaker>Monika Knoche (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Herren und Damen! Es ist an der Zeit, klar einzuordnen, was unter dieser Regierung mit dem Gesundheitswesen geschieht. Wir Grüne betrachten den irrational anmutenden Aktionismus, das öffentliche Jagen und Abstrafen immer neuer Schuldiger mit großem Ernst. Dieses Gesetzesgefuchtel, das sich zu einer neuen politischen Plage für 70 Millionen Versicherte auswächst, verkaufen Sie auch noch als unausweichliche Sparmaßnahme.</p>
           <p>Wer den Fehler macht, sich auf die falschen Kostenargumente einzulassen, läuft Gefahr, sich an dem Paradigmenwechsel zu beteiligen. Im Kern zielt die Regierung gegen einen zivilisatorischen Konsens, die solidarische Gesundheitsversorgung.</p>
@@ -391,11 +391,11 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der PDS)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Das Wort hat der Kollege Jürgen W. Möllemann.</p>
         </sp>
-        <sp who="Jürgen W. Möllemann" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Jürgen Möllemann">
+        <sp who="Jürgen W. Möllemann" parliamentary_group="FDP" role="mp" position="NA" who_original="Jürgen W. Möllemann" party="FDP" name="Jürgen W. Möllemann">
           <speaker>Jürgen W. Möllemann (F.D.P.):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Der Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Lage legt heute sein Gutachten für 1996/1997 vor. Er wird dabei dem Vernehmen nach darlegen, daß wir nach seiner Einschätzung im kommenden Jahr ein Wachstum von 2,5 Prozent haben werden, aber gleichzeitig eine steigende Arbeitslosigkeit. Die Zahl der offiziell arbeitslos Gemeldeten wird nach seiner Prognose im nächsten Jahr die 4-Millionen-Grenze überschreiten.</p>
           <stage type="interjection">(Regina Schmidt-Zadel [SPD]: Wer ist denn an der Regierung?)</stage>
@@ -423,38 +423,38 @@
           <p>Heute unterhalten wir uns darüber, wie wir das bei der Krankenversicherung vermeiden können. Wir glauben, daß das Verhältnis zwischen Solidarität und Subsidiarität bei den sozialen Sicherungssystemen insgesamt nicht mehr stimmt, daß wir die Allgemeinheit für zu viele Leistungen in Anspruch nehmen, die stärker individuell verantwortet werden müssen, und daß wir dann, wenn wir dem nicht entgegenwirken, für die Allgemeinheit ständig steigende, obligatorische Sozialversicherungsbeiträge haben werden.</p>
           <p>Wir haben in allen Beratungen darüber gesprochen -- heute führen wir die Diskussion über das gleiche Thema zum wiederholten Mal --, was an Instrumenten zur Verfügung steht, um eine ungebremste Explosion der Beiträge zu vermeiden. Wir setzen darauf, daß beispielsweise die Transparenz, also die Offenlegung der Kosten, eine wichtige Voraussetzung dafür ist, daß man mit den Kosten sorgfältig umgeht. Das heißt praktisch: Wir wollen, daß den Patienten künftig über alle Leistungen, die erbracht werden, Rechnung gelegt wird, damit eine Kontrolle stattfinden kann, und zwar von seiten der Patienten gegenüber den Leistungserbringern. Und wir wollen natürlich auch, daß auf diese Weise das Kostenbewußtsein gestärkt wird.</p>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Möllemann, gestatten Sie eine Zwischenfrage des Kollegen Kirschner?</p>
         </sp>
-        <sp who="Jürgen W. Möllemann" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Jürgen Möllemann">
+        <sp who="Jürgen W. Möllemann" parliamentary_group="FDP" role="mp" position="NA" who_original="Jürgen W. Möllemann" party="FDP" name="Jürgen W. Möllemann">
           <speaker>Jürgen W. Möllemann (F.D.P.):</speaker>
           <p>Bitte.</p>
         </sp>
-        <sp who="Klaus Kirschner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Klaus Kirschner">
+        <sp who="Klaus Kirschner" parliamentary_group="SPD" role="mp" position="NA" who_original="Klaus Kirschner" party="SPD" name="Klaus Kirschner">
           <speaker>Klaus Kirschner (SPD):</speaker>
           <p>Herr Kollege Möllemann, wenn es wirklich Ihr ernsthaftes Bemühen ist, die Beitragssatzsteigungen in den Griff zu bekommen: Können Sie dem Hohen Hause erklären, wie hoch die Sozialleistungsquote ist, wie hoch die Krankenversicherungsausgaben gemessen am Bruttosozialprodukt, sind? Sie sind seit 1982 gleichgeblieben oder sogar leicht gesunken. Können Sie dem Hohen Hause weiter erklären, daß die Beitragssätze durch den Rückgang der Lohnquote, gemessen am Volkseinkommen, gestiegen sind und nicht, weil wir zu hohe Ausgaben der gesetzlichen Krankenversicherung haben? Diese sind, gemessen am Bruttosozialprodukt, nämlich nicht gestiegen.</p>
           <stage type="interjection">(Rudolf Dreßler [SPD]: Das war eine schwere Frage!)</stage>
         </sp>
-        <sp who="Jürgen W. Möllemann" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Jürgen Möllemann">
+        <sp who="Jürgen W. Möllemann" parliamentary_group="FDP" role="mp" position="NA" who_original="Jürgen W. Möllemann" party="FDP" name="Jürgen W. Möllemann">
           <speaker>Jürgen W. Möllemann (F.D.P.):</speaker>
           <p>Nein, die Frage war noch einigermaßen nachvollziehbar. Ich war gerade dabei, den Sachverhalt in seinem Zusammenhang darzustellen.</p>
           <p>Wir haben heute gegenüber der Mitte der 80er Jahre eine offenkundig deutlich gesunkene Wettbewerbsfähigkeit unserer Wirtschaft. Wir schaffen es nicht mehr, die Menschen, die heute arbeitslos sind, in Arbeit zu bringen, wenn wir die Wettbewerbsfähigkeit nicht steigern, das heißt, wenn wir nicht die Rahmenbedingungen für diejenigen, die in Deutschland produzieren, und zwar unabhängig davon, ob sie Waren, Ideen oder Dienstleistungen produzieren, durch Senkung der Steuern -- hierzu ist in den nächsten Tagen und Wochen eine Entscheidung fällig --, durch Reduzierung und Begrenzung von Lohnzusatzkosten und durch die Beschleunigung von Entscheidungsverfahren verbessern. Darüber reden wir hier.</p>
           <p>Es nützt nichts, zu sagen: Aber wir hatten doch so eine wunderschöne Situation. -- Dies war in einer Zeit, in der wir offenkundig unter geringerem Wettbewerbsdruck standen. Es nützt auch nichts, durch Träumereien -- darauf komme ich gleich an anderer Stelle noch einmal -- davon abzulenken, daß jetzt entschieden werden muß, ob wir wieder wettbewerbsfähig werden wollen oder nicht; sonst verspielen wir noch mehr als möglicherweise nur die eine oder andere Detailregelung in der einen oder anderen Sozialversicherung.</p>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Gestatten Sie eine Zwischenfrage des Kollegen Pfaff?</p>
         </sp>
-        <sp who="Jürgen W. Möllemann" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Jürgen Möllemann">
+        <sp who="Jürgen W. Möllemann" parliamentary_group="FDP" role="mp" position="NA" who_original="Jürgen W. Möllemann" party="FDP" name="Jürgen W. Möllemann">
           <speaker>Jürgen W. Möllemann (F.D.P.):</speaker>
           <p>Bitte.</p>
         </sp>
-        <sp who="Dr. Martin Pfaff" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Martin Pfaff">
+        <sp who="Martin Pfaff" parliamentary_group="SPD" role="mp" position="NA" who_original="Martin Pfaff" party="SPD" name="Martin Pfaff">
           <speaker>Dr. Martin Pfaff (SPD):</speaker>
           <p>Herr Kollege Möllemann, ist Ihnen bekannt, daß für die internationale Wettbewerbsfähigkeit nicht allein die Lohn- und die Lohnnebenkosten, sondern auch die Lohnstückkosten verantwortlich sind, und daß diese bei uns in den letzten zwei Jahrzehnten nominal ungefähr um das 2,5fache -- in anderen Ländern um das Fünffache -- gestiegen sind bzw. nach Berücksichtigung der Wechselkursveränderungen ungefähr gleichgeblieben sind? Ist Ihnen bekannt, daß die Sozialleistungsquote insgesamt seit 30 Jahren stabil geblieben ist, abgesehen von der falschen Finanzierung der deutschen Einheit, die Sie über die Beitragszahlerinnen und Beitragszahler vorgenommen haben, und daß die Exportüberschüsse in den letzten Jahren, obwohl Sie die mangelnde Wettbewerbsfähigkeit der deutschen Wirtschaft beklagen, zugenommen haben? Wie können Sie das erklären?</p>
         </sp>
-        <sp who="Jürgen W. Möllemann" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Jürgen Möllemann">
+        <sp who="Jürgen W. Möllemann" parliamentary_group="FDP" role="mp" position="NA" who_original="Jürgen W. Möllemann" party="FDP" name="Jürgen W. Möllemann">
           <speaker>Jürgen W. Möllemann (F.D.P.):</speaker>
           <p>Lieber Herr Kollege, jeder von uns hat neben den Erörterungen hier im Parlament mehr oder weniger intensiv die Gelegenheit, sich mit Kolleginnen und Kollegen zum Beispiel auch aus den eigenen Parteiverbünden im internationalen Bereich zu unterhalten.</p>
           <p>Ich hatte gerade in den vergangenen Tagen aus einem ganz anderen Anlaß die Möglichkeit, mit einer großen Zahl von Kolleginnen und Kollegen aus verschiedenen Ländern zu sprechen. Die schauen mit einer gewissen Faszination auf uns und fragen: Wann merkt ihr Deutschen eigentlich, daß ihr auf einer Insel der Seligen zu leben glaubt, während eure Wettbewerbssituation jeden Tag schlechter wird?</p>
@@ -479,19 +479,19 @@
           <p>Es ist klar -- Sie haben darauf mit Hohngelächter reagiert --, daß wir mit Gestaltungsleistungen nicht meinen: keine Leistungen. Wir meinen aber sehr wohl eine Differenzierung des Angebots. Ich weiß nicht, warum das schädlich sein soll, wenn es gleichzeitig mit dem Recht eines jeden Versicherten verbunden ist, eine andere Kasse zu wählen, wenn ihm das Gesamtpaket einer Kasse einschließlich der Gestaltungsleistungen nicht paßt. Dann werden wir sehen, daß der Wettbewerb einer um Attraktivität sein wird, weil man auf diese Weise die Versicherten gewinnt oder behält.</p>
           <p>Das zweite, das in diesem Zusammenhang zu sagen ist, ist, daß die heutige Systematik des Risikostrukturausgleichs mit Wettbewerb natürlich nicht dauerhaft vereinbar ist. -- Jedenfalls nach meiner Interpretation ist das so; darüber gibt es unterschiedliche Meinungen. -- Wenn man will, daß es Wettbewerb gibt, dann muß aus meiner Sicht nach einer Übergangszeit dieses Instrument mindestens degressiv angelegt werden und am Ende -- vielleicht begrenzt auf die Rentneranteilsproblematik -- auslaufen, weil sonst diejenigen Kassen, die effizient wirtschaften, dauerhaft die Negativleistungen anderer Kassen ausgleichen müssen. Das ist nicht gerade ein Anreiz zu besonders vernünftigem Verhalten. Darüber wird noch zu reden sein.</p>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Möllemann, gestatten Sie eine Zwischenfrage des Kollegen Wodarg?</p>
         </sp>
-        <sp who="Jürgen W. Möllemann" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Jürgen Möllemann">
+        <sp who="Jürgen W. Möllemann" parliamentary_group="FDP" role="mp" position="NA" who_original="Jürgen W. Möllemann" party="FDP" name="Jürgen W. Möllemann">
           <speaker>Jürgen W. Möllemann (F.D.P.):</speaker>
           <p>Ja, bitte.</p>
         </sp>
-        <sp who="Dr. Wolfgang Wodarg" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wolfgang Wodarg">
+        <sp who="Wolfgang Wodarg" parliamentary_group="SPD" role="mp" position="NA" who_original="Wolfgang Wodarg" party="SPD" name="Wolfgang Wodarg">
           <speaker>Dr. Wolfgang Wodarg (SPD):</speaker>
           <p>Herr Möllemann, Sie haben gerade die Situation der Krankenkassen geschildert und gesagt, daß der Wettbewerb den Krankenkassen guttut und zu einer Leistungssteigerung führen soll. Weshalb haben Sie den Krankenkassen jetzt Instrumente in die Hand gegeben, die es ihnen ermöglichen, die sogenannten schlechten Risiken, die teuren Kranken hinauszugraulen? Das wird vor allem chronisch Kranke treffen. Ist das Ihre Art von Wettbewerb: Wer zuerst die chronisch Kranken rausgrault, der überlebt am Markt?</p>
         </sp>
-        <sp who="Jürgen W. Möllemann" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Jürgen Möllemann">
+        <sp who="Jürgen W. Möllemann" parliamentary_group="FDP" role="mp" position="NA" who_original="Jürgen W. Möllemann" party="FDP" name="Jürgen W. Möllemann">
           <speaker>Jürgen W. Möllemann (F.D.P.):</speaker>
           <p>Da Ihre Frage rhetorisch gemeint war und nicht von gutem Willen gekennzeichnet ist, kann ich sie nicht beantworten. Auf dieses Niveau begebe ich mich nicht mehr, Herr Dr. Wodarg.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
@@ -504,11 +504,11 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Als nächste spricht Frau Dr. Ruth Fuchs.</p>
         </sp>
-        <sp who="Dr. Ruth Fuchs" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Ruth Fuchs">
+        <sp who="Ruth Fuchs" parliamentary_group="PDS" role="mp" position="NA" who_original="Ruth Fuchs" party="PDS" name="Ruth Fuchs">
           <speaker>Dr. Ruth Fuchs (PDS):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! In diesem Jahr wird das Defizit der Krankenkassen mindestens wieder die Rekordsumme von 10 Milliarden DM erreichen. Neben den objektiven Ursachen für steigende Ausgaben schlägt vor allem auch jene Kostendynamik, die aus den unverändert bestehenden Struktur- und Steuerungsfehlern des Gesundheitswesens in Ambulanz, Krankenhaus, Arzneimittelversorgung und anderen Bereichen resultiert, wieder voll durch und prägt erneut die Situation der gesetzlichen Krankenversicherungen.</p>
           <p>Im Gesundheitswesen selbst nehmen Unsicherheit, Wirrwarr und zum Teil chaotische Verteilungskämpfe zu. Die Arzneimittelbudgets werden 1996 in fast allen KV-Bezirken deutlich überschritten. Das ist weder einfach den Ärzten noch den Krankenkassen geschuldet, sondern in erster Linie Ergebnis der sattsam bekannten Mißstände auf diesem Gebiet. Wenn sich niedergelassene Ärzte dazu veranlaßt sehen, die Zahl bestimmter Leistungen von einem Quartal zum anderen in fachlich nicht mehr nachvollziehbarer Weise um ein Vielfaches zu erhöhen, dann ist das Ausdruck eines Honorarverteilungskampfes, der auch für die Patienten immer bedrohlichere Züge annimmt.</p>
@@ -536,11 +536,11 @@
           <p>Danke für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der PDS und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Als nächster spricht Ulf Fink.</p>
         </sp>
-        <sp who="Ulf Fink" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ulf Fink">
+        <sp who="Ulf Fink" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ulf Fink" party="CDU" name="Ulf Fink">
           <speaker>Ulf Fink (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Rudi Dreßler hat schon sehr heftig in die Tasten gegriffen.</p>
           <stage type="interjection">(Klaus Kirschner [SPD]: Was hat er?)</stage>
@@ -610,22 +610,22 @@
           <p>-- Ich habe damals Krankenhäuser geschlossen. Ich habe den politischen Mut aufgebracht. Ich habe in Berlin eine ganze Universitätsklinik geschlossen. Den Mut müssen Sie erst einmal aufbringen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Fink, gestatten Sie eine Zwischenfrage des Abgeordneten Pfaff?</p>
         </sp>
-        <sp who="Ulf Fink" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ulf Fink">
+        <sp who="Ulf Fink" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ulf Fink" party="CDU" name="Ulf Fink">
           <speaker>Ulf Fink (CDU/CSU):</speaker>
           <p>Ja, natürlich.</p>
         </sp>
-        <sp who="Dr. Martin Pfaff" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Martin Pfaff">
+        <sp who="Martin Pfaff" parliamentary_group="SPD" role="mp" position="NA" who_original="Martin Pfaff" party="SPD" name="Martin Pfaff">
           <speaker>Dr. Martin Pfaff (SPD):</speaker>
           <p>Herr Kollege Fink, ist Ihnen bekannt, daß das deutsche Krankenhaus, gemessen an den Ausgaben pro Kopf oder auch am Volkseinkommen, in keiner Weise überbordend ist, sondern daß es eigentlich als letztes Auffangbecken für viele ungelöste Probleme der Gesellschaft dienen muß und daß zum zweiten die von Ihnen gegeißelten Länder durch Gerichtsurteil hinsichtlich der Instandhaltungskosten eine klare Weisung bekommen haben, daß dies nicht Aufgabe der Länderfinanzierung ist?</p>
           <stage type="interjection">(Wolfgang Zöller [CDU/CSU]: Weil Sie die Änderung des Gesetzes abgelehnt haben! Seien Sie doch ehrlich!)</stage>
           <p>Ich frage mich wirklich, Herr Kollege Fink, wie Sie hier für solche Dinge als ein Sozialpolitiker mit einem Namen noch im Brustton der Überzeugung auftreten können. Das ist wirklich etwas, das ich nur schwer verstehen kann.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Ulf Fink" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ulf Fink">
+        <sp who="Ulf Fink" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ulf Fink" party="CDU" name="Ulf Fink">
           <speaker>Ulf Fink (CDU/CSU):</speaker>
           <p>Wenn es so wäre, daß die Länder die Instandhaltungskosten durch Gerichtsurteil nicht bezahlen dürften,</p>
           <stage type="interjection">(Dr. Dieter Thomae [F.D.P.]: Sie dürfen wohl!)</stage>
@@ -642,15 +642,15 @@
           <p>Hinsichtlich des Gesamtthemas muß man sich aber folgendes fragen: Ist es denn wirklich so, daß in der Bundesrepublik Deutschland zuwenig Medikamente verordnet werden? Man hat fast den Eindruck, daß das das eigentliche Problem ist. Wir wissen doch: Die Weltmeister im Schlucken von Medikamenten sind die Deutschen. Pro Jahr werden nicht genutzte Arzneimittel in einem Wert von über 3 Milliarden DM weggeworfen. Das ist das Thema in Deutschland!</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Fink, gestatten Sie eine weitere Zwischenfrage des Kollegen Pfaff?</p>
         </sp>
-        <sp who="Ulf Fink" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ulf Fink">
+        <sp who="Ulf Fink" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ulf Fink" party="CDU" name="Ulf Fink">
           <speaker>Ulf Fink (CDU/CSU):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Dr. Martin Pfaff" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Martin Pfaff">
+        <sp who="Martin Pfaff" parliamentary_group="SPD" role="mp" position="NA" who_original="Martin Pfaff" party="SPD" name="Martin Pfaff">
           <speaker>Dr. Martin Pfaff (SPD):</speaker>
           <p>Verehrter Herr Kollege Fink, es ist zwar nicht ganz richtig, was Sie sagten;</p>
           <stage type="interjection">(Zurufe von der CDU/CSU: Doch!)</stage>
@@ -659,7 +659,7 @@
           <p>Das ist doch völlig abwegig. Diagnose falsch, Therapie noch fälscher -- das ist das Problem dieses Gesetzes.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD und der PDS)</stage>
         </sp>
-        <sp who="Ulf Fink" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ulf Fink">
+        <sp who="Ulf Fink" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ulf Fink" party="CDU" name="Ulf Fink">
           <speaker>Ulf Fink (CDU/CSU):</speaker>
           <p>Ich sage dazu: Bei jeder Politik müssen Sie einen Policy-Mix vornehmen. Das wissen Sie genausogut wie ich. Wenn Sie wirklich bereit wären, diesen Erkenntnissen Konsequenzen folgen zu lassen, dann wäre es Ihre vornehmste Pflicht, auf die von Ihnen regierten Länder einzuwirken, endlich bereit zu sein, nicht länger einen Obstruktionskurs zu fahren. Das müßten Sie machen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
@@ -670,16 +670,16 @@
           <stage type="interjection">(Zuruf von der CDU/CSU: Das weiß auch jeder!)</stage>
           <p>Das ist doch ein infamer Vorwurf von Ihnen. Das lassen wir nie mit uns machen! Es ist doch unmöglich, so etwas zu sagen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
-          <p>Nein, wir müssen in der Gesundheitspolitik den Weg finden zwischen einem lediglich marktwirtschaftlich orientierten System, wie er in den Vereinigten Staaten von Amerika gegangen wird -- das im übrigen sehr teuer ist, viel teurer als unseres --, und einem staatlichen Warteschlangensystem  la Großbritannien. Zwischen diesen beiden Extremen müssen wir durch.</p>
+          <p>Nein, wir müssen in der Gesundheitspolitik den Weg finden zwischen einem lediglich marktwirtschaftlich orientierten System, wie er in den Vereinigten Staaten von Amerika gegangen wird -- das im übrigen sehr teuer ist, viel teurer als unseres --, und einem staatlichen Warteschlangensystem la Großbritannien. Zwischen diesen beiden Extremen müssen wir durch.</p>
           <p>Unser Weg ist ein schwieriger Weg, aber er ist ein notwendiger Weg. Wir werden ihn nicht ohne die Selbstverwaltung und auch nicht ohne ein gegliedertes System von Krankenkassen gehen können. Und da haben auch und gerade die vielgescholtenen Ortskrankenkassen ihren Platz; denn als regionale Kassen haben sie einen sehr unmittelbaren Bezug zu den Problemen der Versicherten. Das ist Subsidiarität. Wir brauchen nicht nur bundesweit operierende Kassen. Dazu gehört auch -- das ist meine Überzeugung -- die paritätische Finanzierung, weil sie in dem Punkt eine Interessenidentität von Arbeitgebern und Arbeitnehmern offenbart. Das ist ein wichtiger Bestandteil des sozialpartnerschaftlichen Modells der Bundesrepublik Deutschland.</p>
           <p>Wir werden diesen Weg trotz aller Kritik gehen; denn es ist ein vernünftiger Weg.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Klaus Kirschner.</p>
         </sp>
-        <sp who="Klaus Kirschner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Klaus Kirschner">
+        <sp who="Klaus Kirschner" parliamentary_group="SPD" role="mp" position="NA" who_original="Klaus Kirschner" party="SPD" name="Klaus Kirschner">
           <speaker>Klaus Kirschner (SPD):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Herr Kollege Fink, nun muß ich Sie eigentlich gleich zu Beginn fragen</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Loben!)</stage>
@@ -714,11 +714,11 @@
           <p>Sie brauchen mir das ja alles nicht zu glauben. Sie können es im "Statistischen Taschenbuch" des Bundesgesundheitsministers nachlesen. Dort steht schwarz auf weiß: Die Ausgaben der gesetzlichen Krankenversicherung sind, in Prozent des Bruttosozialproduktes gemessen, nicht gestiegen, sondern verharren bei 6 Prozent. Das ist doch die Ursache der Beitragssatzsteigerung. Das heißt, die von Ihnen beklagte Kostenexplosion im Gesundheitswesen ist eine Erfindung der Politik. Lassen Sie mich deutlich hinzufügen: Die Beitragsexplosion ist allerdings das Ergebnis Ihrer Politik.</p>
           <p>Wenn Sie nun noch den Arbeitgeberbeitragssatz festschreiben wollen, laden Sie die Folgen Ihrer Politik ausschließlich bei den beitragszahlenden Versicherten ab. Das heißt, die Arbeitnehmer zahlen für Ihre Politik mehrmals: mit einem Rückgang des Anteils am Volkseinkommen, mit höheren Beitragssätzen, mit höherer Selbstbeteiligung und zum vierten mit Leistungsausgrenzungen bei Krankheit.</p>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Kirschner, gestatten Sie eine Zwischenfrage?</p>
         </sp>
-        <sp who="Klaus Kirschner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Klaus Kirschner">
+        <sp who="Klaus Kirschner" parliamentary_group="SPD" role="mp" position="NA" who_original="Klaus Kirschner" party="SPD" name="Klaus Kirschner">
           <speaker>Klaus Kirschner (SPD):</speaker>
           <p>Gleich, Herr Kollege Zöller.</p>
           <p>Ich will es an einem Beispiel verdeutlichen -- das ist mir wichtig --: Nehmen wir einmal einen Arbeitnehmer mit 4 000 DM Bruttogehalt. Der Beitragssatz seiner Kasse liegt bei 13 Prozent. Sein Arbeitnehmeranteil beträgt damit 260 DM. Wenn Sie nun den Arbeitgeberbeitragssatz einfrieren und gleichzeitig die Kasse den Beitragssatz um einen Prozentpunkt erhöhen muß, bedeutet dieses für den Arbeitnehmer monatlich 40 DM an Stelle von sonst 20 DM mehr.</p>
@@ -729,30 +729,30 @@
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN -- Siegfried Hornung [CDU/CSU]: Wo denn, Herr Kollege? Auf welcher Seite denn?)</stage>
           <p>-- Sie müssen Ihren eigenen Gesetzentwurf lesen, Herr Kollege Hornung.</p>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Jetzt hat Herr Kollege Zöller das Wort.</p>
         </sp>
-        <sp who="Wolfgang Zöller" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Wolfgang Zöller">
+        <sp who="Wolfgang Zöller" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Zöller" party="CSU" name="Wolfgang Zöller">
           <speaker>Wolfgang Zöller (CDU/CSU):</speaker>
           <p>Herr Kollege Kirschner, Sie haben vorhin in Ihren Ausführungen den Anschein erweckt, als wäre das ganze Finanzierungsproblem ein Problem der Einnahmen, und haben es mit der sinkenden Lohnquote begründet. Können Sie mir bestätigen, daß dies überhaupt nicht der Fall sein kann? Es spricht nämlich folgende Zahl dagegen: 1991 haben die Krankenkassen 180 Milliarden DM eingenommen und 1995 -- man höre und staune! -- 256 Milliarden DM. Sie haben also 42 Prozent mehr eingenommen. Das kann also nicht das Problem sein. Stimmen Sie den Zahlen zu?</p>
         </sp>
-        <sp who="Klaus Kirschner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Klaus Kirschner">
+        <sp who="Klaus Kirschner" parliamentary_group="SPD" role="mp" position="NA" who_original="Klaus Kirschner" party="SPD" name="Klaus Kirschner">
           <speaker>Klaus Kirschner (SPD):</speaker>
           <p>Verehrter Herr Kollege Zöller, ich denke, Sie haben mir nicht zugehört. Ich habe wortwörtlich gesagt: Die Kostenexplosion im Gesundheitswesen ist eine Erfindung der Politik. Außerdem habe ich gesagt: Die Tatsache der Beitragsexplosion ist ein Ergebnis Ihrer Politik, deren Ursache darin liegt, daß ein Rückgang des Lohnanteils am Volkseinkommen zu verzeichnen ist. Die Beitragssätze orientieren sich aber an den Löhnen. Bei gleicher Sozialleistungsquote, in diesem Fall der gesetzlichen Krankenversicherung -- das verzeichnen wir seit 14 Jahren --, bedeutet ein Rückgang des Lohnanteils eine automatische Steigerung der Beitragssätze. Das ist das Ergebnis Ihrer Politik.</p>
           <stage type="interjection">(Wolfgang Zöller [CDU/CSU]: Das war keine Antwort auf meine Frage! Rechnen sollte man schon können! -- Horst Schmidbauer [Nürnberg] [SPD]: Milchmädchenrechnung der CDU/CSU!)</stage>
-          <p>Präsidentin Dr. Rita Süssmuth  Gestatten Sie eine weitere Zwischenfrage des Kollegen Fink?</p>
+          <p>Präsidentin Dr. Rita Süssmuth Gestatten Sie eine weitere Zwischenfrage des Kollegen Fink?</p>
         </sp>
-        <sp who="Klaus Kirschner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Klaus Kirschner">
+        <sp who="Klaus Kirschner" parliamentary_group="SPD" role="mp" position="NA" who_original="Klaus Kirschner" party="SPD" name="Klaus Kirschner">
           <speaker>Klaus Kirschner (SPD):</speaker>
           <p>Ja, bitte.</p>
         </sp>
-        <sp who="Ulf Fink" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ulf Fink">
+        <sp who="Ulf Fink" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ulf Fink" party="CDU" name="Ulf Fink">
           <speaker>Ulf Fink (CDU/CSU):</speaker>
           <p>Herr Kirschner, ich zitiere aus dem "Statistischen Taschenbuch 1996" des Bundesarbeitsministeriums. Könnten Sie mir die Zahlen bestätigen, wonach die Lohnquote im Jahr 1960 bei 60 Prozent, im Jahr 1980 bei 75,8 Prozent, im Jahr 1990 bei 69,6 Prozent und im Jahr 1995 bei 71,6 Prozent lag?</p>
           <stage type="interjection">(Wolfgang Zöller [CDU/CSU]: Haben die unterschiedliche Bücher?)</stage>
         </sp>
-        <sp who="Klaus Kirschner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Klaus Kirschner">
+        <sp who="Klaus Kirschner" parliamentary_group="SPD" role="mp" position="NA" who_original="Klaus Kirschner" party="SPD" name="Klaus Kirschner">
           <speaker>Klaus Kirschner (SPD):</speaker>
           <p>Nein, ich beziehe mich auf dieselben Statistiken wie der Kollege Fink, sowohl auf die Statistik des Bundesarbeitsministers als auch auf die des Bundesgesundheitsministers. Es stehen ja in diesen Statistiken sehr viele vernünftige Dinge.</p>
           <stage type="interjection">(Beifall des Abg. Wolfgang Zöller [CDU/CSU])</stage>
@@ -762,11 +762,11 @@
           <p>Herr Kollege Fink, Sie können hier so lange, wie Sie wollen, aus der Statistik zitieren: An dieser Tatsache kommen auch Sie nicht vorbei.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Kirschner, gestatten Sie eine weitere Zwischenfrage des Kollegen Fink?</p>
         </sp>
-        <sp who="Klaus Kirschner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Klaus Kirschner">
+        <sp who="Klaus Kirschner" parliamentary_group="SPD" role="mp" position="NA" who_original="Klaus Kirschner" party="SPD" name="Klaus Kirschner">
           <speaker>Klaus Kirschner (SPD):</speaker>
           <p>Nein. Ich möchte, daß sich der Kollege Fink wieder setzen und sich so erholen kann.</p>
           <stage type="interjection">(Wolfgang Lohmann [Lüdenscheid] [CDU/CSU]: Jetzt geht es ihm wie Herrn Dreßler! -- Weiterer Zuruf von der CDU/CSU: Wie Herr Dreßler! Er kneift!)</stage>
@@ -784,7 +784,7 @@
           <p>Meine sehr verehrten Damen und Herren, der gesundheitspolitische Unsinn, den Sie hier vertreten, ruft bei mir -- bitte entschuldigen Sie -- nur noch bitteren Sarkasmus -- anders kann ich das nicht ausdrücken -- und eine breite Front der Ablehnung hervor. Was der Bundesgesundheitsminister sprachlich vermittelt -- daß für Außenstehende die tatsächlichen Auswirkungen jeder einzelnen Maßnahme auf den ersten Blick gar nicht erkennbar sind --, sind in Wirklichkeit drastische Einschnitte bei medizinisch notwendigen Leistungen. Sie nennen das "Gestaltungsfreiheit der Krankenkassen". In Wirklichkeit treiben Sie ein perfides Spiel: Sie lassen den Krankenkassen nur die Freiheit, zu Lasten kranker Menschen Leistungen aus dem Leistungskatalog zu streichen oder die Zuzahlungen weiter zu erhöhen. Denn das Milliardendefizit der gesetzlichen Krankenversicherung haben Sie zu einem erheblichen Teil herbeigeführt.</p>
           <p>Man braucht auch hier kein Prophet zu sein, um zu erkennen, daß häusliche Krankenpflege, Kuren- und Reha-Leistungen, Fahrtkosten, Sprachheilbehandlung, Ergotherapie, Krankengymnastik usw. schon bald auf Grund Ihrer Politik aus dem Leistungsspektrum verschwinden werden.</p>
           <stage type="interjection">(Dr. Dieter Thomae [F.D.P.]: Klaus, das glaubst Du doch selber nicht!)</stage>
-          <p>Es handelt sich doch um eine Schrittvariation, die Sie hier machen. </p>
+          <p>Es handelt sich doch um eine Schrittvariation, die Sie hier machen.</p>
           <p>Erstens. Die Gestaltungsleistungen müssen vollständig abgebaut werden -- es steht doch in Ihrem Gesetzentwurf --, wenn die Beiträge deswegen erhöht werden müssen. Das steht in Ihrem Gesetzentwurf. Behaupten Sie doch nicht etwas anderes, was gar nicht im Gesetzentwurf steht!</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
           <p>Hierzu eine Anmerkung: Die Mehrzahl der Krankenkassen hat heute bereits eine Beitragsunterdeckung. Beitragssatzerhöhungen sind also im Regelfall unausweichlich, zumal ja auch noch der Beitragssatz zum 1. Januar 1997 -- so sieht es Ihr Gesetz vor -- um 0,4 Beitragssatzpunkte gesenkt werden muß.</p>
@@ -830,16 +830,16 @@
           <stage type="interjection">(Peter Dreßen [SPD]: Leider wahr!)</stage>
           <p>Jeder weiß, daß in den USA nun wirklich die Aussage zutrifft: Wenn du arm bist, mußt du früher sterben.</p>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="NA" role="presidency" position="Präsidentin" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Präsidentin Dr. Rita Süssmuth:</speaker>
           <p>Herr Kirschner, gestatten Sie eine Zwischenfrage des Kollegen Möllemann? -- Bitte.</p>
         </sp>
-        <sp who="Jürgen W. Möllemann" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Jürgen Möllemann">
+        <sp who="Jürgen W. Möllemann" parliamentary_group="FDP" role="mp" position="NA" who_original="Jürgen W. Möllemann" party="FDP" name="Jürgen W. Möllemann">
           <speaker>Jürgen W. Möllemann (F.D.P.):</speaker>
           <p>Herr Kollege Kirschner, mir ist nicht ganz klar geworden, was Sie daran zu kritisieren haben, daß sich die F.D.P. für legitime Anliegen freier Berufe einsetzt.</p>
           <stage type="interjection">(Lachen bei der SPD)</stage>
         </sp>
-        <sp who="Klaus Kirschner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Klaus Kirschner">
+        <sp who="Klaus Kirschner" parliamentary_group="SPD" role="mp" position="NA" who_original="Klaus Kirschner" party="SPD" name="Klaus Kirschner">
           <speaker>Klaus Kirschner (SPD):</speaker>
           <p>Was ich daran kritisieren wollte? Lieber Herr Kollege, ich kann nachvollziehen, daß Sie dies nicht verstehen wollen, weil Sie natürlich dieser Meinung sind. Sie haben klipp und klar gesagt: Es geht Ihnen darum, die Einkünfte von Freiberuflern wie Zahnärzten, Ärzten und Apothekern -- eine klassische Klientel der F.D.P. -- zu Lasten der kranken Menschen zu verbessern und nichts anderes.</p>
           <stage type="interjection">(Jürgen W. Möllemann [F.D.P.]: Das habe ich nicht gesagt!)</stage>
@@ -879,11 +879,11 @@
           <p>Ich bedanke mich.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich gebe nun dem Bundesminister Horst Seehofer das Wort.</p>
         </sp>
-        <sp who="Horst Seehofer" parliamentary_group="NA" role="government" position="Bundesminister für Gesundheit" party="CSU" name="Horst Seehofer">
+        <sp who="Horst Seehofer" parliamentary_group="NA" role="government" position="Bundesminister für Gesundheit" who_original="Horst Seehofer" party="CSU" name="Horst Seehofer">
           <speaker>Horst Seehofer, Bundesminister für Gesundheit:</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Es ist beinahe unglaublich, was täglich, auch in dieser Diskussion, an Unwahrheiten und Verzerrungen immer wieder behauptet wird. Da beschäftigt sich der Kollege Klaus Kirschner mehrere Minuten mit einem Thema, das überhaupt nicht Gegenstand der beiden vorliegenden Gesetzentwürfe ist. Er erweckt den Eindruck, die Koalition würde heute die Festschreibung des Arbeitgeberbeitrags im Gesetz beschließen. Da diskutieren wir seit 120 Minuten über die Zukunft der deutschen Gesundheitspolitik, und ich habe während dieser 120 Minuten nicht in einer Minute von der Opposition gehört, wie sie sich eigentlich die Zukunft der deutschen Gesundheitspolitik vorstellt.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Wilhelm Schmidt [Salzgitter] [SPD]: Das hat Herr Kirschner die ganze Zeit vorgetragen! Das Wichtigste ist, daß Sie endlich aufhören, Politik zu machen! Das wäre der größte Gewinn für die Gesundheitspolitik!)</stage>
@@ -894,7 +894,7 @@
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>30 Prozent mehr seit 1991!</p>
           <p>Deshalb ist das Geschreibe und Gerede, wir hätten ein marodes Gesundheitswesen, nicht richtig. Wir haben im weltweiten Maßstab die höchste Qualität, die beste Versorgungssicherheit und den umfassendsten sozialen Schutz im Falle der Krankheit. Ich möchte mit keinem Land auf dieser Erde tauschen.</p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. --   Dr. Dieter Thomae [F.D.P.]: Außer Herr Dreßler!)</stage>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Dr. Dieter Thomae [F.D.P.]: Außer Herr Dreßler!)</stage>
           <p>Gesundheit ist für den Menschen das höchste Gut. Aber es eignet sich -- das haben wir heute wieder erlebt -- sehr gut für Nebelkerzen, für Mißbrauch, für das Schüren von Ängsten. Vieles wird mit Dingen vermischt, die mit dieser Reform gar nichts zu tun haben. Ich gehe einmal auf die aktuelle Diskussion zu der Arzneimittelversorgung und dem Arzneimittelbudget in der Bundesrepublik Deutschland ein und möchte hier wenigstens den Gutwilligen sagen, wie die tatsächliche Lage ist.</p>
           <p>Es gab in der Bundesrepublik Deutschland -- jeweils für den Westen und für den Osten -- nur in einem Jahr -- im Westen 1993 und im Osten 1994 -- ein gesetzlich festgelegtes Arzneimittelbudget. Seit 1993 im Westen und 1994 im Osten ist es alleine Kompetenz und Aufgabe der Selbstverwaltung, also der Ärzte und Krankenkassen, alljährlich zu vereinbaren, welcher Umfang an Arzneien und Heilmitteln zur Versorgung der Bevölkerung in einer bestimmten Region notwendig ist. Dies liegt jetzt alleine in der Kompetenz der Selbstverwaltung.</p>
           <p>Die Mehrheit der Kassenärztlichen Vereinigungen und der Krankenkassen haben seit 1993 bzw. 1994 von dieser Möglichkeit nicht Gebrauch gemacht. Der Bundesgesundheitsminister hat Mitte des Jahres 1995 Ärzte, Länderaufsichten und Krankenkassen schriftlich darauf aufmerksam gemacht: Macht von dieser Möglichkeit der Selbstverwaltung Gebrauch, weil es sonst in der Zukunft zu Überschreitungen von Arzneimittelbudgets mit Regressen für Ärzte kommt. Die Mehrheit der Kassenärztlichen Vereinigungen und der Krankenkassen haben -- ich sage das noch einmal -- bis zu diesem Monat, bis zum November 1996, von dieser Möglichkeit nicht Gebrauch gemacht.</p>
@@ -912,22 +912,22 @@
           <p>Herr Professor Pfaff, selbst wenn Ihre Argumentation, daß sie nicht zahlen dürfen, zutreffen würde, frage ich Sie, warum die SPD im Bundesrat 1993 einen Gesetzentwurf, den wir eingebracht haben, mit der klaren rechtlichen Grundlage, daß die Länder zahlen sollen, abgelehnt hat, warum Sie 1995 mit Ihrer SPD-Mehrheit im Bundesrat einen zweiten Anlauf, daß die Länder zahlen sollen, abgelehnt haben und warum Sie 1996 die Verhandlungen zwischen einer Delegation der SPD und der Koalition zu diesem Thema nach zweieinhalb Stunden beendet haben.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Minister, gestatten Sie eine Zwischenfrage?</p>
         </sp>
-        <sp who="Horst Seehofer" parliamentary_group="NA" role="government" position="Bundesminister für Gesundheit" party="CSU" name="Horst Seehofer">
+        <sp who="Horst Seehofer" parliamentary_group="NA" role="government" position="Bundesminister für Gesundheit" who_original="Horst Seehofer" party="CSU" name="Horst Seehofer">
           <speaker>Horst Seehofer, Bundesminister für Gesundheit:</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Dr. Martin Pfaff" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Martin Pfaff">
+        <sp who="Martin Pfaff" parliamentary_group="SPD" role="mp" position="NA" who_original="Martin Pfaff" party="SPD" name="Martin Pfaff">
           <speaker>Dr. Martin Pfaff (SPD):</speaker>
           <p>Herr Minister, ist es nicht richtig, daß Sie der Kapitän des Schiffes sind und jetzt die Heizer dafür verantwortlich machen, daß dieses Schiff vom Kurs abgekommen ist?</p>
           <stage type="interjection">(Wolfgang Zöller [CDU/CSU]: Dümmer geht es nicht!)</stage>
           <p>Ist es nicht richtig, daß wir gemeinsam in Lahnstein angetreten sind, um die Ausgabendynamik zu brechen? Haben Sie nicht gerade von diesem Pult im Brustton des Stolzes verkündet, daß es ein Erfolg wäre, daß es Ihnen nicht gelungen ist, die Ausgaben zu steuern? Ist es nicht richtig, daß die einzelnen Krankenkassen sehr beschränkte Möglichkeiten der Steuerung haben, weil Sie sie ihnen bisher verweigert haben, und daß die Krankenkassen eigentlich selbst gesagt haben: Die Politik ist wegen der Verschiebebahnhöfe schuld an den Überschreitungen? Sie sind vor allem an dieser Entwicklung schuld. Warum gestehen Sie das nicht offen und ehrlich ein?</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Horst Seehofer" parliamentary_group="NA" role="government" position="Bundesminister für Gesundheit" party="CSU" name="Horst Seehofer">
+        <sp who="Horst Seehofer" parliamentary_group="NA" role="government" position="Bundesminister für Gesundheit" who_original="Horst Seehofer" party="CSU" name="Horst Seehofer">
           <speaker>Horst Seehofer, Bundesminister für Gesundheit:</speaker>
           <p>Meine Damen und Herren, ich möchte darauf aufmerksam machen, um welch ernsthaftes Problem es bei der Krankenhausinstandhaltung geht. Wenn wir dieses Problem weiterhin ungelöst ließen, würde das beispielsweise bedeuten, daß in den Krankenhäusern notwendigste Investitionen für die Sicherheit und für den Brandschutz nicht erfolgen könnten. Wenn im ersten Krankenhaus -- was wir nicht wollen und nicht hoffen -- irgend etwas passiert, Patienten und andere Menschen dadurch gefährdet werden, ist das Problem da. Darum geht es hier.</p>
           <p>Hier tritt der Professor Pfaff auf, geht nicht auf das Problem ein, sondern schwätzt über politische Verantwortlichkeiten. Herr Professor Pfaff, hätte die SPD im Bundesrat dem Gesetzentwurf zugestimmt, hätten wir dies schon längst erledigt. Es ist unverantwortlich, was Sie hier tun.</p>
@@ -965,19 +965,19 @@
           <p>Ich wiederhole hier, daß weder die Heilmittel noch die häusliche Krankenpflege, noch die Rehabilitation, noch die Kuren als Leistungen aus der gesetzlichen Krankenversicherung ausgegrenzt werden. Wer trotz dieser klaren politischen Aussage weiterhin zu Demonstrationen aufruft oder hier anderes behauptet, tut das wider besseres Wissen. Die Vermutung liegt nahe, daß er dies nicht aus sachlichen, sondern aus ganz niederen parteipolitischen Motiven tut.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Minister, gestatten Sie eine Zwischenfrage des Abgeordneten Pfaff?</p>
         </sp>
-        <sp who="Horst Seehofer" parliamentary_group="NA" role="government" position="Bundesminister für Gesundheit" party="CSU" name="Horst Seehofer">
+        <sp who="Horst Seehofer" parliamentary_group="NA" role="government" position="Bundesminister für Gesundheit" who_original="Horst Seehofer" party="CSU" name="Horst Seehofer">
           <speaker>Horst Seehofer, Bundesminister für Gesundheit:</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Bitte, Herr Kollege.</p>
         </sp>
-        <sp who="Dr. Martin Pfaff" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Martin Pfaff">
+        <sp who="Martin Pfaff" parliamentary_group="SPD" role="mp" position="NA" who_original="Martin Pfaff" party="SPD" name="Martin Pfaff">
           <speaker>Dr. Martin Pfaff (SPD):</speaker>
           <p>Herr Bundesminister, ist Ihnen der Vermerk des Bundesministers für Arbeit und Sozialordnung an Ihr Haus bekannt, in dem exakt behauptet wird, daß dieses Gesetz die häusliche Krankenpflege und die ambulante Rehabilitation betrifft, und zwar dadurch, daß diese jetzt als Satzungs- oder Gestaltungsleistungen vorgesehen sind? Ich zitiere:</p>
           <p>Von dieser Umgestaltung ist auch die stationäre medizinische Rehabilitation betroffen.</p>
@@ -987,16 +987,16 @@
           <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Das wäre im Gegensatz zu dem, den Leuten ein X für ein U vorzumachen, wenigstens eine redliche Politik.</p>
         </sp>
-        <sp who="Horst Seehofer" parliamentary_group="NA" role="government" position="Bundesminister für Gesundheit" party="CSU" name="Horst Seehofer">
+        <sp who="Horst Seehofer" parliamentary_group="NA" role="government" position="Bundesminister für Gesundheit" who_original="Horst Seehofer" party="CSU" name="Horst Seehofer">
           <speaker>Horst Seehofer, Bundesminister für Gesundheit:</speaker>
           <p>Herr Professor Pfaff, Sie wissen doch auch von mir persönlich, daß das, was Sie jetzt wieder behaupten, von der Koalition ausdrücklich ausgeschlossen wird. Es darf eben nicht zu einer Leistungsverschiebung in die Pflegeversicherung kommen. Wir werden das auch sicherstellen. In dieser Sache bin ich mit dem Kollegen Norbert Blüm völlig einig.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU -- Rudolf Dreßler [SPD]: Das steht doch im Gesetz!)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Minister, gestatten Sie noch eine Zwischenfrage?</p>
         </sp>
-        <sp who="Horst Seehofer" parliamentary_group="NA" role="government" position="Bundesminister für Gesundheit" party="CSU" name="Horst Seehofer">
+        <sp who="Horst Seehofer" parliamentary_group="NA" role="government" position="Bundesminister für Gesundheit" who_original="Horst Seehofer" party="CSU" name="Horst Seehofer">
           <speaker>Horst Seehofer, Bundesminister für Gesundheit:</speaker>
           <p>Nein, jetzt nicht mehr.</p>
           <p>Zur Beitragsgestaltung in der gesetzlichen Krankenversicherung. Es ist hier von den Vorrednern der Koalition bereits mehrfach gesagt worden: Wir können uns höhere Lohnnebenkosten in der Bundesrepublik Deutschland wegen Unwirtschaftlichkeiten in der gesetzlichen Krankenversicherung einfach nicht mehr leisten. Deshalb ist das erste Gebot, daß wir innerhalb der gesetzlichen Krankenversicherung durch Erschließung aller Wirtschaftlichkeitsreserven dafür sorgen, daß es in der Bundesrepublik Deutschland wegen Unwirtschaftlichkeiten in der Krankenversicherung keine Beitragserhöhungen mehr gibt, wie das in der Vergangenheit der Fall war.</p>
@@ -1014,12 +1014,12 @@
           <p>Die Alternative einer dauerhaften Budgetierung wäre die unsozialste Lösung, die man sich vorstellen kann; denn das wäre die Rationierung. Rationierung von notwendigen Gesundheitsleistungen würden bedeuten, daß wir ebenso wie in anderen hochindustrialisierten Ländern, beispielsweise Großbritannien, Wartelisten im Krankenhaus bekämen. In Großbritannien müssen Sie bis zu einem Jahr warten, wenn Sie nicht gerade ein Akutfall sind. Dort wird ab einem bestimmten Alter die medizinische Versorgung zu Lasten des staatlichen Gesundheitswesens nicht mehr durchgeführt. Dann könnten wir notwendige Therapien in der Bundesrepublik Deutschland nicht mehr solidarisch finanzieren. Die unsozialste Form von Gesundheitspolitik ist die Rationierung notwendiger Gesundheitsleistungen, und das wollen wir nicht.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Unruhe)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Minister, ich muß Sie einen Augenblick unterbrechen. -- Meine Herren Kollegen, es geht nicht, daß Sie hier im Raum herumstehen und eine Fülle privater Unterhaltungen führen. Ich möchte Sie ersuchen, den Raum zu verlassen, wenn Sie nicht die Absicht haben, der Debatte zu folgen; oder ich unterbreche die Sitzung.</p>
           <p>Herr Minister, bitte fahren Sie fort.</p>
         </sp>
-        <sp who="Horst Seehofer" parliamentary_group="NA" role="government" position="Bundesminister für Gesundheit" party="CSU" name="Horst Seehofer">
+        <sp who="Horst Seehofer" parliamentary_group="NA" role="government" position="Bundesminister für Gesundheit" who_original="Horst Seehofer" party="CSU" name="Horst Seehofer">
           <speaker>Horst Seehofer, Bundesminister für Gesundheit:</speaker>
           <p>Vielen Dank, Herr Präsident.</p>
           <p>Das ist genau die Richtungsentscheidung, um die es jetzt geht. Sind wir bereit, die Wirtschaftlichkeitsreserven im Gesundheitswesen auszuschöpfen? Dafür treten wir ein. Sind wir bereit, der Bevölkerung zu sagen, daß wir, wenn eine Rationierung von notwendigen Gesundheitsleistungen vermieden werden soll, auch einen höheren Teil des verfügbaren Einkommens für die gesundheitliche Versorgung unserer Bevölkerung aufwenden müssen? Daran führt kein Weg vorbei.</p>
@@ -1033,7 +1033,7 @@
           <p>Wenn wir diese beiden Reformen durchführen, werden wir in wenigen Monaten schon erleben, daß all das, was hier behauptet wird, in der Praxis nicht eintritt, so wie das meiste, was 1992/93 behauptet wurde -- der Niedergang der deutschen Krankenhauslandschaft, der Medikamentenversorgung, der Apotheken, der Krankengymnasten und der Masseure --, nicht eingetreten ist. Wir in der Bundesrepublik Deutschland wollen das bewährte Solidarprinzip und unsere medizinisch qualitativ hochwertige Versorgung erhalten. Dafür werden wir in den nächsten Monaten kämpfen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ehe ich das Wort zu zwei Kurzinterventionen erteile, möchte ich folgendes sagen: Herr Kollege Dr. Thomae, Sie haben, wie ich aus dem Stenographischen Protokoll ersehe, vorhin dem Kollegen Dreßler in einem Zwischenruf zugerufen: "Sie lügen bewußt!"</p>
           <stage type="interjection">(Unruhe bei der SPD)</stage>
@@ -1044,7 +1044,7 @@
           <p>-- Ich möchte die Kollegen, die hier private Unterhaltungen führen, bitten, die Verhandlung nicht zu stören, weil ich ansonsten die Sitzung unterbrechen werde.</p>
           <p>Ich gebe nun dem Abgeordneten Kirschner das Wort zu einer Kurzintervention. Bitte schön.</p>
         </sp>
-        <sp who="Klaus Kirschner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Klaus Kirschner">
+        <sp who="Klaus Kirschner" parliamentary_group="SPD" role="mp" position="NA" who_original="Klaus Kirschner" party="SPD" name="Klaus Kirschner">
           <speaker>Klaus Kirschner (SPD):</speaker>
           <p>Herr Minister Seehofer, Sie haben gerade in Ihrer Rede ausgeführt: Wer behauptet, daß die häusliche Krankenpflege durch den vorliegenden Gesetzentwurf ausgeschlossen wird, handelt wider besseres Wissen unredlich.</p>
           <p>Uns allen liegt ein Entwurf des 2. GKV-Neuordnungsgesetzes, Bundestagsdrucksache 13/6087, vor. Auf Seite 72 steht in der Begründung Ihres Gesetzentwurfes unter "Gestaltungsmöglichkeiten im Satzungsrecht" wortwörtlich:</p>
@@ -1056,12 +1056,12 @@
           <p>Herr Kollege Seehofer, dies steht in Ihrem Gesetzentwurf. Sie können sich drehen und wenden, wie Sie wollen: Sie müssen hier erklären, daß dies nicht mehr gilt bzw. daß Sie bereit sind, hier entsprechende Änderungsanträge einzubringen. Bis heute jedenfalls steht dies so in Ihrem Gesetzentwurf.</p>
           <stage type="interjection">(Beifall bei der SPD sowie der Abg. Monika Knoche [BÜNDNIS 90/DIE GRÜNEN] und der Abg. Dr. Barbara Höll [PDS])</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Minister, wenn Sie einverstanden sind, gebe ich zunächst das Wort zur zweiten Kurzintervention. Sie können dann beide zusammen beantworten.</p>
           <p>Ich gebe dem Abgeordneten Karl Haack das Wort zu der zweiten Kurzintervention.</p>
         </sp>
-        <sp who="Karl Hermann Haack" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Karl Hermann Haack">
+        <sp who="Karl Hermann Haack (Extertal)" parliamentary_group="SPD" role="mp" position="NA" who_original="Karl Hermann Haack (Extertal)" party="SPD" name="Karl Hermann Haack">
           <speaker>Karl Hermann Haack (Extertal) (SPD):</speaker>
           <p>Herr Bundesgesundheitsminister, ich melde mich in folgender Angelegenheit: Sie haben in Ihren Eingangsworten zur Strukturreform des Gesundheitswesens eine Argumentation zur Ablenkung von den politischen Problemen gebraucht, indem Sie den gesetzlichen Krankenkassen die Schuld geben.</p>
           <p>Ich beobachte und lese Ihre Einlassungen in der Presse regelmäßig und stelle fest, daß Sie zunehmend eine Hetze gegen die gesetzliche Krankenversicherung betreiben.</p>
@@ -1074,11 +1074,11 @@
           <p>Ich möchte für mich, für meine Partei und für die Fraktion in diesem Hause feststellen, daß wir diese Art der Argumentation, den Aufbau eines solchen Feindbildes, ablehnen. Wir fordern Sie eindringlich auf, das zu unterlassen und auch einmal positive Worte für die Arbeit der gesetzlichen Krankenversicherung in der Gesamtheit zu finden.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Minister, Sie können antworten. Bitte.</p>
         </sp>
-        <sp who="Horst Seehofer" parliamentary_group="NA" role="government" position="Bundesminister für Gesundheit" party="CSU" name="Horst Seehofer">
+        <sp who="Horst Seehofer" parliamentary_group="NA" role="government" position="Bundesminister für Gesundheit" who_original="Horst Seehofer" party="CSU" name="Horst Seehofer">
           <speaker>Horst Seehofer, Bundesminister für Gesundheit:</speaker>
           <p>Herr Kollege Kirschner, Sie haben heute mehrfach das Argument gebraucht: Wenn wegen der Gestaltungsleistungen Beiträge nicht erhöht werden dürfen, dann würde das den Umkehrschluß aufzwingen, daß sie gewissermaßen auszugrenzen sind, wenn Beitragssatzerhöhungen notwendig sind. Das ist falsch.</p>
           <p>Diese Passage im Gesetzentwurf bedeutet, daß diese Leistungen jährlich nicht stärker ansteigen sollen als die Einnahmeentwicklung in der gesetzlichen Krankenversicherung. Nichts anderes wird dadurch ausgedrückt.</p>
@@ -1099,7 +1099,7 @@
           <p>Soll ich angesichts dieser Tatsachen wegschauen und sagen, daß das in Ordnung sei? Ich werde vielmehr sagen: Liebe Krankenkassen, verwendet dieses Geld nicht für die Freizeitgestaltung und Hochglanzbroschüren, sondern für die kranken Menschen in der Bundesrepublik Deutschland!</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Damit schließe ich die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über den von den Fraktionen der CDU/CSU und der F.D.P. eingebrachten Gesetzentwurf zur Neuordnung von Selbstverwaltung und Eigenverantwortung in der gesetzlichen Krankenversicherung, Drucksachen 13/5724 und 13/6103. Ich bitte diejenigen, die dem Gesetzentwurf in der Ausschußfassung zustimmen wollen, um das Handzeichen. -- Die Gegenprobe! -- Stimmenthaltungen? -- Dann stelle ich fest, daß der Gesetzentwurf in zweiter Beratung mit den Stimmen der Koalition gegen die Stimmen der Opposition angenommen worden ist.</p>
@@ -1130,7 +1130,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="2" what="debate" desc="Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und F.D.P. eingebr...">
-        <sp who="Dr. Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Luther">
+        <sp who="Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Luther" party="CDU" name="Michael Luther">
           <speaker>Dr. Michael Luther (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine Damen und Herren! Heute steht das Eigentumsfristengesetz zur Abstimmung. Dem Umfange des Eigentumsfristengesetzes nach lohnt es sich kaum, darüber zu sprechen. Auf einer A4-Seite hat der Inhalt des Gesetzes Platz. Wer es liest, kann es ohne weitere Unterlagen allerdings nicht verstehen, da es sich nur um Verlängerungen von Fristen einer Reihe von Gesetzen handelt.</p>
           <p>Trotzdem steckt dahinter ein brisantes Thema. So müssen wir alle feststellen, daß sich sechs Jahre nach der deutschen Einheit in den neuen Bundesländern aus rechtlicher Sicht noch lange nicht Normalität eingestellt hat. Jedoch habe ich den Eindruck, daß in den alten Bundesländern die Meinung um sich greift, daß in den neuen Bundesländern nun schon normale Verhältnisse herrschten. Anders ist aus meiner Sicht die Diskussion der letzten Tage zum Thema Nutzerschutzgesetz und Wohnraummodernisierungssicherungs-Gesetz, die heute hier mitbehandelt werden sollten, nicht zu verstehen.</p>
@@ -1151,29 +1151,29 @@
           <p>Spricht sich diese Situation erst einmal herum, wer wird dann ehemals volkseigene Grundstücke für Investitionen erwerben wollen?</p>
           <p>Meine Damen und Herren, das sind die Fragen, die ich mir stelle und die auch die Brisanz des Problems beschreiben. Ich denke, wir können die Sache nicht so laufen lassen. Wir müssen dringend etwas tun. Wir müssen schnell handeln. Deshalb fordere ich Sie auf, mitzuwirken, daß wir bis zum Jahresende eine gesetzliche Regelung zu diesem Thema hier im Haus verabschieden können.</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Kollege, darf ich Sie bitten, zum Thema zu sprechen. Wir sprechen über das Fristengesetz und nicht über das Nutzerschutzgesetz. Ich wollte Ihnen das nur sagen.</p>
         </sp>
-        <sp who="Dr. Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Luther">
+        <sp who="Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Luther" party="CDU" name="Michael Luther">
           <speaker>Dr. Michael Luther (CDU/CSU):</speaker>
           <p>Herr Präsident, vielleicht darf ich zur Erklärung dazu sagen: Wir haben das Eigentumsfristengesetz anderthalb Jahre im Zusammenhang mit dem Nutzerschutzgesetz diskutiert, und die interessierte Öffentlichkeit erwartet, daß wir dieses Gesetz verabschieden.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich möchte Sie bitten, beim Thema zu bleiben.</p>
         </sp>
-        <sp who="Dr. Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Luther">
+        <sp who="Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Luther" party="CDU" name="Michael Luther">
           <speaker>Dr. Michael Luther (CDU/CSU):</speaker>
           <p>Lassen Sie mich noch einen Satz zu dem sagen, was ich eben gesagt habe.</p>
           <p>Es geht dabei nicht um den nachträglichen Vollzug von Enteignungen. Es geht darum, sicherzustellen, daß der Einigungsvertrag eingehalten wird.</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Kollege, ich möchte Sie bitten, beim Thema zu bleiben, bei der Tagesordnung!</p>
         </sp>
-        <sp who="Dr. Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Luther">
+        <sp who="Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Luther" party="CDU" name="Michael Luther">
           <speaker>Dr. Michael Luther (CDU/CSU):</speaker>
           <p>Meine Damen und Herren, wir konnten nicht mit allen Regelungen bis zum Jahresende warten. Deshalb haben wir die Regelung des Eigentumsfristengesetzes, die auch Gegenstand dieses bisherigen Gesetzespaketes war, abgekoppelt.</p>
           <p>Der Bundesrat hat einen ähnlich lautenden Gesetzesvorschlag auf den Weg gebracht, der sich aus meiner Sicht damit weitestgehend erledigt hat. Auch hier geht es um die realen Rechtsprobleme in den neuen Bundesländern. So waren selbständiges Gebäudeeigentum und dingliches Nutzungsrecht in den Grundbüchern der neuen Bundesländer für viele Grundstücke nicht eingetragen. Die Grundstücke erwecken also den Anschein, lastenfrei zu sein. Deshalb darf für derartige Rechte der öffentliche Glaube des Grundbuches vorübergehend nicht geltend gemacht werden. Die Inhaber dieser Rechte sollen diese bis zum 31. Dezember 1996 eintragen lassen. Das war bis heute oftmals aus technischen Gründen nicht möglich. Eine Nichtverlängerung kann katastrophale Auswirkungen haben, da somit ein Haus mit dem faktisch unbelasteten Grundstück wegveräußert werden könnte.</p>
@@ -1182,7 +1182,7 @@
           <p>Ich danke für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ehe wir mit der Beratung fortfahren, gebe ich das von den Schriftführern und Schriftführerinnen ermittelte Ergebnis der namentlichen Schlußabstimmung zum 1. GKV-Neuordnungsgesetz bekannt. Abgegebene Stimmen: 623. Mit Ja haben gestimmt: 319. Mit Nein: 304. Keine Enthaltungen.</p>
           <p>Endgültiges Ergebnis</p>
@@ -1823,7 +1823,7 @@
           <p>Der Gesetzentwurf ist damit angenommen.</p>
           <p>Nun gebe ich das Wort dem Abgeordneten Joachim Hacker.</p>
         </sp>
-        <sp who="Hans-Joachim Hacker" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hans-Joachim Hacker">
+        <sp who="Hans-Joachim Hacker" parliamentary_group="SPD" role="mp" position="NA" who_original="Hans-Joachim Hacker" party="SPD" name="Hans-Joachim Hacker">
           <speaker>Hans-Joachim Hacker (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Man könnte die heutige Beratung unter das Motto "Der Berg hat gekreißt und ein Mäuschen geboren" stellen; denn heute sollte in zweiter und dritter Lesung das Nutzerschutzgesetz in der Fassung der Formulierungshilfe für ein Wohnraummodernisierungssicherungsgesetz verabschiedet werden. In buchstäblich letzter Runde hat die Koalition lediglich Entscheidungsfähigkeit für das Eigentumsfristengesetz signalisiert.</p>
           <p>Ohne die Bedeutung des Eigentumsfristengesetzes abwerten zu wollen, muß ich doch feststellen: Der Befreiungsschlag aus den selbstgelegten Fesseln im Vermögensrecht wird auch heute wieder nicht geführt, weil die Regierungskoalition glaubt, auf die Hardliner in ihren Reihen Rücksicht nehmen zu müssen. Die sozialdemokratische Bundestagsfraktion empfiehlt die Annahme des Eigentumsfristengesetzes, weil wegen fehlender Eintragung dinglicher Nutzungsrechte von Mitbenutzungsrechten und selbständigen Gebäudeeigentums ins Grundbuch erhebliche Risiken entstehen würden, wenn nach dem 31. Dezember 1996 der öffentliche Glaube des Grundbuches in den neuen Ländern zum Tragen käme.</p>
@@ -1837,52 +1837,52 @@
           <p>Dieses ist auch im siebenten Jahr der deutschen Einheit nach wie vor wichtig, da Inkonsequenzen bei den Regelungen im Vermögensrechtsbereich, für die diese Bundesregierung und die sie tragende Koalition verantwortlich sind, weiterhin für Zündstoff in den neuen Ländern sorgen und die innere Einheit belasten.</p>
           <p>Meine Damen und Herren, wir wollten seit 1990 durch klare gesetzliche Regelungen die redlichen Nutzer und Erwerber von Grundstücken schützen. Dieses war ein zentrales Anliegen unserer parlamentarischen Initiativen in dieser und der zurückliegenden Legislaturperiode. Ich frage mich, warum die Koalitionsfraktionen nicht bereit waren und nicht bereit sind, durch einen Sprung über den ideologischen Schatten endlich einen Beitrag zur Anerkennung der eindeutigen Bestandsschutzregelungen in der Gemeinsamen Erklärung der beiden deutschen Regierungen vom 15. Juni 1990 zu leisten.</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Verehrter Herr Kollege, ich muß auch Sie darauf aufmerksam machen -- es tut mir leid, wenn Sie das in Ihrer Rede anders vorbereitet haben --: Wir reden hier tatsächlich nicht über das Nutzerschutzgesetz, sondern über das Eigentumsfristengesetz. Darum bitte ich Sie, sich an dieses Thema zu halten.</p>
           <stage type="interjection">(Iris Gleicke [SPD]: Also, das eine ist von den anderen abgekoppelt worden, und zwar erst am Dienstag! -- Weitere Zurufe von der SPD)</stage>
           <p>-- Nein, ich bin nicht bereit, darüber zu diskutieren. Ich bitte Sie, sich an das Thema zu halten.</p>
         </sp>
-        <sp who="Hans-Joachim Hacker" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hans-Joachim Hacker">
+        <sp who="Hans-Joachim Hacker" parliamentary_group="SPD" role="mp" position="NA" who_original="Hans-Joachim Hacker" party="SPD" name="Hans-Joachim Hacker">
           <speaker>Hans-Joachim Hacker (SPD):</speaker>
           <p>Vielen Dank. Herr Präsident, da beide Regelungskomplexe ja in einem direkten Zusammenhang zueinander stehen,</p>
           <stage type="interjection">(Hildebrecht Braun [Augsburg] [F.D.P.]: Das ist doch überhaupt nicht der Fall!)</stage>
           <p>ist es mir nicht möglich, daß ich mich an jeder Stelle nur auf eine Thematik begrenze. Es handelt sich um Regelungskomplexe, die sich überlappen.</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Gestatten Sie eine Zwischenfrage des Abgeordneten Luther?</p>
         </sp>
-        <sp who="Hans-Joachim Hacker" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hans-Joachim Hacker">
+        <sp who="Hans-Joachim Hacker" parliamentary_group="SPD" role="mp" position="NA" who_original="Hans-Joachim Hacker" party="SPD" name="Hans-Joachim Hacker">
           <speaker>Hans-Joachim Hacker (SPD):</speaker>
           <p>Herr Dr. Luther, bitte.</p>
         </sp>
-        <sp who="Dr. Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Luther">
+        <sp who="Michael Luther" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Luther" party="CDU" name="Michael Luther">
           <speaker>Dr. Michael Luther (CDU/CSU):</speaker>
           <p>Herr Hacker, eine Frage: Sind Sie mit mir einer Meinung, daß in die Diskussion des Nutzerschutzgesetzes die Eigentumsfristen mit einbezogen werden müssen, daß sie im unmittelbaren Zusammenhang mit der Diskussion des Nutzerschutzgesetzes stehen und daß man deshalb auch auf das Nutzerschutzgesetz eingehen muß?</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD -- Iris Gleicke [SPD]: Natürlich, so ist es auch!)</stage>
         </sp>
-        <sp who="Hans-Joachim Hacker" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hans-Joachim Hacker">
+        <sp who="Hans-Joachim Hacker" parliamentary_group="SPD" role="mp" position="NA" who_original="Hans-Joachim Hacker" party="SPD" name="Hans-Joachim Hacker">
           <speaker>Hans-Joachim Hacker (SPD):</speaker>
           <p>Vielen Dank, Herr Kollege Dr. Luther. Ich bin der gleichen Auffassung. In den Berichterstattergesprächen, die sich mittlerweile über Monate hingezogen haben, ist ja gerade dieser innere Zusammenhang dargestellt worden. Ich verweise auch auf das, was uns das Bundesministerium der Justiz zugearbeitet hat. Das stellt ja die Klammer für diesen Regelungskomplex dar.</p>
           <stage type="interjection">(Hildebrecht Braun [Augsburg] [F.D.P.]: Das ist doch erkennbar eine andere Materie!)</stage>
           <p>Auf der Tagesordnung unserer heutigen Sitzung stand ja das Nutzerschutzgesetz.</p>
           <p>Ich kann das nur bestätigen, was Sie, Herr Dr. Luther, gesagt haben.</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Kollege Hacker, halten Sie sich daran! Ich lasse hier nicht über die Handhabung der Geschäftsordnung diskutieren, auch nicht auf diesem Wege. Ich bitte Sie, sich an das Thema zu halten, sonst muß ich Ihnen das Wort entziehen.</p>
           <p>Bitte, fahren Sie fort.</p>
         </sp>
-        <sp who="Hans-Joachim Hacker" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hans-Joachim Hacker">
+        <sp who="Hans-Joachim Hacker" parliamentary_group="SPD" role="mp" position="NA" who_original="Hans-Joachim Hacker" party="SPD" name="Hans-Joachim Hacker">
           <speaker>Hans-Joachim Hacker (SPD):</speaker>
           <p>Herr Präsident, ich habe versucht -- -- NA</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich darf Sie noch einmal bitten -- ich lasse mit mir nicht diskutieren --: Reden Sie zum Thema!</p>
         </sp>
-        <sp who="Hans-Joachim Hacker" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hans-Joachim Hacker">
+        <sp who="Hans-Joachim Hacker" parliamentary_group="SPD" role="mp" position="NA" who_original="Hans-Joachim Hacker" party="SPD" name="Hans-Joachim Hacker">
           <speaker>Hans-Joachim Hacker (SPD):</speaker>
           <p>Meine sehr verehrten Damen und Herren, die gesetzlichen Regelungen sind das eine. Wir haben heute einen deutlichen Fortschritt erreicht. Das begrüße auch ich. Ich freue mich, daß wir uns, was das Eigentumsfristengesetz angeht, auch mit der Bundesregierung einig sind. Ich beziehe mich auf die entsprechenden Vorschläge aus dem Bundesjustizministerium.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD und der CDU/CSU -- Norbert Geis [CDU/CSU]: Das darf ja einmal bekannt gegeben werden!)</stage>
@@ -1899,11 +1899,11 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der SPD, der CDU/CSU, der F.D.P. und der PDS)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Nun gebe ich das Wort der Abgeordneten Franziska Eichstädt-Bohlig.</p>
         </sp>
-        <sp who="Franziska Eichstädt-Bohlig" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Franziska Eichstädt-Bohlig">
+        <sp who="Franziska Eichstädt-Bohlig" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Franziska Eichstädt-Bohlig" party="GRUENE" name="Franziska Eichstädt-Bohlig">
           <speaker>Franziska Eichstädt-Bohlig (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Sehr geehrte Kolleginnen und Kollegen! Das hilflose Verfahren und das unentschiedene Hin und Her mit den Problemen der Klärung der Eigentumsfragen im Osten ist wirklich schon mehr als peinlich. Auch die Debatte, wie sie hier geführt wird, zeigt letztlich, wie wenig Regierung und Koalition in der Lage sind, Klarheit und Gerechtigkeit in die Grundbesitzverhältnisse zu bringen.</p>
           <p>Der Berg der Gesetze zum Eigentumsrecht ist inzwischen so unübersichtlich geworden, daß er dem Gesetzgeber schlicht über den Kopf gewachsen ist. Die von Anfang an falschen Weichenstelllungen holen uns hier im Parlament wieder ein. Aber ausbaden müssen es die Menschen in Ostdeutschland. Das sollten wir, so denke ich, sehr ernst nehmen.</p>
@@ -1913,11 +1913,11 @@
           <p>Bei der Abstimmung über den Bundesratsgesetzentwurf werden wir uns enthalten, nicht weil wir gegen die Initiative des Bundesrates sind, sondern weil sie in weiten Teilen das gleiche enthält, wir aber nur einem Gesetz das klare Votum geben wollen Danke schön.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der PDS sowie der Abg. Hannelore Rönsch [Wiesbaden] [CDU/CSU])</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Nun gebe ich dem Abgeordneten Hildebrecht Braun das Wort.</p>
         </sp>
-        <sp who="Hildebrecht Braun" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Hildebrecht Braun">
+        <sp who="Hildebrecht Braun (Augsburg)" parliamentary_group="FDP" role="mp" position="NA" who_original="Hildebrecht Braun (Augsburg)" party="FDP" name="Hildebrecht Braun">
           <speaker>Hildebrecht Braun (Augsburg) (F.D.P.):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Frau Eichstädt-Bohlig, wenn Sie von einem "peinlichen Hin und Her" in den Eigentumsfragen der neuen Bundesländer sprechen, kann ich Ihnen überhaupt nicht beipflichten. Daß wir hier ernsthaft beraten und dafür Zeit brauchen, zeigt nur, daß wir die Themen ernst nehmen und das Problem erkennen.</p>
           <stage type="interjection">(Franziska Eichstädt-Bohlig [BÜNDNIS 90/DIE GRÜNEN]: Wo ist denn Ihre Fraktion bei den Berichterstattergesprächen, Herr Braun? Sie machen doch gar nicht mit!)</stage>
@@ -1934,11 +1934,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Nun erteile ich dem Abgeordneten Professor Heuer das Wort.</p>
         </sp>
-        <sp who="Dr. Uwe-Jens Heuer" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Uwe-Jens Heuer">
+        <sp who="Uwe-Jens Heuer" parliamentary_group="PDS" role="mp" position="NA" who_original="Uwe-Jens Heuer" party="PDS" name="Uwe-Jens Heuer">
           <speaker>Dr. Uwe-Jens Heuer (PDS):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Das Eigentumsfristengesetz ist zusammen mit einer ganzen Reihe von anderen Fragen seit einem Jahr in der Diskussion. Seit mehr als einem Jahr liegen zwei Entwürfe von Nutzerschutzgesetzen vor, einer von der Gruppe der PDS und ein etwas halbherziger vom Bundesrat.</p>
           <p>Die Regierung sah längere Zeit keinen Handlungsbedarf, ein gerechter Ausgleich der Interessen sei gegeben. Auch der Rechtsausschuß ließ sich Zeit. Doch die Stimmen der Betroffenen wurden immer lauter und deutlicher. Das Justizministerium ließ dann den Koalitionsfraktionen am 25. Juni eine sogenannte Formulierungshilfe zugehen, die sowohl die Eigentumsfristenregelung wie auch eine ganze Reihe anderer Fragen unter dem sehr langen Titel "Wohnraummodernisierungssicherungsgesetz" enthielt. Darin waren sowohl die Fristenregelung wie auch einige Vorschriften zur Heilung von Formfehlern und anderes mehr enthalten.</p>
@@ -1949,11 +1949,11 @@
           <stage type="interjection">(Norbert Geis [CDU/CSU]: Hört! Hört!)</stage>
           <p>Ich bin sicher, daß die Betroffenen jetzt ebenfalls mobil machen werden.</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Kollege Heuer, ich möchte auch Sie bitten, sich wie Ihre Vorredner an die Tagesordnung zu halten.</p>
         </sp>
-        <sp who="Dr. Uwe-Jens Heuer" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Uwe-Jens Heuer">
+        <sp who="Uwe-Jens Heuer" parliamentary_group="PDS" role="mp" position="NA" who_original="Uwe-Jens Heuer" party="PDS" name="Uwe-Jens Heuer">
           <speaker>Dr. Uwe-Jens Heuer (PDS):</speaker>
           <p>Der vielbeschworenen inneren Einheit Deutschlands steht diese Verfahrensweise schroff entgegen. Sie bestätigt eher Günter Gaus, der sagt -- nachzulesen in der "Berliner Zeitung" vom 9./10. November 1996 --: "Die Vereinigung der beiden deutschen Nachkriegsgesellschaften ist mißglückt." Ich stimme dem Eigentumsfristengesetz nachdrücklich im Namen der PDS zu.</p>
           <stage type="interjection">(Norbert Geis [CDU/CSU]: Das beruhigt!)</stage>
@@ -1961,11 +1961,11 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Nun gebe ich dem Parlamentarischen Staatssekretär Rainer Funke das Wort.</p>
         </sp>
-        <sp who="Rainer Funke" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz" party="FDP" name="Rainer Funke">
+        <sp who="Rainer Funke" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Justiz" who_original="Rainer Funke" party="FDP" name="Rainer Funke">
           <speaker>Rainer Funke, Parl. Staatssekretär beim Bundesminister der Justiz:</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Ich bin froh darüber, daß die Ausschüsse einstimmig empfohlen haben, den Entwurf der Koalition für ein Eigentumsfristengesetz anzunehmen und den parallelen Entwurf des Bundesrates abzulehnen, soweit er vom Koalitionsentwurf abweicht. Das Ziel beider Entwürfe, sowohl des Entwurfs der Koalition als auch des Entwurfs des Bundesrates, für ein Eigentumsfristengesetz ist dasselbe. Es geht darum, die sogenannten eigentumsrechtlichen Fristen im Beitrittsgebiet um drei Jahre zu verlängern. Im Einführungsgesetz zum Bürgerlichen Gesetzbuch und anderen Gesetzen waren von Anfang an Ausnahmen vom öffentlichen Glauben des Grundbuchs für Rechtspositionen vorgesehen, die unter Geltung des Zivilgesetzbuches der DDR entstanden waren. Das war auch notwendig, weil diese Rechtspositionen sämtlich außerhalb des Grundbuchs wirksam begründet werden konnten und im Grundbuch nicht eingetragen werden mußten, also eine andere Regelung gefunden worden war als in unserem Bürgerlichen Gesetzbuch.</p>
           <p>Hätten wir im Einigungsvertrag keine Ausnahmen vorgesehen, hätten all diese Rechtspositionen bei nächster Gelegenheit, zum Beispiel bei einem Verkauf des Grundstücks, untergehen können. Wir mußten deshalb den Nutzern die Möglichkeit einräumen, die Eintragung ihrer Rechte nachzuholen. Bei der gesetzlichen Befristung waren wir indessen davon ausgegangen, daß die Nutzer in der Lage sein würden, dies bis zum 31. Dezember 1996 zu beantragen. Das ist leider nicht der Fall. Die Nutzer stehen oft vor der Schwierigkeit, daß sie nicht wissen, welches Grundstück von ihrem Recht betroffen ist. Genau das müssen sie aber wissen, wenn sie die erforderlichen Eintragungen beantragen, denn diese müssen im Grundbuchblatt für das Grundstück und nicht etwa im Gebäudegrundbuchblatt vorgenommen werden. Wir müssen aus diesem Grunde die Fristen verlängern. Eine Verlängerung bedeutet aber auch, daß uns das Grundbuch von Grundstücken in den neuen Ländern in den nächsten drei Jahren immer noch keinen vollständigen Aufschluß über die Rechtsverhältnisse an den Grundstücken geben kann.</p>
@@ -1975,7 +1975,7 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU, der SPD und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Damit schließe ich die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über den von den Fraktionen der CDU/CSU und der F.D.P. eingebrachten Entwurf eines Eigentumsfristengesetzes, Drucksache 13/5586. Der Rechtsausschuß empfiehlt auf Drucksache 13/6122, den Gesetzentwurf unverändert anzunehmen. Ich bitte nun diejenigen, die dem Gesetzentwurf zustimmen wollen, um das Handzeichen. -- Gegenprobe! -- Stimmenthaltungen? -- Ich stelle fest, daß der Gesetzentwurf in zweiter Lesung einmütig angenommen worden ist.</p>
@@ -1995,7 +1995,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="3" what="debate" desc="Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und F.D.P. eingebr...">
-        <sp who="Siegfried Hornung" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Siegfried Hornung">
+        <sp who="Siegfried Hornung" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Siegfried Hornung" party="CDU" name="Siegfried Hornung">
           <speaker>Siegfried Hornung (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Wir beraten heute die Änderung des Gesetzes über die Alterssicherung der Landwirte. Diese Gesetzesänderung ist wegen erheblicher Anlaufschwierigkeiten bei der Gewährung des Beitragszuschusses notwendig geworden. Durch die Agrarsozialreform 1995 ist das Beitragszuschußrecht in der Alterssicherung der Landwirte zum 1. Januar 1995 umfassend neu geregelt worden.</p>
           <p>Verwaltung und Landwirte hatten sich auf eine Vielzahl neuer Regelungen der landwirtschaftlichen Alterssicherung und insbesondere des Zuschußrechts einzustellen. Die Landwirte sind mit einer Fülle von Formularen und Anträgen beim Vollzug des Agrarsozialreformgesetzes konfrontiert worden, bei denen eine Vielzahl von Fristen zu beachten war. Daher ist es verständlich, daß es zu den bekannten Anlaufschwierigkeiten gekommen ist.</p>
@@ -2015,11 +2015,11 @@
           <p>Recht herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich gebe das Wort der Abgeordneten Ulrike Mascher.</p>
         </sp>
-        <sp who="Ulrike Mascher" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ulrike Mascher">
+        <sp who="Ulrike Mascher" parliamentary_group="SPD" role="mp" position="NA" who_original="Ulrike Mascher" party="SPD" name="Ulrike Mascher">
           <speaker>Ulrike Mascher (SPD):</speaker>
           <p>Herr Präsident! Liebe Kollegen! Liebe Kolleginnen! Ich greife gern das Petitum für eine sachliche Beratung auf und unterdrücke deswegen die beiden Zeitungsausschnitte, die ich mitgenommen habe und die sehr unerfreuliche Überschriften hinsichtlich Ihres Begehrens haben.</p>
           <stage type="interjection">(Ulrich Heinrich [F.D.P.]: Die Redakteure haben es auch nicht verstanden!)</stage>
@@ -2059,11 +2059,11 @@
           <p>-- Ich habe überhaupt kein schlechtes Gewissen. Ich hätte das auch wesentlich schärfer formulieren können. Wenn Sie sehen, wie wir in der gesetzlichen Rentenversicherung um alle möglichen Beiträge ringen -- hier gibt es eine sehr großzügige Zuschußregelung für Geringverdiener in der Landwirtschaft --, dann würde ich mich an Ihrer Stelle sehr zurückhalten, vom schlechten Gewissen der SPD zu reden. Denjenigen, der das schlechte Gewissen hat, will ich woanders suchen.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Nun gebe ich der Abgeordneten Andrea Fischer das Wort.</p>
         </sp>
-        <sp who="Andrea Fischer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Andrea Fischer">
+        <sp who="Andrea Fischer (Berlin)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Andrea Fischer (Berlin)" party="GRUENE" name="Andrea Fischer">
           <speaker>Andrea Fischer (Berlin) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Ich glaube, heute geht es nicht um Gewissensfragen. Mit dem vorliegenden Gesetzentwurf der Bundesregierung soll heute etwas recht Ungewöhnliches im deutschen Sozialrecht geschehen: Obwohl eine Mitwirkungspflicht der Versicherten zwingend vorgeschrieben ist, sollen die Folgen einer Verletzung dieser Mitwirkungspflicht ausgeschlossen werden.</p>
           <stage type="interjection">(Dr. Gerald Thalheim [SPD]: Amnestie!)</stage>
@@ -2082,11 +2082,11 @@
           <p>Deswegen sind es grundsätzliche sozialpolitische Erwägungen, die uns dazu veranlassen, den Gesetzentwurf der Koalition abzulehnen. Wir haben den Eindruck, daß hier ein Einzelfall für eine besonders durchsetzungsstarke Gruppe geschaffen werden soll.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und der SPD)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich erteile dem Abgeordneten Ulrich Heinrich das Wort.</p>
         </sp>
-        <sp who="Ulrich Heinrich" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Ulrich Heinrich">
+        <sp who="Ulrich Heinrich" parliamentary_group="FDP" role="mp" position="NA" who_original="Ulrich Heinrich" party="FDP" name="Ulrich Heinrich">
           <speaker>Ulrich Heinrich (F.D.P.):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Diese Novelle ist notwendig, weil auf Grund eines sehr komplizierten Gesetzes Fristversäumnis entstanden ist, was wir hiermit heilen. Wir sind der Meinung, daß es keine Einzelfallregelung ist; vielmehr, Frau Kollegin Fischer, haben über 10 Prozent der Versicherten das nicht richtig verstanden. Die große Zahl von über 30 000 Versicherten, die das nicht verstanden haben, ist Anlaß für uns, dies zu heilen.</p>
           <p>Nun kann man die Dinge rein puristisch betrachten. Wenn man sich die Situation der Betroffenen einmal ansieht, dann ist festzustellen: Das Fristversäumnis geht natürlich zu ihren eigenen Lasten. Es ist keinesfalls damit in Verbindung zu bringen, daß wir hier heute eine Amnestie für Leute machen, die sich selbst einen Vorteil verschaffen wollten. Das muß hier deutlich gesagt werden; denn ein solcher Unterton klingt in den Sätzen immer mit, in denen das Sozialversicherungssystem der Landwirtschaft mit dem der gesetzlichen Rentenversicherung oder anderen Sozialversicherungssystemen verglichen wird.</p>
@@ -2098,11 +2098,11 @@
           <p>Ich bitte also darum, daß wir zum einen die Tatsachen nicht verdrehen und keine falschen Vergleiche anstellen und zum anderen auch im Rahmen unserer sozialpolitischen Verantwortung der großen Zahl von Leuten, die bei Gott nichts zu verschenken haben, sondern deren Einkommen unter Sozialhilfeniveau liegen, eine entsprechende Genugtuung zuteil werden lassen.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich gebe der Abgeordneten Petra Bläss das Wort.</p>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="PDS" role="mp" position="NA" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Petra Bläss (PDS):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Mit dem heute zu verabschiedenden Gesetz beweist die Bundesregierung, daß sie auch kulant handeln kann.</p>
           <p>Bei Landwirten, die Beitragszuschüsse zur Alterssicherung erhielten, jedoch nicht fristgemäß ihre Steuererklärung vorlegten, wird von den im Gesetz eigentlich vorgesehenen Sanktionen abgesehen. Sicher liegt ein Großteil der Schuld bei den Betroffenen selbst. Aber Anlaufschwierigkeiten beim Alterssicherungsgesetz der Landwirte einkalkulierend, rettet sie nun eine Übergangsregelung für 1995 und 1996 vor finanziellen Einbußen.</p>
@@ -2123,11 +2123,11 @@
           <p>Wir meinen, die Zeit ist überfällig, daß die Bundesregierung eine ähnlich kulante Lösung für die Sozialzuschlagsempfängerinnen schafft. Jüngste Sozialgerichtsurteile belegen, daß hier Handlungsbedarf besteht.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Nun gebe ich dem Parlamentarischen Staatssekretär Rudolf Kraus das Wort.</p>
         </sp>
-        <sp who="Rudolf Kraus" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Arbeit und Sozialordnung" party="CSU" name="Rudolf Kraus">
+        <sp who="Rudolf Kraus" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Arbeit und Sozialordnung" who_original="Rudolf Kraus" party="CSU" name="Rudolf Kraus">
           <speaker>Rudolf Kraus, Parl. Staatssekretär beim Bundesminister für Arbeit und Sozialordnung:</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Frau Mascher, Sie haben in Ihrer Rede darauf hingewiesen, daß die Zeitungen auch heute wieder außerordentlich unerfreuliche Überschriften haben. Ich habe einen solchen Zeitungsausschnitt hier. Daran zeigt sich, daß die Zeitungen schlicht und einfach falsch berichten.</p>
           <stage type="interjection">(Ulrich Heinrich [F.D.P.]: Richtig!)</stage>
@@ -2136,29 +2136,29 @@
           <p>Sehen Sie, genau das ist der Punkt, der die Leute auf die falsche Fährte führt.</p>
           <stage type="interjection">(Ulrich Heinrich [F.D.P.]: Richtig!)</stage>
           <p>Das ist nur die halbe Wahrheit. Selbstverständlich muß der zuviel gezahlte Betrag zurückgezahlt werden. Darüber gibt es keinen Zweifel. Es muß aber eben auch der nicht zuviel gezahlte Betrag zurückgezahlt werden. Das, Frau Mascher, ist eine ganz ungewöhnlich strenge Regelung im Sozialrecht. Diese Regelung, die auf Wunsch der Alterskassen eingeführt worden ist, hat für die betroffenen Menschen eine weitreichende Konsequenz.</p>
-          <p>Wir sind trotzdem dafür, daß man diese Bestimmung zunächst beibehält und sie nach einer Übergangszeit von zwei Jahren aufhebt. Das scheint nicht richtig verstanden worden sein, sonst würde von Ihnen nicht das Beispiel AFG angesprochen werden, Frau Mascher. Dort ist in   231 festgehalten, daß jemand, der nicht unverzüglich Änderungen in seinen Einkommensverhältnissen dem Arbeitsamt mitteilt, Bußgeld zu zahlen hat.</p>
+          <p>Wir sind trotzdem dafür, daß man diese Bestimmung zunächst beibehält und sie nach einer Übergangszeit von zwei Jahren aufhebt. Das scheint nicht richtig verstanden worden sein, sonst würde von Ihnen nicht das Beispiel AFG angesprochen werden, Frau Mascher. Dort ist in § 231 festgehalten, daß jemand, der nicht unverzüglich Änderungen in seinen Einkommensverhältnissen dem Arbeitsamt mitteilt, Bußgeld zu zahlen hat.</p>
           <p>Diesem konkreten Punkt bin ich nachgegangen: Ich habe in einem für einen Bezirk verantwortlichen Arbeitsamt angerufen und mir berichten lassen, wie die Praxis ausschaut. Dabei hat sich herausgestellt, daß in diesem Bezirk im Jahre 1995 621 derartige Fälle aufgetreten sind. In 385 Fällen war die Angelegenheit mit einer Verwarnung von seiten des Arbeitsamtes erledigt. In 142 Fällen mußten Verwarnungsgelder bezahlt werden. Nur in 94 Fällen kam es zu einem Bußgeldbescheid. Das Bußgeld -- jetzt hören Sie genau zu; das Verwarnungsgeld ist noch geringer -- bewegt sich dort im Durchschnitt bei 150 DM. Das heißt, die Sanktionen, die aus solchen Fristversäumnissen entstehen, sind im Agrarsozialrecht ungleich härter und strenger geregelt als in anderen vergleichbaren Gesetzen. Es ist daher gerechtfertigt, daß wir in diesem Bereich vorübergehend einen anderen Maßstab anlegen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Auch Frau Fischer hat gesagt, daß hier etwas völlig Ungewöhnliches geschieht. Das ist richtig, Frau Fischer. Aber warum soll sich der Gesetzgeber schämen, wenn er etwas korrigiert, was er als überzogen erkannt hat? Die Größe eines Parlaments zeigt sich darin, daß es in der Lage ist, eine solche Korrektur anzubringen.</p>
           <stage type="interjection">(Beifall des Abg. Karl-Josef Laumann [CDU/CSU])</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Staatssekretär, gestatten Sie eine Zwischenfrage der Abgeordneten Mascher?</p>
         </sp>
-        <sp who="Rudolf Kraus" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Arbeit und Sozialordnung" party="CSU" name="Rudolf Kraus">
+        <sp who="Rudolf Kraus" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Arbeit und Sozialordnung" who_original="Rudolf Kraus" party="CSU" name="Rudolf Kraus">
           <speaker>Rudolf Kraus, Parl. Staatssekretär beim Bundesminister für Arbeit und Sozialordnung:</speaker>
           <p>Aber gerne.</p>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Ulrike Mascher" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ulrike Mascher">
+        <sp who="Ulrike Mascher" parliamentary_group="SPD" role="mp" position="NA" who_original="Ulrike Mascher" party="SPD" name="Ulrike Mascher">
           <speaker>Ulrike Mascher (SPD):</speaker>
           <p>Herr Staatssekretär, können Sie dem Parlament und der Öffentlichkeit erklären, warum der Bundesrechnungshof so strikt darauf beharrt, daß diese Regelung in der landwirtschaftlichen Alterversorgung beibehalten wird? Können Sie bestätigen, daß diese Rückzahlungen erfolgen, weil die Mitwirkungsrechte -- dies trifft für Ihre Fraktion zu; auch der Bundesrechnungshof hat aus langjähriger Erfahrung diesen Eindruck -- als bloße Formalie behandelt und nicht ausreichend ernst genommen werden, obwohl im Bereich der landwirtschaftlichen Alterskasse eine besonders großzügige Regelung vorgesehen ist?</p>
         </sp>
-        <sp who="Rudolf Kraus" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Arbeit und Sozialordnung" party="CSU" name="Rudolf Kraus">
+        <sp who="Rudolf Kraus" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Arbeit und Sozialordnung" who_original="Rudolf Kraus" party="CSU" name="Rudolf Kraus">
           <speaker>Rudolf Kraus, Parl. Staatssekretär beim Bundesminister für Arbeit und Sozialordnung:</speaker>
           <p>Frau Mascher, ich kann mir das nur so erklären, daß der Bundesrechnungshof diese Regelung primär nach formalen Gesichtspunkten beurteilt. Aber dieses Parlament ist keine Zusammenkunft von Mitarbeitern aus der Rechnungsabteilung oder der Buchhaltung. Die Mitglieder des Parlamentes müssen vielmehr einen politischen Willen ausdrücken. Deshalb muß man den zur Verfügung stehenden Spielraum unter Abwägung aller Gesichtspunkte nutzen. Wenn ich das tue, kann ich den von uns vorgelegten Gesetzentwurf gut begründen, weil primär eine politische Entscheidung getroffen wurde.</p>
           <p>Ich möchte mit meinem Beitrag fortfahren. Frau Fischer, Sie haben gesagt, daß diese heutige Entscheidung ungewöhnlich ist. Ja, das ist richtig. Aber ungewöhnlich streng, darauf will ich auch noch einmal hinweisen, ist auch das Verfahren, das diesem Gesetzentwurf zugrunde liegt. Das Verfahren ist wesentlich strenger, als dies in vergleichbaren Gesetzen der Fall ist. Deswegen sind die Regelungen für eine Übergangszeit vertretbar.</p>
@@ -2171,7 +2171,7 @@
           <p>Ich bedanke mich für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Ich schließe damit die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über den von den Fraktionen der CDU/CSU und F.D.P. eingebrachten Gesetzentwurf zur Änderung des Gesetzes über die Alterssicherung der Landwirte, Drucksache 13/4947. Der Ausschuß für Arbeit und Sozialordnung empfiehlt auf Drucksache 13/6094, den Gesetzentwurf unverändert anzunehmen. Ich bitte diejenigen, die dem Gesetzentwurf zustimmen wollen, um das Handzeichen. -- Gegenprobe! -- Enthaltung? -- Der Gesetzentwurf ist damit in zweiter Beratung mit den Stimmen der Koalitionsfraktionen gegen die Stimmen von SPD und Bündnis 90/Die Grünen bei Enthaltung der PDS angenommen worden.</p>
@@ -2213,7 +2213,7 @@
           <p>-- Drucksache 13/6029 --</p>
           <p>Berichterstattung:</p>
           <p>Abgeordnete Ursula Schönberger</p>
-          <p>Auch hier ist gebeten worden, die Reden zu Protokoll geben zu können.  )</p>
+          <p>Auch hier ist gebeten worden, die Reden zu Protokoll geben zu können. )</p>
           <p>) Anlage 3</p>
           <p>) Anlage 4</p>
           <p>Sind Sie damit einverstanden? -- Dann ist das so beschlossen.</p>
@@ -2237,7 +2237,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="4" what="debate" desc="a)Erste Beratung von der Gruppe der PDS eingebrachten Entwurfs eines Gesetzes zu...">
-        <sp who="Petra Bläss" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="PDS" role="mp" position="NA" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Petra Bläss (PDS):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Ich kann es mir nicht verkneifen: Freitag um eins macht jeder seins. Denn es steht ein PDS-Tagesordnungspunkt auf dem Programm -- der einzige, wohlgemerkt, den wir in dieser Woche auf der Tagesordnung hatten.</p>
           <p>Wir sollten heute über die Antwort auf eine Große Anfrage der PDS zum Stand der Umsetzung der Pflegeversicherung und über unseren Entwurf zur Änderung des Pflegeversicherungsgesetzes debattieren. Beides hängt eng miteinander zusammen. Im Zusammenhang mit der Großen Anfrage erhielten wir manche Antworten, die mit der Frage nichts zu tun hatten, und manchmal beantwortete die Bundesregierung auch Fragen, die niemand gestellt hatte. Bei ) Anlage 5 einer Reihe von Fragen konnte die Bundesregierung nur deshalb halbwegs positiv antworten, weil die Behinderten- und Sozialverbände sowie der Vermittlungsausschuß einige wenige der beabsichtigten miesen Lösungen verhindert haben.</p>
@@ -2274,7 +2274,7 @@
           <p>Der von Bündnis 90/Die Grünen vorgelegte Entschließungsantrag setzt unser Anliegen fort, Klarheit und Änderung im Pflegebereich zu schaffen. Daher unterstützen wir ihn. Wir hoffen, daß auch unser Gesetzentwurf in seriöse Sacharbeit einfließt.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das war die letzte Rednerin zu diesem Tagesordnungspunkt. Ich schließe damit die Aussprache.</p>
           <p>Interfraktionell wird Überweisung des Gesetzentwurfes auf Drucksache 13/5002 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Gibt es andere Vorschläge? -- Das ist nicht der Fall. Dann ist die Überweisung so beschlossen.</p>
@@ -2283,6 +2283,7 @@
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Dienstag, den 26. November 1996, 11 Uhr, ein.</p>
           <p>Ich wünsche den wenigen Kolleginnen und Kollegen, die noch da sind, und den vielen Besuchern auf der Tribüne ein schönes Wochenende.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluß der Sitzung: 13.21 Uhr)</stage>
         </sp>
       </div>
     </body>

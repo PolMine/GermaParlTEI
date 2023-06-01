@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-06</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2005/1205/bic/plenarprotokolle/pp/1997/13201a.zip</url>
-        <date>2015-10-20 19:19:27</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -36,7 +36,7 @@
   <text>
     <body>
       <div type="agenda_item" n="1" what="debate" desc="a) Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und F.D.P. eing...">
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Die Sitzung ist eröffnet.</p>
           <p>Interfraktionell ist vereinbart worden, die heutige Tagesordnung um die zweite und dritte Beratung des Entwurfs eines Gesetzes über die Errichtung eines Bundesamtes für Bauwesen und Raumordnung zu erweitern. Der Zusatzpunkt soll nach der abschließenden Beratung des Haushaltsrechts-Fortentwicklungsgesetzes ohne Aussprache behandelt werden.</p>
@@ -50,7 +50,7 @@
           <p>Berichterstattung:</p>
           <p>Abgeordnete Detlev von Larcher</p>
           <p>Peter Rauen</p>
-          <p>bb) Bericht des Haushaltsausschusses (8. Ausschuß) gemäß   96 der Geschäftsordnung</p>
+          <p>bb) Bericht des Haushaltsausschusses (8. Ausschuß) gemäß § 96 der Geschäftsordnung</p>
           <p>-- Drucksache 13/8873 --</p>
           <p>Berichterstattung:</p>
           <p>Abgeordnete Peter Jacoby</p>
@@ -64,7 +64,7 @@
           <p>-- Drucksache 13/8863 --</p>
           <p>Berichterstattung:</p>
           <p>Abgeordneter Andreas Storm</p>
-          <p>bb) Bericht des Haushaltsausschusses (8. Ausschuß) gemäß   96 der Geschäftsordnung</p>
+          <p>bb) Bericht des Haushaltsausschusses (8. Ausschuß) gemäß § 96 der Geschäftsordnung</p>
           <p>-- Drucksache 13/8874 --</p>
           <p>Berichterstattung:</p>
           <p>Abgeordnete Hans-Joachim Fuchtel</p>
@@ -76,7 +76,7 @@
           <p>Nach einer interfraktionellen Vereinbarung ist für die Aussprache eine Stunde vorgesehen. -- Ich sehe und höre keinen Widerspruch. Dann ist auch das so beschlossen.</p>
           <p>Ich eröffne die Aussprache und gebe dem Abgeordneten Andreas Storm das Wort.</p>
         </sp>
-        <sp who="Andreas Storm" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Andreas Storm">
+        <sp who="Andreas Storm" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Andreas Storm" party="CDU" name="Andreas Storm">
           <speaker>Andreas Storm (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Bereits zum zweitenmal in diesem Monat ist der Deutsche Bundestag aufgerufen, eine wichtige Weichenstellung für die Zukunft der gesetzlichen Rentenversicherung vorzunehmen.</p>
           <stage type="interjection">(Andrea Fischer [Berlin] [BÜNDNIS 90/DIE GRÜNEN]: Ich glaube, ich spinne!)</stage>
@@ -96,19 +96,19 @@
           <stage type="interjection">(Rudolf Dreßler [SPD]: Bravo!)</stage>
           <p>Dieser Vorschlag, Herr Dreßler, hat aber selbst bei den Rentenversicherungsträgern nur Kopfschütteln ausgelöst, und das aus gutem Grund;</p>
           <stage type="interjection">(Beifall bei der CDU/CSU -- Zuruf von der CDU/CSU: So war es! -- Zuruf von der SPD: So ein Quatsch!)</stage>
-          <p>denn die Rentenversicherungsträger -- ich erläutere es Ihnen gleich -- weisen für das Jahr 1995 rund 100 Milliarden DM an Leistungen aus, denen keine vorherigen Beitragszahlungen gegengerechnet werden können. Darunter fallen ganz unterschiedliche Positionen, wie etwa die Altersrenten vor dem 65. Lebensjahr, Ersatzzeiten als Folge des zweiten Weltkrieges, Anrechnungszeiten, Kindererziehungszeiten, die Höherbewertung der Berufsausbildung oder Leistungen nach dem Fremdrentengesetz. </p>
+          <p>denn die Rentenversicherungsträger -- ich erläutere es Ihnen gleich -- weisen für das Jahr 1995 rund 100 Milliarden DM an Leistungen aus, denen keine vorherigen Beitragszahlungen gegengerechnet werden können. Darunter fallen ganz unterschiedliche Positionen, wie etwa die Altersrenten vor dem 65. Lebensjahr, Ersatzzeiten als Folge des zweiten Weltkrieges, Anrechnungszeiten, Kindererziehungszeiten, die Höherbewertung der Berufsausbildung oder Leistungen nach dem Fremdrentengesetz.</p>
           <p>Wenn man sich diese Liste einmal genauer anschaut, dann kommt man leicht zu folgendem Ergebnis: Ein großer Teil dieser Leistungen sollte nicht alleine von der Gemeinschaft der Beitragszahler finanziert werden, weil hier eine gesamtstaatliche Aufgabe vorliegt. Ein anderer Teil dieser Leistungen stellt allerdings ein Element des Solidarausgleiches innerhalb der Versichertengemeinschaft dar.</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Sehr wahr!)</stage>
-          <p>Gerade dieser Solidarausgleich unterscheidet ja eine Sozialversicherung von der privaten Lebensversicherung; denn dort wird nur die Gegenleistung für die vorher gezahlten Beiträge erbracht. In der Sozialversicherung haben wir auch Elemente des sozialen Ausgleiches. </p>
+          <p>Gerade dieser Solidarausgleich unterscheidet ja eine Sozialversicherung von der privaten Lebensversicherung; denn dort wird nur die Gegenleistung für die vorher gezahlten Beiträge erbracht. In der Sozialversicherung haben wir auch Elemente des sozialen Ausgleiches.</p>
           <p>Aus diesem guten Grunde hat es der Gesetzgeber bisher vermieden, für jeden einzelnen dieser Posten zu entscheiden, ob hier eine Steuerfinanzierung oder eher eine Beitragsfinanzierung sinnvoll wäre. Würde man nämlich so verfahren, Herr Dreßler, dann wäre die Entwicklung der Rentenfinanzen überhaupt nicht mehr kalkulierbar. In einem Jahr würde erneut ein Streit darüber entstehen, wie hoch denn nun der Bundeszuschuß ausfallen müßte. Der Druck wäre dann sehr stark, diese Leistungen erheblich zu reduzieren oder sogar ganz abzuschaffen. Dann könnte man die Rentenversicherung gleich privatisieren.</p>
-          <p>Aus diesem Grunde haben wir bei der Rentenreform 1992 festgelegt, daß ein pauschaler Bundeszuschuß in Höhe von 20 Prozent der Ausgaben einen angemessenen Finanzierungsbeitrag der Steuerzahler sicherstellen soll. Mit dem heutigen Gesetzentwurf der Koalitionsfraktionen wird dieser Bundeszuschuß mittelfristig so erhöht, daß künftig fast jede vierte Rentenmark aus dem Steuertopf finanziert wird. Damit hat die Rentenversicherung eine langfristig verläßliche Finanzierungsbasis. Der Einstieg in eine Einzelfallabrechung wäre der Anfang vom Ende des Solidarausgleichs in der Rentenversicherung. </p>
+          <p>Aus diesem Grunde haben wir bei der Rentenreform 1992 festgelegt, daß ein pauschaler Bundeszuschuß in Höhe von 20 Prozent der Ausgaben einen angemessenen Finanzierungsbeitrag der Steuerzahler sicherstellen soll. Mit dem heutigen Gesetzentwurf der Koalitionsfraktionen wird dieser Bundeszuschuß mittelfristig so erhöht, daß künftig fast jede vierte Rentenmark aus dem Steuertopf finanziert wird. Damit hat die Rentenversicherung eine langfristig verläßliche Finanzierungsbasis. Der Einstieg in eine Einzelfallabrechung wäre der Anfang vom Ende des Solidarausgleichs in der Rentenversicherung.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
-          <p>Noch wichtiger als dieses ist aber ein zweites Argument gegen die von Ihnen, Herr Dreßler, vorgeschlagene Einzelfinanzierung versicherungsfremder Leistungen aus dem Bundeshaushalt. Sie haben nämlich vorgeschlagen, insbesondere Leistungen nach dem Fremdrentengesetz und Leistungen im Zusammenhang mit dem Übergangsrecht für Renten nach den Vorschriften des Beitrittsgebietes aus Steuermitteln zu finanzieren. </p>
+          <p>Noch wichtiger als dieses ist aber ein zweites Argument gegen die von Ihnen, Herr Dreßler, vorgeschlagene Einzelfinanzierung versicherungsfremder Leistungen aus dem Bundeshaushalt. Sie haben nämlich vorgeschlagen, insbesondere Leistungen nach dem Fremdrentengesetz und Leistungen im Zusammenhang mit dem Übergangsrecht für Renten nach den Vorschriften des Beitrittsgebietes aus Steuermitteln zu finanzieren.</p>
           <stage type="interjection">(Wilhelm Schmidt [Salzgitter] [SPD]: Kommen Sie doch mal zur Sache, zu Ihrem Gesetzentwurf!)</stage>
           <p>Diese Leistungen sind aber in den nächsten Jahrzehnten naheliegenderweise rückläufig.</p>
           <stage type="interjection">(Rudolf Dreßler [SPD]: Nein, bis 2015 ändert sich nichts, junger Freund!)</stage>
-          <p>Wären wir Ihren ursprünglichen Plänen gefolgt, so hätte das zu folgendem bizarren Ergebnis geführt: Die Mehreinnahmen aus der Erhöhung der Mehrwertsteuer wären langfristig zu einem immer kleineren Teil an die Rentenversicherungsträger geflossen, und das restliche Mehraufkommen aus dieser höheren Steuerbelastung wäre den Finanzministern des Bundes und der Länder zugute gekommen, was im Interesse der Rentenversicherten eine wenig erfreuliche Vorstellung wäre. </p>
-          <p>Ein Stück weit lernfähig sind Sie ja doch. </p>
+          <p>Wären wir Ihren ursprünglichen Plänen gefolgt, so hätte das zu folgendem bizarren Ergebnis geführt: Die Mehreinnahmen aus der Erhöhung der Mehrwertsteuer wären langfristig zu einem immer kleineren Teil an die Rentenversicherungsträger geflossen, und das restliche Mehraufkommen aus dieser höheren Steuerbelastung wäre den Finanzministern des Bundes und der Länder zugute gekommen, was im Interesse der Rentenversicherten eine wenig erfreuliche Vorstellung wäre.</p>
+          <p>Ein Stück weit lernfähig sind Sie ja doch.</p>
           <stage type="interjection">(Lachen bei der SPD)</stage>
           <p>Denn Sie haben in dem jetzt geänderten Gesetzentwurf diese entscheidende Schwachstelle korrigiert,</p>
           <stage type="interjection">(Wilhelm Schmidt [Salzgitter] [SPD]: Lächerlich!)</stage>
@@ -119,7 +119,7 @@
           <p>Statt dessen haben Sie im Spätsommer eine neue Hürde errichtet. Diese sieht wie folgt aus: Sie sagen, Sie stimmen dieser Entlastung der Beitragszahler in der Rentenversicherung nur dann zu, wenn zugleich auch der Beitragssatz in der Arbeitslosenversicherung um einen weiteren Punkt gesenkt wird und dafür unter anderem die Mineralölsteuer um mindestens 10 Pfennig erhöht wird.</p>
           <p>Nun ist es in der Tat so, daß die Beitragsbasis in der gesetzlichen Sozialversicherung auf Grund der dramatisch gestiegenen Arbeitslosenzahl in den vergangenen Monaten immer schmaler wird. Wenn in der gesetzlichen Rentenversicherung der Beitragssatz für das kommende Jahr jetzt von 20,3 auf 21 Prozent erhöht werden muß und auch in der gesetzlichen Krankenversicherung in den neuen Bundesländern die Beitragseinnahmen weggebrochen sind,</p>
           <stage type="interjection">(Hans Büttner [Ingolstadt] [SPD]: Auf Grund Ihrer Gesundheitspolitik!)</stage>
-          <p>so ist dies die Folge der dramatischen Beschäftigungsentwicklung. </p>
+          <p>so ist dies die Folge der dramatischen Beschäftigungsentwicklung.</p>
           <p>Aber eines müßte doch auch Ihnen aufgefallen sein: Ausgerechnet in der Arbeitslosenversicherung sind die Beiträge seit Jahren konstant.</p>
           <p>Dies ist nur möglich, weil der Bund seinen Zuschuß im Zuge der Defizithaftung gegenüber den ursprünglichen Haushaltsansätzen deutlich ausgeweitet hat.</p>
           <stage type="interjection">(Hans Büttner [Ingolstadt] [SPD]: Mußte! Nicht freiwillig!)</stage>
@@ -134,11 +134,11 @@
           <p>Deswegen, meine Damen und Herren von der Opposition: Geben Sie sich endlich einen Ruck! Stimmen Sie mit uns für eine gerechtere Lastenverteilung zwischen den Beitragszahlern und den Steuerzahlern in der gesetzlichen Rentenversicherung! Stimmen Sie unserem Gesetzentwurf zu!</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P. -- Wilhelm Schmidt [Salzgitter] [SPD]: Das war sehr viel Wind, Herr Storm! -- Weiterer Zuruf von der SPD: Nebelwerfer!)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Nun spricht der Abgeordnete Rudolf Dreßler.</p>
         </sp>
-        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Dreßler">
+        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Dreßler" party="SPD" name="Rudolf Dreßler">
           <speaker>Rudolf Dreßler (SPD):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Die heute anstehende Debatte zur zweiten und dritten Lesung des Gesetzentwurfes zur Finanzierung eines zusätzlichen Bundeszuschusses zur gesetzlichen Rentenversicherung sowie zum SPD-Gesetzentwurf zur Senkung der Lohnnebenkosten knüpft direkt an die Aussprachen an, die anläßlich des zweiten Vermittlungsverfahrens und anläßlich der Verabschiedung des sogenannten Rentenreformgesetzes 1999 der Koalition in diesem Hause geführt wurden.</p>
           <p>Der heute zur Verabschiedung anstehende Koalitionsentwurf steht -- das ist wichtig festzuhalten -- in direktem Zusammenhang zur bereits verabschiedeten Rentengesetzgebung der Regierung Kohl. Zugespitzt formuliert: Wir beraten heute über den Finanzierungsteil dieses ungerechten Rentengesetzes.</p>
@@ -202,13 +202,13 @@
           <p>Dabei hat Herr Blüm seit dem vergangenen Sommer genau gewußt, was kommen wird. Er wußte wie ich, daß wir bei 21 Prozent landen werden. Seit gestern ist klar, daß es tatsächlich 21 Prozent werden.</p>
           <p>Meine Damen und Herren, ich will nicht indiskret sein und die ersten Reihen der Koalition fragen, ob sie auch wußten, was Herr Blüm wußte. Aber eines ist klar: Wer so mit der Wahrheit umgeht, wer trickst, verbiegt, umdeutet oder sich in Halbwahrheiten flüchtet, untergräbt nicht nur seine eigene Vertrauenswürdigkeit, er untergräbt auch das Vertrauen der Menschen in die Institution Rentenversicherung, das er doch eigentlich schon von Amts wegen hüten und pflegen sollte.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
-          <p>Ich glaube diesem Arbeitsminister keine Zahl mehr. Er hat sie alle getürkt, nichts an ihnen stimmt. Es ist schlimm, daß man das bei einem Mitglied der Bundesregierung feststellen muß. </p>
+          <p>Ich glaube diesem Arbeitsminister keine Zahl mehr. Er hat sie alle getürkt, nichts an ihnen stimmt. Es ist schlimm, daß man das bei einem Mitglied der Bundesregierung feststellen muß.</p>
           <p>Die nunmehr absehbare Entwicklung zeigt: Es hilft der Rentenversicherung nichts, nur umzufinanzieren; es hilft nichts, nur die Leistungsniveaus zu senken. Selbst beides gemeinsam hilft nicht, weil es die Ursachen für die Finanzprobleme nicht beseitigt.</p>
           <p>Wir brauchen statt dessen eine Kombination aus Umfinanzierung und Verbreiterung der Einnahmebasis, so wie die SPD-Rentenkonzeption und unser Gesetzesantrag zur Senkung der Lohnnebenkosten das vorsehen.</p>
           <p>Wenn der Bundessozialminister und die CDU/CSU-F.D.P-Koalition heute feststellen müssen, daß der Beitragssatz zur Rentenversicherung entgegen Ihren früheren lautstarken Versprechungen im zweiten Jahr hintereinander abermals kräftig angehoben werden muß, dann ist das das Eingeständnis einer gescheiterten Rentenpolitik. Nun im nachhinein durch ein Umfinanzierungsgesetz, so wie es heute vorliegt, sozialdemokratische Mitverantwortung einbauen zu wollen, das wird nicht verfangen. Für diesen rentenpolitischen Trümmerhaufen sind diejenigen verantwortlich, die seit 15 Jahren regieren: Herr Kohl, Herr Blüm und die Fraktionen von CDU/CSU und F.D.P.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Meine sehr verehrten Damen und Herren, die CDU/CSU-F.D.P.-Bundesregierung und die sie tragenden Koalitionsparteien sagen heute morgen immer noch: Senkung der Beiträge! -- Sie sind noch nicht einmal fähig, willens und in der Lage, das, was sich wirklich auf der Grundlage dieses Gesetzentwurfes der Regierungsfraktionen abspielt, hier einzugestehen, nämlich daß Sie gar keine Beitragssatzsenkung mehr durchführen wollen oder können, sondern daß Sie heute morgen uns nur noch dazu animieren wollen, ein Gesetz zu beschließen, welches eine Beitragssatzerhöhung verhindert. Von Lohnnebenkostensenkung ist bei dieser Koalition überhaupt nicht mehr die Rede.</p>
-          <stage type="interjection">(Joachim Hörster [CDU/CSU]: Das stimmt doch gar nicht!) </stage>
+          <stage type="interjection">(Joachim Hörster [CDU/CSU]: Das stimmt doch gar nicht!)</stage>
           <p>-- Ich bitte Sie, Herr Hörster, da Sie in der Rententhematik so tief nicht drin sind, doch wenigstens einmal zuzuhören, damit Sie sich statt Abendbrot einmal Gedanken machen können.</p>
           <stage type="interjection">(Weitere Zurufe des Abg. Joachim Hörster [CDU/CSU])</stage>
           <p>Herr Hörster, eine Erhöhung des Beitrags um 0,7 Prozent, also von 20,3 auf 21 Prozent, ist genau das, was wir befürchtet, vorausgesagt und wegen der politischen Beitragsfestsetzung der letzten beiden Jahre prognostiziert haben. Da bleiben noch 0,3 Prozent übrig. Genau die will Herr Blüm nehmen, um die nicht finanzierten Kindererziehungszeiten, die die Kassen wieder zusätzlich belasten werden, über diesen Weg zu finanzieren. Das haben wir alles durchschaut.</p>
@@ -224,21 +224,21 @@
           <p>Mein sehr verehrter Herr Storm, ich weiß ja, daß es unter den Rentenversicherungsträgern auch eine Menge CDU-Mitglieder gibt. Aber Sie sollten sich Ihre Manuskripte nicht von denen schreiben lassen. Denn der Verband der Rentenversicherungsträger und die Bundesversicherungsanstalt sind als Institutionen neutral. Sie verstehen offensichtlich mehr davon als Sie und Ihre Fraktion, wenn sie heute morgen um 5.45 Uhr die SPD-Position, die wir seit Jahren vertreten, erneut bekräftigen.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der PDS)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Kollege Dreßler, gestatten Sie eine Zwischenfrage des Abgeordneten Storm?</p>
         </sp>
-        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Dreßler">
+        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Dreßler" party="SPD" name="Rudolf Dreßler">
           <speaker>Rudolf Dreßler (SPD):</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Andreas Storm" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Andreas Storm">
+        <sp who="Andreas Storm" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Andreas Storm" party="CDU" name="Andreas Storm">
           <speaker>Andreas Storm (CDU/CSU):</speaker>
           <p>Herr Kollege Dreßler, Ihre Behauptung, daß sich Abgeordnete ihre Reden schreiben ließen, liegt, so glaube ich, auch unter Ihrem Niveau.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU -- Lachen bei der SPD -- Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Wo leben Sie denn?)</stage>
           <p>Aber zu meiner Frage, Kollege Dreßler: Trifft es zu, daß Sie Ihre ursprüngliche Konzeption, den Bundeszuschuß ausschließlich im Ausmaß der Erstattung bestimmter versicherungsfremder Leistungen in der Rentenversicherung zu erhöhen, auf Grund der Proteste der Rentenversicherungsträger so geändert haben, daß Sie in Ihrem Gesetzentwurf nun wie die Koalition sagen: Der Bundeszuschuß wird so erhöht, daß er jedes Jahr im Ausmaß des Aufkommens eines Mehrwertsteuersatzpunktes ansteigt?</p>
         </sp>
-        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Dreßler">
+        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Dreßler" party="SPD" name="Rudolf Dreßler">
           <speaker>Rudolf Dreßler (SPD):</speaker>
           <p>Herr Kollege Storm, ich sage Ihnen noch einmal ganz langsam zum Mitschreiben: Dies trifft ausdrücklich nicht zu. Der Gesetzentwurf der SPD beziffert dezidiert drei sozialversicherungsfremde Leistungen -- die Stichwörter sind: Fremdrentengesetz, Auffüllbeträge und SED-Unrechtsbereinigungsgesetz -- und sagt dann: Das darüber hinausgehende Einnahmevolumen wird für weitere sozialversicherungsfremde Leistungen verwandt. Das heißt, wir wollen diese sozialversicherungsfremden Beiträge aus dem System heraushaben, damit das System nicht weiter diskreditiert wird. Herr Storm, Sie wollen sie im System lassen. Das ist ein substantieller Unterschied in unserer politischen Auffassung.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
@@ -247,26 +247,26 @@
           <p>Sollten Sie allerdings jetzt sagen, daß diese falsche Passage von Ihnen selbst formuliert worden ist, dann machen Sie mich, Herr Storm, traurig.</p>
           <stage type="interjection">(Lachen bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Herr Kollege Dreßler, die Arbeitsweise der einzelnen Mitglieder dieses Hauses sollten wir ihnen selbst überlassen.</p>
           <p>Herr Kollege Storm möchte noch eine Zwischenfrage stellen.</p>
         </sp>
-        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Dreßler">
+        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Dreßler" party="SPD" name="Rudolf Dreßler">
           <speaker>Rudolf Dreßler (SPD):</speaker>
           <p>Bitte.</p>
           <stage type="interjection">(Karl-Josef Laumann [CDU/CSU]: Du brauchst nichts zu fragen; der hat sowieso keine Ahnung!)</stage>
         </sp>
-        <sp who="Andreas Storm" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Andreas Storm">
+        <sp who="Andreas Storm" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Andreas Storm" party="CDU" name="Andreas Storm">
           <speaker>Andreas Storm (CDU/CSU):</speaker>
           <p>Herr Kollege Dreßler, stimmen Sie mit mir darin überein, daß erstens die Erhöhung des Bundeszuschusses im Ausmaß des Aufkommens eines Mehrwertsteuersatzpunktes das gleiche Finanzvolumen einbringt wie das, was im Koalitionsentwurf vorgesehen ist,</p>
           <stage type="interjection">(Bundesminister Dr. Norbert Blüm: Sehr richtig!)</stage>
           <p>und daß zweitens auch dann, wenn -- wie Sie sagen -- ein Teil der Erstattungen zum Beispiel für die Zahlung von Fremdrenten verwandt wird, die Fremdrenten genauso wie im Koalitionsentwurf nach wie vor von den Rentenversicherungsträgern ausgezahlt werden, daß im Ergebnis also der faktische Unterschied zwischen den beiden Gesetzentwürfen diesbezüglich bei Null liegt?</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rudolf Dreßler">
+        <sp who="Rudolf Dreßler" parliamentary_group="SPD" role="mp" position="NA" who_original="Rudolf Dreßler" party="SPD" name="Rudolf Dreßler">
           <speaker>Rudolf Dreßler (SPD):</speaker>
-          <p>Meine Damen und Herren, es ist so, daß wir in der Bewertung dieses Sachverhaltes offensichtlich nicht zusammenkommen. </p>
+          <p>Meine Damen und Herren, es ist so, daß wir in der Bewertung dieses Sachverhaltes offensichtlich nicht zusammenkommen.</p>
           <stage type="interjection">(Dr. Irmgard Schwaetzer [F.D.P.]: Sie wollen nicht! -- Hans Michelbach [CDU/CSU]: Sie können nicht!)</stage>
           <p>Denn, Herr Storm, wenn ich versicherungsfremde Leistungen aus dem System herausnehme und sie administrativ bei einer Bürokratie belasse, dann ändert das nichts an dem Sachverhalt, daß diese Leistungen nicht mehr der Rentenversicherung als System und damit den Beitragszahlern direkt oder indirekt aufgelastet werden.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
@@ -274,17 +274,17 @@
           <stage type="interjection">(Beifall bei der SPD -- Julius Louven [CDU/CSU]: Das haben Sie doch zum größten Teil mitbeschlossen!)</stage>
           <p>Schlußbemerkung: Ich bin zutiefst davon überzeugt, daß die große Mehrheit der CDU/CSU -- übrigens auch der Bundessozialminister -- genau weiß, daß die Argumentation der sozialdemokratischen Bundestagsfraktion richtig ist. Davon bin ich zutiefst überzeugt.</p>
           <stage type="interjection">(Gerd Andres [SPD]: Richtig!)</stage>
-          <p>Wir wissen ja nicht nur aus Veröffentlichungen, daß die Koalition sich in dieser Frage auf Grund der Machtbalance -- das will ich gar nicht kritisieren -- selbst blockiert. </p>
+          <p>Wir wissen ja nicht nur aus Veröffentlichungen, daß die Koalition sich in dieser Frage auf Grund der Machtbalance -- das will ich gar nicht kritisieren -- selbst blockiert.</p>
           <p>Ich möchte zum Schluß Ihnen, Herr Dr. Schäuble und Herr Glos, eine Erfahrung mitteilen, die ich vor drei Jahren in meiner Partei selbst gemacht habe. Das möchte ich Ihnen heute morgen sagen dürfen. Es geht mir dabei nicht um die innere Struktur Ihrer Partei, es geht mir um dieses Rentensystem und um die Sozialversicherungssystematik. Um eine Volkspartei sein zu können, Herr Dr. Schäuble -- das wissen Sie so gut wie ich --, muß man Bedingungen erfüllen. Wenn man diese Bedingungen nicht erfüllt, hat das unglaubliche Turbulenzen zur Konsequenz und richtet für das Gemeinwohl in unserer Demokratie großen Schaden an. Deshalb, Herr Dr. Schäuble, gestatten Sie mir ein offenes Wort: Es kann nicht länger so sein, daß 95 Prozent dieses Hauses in der Bewertung eines Sachverhaltes einig sind und wegen 5 Prozent, die das alles nicht schert -- Ihr Koalitionspartner, die F.D.P. --,</p>
           <stage type="interjection">(Joachim Poß [SPD]: 6,9 Prozent!)</stage>
           <p>ein weiterer Fortschritt auf diesem Sektor verhindert wird. Ich bitte die Abgeordneten der CDU/CSU in ihrem Selbstverständnis als Volkspartei, darüber heute morgen einmal nachzudenken.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich gebe das Wort der Abgeordneten Andrea Fischer.</p>
         </sp>
-        <sp who="Andrea Fischer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Andrea Fischer">
+        <sp who="Andrea Fischer (Berlin)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Andrea Fischer (Berlin)" party="GRUENE" name="Andrea Fischer">
           <speaker>Andrea Fischer (Berlin) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Herr Kollege Storm, Sie haben gerade -- fast schon mit einem Tremolo in der Stimme -- gesagt, wir hätten es hier mit einer wichtigen Weichenstellung zu tun. Mit Verlaub, wenn ich heute morgen am Zeitungskiosk, an dem ich meine Zeitungen hole, sehe, daß der neue Beitragssatz von 21 Prozent immerhin von allen Zeitungen für wert befunden wird, als Aufmacher genommen zu werden, kann ich mich des Eindruckes nicht erwehren, daß wir hier statt über strategische und kluge Weichenstellungen über nichts anderes als über Schadenbegrenzung reden.</p>
           <p>Sie haben diese Situation überhaupt erst herbeigeführt; nun versuchen Sie zu einem viel zu späten Zeitpunkt und dann auch noch mit einem in meinen Augen untauglichen Mittel, das Allerschlimmste zu verhindern. Daß sich die Diskussion nun an der konkreten Höhe von 21 Prozent festmacht, hat zwar auch einen symbolischen Gehalt, ist aber für die weitere Zukunft der gesetzlichen Rentenversicherung absolut wichtig. Es gibt so etwas wie politische Schmerzgrenzen; die haben Sie mit Ihrer Politik erreicht. Daß wir jetzt bei 21 Prozent gelandet sind, ist kein Naturereignis, sondern hat mit Ihrer Politik zu tun. Sie haben den Zug in die falsche Richtung geschickt, und nun fährt er direkt auf das Stoppsignal zu.</p>
@@ -296,7 +296,7 @@
           <stage type="interjection">(Karl-Josef Laumann [CDU/CSU]: Die Frau hat mehr verstanden als Herr Dreßler!)</stage>
           <p>zu denen wir uns politisch bekennen sollten.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU)</stage>
-          <p>Wir streiten hier um die Frage, wie wir diese Leistungen finanzieren und ob es klug ist, sie ausschließlich über die Sozialversicherungsbeiträge zu finanzieren. </p>
+          <p>Wir streiten hier um die Frage, wie wir diese Leistungen finanzieren und ob es klug ist, sie ausschließlich über die Sozialversicherungsbeiträge zu finanzieren.</p>
           <stage type="interjection">(Andreas Storm [CDU/CSU]: Frau Fischer hat es verstanden!)</stage>
           <p>Uns allen, die wir die Sozialversicherungen auch für die Zukunft sichern wollen, wird der jetzige Beitragssatz von 21 Prozent bei allen weiteren politischen Vorhaben und Reformen wie Blei auf den Füßen liegen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU und der F.D.P.)</stage>
@@ -322,15 +322,15 @@
           <p>Jetzt sollen wir angeblich wieder die Verweigerer sein. Ich glaube, so wollen Sie das unbedingt haben. Sie haben ein Problem damit, daß Ihre Leistungsbilanz im nächsten Jahr -- wenn wir alle vor die Wählerinnen und Wähler treten -- nicht gut genug ist, weil Sie nicht weit genug gekommen sind. Deswegen entfalten Sie jetzt eine hektische Betriebsamkeit mit Pressemeldungen. Daneben möchten Sie gern die Opposition als Blockierer und Verweigerer darstellen. Dabei machen wir nicht mit. Wir haben uns sehr weit auf Sie zubewegt. Wir haben sehr viele Punkte mitgetragen, die uns einiges kosten, weil auch wir schließlich eine politische Identität haben. Sie haben sich nicht bewegt, und deswegen fällt der Blockadevorwurf auf Sie zurück.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich gebe das Wort der Abgeordneten Dr. Gisela Babel.</p>
         </sp>
-        <sp who="Dr. Gisela Babel" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Gisela Babel">
+        <sp who="Gisela Babel" parliamentary_group="FDP" role="mp" position="NA" who_original="Gisela Babel" party="FDP" name="Gisela Babel">
           <speaker>Dr. Gisela Babel (F.D.P.):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! In zweiter und dritter Lesung beschließt der Deutsche Bundestag heute ein Gesetz zur Finanzierung eines zusätzlichen Bundeszuschusses zur gesetzlichen Rentenversicherung, also die Erhöhung der Mehrwertsteuer um einen Punkt. Mit diesem Steuergeld soll die Senkung der Rentenversicherungsbeiträge bewirkt werden, und zwar schnell.</p>
           <p>Die übrige Rentenreform ist vor zwei Wochen beschlossen worden: mit Sparmaßnahmen, die -- wie wir alle wissen -- langsam wirken und erst langsam entlasten. Der Grund liegt im verfassungsgeschützten Vertrauen. Man kann nicht von jetzt auf gleich in rentenbegründende oder rentenerhöhende Tatbestände eingreifen.</p>
-          <p>In der Zwischenzeit steigt der Beitragssatz zur Rentenversicherung aber noch an. Gestern -- ein schwarzer Donnerstag für die Rentenversicherung -- mußte der Bundesarbeitsminister eingestehen, daß wir einen Versicherungsbeitrag von 21 Prozent brauchen, um die Renten bezahlen zu können. Ich sage offen: Dies ist ein Schock. </p>
+          <p>In der Zwischenzeit steigt der Beitragssatz zur Rentenversicherung aber noch an. Gestern -- ein schwarzer Donnerstag für die Rentenversicherung -- mußte der Bundesarbeitsminister eingestehen, daß wir einen Versicherungsbeitrag von 21 Prozent brauchen, um die Renten bezahlen zu können. Ich sage offen: Dies ist ein Schock.</p>
           <stage type="interjection">(Lachen bei der SPD -- Wilhelm Schmidt [Salzgitter] [SPD]: Den Eindruck erwecken Sie nun aber wirklich nicht!)</stage>
           <p>Die Koalition sollte -- so hatten wir es verabredet -- Maßnahmen ergreifen, um die Kosten zu senken. Wir haben diese Maßnahmen auch ergriffen -- bei lautem Wehgeschrei der Opposition, die sofort ankündigte, daß sie diese Sparmaßnahmen bei gewonnener Wahl nicht akzeptieren würde.</p>
           <stage type="interjection">(Joachim Poß [SPD]: Richtig!)</stage>
@@ -357,11 +357,11 @@
           <p>Ich bedanke mich.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU -- Gerd Andres [SPD]: Das war eine Schockrede! Die Dame ist noch geschockt!)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich gebe der Abgeordneten Dr. Barbara Höll das Wort.</p>
         </sp>
-        <sp who="Dr. Barbara Höll" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Barbara Höll">
+        <sp who="Barbara Höll" parliamentary_group="PDS" role="mp" position="NA" who_original="Barbara Höll" party="PDS" name="Barbara Höll">
           <speaker>Dr. Barbara Höll (PDS):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Was uns eben geboten wurde, ist schon fast kabarettreif.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
@@ -379,7 +379,7 @@
           <p>Es geht darum, wirklich etwas zu ändern. Dies kann nur -- dazu liegen Vorschläge der PDS auf dem Tisch -- durch eine tiefgreifende Reform der Renten geschehen. Dies muß man mit Ruhe und Augenmaß machen und ordentlich diskutieren.</p>
           <p>Ich nenne hierzu erstens eine Anhebung der Beitragsbemessungsgrenze. Wir kennen die Zahlen und wissen, daß diejenigen Menschen, die tatsächlich mehr verdienen, nicht entsprechend ihrem Einkommen in die Rentenkassen einzahlen müssen.</p>
           <p>Ich nenne zweitens die Ausweitung der Versicherungspflicht für jede und jeden, das heißt, auch für Selbständige, auch für Beamte, für Abgeordnete, für Staatssekretäre sowie Ministerinnen und Minister. Diese Beitragspflicht muß dann konsequenterweise natürlich so weit gehen, daß auch jeder Ehepartner und jede Ehepartnerin die Beiträge in die Rentenversicherung zahlt, wenn der andere Ehepartner oder die andere Ehepartnerin nicht berufstätig ist und keine Kinder erzieht oder Pflegeleistungen erbringt. Aber das ist natürlich mit dem Ziel verbunden, daß ein eigenständiger Anspruch erworben wurde, der der Arbeitsleistung entspricht, die im Haushalt erbracht wurde.</p>
-          <p>Ich nenne drittens die Bindung der Arbeitgeberbeiträge an die Wertschöpfung der Unternehmen anstatt an die Lohnsumme. Dann erst können wir das Problem der tatsächlichen Entlastung der Arbeit lösen. Das ist das Hauptproblem, um dessen Lösung Sie sich drücken, </p>
+          <p>Ich nenne drittens die Bindung der Arbeitgeberbeiträge an die Wertschöpfung der Unternehmen anstatt an die Lohnsumme. Dann erst können wir das Problem der tatsächlichen Entlastung der Arbeit lösen. Das ist das Hauptproblem, um dessen Lösung Sie sich drücken,</p>
           <stage type="interjection">(Beifall bei Abgeordneten der PDS)</stage>
           <p>indem Sie wieder nur über die indirekten Steuern diskutieren.</p>
           <p>Es geht gerade in den kleinen und mittelständischen Betrieben darum, den Faktor Arbeit nicht weiter zu belasten. Vielmehr müssen die Beiträge zur Sozialversicherung daran geknüpft sein, welchen Umsatz und welche Gewinne die Unternehmen haben, so daß Betriebe mit wenigen Beschäftigten, aber mit sehr hohen Umsätzen und einer sehr hohen Wertschöpfung entsprechend in die Versicherungskassen einzahlen und so die kleineren Betriebe mit einem hohen Anteil an Arbeitskräften tatsächlich entlasten.</p>
@@ -387,18 +387,18 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich gebe dem Bundesminister für Arbeit, Dr. Norbert Blüm, das Wort.</p>
         </sp>
-        <sp who="Dr. Norbert Blüm" parliamentary_group="NA" role="government" position="Bundesminister für Arbeit und Sozialordnung" party="CDU" name="Norbert Blüm">
+        <sp who="Norbert Blüm" parliamentary_group="NA" role="government" position="Bundesminister für Arbeit und Sozialordnung" who_original="Norbert Blüm" party="CDU" name="Norbert Blüm">
           <speaker>Dr. Norbert Blüm, Bundesminister für Arbeit und Sozialordnung:</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Wenn es eines Beweises für die Notwendigkeit der Rentenreform bedurft hätte, dann ist es ein Rentenversicherungsbeitrag in Höhe von 21 Prozent.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
           <p>Wenn es eines Beweises für die Dringlichkeit der Umfinanzierung bedurft hätte, dann sind es diese 21 Prozent.</p>
           <p>Die SPD verweigert eine Reform, die entlastet. Die SPD verweigert die Umfinanzierung und beklagt anschließend zu hohe Beiträge.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
-          <p>Der Gesetzentwurf der SPD zur Rentenversicherung besteht aus zwei Teilen -- das ist ganz einfach --: mehr Einnahmen und mehr Ausgaben. </p>
+          <p>Der Gesetzentwurf der SPD zur Rentenversicherung besteht aus zwei Teilen -- das ist ganz einfach --: mehr Einnahmen und mehr Ausgaben.</p>
           <p>Mehr Einnahmen: Sie wollen Geld vom Bund: von der Bundesanstalt für Arbeit für die Absicherung der Arbeitsmarktrisiken und der Erwerbsunfähigkeit, von der Unfallversicherung für die krankheitsbedingte Arbeitsunfähigkeit, von den Arbeitgebern für eine Umlage für die Frühverrentung.</p>
           <p>"Wir wollen mehr Geld" -- das ist die Botschaft von Dreßler und SPD. Anschließend beschwert sich die SPD über zu hohe Beiträge.</p>
           <p>Mehr Ausgaben: Sie wollen Einschränkungen zurücknehmen: Anhebung der Altersgrenze, Rente nach Mindesteinkommen verlängern.</p>
@@ -406,10 +406,10 @@
           <p>Wir werden die Rentenreform durchsetzen. Es tut mir leid, daß es nicht im Konsens geschehen konnte. Wir waren offen für den Konsens. Aber ein Konsens, der nur mit mehr Ausgaben und mehr Einnahmen zustande kommt, ist kein Konsens, weil er keine Lösung bringt.</p>
           <p>Sie haben keine Antwort auf die demographischen Veränderungen. Sie beginnen in Ihrem Denken am 1. Januar 2016. Dann wollen Sie darauf antworten.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
-          <p>Das machen Sie der Öffentlichkeit klar: Sie verweigern die Umstrukturierung, Sie verweigern die Rentenreform. Zweimal nein, das ist zweimal zuviel. </p>
+          <p>Das machen Sie der Öffentlichkeit klar: Sie verweigern die Umstrukturierung, Sie verweigern die Rentenreform. Zweimal nein, das ist zweimal zuviel.</p>
           <p>Zur Umfinanzierung: Sie ist ganz einfach. Wir schlagen 1 Prozent für die Rentenversicherung vor, Sie schlagen 1 Prozent für die Rentenversicherung und 1 Prozent für die Bundesanstalt für Arbeit vor. Heute steht nur die Rentenversicherung zur Diskussion. Heute steht nicht die Bundesanstalt für Arbeit zur Diskussion.</p>
           <p>Was ist das für eine Logik? Weil Sie nicht 2 Prozent bekommen, verzichten Sie auch auf das eine Prozent. Weil Sie nicht alles bekommen, sagen Sie: Wir wollen lieber nichts! Meine Damen und Herren, man riecht es zehn Meter gegen den Wind: Es ist Wahlkampf! Wahlkampf, Wahlkampf -- und sonst nichts. Die Rentenversicherung wird von der SPD im Stich gelassen.</p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.) </stage>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Die Umfinanzierung ist die am schnellsten wirkende Entlastung. Reformen brauchen immer einen Zeitvorlauf. Jetzt müssen die Beiträge gesenkt werden. Deshalb brauchen wir die Umfinanzierung jetzt.</p>
           <p>Alle Ihre kunstvollen Reden -- pauschale Erstattung -- sind etwas für Insider. An der Debatte kann auch ich noch teilnehmen.</p>
           <p>Rentenversicherungsträger, Arbeitgeber und Gewerkschaften ziehen eine pauschale Erhöhung der Erstattung vor, weil die Rentenversicherung bei der Erstattung ganz pragmatisch ein schlechtes Geschäft macht. Die Fremdleistungen nehmen nämlich ab. Reden Sie nicht so lange darum herum! Es ist nichts anderes als eine kindliche Rechthaberei, um das Unternehmen Rentenreform kaputtzumachen.</p>
@@ -430,11 +430,11 @@
           <p>Jetzt müssen Kräfte gebündelt werden, jetzt ist nicht die Zeit der Rechthaberei. Deshalb plädiere ich dafür: Springen Sie über den Schatten! Hören Sie auf mit all diesen Filigranargumentationen! Ja oder nein zur Umfinanzierung -- das ist die Frage, über die Sie heute entscheiden müssen. Wir sind für ja.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P. -- Gerd Andres [SPD]: Der Mann steht mit dem Rücken zur Wand! Gestern stand er noch vor dem Abgrund; heute ist er einen Schritt weiter!)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich gebe das Wort dem Abgeordneten Peter Rauen.</p>
         </sp>
-        <sp who="Peter Rauen" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Rauen">
+        <sp who="Peter Rauen" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Rauen" party="CDU" name="Peter Rauen">
           <speaker>Peter Rauen (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Der jährliche Bundeszuschuß zur Rentenversicherung soll um zirka 16 Milliarden DM erhöht werden. Um diesen Betrag sollen die Beitragszahler entlastet werden. Das entspricht knapp einem Beitragspunkt.</p>
           <p>Damit der Zuschuß finanziert werden kann, soll die Mehrwertsteuer um einen Prozentpunkt erhöht werden. Dazu brauchen wir die Zustimmung der SPD, dazu brauchen wir die Zustimmung des Bundesrates.</p>
@@ -464,19 +464,19 @@
           <p>Schönen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <stage type="interjection">(Unruhe)</stage>
           <p>Meine Kolleginnen und Kollegen, ich kann die Wiedersehensfreude ja verstehen. Trotzdem brauche ich einen Augenblick Ihre Aufmerksamkeit für eine Mitteilung, die der eine oder andere von Ihnen vielleicht mit einem gewissen Bedauern aufnehmen wird.</p>
-          <p>Wir haben jetzt zwei namentliche Abstimmungen hinter uns zu bringen. Wir müssen die Sitzung nach der ersten namentlichen Abstimmung unterbrechen, weil wir, um in die zweite Abstimmung eintreten zu können, erst auszählen müssen. Ich bitte Sie also, daran zu denken, daß nach der ersten namentlichen Abstimmung und einer Unterbrechung der Sitzung eine zweite namentliche Abstimmung folgt. </p>
+          <p>Wir haben jetzt zwei namentliche Abstimmungen hinter uns zu bringen. Wir müssen die Sitzung nach der ersten namentlichen Abstimmung unterbrechen, weil wir, um in die zweite Abstimmung eintreten zu können, erst auszählen müssen. Ich bitte Sie also, daran zu denken, daß nach der ersten namentlichen Abstimmung und einer Unterbrechung der Sitzung eine zweite namentliche Abstimmung folgt.</p>
           <p>Wir kommen zur Abstimmung über den von den Fraktionen der CDU/CSU und F.D.P. eingebrachten Gesetzentwurf zur Finanzierung eines zusätzlichen Bundeszuschusses zur gesetzlichen Rentenversicherung. Das ist die Drucksache 13/8704. Der Finanzausschuß empfiehlt auf Drucksache 13/8869, den Gesetzentwurf unverändert anzunehmen.</p>
           <p>Es liegt ein Änderungsantrag der Fraktion der SPD auf Drucksache 13/8870 vor, über den wir zuerst abstimmen. Die Fraktion der SPD verlangt namentliche Abstimmung.</p>
           <p>Ich bitte die Schriftführerinnen und Schriftführer, die vorgesehenen Plätze einzunehmen.-- Ich eröffne die Abstimmung. --</p>
-          <p>Ist ein Mitglied des Hauses anwesend, das seine Stimme noch nicht abgegeben hat und abstimmen will? -- Dann schließe ich die Abstimmung. Ich bitte die Schriftführer, mit der Auszählung zu beginnen. Bis zum Vorliegen des Ergebnisses der namentlichen Abstimmung unterbreche ich die Sitzung. </p>
-          <stage type="interjection">(Unterbrechung von 10.22 bis 10.32 Uhr) </stage>
+          <p>Ist ein Mitglied des Hauses anwesend, das seine Stimme noch nicht abgegeben hat und abstimmen will? -- Dann schließe ich die Abstimmung. Ich bitte die Schriftführer, mit der Auszählung zu beginnen. Bis zum Vorliegen des Ergebnisses der namentlichen Abstimmung unterbreche ich die Sitzung.</p>
+          <stage type="interjection">(Unterbrechung von 10.22 bis 10.32 Uhr)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Die unterbrochene Sitzung ist wieder eröffnet.</p>
           <p>Ich gebe das von den Schriftführerinnen und Schriftführern ermittelte Ergebnis der namentlichen Abstimmung bekannt. Abgegebene Stimmen: 589. Mit Ja haben gestimmt: 249. Mit Nein haben gestimmt: 340. Der Änderungsantrag ist damit abgelehnt.</p>
@@ -1090,14 +1090,14 @@
           <p>Siebert, Bernd CDU/CSU</p>
           <p>Wir kommen jetzt zur Abstimmung über den Gesetzentwurf selbst, und zwar in zweiter Lesung. Es gibt jetzt keine namentliche Abstimmung. Ich darf Sie bitten, Platz zu nehmen, weil wir in zweiter Lesung mit Handzeichen abstimmen und weil ich Klarheit über die Mehrheitsverhältnisse haben möchte. --</p>
           <p>Ich bitte diejenigen, die dem Gesetzentwurf zustimmen wollen, um das Handzeichen. -- Gegenprobe! -- Stimmenthaltungen? -- Ich stelle fest, daß der Gesetzentwurf in zweiter Lesung mit den Stimmen der Koalition gegen die Stimmen des Hauses im übrigen angenommen worden ist.</p>
-          <p>Wir treten in die </p>
+          <p>Wir treten in die</p>
           <p>dritte Beratung</p>
           <p>ein und kommen zur Schlußabstimmung. Die Fraktionen der CDU/CSU und der F.D.P. verlangen namentliche Abstimmung. Ich bitte die Schriftführerinnen und Schriftführer, die vorgesehenen Plätze einzunehmen.-- Darf ich fragen, ob die Urnen besetzt sind?</p>
           <stage type="interjection">(Zurufe: Ja!)</stage>
           <p>Ich mache noch einmal darauf aufmerksam, daß über den Gesetzentwurf abgestimmt wird.</p>
-          <p>Ich eröffne die Abstimmung. -- </p>
+          <p>Ich eröffne die Abstimmung. --</p>
           <p>Ist noch ein Mitglied des Hauses anwesend, das seine Stimme abgeben möchte? Ich frage noch einmal, ob ein Mitglied des Hauses anwesend ist, das seine Stimme noch abgeben möchte. -- Dann schließe ich die Abstimmung.</p>
-          <p>Ich bitte die Schriftführer, mit der Auszählung zu beginnen. Das Ergebnis der Abstimmung wird später bekanntgegeben. ) Wir setzen die Beratungen fort. </p>
+          <p>Ich bitte die Schriftführer, mit der Auszählung zu beginnen. Das Ergebnis der Abstimmung wird später bekanntgegeben. ) Wir setzen die Beratungen fort.</p>
           <p>Es folgen jetzt einige einfache Abstimmungen.</p>
           <p>Wir kommen zur Abstimmung über den Gesetzentwurf der Fraktion der SPD zur Entlastung der Versicherten und der Unternehmen von Lohnzusatzkosten auf Drucksache 13/8042. Der Ausschuß für Arbeit und Sozialordnung empfiehlt auf Drucksache 13/8863, den Gesetzentwurf abzulehnen.</p>
           <p>Ich lasse über den Gesetzentwurf der Fraktion der SPD auf Drucksache 13/8042 abstimmen. Ich bitte diejenigen, die dem Gesetzentwurf zustimmen wollen, um das Handzeichen. -- Die Gegenprobe! -- Stimmenthaltungen? -- Dann stelle ich fest, daß der Gesetzentwurf mit den Stimmen der Koalition und der Gruppe der PDS gegen die Stimmen der Fraktion der SPD bei Stimmenthaltung der Fraktion Bündnis 90/Die Grünen abgelehnt worden ist.</p>
@@ -1106,7 +1106,7 @@
           <p>a) Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines</p>
           <p>) Seite 18186 A</p>
           <p>Gesetzes zur Fortentwicklung des Haushaltsrechts von Bund und Ländern</p>
-          <stage type="interjection">(Haushaltsrechts-Fortentwicklungsgesetz)</stage>
+          <p>(Haushaltsrechts-Fortentwicklungsgesetz)</p>
           <p>-- Drucksache 13/8293 --</p>
           <p>(Erste Beratung 187. Sitzung)</p>
           <p>Beschlußempfehlung und Bericht des Haushaltsausschusses (8. Ausschuß)</p>
@@ -1129,7 +1129,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="2" what="debate" desc="a) Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs...">
-        <sp who="Dietrich Austermann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Dietrich Austermann">
+        <sp who="Dietrich Austermann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Dietrich Austermann" party="CDU" name="Dietrich Austermann">
           <speaker>Dietrich Austermann (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Wir unterhalten uns heute über das Haushaltsrechts-Fortentwicklungsgesetz, ein kompliziertes Thema mit einer komplizierten Überschrift. Trotzdem, glaube ich, steckt in dem Thema mehr, auch an Reformwirkung, als manch einer sich verspricht. Es geht immerhin um die Frage, ob es uns gelingt, mit weniger Geld öffentliche Aufgaben besser zu erledigen. Das ist eine komplizierte Materie.</p>
           <p>Wenn wir uns allerdings umsehen, stellen wir fest: Es gibt eine Reihe von Erfahrungen mit Verwaltungsreformen im Ausland, die eindrucksvoll belegen, daß der Schlüssel zu erfolgreichem Vorgehen im öffentlichen Haushalts- und Rechnungswesen liegt. So wurde, international viel beachtet, bereits Mitte der 80er Jahre in Holland eine Veränderung bei der kommunalen Rechnungslegung vorgenommen und den Kommumen ein kaufmännisches Rechnungswesen verordnet. Dies war quasi die Geburtsstunde einer kunden- und bürgerfreundlichen Verwaltung, die seither gleichzeitig in der Lage war, erhebliche Haushaltsmittel einzusparen.</p>
@@ -1157,13 +1157,13 @@
           <p>Meine Damen und Herren, ich sage es noch einmal: Dies alles soll geschehen, ohne daß das parlamentarische Budgetrecht -- das höchste Recht von uns allen, des Parlaments -- ausgehebelt wird. Jede Änderung des Haushaltsrechts muß dem Parlament die umfassende alleinige Entscheidungs- und Feststellungskompetenz für den Haushaltsplan belassen.</p>
           <stage type="interjection">(Beifall des Abg. Gert Willner [CDU/CSU])</stage>
           <p>Weiterhin bestimmen wir den eigentlichen Rahmen des politischen Geschehens.</p>
-          <p>Ich sage es noch einmal: flexiblere Anwendung des Jährlichkeitsprinzips; Ausweitung der Deckungsmöglichkeiten; Verpflichtungsermächtigungen sollen dort entfallen, wo Verpflichtungen aus laufenden Ausgabenansätzen übertragen werden; Lockerung des Gesamtdeckungsgrundsatzes; Einführung von Kosten- und Leistungsrechnung; Wirtschaftlichkeitsuntersuchung und Regelung von elektronischen Kassenanordnungen. In diesen sieben Punkten wollen wir das geltende Haushaltsrecht verbessern. </p>
+          <p>Ich sage es noch einmal: flexiblere Anwendung des Jährlichkeitsprinzips; Ausweitung der Deckungsmöglichkeiten; Verpflichtungsermächtigungen sollen dort entfallen, wo Verpflichtungen aus laufenden Ausgabenansätzen übertragen werden; Lockerung des Gesamtdeckungsgrundsatzes; Einführung von Kosten- und Leistungsrechnung; Wirtschaftlichkeitsuntersuchung und Regelung von elektronischen Kassenanordnungen. In diesen sieben Punkten wollen wir das geltende Haushaltsrecht verbessern.</p>
           <p>Im Rahmen dieses Gesetzentwurfs wird die externe Finanzkontrolle des Bundes neu gestaltet, es werden Prüfungsämter geschaffen, die dem Bundesrechnungshof nachgeordnet sind und seiner Dienst- und Fachaufsicht unterliegen. Der Bundesrechnungshof kann ihnen Prüfungsaufgaben übertragen. Die Vorprüfung bei den Behörden der unmittelbaren Bundesverwaltung entfällt damit. Das heißt, die Verwaltung wird kleiner und effektiver. Dadurch wird es möglich sein, Prüfungen effizienter zu gestalten, so daß losgelöst von einer Einzelentscheidung in der Verwaltung grundsätzliche und strukturelle Schwachstellen erkannt und behoben werden. Hierdurch kann auch der derzeitige Personalbestand verringert werden.</p>
           <stage type="interjection">(Beifall des Abg. Dr. Wolfgang Weng [Gerlingen] [F.D.P.])</stage>
           <p>Sobald Erfahrungen mit dem Gesetz vorliegen, kann entschieden werden, welche weiteren Änderungen vorgenommen werden müssen.</p>
           <p>Ich habe darauf hingewiesen: Das vorgesehene Reformvorhaben wird zur Zeit noch unterschätzt, wenn auch nicht von allen Fachleuten. Wir haben im Haushaltsausschuß eine ausführliche Anhörung zu diesem Komplex durchgeführt, die die Tendenz der Vorlage bestätigt hat. Sachverständige und Vertreter der Kommunen und kommunalen Spitzenverbände wie wissenschaftliche Rechtsgutachter haben eingehend Stellung genommen. Dabei ist erkennbar geworden, daß der Gesetzentwurf einen mittleren Weg zwischen der notwendigen Flexibilisierung auf der einen Seite und der parlamentarischen Verantwortung und Kontrolle auf der anderen Seite geht.</p>
           <stage type="interjection">(Uta Titze-Stecher [SPD]: Einen schmalen Weg! -- Gert Willner [CDU/CSU]: Ein schmaler Weg muß kein schlechter Weg sein!)</stage>
-          <p>-- Einen sicher schmalen Weg. Dabei muß man klar sehen, daß, wie es der Kollege Willner richtig sagt, ein schmaler Weg durchaus der richtige Weg sein kann. Dies wurde von den Gutachtern mehrheitlich bestätigt. </p>
+          <p>-- Einen sicher schmalen Weg. Dabei muß man klar sehen, daß, wie es der Kollege Willner richtig sagt, ein schmaler Weg durchaus der richtige Weg sein kann. Dies wurde von den Gutachtern mehrheitlich bestätigt.</p>
           <p>Mit der Schaffung zusätzlicher Steuerungselemente sollen künftig Entscheidungen soweit wie möglich auch im Verwaltungsbereich im Wege des Wettbewerbs getroffen werden. Die effektivste Möglichkeit ist es natürlich, bestimmte Bereiche ganz auszugliedern und diese zu privatisieren. Das ist unsere Politik. Sie muß in vielen Ländern -- nicht nur wegen des Drucks auf die öffentlichen Kassen -- weitergeführt werden. Auch die Gemeinden sind aufgefordert, beherzt zu privatisieren und dieses nachzuahmen.</p>
           <p>Ein weiteres Instrument ist die Einführung von Kennziffern, mit denen gleichartige Leistungen verschiedener Verwaltungen miteinander verglichen werden. Zur Zeit ist es ja so, daß Verwaltungsleistungen in vielen tausend Gemeinden und Städten in Deutschland mit durchaus unterschiedlichem wirtschaftlichen Erfolg angeboten werden und einer unterschiedlichen wirtschaftlichen Meßlatte unterliegen. Wir wollen Vergleichbarkeit herstellen, um auch die eine oder andere Verwaltung dazu zu bringen, ein unwirtschaftliches und für den Steuerzahler vielleicht zu aufwendiges Verfahren zu beenden.</p>
           <p>Erfreulicherweise ist die Reform des Haushaltsrechts ein Bereich, in dem sich der Streit zwischen Regierungsparteien und Opposition in Grenzen hält. Auch die SPD hat das Konzept als überzeugend bezeichnet, allerdings weitergehende Regelungen gefordert. Die Grünen waren etwas rigoroser, sie haben ein eigenes Papier vorgelegt, aber in dem Papier -- wie so oft -- keine klare gesetzliche Alternative genannt.</p>
@@ -1179,7 +1179,7 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Burkhard Hirsch">
+        <sp who="Burkhard Hirsch" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Burkhard Hirsch" party="FDP" name="Burkhard Hirsch">
           <speaker>Vizepräsident Dr. Burkhard Hirsch:</speaker>
           <p>Ehe ich der nächsten Rednerin das Wort erteile, komme ich auf den Tagesordnungspunkt 17 a zurück. Ich gebe das von den Schriftführern und Schriftführerinnen ermittelte Ergebnis der namentlichen Abstimmung über den Gesetzentwurf der Fraktionen der CDU/CSU und der F.D.P. zur Finanzierung eines zusätzlichen Bundeszuschusses zur gesetzlichen Rentenversicherung -- das sind die Drucksachen 13/8704 und 13/8869 -- bekannt. Abgegebene Stimmen: 593. Mit Ja haben gestimmt 311, mit Nein haben gestimmt 281 Abgeordnete; es gab eine Enthaltung. Der Gesetzentwurf ist damit angenommen.</p>
           <p>Endgültiges Ergebnis</p>
@@ -1796,12 +1796,12 @@
           <p>Siebert, Bernd CDU/CSU</p>
           <p>Nun gebe ich das Wort der Abgeordneten Uta Titze-Stecher.</p>
         </sp>
-        <sp who="Uta Titze-Stecher" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Uta Titze-Stecher">
+        <sp who="Uta Titze-Stecher" parliamentary_group="SPD" role="mp" position="NA" who_original="Uta Titze-Stecher" party="SPD" name="Uta Titze-Stecher">
           <speaker>Uta Titze-Stecher (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Ich habe gerade zum Herrn Präsidenten bemerkt: Das Thema ist so trocken, es hat den Charme eines Karnickels. Sie werden verstehen: Angesichts der Bedeutung des Gesetzentwurfes, der ja gravierende Auswirkungen auf die Finanzwirtschaft von Bund, Ländern und Kommunen hat, ist es schon gerechtfertigt, sich damit seriös auseinanderzusetzen.</p>
           <p>Wie der Kollege Austermann eben sagte, hat der Haushaltsausschuß des Deutschen Bundestages am 24. September eine öffentliche Anhörung zum Entwurf eines Gesetzes zur Fortentwicklung des Haushaltsrechts von Bund und Ländern -- kurz: Haushaltsrechts-Fortentwicklungsgesetz; so heißt das Ungetüm -- durchgeführt. Dabei haben alle Sachverständigen natürlich die Notwendigkeit einer Überprüfung des Haushaltsrechts mit dem Ziel, einen Beitrag für eine effektivere und leistungsfähigere Verwaltung zu erbringen, betont. Allerdings solle damit keine Beeinträchtigung des parlamentarischen Budgetrechts verbunden sein, und die Vergleichbarkeit öffentlicher Haushalte solle gewahrt bleiben. Auch diese Punkte sind vom Vorredner bereits genannt worden.</p>
           <p>Ferner sagten die Sachverständigen, konkrete Informations-, Rechnungslegungs- und Steuerungsinstrumente beim Haushaltsvollzug seien dabei ebenso zu entwickeln wie die im Gesetzentwurf angebotenen Instrumente der Flexibilisierung der öffentlichen Haushaltswirtschaft. Auf diesen Komplex wird der Kollege Diller im Anschluß genauer und im Detail eingehen.</p>
-          <p>Ich will mich im Zusammenhang mit der Diskussion des Gesetzentwurfs auf den Art. 2 -- "Änderung der Bundeshaushaltsordnung" -- und dort auf die Nr. 16, die sich mit dem   100 der Bundeshaushaltsordnung, den Prüfungsämtern, befaßt -- es handelt sich also um den Komplex der externen Finanzkontrolle -- beschränken.</p>
+          <p>Ich will mich im Zusammenhang mit der Diskussion des Gesetzentwurfs auf den Art. 2 -- "Änderung der Bundeshaushaltsordnung" -- und dort auf die Nr. 16, die sich mit dem § 100 der Bundeshaushaltsordnung, den Prüfungsämtern, befaßt -- es handelt sich also um den Komplex der externen Finanzkontrolle -- beschränken.</p>
           <p>In der Bundesrepublik Deutschland haben sich zwei unterschiedliche Formen der externen Finanzkontrolle herausgebildet, die zweistufige und die einstufige. Beim Bund und bei einigen Ländern wird die Arbeit der Rechnungshöfe durch Vorprüfungsstellen vorbereitet und unterstützt. Diese sind fachlich und dienstrechtlich jedoch den Behörden zugeordnet, bei denen sie eingerichtet sind. Das ist die zweistufige Finanzkontrolle. In elf Bundesländern aber nehmen die Rechnungshöfe die Prüfungen bereits alleine vor oder übertragen sie ihnen nachgeordneten Prüfungsämtern. Diese Form der Finanzkontrolle nennen wir einstufig. Mit den unterschiedlichen Formen der externen Finanzkontrolle haben sich in der Vergangenheit bereits verschiedentlich parlamentarische Gremien befaßt. Sie haben auch versucht, durch bestimmte Maßnahmen die Probleme in den Griff zu bekommen. Langer Rede kurzer Sinn: Die Ergebnisse sind mager. Deswegen soll jetzt mit der Neuordnung der externen Finanzkontrolle alles anders werden.</p>
           <p>An Stelle der bisher vorhandenen Vorprüfungsstellen bei Bundesinstitutionen, bei Ländern und bei kommunalen Gebietskörperschaften sollen jetzt dem Bundesrechnungshof nachgeordnete Prüfungsämter eingerichtet werden, die seiner Dienst- und Fachaufsicht unterliegen. Das finden wir in Ordnung, und wir begrüßen, daß aus der zweistufigen eine einstufige Finanzkontrolle wird.</p>
           <stage type="interjection">(Vorsitz: Vizepräsident Hans-Ulrich Klose)</stage>
@@ -1827,7 +1827,7 @@
           <stage type="interjection">(Dr. Wolfgang Weng [Gerlingen] [F.D.P.]: Der Zuruf war als Beifall gemeint!)</stage>
           <p>Nach unserer Kenntnis hat der größte Teil der Bewerber aus den Vorprüfungsstellen der unmittelbaren Bundesverwaltung bereits eine Übernahmezusage erhalten. Bei der Festlegung der Standorte der neuen Prüfungsämter wird aus wirtschaftlichen Gründen auf geeignete Liegenschaften des Bundes zurückgegriffen, was wir natürlich begrüßen.</p>
           <p>Bei gründlicher Durchsicht der Vorlage zur Neuordnung der externen Finanzkontrolle bleiben ein paar offene Fragen, die ich hier jetzt stellen werde und die in der Bereinigungssitzung Mitte November hoffentlich beantwortet werden können.</p>
-          <p>Erstens. Die Neuordnung ist in den von der Bundesregierung vorgelegten Entwurf des Bundeshaushalts 1998 noch nicht eingearbeitet. Es ist nicht ganz klar, wie viele Stellen welcher Wertigkeit auf Grund der Auflösung der Vorprüfungsstellen in welchen Einzelplänen wann entfallen sollen. Nun weiß der In- sider, daß in der Bereinigungssitzung insbesondere die Personalfragen gelöst werden. Ich erhoffe mir dort Antworten auf meine Fragen. </p>
+          <p>Erstens. Die Neuordnung ist in den von der Bundesregierung vorgelegten Entwurf des Bundeshaushalts 1998 noch nicht eingearbeitet. Es ist nicht ganz klar, wie viele Stellen welcher Wertigkeit auf Grund der Auflösung der Vorprüfungsstellen in welchen Einzelplänen wann entfallen sollen. Nun weiß der In- sider, daß in der Bereinigungssitzung insbesondere die Personalfragen gelöst werden. Ich erhoffe mir dort Antworten auf meine Fragen.</p>
           <p>Zweitens. Gemäß Anlage 8 der Vorlage soll die Neuordnung der Finanzkontrolle eine Einsparung bei den Personalkosten von 42 Millionen DM erbringen. Im Entwurf des Bundeshaushaltes sind hingegen in dem neuen Kapitel 20 03 -- die genannten Prüfungsämter des Bundes -- globale Mehrausgaben von 15 Millionen DM ausgewiesen.</p>
           <p>Drittens. Das Bundesministerium der Finanzen beabsichtigt, von den eingesparten 450 Stellen den Ressorts 180 Stellen für den Aufbau interner Controlling-Einrichtungen zur Unterstützung der Leitungsfunktion zur Verfügung zu stellen. So weit, so gut. Die Frage ist, wie dieser geplante Aufgaben- und Personalzuwachs begründet wird.</p>
           <p>Viertens. Unklar ist in Anlage 8, ob in den Einsparungsbetrag von 42 Millionen DM die Kosten für die 180 genannten Stellen bereits eingerechnet sind.</p>
@@ -1839,24 +1839,24 @@
           <p>Eine letzte Bemerkung: Die Neuorganisation der externen Finanzkontrolle soll laut Gesetzentwurf der Bundesregierung nach Abschluß der Umstrukturierung Einsparungen für den Bundeshaushalt in Höhe von rund 35 Millionen DM pro Jahr und für die Haushalte von Ländern und Kommunen von rund 20 Millionen DM pro Jahr erbringen. Bei solchen Aussichten muß ein Haushälter ja sagen, vorausgesetzt, die Rahmenbedingungen stimmen. Weil sie in diesem Fall stimmen und in Ordnung sind, stimmt die SPD diesem Punkt des Haushaltsrechts-Fortentwicklungsgesetzes zu.</p>
           <stage type="interjection">(Beifall bei der SPD und der F.D.P.)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Metzger, Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Oswald Metzger" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Oswald Metzger">
+        <sp who="Oswald Metzger" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Oswald Metzger" party="GRUENE" name="Oswald Metzger">
           <speaker>Oswald Metzger (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Dieses dröge Thema ist eines, das die Wirklichkeit unseres Gemeinwesens viel stärker bestimmt, als es der Aufmerksamkeit hier im Plenum und der Aufmerksamkeit weit darüber hinaus entspricht.</p>
-          <p>Wir haben ein Instrumentarium der staatlichen Buchhaltung, das aus dem 19. Jahrhundert stammt und dessen gesamtwirtschaftliche Betrachtungsweise auf der Wirtschaftspolitik der 60er Jahre basiert, weil mit der Finanzreform des Jahres 1969 die gesamtwirtschaftliche Ausrichtung Teil der staatlichen Buchhaltung wurde. </p>
+          <p>Wir haben ein Instrumentarium der staatlichen Buchhaltung, das aus dem 19. Jahrhundert stammt und dessen gesamtwirtschaftliche Betrachtungsweise auf der Wirtschaftspolitik der 60er Jahre basiert, weil mit der Finanzreform des Jahres 1969 die gesamtwirtschaftliche Ausrichtung Teil der staatlichen Buchhaltung wurde.</p>
           <p>Wir brauchen aber Instrumente, die Begriffe wie Wirtschaftlichkeit, Kosten- und Leistungsrechnung, Darstellung der Vermögensverschiebungen der staatlichen Ebenen auch in die Zukunft hinein korrekt abbilden. All diese Anforderungen erfüllt der Regierungsentwurf nicht.</p>
-          <p>Die Koalition und die Regierung haben einen langen Anlauf genommen -- und sich dann mit einem marginalen Trippelschrittchen bewegt. Sie kriechen förmlich im Schneckentempo der Entwicklung nach, die bei den Kommunen in Deutschland bereits sehr viel stärker zu wirtschaftlichkeitsorientierten Modellen und Konzepten geführt hat. </p>
-          <p>Eines muß man klar sagen: In Zeiten knapper Kassen muß der Staat auch seine technischen Instrumentarien modifizieren, damit jede öffentliche Mark auch tatsächlich sinnvoll ausgegeben wird und trotzdem die parlamentarische Kontrolle gewährleistet ist. </p>
+          <p>Die Koalition und die Regierung haben einen langen Anlauf genommen -- und sich dann mit einem marginalen Trippelschrittchen bewegt. Sie kriechen förmlich im Schneckentempo der Entwicklung nach, die bei den Kommunen in Deutschland bereits sehr viel stärker zu wirtschaftlichkeitsorientierten Modellen und Konzepten geführt hat.</p>
+          <p>Eines muß man klar sagen: In Zeiten knapper Kassen muß der Staat auch seine technischen Instrumentarien modifizieren, damit jede öffentliche Mark auch tatsächlich sinnvoll ausgegeben wird und trotzdem die parlamentarische Kontrolle gewährleistet ist.</p>
           <p>Die Entmachtung der Parlamente zeigt sich ganz deutlich daran -- diese Erfahrung macht die Koalition, wenn sie an die laufende Haushaltslochdiskussion und die entsprechenden Debatten der letzten Jahre denkt --, daß oft selbst die Koalitionshaushälter innerhalb von wenigen Tagen im Schweinsgalopp Haushaltsentwürfe der Regierung nachbessern müssen, weil das Berichtswesen, mit dem das Parlament über die Einnahmen- und Ausgabenentwicklung des Staates auf dem laufenden gehalten wird, nicht mehr funktioniert. Sie werden an diese Aussage spätestens in der Bereinigungssitzung am 12. und 13. November 1997 denken, wenn -- ein bzw. zwei Tage nach der Steuerschätzung -- wieder einmal ein Bundeshaushalt in ganz erheblichem Volumen verändert wird.</p>
           <stage type="interjection">(Dr. Wolfgang Weng [Gerlingen] [F.D.P.]: Verdirb uns doch nicht das Wochenende!)</stage>
           <p>Die Fraktion der Grünen hat -- nur um unter Beweis zu stellen, wie ein globalerer Ansatz in der Grundorientierung aussieht -- einen Antrag eingebracht, der dem Problem deshalb Rechnung trägt, weil wir sagen: Ohne eine Bund-Länder-Kommission, ohne eine große Finanzreform wie in den 60er Jahren wird alles, was jetzt versucht wird, ohne eine Veränderung von Grundsätzen nur eine kleine Marginalie sein.</p>
           <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der SPD)</stage>
           <p>Um ein paar Details zu nennen: Die Kosten- und Leistungsrechnung, die im Regierungsentwurf steht, ist mit einer Kann-Bestimmung und einer zusätzlichen Einschränkung versehen. "In geeigneten Bereichen" soll eine Kosten- und Leistungsrechnung eingeführt werden.</p>
-          <p>Ohne die vorherige Einführung einer Kosten- und Leistungsrechnung wird bei überjähriger Buchung von Ausgaben überhaupt nicht erkennbar, ob damit Lasten nur in die Zukunft verschoben werden oder ob Wirtschaftlichkeit tatsächlich zu Einsparungen im laufenden Haushaltsjahr führt, und zwar zu einer nachhaltigen Einsparung auch über den Tageshorizont hinaus. </p>
-          <p>Deshalb sagen wir Grünen in unserem Konzept: Ohne eine Kosten- und Leistungsrechnung quer durch alle Haushaltsbereiche, die zu doppelter kaufmännischer Buchführung führt -- weg von der Kameralistik --, werden wir genau diese Transparenz und Voraussetzung nicht hinbekommen. Dazu gehört natürlich auch, daß man Kennziffern für die Leistungsfähigkeit von bestimmten Verwaltungsbereichen entwickelt, um die Vergleichbarkeit von "Produkten", die die öffentliche Verwaltung herstellt, zu ermöglichen. </p>
+          <p>Ohne die vorherige Einführung einer Kosten- und Leistungsrechnung wird bei überjähriger Buchung von Ausgaben überhaupt nicht erkennbar, ob damit Lasten nur in die Zukunft verschoben werden oder ob Wirtschaftlichkeit tatsächlich zu Einsparungen im laufenden Haushaltsjahr führt, und zwar zu einer nachhaltigen Einsparung auch über den Tageshorizont hinaus.</p>
+          <p>Deshalb sagen wir Grünen in unserem Konzept: Ohne eine Kosten- und Leistungsrechnung quer durch alle Haushaltsbereiche, die zu doppelter kaufmännischer Buchführung führt -- weg von der Kameralistik --, werden wir genau diese Transparenz und Voraussetzung nicht hinbekommen. Dazu gehört natürlich auch, daß man Kennziffern für die Leistungsfähigkeit von bestimmten Verwaltungsbereichen entwickelt, um die Vergleichbarkeit von "Produkten", die die öffentliche Verwaltung herstellt, zu ermöglichen.</p>
           <p>Dann kann man Rankinglisten erstellen, auf denen man sieht, daß eine Leistungsabteilung im Finanzministerium vielleicht effizienter arbeitet als eine im Innenministerium. Auch das ist eine Anreizwirkung für die Beschäftigten im öffentlichen Sektor.</p>
           <p>Wenn man vom schlanken Staat spricht, dann hat immer die Vorstellung im Hinterkopf zu sein, daß die öffentliche Hand ihre Leistungen mit möglichst geringem Einsatz möglichst wirksam erbringt. Das nenne ich Wirtschaftlichkeit. Dazu gehört aber auch, daß das Parlament -- hier reden wir für das Parlament und nicht für die Exekutive -- Kontrollbefugnisse erhält, die über das hinausgehen, was das heutige Haushaltsrecht auszeichnet.</p>
           <p>Wir brauchen also ein Berichtswesen, das den Abgeordneten aus dem Haushaltsbereich, aber auch dem Parlament insgesamt zeitnahe Berichte über die Steuerung der einzelnen Haushaltsbereiche zufließen läßt, so daß man auf Grund des parlamentarischen Kontrollrechts sofort reagieren kann, wenn Entwicklungen aus dem Ruder laufen.</p>
@@ -1869,11 +1869,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Dr. Weng, F.D.P.</p>
         </sp>
-        <sp who="Dr. Wolfgang Weng" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Wolfgang Weng">
+        <sp who="Wolfgang Weng (Gerlingen)" parliamentary_group="FDP" role="mp" position="NA" who_original="Wolfgang Weng (Gerlingen)" party="FDP" name="Wolfgang Weng">
           <speaker>Dr. Wolfgang Weng (Gerlingen) (F.D.P.):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Es ist ein interessantes Phänomen, daß die SPD-Fraktion dem Gesetzentwurf zustimmt, aber zugleich dem Kritiker applaudiert.</p>
           <stage type="interjection">(Uta Titze-Stecher [SPD]: Der externen Finanzkontrolle, Herr Kollege!)</stage>
@@ -1905,11 +1905,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
-          <p>Das Wort hat die Kollegin Professor Christa Luft, PDS. </p>
+          <p>Das Wort hat die Kollegin Professor Christa Luft, PDS.</p>
         </sp>
-        <sp who="Dr. Christa Luft" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Christa Luft">
+        <sp who="Christa Luft" parliamentary_group="PDS" role="mp" position="NA" who_original="Christa Luft" party="PDS" name="Christa Luft">
           <speaker>Dr. Christa Luft (PDS):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Jawohl, das Thema, das wir hier debattieren, ist außerordentlich spröde und enthält sehr viel Haushaltschinesisch, aber ich denke, denjenigen, die uns heute morgen zuhören, sollten wir folgendes sagen: Es geht um höchst sensible politische Dinge.</p>
           <stage type="interjection">(Uta Titze-Stecher [SPD]: So ist es!)</stage>
@@ -1920,9 +1920,9 @@
           <p>Ich erinnere daran: Wir haben gestern zur gleichen Zeit drei schlimme Botschaften vernommen:</p>
           <p>Der Bundesfinanzminister verhängt zum zweitenmal in diesem Jahr eine Haushaltssperre. Daraus werden Ausgabenkürzungen resultieren, auf die das Parlament keinerlei Einfluß mehr hat.</p>
           <p>Zeitgleich erklärt der Bundesarbeitsminister die Anhebung der Rentenbeiträge von 20,3 auf 21 Prozent, was ja nicht nur eine weitere Belastung der Beschäftigten und der Unternehmen bedeutet, sondern auch einen weiteren notwendigen Zuschuß aus dem Bundeshaushalt an die Rentenkassen zur Folge haben wird. Auch das ist ein Automatismus, auf den die Parlamentarier keinerlei Einfluß mehr haben.</p>
-          <p>Zur selben Zeit aber stimmt eine Mehrheit im Haushaltsausschuß dem 23 Milliarden DM schweren Eurofighter-Beschaffungsprogramm der Regierung zu, </p>
+          <p>Zur selben Zeit aber stimmt eine Mehrheit im Haushaltsausschuß dem 23 Milliarden DM schweren Eurofighter-Beschaffungsprogramm der Regierung zu,</p>
           <stage type="interjection">(Eckart Kuhlwein [SPD]: Teurer!)</stage>
-          <p>das für 17 Jahre im voraus den Bundeshaushalt belastet. </p>
+          <p>das für 17 Jahre im voraus den Bundeshaushalt belastet.</p>
           <stage type="interjection">(Dr. Wolfgang Weng [Gerlingen] [F.D.P.]: Sie werden noch einmal froh darum sein!)</stage>
           <p>Auch das entzieht sich der weiteren parlamentarischen Debatte. Man muß denken, man sei im falschen Film.</p>
           <stage type="interjection">(Beifall bei der PDS sowie des Abg. Eckart Kuhlwein [SPD] -- Dr. Wolfgang Weng [Gerlingen] [F.D.P.]: Das ist bei Ihnen nicht ausgeschlossen!)</stage>
@@ -1931,30 +1931,30 @@
           <p>Vor diesem Hintergrund müssen wir die Fortentwicklung des Haushaltsrechts debattieren. Sie stimmen mir doch sicherlich, meine Damen und Herren von der Koalition, zu: Haushaltsrechtlich können Sie soviel gar nicht hereinholen, wie Sie wirtschafts- und finanzpolitisch laufend in den Sand setzen!</p>
           <stage type="interjection">(Beifall bei der PDS sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
           <p>Damit keine Mißverständnisse entstehen: Eine Fortentwicklung des Haushaltsrechts ist notwendig, um den effizientesten Umgang mit den Geldern, die den Bürgern in Form von Steuergeldern genommen werden, zu gewährleisten.</p>
-          <p>Die Bundesregierung greift -- das muß man sagen -- mit ihrem Gesetzentwurf einige Punkte notwendiger Veränderungen auf. Ich nenne Flexibilisierung, Globalisierung, Überjährigkeit, gegenseitige Deckungsfähigkeit. Im Prinzip ist das schon die richtige Richtung. Aber Voraussetzung ist -- das ist eine Anforderung an die Parlamentarier selbst, also an die Legislative --, daß gegenüber den Ressorts und den Verwaltungszweigen die Handlungsziele, die erreicht werden müssen, genau definiert werden. </p>
+          <p>Die Bundesregierung greift -- das muß man sagen -- mit ihrem Gesetzentwurf einige Punkte notwendiger Veränderungen auf. Ich nenne Flexibilisierung, Globalisierung, Überjährigkeit, gegenseitige Deckungsfähigkeit. Im Prinzip ist das schon die richtige Richtung. Aber Voraussetzung ist -- das ist eine Anforderung an die Parlamentarier selbst, also an die Legislative --, daß gegenüber den Ressorts und den Verwaltungszweigen die Handlungsziele, die erreicht werden müssen, genau definiert werden.</p>
           <p>Voraussetzung ist aber auch eine voll etablierte, funktionierende Kosten-Leistungs-Rechnung.</p>
           <stage type="interjection">(Uta Titze-Stecher [SPD]: Das ist der Schwachpunkt!)</stage>
-          <p>Da sind Sie außerordentlich zögerlich. Nur dieses Verfahren aber ermöglicht den Parlamentariern, die finanzwirtschaftlichen und ökonomischen Folgen der Mittelverwendung genauestens zu kontrollieren. Die angestrebte Effektivierung des Haushaltshandelns der Ressorts darf nicht zu Lasten der parlamentarischen Handlungsspielräume gehen. Genau aber diese Gefahr sehe ich, auch bei dem Entwurf, den Sie hier vorgelegt haben. </p>
-          <p>Wir sind uns einig darin, daß die eigentliche Ursache für den permanenten Haushaltsnotstand nicht das Haushaltsrecht ist, wenngleich es, wie gesagt, verändert werden muß, sondern darin liegt, daß so viele Millionen Menschen nicht die Chance haben, Steuerzahlerin und Steuerzahler zu werden, weil ihnen der Zugang zum Arbeitsmarkt verwehrt ist. </p>
+          <p>Da sind Sie außerordentlich zögerlich. Nur dieses Verfahren aber ermöglicht den Parlamentariern, die finanzwirtschaftlichen und ökonomischen Folgen der Mittelverwendung genauestens zu kontrollieren. Die angestrebte Effektivierung des Haushaltshandelns der Ressorts darf nicht zu Lasten der parlamentarischen Handlungsspielräume gehen. Genau aber diese Gefahr sehe ich, auch bei dem Entwurf, den Sie hier vorgelegt haben.</p>
+          <p>Wir sind uns einig darin, daß die eigentliche Ursache für den permanenten Haushaltsnotstand nicht das Haushaltsrecht ist, wenngleich es, wie gesagt, verändert werden muß, sondern darin liegt, daß so viele Millionen Menschen nicht die Chance haben, Steuerzahlerin und Steuerzahler zu werden, weil ihnen der Zugang zum Arbeitsmarkt verwehrt ist.</p>
           <stage type="interjection">(Dietrich Austermann [CDU/CSU]: Manche nutzen die Chance auch nicht!)</stage>
           <p>Ursachen liegen ebenfalls in den noch immer vorhandenen Steuerschlupflöchern, in der nicht erfolgten Besteuerung spekulativer Aktiengewinne. Man könnte diese Palette fortsetzen. Das alles könnte vor der Bundestagswahl in Angriff genommen werden. Sie brauchen nicht auf eine große Steuerreform nach der nächsten Bundestagswahl zu warten, wenn Sie es denn politisch als Problem erkennen würden.</p>
-          <p>Lassen Sie mich aber auch sagen, daß es mich zutiefst befremdet, wie distanziert und häufig sogar abwiegelnd mit den zumeist sehr kritischen Berichten des Bundesrechnungshofs umgegangen wird, von seiten der Regierung und auch von seiten der Koalitionsabgeordneten. </p>
+          <p>Lassen Sie mich aber auch sagen, daß es mich zutiefst befremdet, wie distanziert und häufig sogar abwiegelnd mit den zumeist sehr kritischen Berichten des Bundesrechnungshofs umgegangen wird, von seiten der Regierung und auch von seiten der Koalitionsabgeordneten.</p>
           <stage type="interjection">(Beifall bei der PDS sowie des Abg. Eckart Kuhlwein [SPD] -- Dr. Wolfgang Weng [Gerlingen] [F.D.P.]: Das stimmt doch überhaupt nicht!)</stage>
-          <p>Wir können uns die in der Regel sehr aufwendigen Arbeiten dieses Kontrollorgans sparen, wenn mit den Ergebnissen nicht sorgfältiger umgegangen wird. Ich nenne Ihnen Beispiele aus der jüngsten Zeit, die ich überschauen kann. </p>
+          <p>Wir können uns die in der Regel sehr aufwendigen Arbeiten dieses Kontrollorgans sparen, wenn mit den Ergebnissen nicht sorgfältiger umgegangen wird. Ich nenne Ihnen Beispiele aus der jüngsten Zeit, die ich überschauen kann.</p>
           <stage type="interjection">(Eckart Kuhlwein [SPD]: Herr Rühe gestern zum Beispiel!)</stage>
           <p>Es gibt einen Bundesrechnungshofbericht mit kritischen Anmerkungen zur Eurofighter-Beschaffung. Es gibt kritische Anmerkungen zum Bau der Bundestags-Kita in Berlin. Es gab kritische Anmerkungen zum Verkauf der DDR-Banken. Allein eine Neuorganisation der externen Finanzkontrolle des Bundes -- so notwendig sie denn auch ist -- reicht natürlich nicht aus. Es kommt auf eine andere Einstellung zu den Prüfergebnissen an. Das, meine ich, muß in dieser Debatte betont werden.</p>
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der PDS sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat die Parlamentarische Staatssekretärin Irmgard Karwatzki.</p>
         </sp>
-        <sp who="Irmgard Karwatzki" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister der Finanzen" party="CDU" name="Irmgard Karwatzki">
+        <sp who="Irmgard Karwatzki" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister der Finanzen" who_original="Irmgard Karwatzki" party="CDU" name="Irmgard Karwatzki">
           <speaker>Irmgard Karwatzki, Parl. Staatssekretärin beim Bundesminister der Finanzen:</speaker>
           <p>Liebe Kolleginnen und Kollegen! Über den Charme des Gesetzes haben die Kollegen Titze-Stecher und Dietrich Austermann ihre Ausführungen gemacht. Ich schließe mich diesen Aussagen vollinhaltlich an.</p>
           <stage type="interjection">(Dr. Wolfgang Weng [Gerlingen] [F.D.P.]: Und meinen nicht?)</stage>
-          <p>-- Doch, deinen auch. </p>
+          <p>-- Doch, deinen auch.</p>
           <stage type="interjection">(Heiterkeit)</stage>
           <p>Dennoch: Das Gesetz ist sehr wichtig.</p>
           <p>Ich bedanke mich für die Bereitschaft des Hauses auf allen Seiten, das Modell zur Fortentwicklung des Haushaltsrechtes von Bund und Ländern jetzt auf eine breite Basis zu stellen. Danken möchte ich besonders den Kolleginnen und Kollegen des Haushaltsausschusses, die bereit waren, auch der Änderung des Staatsbankgesetzes zuzustimmen.</p>
@@ -1966,14 +1966,14 @@
           <stage type="interjection">(Beifall bei der CDU/CSU, der F.D.P. und der SPD -- Dr. Peter Struck [SPD]: Sehr gut! Jetzt haben Sie bei uns wirklich etwas gut!)</stage>
           <p>) Anlage 3 NA</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Ich gehe davon aus, daß das Haus damit einverstanden ist.</p>
           <stage type="interjection">(Dr. Peter Struck [SPD]: Sehr einverstanden!)</stage>
           <p>-- Schön.</p>
           <p>Dann hat jetzt das Wort der Kollege Karl Diller, SPD.</p>
         </sp>
-        <sp who="Karl Diller" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Karl Diller">
+        <sp who="Karl Diller" parliamentary_group="SPD" role="mp" position="NA" who_original="Karl Diller" party="SPD" name="Karl Diller">
           <speaker>Karl Diller (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Es ist in der Tat so: Das beste Haushaltsrecht nutzt nichts, wenn die handelnde Regierung von der Planaufstellung bis zum Haushaltsvollzug am letzten Tag ständig management by chaos macht.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
@@ -1991,7 +1991,7 @@
           <stage type="interjection">(Beifall bei der SPD sowie der Abg. Dr. Christa Luft [PDS])</stage>
           <p>) Anlage 3 NA</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Ich gehe davon aus, daß das Haus auch in diesem Fall damit einverstanden ist, daß die Rede zu Protokoll gegeben wird. -- Ich höre keinen Widerspruch. Dann wird so verfahren.</p>
           <p>Jetzt hat das Wort der Kollege Dietrich Austermann, CDU/CSU.</p>
@@ -1999,31 +1999,31 @@
           <p>-- Wir können es nicht davon abhängig machen, Herr Kollege Austermann, ob Sie nun reden oder nicht. Sie müssen schon ans Pult treten.</p>
           <stage type="interjection">(Dr. Wolfgang Weng [Gerlingen] [F.D.P.]: Er hätte Unterbrechung beantragen müssen, Herr Präsident! -- Eckart Kuhlwein [SPD]: Er mußte filibustern, damit seine Truppen an Land kommen!)</stage>
         </sp>
-        <sp who="Dietrich Austermann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Dietrich Austermann">
+        <sp who="Dietrich Austermann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Dietrich Austermann" party="CDU" name="Dietrich Austermann">
           <speaker>Dietrich Austermann (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Ich habe mich deshalb noch einmal zu Wort gemeldet, weil ich davon ausgegangen bin, daß der Kollege Diller auch diese Debatte, bei der es thematisch nicht vorgegeben ist, zu einer Philippika gegen die Arbeit des Finanzministers und der Bundesregierung nutzen würde. Er hat das getan, indem er gesagt hat, die Regierung habe sich über das Gesetz hinweggesetzt. Das steht ein bißchen in Widerspruch zu dem, was er an anderer Stelle gesagt hat. Auf der einen Seite sagt er, das Gesetz müsse geändert werden. Auf der anderen Seite sagt er, die Regierung halte das Gesetz nicht ein.</p>
           <p>Die SPD hat angekündigt, sie werde das Verwaltungshandeln der Regierung, das Finanzgebaren in Karlsruhe überprüfen lassen.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Gestatten Sie eine Zwischenfrage des Kollegen Diller?</p>
         </sp>
-        <sp who="Dietrich Austermann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Dietrich Austermann">
+        <sp who="Dietrich Austermann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Dietrich Austermann" party="CDU" name="Dietrich Austermann">
           <speaker>Dietrich Austermann (CDU/CSU):</speaker>
           <p>Ja, bitte.</p>
         </sp>
-        <sp who="Karl Diller" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Karl Diller">
+        <sp who="Karl Diller" parliamentary_group="SPD" role="mp" position="NA" who_original="Karl Diller" party="SPD" name="Karl Diller">
           <speaker>Karl Diller (SPD):</speaker>
-          <p>Herr Kollege Austermann, da Ihr Redebeitrag offensichtlich nur dem einzigen Zweck dient, Zeit zu schinden, damit noch genügend Kolleginnen und Kollegen Ihrer Fraktionen zusammenkommen, versichere ich Ihnen: Wir werden uns bei der Abstimmung der Stimme enthalten. Sie können Ihre Rede beenden. Wir können zur Abstimmung kommen. </p>
+          <p>Herr Kollege Austermann, da Ihr Redebeitrag offensichtlich nur dem einzigen Zweck dient, Zeit zu schinden, damit noch genügend Kolleginnen und Kollegen Ihrer Fraktionen zusammenkommen, versichere ich Ihnen: Wir werden uns bei der Abstimmung der Stimme enthalten. Sie können Ihre Rede beenden. Wir können zur Abstimmung kommen.</p>
           <stage type="interjection">(Heiterkeit bei der SPD und dem BÜND- NIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dietrich Austermann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Dietrich Austermann">
+        <sp who="Dietrich Austermann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Dietrich Austermann" party="CDU" name="Dietrich Austermann">
           <speaker>Dietrich Austermann (CDU/CSU):</speaker>
           <p>Ich gehe davon aus, Herr Kollege Diller, daß die SPD sowohl vor der Bundestagswahl, also zum gegenwärtigen Zeitpunkt, wie auch nach der Bundestagswahl nicht alleine wird sagen können, was in Deutschland zu geschehen habe, da sie nicht die Mehrheit hat. Wenn Sie also für Ihre Fraktion erklären, sie wolle sich der Stimme enthalten, mag es gleichwohl so sein, daß andere destruktive Kräfte die Gelegenheit wahrnehmen, eine vorübergehende Minderheit zu ihrem Vorteil zu nutzen.</p>
           <stage type="interjection">(Lachen bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN -- Eckart Kuhlwein [SPD]: Jetzt ist aber Schluß! Hol doch mal fünf rein bei euch! Dann ist alles klar!)</stage>
           <p>Ich will den Punkt noch einmal aufnehmen, auch im Hinblick auf die anwesenden Zuhörer. Sie haben der Bundesregierung vorgeworfen, daß sie gesetzliche Regelungen in der Praxis nicht einhalte und daß Sie wegen des Haushaltsgebarens gezwungen seien, das Bundesverfassungsgericht anzurufen. Ich kann dazu nur feststellen: Es gibt bereits konkrete Entscheidungen von Verfassungsgerichten, wer wann wo die Haushaltskriterien verletzt hat.</p>
           <p>Eine solche Entscheidung gibt es bezogen auf das Land Niedersachsen. Für das letzte Haushaltsjahr ist Herrn Schröder bestätigt worden, daß er die Verfassung nicht eingehalten hat. Das Land ist praktisch pleite. Eine solche Entscheidung gibt es auch bezogen auf das Saarland, das Land, in dem Herr Lafontaine regiert und in dem nicht nur der Rechnungshof gesagt hat, die Regierung verhalte sich verfassungswidrig. Eine solche Entscheidung gibt es ebenfalls für das Land Schleswig-Holstein, regiert von Frau Simonis, wo der Rechnungshof eindeutig gesagt hat, was dort mit der Verscherbelung von Staatsvermögen passiere, sei rechtlich nicht in Ordnung. Wer also im finanzpolitischen Glashaus sitzt, sollte nicht sagen, hier regiere das Chaos.</p>
-          <p>Der zweite Punkt. Es geht darum, ob wir jetzt eine Haushaltssperre verhängen sollten oder nicht. Nun kann doch derjenige, der schon vor einem halben Jahr gesagt hat, er wisse ganz genau, welche Haushaltssituation und welche neuen Löcher sich zu welchem Zeitpunkt ergeben würden, jetzt nicht die richtige, vernünftige, im Gesetz vorgesehene Entscheidung des Bundesfinanzministers, nämlich eine Sperre nach   41 BHO zu verhängen, kritisieren. Es handelt sich hier, lieber Kollege Diller, nicht um den letzten Strohhalm. Wer verantwortlich handelt, unterstützt den Finanzminister und sorgt damit dafür, daß die Entscheidungen getroffen werden, die möglichst einen sparsamen Umgang mit den Haushaltsmitteln gewährleisten und die sicherstellen, daß wir die Maastricht-Kriterien erfüllen. Dies haben wir angestrebt; dies ist unser Ziel. Ich denke, daß wir durch die Haushaltssperre die entsprechenden Mittel auch bei der praktischen Haushaltsdurchführung einsparen werden.</p>
+          <p>Der zweite Punkt. Es geht darum, ob wir jetzt eine Haushaltssperre verhängen sollten oder nicht. Nun kann doch derjenige, der schon vor einem halben Jahr gesagt hat, er wisse ganz genau, welche Haushaltssituation und welche neuen Löcher sich zu welchem Zeitpunkt ergeben würden, jetzt nicht die richtige, vernünftige, im Gesetz vorgesehene Entscheidung des Bundesfinanzministers, nämlich eine Sperre nach § 41 BHO zu verhängen, kritisieren. Es handelt sich hier, lieber Kollege Diller, nicht um den letzten Strohhalm. Wer verantwortlich handelt, unterstützt den Finanzminister und sorgt damit dafür, daß die Entscheidungen getroffen werden, die möglichst einen sparsamen Umgang mit den Haushaltsmitteln gewährleisten und die sicherstellen, daß wir die Maastricht-Kriterien erfüllen. Dies haben wir angestrebt; dies ist unser Ziel. Ich denke, daß wir durch die Haushaltssperre die entsprechenden Mittel auch bei der praktischen Haushaltsdurchführung einsparen werden.</p>
           <stage type="interjection">(Eckart Kuhlwein [SPD]: Jetzt kannst du aufhören! -- Jörg Tauss [SPD]: Jetzt sind alle da!)</stage>
           <p>Der letzte Punkt, den ich ansprechen möchte, ist: Wer dieses Haushaltsgebaren kritisiert, sollte bitte der Öffentlichkeit auch deutlich machen, wo denn seine Alternativen sind. Ich habe in dieser Debatte bisher nicht gehört, daß Sie vorgeschlagen hätten, an der und der Stelle solle diese oder jene Ausgabe gekürzt werden und an der und der Stelle könnten wir Mehreinnahmen erzielen. Statt dessen gab es sowohl im Bundesrat wie auch im Bundestag selbst und im Haushaltsausschuß alle möglichen Versuche, die Mehrheit an der vernünftigen Arbeit im Interesse des Landes zu behindern.</p>
           <stage type="interjection">(Jörg Tauss [SPD]: Oje, oje!)</stage>
@@ -2031,9 +2031,9 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
-          <p>Ich schließe die Aussprache. </p>
+          <p>Ich schließe die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über den von der Bundesregierung eingebrachten Gesetzentwurf zur Fortentwicklung des Haushaltsrechts von Bund und Ländern; das sind die Drucksachen 13/8293 und 13/8875. Ich bitte diejenigen, die dem Gesetzentwurf in der Ausschußfassung zustimmen wollen, um das Handzeichen. -- Gegenprobe! -- Enthaltungen? -- Der Gesetzentwurf ist damit in zweiter Beratung mit den Stimmen der Koalitionsfraktionen gegen die Stimmen von Bündnis 90/Die Grünen und der Gruppe der PDS bei Stimmenthaltung der SPD angenommen.</p>
           <p>Wir kommen zur</p>
           <p>dritten Beratung</p>
@@ -2048,7 +2048,7 @@
           <p>Berichterstattung:</p>
           <p>Abgeordnete Hans-Wilhelm Pesch</p>
           <p>Walter Schöler</p>
-          <p>b) Bericht des Haushaltsausschusses (8. Ausschuß) gemäß   96 der Geschäftsordnung</p>
+          <p>b) Bericht des Haushaltsausschusses (8. Ausschuß) gemäß § 96 der Geschäftsordnung</p>
           <p>-- Drucksache 13/8887 --</p>
           <p>Berichterstattung:</p>
           <p>Abgeordnete Dieter Pützhofen</p>
@@ -2094,7 +2094,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="3" what="debate" desc="a) Erste Beratung des von den Abgeordneten Dr. Uwe-Jens Heuer, Dr. Gregor Gysi u...">
-        <sp who="Dr. Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Gregor Gysi">
+        <sp who="Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" who_original="Gregor Gysi" party="PDS" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (PDS):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! In allen Parteien, nicht nur in der PDS, wird über Politikverdrossenheit und zum Teil auch über Demokratieverdrossenheit in unserer Gesellschaft geklagt. Das ist tatsächlich ein Problem. Ich denke, daß es deshalb auch Aufgabe der Politik sein muß, sich selber interessanter zu machen. Dazu gehört die Erweiterung des Wahlrechts. Das heißt, wir sollten die Fragen erörtern, wie man die Bundestagswahlen und auch die Wahlen zum Europäischen Parlament attraktiver gestalten kann, wie mehr Bürgerinnen und Bürger in die politische Auseinandersetzung einbezogen werden können und wie mehr unmittelbare Demokratie durch das Wahlrecht entstehen kann.</p>
           <p>Wir haben Ihnen nun vorgeschlagen, Art. 38 des Grundgesetzes zu ändern, und zwar durch Aufnahme zweier neuer Gesichtspunkte. Erstens wollen wir, daß Jugendliche ab Vollendung des 16. Lebensjahres die Möglichkeit haben, den Bundestag und auch das Europäische Parlament zu wählen, das heißt ein aktives Wahlrecht bekommen.</p>
@@ -2114,24 +2114,24 @@
           <p>Bitte vergessen Sie nicht, daß das Bundesverfassungsgericht in der Frage der Überhangmandate eine Vier-zu-vier-Entscheidung getroffen hat. Das heißt, es wäre durchaus denkbar, daß bei der Neuwahl einer Richterin oder eines Richters ein Fünf-zu-drei-Verhältnis in der Frage entstünde, ob Überhangmandate grundgesetzwidrig sind oder nicht. Stellen Sie sich einmal vor, Sie nähmen jetzt keine Gesetzesänderung vor und es gäbe eine neue Zusammensetzung des Senats. Nach der nächsten Wahl würde eine Grundgesetzwidrigkeit festgestellt, und dann müßten wir sehr vieles wiederholen und würden bei der Bevölkerung, glaube ich, einen ausgesprochen schlechten Ruf bekommen, weil wir vorher die Möglichkeit zu einer Gesetzesänderung hatten und sie nicht genutzt haben.</p>
           <p>Ich denke also, hier ist unbedingt eine Änderung angebracht, zumal sich die Bürgerinnen und Bürger darauf verlassen müssen, daß die Zweitstimmen, so wie es auf jedem Wahlschein steht, letztlich entscheidend für die Zusammensetzung des Bundestages sind.</p>
           <p>Wir haben ferner vorgeschlagen -- aus Zeitgründen kann ich nicht weiter darauf eingehen --, die Fünfprozenthürde zu streichen. Wir sind immer noch der Meinung, daß das eine Fehlkonstruktion und der Versuch der Parteien im Bundestag ist, sich gegenüber anderen Parteien, die draußen sind, abzuschotten. Ich kann die Vergleiche mit der Weimarer Republik nicht akzeptieren. Wir haben eine demokratische Grundstruktur. Daher brauchen wir die Fünfprozenthürde nicht, um die Wiederholung der Verhältnisse in der Weimarer Republik zu verhindern. Hinzu kommt: Andere Länder haben keine Fünfprozenthürde; ihre Demokratie ist trotzdem nie gefährdet gewesen.</p>
-          <p>Auch in meiner Partei wird manchmal das Argument vorgetragen, dann könnten aber auch rechtsgerichtete Parteien in den Bundestag einziehen. </p>
+          <p>Auch in meiner Partei wird manchmal das Argument vorgetragen, dann könnten aber auch rechtsgerichtete Parteien in den Bundestag einziehen.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege Gysi!</p>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Gregor Gysi">
+        <sp who="Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" who_original="Gregor Gysi" party="PDS" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (PDS):</speaker>
           <p>Noch zwei Sätze.</p>
           <p>Dazu will ich nur sagen: Probleme löst man nicht dadurch, daß man sie nicht sichtbar macht, sondern dadurch, daß man sie an der Wurzel packt. Das ist das Entscheidende.</p>
           <p>Letztlich haben wir vorgeschlagen -- das halte ich für ganz wichtig, um Fortschritte in bezug auf die Demokratie zu erzielen --, daß die Bürgerinnen und Bürger künftig auch die Möglichkeit haben müssen, auf den Landeslisten der Parteien selber eine Auswahl zu treffen, so daß nicht die Parteien alleine über die Reihenfolge bestimmen, sondern die Wählerinnen und Wähler mitbestimmen können. Dann würden Abgeordnete nämlich nicht nur darum kämpfen, einen entsprechenden Listenplatz durch die Partei zu bekommen, sondern dann müßten sie zugleich bei den Wählerinnen und Wählern darum kämpfen, daß sie auf den Listen auch noch angekreuzt werden.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Michael Teiser, CDU/CSU.</p>
         </sp>
-        <sp who="Michael Teiser" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Teiser">
+        <sp who="Michael Teiser" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Teiser" party="CDU" name="Michael Teiser">
           <speaker>Michael Teiser (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Herr Kollege Gysi, Ihr Beispiel von demjenigen, der aus Chile kommt und drei Monate vor der Wahl hier seinen Wohnsitz nimmt, um dann diesen Kanzler zu wählen, kann ich sehr gut nachvollziehen; denn es ist wichtig, daß dieser Kanzler wiedergewählt wird. Dafür lohnt es sich auch, daß man extra aus Chile anreist und hier drei Monate seinen Wohnsitz nimmt.</p>
           <stage type="interjection">(Beifall des Abg. Uwe Lühr [F.D.P.] -- Lachen bei der PDS)</stage>
@@ -2158,51 +2158,51 @@
           <p>Ich bedanke mich für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Wiefelspütz, SPD.</p>
         </sp>
-        <sp who="Dieter Wiefelspütz" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dieter Wiefelspütz">
+        <sp who="Dieter Wiefelspütz" parliamentary_group="SPD" role="mp" position="NA" who_original="Dieter Wiefelspütz" party="SPD" name="Dieter Wiefelspütz">
           <speaker>Dieter Wiefelspütz (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Wir bekommen ja häufiger Besuch von Parlamentariern aus dem Ausland, zum Teil von weither. Mit unseren Gästen reden wir auch häufiger über das Wahlrecht. Insbesondere wenn Vertreter aus sogenannten jungen Demokratien zu uns kommen, unterhalten wir uns sehr häufig über Probleme des Wahlrechts, weil man fragt: Wie macht ihr das in Deutschland?</p>
           <p>Herr Gysi, ich stelle bei meinen Gesprächen immer wieder fest, daß unser Wahlrecht in Deutschland sehr hoch eingeschätzt wird. Unser Wahlrecht ist fast ein -- auch wenn der Ausdruck vielleicht nicht ganz präzise ist -- Exportartikel geworden. Viele junge Demokratien interessieren sich für unser Wahlrecht, weil sie der Auffassung sind, daß das Wahlrecht in der Bundesrepublik Deutschland zumindest einen wichtigen Beitrag zu einer stabilen demokratischen Kultur geleistet hat, die auch bestimmte Belastungen ausgehalten hat, aushält und hoffentlich auch in Zukunft aushalten wird.</p>
           <stage type="interjection">(Beifall bei der SPD sowie des Abgeordneten Detlef Kleinert [Hannover] [F.D.P.])</stage>
-          <p>Das schließt nicht aus, daß wir in verschiedenen Bereichen durchaus offen sein sollten für Weiterentwicklungen. </p>
+          <p>Das schließt nicht aus, daß wir in verschiedenen Bereichen durchaus offen sein sollten für Weiterentwicklungen.</p>
           <p>Unsere Position ist: Wir stehen grundsätzlich zu unserem Wahlrecht, aber es gibt durchaus zwei, drei Punkte, wo sich Nachdenken lohnt und wo auch Weiterentwicklungen nötig sind. Ich will freimütig sagen: Das, was hier von der PDS vorgeschlagen wird, verdient eine sorgfältige Debatte in den Fachberatungen. In einigen Punkten sind wir dezidiert gegen Ihre Vorschläge; bei anderen lohnt sich eine Diskussion; da sind wir noch nicht am Ende. In weiteren Punkten finden wir sogar Positionen, die auch unsere eigenen sind.</p>
           <p>Ich will das ganz kurz durchgehen. Die SPD hat auf ihrem Jugendparteitag einen Beschluß erwirkt, der das Wahlrecht für 16 jährige beinhaltet. Ich will freimütig sagen: Das ist in der SPD nicht unumstritten, aber wir haben hierfür eine Mehrheitsentscheidung. Das ist auch in der SPD-Bundestagsfraktion nicht unumstritten. Wir sollten das aber sehr sachverständig beraten. Wir werden in diesem Punkt aufgeschlossen sein und das Ergebnis unserer Beratungen mittragen.</p>
           <p>Ich bin aber der Auffassung, wir sollten einmal in Ruhe überlegen, ob die Rechte und Pflichten von 16 jährigen auch wirklich stimmig sind. Das sollte man sich einmal im Gesamtzusammenhang anschauen. Ich habe ein bißchen die Sorge, daß wir Kindheit und Jugend, gesamtgesellschaftlich gesehen, immer enger zusammendrücken. Die Frage ist, ob man einen jungen Menschen unter Umständen nicht auch überfordert.</p>
           <p>Wenn wir, Herr Gysi, das mit jungen Leuten diskutieren -- wie Sie das getan haben und wie auch ich es regelmäßig tue --, stelle ich eigentümlicherweise immer wieder fest: Bei 16-, 17 jährigen gibt es eine deutliche Mehrheit gegen das Wahlrecht für 16 jährige. Ich sage das einmal so als Nachricht. Es überrascht mich immer wieder, daß sie es selber nicht wollen. Trotzdem glaube ich, daß wir uns dem öffnen sollten, weil es vielleicht doch eine Chance sein könnte, junge Menschen stärker einzubinden. Wir sollten diese Frage noch einmal ernsthaft und verantwortlich miteinander diskutieren und darum ringen, ob das ein richtiger und geeigneter Weg ist.</p>
-          <p>Ob den Ausländern schon bei fünfjähriger Anwesenheit oder erst bei sechs-, sieben- oder achtjähriger Anwesenheit in Deutschland das Wahlrecht zugebilligt werden sollte, darüber kann man reden. Ministerpräsident Johannes Rau hat hier schon einmal in einem anderen Zusammenhang deutlich gemacht, daß es keinen vernünftigen Grund gibt, Menschen, die lange Zeit hier sind, das Wahlrecht vorzuenthalten. </p>
+          <p>Ob den Ausländern schon bei fünfjähriger Anwesenheit oder erst bei sechs-, sieben- oder achtjähriger Anwesenheit in Deutschland das Wahlrecht zugebilligt werden sollte, darüber kann man reden. Ministerpräsident Johannes Rau hat hier schon einmal in einem anderen Zusammenhang deutlich gemacht, daß es keinen vernünftigen Grund gibt, Menschen, die lange Zeit hier sind, das Wahlrecht vorzuenthalten.</p>
           <p>Auf der kommunalen und auf der Landesebene wird das zum Teil schon gemacht. Wir sollten im Rahmen einer Verfassungsänderung darüber reden, ob man es für Ausländer auch auf der Ebene der Bundestags- und der Europawahlen machen kann. In dieser Frage sind wir aufgeschlossen. Wir sollten das sorgfältig miteinander besprechen.</p>
           <p>Die Fünfprozentklausel wollen wir beibehalten. Herr Gysi, ich bin der Auffassung, daß im Wahlrecht Kontinuität eine große Rolle spielt. Was nicht passieren darf: Wir sollten uns nicht interessengeleitet das Wahlrecht maßgeschneidert zurechtlegen. Das gilt für alle. Das gilt für große Parteien, aber auch kleine Parteien sollten aufpassen, daß sie jetzt nicht Vorschläge machen, die eindeutig die Interessen des Urhebers erkennbar machen.</p>
           <stage type="interjection">(Widerspruch bei der PDS)</stage>
           <p>-- Das gilt für alle Beteiligten. Ich sage es sehr deutlich.</p>
-          <p>Die Fünfprozentklausel hat sich in der Bundesrepublik Deutschland bewährt. Wir werden sie nicht ändern wollen. Dafür wird es in diesem Hause keine Mehrheit geben. Es ist ja auch weniger ein rechtliches -- das haben wir kürzlich noch einmal vom Bundesverfassungsgericht bestätigt bekommen -- als eher ein verfassungspolitisches Problem. Wir werden hier mit großer Mehrheit sagen: Wir wollen weiterhin die Fünfprozentklausel haben. </p>
+          <p>Die Fünfprozentklausel hat sich in der Bundesrepublik Deutschland bewährt. Wir werden sie nicht ändern wollen. Dafür wird es in diesem Hause keine Mehrheit geben. Es ist ja auch weniger ein rechtliches -- das haben wir kürzlich noch einmal vom Bundesverfassungsgericht bestätigt bekommen -- als eher ein verfassungspolitisches Problem. Wir werden hier mit großer Mehrheit sagen: Wir wollen weiterhin die Fünfprozentklausel haben.</p>
           <p>Ich glaube auch nicht, daß es eine Mehrheit für Präferenzstimmen bei der Wahl von Landeslisten geben wird. Auf der Landesebene haben wir vergleichbare Systeme in Baden-Württemberg und in Bayern, die sehr interessant sind. Wir sollten aber unser bewährtes Bundestagswahlsystem nicht verändern. Man könnte es verändern; aber ich glaube nicht, daß es uns entscheidend weiterbringt. Hier sind Stabilität und Kontinuität ein großer Wert. Deshalb sollten wir das bisherige System beihalten.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege Wiefelspütz, gestatten Sie eine Zwischenfrage des Kollegen Gysi?</p>
         </sp>
-        <sp who="Dieter Wiefelspütz" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dieter Wiefelspütz">
+        <sp who="Dieter Wiefelspütz" parliamentary_group="SPD" role="mp" position="NA" who_original="Dieter Wiefelspütz" party="SPD" name="Dieter Wiefelspütz">
           <speaker>Dieter Wiefelspütz (SPD):</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Gregor Gysi">
+        <sp who="Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" who_original="Gregor Gysi" party="PDS" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (PDS):</speaker>
           <p>Kollege Wiefelspütz, wir haben gerade die Erfahrungen aus Bayern ausgewertet und festgestellt, daß dieses System wirklich zu einer Belebung bei Wahlen geführt hat. Ich erinnere an das berühmte Beispiel: Frau Hamm-Brücher stand ursprünglich auf der Landesliste ganz unten und hat durch die Wählerinnen und Wähler einen vorderen Listenplatz erhalten. Das war für sie Anlaß, ihre politische Rolle in dieser Gesellschaft wahrzunehmen.</p>
           <p>Was mich interessiert, ist: Wir haben doch das Problem -- und zwar in allen Parteien, das gilt für die PDS genauso wie für die anderen --, daß man vier Jahre lang gezwungen ist, darum zu ringen, vom eigenen Landesverband möglichst einen günstigeren Listenplatz als bei der vorangegangenen Wahl zu bekommen, so daß also in Wirklichkeit die eigene Partei über meine Chancen entscheidet. Denn in etwa kennt man ja die zu erreichenden Prozentzahlen bei Wahlen.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Sie wollen fragen!</p>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Gregor Gysi">
+        <sp who="Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" who_original="Gregor Gysi" party="PDS" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (PDS):</speaker>
           <p>Herr Präsident, ich akzeptiere das.</p>
           <p>Meine Frage ist: Wäre es nicht eine Belebung von Demokratie und auch der Auseinandersetzung im Rahmen der Bundestagswahlen, wenn ich auf der einen Seite darum kämpfen muß, daß meine Partei mich auf die Liste setzt, und auf der anderen Seite darum kämpfen muß, daß die Wählerinnen und Wähler meinen Namen auf der Liste auch ankreuzen, damit ich tatsächlich in das Parlament einziehe? Könnte das nicht zu einer wirklichen Belebung der Demokratie führen, wie die Erfahrungen in Bayern zum Beispiel beweisen?</p>
         </sp>
-        <sp who="Dieter Wiefelspütz" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dieter Wiefelspütz">
+        <sp who="Dieter Wiefelspütz" parliamentary_group="SPD" role="mp" position="NA" who_original="Dieter Wiefelspütz" party="SPD" name="Dieter Wiefelspütz">
           <speaker>Dieter Wiefelspütz (SPD):</speaker>
           <p>Herr Gysi, lassen Sie uns doch vereinbaren, daß wir uns die Erfahrungen von Bayern und auch von Baden-Württemberg hier im Bundestag noch einmal schildern lassen und ernsthaft würdigen, um auf diese Weise eine Entscheidungsgrundlage zu haben. Meine Einschätzung ist die: Wir werden bei unserem -- wie ich glaube: bewährten -- System bleiben. Es spricht aber nichts dagegen, einmal darüber zu sprechen, ob die von Ihnen genannte Änderung für Bundestagswahlen Sinn machen könnte. Ich bezweifle das eher. Aber Ihr Vorschlag liegt auf dem Tisch. Wir werden darüber sprechen wollen und auch müssen.</p>
           <p>Ein wichtiger Punkt ist die Kompensation von Überhangmandaten. Da ist die Position der SPD ja bekannt. Wir sind nicht gegen Überhangmandate, sondern dagegen, daß Überhangmandate eine oder einige Parteien gegenüber anderen bevorteilen. Ich halte das verfassungspolitisch nicht für überzeugend.</p>
@@ -2214,15 +2214,15 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der PDS sowie des Abg. Detlef Kleinert [Hannover] [F.D.P.])</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Gerald Häfner, Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Gerald Häfner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Gerald Häfner">
+        <sp who="Gerald Häfner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Gerald Häfner" party="GRUENE" name="Gerald Häfner">
           <speaker>Gerald Häfner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Die PDS ist auf den Geschmack gekommen. Mich freut das. Ihre Partei hat jetzt schon einige Male an demokratischen Wahlen teilgenommen. Sie genießen das; das gebührt Ihnen auch. Jetzt denken Sie schon darüber nach, wie man das Wahlverfahren verbessern kann.</p>
           <stage type="interjection">(Gerhard Zwerenz [PDS]: Manche von uns haben schon teilgenommen, da waren Sie noch gar nicht dabei!)</stage>
-          <p>-- Das weiß ich, Herr Zwerenz. Aber regen Sie sich nicht so auf, wir begrüßen Ihre Vorschläge ja; sie gehen fast alle in Richtung auf mehr Demokratie und mehr Beteiligung. Das halten wir für sinnvoll, und deshalb unterstützen wir sie. </p>
+          <p>-- Das weiß ich, Herr Zwerenz. Aber regen Sie sich nicht so auf, wir begrüßen Ihre Vorschläge ja; sie gehen fast alle in Richtung auf mehr Demokratie und mehr Beteiligung. Das halten wir für sinnvoll, und deshalb unterstützen wir sie.</p>
           <p>Allerdings -- Sie werden mir nachsehen, daß ich darauf hinweise -- gibt es in Ihren Vorschlägen nicht viel Neues. Es ist nicht ein Vorschlag dabei, den ich nicht schon kenne -- und das meine ich in diesem Fall ganz persönlich. Fast alle Vorschläge und Entwürfe, die Sie hier eingebracht haben, sind bereits von der Fraktion Bündnis 90/Die Grünen eingebracht worden. Sie stammen, Herr Gysi -- übrigens einschließlich der beiden Beispiele, die Sie eben gebracht haben, nämlich Chile und Frau Hamm-Brücher --, aus meiner Feder. Deswegen habe ich mir schon überlegt, ob wir nicht eine Zweitverwertungsgebühr für Fälle des Recyclings grüner Gesetzentwürfe durch die PDS beanspruchen sollten.</p>
           <stage type="interjection">(Ulrich Heinrich [F.D.P.]: Wissen Sie nicht, daß Abschreiben in der Politik erlaubt ist?)</stage>
           <p>-- Abschreiben ist erlaubt. Aber man muß es doch nicht so offensichtlich machen, wie die das tun.</p>
@@ -2235,63 +2235,63 @@
           <stage type="interjection">(Dr. Gregor Gysi [PDS]: In der 12. waren wir es!)</stage>
           <p>-- Das freut mich, Herr Gysi. -- Ich verhehle nicht, daß ich es für erheblich demokratischer halte, wenn die Bürgerinnen und Bürger nicht nur eine starr vorgegebene Liste ankreuzen, auf der die künftige personelle Zusammensetzung des Parlaments von den Parteien schon weitgehend entschieden ist, sondern die Bürgerinnen und Bürger auch innerhalb der Listen die Möglichkeit der Auswahl beispielsweise von Kandidaten haben, die sie unterstützen wollen, die aber von der Partei auf einen unteren Listenplatz gesetzt wurden.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege Häfner, gestatten Sie eine Zwischenfrage?</p>
         </sp>
-        <sp who="Gerald Häfner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Gerald Häfner">
+        <sp who="Gerald Häfner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Gerald Häfner" party="GRUENE" name="Gerald Häfner">
           <speaker>Gerald Häfner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Grundsätzlich immer und von Herrn Wiefelspütz besonders gerne.</p>
         </sp>
-        <sp who="Dieter Wiefelspütz" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dieter Wiefelspütz">
+        <sp who="Dieter Wiefelspütz" parliamentary_group="SPD" role="mp" position="NA" who_original="Dieter Wiefelspütz" party="SPD" name="Dieter Wiefelspütz">
           <speaker>Dieter Wiefelspütz (SPD):</speaker>
           <p>Ich überlege mir, was ich Ihnen nach der Sitzung dazu sage, Herr Häfner.</p>
         </sp>
-        <sp who="Gerald Häfner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Gerald Häfner">
+        <sp who="Gerald Häfner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Gerald Häfner" party="GRUENE" name="Gerald Häfner">
           <speaker>Gerald Häfner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ist Ihnen so schnell nichts eingefallen? So kenne ich Sie gar nicht.</p>
         </sp>
-        <sp who="Dieter Wiefelspütz" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dieter Wiefelspütz">
+        <sp who="Dieter Wiefelspütz" parliamentary_group="SPD" role="mp" position="NA" who_original="Dieter Wiefelspütz" party="SPD" name="Dieter Wiefelspütz">
           <speaker>Dieter Wiefelspütz (SPD):</speaker>
           <p>Ich möchte beim parlamentarischen Anstand bleiben und Sie nicht öffentlich beleidigen.</p>
         </sp>
-        <sp who="Gerald Häfner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Gerald Häfner">
+        <sp who="Gerald Häfner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Gerald Häfner" party="GRUENE" name="Gerald Häfner">
           <speaker>Gerald Häfner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
-          <p>Das vermeiden wir beide regelmäßig. </p>
+          <p>Das vermeiden wir beide regelmäßig.</p>
         </sp>
-        <sp who="Dieter Wiefelspütz" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dieter Wiefelspütz">
+        <sp who="Dieter Wiefelspütz" parliamentary_group="SPD" role="mp" position="NA" who_original="Dieter Wiefelspütz" party="SPD" name="Dieter Wiefelspütz">
           <speaker>Dieter Wiefelspütz (SPD):</speaker>
-          <p>Herr Häfner, ich wollte von Ihnen als Bayer gerne einmal hören, wie Sie Ihre Erfahrungen in Bayern beurteilen. Wir haben bei Bundestagswahlen seit 45 Jahren ein Wahlrecht ohne diese Besonderheiten. Würden Sie uns angesichts Ihrer einige Jahrzehnte umfassenden Erfahrungen in Bayern wirklich entsprechende Änderungen empfehlen? </p>
+          <p>Herr Häfner, ich wollte von Ihnen als Bayer gerne einmal hören, wie Sie Ihre Erfahrungen in Bayern beurteilen. Wir haben bei Bundestagswahlen seit 45 Jahren ein Wahlrecht ohne diese Besonderheiten. Würden Sie uns angesichts Ihrer einige Jahrzehnte umfassenden Erfahrungen in Bayern wirklich entsprechende Änderungen empfehlen?</p>
         </sp>
-        <sp who="Gerald Häfner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Gerald Häfner">
+        <sp who="Gerald Häfner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Gerald Häfner" party="GRUENE" name="Gerald Häfner">
           <speaker>Gerald Häfner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Wenn Sie, Herr Wiefelspütz -- was ich vermute -- in Ihren Hintergedanken bestimmte unerfreuliche Verhältnisse der bayerischen Politik beklagen, so möchte ich Ihnen entgegnen, daß diese nach meiner Überzeugung nicht am Wahlrecht liegen. Ich bin der Meinung, daß es für die Bürgerinnen und Bürger tatsächlich ein erhebliches Mehr an Demokratie bringt, wenn sie auf den Listen auswählen können. Der Charme dieser Regelung besteht im übrigen auch darin -- das mag vielen Parteipolitikern, auch meinen Kollegen, nicht gefallen; das räume ich offen ein --, daß man nicht nur auf einer Liste, sondern auch zwischen den Listen auswählen kann. Das heißt, es ist beispielsweise durchaus möglich, die Grünen zu wählen und dabei trotzdem noch einen Kandidaten oder eine Kandidatin der SPD anzukreuzen, weil man die betreffende Person gut findet und sie ebenfalls unterstützen möchte.</p>
           <p>Die Wählerinnen und Wähler in Bayern haben das sehr gut verstanden und machen davon regen und bewußten Gebrauch.</p>
-          <p>Über die sonstigen Verhältnisse in Bayern werde ich wahrscheinlich mit Ihnen gemeinsam dasselbe Klagelied anstimmen. Aber, wie gesagt, ich glaube, daß die in manchem rückständigen politischen Zustände in Bayern ihre Ursache nicht im Wahlrecht finden, sondern daß diese in anderen Umständen begründet sind, die jetzt in diesem Zusammenhang keine Rolle spielen. </p>
+          <p>Über die sonstigen Verhältnisse in Bayern werde ich wahrscheinlich mit Ihnen gemeinsam dasselbe Klagelied anstimmen. Aber, wie gesagt, ich glaube, daß die in manchem rückständigen politischen Zustände in Bayern ihre Ursache nicht im Wahlrecht finden, sondern daß diese in anderen Umständen begründet sind, die jetzt in diesem Zusammenhang keine Rolle spielen.</p>
           <p>Ich kann also die bayerische Regelung zum Kumulieren und Panaschieren -- darum ging es ja bei Ihrer Frage -- durchaus auch aus meinen eigenen Erfahrungen zur Nachahmung empfehlen. Wir praktizieren dieses Wahlverfahren in Bayern übrigens nicht nur bei Landtagswahlen, sondern auch bei Kommunalwahlen. Das hat sich durchaus bewährt.</p>
           <p>Solange Wahlen die einzige Möglichkeit darstellen, wie die Bürgerinnen und Bürger in diesem Staat die Staatsgewalt auf Bundesebene ausüben können -- im Grundgesetz heißt es ja schließlich: "Alle Staatsgewalt geht vom Volke aus. Sie wird vom Volke in Wahlen und Abstimmungen... ausgeübt." --, ist es wichtig, daß diese Wahlen als einzige Möglichkeit der Mitbestimmung so demokratisch wie möglich sind, daß nicht die Ergebnisse verzerrt werden können, daß sie allen denselben Einfluß ermöglichen und daß sie für alle durchschaubar sind. Und es ist wichtig, daß diese elementaren Spielregeln der Demokratie möglichst auch von allen politischen Parteien im Konsens beschlossen werden.</p>
           <p>Ich halte die Vorschläge, die von der PDS vorgelegt worden sind, für begrüßenswert und für unterstützenswert. Ich meine allerdings, daß man dabei nicht stehenbleiben sollte. Ich bin mit Nachdruck der Meinung, daß die Beteiligung der Bürgerinnen und Bürger über die Teilnahme an Wahlen hinausgehen muß. Ich meine, daß wir auf allen Ebenen -- das heißt: auch auf der Bundesebene -- die Möglichkeit von Volksinitiativen, Volksbegehren und Volksentscheiden brauchen.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
           <p>Ich meine weiter, daß wir auch eine Verstärkung der Bürgerbeteiligung bei Planungsverfahren brauchen. Und ich meine, daß wir Verbandsklagerechte und Akteneinsichtsrechte brauchen. Das heißt, das Programm für mehr Demokratie in diesem Land geht über Ihre durchaus begrüßenswerten Anträge weit hinaus.</p>
-          <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der PDS) </stage>
+          <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
-          <p>Das Wort hat der Kollege Kleinert, F.D.P. </p>
+          <p>Das Wort hat der Kollege Kleinert, F.D.P.</p>
         </sp>
-        <sp who="Detlef Kleinert" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Detlef Kleinert">
+        <sp who="Detlef Kleinert (Hannover)" parliamentary_group="FDP" role="mp" position="NA" who_original="Detlef Kleinert (Hannover)" party="FDP" name="Detlef Kleinert">
           <speaker>Detlef Kleinert (Hannover) (F.D.P.):</speaker>
-          <p>Herr Präsident! Meine sehr verehrten Damen! Meine Herren! An sich möchte ja jede hier anwesende Partei in diesem Hause möglichst zahlreich vertreten sein. Bei einer feststehenden Zahl von Mandaten stößt sich aber dieser Wunsch etwas mit dem Streben nach Harmonie und Kollegialität. Man muß dann doch sehen, wie man die Wähler dazu bekommt, daß sie das eigene Bedürfnis nach möglichst vielen Mandaten befördern. Dessenungeachtet werden nach sorgfältiger Betrachtung der Lage immer wieder Versuche unternommen, durch eine Änderung des Wahlrechts in die eine oder andere Richtung mehr Unterstützung für die eigene Partei zu gewinnen. Diejenigen, die diese Versuche machen, laufen ein großes Risiko, weil das Ende häufig ganz anders aussieht, als man am Anfang erhoffte. Alle diese Versuche sind also in bezug auf das Ziel, durch Wahlrechtsänderungen die Situation der jeweils eigenen "Abteilung" zu verbessern, zu relativieren. Das möchte ich vorab sagen. </p>
+          <p>Herr Präsident! Meine sehr verehrten Damen! Meine Herren! An sich möchte ja jede hier anwesende Partei in diesem Hause möglichst zahlreich vertreten sein. Bei einer feststehenden Zahl von Mandaten stößt sich aber dieser Wunsch etwas mit dem Streben nach Harmonie und Kollegialität. Man muß dann doch sehen, wie man die Wähler dazu bekommt, daß sie das eigene Bedürfnis nach möglichst vielen Mandaten befördern. Dessenungeachtet werden nach sorgfältiger Betrachtung der Lage immer wieder Versuche unternommen, durch eine Änderung des Wahlrechts in die eine oder andere Richtung mehr Unterstützung für die eigene Partei zu gewinnen. Diejenigen, die diese Versuche machen, laufen ein großes Risiko, weil das Ende häufig ganz anders aussieht, als man am Anfang erhoffte. Alle diese Versuche sind also in bezug auf das Ziel, durch Wahlrechtsänderungen die Situation der jeweils eigenen "Abteilung" zu verbessern, zu relativieren. Das möchte ich vorab sagen.</p>
           <p>Ein Zweites vorab: Es ist schön, von Herrn Gysi zu hören, daß wir nun solche demokratischen Grundstrukturen haben, daß wir vor diesem Hintergrund eine Reihe von Dingen, die die Verfassungsmütter und Verfassungsväter im Hinblick auf Erfahrungen aus Weimar im Auge hatten, gar nicht mehr berücksichtigen müßten. An dieser Stelle, Herr Kollege Gysi, fällt mir ein, daß ich als Student im Radio eine Bundestagsdebatte gehört habe, in der Herr Renner rief: "Das ist undemokratisch, Herr Bundeskanzler!" Er bezog sich dabei auf irgend etwas -- ich weiß nicht mehr, was --, was Herr Adenauer ausgeführt hatte. Herr Adenauer hat daraufhin Herrn Renner mit dem Hinweis beschieden -- das habe ich sehr lebhaft in Erinnerung --: "Ach, Sie alter Demokrat." Das ist mir gerade wieder eingefallen.</p>
           <stage type="interjection">(Heiterkeit bei der F.D.P., der CDU/CSU und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Davon abgesehen: Ich möchte mit dem anfangen, was ich nicht für richtig halte. Ich halte es nicht für richtig, das Wahlalter 18 Jahre einzuführen.</p>
           <stage type="interjection">(Ulrich Heinrich [F.D.P.]: 16 Jahre! -- Gerald Häfner [BÜNDNIS 90/DIE GRÜNEN]: Das Wahlalter 18 Jahre haben wir schon!)</stage>
-          <p>-- Entschuldigung, Wahlalter 16 Jahre. -- Ich freue mich wie bei so vielen anderen Dingen, daß ich bei Herrn Wiefelspütz hier auch Zweifel habe anklingen hören. </p>
+          <p>-- Entschuldigung, Wahlalter 16 Jahre. -- Ich freue mich wie bei so vielen anderen Dingen, daß ich bei Herrn Wiefelspütz hier auch Zweifel habe anklingen hören.</p>
           <p>Der entscheidende Hinweis ist doch wohl der: Was sagen politisch interessierte Jugendliche im Gemeinschaftskundeunterricht? Was sagen sie zu der Frage, ob sie dieses Wahlalter wollen oder nicht? Die Antworten sind negativ. Leider sind auch eine Reihe anderer Antworten auf einfache Wissensfragen negativ. Das ermutigt nicht, zu glauben, eine Herabsetzung des Wahlalters sei der Entwicklung unserer Demokratie förderlich. Das aber gehört zu den Punkten, die man immer mal wieder gründlich betrachten sollte. Darum stehe ich wie die Vorredner nicht an, zu sagen, daß wir für Ihre Vorschläge dankbar sind, weil man über alles von Zeit zu Zeit mal wieder nachdenken muß.</p>
           <p>Die Frage der Überhangmandate wird meiner Ansicht nach mathematisch erheblich verkannt. Überlegen Sie mal, welche Differenzen in der Gewichtung von Wählerstimmen dadurch entstehen, daß die Wahlkreise ungleich geschnitten sind. Die Abweichungen bei der Gewichtung der einzelnen Wählerstimmen addieren sich allein durch den Zuschnitt der Wahlkreise, und zwar ungeachtet aller immer wiederkehrender Reformbemühungen, zu größeren Differenzen, als sie sich etwa bei den Überhangmandaten ergeben. Mit solchen gewissen Ungleichgewichten wird man wohl leben müssen.</p>
-          <p>Daß Sie sich über die 5 Prozent Gedanken machen, das kann ich sehr gut verstehen. </p>
+          <p>Daß Sie sich über die 5 Prozent Gedanken machen, das kann ich sehr gut verstehen.</p>
           <stage type="interjection">(Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Das ist wahr! -- Zurufe von der PDS)</stage>
-          <p>Ich verstehe das als Mitglied der Freien Demokratischen Partei sehr gut. Wir machen uns da immer mal wieder unsere Gedanken; sonst wären wir auch ganz schön blind. </p>
+          <p>Ich verstehe das als Mitglied der Freien Demokratischen Partei sehr gut. Wir machen uns da immer mal wieder unsere Gedanken; sonst wären wir auch ganz schön blind.</p>
           <stage type="interjection">(Heiterkeit im ganzen Hause)</stage>
           <p>Wir ziehen aber einen anderen Schluß als Sie. Wir versuchen, hoffnungsfroh zu kämpfen und über die Fünfprozenthürde hinwegzukommen, einen Erfolg zu erzielen, ohne am Wahlrecht herumzunörgeln und herumzubasteln.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
@@ -2300,29 +2300,29 @@
           <p>-- Ja, ich habe das schon verstanden. In der momentanen Lage ist das richtig.</p>
           <p>Zum Schluß noch ein Wort zum Panaschieren.</p>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das muß aber kurz sein!</p>
           <stage type="interjection">(Heiterkeit im ganzen Hause)</stage>
         </sp>
-        <sp who="Detlef Kleinert" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Detlef Kleinert">
+        <sp who="Detlef Kleinert (Hannover)" parliamentary_group="FDP" role="mp" position="NA" who_original="Detlef Kleinert (Hannover)" party="FDP" name="Detlef Kleinert">
           <speaker>Detlef Kleinert (Hannover) (F.D.P.):</speaker>
           <p>Ich bedanke mich sehr, Herr Präsident. -- Als Student durfte ich in Bayern wählen. Wir haben schon damals Stimmzettel in gewaltigen Zeitungsformaten bekommen. Ich erinnere mich lebhaft an meine Wahlentscheidung -- ich bin nämlich nur bis Bezold und Bungartz gekommen.</p>
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Heiterkeit im ganzen Hause -- Beifall bei der F.D.P. und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort zu einer Kurzintervention hat der Kollege Dr. Gysi.</p>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Gregor Gysi">
+        <sp who="Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" who_original="Gregor Gysi" party="PDS" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (PDS):</speaker>
-          <p>Herr Präsident! Meine Damen und Herren! Ich wollte zunächst nur etwas richtigstellen, was Sie gesagt haben, Herr Häfner. Sie haben gesagt, wir hätten in unserem Gesetzentwurf Ihren Vorschlag zur Ausschaltung von Überhangmandaten wörtlich übernommen. Das muß umgekehrt gewesen sein; denn unser Gesetzentwurf ist von Januar 1996, Ihrer ist wesentlich später gekommen. Deshalb möchte ich darum bitten, das zu korrigieren. </p>
+          <p>Herr Präsident! Meine Damen und Herren! Ich wollte zunächst nur etwas richtigstellen, was Sie gesagt haben, Herr Häfner. Sie haben gesagt, wir hätten in unserem Gesetzentwurf Ihren Vorschlag zur Ausschaltung von Überhangmandaten wörtlich übernommen. Das muß umgekehrt gewesen sein; denn unser Gesetzentwurf ist von Januar 1996, Ihrer ist wesentlich später gekommen. Deshalb möchte ich darum bitten, das zu korrigieren.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
           <p>Sie, Herr Kleinert, haben uns unterstellt, daß die Wahlrechtsänderungsvorschläge, die wir unterbreiten, im Interesse der PDS seien. Ich glaube, wenn Sie sich die Vorschläge genau ansehen, werden Sie feststellen, daß die meisten dieser Vorschläge nichts mit dem Eigeninteresse der Partei zu tun haben. Es gibt nicht einmal Hinweise darauf, daß 16- bis 17 jährige überdurchschnittlich häufig PDS wählen würden. Hier geht es vielmehr um Grundsatzfragen der Demokratie, nicht um die Interessen einer Partei.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Keine Erwiderung? -- Dann schließe ich die Aussprache.</p>
           <p>Interfraktionell wird Überweisung der Gesetzentwürfe auf den Drucksachen 13/3519, 13/3520, 13/3523 und 13/3521 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Gibt es anderweitige Vorschläge? -- Das ist nicht der Fall. Dann ist die Überweisung so beschlossen.</p>
@@ -2330,18 +2330,18 @@
           <p>Aktuelle Stunde</p>
           <p>auf Verlangen der Gruppe der PDS</p>
           <p>Haltung der Bundesregierung zu den Turbulenzen an den internationalen Finanzmärkten</p>
-          <p>Ich eröffne die Aussprache. Das Wort hat der Abgeordnete Gysi, PDS. </p>
+          <p>Ich eröffne die Aussprache. Das Wort hat der Abgeordnete Gysi, PDS.</p>
           <stage type="interjection">(Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Wo ist die Bundesregierung, Herr Präsident?)</stage>
           <p>-- Es steht Ihnen frei, sie herbeizurufen.</p>
         </sp>
       </div>
       <div type="agenda_item" n="4" what="recent_issues" desc="Aktuelle Stunde">
-        <sp who="Dr. Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Gregor Gysi">
+        <sp who="Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" who_original="Gregor Gysi" party="PDS" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (PDS):</speaker>
           <p>Wollen Sie das machen, Herr Kollege Fischer? Dann warte ich auf Ihren Ruf. -- Jetzt ist der Staatssekretär da.</p>
           <p>Herr Präsident! Meine Damen und Herren! Wir haben diese Aktuelle Stunde nicht deshalb beantragt, weil uns das Schicksal von Großaktionären und anderen Börsenspekulanten besonders am Herzen liegt -- damit hat sicher auch niemand gerechnet --, sondern weil wir auf Fehlentwicklungen hinweisen wollen, von denen wir überzeugt sind, daß sie dringend der Korrektur bedürfen.</p>
-          <p>An diesen Turbulenzen an den Börsen wird eines deutlich: Es gibt keinen Zusammenhang mehr zwischen der Wirtschaftsentwicklung und der Entwicklung der Finanzmärkte. Die Börsen reagieren völlig unabhängig von der konkreten wirtschaftlichen Situation in den betreffenden Ländern. Auf den Finanzmärkten hat wirklich eine ungeheure Globalisierung stattgefunden. </p>
-          <p>Hier gibt es ein Problem. Das Problem ist, daß die Bundesregierung 1985 alle Instrumente zur Regulierung von Kapitaltransfers -- auch zur Regulierung auf dem Aktienmarkt und damit auf dem Finanzmarkt -- beseitigt hat. Nachdem sie diese Instrumente beseitigt hat, erklärt sie jetzt immer, daß sie leider nichts machen könne. In solchen Situationen bleibt Bundesfinanzminister Waigel als einziges Instrument das Telefongespräch. Dies führt er nachts, und dadurch ändert sich natürlich auch nichts. </p>
+          <p>An diesen Turbulenzen an den Börsen wird eines deutlich: Es gibt keinen Zusammenhang mehr zwischen der Wirtschaftsentwicklung und der Entwicklung der Finanzmärkte. Die Börsen reagieren völlig unabhängig von der konkreten wirtschaftlichen Situation in den betreffenden Ländern. Auf den Finanzmärkten hat wirklich eine ungeheure Globalisierung stattgefunden.</p>
+          <p>Hier gibt es ein Problem. Das Problem ist, daß die Bundesregierung 1985 alle Instrumente zur Regulierung von Kapitaltransfers -- auch zur Regulierung auf dem Aktienmarkt und damit auf dem Finanzmarkt -- beseitigt hat. Nachdem sie diese Instrumente beseitigt hat, erklärt sie jetzt immer, daß sie leider nichts machen könne. In solchen Situationen bleibt Bundesfinanzminister Waigel als einziges Instrument das Telefongespräch. Dies führt er nachts, und dadurch ändert sich natürlich auch nichts.</p>
           <p>Wir stehen hier vor der grundsätzlichen Frage: Soll sich wirklich das Konzept der F.D.P. durchsetzen, daß Politik immer schwieriger bis unmöglich wird, das heißt, daß sich die Politik vollständig den Wirtschaftsinteressen unterordnen muß? Sollten wir nicht lieber wenigstens über Instrumente nachdenken, wie man auf solche Märkte Einfluß nehmen kann? Denn letztlich hat dies alles Auswirkungen bis hin zu den Arbeitsplätzen. Deswegen sind hier Instrumente von entscheidender Bedeutung, die Politik möglich machen.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
           <p>Wenn wir über den Euro sprechen, kommen wir wieder in eine ganz ähnliche Situation, in der ebenfalls die Instrumente fehlen werden, um auf Finanzmärkte Einfluß nehmen zu können. Sie wissen sicher noch, daß ein einzelner Spekulant das europäische Währungssystem zu Fall gebracht hat. Nun muß sich die Politik fragen, ob man so etwas noch einmal zulassen will oder ob man nicht eher Instrumente braucht, um auf Finanzmärkte wirklich Einfluß nehmen zu können. Sie haben diese Instrumente beseitigt und tragen deshalb die Verantwortung dafür. Wir müssen uns jetzt gemeinsam darüber Gedanken machen, wie man diese politischen Instrumente zurückbekommt.</p>
@@ -2359,28 +2359,28 @@
           <p>Das gilt auch für die Vorstellung, daß man Lohnerhöhungen vielleicht dadurch ersetzen könne, daß man Arbeitnehmern und Arbeitnehmerinnen kleine Aktienpakete überreicht. Wenn die dann an Wert verlieren, war es nichts mit der Lohnerhöhung; statt dessen gibt es nur Verluste. Deshalb sollte man von solchen Vorstellungen lieber Abschied nehmen.</p>
           <stage type="interjection">(Beifall bei der PDS -- Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Warum spekuliert die PDS? Warum spekuliert der PDS-Schatzmeister?)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Friedhelm Ost, CDU/CSU.</p>
         </sp>
-        <sp who="Friedhelm Ost" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Friedhelm Ost">
+        <sp who="Friedhelm Ost" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Friedhelm Ost" party="CDU" name="Friedhelm Ost">
           <speaker>Friedhelm Ost (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Verehrte Kolleginnen und Kollegen! Also Gysi als Soros-Nachfolger: Das kann sich keiner vorstellen, aber er hat es hier versucht. Mich hat es sehr gewundert, Herr Gysi, wie Sie über Märkte reden. Sie haben nämlich überhaupt noch nicht begriffen, was Märkte sind. Ich verstehe aber Ihre große Sorge. Ich könnte mir vorstellen, daß Sie Ihr obskures Parteivermögen in Red Chips in Hongkong angelegt haben und jetzt wegen einiger Marktkorrekturen bangen.</p>
           <stage type="interjection">(Heiterkeit und Beifall bei der CDU/CSU)</stage>
-          <p>An den internationalen Aktienmärkten haben sich in nervösem Verlauf in den letzten Tagen einige Korrekturen ergeben. </p>
+          <p>An den internationalen Aktienmärkten haben sich in nervösem Verlauf in den letzten Tagen einige Korrekturen ergeben.</p>
           <stage type="interjection">(Wolfgang Schmitt [Langenfeld] [BÜND- NIS 90/DIE GRÜNEN]: So kann man es auch nennen!)</stage>
           <p>Die Kurse sind Achterbahn gefahren. Heute haben Sie bei den Kursen überall Pluswerte, gestern gab es wieder überwiegend ein Minus. Damit muß man sich beschäftigen. Ich denke, die Märkte reagieren besser, als es jede Regierung tun könnte.</p>
           <stage type="interjection">(Zuruf von der PDS: Quatsch!)</stage>
           <p>-- Natürlich. Sie haben es doch versucht. Es gab keine Märkte. Sie haben am Ende die Lektion lernen müssen, was es heißt, den Markt fast 50 Jahre lang außer Kraft zu setzen. Die Firma Honecker und Genossen ist in den betrügerischen Konkurs gerannt.</p>
           <stage type="interjection">(Zurufe von der PDS)</stage>
           <p>-- Ohne Märkte, natürlich! Sie haben doch daran mitgewirkt. Sie haben keinen Sinn für Märkte und deswegen auch nicht für Börsen. Man merkt das auch an Ihrer Fragestellung.</p>
-          <p>Natürlich neigen Börsen zu Übertreibungen. Nicht die Finanzmärkte generell, sondern die Aktienmärkte haben übertrieben reagiert. Da gab es große Ausschläge nach unten. Aber die anderen Finanzmärkte haben überhaupt nicht reagiert. Die Devisenmärkte zum Beispiel haben sich relativ ruhig verhalten. Betrachten Sie doch das Verhältnis der D-Mark zu den Währungen unserer wichtigsten Handelspartner. Betrachten Sie auch die Märkte für festverzinsliche Wertpapiere und die Geldmärkte. Sie müssen auch einmal den Finanzteil einer Zeitung lesen und nicht nur Ihre Blättchen, in denen wenig darüber steht. </p>
+          <p>Natürlich neigen Börsen zu Übertreibungen. Nicht die Finanzmärkte generell, sondern die Aktienmärkte haben übertrieben reagiert. Da gab es große Ausschläge nach unten. Aber die anderen Finanzmärkte haben überhaupt nicht reagiert. Die Devisenmärkte zum Beispiel haben sich relativ ruhig verhalten. Betrachten Sie doch das Verhältnis der D-Mark zu den Währungen unserer wichtigsten Handelspartner. Betrachten Sie auch die Märkte für festverzinsliche Wertpapiere und die Geldmärkte. Sie müssen auch einmal den Finanzteil einer Zeitung lesen und nicht nur Ihre Blättchen, in denen wenig darüber steht.</p>
           <stage type="interjection">(Zurufe von der PDS)</stage>
           <p>-- Sie können doch nicht von der großen Weltwirtschaftskrise, vom Börsencrash reden, wenn der DAX -- das ist der Index für die deutschen Standardaktien -- seit Anfang des Jahres um 55 Prozent gestiegen ist.</p>
           <stage type="interjection">(Lachen bei der PDS)</stage>
-          <p>-- Ich erkläre Ihnen das; Sie haben das wahrscheinlich nicht begriffen. </p>
+          <p>-- Ich erkläre Ihnen das; Sie haben das wahrscheinlich nicht begriffen.</p>
           <p>Der DAX ist um 55 Prozent gestiegen, und jetzt hat er sich um 15 bis 20 Prozent abgeschwächt. Das ist eine Normalisierung, die gesund ist. Das ist in Ordnung.</p>
-          <p>Ich sage Ihnen: Alle Ihre Warnungen sind unnötig. Auch die Kleinaktionäre in Deutschland haben sich ganz vernünftig und ruhig verhalten. Es gab keinen Run aus den Aktien, keinen Crash. Es normalisiert sich auf ein vernünftiges, normales Maß, und am Ende spielen die fundamentalen Daten eine große Rolle. </p>
+          <p>Ich sage Ihnen: Alle Ihre Warnungen sind unnötig. Auch die Kleinaktionäre in Deutschland haben sich ganz vernünftig und ruhig verhalten. Es gab keinen Run aus den Aktien, keinen Crash. Es normalisiert sich auf ein vernünftiges, normales Maß, und am Ende spielen die fundamentalen Daten eine große Rolle.</p>
           <stage type="interjection">(Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Auf die Fundis kommt es an im Kapitalismus!)</stage>
           <p>Ich sage Ihnen: Die Bundesbank und die Bundesregierung haben sich hervorragend verhalten. Sie haben kein nervöses und unsinniges Gerede in die Welt gesetzt, wie Sie es uns gerade erzählt haben. Sie haben statt dessen auf die fundamentalen Daten und Fakten in Deutschland, aber auch in Amerika verwiesen.</p>
           <p>Ich gebe zu: Diese Entwicklungen an den internationalen Aktienmärkten spiegeln die Globalisierung und Internationalisierung der Wirtschaft und der Finanzströme wider. Das ist schon richtig. Aber Sie können doch nicht sagen: Wenn in Hongkong eine Grippe ausbricht, haben wir hier sofort eine Lungenentzündung und die Welt geht unter. Wenn hier das Jahr 1929 beschworen wird: 1987 war der Einbruch am Aktienmarkt viel stärker als 1929. Lesen Sie es nach!</p>
@@ -2398,12 +2398,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Ich erlaube mir die Bemerkung: Auch wenn wir über Börsen reden, muß es im Deutschen Bundestag nicht so laut wie an der Börse zugehen.</p>
           <p>Das Wort hat jetzt der Kollege Bury.</p>
         </sp>
-        <sp who="Hans Martin Bury" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hans Martin Bury">
+        <sp who="Hans Martin Bury" parliamentary_group="SPD" role="mp" position="NA" who_original="Hans Martin Bury" party="SPD" name="Hans Martin Bury">
           <speaker>Hans Martin Bury (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Einige Leute haben in dieser Woche viel Geld an der Börse verloren. Die meisten Menschen aber haben wegen dieser Bundesregierung seit Jahren weniger Geld in der Börse.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der PDS -- Widerspruch bei der CDU/CSU)</stage>
@@ -2419,16 +2419,16 @@
           <p>Die Börse ist der Markt für Risikokapital. Hier treffen kapitalsuchende Unternehmen und risikofreudige Anleger zusammen. Die einen suchen Kapitalgeber, die ihr Wachstum finanzieren; die anderen -- vom rationalen Investor über den kühl kalkulierenden Renditejäger bis zum Zocker, den es auch gibt -- wollen sich mit den mageren Zinsen für Sparanlagen oder Anleihen nicht zufriedengeben, und sie setzen darauf, daß die Kehrseite von Risiko Chance heißt.</p>
           <p>Langfristig fahren die Aktionäre mit dieser Haltung nicht schlecht. Die Aktienanlage schlägt in jedem langfristigen Vergleich alternative, konservativere Anlageformen wie Renten, Edelmetalle, Immobilien oder Lebensversicherungen.</p>
           <p>In den letzten Tagen schwanken die Kurse an der Wall Street und an der Frankfurter Börse zwischen Berg- und Talfahrt. Die hohe Volatilität mag manche Betrachter erschrecken. Bei den Kursrückschlägen handelt es sich jedoch um Buchverluste. Es werden keine realen Werte zerstört.</p>
-          <p>Gezeigt haben die internationalen Börsenturbulenzen allerdings, wie eng die Verflechtungen der Volkswirtschaften sind. Insofern ist es für die Realwirtschaft gefährlich, sich so einseitig auf den Export zu stützen und die Binnenkonjunktur sträflich zu vernachlässigen, wie es diese Bundesregierung seit Jahren tut. </p>
-          <stage type="interjection">(Beifall bei der SPD und beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS) </stage>
+          <p>Gezeigt haben die internationalen Börsenturbulenzen allerdings, wie eng die Verflechtungen der Volkswirtschaften sind. Insofern ist es für die Realwirtschaft gefährlich, sich so einseitig auf den Export zu stützen und die Binnenkonjunktur sträflich zu vernachlässigen, wie es diese Bundesregierung seit Jahren tut.</p>
+          <stage type="interjection">(Beifall bei der SPD und beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
           <p>Dies erhöht die Anfälligkeit für externe Einflüsse. Deshalb brauchen wir neben einer international abgestimmten Wirtschafts- und Finanzpolitik dringend eine Stärkung der Binnenkonjunktur. Diese Regierung wird das nicht mehr schaffen -- deshalb: Ordern Sie Verkaufsoptionen auf Kohl und Calls auf SPD.</p>
-          <stage type="interjection">(Beifall bei der SPD und beim BÜNDNIS 90/DIE GRÜNEN) </stage>
+          <stage type="interjection">(Beifall bei der SPD und beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat Kollege Wolfgang Schmitt, Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Wolfgang Schmitt" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Wolfgang Schmitt">
+        <sp who="Wolfgang Schmitt (Langenfeld)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Wolfgang Schmitt (Langenfeld)" party="GRUENE" name="Wolfgang Schmitt">
           <speaker>Wolfgang Schmitt (Langenfeld) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Lieber Kollege Gysi! Ich hätte eigentlich von Ihnen eine etwas freudigere Rede erwartet. Sie haben hier gefordert, daß Spekulationsgewinne stärker besteuert werden sollen. Wenn Sie aufmerksam das verfolgt hätten, was in dieser Woche passiert ist, dann hätten Sie eigentlich feststellen müssen, daß das, was die Spekulanten in dieser Woche verloren haben, durch jede noch so starke Besteuerung im Inland nicht hätte hereingeholt werden können.</p>
           <p>Ein Beispiel: Es heißt, Bill Gates habe in dieser Woche allein 3 Milliarden US-Dollar verloren. Da hätte selbst die optimale Umsetzung von PDS-Steuerpolitik nicht ausgereicht, solche Verluste herbeizuführen.</p>
@@ -2438,20 +2438,20 @@
           <p>Hätten Sie die Zeitung gelesen, dann hätten Sie festgestellt, daß Thailand, daß Indonesien, daß die Philippinen mit hohen Leistungsbilanzdefiziten zu kämpfen haben, daß ein Spekulationsboom am Immobiliensektor stattgefunden hat, daß es eine mangelnde Bankenaufsicht und ein schwaches politisches System in diesen Ländern gegeben hat, daß die Bindung an den Dollarkurs in dem Moment nicht aufrechtzuerhalten war, als die Konjunkturen in Südostasien asynchron zu der der Vereinigten Staaten abliefen, und daß es in diesen Ländern -- das ist auch bedeutsam für die Wettbewerbsfähigkeit dieser Region -- einen Mangel an qualifizierten Fachkräften gibt.</p>
           <p>Wir stellen fest, daß in dieser Region ein eklatantes Politikversagen stattgefunden hat. Es findet nach wie vor seine Fortsetzung, und ich sage Ihnen auch klar, was die Ursache dafür ist: Sie besteht in der Kumpanei zwischen superreichen, einflußreichen Familien in diesen Ländern und der Politik. Korruption ist an der Tagesordnung. Von einer soliden Finanz-, Währungs- und Börsenpolitik kann keine Rede sein.</p>
           <p>Man muß dem Internationalen Währungsfonds an dieser Stelle sehr dankbar sein, daß er seine Unterstützungsleistungen an klare Bedingungen geknüpft hat. Wir hegen die Hoffnung -- übrigens im Sinne der mit uns verbündeten Nichtregierungsorganisationen Thailands, wo ich in der letzten Woche war und mit denen wir uns sozusagen gegenseitig beglückwünscht haben, daß dies passiert ist --, daß die Industriestaaten an dieser Stelle hart bleiben.</p>
-          <p>Sie haben darauf hingewiesen, daß die Krise auch dazu führen kann, daß einige ehrgeizige Projekte, angefangen beim Rüstungssektor und aufgehört bei wahnsinnigen Staudammprojekten, jetzt endlich zurückgestellt werden und daß die Regierung auch durch das Volk auf der Straße in Bangkok gezwungen wird, endlich eine Politik zu verfolgen, die nicht nur zum Nutzen der wenigen Reichen in diesem Land ist, sondern breiteren Bevölkerungsschichten zugute kommt. </p>
+          <p>Sie haben darauf hingewiesen, daß die Krise auch dazu führen kann, daß einige ehrgeizige Projekte, angefangen beim Rüstungssektor und aufgehört bei wahnsinnigen Staudammprojekten, jetzt endlich zurückgestellt werden und daß die Regierung auch durch das Volk auf der Straße in Bangkok gezwungen wird, endlich eine Politik zu verfolgen, die nicht nur zum Nutzen der wenigen Reichen in diesem Land ist, sondern breiteren Bevölkerungsschichten zugute kommt.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
-          <p>Die "Zeit" hat in dieser Woche getitelt, "Die Krise ist gut". Ich will noch einmal darauf hinweisen, daß die Krise in der Tat gut ist, solange der Internationale Währungsfonds seine Stützungsmaßnahmen nicht dazu benutzt, die risikobehafteten Ausleihungen westlicher Banken beispielsweise in dieser Region abzusichern. </p>
+          <p>Die "Zeit" hat in dieser Woche getitelt, "Die Krise ist gut". Ich will noch einmal darauf hinweisen, daß die Krise in der Tat gut ist, solange der Internationale Währungsfonds seine Stützungsmaßnahmen nicht dazu benutzt, die risikobehafteten Ausleihungen westlicher Banken beispielsweise in dieser Region abzusichern.</p>
           <p>Ich hoffe, es wird nicht das passieren, was nach der Mexikokrise in US-amerikanischen Zeitungen nachzulesen war. Dort war nämlich vielfach die Behauptung zu lesen, die gesamte Rettungsoperation für den mexikanischen Peso hätte im Grunde genommen nicht den Mexikanern genutzt, sondern sehr risikofreudigen US-amerikanischen Anlegern.</p>
           <p>Ich hoffe, wir kommen zu Regulierungsmechanismen, Kollege Wolf, die dazu führen, daß die Bevölkerung der betroffenen Länder nicht die Zeche zu bezahlen hat, sondern diejenigen, die leichtfertig weiterhin Geld in diese Ökonomien gepumpt haben, ohne die entsprechenden Fundamentaldaten zu berücksichtigen.</p>
           <p>Meine Damen und Herren, ich glaube, das Schimpfen auf die Spekulanten ist hier vollkommen fehl am Platze. Sie überbringen nur die schlechten Nachrichten, während dieser Krise doch eine schlechte Politik zugrunde liegt. Ich hoffe, daß sich in den betroffenen Ländern die politischen Verhältnisse im Interesse der dortigen Bevölkerung nachhaltig ändern werden.</p>
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Herr Kollege Funke, Sie haben das Wort.</p>
         </sp>
-        <sp who="Rainer Funke" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Rainer Funke">
+        <sp who="Rainer Funke" parliamentary_group="FDP" role="mp" position="NA" who_original="Rainer Funke" party="FDP" name="Rainer Funke">
           <speaker>Rainer Funke (F.D.P.):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Zwei Dinge haben mich ganz besonders gefreut: zum einen, daß sich die Partei der Sozialisten</p>
           <stage type="interjection">(Zuruf von der PDS: PDS heißt das!)</stage>
@@ -2473,11 +2473,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Parlamentarische Staatssekretär Hansgeorg Hauser.</p>
         </sp>
-        <sp who="Hansgeorg Hauser" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Finanzen" party="CSU" name="Hansgeorg Hauser">
+        <sp who="Hansgeorg Hauser" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister der Finanzen" who_original="Hansgeorg Hauser" party="CSU" name="Hansgeorg Hauser">
           <speaker>Hansgeorg Hauser, Parl. Staatssekretär beim Bundesminister der Finanzen:</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Wir haben eine Aktuelle Stunde. Deswegen sollte man auch mit aktuellen Daten beginnen. Nach einer Erholung an den asiatischen Märkten eröffnete der DAX heute morgen -- wie man börsenfachmännisch so schön sagt -- behauptet. Er lag mit 3 750 Punkten immer noch fast 900 Punkte über dem Niveau von Beginn des Jahres 1997, rund 1 490 Punkte über dem Stand von Ende 1995 und rund 2 200 Punkte über dem Stand von Ende 1992.</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Dazu hat es von der PDS nie eine Aktuelle Stunde gegeben!)</stage>
@@ -2492,30 +2492,30 @@
           <p>Deutschland hat in den vergangenen Jahrzehnten aus offenen Finanzierungsmärkten und aus dem Zustrom ausländischen Kapitals großen Nutzen gezogen, insbesondere auch, als es um die Wiedervereinigung und die Finanzierung der Folgekosten des Sozialismus ging.</p>
           <p>Bei der Beurteilung der augenblicklichen Entwicklung an den Aktienmärkten muß immer wieder unterstrichen werden, daß die wirtschaftlichen Fundamentaldaten in den USA, in Europa und in Deutschland sehr solide sind. Vor diesem Hintergrund geht die Bundesregierung auch von einer Fortsetzung der günstigen Konjunkturentwicklung in Deutschland aus.</p>
           <p>Ich möchte dazu einige Fakten nennen: Die Kapitalmarktzinsen bewegen sich auf einem sehr niedrigen Niveau. Es gibt keine Inflationstendenzen. Das Preisniveau ist praktisch stabil. Vermögenseffekte aus der Kursentwicklung dürften für die Konsumausgaben von relativ geringer Bedeutung sein; das waren auch die Erfahrungen des Jahres 1987. Auf der Wechselkursseite bestehen keine Risiken für die Konjunktur; der Dollar ist angemessen bewertet. Südostasiatische Länder haben für die deutschen Exporteure im Vergleich zu Europa und anderen Regionen keine so große Bedeutung. Was wir ansonsten beklagen, nämlich daß wir unsere Geschäfte dort erst noch intensivieren müssen, führt in diesem Zusammenhang zu beruhigenderen Entwicklungen.</p>
-          <p>Die deutschen privaten Anleger haben besonnen reagiert. Wie die Kursentwicklung über einen längeren Zeitraum zeigt, war die Aktie längerfristig eine gute Investition. Sie hat sich auch in Deutschland als ein Instrument für eine langfristige Anlage bewährt. Das kann man insbesondere für die ehemaligen Bundesunternehmen sehr deutlich sagen. Auch im Bereich der Telekom und im Bereich der Lufthansa lohnt es sich, langfristige Anlagen zu bedenken und nicht auf kurzfristige Spekulationen zu setzen. </p>
-          <p>Lassen Sie mich abschließend kurz den Anlagetip von Herrn Bury kommentieren. Herr Bury, Pessimisten, Bedenkenträger, die vor allem warnen und Angst haben, und Reformgegner, die keine Veränderungen wollen, setzen auf die SPD. Das ist richtig. Optimisten, die in unserem Land Veränderungen erreichen wollen, damit der Wohlstand und auch das soziale Gefüge in diesem Land erhalten werden können, </p>
+          <p>Die deutschen privaten Anleger haben besonnen reagiert. Wie die Kursentwicklung über einen längeren Zeitraum zeigt, war die Aktie längerfristig eine gute Investition. Sie hat sich auch in Deutschland als ein Instrument für eine langfristige Anlage bewährt. Das kann man insbesondere für die ehemaligen Bundesunternehmen sehr deutlich sagen. Auch im Bereich der Telekom und im Bereich der Lufthansa lohnt es sich, langfristige Anlagen zu bedenken und nicht auf kurzfristige Spekulationen zu setzen.</p>
+          <p>Lassen Sie mich abschließend kurz den Anlagetip von Herrn Bury kommentieren. Herr Bury, Pessimisten, Bedenkenträger, die vor allem warnen und Angst haben, und Reformgegner, die keine Veränderungen wollen, setzen auf die SPD. Das ist richtig. Optimisten, die in unserem Land Veränderungen erreichen wollen, damit der Wohlstand und auch das soziale Gefüge in diesem Land erhalten werden können,</p>
           <stage type="interjection">(Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Die setzen auf die PDS!)</stage>
           <p>die setzen auf die Regierung Kohl und auf diese Koalition.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. -- Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Junk Bond! Müllaktien, kann man da nur sagen!)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
-          <p>Das Wort hat der Kollege Dr. Rössel, PDS. </p>
+          <p>Das Wort hat der Kollege Dr. Rössel, PDS.</p>
         </sp>
-        <sp who="Dr. Uwe-Jens Rössel" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Uwe-Jens Rössel">
+        <sp who="Uwe-Jens Rössel" parliamentary_group="PDS" role="mp" position="NA" who_original="Uwe-Jens Rössel" party="PDS" name="Uwe-Jens Rössel">
           <speaker>Dr. Uwe-Jens Rössel (PDS):</speaker>
           <p>Herr Präsident! Lieber Kollege Ost, ich möchte Ihnen eindeutig sagen: Die PDS liest nicht nur irgendwelche Blättchen -- welche meinen Sie denn? --, sondern sie liest regelmäßig auch "Wall Street Journal" und "Financial Times". Wir kommen darauf noch zurück.</p>
           <stage type="interjection">(Joseph Fischer [Frankfurt] [BÜNDNIS 90/DIE GRÜNEN]: Die Zeitschriften des Klassenfeindes!)</stage>
-          <p>Zur Ausgangslage. Die Bundesregierung -- den Eindruck haben wir heute gewonnen -- versucht offenbar noch immer, den Ernst der Lage herunterzuspielen. So spricht der Bundeswirtschaftsminister in einem Statement von "technischen Bereinigungen", die sich derzeitig auf den internationalen Finanzmärkten abspielen sollen. Das dürfte sich als eine glatte Fehleinschätzung erweisen. Warum? Die derzeitigen Kursturbulenzen an den internationalen Finanzmärkten mögen vielleicht auch spekulativ begründet sein. Sie haben aber -- das ist das eigentliche Problem -- ganz tiefe Hintergründe. Es handelt sich um schwere Strukturkrisen in Ostasien, die in Thailand und auf den Philippinen ihren Ausgang genommen haben, die jetzt aber auch in Lateinamerika vorhanden sind, Strukturkrisen, die begründet sind in anhaltend hohen Auslandsschulden, in gravierenden Handels- und Leistungsbilanzdefiziten der betreffenden Länder und teilweise in einer Bindung der jeweiligen Landeswährung an den US-Dollar, wo man sozusagen Äpfel an Birnen anbindet -- bei Strukturen in den betreffenden Ländern, die nie und nimmer auch nur annähernd mit den amerikanischen Wirtschaftsverhältnissen vergleichbar sind. </p>
-          <p>Es gibt weltweit große Sorge, daß, ausgehend von der Krise in Asien, jetzt eine globale Finanz- und Wirtschaftskrise auch den lateinamerikanischen Raum ergreift und daß es damit zu einer Wiederauflage der Mexiko-Krise von 1994/95 mit ähnlichen Erscheinungen und Auswirkungen kommt. Eine Folge war damals: Der US-Dollar fiel innerhalb von einem halben Jahr von 1,75 DM auf 1,36 DM. </p>
+          <p>Zur Ausgangslage. Die Bundesregierung -- den Eindruck haben wir heute gewonnen -- versucht offenbar noch immer, den Ernst der Lage herunterzuspielen. So spricht der Bundeswirtschaftsminister in einem Statement von "technischen Bereinigungen", die sich derzeitig auf den internationalen Finanzmärkten abspielen sollen. Das dürfte sich als eine glatte Fehleinschätzung erweisen. Warum? Die derzeitigen Kursturbulenzen an den internationalen Finanzmärkten mögen vielleicht auch spekulativ begründet sein. Sie haben aber -- das ist das eigentliche Problem -- ganz tiefe Hintergründe. Es handelt sich um schwere Strukturkrisen in Ostasien, die in Thailand und auf den Philippinen ihren Ausgang genommen haben, die jetzt aber auch in Lateinamerika vorhanden sind, Strukturkrisen, die begründet sind in anhaltend hohen Auslandsschulden, in gravierenden Handels- und Leistungsbilanzdefiziten der betreffenden Länder und teilweise in einer Bindung der jeweiligen Landeswährung an den US-Dollar, wo man sozusagen Äpfel an Birnen anbindet -- bei Strukturen in den betreffenden Ländern, die nie und nimmer auch nur annähernd mit den amerikanischen Wirtschaftsverhältnissen vergleichbar sind.</p>
+          <p>Es gibt weltweit große Sorge, daß, ausgehend von der Krise in Asien, jetzt eine globale Finanz- und Wirtschaftskrise auch den lateinamerikanischen Raum ergreift und daß es damit zu einer Wiederauflage der Mexiko-Krise von 1994/95 mit ähnlichen Erscheinungen und Auswirkungen kommt. Eine Folge war damals: Der US-Dollar fiel innerhalb von einem halben Jahr von 1,75 DM auf 1,36 DM.</p>
           <stage type="interjection">(Rainer Funke [F.D.P.]: Und wo ist er jetzt?)</stage>
-          <p>Wir wollen nicht hoffen, daß all das wieder eintritt. </p>
+          <p>Wir wollen nicht hoffen, daß all das wieder eintritt.</p>
           <p>Die Politik ist gefragt; Herr Gysi hat das gesagt. Diese Krisen, die sich zum Teil in den Aktienkursbewegungen widerspiegeln, haben nämlich immense Auswirkungen auf die bundesdeutsche sowie auf die Weltwirtschaft überhaupt. Ich komme auf die wichtigste zu sprechen: Die falsche Orientierung der Bundesregierung, alle Karten auf den Export zu setzen, drückt sich bereits in den Arbeitslosenzahlen aus. Sie sind drastisch angestiegen. Diese falsche Orientierung wird aber jetzt durch die Finanz- und Währungskrise wahrscheinlich weitere bittere Pillen erhalten.</p>
           <p>Ich habe gerade etwas im "Wall Street Journal" von heute gelesen, was ich hier zitieren möchte: In Europa und in Japan können die Börsen Schwierigkeiten auslösen. Aber in Westeuropa, besonders in Deutschland und Frankreich, werden erhebliche Exportverluste eintreten. Als Zeichen für Europas Verwundbarkeit mag der schwedisch-schweizerische Konzern ABB gelten, mit Fabriken auch in Mannheim und in Hennigsdorf. ABB plant jetzt, vor allem wegen der Krise in Asien, einen Abbau von 10 000 Arbeitsplätzen. -- Das ist leider kein Einzelbeispiel.</p>
           <p>Herr Funke und Herr Hauser, Sie können mir doch nicht erzählen, daß das Dinge sind, die nur mit technischen Bereinigungen zu tun haben. Es sind handfeste wirtschafts- und arbeitsmarktpolitische Auswirkungen, die auf uns zukommen</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
           <p>und die in der Konzeption der Bundesregierung nicht annähernd erfaßt sind.</p>
-          <p>Ein zweites Problem: Die Banken gewinnen immer, auch wenn die Kurse fallen. Das ist für uns im Bundestag ein Thema. Wir brauchen ein völlig neues Herangehen an die Besteuerung der Bankgewinne. </p>
+          <p>Ein zweites Problem: Die Banken gewinnen immer, auch wenn die Kurse fallen. Das ist für uns im Bundestag ein Thema. Wir brauchen ein völlig neues Herangehen an die Besteuerung der Bankgewinne.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
           <p>Es sind doch nicht mehr nur die Aktienkursgewinne zu besteuern. Wir benötigen ebenfalls ein völlig neues Vorgehen bei der Besteuerung von Gewinnen aus Termingeschäften. Auf Grund ihres Differenzcharakters werden Termingeschäfte fast überhaupt nicht besteuert. Hier liegen doch immense Reserven für die Sanierung der öffentlichen Haushalte.</p>
           <p>Ein letztes Thema: Die Bundesregierung stimmt in den Chor derer ein, die sagen: "Setzt auf private Altersvorsorge!", wohl wissend, daß die gesetzliche Rentenversicherung immer mehr ins Schlittern gerät; darüber haben wir heute morgen ausführlich debattiert. Mit dieser Orientierung will sie den Anlegerinnen und Anlegern eine gewisse Sicherheit geben. Diese Sicherheit mag in der Vergangenheit durch die Analysen bestätigt worden sein. Es gibt aber keine Gewähr, daß sich die Aktienentwicklung so fortsetzt, wie sie in der Vergangenheit war.</p>
@@ -2523,30 +2523,30 @@
           <p>Herr Ost, das ist die Wahrheit. Sie können es gern widerlegen. Ihnen fehlen dazu aber die Fakten.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Und Ihnen, Herr Kollege, die Zeit.</p>
           <stage type="interjection">(Heiterkeit)</stage>
         </sp>
-        <sp who="Dr. Uwe-Jens Rössel" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Uwe-Jens Rössel">
+        <sp who="Uwe-Jens Rössel" parliamentary_group="PDS" role="mp" position="NA" who_original="Uwe-Jens Rössel" party="PDS" name="Uwe-Jens Rössel">
           <speaker>Dr. Uwe-Jens Rössel (PDS):</speaker>
           <p>Das ist sehr gut formuliert. Vielen Dank.</p>
           <p>Die Bundesregierung ist gefordert, diese Entwicklung sehr ernst zu nehmen, nicht im Interesse der Großkapitalanlegerinnen und -anleger, sondern im Interesse von Millionen von Menschen, die die negativen Wirkungen dieser Turbulenzen durch die Arbeitsmarktkonjunktur und anderes mehr zu spüren bekommen.</p>
           <p>Ich danke für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Wolfgang Steiger, CDU/CSU.</p>
         </sp>
-        <sp who="Wolfgang Steiger" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Steiger">
+        <sp who="Wolfgang Steiger" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Steiger" party="CDU" name="Wolfgang Steiger">
           <speaker>Wolfgang Steiger (CDU/CSU):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Lieber Herr Dr. Rössel, eines haben wir in diesen Tagen lernen müssen: Die Kommunisten haben in Hongkong kaum das Sagen, schon kracht die Börse runter.</p>
           <stage type="interjection">(Heiterkeit bei der CDU/CSU und der F.D.P. -- Lachen bei der PDS sowie bei Abgeordneten der SPD)</stage>
           <p>Deshalb sollten wir alle uns darum bemühen, daß dieser Zustand nicht auch noch dieses Land ergreift.</p>
           <p>Sie haben eben darüber gesprochen, daß wir uns die Fakten ansehen sollen.</p>
           <stage type="interjection">(Ingrid Matthäus-Maier [SPD]: Nach diesem Motto ist Kohl an allem Schuld!)</stage>
-          <p>Dazu sollten wir wirklich einmal übergehen. </p>
+          <p>Dazu sollten wir wirklich einmal übergehen.</p>
           <p>Die Turbulenzen, denen die amerikanischen und auch die europäischen Wertpapiermärkte ausgesetzt waren, sind in keiner Weise mit dem Börsencrash von 1987 vergleichbar. Dies betrifft sowohl das Ausmaß als auch die Ursachen. So verzeichnete der Dow-Jones-Index am vergangenen Montag mit einem Rückgang von 551 Punkten den historisch größten Kursverlust. Gemessen am Kursniveau aber war er dies bei weitem nicht. Mit mehr als 22 Prozent war der Kurseinbruch von 1987 wesentlich stärker als der am vergangenen Montag.</p>
           <p>Entscheidend für die Unterschiede beider Ereignisse sind Anlaß bzw. Ursachen der Kursrückgänge. 1987 waren binnenwirtschaftliche Fehlentwicklungen in den USA wie wirtschaftliche Überhitzungserscheinungen und in deren Folge Zinsanhebungen bei einem völlig überbewerteten Aktienmarkt die Ursache. Verstärkt wurde dieser Einbruch noch durch den von Computern gesteuerten Handel institutioneller Anleger.</p>
           <p>Ausschlaggebend aber, Herr Dr. Rössel, für die jüngsten Turbulenzen war der Verlust des Vertrauens in die Wirtschaftspolitik der südostasiatischen Schwellenländer. Das dortige Wachstum basierte auf geliehenem Vertrauen. Diesem Vertrauen wurden die Verantwortlichen nicht gerecht. In der Tat: Kennzeichnend waren zum einen krisenhafte Zuspitzungen im Immobilienmarkt vieler Länder, zum anderen ein dramatischer Verlust -- das ist schon gesagt worden -- der Wettbewerbsfähigkeit durch die Anbindung der Währungen, insbesondere des Hongkong-Dollars, an den US-Dollar. So gerieten zunächst die Währungsmärkte unter Druck und in deren Folge die Aktienmärkte. Die Börse in Hongkong ist um 33 Prozent eingebrochen.</p>
@@ -2559,46 +2559,47 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
           <p>Das Wort hat der Kollege Bernd Scheelen.</p>
         </sp>
-        <sp who="Bernd Scheelen" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Bernd Scheelen">
+        <sp who="Bernd Scheelen" parliamentary_group="SPD" role="mp" position="NA" who_original="Bernd Scheelen" party="SPD" name="Bernd Scheelen">
           <speaker>Bernd Scheelen (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! In der Analyse der Entwicklung der letzten Tage sind wir uns, glaube ich, einig, wenn es darum geht, festzuhalten, daß die Korruption in manchen Staaten Südostasiens einen großen Teil Schuld trägt an dieser Entwicklung.</p>
           <p>Aber, Herr Staatssekretär Hauser, die Frage sei doch einmal erlaubt: Was hat denn die Bundesregierung getan, das zu verhindern? Ich darf einmal daran erinnern, daß die Zahlung von Bestechungsgeldern immer noch steuerlich abzugsfähig ist. Sie haben Anträge, mit denen wir das ändern wollten, bisher immer abgelehnt. Es wäre ein erster Schritt, mit diesen Verhältnissen aufzuräumen.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
-          <p>Wenn ich die Reden der Kollegen der Koalition Revue passieren lasse, dann habe ich die vielen Beschwichtigungsformeln im Ohr. Das ist zwar in der derzeitigen Situation psychologisch sicherlich richtig, aber sie gehen mir teilweise doch etwas zu weit. Wenn ich Sie richtig verstanden habe, Herr Hauser, sagen Sie, im Grunde sei gar nichts gewesen. Wenn man Berichte in den Zeitungen und den anderen Medien in den letzten Tagen verfolgt hat, weiß man, daß das Wort "Krise" das meistgebrauchte Wort gewesen ist. Also, irgend etwas muß da wohl passiert sein. </p>
+          <p>Wenn ich die Reden der Kollegen der Koalition Revue passieren lasse, dann habe ich die vielen Beschwichtigungsformeln im Ohr. Das ist zwar in der derzeitigen Situation psychologisch sicherlich richtig, aber sie gehen mir teilweise doch etwas zu weit. Wenn ich Sie richtig verstanden habe, Herr Hauser, sagen Sie, im Grunde sei gar nichts gewesen. Wenn man Berichte in den Zeitungen und den anderen Medien in den letzten Tagen verfolgt hat, weiß man, daß das Wort "Krise" das meistgebrauchte Wort gewesen ist. Also, irgend etwas muß da wohl passiert sein.</p>
           <p>Wenn Sie sagen, der Dollar sei stabil, darf ich fragen, ob es Stabilität ist, wenn der Dollarkurs innerhalb von Stunden um 3 Pfennig steigt oder sinkt. So ganz stabil scheinen mir die Verhältnisse im Moment nicht zu sein. Wir müssen uns darum bemühen, sie wieder zu stabilisieren. Darüber sind wir uns sicherlich einig.</p>
           <p>Ich darf Ihnen ein Zitat aus der neuesten Ausgabe der "Zeit" verlesen:</p>
-          <p>Viele Abläufe im Wirtschaftsleben, vor allem im Finanzbereich, verstehen wir nicht bis ins letzte. </p>
+          <p>Viele Abläufe im Wirtschaftsleben, vor allem im Finanzbereich, verstehen wir nicht bis ins letzte.</p>
           <p>Das ist eine Äußerung der Bank für Internationalen Zahlungsausgleich. Wenn die Fachleute, die die internationalen Geldströme kontrollieren sollen, ein solches Eingeständnis machen, ist die Frage, ob es nicht doch einen gewissen Handlungsbedarf auch seitens nationaler Regierungen gibt.</p>
           <p>Ökonomisch -- darüber sind wir uns, glaube ich, auch alle einig -- wird man das, was an den Börsen passiert ist, als notwendige Korrektur des überhitzten Aktienmarktes ansehen müssen. Aber ich glaube, die Situation zeigt dreierlei:</p>
-          <p>Zum einen -- das ist schon erwähnt worden; ich will es aber trotzdem noch einmal sagen, weil es einfach eine Tatsache ist -- ist es so, daß sich die Finanzmärkte von der realen Wirtschaftsentwicklung völlig abgehoben haben. Ich glaube, es ist viel wichtiger, die Politik in der Bundesrepublik dahin gehend zu gestalten, sich weniger um Shareholder-value zu kümmern als um Arbeitsplätze und Investitionen. </p>
+          <p>Zum einen -- das ist schon erwähnt worden; ich will es aber trotzdem noch einmal sagen, weil es einfach eine Tatsache ist -- ist es so, daß sich die Finanzmärkte von der realen Wirtschaftsentwicklung völlig abgehoben haben. Ich glaube, es ist viel wichtiger, die Politik in der Bundesrepublik dahin gehend zu gestalten, sich weniger um Shareholder-value zu kümmern als um Arbeitsplätze und Investitionen.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Da macht es auch überhaupt keinen Sinn, wenn die Bundesregierung beispielsweise die Vorschläge zur Senkung der Lohnnebenkosten, die wir als SPD-Fraktion hier eingebracht haben, einfach ablehnt und damit Chancen für mehr Beschäftigung und mehr Wachstum im nächsten Jahr ausschlägt.</p>
           <stage type="interjection">(Beifall der Abg. Ingrid Matthäus-Maier [SPD])</stage>
-          <p>Denn die Frage ist doch: Wer baut noch Fabriken, wer investiert noch in Maschinen, in Dienstleistungsbetriebe, ins Handwerk, wenn es sich mehr lohnt, Monopoly zu spielen -- was man aus dem Kindergarten kennt; aber dies findet real an den Börsen statt --, als Geld in sinnvolle Dinge zu investieren, die Arbeitsplätze schaffen? </p>
-          <p>Es hat sich immer gezeigt, daß das Setzen auf die schnelle Mark oft ein böses Erwachen nach sich zieht. Es ist die Frage, ob die Regierung nicht auch in gewisser Weise diese Mentalität gestützt hat. Wenn ich an die aufwendigen Werbekampagnen denke, die zur Einführung der Telekom-Aktien und der Luft- hansa-Aktien gelaufen sind, muß ich feststellen, daß sie den Kleinanlegern suggeriert haben, daß das eine absolut sichere Anlage mit garantiert hohen Zugewinnraten sei. Sie haben verschwiegen, daß die Börse eben auch Risiken birgt. </p>
+          <p>Denn die Frage ist doch: Wer baut noch Fabriken, wer investiert noch in Maschinen, in Dienstleistungsbetriebe, ins Handwerk, wenn es sich mehr lohnt, Monopoly zu spielen -- was man aus dem Kindergarten kennt; aber dies findet real an den Börsen statt --, als Geld in sinnvolle Dinge zu investieren, die Arbeitsplätze schaffen?</p>
+          <p>Es hat sich immer gezeigt, daß das Setzen auf die schnelle Mark oft ein böses Erwachen nach sich zieht. Es ist die Frage, ob die Regierung nicht auch in gewisser Weise diese Mentalität gestützt hat. Wenn ich an die aufwendigen Werbekampagnen denke, die zur Einführung der Telekom-Aktien und der Luft- hansa-Aktien gelaufen sind, muß ich feststellen, daß sie den Kleinanlegern suggeriert haben, daß das eine absolut sichere Anlage mit garantiert hohen Zugewinnraten sei. Sie haben verschwiegen, daß die Börse eben auch Risiken birgt.</p>
           <p>Viele Kleinanleger stehen im Moment vor der Situation, feststellen zu müssen, daß sich die Telekom-Aktie kurz oberhalb des Ausgabekurses bewegt --</p>
           <stage type="interjection">(Rainer Funke [F.D.P.]: 4 Mark!)</stage>
-          <p>-- nein, nein, schauen Sie einmal genau hin, das ist deutlich weniger! -- und daß es sich angesichts der Kurssprünge, die wir hatten -- der Kurs stand einmal fast 50 Prozent höher als der heutige Kurs --, oft um nur auf dem Papier vorhandene Daten handelt. </p>
+          <p>-- nein, nein, schauen Sie einmal genau hin, das ist deutlich weniger! -- und daß es sich angesichts der Kurssprünge, die wir hatten -- der Kurs stand einmal fast 50 Prozent höher als der heutige Kurs --, oft um nur auf dem Papier vorhandene Daten handelt.</p>
           <stage type="interjection">(Friedrich Merz [CDU/CSU]: Was will uns der Dichter damit sagen? -- Wolfgang Steiger [CDU/CSU]: Einsteigen oder aussteigen?)</stage>
           <p>-- Wir steigen in SPD-Aktien ein, das haben Sie vorhin gehört. Die Bürger werden am 27. September nächsten Jahres schon richtig entscheiden und denen ihre Stimme geben, die eben nicht auf die Hauser-Papiere, sondern auf die SPD-Papiere setzen.</p>
           <stage type="interjection">(Wolfgang Steiger [CDU/CSU]: Option auf Baisse!)</stage>
-          <p>Das wird für Sie am 27. September ein sehr schwarzer Sonntag werden! </p>
+          <p>Das wird für Sie am 27. September ein sehr schwarzer Sonntag werden!</p>
           <stage type="interjection">(Beifall bei der SPD -- Friedrich Merz [CDU/CSU]: Schwarze Sonntage sind uns lieb!)</stage>
-          <p>Zum Schluß wollte ich, weil meine Redezeit abgelaufen ist, darauf hinweisen, daß die Kleinanleger -- das ist auch mehrfach gesagt worden -- sehr besonnen reagiert haben. Das ist auch gut so. Trotzdem steht die Regierung unter Handlungszwang. Sie sollten gerade im Hinblick auf die Auswirkungen dieser Krise auf Ihren Haushalt im nächsten Jahr gut überlegen, was Sie tun; denn dieses Schönreden und die Behauptung, es habe keinerlei Auswirkungen auf das Wachstum des nächsten Jahres, halte ich für verfrüht, halte ich auch für psychologisch nicht richtig. Ein guter Hausvater sollte auf schwierige Situationen vorbereitet sein. </p>
+          <p>Zum Schluß wollte ich, weil meine Redezeit abgelaufen ist, darauf hinweisen, daß die Kleinanleger -- das ist auch mehrfach gesagt worden -- sehr besonnen reagiert haben. Das ist auch gut so. Trotzdem steht die Regierung unter Handlungszwang. Sie sollten gerade im Hinblick auf die Auswirkungen dieser Krise auf Ihren Haushalt im nächsten Jahr gut überlegen, was Sie tun; denn dieses Schönreden und die Behauptung, es habe keinerlei Auswirkungen auf das Wachstum des nächsten Jahres, halte ich für verfrüht, halte ich auch für psychologisch nicht richtig. Ein guter Hausvater sollte auf schwierige Situationen vorbereitet sein.</p>
           <p>Machen Sie Ihre Arbeit, und wenn Sie sie nicht machen, machen wir sie ab 27. September nächsten Jahres für Sie.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Hans-Ulrich Klose">
+        <sp who="Hans-Ulrich Klose" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hans-Ulrich Klose" party="SPD" name="Hans-Ulrich Klose">
           <speaker>Vizepräsident Hans-Ulrich Klose:</speaker>
-          <p>Die Aktuelle Stunde ist beendet. </p>
-          <p>Damit sind wir auch am Schluß unserer Tagesordnung. </p>
+          <p>Die Aktuelle Stunde ist beendet.</p>
+          <p>Damit sind wir auch am Schluß unserer Tagesordnung.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 12. November 1997, 13 Uhr ein.</p>
-          <p>Die Sitzung ist geschlossen. </p>
+          <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluß der Sitzung: 13.10 Uhr)</stage>
         </sp>
       </div>
     </body>

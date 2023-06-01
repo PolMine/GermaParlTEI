@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-07</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2013/0920/dokumente/protokolle/plenarprotokolle/plenarprotokolle/17082.txt</url>
-        <date>2015-10-20 19:56:39</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -35,8 +35,8 @@
   </teiHeader>
   <text>
     <body>
-      <div type="agenda_item" n="1" what="debate" desc="a) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Mensche...">
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+      <div type="agenda_item" n="1" what="debate" desc="Debatte">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Guten Morgen! Die Sitzung ist eröffnet.</p>
           <p>Ich begrüße Sie alle herzlich zu unseren heutigen Beratungen.</p>
@@ -67,7 +67,7 @@
           <p>Ich eröffne die Aussprache. Als erster Redner hat der Kollege Volker Kauder für die CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Volker Kauder" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Volker Kauder">
+        <sp who="Volker Kauder" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Volker Kauder" party="CDU" name="Volker Kauder">
           <speaker>Volker Kauder (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Zum zweiten Mal in diesem zweiten Halbjahr 2010 befassen wir uns mit der Situation von Christen in aller Welt. Ich freue mich, dass wir heute hier auf der Ehrentribüne des Deutschen Bundestages Gäste bei uns haben, die aus Ländern kommen, in denen es Christen besonders schwer haben.</p>
           <p>Ich begrüße herzlich den Bischof der Chaldäisch-Katholischen Kirche in Bagdad, Shlemon Warduni,</p>
@@ -99,12 +99,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Das Wort hat nun der Kollege Christoph Strässer für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Christoph Strässer" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Christoph Strässer">
+      </div>
+      <div type="agenda_item" n="2" what="debate" desc="Debatte">
+        <sp who="Christoph Strässer" parliamentary_group="SPD" role="mp" position="NA" who_original="Christoph Strässer" party="SPD" name="Christoph Strässer">
           <speaker>Christoph Strässer (SPD):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Liebe Kolleginnen und Kollegen!</p>
           <p>Die Religionsfreiheit ist Gegenstand heftiger Auseinandersetzungen geworden, bei denen es sowohl um die praktische Umsetzung als auch um Grundsatzfragen geht. Dafür politische Aufmerksamkeit zu investieren, lohnt sich. Denn als Menschenrecht zielt die Religionsfreiheit in letzter Konsequenz auf die wirksame Anerkennung von Würde, Freiheit und Gleichheit aller Menschen.</p>
@@ -132,11 +134,13 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der FDP)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Nächster Redner ist der Kollege Christian Lindner für die FDP-Fraktion.</p>
         </sp>
-        <sp who="Christian Lindner" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Christian Lindner">
+      </div>
+      <div type="agenda_item" n="3" what="debate" desc="Debatte">
+        <sp who="Christian Lindner" parliamentary_group="FDP" role="mp" position="NA" who_original="Christian Lindner" party="FDP" name="Christian Lindner">
           <speaker>Christian Lindner (FDP):</speaker>
           <p>Frau Präsidentin! Verehrte anwesende Vertreter unserer christlichen Kirchen! Liebe Kolleginnen! Liebe Kollegen! Die Koalitionsfraktionen haben dem Hohen Haus heute Morgen ein Papier vorgelegt, das am Jahresende vielleicht einen verbindenden Charakter hat. Auch der Kollege Singhammer und ich haben uns darauf verständigt, dass wir in dieser Debatte die vorweihnachtliche Ruhe nicht weiter stören wollen. 70 Prozent der Menschen, 70 Prozent der Weltbevölkerung können ihre Religion nicht frei leben, unterliegen Beschränkungen ihrer Religionsfreiheit. Angesichts dieser Tatsache wirkt manche Diskussion, die wir in der deutschen Innenpolitik führen, übrigens etwas provinziell. Da streiten wir über Probleme, die sich angesichts der existenziellen Probleme, die andere Menschen in anderen Kulturkreisen, in anderen Staaten haben, doch bescheiden ausnehmen.</p>
           <p>Das Recht, nach dem Sinn des eigenen Lebens zu fragen, nach Quellen der Hoffnung und Quellen der Solidarität im Miteinander zu suchen, gehört zum Menschen. Der Mensch schaut immer über seinen eigenen Horizont hinaus und sucht auch das Verbindende zwischen den Generationen, sucht Transzendenz; es gehört zum Menschen dazu. Wenn also Menschen daran gehindert werden, ihren Glauben zu suchen oder ein Bekenntnis abzulegen, wenn sie daran gehindert werden, ihre Religion zu leben und auszudrücken, wenn sie beschränkt werden, eine Religion auszuüben, oder veranlasst werden, eine Religion anzunehmen, dann ist der Mensch selbst beschränkt, dann ist die Würde des Menschen selbst elementar beschränkt. Deshalb ist es ein Gebot liberaler Menschenrechtspolitik, hier weltweit Engagement zu zeigen.</p>
@@ -151,12 +155,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Für die Fraktion Die Linke hat der Kollege Raju Sharma das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Raju Sharma" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Raju Sharma">
+      </div>
+      <div type="agenda_item" n="4" what="debate" desc="Debatte">
+        <sp who="Raju Sharma" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Raju Sharma" party="DIE LINKE" name="Raju Sharma">
           <speaker>Raju Sharma (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Wir befassen uns heute wieder einmal mit dem weltweiten Schutz der Religionsfreiheit. Es gibt wohl niemanden in diesem Raum, der dieses Ansinnen nicht grundsätzlich unterstützen würde. Das gilt ganz besonders für die Linke. Ich sage "ganz besonders", weil Religionsfreiheit für uns nicht nur eine Plattitüde ist. Wir wissen, auch und gerade wegen unserer Geschichte, um den hohen Wert der Religionsfreiheit.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -192,11 +198,13 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Nächster Redner ist der Kollege Tom Koenigs für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Tom Koenigs" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Tom Koenigs">
+      </div>
+      <div type="agenda_item" n="5" what="debate" desc="Debatte">
+        <sp who="Tom Koenigs" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Tom Koenigs" party="GRUENE" name="Tom Koenigs">
           <speaker>Tom Koenigs (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Religionsfreiheit ist ein unveräußerliches und unverletzliches Menschenrecht. So steht es in Art. 4 des Grundgesetzes. Aber nicht nur da. Zum ersten Mal als Gesetz dokumentiert und in Stein gemeißelt worden ist die Religionsfreiheit im 6. Jahrhundert vor Christus vom persischen König Kyros dem Großen. Also ist Religionsfreiheit nicht nur ein westlicher und schon gar nicht ein originär christlicher Wert.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -221,12 +229,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und der LINKEN)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Nächster Redner ist der Kollege Johannes Singhammer für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Johannes Singhammer">
+      </div>
+      <div type="agenda_item" n="6" what="debate" desc="Debatte">
+        <sp who="Johannes Singhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Johannes Singhammer (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Wir wollen uns in dieser Debatte für die Rechte der Menschen in aller Welt einsetzen, die wegen ihrer religiösen Überzeugung verfolgt, eingesperrt, gefoltert oder gar getötet werden, und wir wollen denen eine Stimme geben, die verstummt sind, weil sie in Gefängnissen eingesperrt sind, weil ihre Existenz verschwiegen wird oder weil ihr Schicksal vertuscht werden soll.</p>
           <p>Herr Kollege Koenigs, während wir in Bezug auf die Religionsfreiheit vergleichsweise in einem Paradies leben,</p>
@@ -248,12 +258,14 @@
           <p>Meine sehr verehrten Damen und Herren, Weihnachten ist ein Fest des Friedens. Die Botschaft, die von Weihnachten ausgeht, richtet sich an alle Menschen: Der Friede sei mit euch. Das betrifft aber insbesondere diejenigen, die christlichen Glaubens sind und die unter einer unfriedlichen Umgebung leiden. Ihnen senden wir die Botschaft zu: Wir wollen uns für euch einsetzen, damit der Friede auch zu euch kommt.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Das Wort hat nun die Kollegin Angelika Graf für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Angelika Graf" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Angelika Graf">
+      </div>
+      <div type="agenda_item" n="7" what="debate" desc="Debatte">
+        <sp who="Angelika Graf (Rosenheim)" parliamentary_group="SPD" role="mp" position="NA" who_original="Angelika Graf (Rosenheim)" party="SPD" name="Angelika Graf">
           <speaker>Angelika Graf (Rosenheim) (SPD):</speaker>
           <p>Frau Präsidentin! Sehr geehrte Damen und Herren! Auch ich bedanke mich bei den auf der Tribüne versammelten Vertretern der christlichen Kirchen, aber auch bei den Vertretern anderer Religionsgemeinschaften, die heute hier bei uns sind und dieser Debatte folgen, für Ihr Kommen. Sie belegen eindrucksvoll die Vielfalt der Religiosität in Deutschland und darüber hinaus und die Wichtigkeit der Debatte, die wir heute führen.</p>
           <p>Ein Schwerpunkt der Koalition bei dieser Debatte liegt auf dem Thema Christenverfolgung. Wikipedia definiert diesen Begriff als "die systematische gesellschaftliche und/oder staatliche Benachteiligung und existenzielle Bedrohung von Christen aufgrund ihres Glaubens". Der Antrag der Koalition beschreibt ebenso wie unser Antrag die schwierige Situation vieler gläubiger Christen in vielen Teilen der Welt. Die Verfolgung von Menschen aufgrund ihres Glaubens beschäftigt uns im Menschenrechtsausschuss des Deutschen Bundestages, seit es diesen Ausschuss gibt; denn das Recht, die eigene religiöse Überzeugung ohne Behinderung oder Verfolgung ausüben zu können, ist eines der wichtigsten Menschenrechte, wobei es fast unnötig ist, hinzuzufügen, dass die Definition von Wikipedia selbstverständlich nicht nur für die Christen, sondern auch für alle anderen Religionen auf dieser Welt gilt.</p>
@@ -275,12 +287,14 @@
           <p>Wenn wir das beherzigen und die politischen Weichen in diese Richtung stellen, dann sind wir auf einem guten Weg. Dazu leisten wir mit unserem Antrag einen guten Beitrag. Ich fordere Sie auf: Stimmen Sie unserem Antrag zu!</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Für die FDP-Fraktion spricht nun der Kollege Pascal Kober.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Pascal Kober">
+      </div>
+      <div type="agenda_item" n="8" what="debate" desc="Debatte">
+        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" who_original="Pascal Kober" party="FDP" name="Pascal Kober">
           <speaker>Pascal Kober (FDP):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Das weltweite entschiedene Eintreten für das Menschenrecht auf Religionsfreiheit ist Kennzeichen der wertegebundenen und wertegeleiteten Außenpolitik unseres Landes und dieser Regierung. Als christlich-liberale Koalition haben wir uns in unserem Koalitionsvertrag verpflichtet, dem Menschenrecht auf Religionsfreiheit in dieser Legislaturperiode ein besonderes Augenmerk zu widmen, und das nicht ohne Grund.</p>
           <p>Meine Vorredner haben die Zahlen schon genannt. Fast 70 Prozent der Weltbevölkerung leben in Ländern, in denen das Menschenrecht auf Religionsfreiheit eingeschränkt ist oder überhaupt nicht anerkannt wird. In manchen Gegenden Indiens werden Christen und Muslime unterdrückt und Opfer von gewalttätigen Ausschreitungen. In der Türkei wird der Bau von Kirchen behindert. Auch die Glaubens- und Religionsfreiheit der Tibeter ist stark eingeschränkt. Im Iran sind gegenwärtig sieben Führer der Bahai dem Vernehmen nach allein aufgrund ihrer Religionszugehörigkeit inhaftiert.</p>
@@ -295,12 +309,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Volker Kauder [CDU/CSU]: Sie hätten mehr Redezeit haben müssen!)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Die Kollegin Annette Groth ist nun die nächste Rednerin für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Annette Groth" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Annette Groth">
+      </div>
+      <div type="agenda_item" n="9" what="debate" desc="Debatte">
+        <sp who="Annette Groth" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Annette Groth" party="DIE LINKE" name="Annette Groth">
           <speaker>Annette Groth (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Sehr verehrte Damen und Herren auf der Tribüne! Wir haben das schon von verschiedenen Rednerinnen und Rednern gehört: Die Religionsfreiheit ist ein Menschenrecht, und wir sind alle aufgerufen, dieses durchzusetzen - auch bei uns.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -325,21 +341,25 @@
           <p>Frau Graf hat schon darauf hingewiesen: In Ägypten werden Kopten diskriminiert. Systematisch werden aber die Bahai verfolgt. Der Staat spielt die verschiedenen religiösen und sozialen Gruppen gegeneinander aus. Die zunehmende Beschneidung wesentlicher Freiheits- und Bürgerrechte in Ägypten ist alarmierend. Wir haben es gesehen. Die letzten Parlamentswahlen haben das eindrücklich gezeigt.</p>
           <p>Auch von Bündnispartnern wie Ägypten und Saudi-Arabien müssen wir den Schutz der Menschenrechte und der Religionsfreiheit einfordern. Angesichts ihrer Rolle im "Kampf gegen den Terrorismus" hält sich die deutsche Außenpolitik hier aber zurück.</p>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Achten Sie bitte auf die Redezeit, Frau Kollegin.</p>
         </sp>
-        <sp who="Annette Groth" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Annette Groth">
+      </div>
+      <div type="agenda_item" n="10" what="debate" desc="Debatte">
+        <sp who="Annette Groth" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Annette Groth" party="DIE LINKE" name="Annette Groth">
           <speaker>Annette Groth (DIE LINKE):</speaker>
           <p>Letzter Satz. - Doppelstandards bei der Durchsetzung der Menschenrechte und der Religionsfreiheit lehnt die Linke entschieden ab.</p>
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Nächster Redner ist der Kollege Volker Beck für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Volker Beck" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Volker Beck">
+      </div>
+      <div type="agenda_item" n="11" what="debate" desc="Debatte">
+        <sp who="Volker Beck (Köln)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Volker Beck (Köln)" party="GRUENE" name="Volker Beck">
           <speaker>Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Die Koalition, SPD und Grüne haben Anträge zu dieser Debatte vorgelegt. Wir werden dem Antrag der Koalition zustimmen,</p>
           <stage type="interjection">(Christoph Strässer [SPD]: Nein, nein!)</stage>
@@ -372,12 +392,14 @@
           <p>Ich werbe wirklich darum, dass wir hier den Fokus neu ausrichten, dass wir die Verfolgung der Christen in aller Welt im Rahmen der religiösen Verfolgung insgesamt thematisieren. Dann sind wir glaubwürdig. Und wenn wir glaubwürdig sind, können wir mehr für die verfolgten Glaubensbrüder und -schwestern erreichen, als wenn wir uns, innenpolitisch motiviert, allein auf die Christenverfolgung kaprizieren.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und der LINKEN - Volker Kauder [CDU/CSU]: Es hat gut angefangen und ist dann ganz schlecht geworden!)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Das Wort hat nun die Kollegin Erika Steinbach für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Erika Steinbach" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Erika Steinbach">
+      </div>
+      <div type="agenda_item" n="12" what="debate" desc="Debatte">
+        <sp who="Erika Steinbach" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Erika Steinbach" party="CDU" name="Erika Steinbach">
           <speaker>Erika Steinbach (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine lieben Kolleginnen und Kollegen! Verehrte und liebe Gäste auf der Tribüne aus vielen Ländern, in denen Menschen religiös verfolgt werden! Herr Kollege Beck, es wäre gut, wenn Sie ihre Scheuklappen ablegen und unseren Antrag richtig durchlesen würden.</p>
           <p>Wir sind für die vollständige Religionsfreiheit.</p>
@@ -406,12 +428,14 @@
           <p>Die heutige Debatte im Deutschen Bundestag kurz vor der Weihnachtszeit ist auch ein Zeichen der Solidarität mit den Menschen, die wegen ihrer Religionszugehörigkeit verfolgt und unterdrückt werden und um ihr Leben bangen. Wir als CDU/CSU-Bundestagsfraktion stehen an der Seite aller Menschen, die um ihres Glaubens willen verfolgt werden. Wir sehen aber in dieser Adventszeit mit Sorge die Situation der Christen, die dieses Fest der Liebe begehen möchten. Ich grüße von hier aus alle Christen, die auf ein friedvolles Weihnachtsfest hoffen, von ganzem Herzen. Ich wünsche ihnen und allen Menschen ein friedvolles Weihnachtsfest.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Nächster Redner ist der Kollege Dietmar Nietan für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dietmar Nietan" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dietmar Nietan">
+      </div>
+      <div type="agenda_item" n="13" what="debate" desc="Debatte">
+        <sp who="Dietmar Nietan" parliamentary_group="SPD" role="mp" position="NA" who_original="Dietmar Nietan" party="SPD" name="Dietmar Nietan">
           <speaker>Dietmar Nietan (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Religion ist keineswegs Privatsache; aber für jeden gläubigen Menschen ist sein Glaube etwas ganz Persönliches, etwas, das sein Sein in der Welt zutiefst prägt, ein konstitutives Element seiner Persönlichkeit. Deshalb ist Religionsfreiheit für mich nicht irgendein Menschenrecht; Religionsfreiheit ist in jeder Hinsicht ein grundlegendes Menschenrecht.</p>
           <p>Religionsfreiheit ist wie alle Menschenrechte ein universelles Menschenrecht. Wer Menschenrechtsverletzungen im Bereich der Religionsfreiheit nach Glaubensrichtung, Anzahl der Betroffenen, handelnden Staaten oder politischen Systemen unterschiedlich wertet, ist aus meiner Sicht auf dem besten Weg, die Axt an den universellen Charakter dieses Menschenrechts anzulegen.</p>
@@ -448,12 +472,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN sowie bei Abgeordneten der FDP und der LINKEN)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Der nächste Redner ist der Kollege Dr. Stefan Ruppert für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Stefan Ruppert" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Stefan Ruppert">
+      </div>
+      <div type="agenda_item" n="14" what="debate" desc="Debatte">
+        <sp who="Stefan Ruppert" parliamentary_group="FDP" role="mp" position="NA" who_original="Stefan Ruppert" party="FDP" name="Stefan Ruppert">
           <speaker>Dr. Stefan Ruppert (FDP):</speaker>
           <p>Frau Präsidentin! Meine lieben Kolleginnen und Kollegen! Das Friedenslicht aus Bethlehem ist heute Morgen im Deutschen Bundestag in einer, wie ich finde, sehr schönen Andacht im Andachtsraum angekommen. Es leuchtet für alle Christen: für die, die in diesem Land leben, und für die, die weltweit bedrängt sind. Dieses Licht leuchtet für die Christen, die ihre Religion nicht frei ausüben können.</p>
           <p>In diesem Zusammenhang muss ich mich mit dem einen oder anderen Vorredner einmal auseinandersetzen. Liebe Kolleginnen und Kollegen von der Linken und zum Teil auch von SPD und Grünen, ich verstehe Ihre Abgrenzungsenergie nicht. Wir reden heute über bedrängte Christen in aller Welt.</p>
@@ -472,47 +498,53 @@
           <stage type="interjection">(Beifall bei Abgeordneten der FDP und der CDU/CSU)</stage>
           <p>Ein weltanschaulich neutraler Staat, ein liberaler Rechtsstaat wie Deutschland lebt von Voraussetzungen, die er allein nicht garantieren kann. Eine Kraft, die die Festigkeit und die Integrationskraft dieses Staates jeden Tag neu gewährleistet, sind die Christen und Christinnen in aller Welt wie auch die Angehörigen aller anderen Religionsgemeinschaften. Sie tragen zum Gelingen des Gemeinwesens bei, wenn sie ihre Religion leben können.</p>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Herr Kollege, gestatten Sie eine Zwischenfrage des Kollegen Strässer?</p>
         </sp>
-        <sp who="Dr. Stefan Ruppert" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Stefan Ruppert">
+      </div>
+      <div type="agenda_item" n="15" what="debate" desc="Debatte">
+        <sp who="Stefan Ruppert" parliamentary_group="FDP" role="mp" position="NA" who_original="Stefan Ruppert" party="FDP" name="Stefan Ruppert">
           <speaker>Dr. Stefan Ruppert (FDP):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Christoph Strässer" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Christoph Strässer">
+        <sp who="Christoph Strässer" parliamentary_group="SPD" role="mp" position="NA" who_original="Christoph Strässer" party="SPD" name="Christoph Strässer">
           <speaker>Christoph Strässer (SPD):</speaker>
           <p>Herzlichen Dank, Herr Kollege. Ich möchte es kurz machen und an Ihre intellektuelle Redlichkeit appellieren.</p>
           <stage type="interjection">(Volker Kauder [CDU/CSU]: Na, na, na! Jetzt aber!)</stage>
           <p>Wenn Sie sich umdrehen, können Sie auf der Tafel lesen: Tagesordnungspunkt 36, Religions- und Glaubensfreiheit. Sie versuchen, uns die ganze Zeit einzureden, dass mit Religions- und Glaubensfreiheit ausschließlich die Christenverfolgung gemeint ist. Sie haben gerade gesagt: Wir reden heute über Christenverfolgung.</p>
           <p>Ich frage Sie ganz ernsthaft - ich formuliere das ganz deutlich und klar -: Sind Sie der Meinung, dass Religions- und Glaubensfreiheit mehr ist als die Auseinandersetzung mit weltweit verfolgten Christen, die alle hier zum Thema gemacht haben?</p>
         </sp>
-        <sp who="Dr. Stefan Ruppert" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Stefan Ruppert">
+        <sp who="Stefan Ruppert" parliamentary_group="FDP" role="mp" position="NA" who_original="Stefan Ruppert" party="FDP" name="Stefan Ruppert">
           <speaker>Dr. Stefan Ruppert (FDP):</speaker>
           <p>Ich habe versucht, darzulegen, dass es keinen Gegensatz gibt zwischen der Thematisierung der Verfolgung von Christen in aller Welt, was uns ein Anliegen ist - das Christentum ist die Grundlage unserer wertegeleiteten Außenpolitik -, und dem Bekenntnis zur Religionsfreiheit. Es muss gestattet sein, einmal ausdrücklich und explizit auf die verfolgten Christen in aller Welt hinzuweisen.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
           <p>Das beinhaltet aber keinen Ausschluss der Religionsfreiheit anderer.</p>
           <stage type="interjection">(Christoph Strässer [SPD]: Wie heißt denn Ihr Antrag? Da steht etwas anderes, Herr Kollege!)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Herr Kollege, darf ich Sie noch einmal unterbrechen? Die Kollegin Pfeiffer möchte eine Zwischenfrage stellen.</p>
         </sp>
-        <sp who="Dr. Stefan Ruppert" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Stefan Ruppert">
+      </div>
+      <div type="agenda_item" n="16" what="debate" desc="Debatte">
+        <sp who="Stefan Ruppert" parliamentary_group="FDP" role="mp" position="NA" who_original="Stefan Ruppert" party="FDP" name="Stefan Ruppert">
           <speaker>Dr. Stefan Ruppert (FDP):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Frau Kollegin, bitte.</p>
         </sp>
-        <sp who="Sibylle Pfeiffer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Sibylle Pfeiffer">
+      </div>
+      <div type="agenda_item" n="17" what="debate" desc="Debatte">
+        <sp who="Sibylle Pfeiffer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Sibylle Pfeiffer" party="CDU" name="Sibylle Pfeiffer">
           <speaker>Sibylle Pfeiffer (CDU/CSU):</speaker>
           <p>Herr Kollege Ruppert, wir sind uns alle einig, dass es um die Religionsfreiheit im Allgemeinen geht. Aber wer soll sich um die Christen in aller Welt kümmern, wenn sich die Christen nicht selbst kümmern? Außer den Christen wird es niemanden geben, der sich um die Christen kümmert. Also frage ich: Worüber reden wir eigentlich?</p>
           <stage type="interjection">(Christoph Strässer [SPD]: Über Glaubensfreiheit! Das ist Ihr Antrag!)</stage>
           <p>Wir Christen müssen uns um Christen kümmern. Niemand anders wird sich um sie kümmern. Deshalb glaube ich, dass wir hier eine Scheindiskussion führen.</p>
         </sp>
-        <sp who="Dr. Stefan Ruppert" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Stefan Ruppert">
+        <sp who="Stefan Ruppert" parliamentary_group="FDP" role="mp" position="NA" who_original="Stefan Ruppert" party="FDP" name="Stefan Ruppert">
           <speaker>Dr. Stefan Ruppert (FDP):</speaker>
           <p>Frau Kollegin, darin sind wir uns einig. Ich habe schon gesagt, dass wir keinen ausschließen wollen, sondern aktiv darauf hinweisen wollen, dass Christen in aller Welt verfolgt werden, dass die meisten, die wegen ihres Glaubens verfolgt werden, Christen sind. Das muss einmal gesagt werden.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
@@ -520,12 +552,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Jetzt bitte ich Sie um Ihre Aufmerksamkeit für die letzte Rednerin in dieser Debatte. Das Wort hat die Kollegin Ute Granold für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Ute Granold" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ute Granold">
+      </div>
+      <div type="agenda_item" n="18" what="debate" desc="Debatte">
+        <sp who="Ute Granold" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ute Granold" party="CDU" name="Ute Granold">
           <speaker>Ute Granold (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Vertreter der christlichen Kirchen aus dem Irak, aus Pakistan und Vertreter der Bahai! Ich freue mich, dass auch die Prälate der Katholischen und der Evangelischen Kirche Deutschlands heute zugegen sind. Das Thema findet hier im Parlament eine große Aufmerksamkeit. Ich freue mich, dass wir über Anträge der Koalition, aber auch der Opposition zum Thema Religionsfreiheit - Religionsfreiheit weltweit schützen, Religionsfreiheit stärken, Religionsfreiheit als politische Herausforderung - debattieren. Wir haben festgestellt, dass es in großen Teilen Übereinstimmung gibt, wenn auch der eine oder andere die Religionsfreiheit in Deutschland, in Europa nicht gewährleistet sieht und den Fokus auf diesen Bereich richtet.</p>
           <p>Ich kann nicht verstehen, warum zum Beispiel eine Diskussion über das Minarettverbot in der Schweiz geführt wird, aber mit keinem Wort gesagt wird, dass in Saudi-Arabien und in der Türkei keine Kirchen gebaut werden dürfen. Das ist der Grund, warum in Deutschland Vorbehalte bestehen. Viele Menschen fragen: Wieso können hier Moscheen gebaut werden, während in der Türkei, in Saudi-Arabien keine Kirche gebaut werden kann?</p>
@@ -556,16 +590,16 @@
           <p>Ich bedanke mich für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Wir kommen nun zu den Abstimmungen. Es geht um die Beschlussempfehlung des Ausschusses für Menschenrechte und Humanitäre Hilfe zu dem Antrag der Fraktionen der CDU/CSU und der FDP mit dem Titel "Religionsfreiheit weltweit schützen". Der Ausschuss empfiehlt unter Buchstabe a seiner Beschlussempfehlung auf Drucksache 17/4122, den Antrag der Fraktionen der CDU/CSU und der FDP auf Drucksache 17/2334 anzunehmen.</p>
           <p>Es liegt dazu ein Änderungsantrag der Fraktion Bündnis 90/Die Grünen auf Drucksache 17/4227 vor, über den wir zuerst abstimmen. Wer stimmt für diesen Änderungsantrag der Fraktion Bündnis 90/Die Grünen? - Wer ist dagegen? - Enthaltungen? - Der Änderungsantrag ist damit abgelehnt. Dafür hat die Fraktion Bündnis 90/Die Grünen gestimmt, dagegen haben die Koalitionsfraktionen gestimmt, und enthalten haben sich die Fraktionen SPD und Die Linke.</p>
           <p>Nun kommen wir zur Abstimmung über den Buchstaben a der Beschlussempfehlung, die Annahme des Antrags der Fraktionen der CDU/CSU und der FDP. Über diesen Buchstaben a der Beschlussempfehlung stimmen wir namentlich ab.</p>
           <p>Ich bitte nun die Schriftführerinnen und Schriftführer, die Plätze an den Urnen einzunehmen. - Sind alle Plätze an den Urnen wie vorgesehen besetzt? - Das ist der Fall. Dann eröffne ich die Abstimmung.</p>
-          <p>Sind noch Kolleginnen oder Kollegen im Saal, die ihre Stimme bei dieser ersten namentlichen Abstimmung nicht abgegeben haben? - Das ist nicht der Fall. Ich schließe die Abstimmung und bitte die Schriftführerinnen und Schriftführer, mit der Auszählung zu beginnen. Das Ergebnis wird Ihnen später bekannt gegeben.</p>
+          <p>Sind noch Kolleginnen oder Kollegen im Saal, die ihre Stimme bei dieser ersten namentlichen Abstimmung nicht abgegeben haben? - Das ist nicht der Fall. Ich schließe die Abstimmung und bitte die Schriftführerinnen und Schriftführer, mit der Auszählung zu beginnen. Das Ergebnis wird Ihnen später bekannt gegeben.1</p>
           <p>Ich bitte Sie nun um Aufmerksamkeit für die Erklärungen zur nächsten Abstimmung. - Unter Buchstabe b empfiehlt der Ausschuss die Ablehnung des Antrags der Fraktion der SPD auf Drucksache 17/3428 mit dem Titel "Das Menschenrecht auf Religions- und Glaubensfreiheit als politische Herausforderung". Auch über diesen Buchstaben b der Beschlussempfehlung stimmen wir namentlich ab. Es geht um die Ablehnung des Antrags der Fraktion der SPD. Sind alle Plätze an den Urnen besetzt? - Das ist der Fall. Dann eröffne ich die Abstimmung.</p>
-          <p>Ich frage alle Kolleginnen und Kollegen: Ist jemand im Haus, der seine Stimmkarte noch nicht abgegeben hat? - Das ist nicht der Fall. Dann ist auch diese Abstimmung geschlossen. Ich bitte die Schriftführerinnen und Schriftführer, mit der Auszählung zu beginnen. Auch das Ergebnis dieser Abstimmung wird Ihnen später bekannt gegeben.</p>
+          <p>Ich frage alle Kolleginnen und Kollegen: Ist jemand im Haus, der seine Stimmkarte noch nicht abgegeben hat? - Das ist nicht der Fall. Dann ist auch diese Abstimmung geschlossen. Ich bitte die Schriftführerinnen und Schriftführer, mit der Auszählung zu beginnen. Auch das Ergebnis dieser Abstimmung wird Ihnen später bekannt gegeben.2</p>
           <p>Wir haben nun noch eine Abstimmung durchzuführen. Damit ich einen Überblick habe, bitte ich Sie, Ihre Gespräche, soweit erforderlich, außerhalb des Plenarsaals zu führen.</p>
           <p>Wir kommen zur Abstimmung über die Beschlussempfehlung des Ausschusses für Menschenrechte und humanitäre Hilfe zu dem Antrag der Fraktion Bünd-nis 90/Die Grünen mit dem Titel "Das Menschenrecht auf Religions- und Glaubensfreiheit stärken". Der Ausschuss empfiehlt in seiner Beschlussempfehlung auf Drucksache 17/4121, den Antrag der Fraktion Bünd-nis 90/Die Grünen auf Drucksache 17/2424 abzulehnen. Wer stimmt für diese Beschlussempfehlung? - Wer ist dagegen? - Enthaltungen? - Die Beschlussempfehlung ist damit mit den Stimmen der Koalitionsfraktionen bei Gegenstimmen der Fraktion Bündnis 90/Die Grünen und der Fraktion Die Linke und bei Enthaltung der SPD-Fraktion angenommen.</p>
           <p>Nun rufe ich den Tagesordnungspunkt 37 auf:</p>
@@ -574,7 +608,7 @@
           <p>- Drucksache 17/4189 -</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Arbeit und Soziales (f)</p>
-          <p>Rechtsausschuss </p>
+          <p>Rechtsausschuss</p>
           <p>Ausschuss für Wirtschaft und Technologie</p>
           <p>Ausschuss für die Angelegenheiten der Europäischen Union</p>
           <p>Nach einer interfraktionellen Vereinbarung sind für die Aussprache eineinhalb Stunden vorgesehen. - Ich sehe, damit sind Sie einverstanden. Dann können wir so verfahren.</p>
@@ -582,8 +616,8 @@
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="2" what="debate" desc="Beratung des Antrags der Abgeordneten Anette Kramme, Gabriele Hiller-Ohm, Josip ...">
-        <sp who="Andrea Nahles" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Andrea Nahles">
+      <div type="agenda_item" n="19" what="debate" desc="Debatte">
+        <sp who="Andrea Nahles" parliamentary_group="SPD" role="mp" position="NA" who_original="Andrea Nahles" party="SPD" name="Andrea Nahles">
           <speaker>Andrea Nahles (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Die Praxis der Leiharbeit in Deutschland ist verkommen. Vor zehn Jahren wurden Leiharbeiter noch zur Abdeckung von Auftragsspitzen eingestellt. Mittlerweile werden sie eingestellt, um sie auszunutzen und zu missbrauchen und um in den Betrieben Lohndumping zu betreiben und die Tarifverträge der Stammbelegschaften auszuhebeln. Deswegen muss der Missbrauch der Leiharbeit in Deutschland beendet werden. Das wird durch diese schwarz-gelbe Koalition leider verhindert.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -619,7 +653,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Bevor ich den nächsten Redner aufrufe, gebe ich Ihnen das Ergebnis der beiden namentlichen Abstimmungen bekannt. Zunächst die namentliche Abstimmung über die Beschlussempfehlung des Ausschusses für Menschenrechte und Humanitäre Hilfe zum Antrag der Abgeordneten Volker Kauder, Ute Granold, weiterer Abgeordneter sowie der Fraktionen von CDU/CSU und FDP: abgegebene Stimmen 570, mit Ja haben gestimmt 374, mit Nein haben gestimmt 69, Enthaltungen 127. Die Beschlussempfehlung ist damit angenommen.</p>
           <p>Endgültiges Ergebnis</p>
@@ -940,7 +974,8 @@
           <p>Dr. Claudia Winterstein</p>
           <p>Dr. Volker Wissing</p>
           <p>Hartfrid Wolff (Rems-Murr)</p>
-          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>BÜNDNIS 90/</p>
+          <p>DIE GRÜNEN</p>
           <p>Kerstin Andreae</p>
           <p>Marieluise Beck (Bremen)</p>
           <p>Volker Beck (Köln)</p>
@@ -1054,7 +1089,7 @@
           <p>Cornelia Möhring</p>
           <p>Kornelia Möller</p>
           <p>Niema Movassat</p>
-          <p>Wolfgang Ne kovic</p>
+          <p>Wolfgang Nekovic</p>
           <p>Petra Pau</p>
           <p>Jens Petermann</p>
           <p>Richard Pitterle</p>
@@ -1654,7 +1689,8 @@
           <p>Uta Zapf</p>
           <p>Manfred Zöllmer</p>
           <p>Brigitte Zypries</p>
-          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>BÜNDNIS 90/</p>
+          <p>DIE GRÜNEN</p>
           <p>Kerstin Andreae</p>
           <p>Marieluise Beck (Bremen)</p>
           <p>Volker Beck (Köln)</p>
@@ -1765,7 +1801,7 @@
           <p>Cornelia Möhring</p>
           <p>Kornelia Möller</p>
           <p>Niema Movassat</p>
-          <p>Wolfgang Ne kovic</p>
+          <p>Wolfgang Nekovic</p>
           <p>Petra Pau</p>
           <p>Jens Petermann</p>
           <p>Richard Pitterle</p>
@@ -1791,7 +1827,9 @@
           <p>Dann rufe ich als nächsten Redner den Kollegen Peter Weiß von der CDU/CSU-Fraktion auf.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Peter Weiß" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Weiß">
+      </div>
+      <div type="agenda_item" n="20" what="debate" desc="Debatte">
+        <sp who="Peter Weiß (Emmendingen)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Weiß (Emmendingen)" party="CDU" name="Peter Weiß">
           <speaker>Peter Weiß (Emmendingen) (CDU/CSU):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Johannes Rau, einer der großen Männer der SPD,</p>
           <stage type="interjection">(Andrea Nahles [SPD]: Es ist Weihnachten!)</stage>
@@ -1806,26 +1844,30 @@
           <p>Ich finde es unglaublich, dass die Sozialdemokraten, nachdem sozialdemokratische Arbeitsminister elf Jahre lang Verantwortung getragen haben, nach einem Jahr die neue Regierung unter CDU/CSU und FDP dafür verantwortlich machen, was in der Leiharbeit in Deutschland geschehen ist und geschieht, und die eigene Verantwortung locker wegschieben. Das lassen weder wir noch die Arbeitnehmerinnen und Arbeitnehmer in Deutschland den Sozialdemokraten durchgehen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Andrea Nahles [SPD]: Was haben Sie denn in der Großen Koalition alles blockiert? Das ist unglaublich!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Herr Kollege Weiß, erlauben Sie eine Zwischenfrage des Kollegen Schaaf?</p>
         </sp>
-        <sp who="Peter Weiß" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Weiß">
+      </div>
+      <div type="agenda_item" n="21" what="debate" desc="Debatte">
+        <sp who="Peter Weiß (Emmendingen)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Weiß (Emmendingen)" party="CDU" name="Peter Weiß">
           <speaker>Peter Weiß (Emmendingen) (CDU/CSU):</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Herr Schaaf, bitte.</p>
         </sp>
-        <sp who="Anton Schaaf" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Anton Schaaf">
+      </div>
+      <div type="agenda_item" n="22" what="debate" desc="Debatte">
+        <sp who="Anton Schaaf" parliamentary_group="SPD" role="mp" position="NA" who_original="Anton Schaaf" party="SPD" name="Anton Schaaf">
           <speaker>Anton Schaaf (SPD):</speaker>
           <p>Ich will die Sitzung nicht unnötig aufhalten, Herr Weiß. Aber bestätigen Sie mir, dass wir in der gemeinsamen Kommission der Großen Koalition, die sich um Mindestlöhne in einzelnen Branchen gekümmert hat, das Thema Zeit- und Leiharbeit auf der Tagesordnung hatten und dass Sie, die Union, es waren, die eine Allgemeinverbindlichkeitserklärung für die Zeit- und Leiharbeit vehement verhindert haben?</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der LINKEN)</stage>
           <p>Waren Sie das, oder waren wir Sozialdemokraten das? Würden Sie mir bitte auch bestätigen, dass denjenigen, auf die Sie sich mit Hinweis auf die Tarifautonomie in der Zeit- und Leiharbeit berufen, nämlich auf die CGB-Gewerkschaften, gerade attestiert wurde, überhaupt nicht tariffähig zu sein? Können Sie mir bestätigen, dass das so ist? Hören Sie auf mit solchen Vorwürfen! Wir haben die Erkenntnis gewonnen, dass hier viel aus dem Ruder gelaufen ist, und schon in der letzten Legislaturperiode versucht, das zu ändern. Versuchen Sie nicht, sich aus der Verantwortung zu stehlen!</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Peter Weiß" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Weiß">
+        <sp who="Peter Weiß (Emmendingen)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Weiß (Emmendingen)" party="CDU" name="Peter Weiß">
           <speaker>Peter Weiß (Emmendingen) (CDU/CSU):</speaker>
           <p>Herr Kollege Schaaf, in der Tat haben wir in den vier Jahren Große Koalition darüber gesprochen, wie die aufgrund rot-grüner Gesetzgebung verlotterten Sitten in der Leiharbeit, was die Lohnfindung angeht, korrigiert werden können. Eine wichtige Bedingung, auf die wir uns damals geeinigt hatten, war, auf Vorschlag der Tarifpartner Tarifverträge, die möglichst 50 Prozent der Beschäftigten und der Betriebe einer Branche umfassen, für allgemeinverbindlich zu erklären. Aber die Verlotterung der Sitten in der Leiharbeit aufgrund rot-grüner Gesetzgebung hat dazu geführt, dass wir es mit mehreren, unterschiedlichen und miteinander konkurrierenden Tarifverträgen zu tun hatten, dass die Tarifvertragspartner - das betrifft vor allen Dingen die Arbeitgeberseite - uns massiv bestürmt haben, die Tarifverträge nicht anzutasten, und dass deswegen keine Einigung möglich war.</p>
           <stage type="interjection">(Anton Schaaf [SPD]: CGB-Gewerkschaften!)</stage>
@@ -1863,12 +1905,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat der Kollege Dr. Gregor Gysi von der Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Gregor Gysi">
+      </div>
+      <div type="agenda_item" n="23" what="debate" desc="Debatte">
+        <sp who="Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Gregor Gysi" party="DIE LINKE" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (DIE LINKE):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Wir beschäftigen uns heute mit einem SPD-Antrag. Frau Nahles, aufgrund der Umstände, in denen Sie sich befinden - es ist ja etwas Tolles, dass Sie neues Leben auf die Erde bringen -, will ich mich mit meiner Kritik etwas zurückhalten.</p>
           <stage type="interjection">(Andrea Nahles [SPD]: Keine Schonung!)</stage>
@@ -1934,11 +1978,13 @@
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
           <p>Damit komme ich zur SPD. Alle Forderungen, die Sie heute vorbringen, sind völlig berechtigt, wobei ich mir gewünscht hätte, dass Sie die unbefristete Einstellung nicht erst nach einem Jahr, sondern schon nach drei Monaten und den gleichen Lohn nicht erst nach einem Monat, sondern gleich fordern.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Herr Kollege Gysi, Sie haben Ihre Redezeit weit überzogen.</p>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Gregor Gysi">
+      </div>
+      <div type="agenda_item" n="24" what="debate" desc="Debatte">
+        <sp who="Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Gregor Gysi" party="DIE LINKE" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (DIE LINKE):</speaker>
           <p>Das ist sehr tragisch, aber es war notwendig.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -1946,12 +1992,14 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat der Kollege Dr. Heinrich Kolb von der FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Heinrich L. Kolb" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Heinrich Leonhard Kolb">
+      </div>
+      <div type="agenda_item" n="25" what="debate" desc="Debatte">
+        <sp who="Kolb" parliamentary_group="FDP" role="mp" position="NA" who_original="Kolb" party="FDP" name="Heinrich L. Kolb">
           <speaker>Dr. Heinrich L. Kolb (FDP):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Es ist Vorweihnachtszeit, und ich will mit dem Verbindenden beginnen: Ich glaube, uns eint der Wunsch, Missbrauch bei der Zeitarbeit zu verhindern. Das will ich auch für meine Fraktion feststellen. Das ist auch der Grund, warum mit Unterstützung der Koalitionsfraktionen gestern im Kabinett ein Entwurf zur Novellierung der Arbeitnehmerüberlassung vorgelegt wurde, in dem zum Beispiel die schon erwähnte Drehtürklausel verankert ist. Das ist die Reaktion auf Vorkommnisse bei einer großen Handelskette, die wir erleben mussten. Ich will den Namen nicht nennen.</p>
           <p>Wir alle haben sehr entschieden gesagt: So geht es nicht. Das wird jetzt umgesetzt. Man konnte das deshalb zeitlich etwas länger laufen lassen, weil die Tarifpartner in der Branche zwischenzeitlich entschieden gehandelt haben und der Problemdruck von dieser Seite gelöst wurde.</p>
@@ -1966,25 +2014,29 @@
           <p>Wenn wir über die Einordnung der Zeitarbeit im Kontext der arbeitsmarktpolitischen Instrumente reden - also neben Vollzeitarbeit, neben Teilzeitarbeit, neben befristeter Beschäftigung -, ist natürlich auch in den Blick zu nehmen, dass dies die Kehrseite eines relativ starken Kündigungsschutzes ist, den wir in Deutschland haben, dass also Unternehmen mit Zeitarbeit reagieren und sich sozusagen Flexibilität auf diesem Wege erkaufen.</p>
           <p>Deswegen, Herr Kollege Gysi, kann es mich auch nicht verwundern, wenn am Ende der Krise - Sie haben ja Zahlen genannt - Unternehmen angesichts noch nicht sicherer Auftragsreichweiten zunächst verstärkt auf dieses Instrument der Zeitarbeit einschwenken. Unser Ziel muss sein, das will ich für die FDP-Fraktion - - NA</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Herr Kollege Kolb, ich muss Sie einmal unterbrechen. Der Kollege Ernst würde gern eine Zwischenfrage stellen.</p>
         </sp>
-        <sp who="Dr. Heinrich L. Kolb" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Heinrich Leonhard Kolb">
+      </div>
+      <div type="agenda_item" n="26" what="debate" desc="Debatte">
+        <sp who="Kolb" parliamentary_group="FDP" role="mp" position="NA" who_original="Kolb" party="FDP" name="Heinrich L. Kolb">
           <speaker>Dr. Heinrich L. Kolb (FDP):</speaker>
           <p>Das darf er natürlich gerne tun. Meine Redezeit wäre sonst auch gleich zu Ende gewesen.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Die Redezeit wird angehalten, bis die Antwort durch Sie erteilt ist.</p>
         </sp>
-        <sp who="Klaus Ernst" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Klaus Ernst">
+      </div>
+      <div type="agenda_item" n="27" what="debate" desc="Debatte">
+        <sp who="Klaus Ernst" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Klaus Ernst" party="DIE LINKE" name="Klaus Ernst">
           <speaker>Klaus Ernst (DIE LINKE):</speaker>
           <p>Vielen Dank, Herr Dr. Kolb. - Ich habe zwei Fragen.</p>
           <p>Erstens. Ich habe durchaus Verständnis dafür, dass Sie kritisieren, wie die Sozialdemokraten und die Grünen eine Verschärfung dieser Leiharbeitsregelungen eingeführt haben. Mich würde aber interessieren: Welche Haltung hatte denn die FDP damals dazu? Mir ist nämlich nicht bekannt, dass Sie sich vehement gegen diese Vorschläge gewehrt hätten. Soweit ich es in Erinnerung habe, gingen Ihnen die Einschränkungen, die noch in diesen Vorschlägen steckten, eher zu weit. Mich würde interessieren, ob das richtig ist.</p>
           <p>Zur zweiten Frage. Nach Ihrer Darstellung müsste es so sein, dass Equal Pay am Anfang einer Beschäftigung für einen bestimmten Zeitraum unterlaufen werden könnte. Ist Ihnen bekannt - ich gehe davon aus, dass es Ihnen bekannt ist, weil Sie selbst geschäftsführender Gesellschafter eines Unternehmen in der Metallindustrie sind -, dass Neueingestellte in den Betrieben in der Regel noch nicht denselben Lohn wie alle anderen bekommen? Es gibt Einarbeitungsregelungen, einerseits in den Tarifverträgen, andererseits in der betrieblichen Praxis von Betrieben, in denen es keine Tarifverträge gibt. Deshalb die Frage: Wollen Sie mit Ihrem Vorschlag erreichen, dass Zeitarbeiter Löhne unterhalb der in den Betrieben vereinbarten Einarbeitungsstufe erhalten? Aus Ihrer Darstellung folgt nämlich, dass Sie momentan kein Equal Pay für alle wollen; wenn es Equal Pay für alle gäbe, würde das auch für die Einarbeitungsstufen gelten, die niedriger sind als die Tarifstufen derjenigen, die schon länger im Betrieb beschäftigt sind.</p>
         </sp>
-        <sp who="Dr. Heinrich L. Kolb" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Heinrich Leonhard Kolb">
+        <sp who="Kolb" parliamentary_group="FDP" role="mp" position="NA" who_original="Kolb" party="FDP" name="Heinrich L. Kolb">
           <speaker>Dr. Heinrich L. Kolb (FDP):</speaker>
           <p>Herr Kollege Ernst, zunächst einmal freue ich mich, dass es mir auch heute gelungen ist, Sie zu einer Zwischenfrage zu reizen, auch wenn das der eine oder andere Kollege, der dringend zum Flughafen oder zur Bahnhof muss, vielleicht anders sieht.</p>
           <stage type="interjection">(Klaus Ernst [DIE LINKE]: So bin ich zu Ihnen! - Beate Müller-Gemmeke [BÜNDNIS 90/ DIE GRÜNEN]: Vielleicht kann man ja auch mal kurz antworten!)</stage>
@@ -2000,11 +2052,13 @@
           <p>Ich bedanke mich.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Die nächste Rednerin ist die Kollegin Beate Müller-Gemmeke vom Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Beate Müller-Gemmeke" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Beate Müller-Gemmeke">
+      </div>
+      <div type="agenda_item" n="28" what="debate" desc="Debatte">
+        <sp who="Beate Müller-Gemmeke" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Beate Müller-Gemmeke" party="GRUENE" name="Beate Müller-Gemmeke">
           <speaker>Beate Müller-Gemmeke (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrter Herr Präsident! Sehr geehrte Kolleginnen und Kollegen! Eigentlich diskutieren wir heute über den Antrag der SPD; aber es ist bekannt, dass die Opposition bei dem Thema Leiharbeit sehr nah beisammen ist und weitgehend an einem Strang zieht. Im Mittelpunkt der Forderungen steht: Gleicher Lohn für gleiche Arbeit. Das fordern auch wir Grünen, und zwar ohne Wenn und Aber.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -2044,12 +2098,14 @@
           <p>Zum Schluss möchte ich ganz kurz Norbert Blüm zitieren: "Made in Germany ist nicht der Begriff für billig!" Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt der Kollege Dr. Peter Tauber von der CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Peter Tauber" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Tauber">
+      </div>
+      <div type="agenda_item" n="29" what="debate" desc="Debatte">
+        <sp who="Peter Tauber" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Tauber" party="CDU" name="Peter Tauber">
           <speaker>Dr. Peter Tauber (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine lieben Kolleginnen und Kollegen! Angesichts der Worte von Frau Nahles und Herrn Gysi bin ich geneigt, mein Redemanuskript erst einmal beiseitezulegen und auf zwei, drei Punkte einzugehen.</p>
           <stage type="interjection">(Andrea Nahles [SPD]: Aber bitte! Das nennt sich hier Parlament!)</stage>
@@ -2078,12 +2134,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt die Kollegin Anette Kramme von der SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Anette Kramme" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Anette Kramme">
+      </div>
+      <div type="agenda_item" n="30" what="debate" desc="Debatte">
+        <sp who="Anette Kramme" parliamentary_group="SPD" role="mp" position="NA" who_original="Anette Kramme" party="SPD" name="Anette Kramme">
           <speaker>Anette Kramme (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Es wird auf die Historie verwiesen. Herr Kolb redet davon, Herr Weiß redet davon, Herr Dr. Tauber redet davon,</p>
           <stage type="interjection">(Peter Weiß [Emmendingen] [CDU/CSU]: Das ist Gegenwart, nicht Vergangenheit, Frau Kramme!)</stage>
@@ -2116,12 +2174,14 @@
           <p>In diesem Sinne herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD - Christian Lange [Backnang] [SPD]: So ist es! Nicht nur den Mövenpicks!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat der Kollege Johannes Vogel von der FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Johannes Vogel" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Johannes Vogel">
+      </div>
+      <div type="agenda_item" n="31" what="debate" desc="Debatte">
+        <sp who="Johannes Vogel (Lüdenscheid)" parliamentary_group="FDP" role="mp" position="NA" who_original="Johannes Vogel (Lüdenscheid)" party="FDP" name="Johannes Vogel">
           <speaker>Johannes Vogel (Lüdenscheid) (FDP):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Liebe Kollegin Kramme, gesetzgeberische Arbeit ist nicht immer fehlerfrei; das ist sicher richtig. Aber bei aller Liebe: So leicht kommen Sie uns nicht davon. So zu tun, als sei lediglich ein kleines Detail im Bereich der Zeitarbeit anders gelaufen, als Sie es sich vorgestellt haben, das ist fernab der Realität.</p>
           <stage type="interjection">(Beifall des Abg. Dr. Heinrich L. Kolb [FDP] - Beate Müller-Gemmeke [BÜNDNIS 90/DIE GRÜNEN]: Ja, ja! Das wurde jetzt aber schon fünfmal gesagt!)</stage>
@@ -2163,12 +2223,14 @@
           <p>Ich danke Ihnen für die Aufmerksamkeit. Ich wünsche noch nicht frohe Weihnachten, weil ich glaube, dass wir uns bei der übernächsten Debatte hier im Plenum alle noch einmal wiedersehen. Insofern: Bis gleich!</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt die Kollegin Heike Brehmer von der CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Heike Brehmer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Heike Brehmer">
+      </div>
+      <div type="agenda_item" n="32" what="debate" desc="Debatte">
+        <sp who="Heike Brehmer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Heike Brehmer" party="CDU" name="Heike Brehmer">
           <speaker>Heike Brehmer (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Wilhelm von Humboldt schrieb einst: "Das Arbeiten ist meinem Gefühl nach dem Menschen so gut ein Bedürfnis als Essen und Schlafen." Dem dürften Sie alle wohl gleichermaßen beipflichten.</p>
           <p>Die Zeitarbeit hat in den letzten Jahren sehr viel für die Eingliederung von Langzeitarbeitslosen, älteren Arbeitsuchenden und Geringqualifizierten in den ersten Arbeitsmarkt getan. Die Brückenfunktion der Zeitarbeit ist Realität. Viele Langzeitarbeitslose haben durch Zeitarbeit eine Chance auf Eingliederung in das Erwerbsleben gefunden.</p>
@@ -2190,12 +2252,14 @@
           <p>Ich danke Ihnen für Ihre Aufmerksamkeit. Ich glaube, wir sehen uns nachher noch. Ansonsten wünsche ich Ihnen schon jetzt frohe Weihnachten.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt die Kollegin Gabriele Lösekrug-Möller von der SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Gabriele Lösekrug-Möller" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gabriele Lösekrug-Möller">
+      </div>
+      <div type="agenda_item" n="33" what="debate" desc="Debatte">
+        <sp who="Gabriele Lösekrug-Möller" parliamentary_group="SPD" role="mp" position="NA" who_original="Gabriele Lösekrug-Möller" party="SPD" name="Gabriele Lösekrug-Möller">
           <speaker>Gabriele Lösekrug-Möller (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Frau Brehmer, mit einem Punkt am Schluss Ihrer Rede haben Sie recht: Einen Großteil unseres Erfolges und unseres Aufschwungs verdanken wir den Arbeitnehmerinnen und Arbeitnehmern, die zu unglaublich schlechten Bedingungen arbeiten, nämlich denen, die Leiharbeit machen. Denen verdanken wir unter anderem, dass unsere wirtschaftliche Entwicklung so stabil ist. Ich finde, dafür haben sie nicht nur Anerkennung in Form von warmen Worten, sondern auch in Form von Taten verdient, durch die respektiert wird, dass sie genauso viel leisten wie die, die häufig doppelt so gut bezahlt werden. Das müssen wir ändern.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -2211,11 +2275,13 @@
           <stage type="interjection">(Beifall bei der SPD und der LINKEN)</stage>
           <p>So viel zu den verlotterten Sitten.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Frau Lösekrug-Möller, erlauben Sie eine Zwischenfrage des Kollegen Weiß?</p>
         </sp>
-        <sp who="Gabriele Lösekrug-Möller" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gabriele Lösekrug-Möller">
+      </div>
+      <div type="agenda_item" n="34" what="debate" desc="Debatte">
+        <sp who="Gabriele Lösekrug-Möller" parliamentary_group="SPD" role="mp" position="NA" who_original="Gabriele Lösekrug-Möller" party="SPD" name="Gabriele Lösekrug-Möller">
           <speaker>Gabriele Lösekrug-Möller (SPD):</speaker>
           <p>Nein, die erlaube ich heute nicht. Ich will das auch gern begründen, Herr Kollege Weiß. Sie hatten viele Minuten Zeit, Ihre Sichtweise vorzutragen. Sie haben sich im Wesentlichen darauf beschränkt, uns zu beschimpfen.</p>
           <stage type="interjection">(Peter Weiß [Emmendingen] [CDU/CSU]: Nein!)</stage>
@@ -2236,11 +2302,13 @@
           <p>In diesem Sinne wünsche ich allen eine schöne Bescherung.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Wie vermutet, drängt es den Kollegen Peter Weiß, eine Kurzintervention abzugeben. Bitte denken Sie an das Wort "kurz".</p>
         </sp>
-        <sp who="Peter Weiß" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Weiß">
+      </div>
+      <div type="agenda_item" n="35" what="debate" desc="Debatte">
+        <sp who="Peter Weiß (Emmendingen)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Weiß (Emmendingen)" party="CDU" name="Peter Weiß">
           <speaker>Peter Weiß (Emmendingen) (CDU/CSU):</speaker>
           <p>Ja, danke. - Frau Kollegin Lösekrug-Möller, für eine verlotterte Sitte im politischen System halte ich es, wenn man in seiner Regierungsverantwortung ein Problem schafft und anschließend, wenn man in der Opposition ist, von den anderen fordert, das Problem zu beseitigen.</p>
           <stage type="interjection">(Markus Kurth [BÜNDNIS 90/DIE GRÜNEN]: Die Wirklichkeit verändert sich in der Zwischenzeit!)</stage>
@@ -2248,23 +2316,27 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Bitte zur Erwiderung, auch kurz.</p>
         </sp>
-        <sp who="Gabriele Lösekrug-Möller" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gabriele Lösekrug-Möller">
+      </div>
+      <div type="agenda_item" n="36" what="debate" desc="Debatte">
+        <sp who="Gabriele Lösekrug-Möller" parliamentary_group="SPD" role="mp" position="NA" who_original="Gabriele Lösekrug-Möller" party="SPD" name="Gabriele Lösekrug-Möller">
           <speaker>Gabriele Lösekrug-Möller (SPD):</speaker>
           <p>Selbstverständlich, Herr Präsident; das geht auch ganz kurz, weil ich eine ganz einfache Antwort habe. - Herr Kollege Weiß, in der letzten Legislaturperiode waren wir beide auch schon Mitglieder des Ausschusses für Arbeit und Soziales. Ich kann mich nicht erinnern, dass Sie in der letzten Legislatur die "verlotterten Sitten" irgendwo kritisiert hätten. Sie gehören zu der Fraktion, die dazu einfach nichts gemacht hat. Sie haben blockiert: Jede Anregung, jede Initiative, die wir - -</p>
           <stage type="interjection">(Peter Weiß [Emmendingen] [CDU/CSU]: Nein! - Karl Schiewerling [CDU/CSU]: Das stimmt doch nicht!)</stage>
           <p>- Oh ja, so ist das. Sie müssen jetzt auch die Wahrheit aushalten. Das kommt davon, wenn man meint, man habe immer recht, und dann auch noch von verlotterten Sitten spricht. Es geht um Gerechtigkeit; darum ringen wir. Deshalb fordere ich Sie auf, sich bitte einmal an die letzte Legislaturperiode zu erinnern. Vielleicht kehrt bei Ihnen dann auch ein klein wenig Reue ein.</p>
           <stage type="interjection">(Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN - Christian Lange [Backnang] [SPD]: Tue Buße, CDU!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt der Kollege Ulrich Lange von der CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulrich Lange" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Ulrich Lange">
+      </div>
+      <div type="agenda_item" n="37" what="debate" desc="Debatte">
+        <sp who="Ulrich Lange" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ulrich Lange" party="CSU" name="Ulrich Lange">
           <speaker>Ulrich Lange (CDU/CSU):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Die Kollegin Nahles hat vorhin davon gesprochen,</p>
           <stage type="interjection">(Paul Lehrieder [CDU/CSU]: Die ist schon heim!)</stage>
@@ -2299,12 +2371,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat der Kollege Pascal Kober von der FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Pascal Kober">
+      </div>
+      <div type="agenda_item" n="38" what="debate" desc="Debatte">
+        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" who_original="Pascal Kober" party="FDP" name="Pascal Kober">
           <speaker>Pascal Kober (FDP):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Liebe Kolleginnen und Kollegen von der SPD, fast habe ich gedacht, als ich Ihren Antrag gelesen habe, dass die Welt nicht mehr stimmt. Wo bleibt denn Ihr sozial- und arbeitsmarktpolitischer Kultschlager? Aber dann, nach acht langen Seiten, fand er sich in den letzten Zeilen doch, die Forderung nach einem gesetzlichen Mindestlohn in Höhe von 8,50 Euro.</p>
           <stage type="interjection">(Beate Müller-Gemmeke [BÜNDNIS 90/DIE GRÜNEN]: Das steht auch schon auf früheren Seiten!)</stage>
@@ -2320,12 +2394,14 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Als letzte Rednerin zu diesem Tagesordnungspunkt hat jetzt die Kollegin Gitta Connemann von der CDU/ CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Gitta Connemann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Gitta Connemann">
+      </div>
+      <div type="agenda_item" n="39" what="debate" desc="Debatte">
+        <sp who="Gitta Connemann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Gitta Connemann" party="CDU" name="Gitta Connemann">
           <speaker>Gitta Connemann (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Wir reden heute einmal mehr über die Zeitarbeit in Deutschland. Das ist sicherlich ein Thema, an dem sich die Geister scheiden, und eine Debatte, bei der sich die Gemüter erhitzen. Das haben wir heute einmal mehr erlebt.</p>
           <p>Dennoch glaube ich mit Blick auf die Begrifflichkeiten, die hier verwendet worden sind - von Ausländerfeindlichkeit über Rassismus bis hin zur Niedriglohnreserve -, dass Sie in dieser Debatte den Menschen, die in der Zeitarbeitsbranche arbeiten, nicht gerecht geworden sind.</p>
@@ -2379,7 +2455,7 @@
           <p>Nicht nur schöne Worte, sondern gute Taten sind entscheidend. Genau dafür stehen wir mit diesem Gesetzentwurf. Ich kann Ihnen nur empfehlen: Stimmen Sie einfach zu!</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird Überweisung der Vorlage auf Drucksache 17/4189 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? - Das ist der Fall. Dann ist die Überweisung so beschlossen.</p>
@@ -2393,15 +2469,15 @@
           <p>Rolf Schwanitz</p>
           <p>Otto Fricke</p>
           <p>Dr. Gesine Lötzsch</p>
-          <p>Stephan Kühn </p>
+          <p>Stephan Kühn</p>
           <p>Dazu liegen je ein Entschließungsantrag der Fraktion Die Linke und der Fraktion Bündnis 90/Die Grünen vor.</p>
           <p>Nach einer interfraktionellen Vereinbarung ist für die Aussprache eine halbe Stunde vorgesehen. Gibt es Widerspruch dagegen? - Das ist nicht der Fall. Dann ist das so beschlossen.</p>
           <p>Ich eröffne die Aussprache und erteile als erstem Redner Norbert Brackmann von der CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="3" what="debate" desc="Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und der FDP eingeb...">
-        <sp who="Norbert Brackmann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Norbert Brackmann">
+      <div type="agenda_item" n="40" what="debate" desc="Debatte">
+        <sp who="Norbert Brackmann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Norbert Brackmann" party="CDU" name="Norbert Brackmann">
           <speaker>Norbert Brackmann (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Mit dem vorliegenden Gesetzentwurf wollen wir endlich Gerechtigkeit für die Menschen schaffen, die zwischen 1945 und 1949 durch die Bodenreform in der damaligen sowjetisch besetzten Zone enteignet wurden.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der FDP)</stage>
@@ -2432,12 +2508,14 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt der Kollege Rolf Schwanitz von der SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD - Christian Lange [Backnang] [SPD]: Jetzt kommt die Wahrheit auf den Tisch!)</stage>
         </sp>
-        <sp who="Rolf Schwanitz" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rolf Schwanitz">
+      </div>
+      <div type="agenda_item" n="41" what="debate" desc="Debatte">
+        <sp who="Rolf Schwanitz" parliamentary_group="SPD" role="mp" position="NA" who_original="Rolf Schwanitz" party="SPD" name="Rolf Schwanitz">
           <speaker>Rolf Schwanitz (SPD):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Die sozialdemokratische Bundestagsfraktion wird den Gesetzentwurf heute ablehnen. Ich will die drei wichtigsten Gründe dafür nennen.</p>
           <p>Erstens. Die Begünstigung, die mit dem Gesetzentwurf der Koalition gegenüber den nicht wirtschaftenden Alteigentümern - diese Betonung ist durchaus notwendig - vorgenommen wird, wird keinen Rechtsfrieden schaffen. Sie schafft vielmehr neue Ungerechtigkeiten.</p>
@@ -2456,12 +2534,14 @@
           <p>Eine letzte Bemerkung. Die Bundesregierung hat im August eine Veranstaltung mit dem Titel "20 Jahre Einigungsvertrag" durchgeführt. Hier sind die historischen Leistungen, insbesondere im Eigentumsbereich, gewürdigt worden. Ich finde, Sie sollten sich angesichts dessen, dass Sie nur zwei Monate später einen derartigen Gesetzentwurf eingebracht haben, solche Veranstaltungen künftig sparen.</p>
           <stage type="interjection">(Beifall bei der SPD und der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat der Kollege Hans-Michael Goldmann von der FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP)</stage>
         </sp>
-        <sp who="Hans-Michael Goldmann" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Hans-Michael Goldmann">
+      </div>
+      <div type="agenda_item" n="42" what="debate" desc="Debatte">
+        <sp who="Hans-Michael Goldmann" parliamentary_group="FDP" role="mp" position="NA" who_original="Hans-Michael Goldmann" party="FDP" name="Hans-Michael Goldmann">
           <speaker>Hans-Michael Goldmann (FDP):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Zu Beginn möchte ich eine kleine Einführung geben: Ich komme aus dem Nordwesten Niedersachsens, etwa acht Kilometer von der niederländischen Grenze. Als ich die Aufgabe des agrarpolitischen Sprechers für die FDP übernahm, habe ich mich um viele Dinge gekümmert, die ich bis dahin nicht kannte. Ich wusste nicht, was die BVVG ist. Ich wusste auch nicht so genau, wie die Situation nach dem Zweiten Weltkrieg in den neuen Ländern war. Ich finde aber, dass wir alle heute Veranlassung haben, aus dem - vom Vorredner so bezeichneten - Schwarzen Freitag einen Zukunftsfreitag und einen Rechtsfreitag zu machen. Denn es gibt weder für den Steuerzahler noch für die Bauern in den neuen Ländern an irgendeiner Stelle etwas, was ihnen einen unzumutbaren Schaden zufügt. Ganz im Gegenteil sorgt der Gesetzentwurf dafür, dass wir eine Rechtssituation herstellen, auf die wir meiner Meinung nach in der Bundesrepublik Deutschland immer Wert legen.</p>
           <p>Es geht hier nicht darum, ob die Umsetzung 370 Mil-lionen, 420 Millionen oder 150 Millionen Euro kostet. Es geht hier darum, ob denjenigen Menschen Unrecht geschehen ist, denen in den Jahren 1945 bis 1949 das Land weggenommen wurde. Es kam ein anderer und räumte alles ab, nach dem Motto: Ihr seid die Reichen in diesem Land, diejenigen, die während des Zweiten Weltkriegs möglicherweise die falsche Partei unterstützt haben.</p>
@@ -2486,12 +2566,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Waltraud Wolff [Wolmirstedt] [SPD]: Wo haben denn die Grünen Wurzeln in den neuen Bundesländern?)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Kirsten Tackmann für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Kirsten Tackmann" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Kirsten Tackmann">
+      </div>
+      <div type="agenda_item" n="43" what="debate" desc="Debatte">
+        <sp who="Kirsten Tackmann" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Kirsten Tackmann" party="DIE LINKE" name="Kirsten Tackmann">
           <speaker>Dr. Kirsten Tackmann (DIE LINKE):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Liebe Gäste! Für viele Menschen in Ost und West ist das heutige Thema sehr emotional - Sie merken das sicherlich -; denn Bodeneigentum hat eine besondere Bedeutung: Boden ist Grundlage für ein existenzielles Gut der Menschheit, nämlich die Nahrungsmittel, und Boden ist nicht vermehrbar. Im Gegenteil: Wir verlieren noch heute jeden Tag 100 Hektar Ackerboden, beispielsweise durch den Straßenbau. Boden wird also dringend gebraucht. Er ist knapp, und er kann nur einmal verteilt werden. Deshalb war und ist die Bewirtschaftung der eigenen Scholle eine der sensibelsten Fragen der Menschheit.</p>
           <stage type="interjection">(Otto Fricke [FDP]: Der eigenen!)</stage>
@@ -2519,11 +2601,13 @@
           <p>Vielen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten der SPD - Otto Fricke [FDP]: Kein Wort über das Unrecht!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Cornelia Behm für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Cornelia Behm" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Cornelia Behm">
+      </div>
+      <div type="agenda_item" n="44" what="debate" desc="Debatte">
+        <sp who="Cornelia Behm" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Cornelia Behm" party="GRUENE" name="Cornelia Behm">
           <speaker>Cornelia Behm (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Verehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Trotz Kritik im Detail trägt Bündnis 90/Die Grünen den Entwurf des Zweiten Flächenerwerbsänderungsgesetzes im Grundsatz mit; denn es geht um die Wiederherstellung legitimer gesetzlicher Ansprüche für eine Gruppe von Opfern des Stalinismus.</p>
           <p>Denken Sie 20 Jahre zurück: Bei der Abfassung des Einigungsvertrages 1990 haben die beiden deutschen Regierungen den von der Bodenreform in der sowjetisch besetzten Zone Betroffenen die Rückgabe ihres Eigentums verweigert. Später, 1994, hat die Bundesregierung ihnen, soweit sie keine Nazis waren, über das EALG einen geringen Ausgleich dafür zugesichert, dass sie in den Jahren 1945 f. völkerrechtswidrig enteignet wurden.</p>
@@ -2557,12 +2641,14 @@
           <p>Dieser Diskurs hat mit dieser Debatte über das Zweite Flächenerwerbsänderungsgesetz vielleicht begonnen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Eckhardt Rehberg für die CDU/ CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Eckhardt Rehberg" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Eckhardt Rehberg">
+      </div>
+      <div type="agenda_item" n="45" what="debate" desc="Debatte">
+        <sp who="Eckhardt Rehberg" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Eckhardt Rehberg" party="CDU" name="Eckhardt Rehberg">
           <speaker>Eckhardt Rehberg (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren Abgeordnete! Frau Kollegin Behm, ich möchte mich bei Ihnen ganz ausdrücklich für Ihre Worte zur Bodenreform bedanken. Ich glaube, es ist besonders wichtig, dass diese Worte 20 Jahre nach der deutschen Einheit und 65 Jahre nach Ende des Krieges im Deutschen Bundestag gefallen sind. Wer die Bodenreform weiterhin, so wie Linke und SPD, für einen Akt der Gerechtigkeit, für einen Akt rechtsstaatlicher Politik hält,</p>
           <stage type="interjection">(Rolf Schwanitz [SPD]: Erzählen Sie doch nicht so einen Unsinn! So ein Blödsinn!)</stage>
@@ -2583,7 +2669,7 @@
           <p>dass, wenn alle Anträge positiv beschieden würden, 50 000 bis 60 000 Hektar den nicht wirtschaftenden Alteigentümern zur Verfügung gestellt werden müssten. Das sind 5 Prozent der landwirtschaftlichen Nutzfläche Mecklenburg-Vorpommerns.</p>
           <stage type="interjection">(Zuruf der Abg. Dr. Kirsten Tackmann [DIE LINKE])</stage>
           <p>- Frau Tackmann, ich habe das Gesicht Ihrer Kollegin Gesine Lötzsch am Montag vor elf Tagen gesehen, nachdem sie dem Sachverständigen, den Sie geladen hatten, ihre Frage gestellt hatte. Ich zitiere einmal - ein hochinteressantes Zitat -:</p>
-          <p>Ich kann nur davor warnen, dass man das Kompromisspaket wieder aufschnürt; denn dann wird der Rechtsfrieden infrage gestellt. ... </p>
+          <p>Ich kann nur davor warnen, dass man das Kompromisspaket wieder aufschnürt; denn dann wird der Rechtsfrieden infrage gestellt. ...</p>
           <p>Ich will mich sehr deutlich positionieren: Zum 1994 geschlossenen Kompromiss - sein Zustandekommen hat lange gedauert; er wurde immer wieder von verschiedenen Seiten beklagt - sollte man stehen. Man sollte im Hinblick auf den Erwerb von Flächen durch nicht wirtschaftende Alteigentümer, der aufgrund von wie auch immer zu verantwortenden Verzögerungen nicht zustande kommt, für einen Ausgleich sorgen, indem man zu einer Stichtagsregelung zurückkehrt. Das betrachte ich ebenfalls als eine Frage der Rechtssicherheit. ...</p>
           <p>Weiter:</p>
           <p>Ich stehe auch dazu, dass für mich ein Alteigentümer, der über Flächen mit einer Größe von 12, 15 oder 25 Hektar verfügt und nicht ortsansässig ist, also die Flächen nicht selbst bewirtschaftet, vielleicht ein besserer Verpächter ist als jemand, der das nur durch die fiskalische Brille sieht.</p>
@@ -2592,11 +2678,13 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Waltraud Wolff für die SPD-Fraktion.</p>
         </sp>
-        <sp who="Waltraud Wolff" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Waltraud Wolff">
+      </div>
+      <div type="agenda_item" n="46" what="debate" desc="Debatte">
+        <sp who="Waltraud Wolff (Wolmirstedt)" parliamentary_group="SPD" role="mp" position="NA" who_original="Waltraud Wolff (Wolmirstedt)" party="SPD" name="Waltraud Wolff">
           <speaker>Waltraud Wolff (Wolmirstedt) (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Meine Damen und Herren! Wenn man dieser Debatte folgt, könnte man meinen, wir hätten in dieser Frage keine Rechtssicherheit. 65 Jahre nach dem Zweiten Weltkrieg, 20 Jahre nach der deutschen Einheit tut man einfach so, als gäbe es keinen Einigungsvertrag. Diesen Vertrag haben meines Wissens Herr Schäuble und Herr Krause geschlossen. Gab es denn keine Entschädigung? Wenn wir heute Recht schaffen müssen, dann heißt das doch, wir leben im Unrecht. Genau so ist es eben nicht.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD und der LINKEN - Zuruf von der CDU: Das ist eine Frage der Gerechtigkeit!)</stage>
@@ -2630,16 +2718,18 @@
           <stage type="interjection">(Eckhardt Rehberg [CDU/CSU]: Etwas Dümmeres habe ich noch nicht gehört!)</stage>
           <p>Eine Diskussion mit der Koalition war bei diesem Thema nicht möglich. Sie haben nicht einmal die berechtigten Forderungen des Bauernverbandes berücksichtigt, Sie haben keine Regelung zum Fortbestand der Pachtverträge getroffen, und Sie haben keine Regelung zur Begrenzung des Erwerbstourismus getroffen. Das werfen wir Ihnen vor.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Frau Kollegin, Sie müssen zum Ende kommen.</p>
         </sp>
-        <sp who="Waltraud Wolff" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Waltraud Wolff">
+      </div>
+      <div type="agenda_item" n="47" what="debate" desc="Debatte">
+        <sp who="Waltraud Wolff (Wolmirstedt)" parliamentary_group="SPD" role="mp" position="NA" who_original="Waltraud Wolff (Wolmirstedt)" party="SPD" name="Waltraud Wolff">
           <speaker>Waltraud Wolff (Wolmirstedt) (SPD):</speaker>
           <p>Ich komme zum Schluss. - Dennoch verabschieden Sie hier und heute diesen Gesetzentwurf. Wir haben auf die damit verbundenen Schwierigkeiten aufmerksam gemacht. Wir werden diesem Gesetzentwurf nicht zustimmen.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über den von den Fraktionen der CDU/CSU und der FDP eingebrachten Entwurf eines Zweiten Flächenerwerbsänderungsgesetzes. Der Haushaltsausschuss empfiehlt in seiner Beschlussempfehlung auf Drucksache 17/4236, den Gesetzentwurf der Fraktionen der CDU/CSU und der FDP auf Drucksache 17/3183 in der Ausschussfassung anzunehmen. Ich bitte diejenigen, die dem Gesetzentwurf in der Ausschussfassung zustimmen wollen, um das Handzeichen. - Wer stimmt dagegen? - Enthaltungen? - Der Gesetzentwurf ist damit in zweiter Beratung mit den Stimmen von CDU/CSU, FDP und Grünen gegen die Stimmen von SPD und Linksfraktion angenommen.</p>
@@ -2653,14 +2743,14 @@
           <p>Sozialkassen vor Beitragsverlusten bewahren</p>
           <p>- Drucksachen 17/3042, 17/3732 -</p>
           <p>Berichterstattung:</p>
-          <p>Abgeordneter Max Straubinger </p>
+          <p>Abgeordneter Max Straubinger</p>
           <p>Nach einer interfraktionellen Vereinbarung ist für die Aussprache eine halbe Stunde vorgesehen. - Ich höre keinen Widerspruch. Dann ist das so beschlossen.</p>
           <p>Ich eröffne die Aussprache und erteile dem Kollegen Max Straubinger für die CDU/CSU-Fraktion das Wort. Bitte schön.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der FDP)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="4" what="debate" desc="Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Arbeit und...">
-        <sp who="Max Straubinger" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Max Straubinger">
+      <div type="agenda_item" n="48" what="debate" desc="Debatte">
+        <sp who="Max Straubinger" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Max Straubinger" party="CSU" name="Max Straubinger">
           <speaker>Max Straubinger (CDU/CSU):</speaker>
           <p>Herr Präsident! Geschätzte Kolleginnen und Kollegen! Das Urteil des Bundesarbeitsgerichts hat die Tariffähigkeit der CGZP verneint. Die Tarifgemeinschaft Christlicher Gewerkschaften für Zeitarbeit und Personalserviceagenturen ist keine Spitzenorganisation, die im eigenen Namen Tarifverträge abschließen kann. Sie erfüllt die hierfür erforderlichen tarifrechtlichen Voraussetzungen nicht.</p>
           <stage type="interjection">(Anton Schaaf [SPD]: Hört! Hört!)</stage>
@@ -2672,7 +2762,7 @@
           <p>möglicherweise auch rückwirkend bis zur Verjährungsgrenze.</p>
           <p>Ich schlage deshalb vor, dass die Rentenversicherung, die Bundesagentur für Arbeit und der Spitzenverband der gesetzlichen Krankenkassen gemeinsam mit der Bundesregierung die Entscheidungsgründe, die noch nicht schriftlich vorliegen, Herr Kollege Birkwald, zügig prüfen und das weitere Vorgehen dann miteinander abstimmen. Wird eine Rückwirkung bejaht, sollten die Sozialversicherungsträger die Beiträge bei jenen Zeitarbeitsunternehmen nachfordern, die mit der CGZP Tarifverträge abgeschlossen haben. Darüber hinaus sollte die Bundesregierung natürlich noch Vorschläge für weitere Prüfmöglichkeiten unterbreiten.</p>
           <p>Verehrte Damen und Herren, ich will die Zeitarbeit nicht verteidigen. Aber sie ist - wir haben darüber heute schon diskutiert - trotz vieler gegenteiliger Meinungen eine wichtige Brücke in die Beschäftigung, gerade für Geringqualifizierte, denen der Weg in den regulären Arbeitsmarkt häufig besonders schwerfällt. 56,3 Prozent der neuen Zeitarbeitsverhältnisse im zweiten Halbjahr 2009 sind von Personen aufgenommen worden, die unmittelbar zuvor nicht beschäftigt waren, darunter 8,5 Pro-zent Langzeitarbeitslose. Für die Unternehmen ist das Instrument ein Flexibilitätspuffer. Rund 10 Prozent aller Zeitarbeitsverhältnisse bestehen kürzer als eine Woche, 50 Prozent nicht länger als drei Monate. Ich glaube, es ist auch hervorzuheben, dass es hauptsächlich darum geht, Arbeitsspitzen in der Wirtschaft durch Zeitarbeit abdecken zu können.</p>
-          <p>Die Entscheidung kommt zu einem Zeitpunkt, zu dem die Bundesregierung ein Gesetz auf den Weg gebracht hat, das eine stärkere Regulierung der Zeitarbeit vorsieht, um den Missbrauch in der Zeitarbeitsbranche einzudämmen. Das ist in unser aller Sinne. Das Bundeskabinett hat am Mittwoch dieser Woche bereits eine Gesetzesänderung beschlossen, mit der verhindert werden soll, dass Unternehmen Beschäftigte erst entlassen und sie anschließend als Zeitarbeiter zu schlechteren Bedingungen wieder einstellen. Mit der Änderung des Arbeitnehmerüberlassungsgesetzes schieben wir dem Missbrauch in der Zeitarbeit einen Riegel vor. Auch mit Blick auf den 1. Mai nächsten Jahres müssen wir hier zu vernünftigen Regelungen kommen und eine entsprechende Lohnuntergrenze vereinbaren. </p>
+          <p>Die Entscheidung kommt zu einem Zeitpunkt, zu dem die Bundesregierung ein Gesetz auf den Weg gebracht hat, das eine stärkere Regulierung der Zeitarbeit vorsieht, um den Missbrauch in der Zeitarbeitsbranche einzudämmen. Das ist in unser aller Sinne. Das Bundeskabinett hat am Mittwoch dieser Woche bereits eine Gesetzesänderung beschlossen, mit der verhindert werden soll, dass Unternehmen Beschäftigte erst entlassen und sie anschließend als Zeitarbeiter zu schlechteren Bedingungen wieder einstellen. Mit der Änderung des Arbeitnehmerüberlassungsgesetzes schieben wir dem Missbrauch in der Zeitarbeit einen Riegel vor. Auch mit Blick auf den 1. Mai nächsten Jahres müssen wir hier zu vernünftigen Regelungen kommen und eine entsprechende Lohnuntergrenze vereinbaren.</p>
           <p>Trotzdem ist der Antrag heute abzulehnen,</p>
           <stage type="interjection">(Katja Mast [SPD]: Das ist jetzt nicht Ihr Ernst!)</stage>
           <p>weil natürlich erst die Begründung des Bundesarbeitsgerichtes abzuwarten ist. Sie legen doch immer besonderen Wert auf rechtsstaatliche Verfahren.</p>
@@ -2683,12 +2773,14 @@
           <p>Herzlichen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Katja Mast für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Katja Mast" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Katja Mast">
+      </div>
+      <div type="agenda_item" n="49" what="debate" desc="Debatte">
+        <sp who="Katja Mast" parliamentary_group="SPD" role="mp" position="NA" who_original="Katja Mast" party="SPD" name="Katja Mast">
           <speaker>Katja Mast (SPD):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Auch wir stehen in diesem Verfahren auf der Seite des Rechtsstaats - wie übrigens auch alle anderen Oppositionsparteien. Liebe Kolleginnen und Kollegen von den Grünen und den Linken, ich schließe Sie hier mit ein.</p>
           <stage type="interjection">(Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN - Paul Lehrieder [CDU/CSU]: Skurriles Bündnis!)</stage>
@@ -2730,12 +2822,14 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit. Frohe Weihnachten!</p>
           <stage type="interjection">(Beifall bei der SPD und der LINKEN - Christian Lange [Backnang] [SPD]: Nehmen Sie sich die Losung zu Herzen!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Johannes Vogel für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Johannes Vogel" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Johannes Vogel">
+      </div>
+      <div type="agenda_item" n="50" what="debate" desc="Debatte">
+        <sp who="Johannes Vogel (Lüdenscheid)" parliamentary_group="FDP" role="mp" position="NA" who_original="Johannes Vogel (Lüdenscheid)" party="FDP" name="Johannes Vogel">
           <speaker>Johannes Vogel (Lüdenscheid) (FDP):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Liebe Frau Mast, die inhaltliche Debatte über die Zeitarbeit hatten wir vorhin geführt. Ich verstehe den Versuch, noch einmal zu sagen: Wir brauchen den Mindestlohn in der Zeitarbeit. - Ich finde, darüber können wir trefflich streiten. Aber das können Sie aus dem Urteil nun wirklich nicht ableiten. Es hat nämlich nicht über die Inhalte der Tarifverträge geurteilt, sondern über die Organisationsstruktur. Sie wissen so gut wie ich, dass der Mangel für die kommenden Tarifverträge geheilt ist und dass es mittlerweile gleichlautende Tarifverträge der christlichen Gewerkschaften und des DGB gibt. Also interpretieren Sie hier bitte nichts Inhaltliches in das Urteil hinein. Wir sollten in dieser Debatte nicht über das streiten, was aus dem Urteil nun wirklich nicht hervorgeht.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Zuruf von der FDP: Guter Hinweis! - Gitta Connemann [CDU/CSU]: Die sollten erst einmal das Urteil lesen!)</stage>
@@ -2755,7 +2849,7 @@
           <p>- "Erwartbar" ist ein interessantes Stichwort. Das führt mich zu dem nächsten Punkt. Dazu wollte ich ohnehin kommen.</p>
           <p>Ich glaube, wir müssen uns darüber klar sein, wie die Gewaltenteilung in unserem Staat organisiert ist. Es gibt eben Exekutive, Legislative und Judikative. Das wissen Sie.</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Das lernt man schon in der Schule!)</stage>
-          <p>Aber manchmal bin ich mir nicht sicher, wie groß Ihr Vertrauen in die Gerichte ist. Das zeigt sich nicht nur an dieser Stelle, sondern zum Beispiel auch bei der Frage der Bagatellkündigungen. Da diskutieren wir das auch. Sie fordern regelmäßig gesetzgeberisches Handeln. Arbeitnehmern soll wegen möglicher Bagatellen nicht gekündigt werden, wenn es keinen Vertrauensverlust, keine wirkliche Zerrüttung des Vertrauensverhältnisses zwischen Arbeitnehmer und Arbeitgeber gab. </p>
+          <p>Aber manchmal bin ich mir nicht sicher, wie groß Ihr Vertrauen in die Gerichte ist. Das zeigt sich nicht nur an dieser Stelle, sondern zum Beispiel auch bei der Frage der Bagatellkündigungen. Da diskutieren wir das auch. Sie fordern regelmäßig gesetzgeberisches Handeln. Arbeitnehmern soll wegen möglicher Bagatellen nicht gekündigt werden, wenn es keinen Vertrauensverlust, keine wirkliche Zerrüttung des Vertrauensverhältnisses zwischen Arbeitnehmer und Arbeitgeber gab.</p>
           <p>Dieses Ziel teilen wir sogar, und wir haben auch schon verschiedentlich hier im Plenum darüber diskutiert, dass das durch die Rechtsprechung in Deutschland relativ gut gewährleistet ist. Dem haben Sie nun wieder nichts entgegenzusetzen. Hier drängt sich mir als ein Muster das Bild eines gewissen Misstrauens in unsere Rechtsprechung auf. Ich habe das nicht, und es gibt auch keinen Grund, ein solches Misstrauen zu haben.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
           <p>Es gab die Pflicht der Bundesregierung und der Rentenversicherung zur Neutralität. Das Urteil war abzuwarten, und genau das ist erfolgt. Kollege Straubinger hat gerade schon gesagt, wie es jetzt weitergeht.</p>
@@ -2773,14 +2867,16 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Kollege Vogel, Sie haben uns zehn Sekunden geschenkt.</p>
           <stage type="interjection">(Heiterkeit - Johannes Vogel [Lüdenscheid] [FDP]: Besser als nichts!)</stage>
           <p>Ich erteile dem Kollegen Matthias Birkwald für die Fraktion Die Linke das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Matthias Birkwald">
+      </div>
+      <div type="agenda_item" n="51" what="debate" desc="Debatte">
+        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Matthias W. Birkwald" party="DIE LINKE" name="Matthias W. Birkwald">
           <speaker>Matthias W. Birkwald (DIE LINKE):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine Damen und Herren! Das Bundesarbeitsgericht, Herr Vogel, hat am Dienstag ein klares und deutliches Urteil gefällt: Die sogenannte Tarifgemeinschaft Christlicher Gewerkschaften für Zeitarbeit und Personalserviceagenturen, kurz CGZP, ist tarifunfähig. Das heißt, die christlichen Gewerkschaften hätten niemals Lohndumpingtarifverträge abschließen dürfen, und sie dürfen es auch künftig nicht. Das Urteil ist ein tarifpolitischer Meilenstein und ein großartiger Erfolg für die Leiharbeiterinnen und Leiharbeiter, die jetzt nämlich vorenthaltenen Lohn nachfordern dürfen.</p>
           <p>Aber das Urteil ist nicht vom Himmel gefallen. Wir verdanken es der gemeinsamen Initiative der Gewerkschaft Verdi, der Professoren Peter Schüren und Wolfgang Däubler und des Landes Berlin. Darum möchte ich mich hier bei Verdi, den beiden Wissenschaftlern und vor allem bei der damaligen Berliner Arbeitssenatorin Dr. Heidi Knake-Werner und ihrer Nachfolgerin Carola Bluhm - beide übrigens Mitglieder der Linken - herzlich bedanken.</p>
@@ -2798,11 +2894,13 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie des Abg. Johannes Vogel [Lüdenscheid] [FDP])</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Beate Müller-Gemmeke für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Beate Müller-Gemmeke" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Beate Müller-Gemmeke">
+      </div>
+      <div type="agenda_item" n="52" what="debate" desc="Debatte">
+        <sp who="Beate Müller-Gemmeke" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Beate Müller-Gemmeke" party="GRUENE" name="Beate Müller-Gemmeke">
           <speaker>Beate Müller-Gemmeke (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrter Herr Präsident! Sehr geehrte Kolleginnen und Kollegen! Diese Woche ist eine gute Woche. Das Bundesarbeitsgericht hat der Tarifgemeinschaft Christlicher Gewerkschaften für Zeitarbeit und Personalserviceagenturen die Tariffähigkeit aberkannt; darauf warte ich schon lange und ungeduldig. Damit hat die Lohndrückerei dieser Pseudotarifgemeinschaft endlich ein Ende.</p>
           <p>Die Leiharbeitskräfte in Betrieben mit diesen Gefälligkeitstarifverträgen mussten in den vergangenen Jahren für einen unsäglich niedrigen Lohn arbeiten. Sie haben unter der Pseudotarifgemeinschaft gelitten, die sich als christlich bezeichnet und nicht einmal die Durchsetzungskraft besitzt, bei nur einem einzigen Unternehmen einen Tarifvertrag durchzusetzen. Das BAG hat nun mit dem Beschluss klargestellt: Die tarifrechtlichen Voraussetzungen werden nicht erfüllt.</p>
@@ -2827,12 +2925,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Peter Weiß für die Fraktion der CDU/CSU.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Peter Weiß" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Weiß">
+      </div>
+      <div type="agenda_item" n="53" what="debate" desc="Debatte">
+        <sp who="Peter Weiß (Emmendingen)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Weiß (Emmendingen)" party="CDU" name="Peter Weiß">
           <speaker>Peter Weiß (Emmendingen) (CDU/CSU):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Jedes höchstrichterliche Urteil wird vielfältig interpretiert.</p>
           <stage type="interjection">(Christian Lange [Backnang] [SPD]: Diesmal ist es eindeutig!)</stage>
@@ -2873,7 +2973,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Wir kommen zur Beschlussempfehlung des Ausschusses für Arbeit und Soziales zu dem Antrag der Fraktion Die Linke mit dem Titel "Sozialkassen vor Beitragsverlusten bewahren". Der Ausschuss empfiehlt in seiner Beschlussempfehlung auf Drucksache 17/3732, den Antrag der Fraktion Die Linke auf Drucksache 17/3042 abzulehnen. Wer stimmt für diese Beschlussempfehlung? - Wer stimmt dagegen? - Wer enthält sich? - Die Beschlussempfehlung ist mit den Stimmen der Unionsfraktion und der FDP-Fraktion gegen die Stimmen der SPD-Fraktion, der Fraktion Die Linke und der Fraktion Bündnis 90/Die Grünen angenommen.</p>
@@ -2886,15 +2986,15 @@
           <p>Daniela Kolbe (Leipzig)</p>
           <p>Jimmy Schulz</p>
           <p>Roland Claus</p>
-          <p>Stephan Kühn </p>
+          <p>Stephan Kühn</p>
           <p>Hierzu liegen je ein Entschließungsantrag der Fraktion Die Linke und der Fraktion Bündnis 90/Die Grünen vor.</p>
           <p>Nach einer interfraktionellen Vereinbarung ist für die Aussprache eine halbe Stunde vorgesehen. Ich gehe davon aus, dass der Geräuschpegel kein Widerspruch zu dieser Vereinbarung ist. - Dann ist so beschlossen.</p>
           <p>Ich eröffne die Aussprache. Das Wort hat der Bundesminister des Innern, Dr. Thomas de Maizière.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="5" what="debate" desc="Beratung der Beschlussempfehlung und des Berichts des Innenausschusses (4. Aussc...">
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+      <div type="agenda_item" n="54" what="debate" desc="Debatte">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Am Ende dieses politischen Jahres möchte ich mit der Frage beginnen: War 2010 ein gutes Jahr - für Deutschland, für die Menschen?</p>
           <stage type="interjection">(Daniela Kolbe [Leipzig] [SPD]: Für den Osten nicht! - Fritz Kuhn [BÜNDNIS 90/DIE GRÜNEN]: Alles gut!)</stage>
@@ -2925,11 +3025,13 @@
           <p>Letzter Punkt. Wir haben uns dieses Jahr an 20 Jahre deutsche Einheit erinnert. Ich habe mich darüber gefreut. Es gab sehr viele Veranstaltungen: national, regional und lokal. Auch dort waren die Ostdeutschen ganz zufrieden. In der Umfrage, die ich eingangs zitiert habe, bejahen 52 Prozent der Befragten die Aussage: "Ich habe mich gefreut. Es war alles in allem ein würdiges Jubiläumsjahr". - Na bitte. Ich finde das gut. 2010 war auch für den Stand der deutschen Einheit und für die Menschen in Ostdeutschland ein gutes Jahr.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die SPD-Fraktion hat die Kollegin Daniela Kolbe das Wort.</p>
         </sp>
-        <sp who="Daniela Kolbe" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Daniela Kolbe">
+      </div>
+      <div type="agenda_item" n="55" what="debate" desc="Debatte">
+        <sp who="Daniela Kolbe (Leipzig)" parliamentary_group="SPD" role="mp" position="NA" who_original="Daniela Kolbe (Leipzig)" party="SPD" name="Daniela Kolbe">
           <speaker>Daniela Kolbe (Leipzig) (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Werte Kolleginnen und Kollegen! Als 1989 in Leipzig und anderswo die Menschen auf die Straße gegangen sind und wenig später in Berlin die Mauer gefallen ist, war ich neun Jahre alt. Ob man heute sagt, das ist lange her, oder nicht: Aus meiner Perspektive war das vor einem Großteil meines Lebens.</p>
           <p>Ich kann mich trotz meines damaligen jungen Alters noch sehr gut daran erinnern, wie es in der DDR ausgesehen hat, in welchem Zustand die Straßen und die Infrastruktur waren, was man gegessen hat, was man konsumiert hat und mit was man durch die Gegend gefahren ist. Ich kann mich auch noch gut an die Einschränkung der Lebensqualität erinnern, zu der die massive Umweltzerstörung geführt hat.</p>
@@ -2963,7 +3065,7 @@
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der LINKEN)</stage>
           <p>Für die Landwirtschaft befürchten wir dramatische Auswirkungen. Für die öffentliche Hand sind Mindereinnahmen von circa 1 Milliarde Euro zu befürchten.</p>
           <p>Liebe Grüne - das kann ich Ihnen leider nicht ersparen -, in einem Entschließungsantrag zu diesem Thema, in dem wirklich viel Gutes steht, schreiben Sie unter anderem folgenden richtigen Satz:</p>
-          <p>Auswüchse der Bodenspekulation bzw. -konzentration müssen vermieden werden. </p>
+          <p>Auswüchse der Bodenspekulation bzw. -konzentration müssen vermieden werden.</p>
           <p>Das ist ein richtiger Satz. Sie haben vorhin dem Flächenerwerbsänderungsgesetz zugestimmt.</p>
           <stage type="interjection">(Dr. Thomas Feist [CDU/CSU]: Was hat das denn damit zu tun?)</stage>
           <p>- Das hat sehr wohl damit zu tun.</p>
@@ -2973,12 +3075,14 @@
           <p>Zusammenfassend möchte ich sagen: In 20 Jahren wurde von den Menschen, den Unternehmen und der Politik viel erreicht. Es geht darum, diesen Prozess aktiv, energisch und öffentlich weiterzuführen. Da sehe ich bei Schwarz-Gelb im Moment leider schwarz.</p>
           <stage type="interjection">(Beifall bei der SPD - Dr. Thomas Feist [CDU/CSU]: Schwache Rede!)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die FDP hat der Kollege Kurth das Wort.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Patrick Kurth" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Patrick Kurth">
+      </div>
+      <div type="agenda_item" n="56" what="debate" desc="Debatte">
+        <sp who="Patrick Kurth (Kyffhäuser)" parliamentary_group="FDP" role="mp" position="NA" who_original="Patrick Kurth (Kyffhäuser)" party="FDP" name="Patrick Kurth">
           <speaker>Patrick Kurth (Kyffhäuser) (FDP):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Das Jahr geht zu Ende, damit auch ein Jahr der Jubiläen.</p>
           <stage type="interjection">(Stephan Kühn [BÜNDNIS 90/DIE GRÜNEN]: Die FDP geht auch zu Ende!)</stage>
@@ -3018,12 +3122,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die Fraktion Die Linke hat nun der Kollege Claus das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Roland Claus" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Roland Claus">
+      </div>
+      <div type="agenda_item" n="57" what="debate" desc="Debatte">
+        <sp who="Roland Claus" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Roland Claus" party="DIE LINKE" name="Roland Claus">
           <speaker>Roland Claus (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Wir beantworten hier die Gretchenfrage: Wie hältst du es mit der deutschen Einheit? Dazu will ich gerne beitragen. Wir reden jedes Jahr über den Jahresbericht zum Stand der deutschen Einheit, in diesem Jahr geschieht das vor dem Hintergrund des 20. Jahrestages. Um es klar zu sagen: Ich freue mich über jeden Schritt nach vorne, der in den neuen Bundesländern gegangen wird. Ich tue auch etwas dafür, dass solche Schritte tatsächlich möglich sind.</p>
           <p>Trotzdem gehört zur Wahrheit, dass die Angleichung der Lebensverhältnisse in Ost und West seit über zehn Jahren nicht vorankommt. Die Schere geht nicht nur nicht mehr zusammen, sondern sie geht auseinander. In dem Zusammenhang treffe ich überall auf das Bild von dem halb vollen und dem halb leeren Glas.</p>
@@ -3056,11 +3162,13 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die Fraktion Bündnis 90/Die Grünen hat der Kollege Stephan Kühn das Wort.</p>
         </sp>
-        <sp who="Stephan Kühn" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Stephan Kühn">
+      </div>
+      <div type="agenda_item" n="58" what="debate" desc="Debatte">
+        <sp who="Stephan Kühn" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Stephan Kühn" party="GRUENE" name="Stephan Kühn">
           <speaker>Stephan Kühn (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine Damen und Herren! Der vorgelegte Bericht ist ehrlicher als die vorangegangenen, was Lageeinschätzung und Zukunftsaussichten betrifft. Das Ziel wurde leicht nach unten korrigiert: Es geht nicht mehr um die blühenden Land-schaften, sondern um das Aufschließen zu den strukturschwächsten westdeutschen Ländern, deren Niveau bis zum Auslaufen des Solidarpakts II im Jahr 2019 erreicht werden soll.</p>
           <p>Trotzdem sind die Erfolge im Aufbau Ost unbestreitbar. Exemplarisch möchte ich die Verbesserung der Umweltsituation und die Sanierung der ostdeutschen Städte nennen. Der Anteil der sanierten Gebäude ist im Osten höher als im Westen. Ich denke, das ist in der Tat ein Erfolg.</p>
@@ -3070,7 +3178,7 @@
           <p>Dennoch ist Ostdeutschland geteilt in wirtschaftlich potente Wachstumskerne einerseits wie beispielsweise Dresden und abgekoppelte Regionen andererseits, gerade im ländlichen Bereich, die durch den demografischen Wandel zusätzlich benachteiligt sind. Das ökonomische Wachstum stagniert seit Mitte der 90er-Jahre, und der Anstieg des Bruttoinlandsprodukts in diesem Jahr fiel im Osten geringer aus als im Westen. Wir haben - das ist an mehreren Stellen schon genannt worden - eine höhere Arbeitslosenquote. Das Bruttolohnniveau liegt bei 81 Prozent des Westniveaus, und die soziale Armut ist doppelt so hoch. Ich empfehle dazu die Lektüre des Sozialberichts des Deutschen Gewerkschaftsbundes.</p>
           <p>Richtig ist, dass im Bericht die Frage nach dem gesellschaftlichen Zusammenhalt zwischen Ost und West gestellt wird. Dazu gehören aber auch die Vereinheitlichung des Rentenrechts, die immer noch nicht erfolgt ist, und gleiche Löhne.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD - Dr. Thomas Feist [CDU/CSU]: Das wäre für einige Rentner im Osten nicht gut! Das wissen Sie doch!)</stage>
-          <p>Die aktuelle Politik der Bundesregierung - darauf haben einige Vorredner zu Recht hingewiesen -, erschwert den Angleichungsprozess zusätzlich. Die Kürzungen der Bundesregierung, die mit steigenden Sozialausgaben bei den ostdeutschen Kommunen verbunden sind, haben erhebliche Auswirkungen. Ich erinnere an die Kosten der Unterkunft und die Abschaffung des Heizkostenzuschusses. Der viel zitierte Bericht des Paritätischen Wohlfahrtsverbandes - man kann das nicht oft genug wiederholen - zeigt die räumliche Wirkung auf, die in der Tat sehr besorgniserregend ist. </p>
+          <p>Die aktuelle Politik der Bundesregierung - darauf haben einige Vorredner zu Recht hingewiesen -, erschwert den Angleichungsprozess zusätzlich. Die Kürzungen der Bundesregierung, die mit steigenden Sozialausgaben bei den ostdeutschen Kommunen verbunden sind, haben erhebliche Auswirkungen. Ich erinnere an die Kosten der Unterkunft und die Abschaffung des Heizkostenzuschusses. Der viel zitierte Bericht des Paritätischen Wohlfahrtsverbandes - man kann das nicht oft genug wiederholen - zeigt die räumliche Wirkung auf, die in der Tat sehr besorgniserregend ist.</p>
           <p>Im Ausschuss hat Staatssekretär Dr. Bergner zu Recht darauf hingewiesen, dass es eine Akzentverschiebung von Infrastruktur zu Innovationen geben muss. Leider passiert da wenig. Eine strategische Neuausrichtung der Förderpolitik wäre geboten. Schaut man sich an, wie die Korb-II-Mittel vergangenes Jahr verwendet wurden, stellt man leider fest, dass die Bundesmittel für den Verkehrsbereich immer noch höher sind als die Mittel für die Politikfelder Innovation, Forschung, Entwicklung und Bildung.</p>
           <stage type="interjection">(Dr. Thomas Feist [CDU/CSU]: Schauen Sie sich einmal an, wie die gestiegen sind!)</stage>
           <p>Die Infrastrukturlücke, die oft beschrieben wird, existiert nicht mehr. Leider werden hier die falschen Prioritäten gesetzt.</p>
@@ -3089,22 +3197,26 @@
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Zum Schluss: Ich denke, wir müssen uns - das wird in dem Bericht nur am Rande gestreift - stärker auf die ländlichen und peripheren Regionen konzentrieren und dort eigenständige Lösungen entwickeln. Es reicht eben nicht, auf die Demografiestrategie, die irgendwann nächstes Jahr vorliegen soll, zu warten. Wir brauchen mehr regional angepasste Förderkonzepte, beispielsweise durch den Einsatz von Regionalbudgets.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollege Kühn, achten Sie bitte auf das Zeichen.</p>
         </sp>
-        <sp who="Stephan Kühn" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Stephan Kühn">
+      </div>
+      <div type="agenda_item" n="59" what="debate" desc="Debatte">
+        <sp who="Stephan Kühn" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Stephan Kühn" party="GRUENE" name="Stephan Kühn">
           <speaker>Stephan Kühn (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ich komme zum Schluss. - Insbesondere die ökologische Modernisierung bietet greifbare und weitreichende Potenziale für die Entwicklung in den neuen Ländern, gerade im ländlichen Raum. Sorgen Sie deshalb dafür, dass die erneuerbaren Energien weiter Wachstums- und Jobmotor bleiben.</p>
           <p>Ich danke für die Aufmerksamkeit und wünsche allen erholsame Weihnachtsfeiertage.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die Unionsfraktion hat nun der Kollege Manfred Behrens das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Manfred Behrens" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Manfred Behrens">
+      </div>
+      <div type="agenda_item" n="60" what="debate" desc="Debatte">
+        <sp who="Manfred Behrens (Börde)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Manfred Behrens (Börde)" party="CDU" name="Manfred Behrens">
           <speaker>Manfred Behrens (Börde) (CDU/CSU):</speaker>
           <p>Sehr geehrte Präsidentin! Sehr geehrte Damen und Herren! Wenige Tage nach dem Fall der Mauer am 9. November 1989 wurde aus dem Ruf "Wir sind das Volk!" der Ruf: "Wir sind ein Volk!" Im Anschluss daran fanden die ersten freien Wahlen statt. Für die Parteien, die die deutsche Einheit anstrebten, stimmte eine überwältigende Mehrheit der Bürger und Bürgerinnen. Kurz darauf trat die Wirtschafts- und Währungsunion in Kraft. Die D-Mark wurde alleiniges Zahlungsmittel. Am 12. September 1990 unterzeichneten die beiden deutschen Staaten und die Alliierten das Zwei-plus-Vier-Abkommen. Deutschland erhielt seine volle Souveränität zurück. Die deutsche Einheit wird seit 1990 als Nationalfeiertag gefeiert.</p>
           <p>Das Jahr 2010 stand ganz im Zeichen der Erinnerung an den Aufbau der Demokratie in Ostdeutschland. Es gibt zahlreiche positive Aspekte. Einige werde ich nun benennen.</p>
@@ -3129,17 +3241,17 @@
           <p>Auch ich wünsche Ihnen ein schönes Weihnachtsfest und geruhsame Tage. Vielen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollege Behrens, das war Ihre erste Rede in diesem Hohen Hause. Ich gratuliere Ihnen dazu recht herzlich. Wir wünschen Ihnen Erfolg bei Ihrer Arbeit.</p>
           <stage type="interjection">(Beifall)</stage>
           <p>Ich schließe die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über die Beschlussempfehlung des Innenausschusses auf Drucksache 17/4147 zu dem Jahresbericht der Bundesregierung zum Stand der Deutschen Einheit 2010. Der Ausschuss empfiehlt, die Unterrichtung auf Drucksache 17/3000 im Rahmen der Plenardebatte erneut zur Kenntnis zu nehmen. Wer stimmt für diese Beschlussempfehlung? - Wer stimmt dagegen? - Wer enthält sich? - Die Beschlussempfehlung ist einstimmig angenommen.</p>
-          <p>Wir kommen zur Abstimmung über die Entschließungsanträge, und zwar zunächst über den Entschließungsantrag der Fraktion Die Linke auf Drucksache 17/4228. Wer stimmt für diesen Entschließungsantrag? - Wer stimmt dagegen? - Wer enthält sich? - Der Entschließungsantrag ist mit den Stimmen der Unionsfraktion, der FDP-Fraktion, der Fraktion Bündnis 90/ Die Grünen gegen die Stimmen der Fraktion Die Linke bei Enthaltung der SPD-Fraktion abgelehnt. </p>
+          <p>Wir kommen zur Abstimmung über die Entschließungsanträge, und zwar zunächst über den Entschließungsantrag der Fraktion Die Linke auf Drucksache 17/4228. Wer stimmt für diesen Entschließungsantrag? - Wer stimmt dagegen? - Wer enthält sich? - Der Entschließungsantrag ist mit den Stimmen der Unionsfraktion, der FDP-Fraktion, der Fraktion Bündnis 90/ Die Grünen gegen die Stimmen der Fraktion Die Linke bei Enthaltung der SPD-Fraktion abgelehnt.</p>
           <p>Wir kommen zur Abstimmung über den Entschließungsantrag der Fraktion Bündnis 90/Die Grünen auf Drucksache 17/4229. Wer stimmt für diesen Entschließungsantrag? - Wer stimmt dagegen? - Wer enthält sich? - Der Entschließungsantrag ist abgelehnt.</p>
           <p>Ich rufe den Tagesordnungspunkt 41 auf:</p>
           <p>Erste Beratung des von den Abgeordneten Dr. Gerhard Schick, Dr. Thomas Gambke, Britta Haßelmann, weiteren Abgeordneten und der Fraktion BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines ... Gesetzes zur Änderung des Wertpapierhandelsgesetzes</p>
-          <p>- Drucksache 17/4053 - </p>
+          <p>- Drucksache 17/4053 -</p>
           <p>Überweisungsvorschlag:</p>
           <p>Finanzausschuss (f)</p>
           <p>Rechtsausschuss</p>
@@ -3148,18 +3260,20 @@
           <p>Ich eröffne die Aussprache. Das Wort hat der Kollege Dr. Gerhard Schick.</p>
         </sp>
       </div>
-      <div type="agenda_item" n="6" what="debate" desc="Erste Beratung des von den Abgeordneten Dr. Gerhard Schick, Dr. Thomas Gambke, B...">
-        <sp who="Dr. Gerhard Schick" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Gerhard Schick">
+      <div type="agenda_item" n="61" what="debate" desc="Debatte">
+        <sp who="Gerhard Schick" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Gerhard Schick" party="GRUENE" name="Gerhard Schick">
           <speaker>Dr. Gerhard Schick (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Kurz vor Ende dieser Sitzungswoche und damit der Beratungen in diesem Jahr erbitten wir Ihre Zustimmung zu unserem Gesetzentwurf, zumindest aber die gründliche Erwägung der vorgeschlagenen Neuregelung.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollege Schick, entschuldigen Sie. Bitte warten Sie einen Moment, bis Ruhe herrscht, damit auch Ihren Worten Aufmerksamkeit geschenkt werden kann.</p>
           <p>Liebe Kolleginnen und Kollegen, ich weiß, es sind aufregende Stunden. Aber vielleicht können Sie die Beratungen, die unbedingt noch stattfinden müssen - außer der Beratung dieses Gesetzentwurfes -, nach draußen verlegen.</p>
           <p>Bitte, Kollege Schick.</p>
         </sp>
-        <sp who="Dr. Gerhard Schick" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Gerhard Schick">
+      </div>
+      <div type="agenda_item" n="62" what="debate" desc="Debatte">
+        <sp who="Gerhard Schick" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Gerhard Schick" party="GRUENE" name="Gerhard Schick">
           <speaker>Dr. Gerhard Schick (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Danke. - Es geht in unserem Gesetzentwurf um die Verjährungsfristen bei Schadensersatzansprüchen wegen Falschberatung. Wir haben die Verjährungsfristen noch zu Zeiten der Großen Koalition verlängert. Die Sonderregelung, die bis dahin galt, ist abgeschafft worden. Als ich mir die entsprechenden Unterlagen angesehen habe, stellte ich fest: Wir alle haben damals nicht bedacht - so gut es war, die Fristen zu verlängern -, dass die vielen Fälle von Falschberatung oder möglicher Falschberatung, die im Zuge der Finanzkrise aufgetreten sind, von der Übergangsregelung nicht erfasst werden. Es ist typisch, dass im Rahmen der Finanzkrise besonders viele solcher Fälle aufgetreten sind. Häufig ist es nämlich so, dass die Menschen die Effekte einer Falschberatung gar nicht merken.</p>
           <p>Wir schlagen jetzt vor, die Übergangsregelung zu ändern. Warum? Die Menschen, um die es geht - es sind mehrere Zehntausend in Deutschland; ganz exakte Zahlen liegen nicht vor -, stehen vor dem Dilemma, dass sie in der Regel mehrere zehntausend Euro verloren haben, zum Beispiel durch den Kauf von Lehman-Zertifikaten. Es geht in diesem Zusammenhang aber nicht nur um Zertifikate, sondern auch um Fondsbeteiligungen und andere Finanzprodukte. Wer die Tickermeldungen von heute liest, weiß, dass es auch in anderen Fällen zu Falschberatung kommen kann. Die Betroffenen, die gerade erst mehrere zehntausend Euro verloren haben, müssen im Falle einer Klage ein Prozesskostenrisiko von weiteren 10 000 oder 15 000 Euro eingehen. Da sie nicht wissen, wie der Prozess ausgeht, trauen sie sich in vielen Fällen nicht, zu klagen. Eine Rechtsschutzversicherung trägt die Kosten einer solchen Klage häufig nicht; denn sie bezeichnet die Produkte, die von einer Bank als vermeintlich sichere Anlagen verkauft worden sind, als spekulative Produkte. Die Betroffenen fallen hier in eine Lücke unseres Rechtsstaates. Wir meinen, dass es gerechtfertigt ist, die Fälle, die noch nicht verjährt sind, durch eine veränderte Übergangsregelung aus der Verjährung herauszunehmen.</p>
@@ -3170,12 +3284,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die Unionsfraktion spricht nun der Kollege Brinkhaus.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Ralph Brinkhaus" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ralph Brinkhaus">
+      </div>
+      <div type="agenda_item" n="63" what="debate" desc="Debatte">
+        <sp who="Ralph Brinkhaus" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ralph Brinkhaus" party="CDU" name="Ralph Brinkhaus">
           <speaker>Ralph Brinkhaus (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Herr Schick, ich war wirklich gespannt, wie Sie es schaffen würden, diesen sehr komplexen Gesetzentwurf, den Sie formuliert haben, hier zu erklären. Ich muss sagen - bei allem Respekt -: Sie sind gescheitert. Ich glaube, kaum jemand hat verstanden, worauf Sie hinauswollen. Das ist schade, weil es durchaus ein ernsthaftes Anliegen ist.</p>
           <p>Ich möchte meine Ausführungen in drei Teile gliedern. Ich möchte auf Ihren Gesetzentwurf eingehen, ich möchte darlegen, dass er auch etwas mit Ihrer Grundeinstellung zur Verbraucherpolitik zu tun hat, die mit unserer Grundeinstellung nicht übereinstimmt, und ich möchte zum Schluss noch einmal darstellen, was wir in diesem Jahr im Bereich "Finanzregulierung und Verbraucherschutz" auf den Weg gebracht haben, was gut und was schlecht war und was wir vielleicht - da beziehe ich auch uns als Regierungsfraktionen mit ein - besser machen können.</p>
@@ -3202,22 +3318,26 @@
           <p>Wenn ich mir für das nächste Jahr etwas wünschen kann, dann würde ich mir erstens wünschen, dass - wie jetzt beim Anlegerschutz- und Funktionsverbesserungsgesetz - weniger darüber diskutiert wird, Herr Schick, ob die Zertifikate mit hinein müssen oder nicht, und mehr darüber diskutiert wird, ob die Regelungen, die wir bei den offenen Immobilienfonds getroffen haben, technisch sinnvoll sind, ob das Produkt dann auch tatsächlich haltbar ist, ob die Regelungen, die wir bezüglich der Registrierung der Anlagenberater treffen, in dieser Form umsetzbar sind oder ob das sehr bürokratisch ist. Mein erster Wunsch wäre also, dass wir das hinbekommen.</p>
           <p>Der zweite Wunsch geht in Richtung der Menschen, die durch Lehman geschädigt worden sind. Ich wünsche ihnen, dass sie gute Entscheidungen treffen werden und dass sie, wenn sie tatsächlich falsch beraten worden sind, wenn die Informationspflichten verletzt worden sind, ihr Recht bekommen.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Herr Kollege Brinkhaus, gestatten Sie eine Zwischenfrage des Kollegen Schick?</p>
         </sp>
-        <sp who="Ralph Brinkhaus" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ralph Brinkhaus">
+      </div>
+      <div type="agenda_item" n="64" what="debate" desc="Debatte">
+        <sp who="Ralph Brinkhaus" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ralph Brinkhaus" party="CDU" name="Ralph Brinkhaus">
           <speaker>Ralph Brinkhaus (CDU/CSU):</speaker>
           <p>Ich bin sofort fertig. Ich sage noch den letzten Satz. Dann können Sie eine Kurzintervention machen. - Ich wünsche mir, dass diese Menschen zu ihrem Recht kommen. Das gilt insbesondere für die älteren Menschen, die es nicht wieder ausgleichen können, wenn ihnen Geld verloren gegangen ist. Ich denke, das würde zum Rechtsfrieden in dieser Republik beitragen. Insofern hoffe ich, dass es für viele Lehman-Geschädigte zu einem guten Ausgang kommen wird.</p>
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die SPD hat der Kollege Dr. Sieling das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Carsten Sieling" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Carsten Sieling">
+      </div>
+      <div type="agenda_item" n="65" what="debate" desc="Debatte">
+        <sp who="Carsten Sieling" parliamentary_group="SPD" role="mp" position="NA" who_original="Carsten Sieling" party="SPD" name="Carsten Sieling">
           <speaker>Dr. Carsten Sieling (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Der Kollege hat eben in charmanter Art versucht, deutlich zu machen, dass wir uns in diesen Beratungen auf die Einzelpunkte konzentrieren</p>
           <stage type="interjection">(Ralph Brinkhaus [CDU/CSU]: Auch!)</stage>
@@ -3247,12 +3367,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Herzlichen Dank. - Für die FDP-Fraktion hat der Kollege Holger Krestel das Wort.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Holger Krestel" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Holger Krestel">
+      </div>
+      <div type="agenda_item" n="66" what="debate" desc="Debatte">
+        <sp who="Holger Krestel" parliamentary_group="FDP" role="mp" position="NA" who_original="Holger Krestel" party="FDP" name="Holger Krestel">
           <speaker>Holger Krestel (FDP):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Zuerst ein Wort an den Kollegen aus der SPD: Ich sehe bei Ihnen gerade in diesen finanzpolitischen Themen immer ein Stück weit die Flucht vor der eigenen Regierungsvergangenheit. Wer hat denn die Gesetze, die wir heute zumindest nach dem Wunsch der Grünen nachbessern sollen, federführend in der letzten Regierung mit auf den Weg gebracht?</p>
           <stage type="interjection">(Dr. Carsten Sieling [SPD]: Haben Sie als FDP damals zugestimmt?)</stage>
@@ -3265,14 +3387,16 @@
           <p>Ich wünsche Ihnen frohe Weihnachten. Danke.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollege Krestel, das war Ihre erste Rede im Hohen Hause. Wir wünschen Ihnen viel Erfolg für Ihre weitere Arbeit.</p>
           <stage type="interjection">(Beifall)</stage>
           <p>Für die Fraktion Die Linke hat nun der Kollege Dr. Axel Troost das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Axel Troost" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Axel Troost">
+      </div>
+      <div type="agenda_item" n="67" what="debate" desc="Debatte">
+        <sp who="Axel Troost" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Axel Troost" party="DIE LINKE" name="Axel Troost">
           <speaker>Dr. Axel Troost (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Die Initiative der Grünen, die wir heute debattieren, kommt zum richtigen Zeitpunkt. Die Verjährungsfrist für Schadensersatzansprüche auch auf Falschberatungen auszudehnen, die vor dem 4. August 2009 stattgefunden haben, ist ein Schritt in die richtige Richtung. Allerdings bleibt der Gesetzentwurf aus unserer Sicht in seinem Gesamtanliegen viel zu zaghaft. Denn er berücksichtigt nicht, dass im Zuge der rigorosen Privatisierung der Altersvorsorge viele Menschen dazu übergehen, auch Papiere mit viel längeren Laufzeiten als zehn Jahre zu erwerben.</p>
           <p>Eine Rentenversicherung wird im besten Fall nur ein- oder zweimal im Leben abgeschlossen, und ihre Qualität kann man zum Teil erst nach vielen Jahren bewerten. Dieser Gesetzentwurf hilft somit all jenen überhaupt nicht, die erst nach Ablauf dieser Zeitspanne auf eine Schädigung aufmerksam werden können.</p>
@@ -3287,21 +3411,21 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird die Überweisung des Gesetzentwurfs auf Drucksache 17/4053 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Gibt es dazu anderweitige Vorschläge? - Das ist nicht der Fall. Dann ist das so beschlossen.</p>
           <p>Ich rufe den Zusatzpunkt 5 auf:</p>
           <p>Aktuelle Stunde</p>
           <p>auf Verlangen der Fraktion DIE LINKE</p>
-          <p>Kein Atomendlager bei Lubmin </p>
+          <p>Kein Atomendlager bei Lubmin</p>
           <p>Ich eröffne die Aussprache.</p>
           <p>Das Wort hat der Kollege Steffen Bockhahn für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="7" what="recent_issues" desc="Aktuelle Stunde">
-        <sp who="Steffen Bockhahn" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Steffen Bockhahn">
+      <div type="agenda_item" n="68" what="debate" desc="Debatte">
+        <sp who="Steffen Bockhahn" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Steffen Bockhahn" party="DIE LINKE" name="Steffen Bockhahn">
           <speaker>Steffen Bockhahn (DIE LINKE):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine sehr geehrten Damen und Herren! Gestern Abend ist der Castortransport im Zwischenlager Nord bei Lubmin angekommen. Er hat deutlich länger gebraucht als geplant. Das ist die erste gute Nachricht, weil es deutlich gemacht hat, dass es Protest auch in Vorpommern gibt und nicht nur in anderen Teilen Deutschlands.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -3341,12 +3465,14 @@
           <p>Ganz zum Schluss Folgendes: Wenn Sie sagen, es handele sich in Lubmin überhaupt nicht um ein Endlager, dann muss ich Ihnen entgegenhalten: Die Genehmigung läuft momentan bis 2039. Ich glaube nicht daran, dass Sie bis 2039 ein echtes Endlager gefunden haben werden. Was passiert dann? Dann wird die Betriebsgenehmigung verlängert, und schleichend wird das dort doch ein Endlager. Das werden wir nicht zulassen.</p>
           <stage type="interjection">(Anhaltender Beifall bei der LINKEN - Dr. Maria Flachsbarth [CDU/CSU]: Das ist ja ganz großartig! - Manfred Grund [CDU/ CSU]: Die moralisch hochstehende Linke!)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat die Parlamentarische Staatssekretärin Ursula Heinen-Esser.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Ursula Heinen-Esser" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit" party="CDU" name="Ursula Heinen-Esser">
+      </div>
+      <div type="agenda_item" n="69" what="debate" desc="Debatte">
+        <sp who="Ursula Heinen-Esser" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit" who_original="Ursula Heinen-Esser" party="CDU" name="Ursula Heinen-Esser">
           <speaker>Ursula Heinen-Esser, Parl. Staatssekretärin beim Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit:</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Ich finde es schon erstaunlich, mit welchem Titel wir heute in diese Aktuelle Stunde gehen:</p>
           <stage type="interjection">(Michael Kauch [FDP]: So ist das!)</stage>
@@ -3384,12 +3510,14 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die SPD-Fraktion spricht nun die Kollegin Ute Vogt.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Ute Vogt" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ute Vogt">
+      </div>
+      <div type="agenda_item" n="70" what="debate" desc="Debatte">
+        <sp who="Ute Vogt" parliamentary_group="SPD" role="mp" position="NA" who_original="Ute Vogt" party="SPD" name="Ute Vogt">
           <speaker>Ute Vogt (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Es wird zwar derzeit kein Atomendlager im Zwischenlager Nord in Rubenow eingerichtet, aber faktisch handelt es sich dabei um ein Endloslager.</p>
           <stage type="interjection">(Beifall bei der SPD und der LINKEN)</stage>
@@ -3407,7 +3535,7 @@
           <p>Man kann nachvollziehen, dass gerade in Mecklenburg-Vorpommern die Menschen besonders empört sind. Denn gerade dieses Land hat wahrlich seinen Beitrag geleistet, und es kann Vorbild für andere sein.</p>
           <stage type="interjection">(Zuruf von der LINKEN: Genau!)</stage>
           <p>Da Mecklenburg-Vorpommern schon heute 40 Prozent seines Nettostromverbrauchs aus Windenergie produziert und damit in Deutschland den zweiten Platz einnimmt, kann man verstehen, dass einem die Zukunft, die man mit dem Windrad täglich vor Augen hat - eine Zukunft, die erst durch Rot-Grün möglich geworden ist -, dadurch vergällt wird, dass Sie durch Ihre Energiepolitik eine unendliche Müllmenge produzieren. Dann kann man verstehen, dass Ihnen die Menschen nicht mehr vertrauen und sie Sorge und Angst haben, dass sie das, was von Ihrer Seite dorthin gekarrt wird, nie mehr loswerden.</p>
-          <stage type="interjection">(Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN) </stage>
+          <stage type="interjection">(Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Ich denke, die CDU muss eine realistischere Wahrnehmung bekommen. Der CDU-Innenminister von Mecklenburg-Vorpommern, Herr Caffier, hat sich darüber beschwert, dass er - ich zitiere - "nun den Müll bekommt, den die Grünen bestellt haben". Ich sage Ihnen: Viel richtiger ist, dass dieses Land jetzt den Protest bekommt, den CDU/CSU und FDP provoziert haben. Das ist die Wahrheit. Das steckt hinter den Protesten.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
           <p>Wenn man zurückschaut, stellt man fest, dass es damals in Deutschland bei der Einführung der Atomenergie auch in meiner Partei einen breiten politischen Konsens gab.</p>
@@ -3418,12 +3546,14 @@
           <p>Das zerstört den energiepolitischen Konsens in diesem Lande. Sie sorgen für Unfrieden. Sie sorgen für 450 Tonnen mehr hochradioaktiven Müll, und das Jahr für Jahr für die nächsten zwölf Jahre. Das ist unverantwortlich. Sie werden nicht umhinkommen, die Proteste wahrzunehmen. Vor allen Dingen werden Sie 2013 die Quittung für Ihr Handeln bekommen. Die Kräfte, die dann an die Regierung kommen, werden die Laufzeitverlängerung wieder beenden, damit wieder Frieden in diesem Land herrscht und vor allem eine zukunftsfähige Energiepolitik betrieben wird.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN - Zuruf von der CDU/CSU: Ist ja auch Weihnachten!)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Der Kollege Michael Kauch hat nun für die FDP-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der FDP)</stage>
         </sp>
-        <sp who="Michael Kauch" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Michael Kauch">
+      </div>
+      <div type="agenda_item" n="71" what="debate" desc="Debatte">
+        <sp who="Michael Kauch" parliamentary_group="FDP" role="mp" position="NA" who_original="Michael Kauch" party="FDP" name="Michael Kauch">
           <speaker>Michael Kauch (FDP):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Die Linke hat heute noch einmal gezeigt, dass bei ihr die Mauer im Kopf immer noch da ist.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU - Zurufe von der LINKEN: Oh!)</stage>
@@ -3452,18 +3582,20 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Zuruf vom BÜNDNIS 90/DIE GRÜNEN: Frohe Weihnachten!)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die Fraktion Bündnis 90/Die Grünen hat nun die Kollegin Sylvia Kotting-Uhl das Wort.</p>
         </sp>
-        <sp who="Sylvia Kotting-Uhl" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Sylvia Kotting-Uhl">
+      </div>
+      <div type="agenda_item" n="72" what="debate" desc="Debatte">
+        <sp who="Sylvia Kotting-Uhl" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Sylvia Kotting-Uhl" party="GRUENE" name="Sylvia Kotting-Uhl">
           <speaker>Sylvia Kotting-Uhl (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Herr Bockhahn, wir sind uns beim Ziel der Energiepolitik wahrscheinlich ziemlich einig. Man kann aber nicht so inflationär mit dem Begriff "Atommüllendlager" umgehen, wie Sie es heute gemacht haben. Wenn man ein Atommüllendlager finden, auswählen und so benennen möchte, muss man bestimmten Kriterien folgen.</p>
           <stage type="interjection">(Steffen Bockhahn [DIE LINKE]: Ach!)</stage>
           <p>Wenn Sie das, was in Lubmin steht, als Atommüllendlager bezeichnen - egal vor welchem Hintergrund, mit welcher Zielrichtung Sie es so bezeichnen -, ist das schlimmer, als wenn andere sagen, Gorleben sei ein supertolles Endlager. Ich kann das nicht akzeptieren. Außerdem - falls Sie es nicht wissen -: In Ahaus lagert zum Beispiel Atommüll aus Rossendorf. Sollen wir den Atommüll zurückschicken und ihn in Rossendorf vor die Tür legen?</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN - Beifall bei der CDU/CSU und der FDP - Steffen Bockhahn [DIE LINKE]: Das ist eine andere Vereinbarung! Das wissen Sie auch!)</stage>
           <p>Sie haben richtigerweise gesagt, dass die Zwischenlagerung 2003 beantragt und anschließend genehmigt worden ist. Die Zwischenlager in Ahaus und Gorleben werden von der Privatwirtschaft, von der Atomwirtschaft, betrieben; Sie haben die Zwischenlagerung abgelehnt. Das Zwischenlager muss immer selber den Antrag auf Aufbewahrung stellen.</p>
-          <p>Jetzt sagen Sie einmal: Wohin hätte man denn gehen sollen? Mein Wahlkreis ist Karlsruhe. Insofern hat Herr Kauch sogar recht: Es ist auch mein Müll. Ich habe ihn nicht produziert; aber er stammt aus meinem Wahlkreis. Dieser Müll ist jetzt in Lubmin gelandet. Wo hätten wir ihn denn lassen sollen? In der Großstadt Karlsruhe, in der es damals zusätzlich die gerührte hochradioaktive Atomsuppe gab? Hätte man den ganzen Müll mitten in der Großstadt lassen sollen? Lubmin ist das einzige bundeseigene Zwischenlager. Damals gab es, wie Sie richtig gesagt haben, keine andere Lösung. </p>
+          <p>Jetzt sagen Sie einmal: Wohin hätte man denn gehen sollen? Mein Wahlkreis ist Karlsruhe. Insofern hat Herr Kauch sogar recht: Es ist auch mein Müll. Ich habe ihn nicht produziert; aber er stammt aus meinem Wahlkreis. Dieser Müll ist jetzt in Lubmin gelandet. Wo hätten wir ihn denn lassen sollen? In der Großstadt Karlsruhe, in der es damals zusätzlich die gerührte hochradioaktive Atomsuppe gab? Hätte man den ganzen Müll mitten in der Großstadt lassen sollen? Lubmin ist das einzige bundeseigene Zwischenlager. Damals gab es, wie Sie richtig gesagt haben, keine andere Lösung.</p>
           <p>Jetzt können Sie den Verursacher des Atommülls angreifen.</p>
           <stage type="interjection">(Zurufe von der FDP: Nein!)</stage>
           <p>- Sie können auch eine Zwischenfrage stellen. - Oder Sie können, wie Sie es gemacht haben, die Verursacher der Genehmigung angreifen. Jetzt fragen Sie sich einmal ernsthaft, welcher Angriff der bessere wäre, und dann können wir beide gemeinsam weiterreden.</p>
@@ -3490,12 +3622,14 @@
           <p>Die Demonstranten nehmen ein Grundrecht wahr, und die Polizisten wollen ihre Arbeit tun. Sie verunsichern beide Seiten. Das geht nicht! Hören Sie auf damit!</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Dr. Michael Paul für die Unionsfraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Michael Paul" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Paul">
+      </div>
+      <div type="agenda_item" n="73" what="debate" desc="Debatte">
+        <sp who="Michael Paul" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Paul" party="CDU" name="Michael Paul">
           <speaker>Dr. Michael Paul (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Ich bin der Linken ja schon fast dankbar dafür, dass sie heute diese Aktuelle Stunde beantragt hat, weil wir so einmal zeigen können, wie unseriös Ihre Politik ist, wie Sie systematisch versuchen, die Menschen in diesem Lande für dumm zu verkaufen.</p>
           <stage type="interjection">(Zuruf von der LINKEN: Was machen Sie denn?)</stage>
@@ -3516,12 +3650,14 @@
           <p>Ihnen allen wünsche ich eine schöne Weihnachtszeit. Auf Wiedersehen!</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die SPD-Fraktion hat die Kollegin Sonja Steffen das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Sonja Steffen" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Sonja Steffen">
+      </div>
+      <div type="agenda_item" n="74" what="debate" desc="Debatte">
+        <sp who="Sonja Steffen" parliamentary_group="SPD" role="mp" position="NA" who_original="Sonja Steffen" party="SPD" name="Sonja Steffen">
           <speaker>Sonja Steffen (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Sehr geehrter Herr Dr. Paul, mit einer Aussage haben Sie recht: Eigentlich ist alles ganz schön in Lubmin bzw. Rubenow. Denn abseits von Lärm, Stress und Hektik, unberührt von Massentourismus erwarten komfortable Hotels und gemütliche Pensionen ihre Gäste. Ganz in der Nähe gibt es ein Atommüllzwischenlager, das noch immer kaum entdeckt ist: Lubmin. Wieso nur hat sich bislang kaum jemand für die abgelegenste Atommüllhalde Deutschlands interessiert?</p>
           <p>Auch der Sozialismus setzte auf Atomkraft. In Lubmin entstand - das haben wir schon gehört - in den 70er-Jahren das größte Atomkraftwerk der DDR. Das Kernkraftwerk "Bruno Leuschner" in Lubmin bei Greifswald versorgte bis 1990 die Nordbezirke mit Strom. Dann wurde es - auch das kam schon zur Sprache - wegen Sicherheitsbedenken abgeschaltet. Gott sei Dank!</p>
@@ -3551,22 +3687,26 @@
           <stage type="interjection">(Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Aber vielleicht entschuldigen Sie sich ja gleich noch, Sie sind ja im Anschluss meiner Rede an der Reihe. Die Grundrechte der Meinungsfreiheit und der Demonstrationsfreiheit stehen unter einem besonderen Schutz. Es ist das gute Recht der Bürgerinnen und Bürger, gegen die Transporte von Atommüll nach Lubmin zu demonstrieren.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Frau Steffen, achten Sie bitte auf das Signal.</p>
         </sp>
-        <sp who="Sonja Steffen" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Sonja Steffen">
+      </div>
+      <div type="agenda_item" n="75" what="debate" desc="Debatte">
+        <sp who="Sonja Steffen" parliamentary_group="SPD" role="mp" position="NA" who_original="Sonja Steffen" party="SPD" name="Sonja Steffen">
           <speaker>Sonja Steffen (SPD):</speaker>
           <p>Das müsste besonders Ihnen, meine Damen und Herren von der FDP, am Herzen liegen. Es ist Ihnen, und zwar der gesamten Regierungskoalition, dringend zu raten, besser auf die Bedürfnisse und Wünsche Ihrer ostdeutschen Wählerinnen und Wähler zu achten.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die FDP-Fraktion spricht nun der Kollege Christian Ahrendt.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Christian Ahrendt" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Christian Ahrendt">
+      </div>
+      <div type="agenda_item" n="76" what="debate" desc="Debatte">
+        <sp who="Christian Ahrendt" parliamentary_group="FDP" role="mp" position="NA" who_original="Christian Ahrendt" party="FDP" name="Christian Ahrendt">
           <speaker>Christian Ahrendt (FDP):</speaker>
           <p>Frau Präsidentin! Meine verehrten Kolleginnen und Kollegen! Ich habe gar nicht vor, mich zu entschuldigen. Ich will nur der Wahrheit etwas aufs Pferd helfen.</p>
           <stage type="interjection">(Ulrich Kelber [SPD]: Und sich entschuldigen!)</stage>
@@ -3602,12 +3742,14 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Ralph Lenkert für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Ralph Lenkert" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Ralph Lenkert">
+      </div>
+      <div type="agenda_item" n="77" what="debate" desc="Debatte">
+        <sp who="Ralph Lenkert" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Ralph Lenkert" party="DIE LINKE" name="Ralph Lenkert">
           <speaker>Ralph Lenkert (DIE LINKE):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Sehr geehrte Kolleginnen und Kollegen! Da hatten wir mit der Bahn ja Glück: Der Castor kam vor dem Schneesturm an, ohne Havarie.</p>
           <stage type="interjection">(Heiterkeit der Abg. Ute Vogt [SPD])</stage>
@@ -3645,12 +3787,14 @@
           <p>Die Linke wird diesen Weg beschreiten. Folgen Sie uns!</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die Unionsfraktion spricht nun die Kollegin Dr. Maria Flachsbarth.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Maria Flachsbarth" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Maria Flachsbarth">
+      </div>
+      <div type="agenda_item" n="78" what="debate" desc="Debatte">
+        <sp who="Maria Flachsbarth" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Maria Flachsbarth" party="CDU" name="Maria Flachsbarth">
           <speaker>Dr. Maria Flachsbarth (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Herr Lenkert, wir machen einfach mal Angst. Wir behaupten einfach mal, was alles so passieren könnte und welcher Gefahr wir die Bürgerinnen und Bürger in diesem Lande aussetzen. Nach Ihrer Logik dürften wir überhaupt keine Industrie, chemische Industrie zum Beispiel schon gar nicht, betreiben.</p>
           <stage type="interjection">(Ralph Lenkert [DIE LINKE]: "Vermeidbare Risiken vermeiden" heißt das Motto!)</stage>
@@ -3682,12 +3826,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Zuruf von der SPD: Die Grünen jubeln!)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Ulrich Kelber für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Ulrich Kelber" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ulrich Kelber">
+      </div>
+      <div type="agenda_item" n="79" what="debate" desc="Debatte">
+        <sp who="Ulrich Kelber" parliamentary_group="SPD" role="mp" position="NA" who_original="Ulrich Kelber" party="SPD" name="Ulrich Kelber">
           <speaker>Ulrich Kelber (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Es war zu erwarten, dass es, wenn beim letzten Tagesordnungspunkt einer Plenarsitzung des Deutschen Bundestages zu einem solchen Thema gesprochen wird, etwas hektischer zugeht. Ich habe nur eine Bitte - ich richte sie insbesondere an Herrn Dr. Paul und an Herrn Ahrendt -: Werfen Sie noch einmal einen tiefen Blick in unsere Verfassung, bevor Sie sich das nächste Mal zum Thema Demonstrationsrecht äußern.</p>
           <stage type="interjection">(Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN - Christian Ahrendt [FDP]: Sie müssen einmal hören, was Ihnen die Polizisten vor Ort sagen, und das nicht ignorieren! Das sind auch Staatsbürger, Herr Kollege!)</stage>
@@ -3721,12 +3867,14 @@
           <p>Vielen Dank. Frohe Weihnachten und guten Rutsch!</p>
           <stage type="interjection">(Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Dr. Georg Nüßlein für die Unionsfraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Georg Nüßlein" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Georg Nüßlein">
+      </div>
+      <div type="agenda_item" n="80" what="debate" desc="Debatte">
+        <sp who="Georg Nüßlein" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Georg Nüßlein" party="CSU" name="Georg Nüßlein">
           <speaker>Dr. Georg Nüßlein (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine Damen! Meine Herren! Dass wir in der letzten Debatte in diesem Jahr über einen Akt linker Propaganda diskutieren müssen, ist etwas, was mich ärgert, was mich aufregt. Herr Lenkert, wenn Sie jetzt so lachen, sage ich Ihnen ganz offen: Das, was Sie vorgetragen haben, meine ich an dieser Stelle nicht. Das war schlicht und schlank Dummheit.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU - Steffen Bockhahn [DIE LINKE]: Vorsicht!)</stage>
@@ -3744,7 +3892,7 @@
           <stage type="interjection">(Beifall bei der CDU/CSU - Dr. Axel Troost [DIE LINKE]: Haben Sie schon etwas zum Thema gesagt? - Steffen Bockhahn [DIE LINKE]: Bis jetzt geht es null um das Thema! - Zuruf vom BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>- Wenn Sie sagen, ich kritisiere alles, dann komme ich gern zu den Grünen.</p>
           <stage type="interjection">(Heiterkeit und Beifall beim BÜNDNIS 90/ DIE GRÜNEN)</stage>
-          <p>Ich habe mit großer Freude zur Kenntnis genommen, dass Frau Kotting-Uhl das Thema Propaganda und den Titel des Ganzen genauso sieht wie ich. </p>
+          <p>Ich habe mit großer Freude zur Kenntnis genommen, dass Frau Kotting-Uhl das Thema Propaganda und den Titel des Ganzen genauso sieht wie ich.</p>
           <p>Ich gehe jetzt einfach einmal davon aus, dass Sie von den Grünen deshalb an dieser Stelle etwas leiser treten, weil Sie unter dem Druck stehen, Herrn Trittin bei jeder Gelegenheit verteidigen zu müssen; das haben wir ja heute schon mehrfach gehört.</p>
           <stage type="interjection">(Wolfgang Wieland [BÜNDNIS 90/DIE GRÜNEN]: Nüßlein, das ist Stüsslein! - Heiterkeit beim BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Das Zitat von Trittin aus dem Jahr 2001 ist ja mittlerweile gut bekannt:</p>
@@ -3764,12 +3912,14 @@
           <p>steht uns allen dies gut an. In diesem Sinne wünsche ich frohe Weihnachten.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU - Steffen Bockhahn [DIE LINKE]: Nein, doch nicht!)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Letzter Redner in dieser Debatte ist der Kollege Matthias Lietz für die Unionsfraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Matthias Lietz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Matthias Lietz">
+      </div>
+      <div type="agenda_item" n="81" what="debate" desc="Debatte">
+        <sp who="Matthias Lietz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Matthias Lietz" party="CDU" name="Matthias Lietz">
           <speaker>Matthias Lietz (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Es fällt mir nicht leicht, zu dieser Stunde und aus diesem Anlass in dieser fröhlichen Runde, wie ich hier bemerke, zu diesem Thema zu Ihnen zu sprechen. Es ist, wie ich glaube, niemand in diesem Raum, der so wie ich 1989 vor den Toren dieses Werkes stand und sich über den Beschluss der damaligen DDR-Regierung - es war der Minister Pflugbeil - gefreut hat, in dem es um die Stilllegung und den Ausstieg aus der Kernenergie an diesem Standort ging.</p>
           <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNIS- SES 90/DIE GRÜNEN)</stage>
@@ -3782,13 +3932,14 @@
           <p>Ich wünsche ihnen und uns allen eine gesegnete Weihnacht.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Die Aktuelle Stunde ist beendet.</p>
           <p>Wir sind damit am Schluss der heutigen Tagesordnung.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 19. Januar 2011, 13 Uhr, ein.</p>
           <p>Liebe Kolleginnen und Kollegen, ich wünsche Ihnen besinnliche Feiertage, Erholung und manche neue Erkenntnis. Wie ich höre, ist das Tief "Petra" abgezogen. Das heißt, Sie haben hoffentlich eine beschwerdefreie Heimreise.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluss: 16.33 Uhr)</stage>
         </sp>
       </div>
     </body>

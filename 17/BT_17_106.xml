@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-07</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2013/0920/dokumente/protokolle/plenarprotokolle/plenarprotokolle/17106.txt</url>
-        <date>2015-10-20 19:56:44</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -35,8 +35,8 @@
   </teiHeader>
   <text>
     <body>
-      <div type="agenda_item" n="1" what="debate" desc="a) Beratung der Unterrichtung durch die Bundesregierung">
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+      <div type="agenda_item" n="1" what="debate" desc="Debatte">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Guten Morgen, liebe Kolleginnen und Kollegen! Die Sitzung ist eröffnet.</p>
           <p>Ich rufe die Tagesordnungspunkte 23 a und b auf:</p>
@@ -45,12 +45,12 @@
           <p>- Drucksache 17/5400 -</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Bildung, Forschung und Technikfolgenabschätzung (f)</p>
-          <p>Sportausschuss </p>
+          <p>Sportausschuss</p>
           <p>Ausschuss für Wirtschaft und Technologie</p>
-          <p>Ausschuss für Arbeit und Soziales </p>
-          <p>Ausschuss für Familie, Senioren, Frauen und Jugend </p>
-          <p>Ausschuss für Gesundheit </p>
-          <p>Ausschuss für Tourismus </p>
+          <p>Ausschuss für Arbeit und Soziales</p>
+          <p>Ausschuss für Familie, Senioren, Frauen und Jugend</p>
+          <p>Ausschuss für Gesundheit</p>
+          <p>Ausschuss für Tourismus</p>
           <p>Haushaltsausschuss</p>
           <p>b) Beratung des Antrags der Abgeordneten Priska Hinz (Herborn), Brigitte Pothmer, Krista Sager, weiterer Abgeordneter und der Fraktion BÜND-NIS 90/DIE GRÜNEN</p>
           <p>Aus- und Weiterbildung stärken, Abbrüche verringern, Erfolgsquoten erhöhen</p>
@@ -58,13 +58,13 @@
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Bildung, Forschung und Technikfolgenabschätzung (f)</p>
           <p>Ausschuss für Wirtschaft und Technologie</p>
-          <p>Ausschuss für Arbeit und Soziales </p>
+          <p>Ausschuss für Arbeit und Soziales</p>
           <p>Ausschuss für Familie, Senioren, Frauen und Jugend</p>
           <p>Nach einer interfraktionellen Vereinbarung sind für die Aussprache eineinhalb Stunden vorgesehen. - Ich höre keinen Widerspruch. Dann ist das so beschlossen.</p>
           <p>Damit eröffne ich die Aussprache und erteile Bundesministerin Annette Schavan das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Annette Schavan" parliamentary_group="NA" role="government" position="Bundesministerin für Bildung und Forschung" party="CDU" name="Annette Schavan">
+        <sp who="Annette Schavan" parliamentary_group="NA" role="government" position="Bundesministerin für Bildung und Forschung" who_original="Annette Schavan" party="CDU" name="Annette Schavan">
           <speaker>Dr. Annette Schavan, Bundesministerin für Bildung und Forschung:</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Meine Damen und Herren! Der jährliche Berufsbildungsbericht der Bundesregierung informiert über die Lage auf dem Ausbildungsmarkt. Damit gibt er uns auch wichtige Informationen über die Zukunftschancen der jungen Generation. Denn wir wissen: Zwei Drittel aller Jugendlichen gehen den Weg über die berufliche Bildung. Deshalb ist die Situation auf dem Ausbildungsmarkt ein sensibles Thema, das im Jahr 2010 mit der Frage verbunden war: Wie wird sich die Zahl der Ausbildungsplätze in Zeiten der Wirtschaftskrise entwickeln? Wird sie stark zurückgehen? Wie werden die Bewerberzahlen sein?</p>
           <p>Kurz zusammengefasst sehen die Fakten in Bezug auf das Jahr 2010 folgendermaßen aus:</p>
@@ -94,12 +94,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Dagmar Ziegler für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dagmar Ziegler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dagmar Ziegler">
+      </div>
+      <div type="agenda_item" n="2" what="debate" desc="Debatte">
+        <sp who="Dagmar Ziegler" parliamentary_group="SPD" role="mp" position="NA" who_original="Dagmar Ziegler" party="SPD" name="Dagmar Ziegler">
           <speaker>Dagmar Ziegler (SPD):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Sehr geehrte Frau Ministerin, Sie sagen, es gebe eine positive Entwicklung. Darin stimmen wir überein. Diese positive Entwicklung kann uns dennoch nicht zufriedenstellen; darüber sind wir uns hoffentlich einig.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -144,22 +146,26 @@
           <p>sondern hier in diesem Haus gern eine Gesetzesinitiative sehen.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Frau Kollegin, Sie müssen zum Schluss kommen.</p>
         </sp>
-        <sp who="Dagmar Ziegler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dagmar Ziegler">
+      </div>
+      <div type="agenda_item" n="3" what="debate" desc="Debatte">
+        <sp who="Dagmar Ziegler" parliamentary_group="SPD" role="mp" position="NA" who_original="Dagmar Ziegler" party="SPD" name="Dagmar Ziegler">
           <speaker>Dagmar Ziegler (SPD):</speaker>
           <p>Ich fordere Sie auf: Setzen Sie sich im Kabinett zusammen und suchen Sie nach einem ganzheitlichen Ansatz für Bildung in unserem Lande, und machen Sie nicht nur Stückwerk!</p>
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Heiner Kamp für die FPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Heiner Kamp" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Heiner Kamp">
+      </div>
+      <div type="agenda_item" n="4" what="debate" desc="Debatte">
+        <sp who="Heiner Kamp" parliamentary_group="FDP" role="mp" position="NA" who_original="Heiner Kamp" party="FDP" name="Heiner Kamp">
           <speaker>Heiner Kamp (FDP):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Meine Damen und Herren! Liebe Frau Ziegler, man kann Zahlen schlechtreden - die unter Ihrer Regierung waren noch schlechter - und den Jugendlichen auf den Rängen oder an den Bildschirmen jeglichen Mut und jegliche Zuversicht nehmen, oder man liest den Bericht richtig und versucht, die guten Zahlen zu deuten und dem Publikum näherzubringen, um bei den Menschen Mut und Zuversicht zu verbreiten.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
@@ -193,12 +199,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Rosemarie Hein für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Rosemarie Hein" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Rosemarie Hein">
+      </div>
+      <div type="agenda_item" n="5" what="debate" desc="Debatte">
+        <sp who="Rosemarie Hein" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Rosemarie Hein" party="DIE LINKE" name="Rosemarie Hein">
           <speaker>Dr. Rosemarie Hein (DIE LINKE):</speaker>
           <p>Herr Präsident! Verehrte Frau Ministerin! Liebe Kolleginnen und Kollegen! Frau Ministerin, ich kann den Optimismus, den Sie hier verbreiten, nicht teilen.</p>
           <stage type="interjection">(Heiner Kamp [FDP]: Schade!)</stage>
@@ -245,11 +253,13 @@
           <p>Ich danke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Ekin Deligöz für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Ekin Deligöz" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Ekin Deligöz">
+      </div>
+      <div type="agenda_item" n="6" what="debate" desc="Debatte">
+        <sp who="Ekin Deligöz" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Ekin Deligöz" party="GRUENE" name="Ekin Deligöz">
           <speaker>Ekin Deligöz (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Herr Kamp, Sie haben zu Beginn Ihrer Rede die Jugendlichen vor dem Fernseher begrüßt. Ich gehe davon aus, dass die meisten Jugendlichen um diese Uhrzeit, um 9.30 Uhr, entweder in der Schule oder bei der Ausbildung sind. Den Jugendlichen, die um 9.30 Uhr vor dem Fernseher sitzen, hilft Ihr Schönreden nicht.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und der LINKEN - Heiner Kamp [FDP]: Nachrichten! Man kann das alles auf Phoenix nachschauen! Dass Sie kein Phoenix schauen, kann ich mir denken! Auch im Politikunterricht wird so etwas gezeigt!)</stage>
@@ -276,12 +286,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Eckhardt Rehberg für die CDU/ CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Eckhardt Rehberg" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Eckhardt Rehberg">
+      </div>
+      <div type="agenda_item" n="7" what="debate" desc="Debatte">
+        <sp who="Eckhardt Rehberg" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Eckhardt Rehberg" party="CDU" name="Eckhardt Rehberg">
           <speaker>Eckhardt Rehberg (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren Abgeordneten! Man kann immer nörgeln und Haare in der Suppe finden, Frau Kollegin Ziegler. Wenn wir uns aber die Zahlen bei den Altbewerbern und den jungen Menschen, die im Übergangssystem sind, angucken, kann man schon von einer rot-grünen Erblast sprechen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
@@ -303,12 +315,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Willi Brase für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Willi Brase" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Willi Brase">
+      </div>
+      <div type="agenda_item" n="8" what="debate" desc="Debatte">
+        <sp who="Willi Brase" parliamentary_group="SPD" role="mp" position="NA" who_original="Willi Brase" party="SPD" name="Willi Brase">
           <speaker>Willi Brase (SPD):</speaker>
           <p>Herr Präsident! Sehr geehrte Damen und Herren! Liebe Kolleginnen und Kollegen! Ja, es ist richtig: Es gibt einen Zuwachs an Ausbildungsplätzen auf voraussichtlich 614 000, 615 000 bis Ende September. Es gibt aber auch, wie schon erwähnt, 320 000 Menschen im Übergangssystem und 1,5 Millionen junge Leute zwischen 20 und 29 Jahren ohne Berufsabschluss und mit möglicherweise nur schlechten Perspektiven. Darüber hinaus gab es zum 31. März 2011 100 000 Bewerber, die älter als 19 Jahre sind. Ich nenne diese Zahlen deshalb, weil der Berufsbildungsbericht 2011 meiner Meinung nach sowohl Licht als auch Schatten enthält und es unsere Aufgabe ist, darauf hinzuweisen, dass wir hier im Parlament und in der Regierung noch eine Menge zu tun haben, damit die jungen Leute eine vernünftige Zukunftsperspektive bekommen.</p>
           <stage type="interjection">(Beifall bei der SPD sowie der Abg. Brigitte Pothmer [BÜNDNIS 90/DIE GRÜNEN])</stage>
@@ -340,12 +354,14 @@
           <p>Vielen Dank für Ihre geschätzte Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Sylvia Canel für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Sylvia Canel" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Sylvia Canel">
+      </div>
+      <div type="agenda_item" n="9" what="debate" desc="Debatte">
+        <sp who="Sylvia Canel" parliamentary_group="FDP" role="mp" position="NA" who_original="Sylvia Canel" party="FDP" name="Sylvia Canel">
           <speaker>Sylvia Canel (FDP):</speaker>
           <p>Mein lieber Herr Präsident! Meine Damen und Herren! Bildung ist ein lebendiger Prozess. So lebendig, wie wir hier sitzen, so lebendig ist auch dieser Prozess.</p>
           <stage type="interjection">(Dagmar Ziegler [SPD]: Na ja!)</stage>
@@ -370,11 +386,13 @@
           <p>Die Wissensgesellschaft erfordert eine gute Bildung für alle von Beginn an. Jedem einzelnen jungen Menschen muss die beste Bildung zuteilwerden. Den positiven Trend, der von diesem Bildungsbericht ausgeht, müssen wir verstetigen. Es gibt viel zu tun. Ich denke, dass wir auf dem richtigen Weg sind.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Brigitte Pothmer für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Brigitte Pothmer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Brigitte Pothmer">
+      </div>
+      <div type="agenda_item" n="10" what="debate" desc="Debatte">
+        <sp who="Brigitte Pothmer" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Brigitte Pothmer" party="GRUENE" name="Brigitte Pothmer">
           <speaker>Brigitte Pothmer (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Frau Schavan, Sie haben darauf hingewiesen, dass es eine positive Entwicklung gibt. Ich bin die Letzte, die das kleinreden will. Aber diese positive Entwicklung haben wir im Wesentlichen der demografischen Entwicklung und dem wirtschaftlichen Aufschwung zu verdanken. Es ist mir sehr wichtig, Sie darauf hinzuweisen, dass alle Experten davon ausgehen, dass wir es bei denjenigen, die es in die Ausbildung geschafft haben, auch mit Creaming-Effekten zu tun haben.</p>
           <p>Wir steuern auf eine verfestigte Jugendarbeitslosigkeit zu, wenn wir nichts tun.</p>
@@ -396,12 +414,14 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Albert Rupprecht für die CDU/ CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Albert Rupprecht" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Albert Rupprecht">
+      </div>
+      <div type="agenda_item" n="11" what="debate" desc="Debatte">
+        <sp who="Albert Rupprecht (Weiden)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Albert Rupprecht (Weiden)" party="CSU" name="Albert Rupprecht">
           <speaker>Albert Rupprecht (Weiden) (CDU/CSU):</speaker>
           <p>Herr Präsident! Sehr geehrte Damen und Herren! Liebe Frau Pothmer, Ihre Zustandsanalyse war nichts, was sich im Berufsbildungsbericht 2011 widerspiegelt. Die wesentlichen Ergebnisse dieses Berichts sind: Es gab 2010 deutlich mehr Ausbildungsplätze als erwartet. Die Zahl der Jugendlichen in Warteschleifen ist dramatisch gesunken. Auch 2011 geht es aufwärts. Wir erwarten 14 Prozent mehr Ausbildungsplätze. Das sind sehr gute Nachrichten für unsere Jugendlichen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
@@ -427,22 +447,24 @@
           <stage type="interjection">(Brigitte Pothmer [BÜNDNIS 90/DIE GRÜNEN]: Das ist doch nur so dahergeplappert! - Dagmar Ziegler [SPD]: Quatsch!)</stage>
           <p>Die Kinder im SPD-geführten Brandenburg sind nicht dümmer als die Kinder aus dem CDU-geprägten Sachsen.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, Sie müssen zum Schluss kommen.</p>
         </sp>
-        <sp who="Albert Rupprecht" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Albert Rupprecht">
+      </div>
+      <div type="agenda_item" n="12" what="debate" desc="Debatte">
+        <sp who="Albert Rupprecht (Weiden)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Albert Rupprecht (Weiden)" party="CSU" name="Albert Rupprecht">
           <speaker>Albert Rupprecht (Weiden) (CDU/CSU):</speaker>
           <p>Ich komme zum letzten Satz. - Deswegen ist es Aufgabe der Länder, in die Pötte zu kommen. Ich sage es noch einmal: Insbesondere die SPD-geführten Länder, die bis dato miserable Werte abliefern, müssen ihre Arbeit in diesem Bereich verbessern.</p>
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="SPD" role="mp" position="NA" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Dr. h. c. Wolfgang Thierse (SPD):</speaker>
           <p>Das Wort hat nun Oliver Kaczmarek für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Oliver Kaczmarek" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Oliver Kaczmarek">
+        <sp who="Oliver Kaczmarek" parliamentary_group="SPD" role="mp" position="NA" who_original="Oliver Kaczmarek" party="SPD" name="Oliver Kaczmarek">
           <speaker>Oliver Kaczmarek (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Gerade ist der Satz gefallen, dass die Zukunftsaussichten für junge Menschen selten so gut waren, wie das im Moment der Fall ist. Das mag für einige zutreffen; die Lebenswirklichkeit für viele Jugendliche sieht aber leider anders aus, und einige von denen wohnen auch in Bayern oder Baden-Württemberg.</p>
           <stage type="interjection">(Albert Rupprecht [Weiden] [CDU/CSU]: Ganz wenige!)</stage>
@@ -471,12 +493,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Uwe Schummer für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Uwe Schummer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Uwe Schummer">
+      </div>
+      <div type="agenda_item" n="13" what="debate" desc="Debatte">
+        <sp who="Uwe Schummer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Uwe Schummer" party="CDU" name="Uwe Schummer">
           <speaker>Uwe Schummer (CDU/CSU):</speaker>
           <p>Verehrtes Präsidium! Meine Damen! Meine Herren! Zunächst eine gute Botschaft in dieser Berufsbildungsdebatte: Die heutige Debatte ist, glaube ich, seit 2002, seit ich dem Bundestag angehöre, die erste, in der vonseiten der Oppositionsfraktionen nicht die Ausbildungsplatzabgabe gefordert wird.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
@@ -497,11 +521,13 @@
           <p>In der Opposition den Lautsprecher machen und sich dort, wo Sie regieren, als Leisetreter aus dem Staube machen: Das ist Ihre Mentalität, Herr Schulz. Das erleben wir nicht nur in Düsseldorf, sondern auch in Berlin.</p>
           <p>Gut fördert, wer systematisch fördert. Deshalb gibt es die Bildungsketten.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, gestatten Sie eine Zwischenfrage des Kollegen Oppermann?</p>
         </sp>
-        <sp who="Uwe Schummer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Uwe Schummer">
+      </div>
+      <div type="agenda_item" n="14" what="debate" desc="Debatte">
+        <sp who="Uwe Schummer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Uwe Schummer" party="CDU" name="Uwe Schummer">
           <speaker>Uwe Schummer (CDU/CSU):</speaker>
           <p>Ich weiß, Herr Kollege Oppermann, dass Sie mir mehr Redezeit gönnen. Aber ich komme mit meiner Redezeit aus. Vielen Dank für Ihr Angebot.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Zurufe von der SPD: Oh! - Swen Schulz [Spandau] [SPD]: Ganz schwach!)</stage>
@@ -510,33 +536,39 @@
           <p>Die Ausbildungsketten bedeuten einen systematischen Übergang zur beruflichen Qualifizierung und sind daher bitter notwendig. Wir fördern frühzeitig mit dem Bildungspaket, und wir fördern systematisch mit den Bildungsketten. Das ist die Botschaft des Berufsbildungsberichts, die wir gemeinsam unterstützen sollten.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort zu einer Kurzintervention erteile ich Kollegen Thomas Oppermann.</p>
         </sp>
-        <sp who="Thomas Oppermann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Thomas Oppermann">
+      </div>
+      <div type="agenda_item" n="15" what="debate" desc="Debatte">
+        <sp who="Thomas Oppermann" parliamentary_group="SPD" role="mp" position="NA" who_original="Thomas Oppermann" party="SPD" name="Thomas Oppermann">
           <speaker>Thomas Oppermann (SPD):</speaker>
           <p>Lieber Herr Kollege Schummer, ich habe mich zu dieser Kurzintervention gemeldet, weil Sie vorhin geschummelt haben. Sie haben davon berichtet, dass in den Ländern die Mittel für die Schulspeisung gekürzt werden. Dabei haben Sie unterschlagen, dass in den Gesetzen, die wir nach Vermittlungsverfahren hier gemeinsam verabschiedet haben, der Vorrang der Bundesleistung beim Essensgeldzuschuss des Bundes für Kinder von Hartz-IV-Empfängern festgeschrieben wird. Das heißt, die Länder müssen keine Mittel für den Essensgeldzuschuss bereitstellen. Sie können diese Mittel einsetzen, um beispielsweise Schulsozialarbeiter einzustellen, um die Qualität der Ausbildung zu verbessern oder um Unterrichtsausfall zu bekämpfen.</p>
           <p>Das war der Sinn der Sache. Sie dürfen also nicht von willkürlichen Einsparungen sprechen. Dass die Länder keine Mittel mehr für den Essensgeldzuschuss geben müssen, ist von uns gewollt. Denn in dem Gesetz, das Sie gemeinsam mit uns verabschiedet haben, steht, dass der Essensgeldzuschuss des Bundes vorrangig ist und von den Ländern nicht gezahlt werden muss.</p>
           <stage type="interjection">(Beifall bei der SPD - Ulrich Kelber [SPD]: Beim Schummeln erwischt! Ungenügend!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Bitte schön, Herr Kollege Schummer.</p>
         </sp>
-        <sp who="Uwe Schummer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Uwe Schummer">
+      </div>
+      <div type="agenda_item" n="16" what="debate" desc="Debatte">
+        <sp who="Uwe Schummer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Uwe Schummer" party="CDU" name="Uwe Schummer">
           <speaker>Uwe Schummer (CDU/CSU):</speaker>
           <p>Die Kritik, die ich geäußert habe, bezog sich auf das ersatzlose Streichen. Wir sind uns doch darin einig, dass wir mit dem Bildungspaket die Bildungsausgaben von Bund, Ländern und Kommunen insgesamt erhöhen wollen. Wenn also durch das Ausweiten von Bundesmitteln auf Landesebene Gelder eingespart werden, dann ist unsere Erwartung als Bildungs- und Forschungspolitiker, dass die so eingesparten Mittel - in Düsseldorf sind es 51 Millionen Euro - beispielsweise für den Förderunterricht oder für andere Maßnahmen zur Unterstützung von Kindern und Jugendlichen eingesetzt werden</p>
           <stage type="interjection">(Thomas Oppermann [SPD]: Das passiert doch!)</stage>
           <p>und nicht ersatzlos gestrichen werden. Sie aber streichen diese Mittel in Düsseldorf ersatzlos.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Swen Schulz [Spandau] [SPD]: Das stimmt doch nicht! Eine Schummerei! - Weitere Zurufe von der SPD)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Kollegin Katja Mast für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Katja Mast" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Katja Mast">
+      </div>
+      <div type="agenda_item" n="17" what="debate" desc="Debatte">
+        <sp who="Katja Mast" parliamentary_group="SPD" role="mp" position="NA" who_original="Katja Mast" party="SPD" name="Katja Mast">
           <speaker>Katja Mast (SPD):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Wir von der SPD führen die Diskussion über den Berufsbildungsbericht mit dem Ziel: Keiner darf verloren gehen; kein Jugendlicher darf ohne Schulabschluss und ohne Berufsabschluss ins Leben entlassen werden. Das ist unser Ziel, und das unterscheidet uns von Ihnen.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
@@ -561,12 +593,14 @@
           <p>Ich komme zu meinem letzten Punkt. Wir müssen dafür sorgen, dass kein Jugendlicher in Deutschland mehr die Schule ohne Schulabschluss verlässt. 2009 gab es bei uns 60 000 Jugendliche, die die Schule ohne Hauptschulabschluss verlassen haben. Die Bertelsmann-Stiftung hat festgestellt: Davon finden nur 20 000 einen Ausbildungsplatz. Das sind die Hilfeempfänger von morgen; hier sind Ihre Investitionen notwendig. Wir brauchen nicht nur schöne Worte und kalte Taten, wie wir sie bei dieser Regierung leider viel zu oft erleben.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN - Zurufe von der CDU/CSU: Oh!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Nadine Schön für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Nadine Schön" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Nadine Schön">
+      </div>
+      <div type="agenda_item" n="18" what="debate" desc="Debatte">
+        <sp who="Nadine Schön (St. Wendel)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Nadine Schön (St. Wendel)" party="CDU" name="Nadine Müller">
           <speaker>Nadine Schön (St. Wendel) (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! 2,8 Prozent Wirtschaftswachstum: Das haben die führenden Wirtschaftsforschungsinstitute für das laufende Jahr vorausgesagt. Das sollte uns alle freuen. Denn ein robustes und gesundes Wachstum sichert die Zukunftsfähigkeit unseres Landes; darüber waren wir uns am Mittwoch im Wirtschaftsausschuss bei der Diskussion des Frühjahrsgutachtens fast alle einig.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Heiner Kamp [FDP]: Das gibt Anlass zur Hoffnung!)</stage>
@@ -588,22 +622,26 @@
           <p>Weiterbildung und lebenslanges Lernen sollen in Deutschland selbstverständlich sein. Die Politik muss dazu Rahmenbedingungen schaffen, Anreize setzen. Der Berufsbildungsbericht stellt die Initiativen dar. Reinschauen lohnt sich. Die Fort- und Weiterbildung ist ebenfalls ein wichtiger Faktor gegen Fachkräftemangel. Das sollten wir noch stärker forcieren.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Frau Kollegin, Sie müssen bitte zum Schluss kommen.</p>
         </sp>
-        <sp who="Nadine Schön" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Nadine Schön">
+      </div>
+      <div type="agenda_item" n="19" what="debate" desc="Debatte">
+        <sp who="Nadine Schön (St. Wendel)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Nadine Schön (St. Wendel)" party="CDU" name="Nadine Müller">
           <speaker>Nadine Schön (St. Wendel) (CDU/CSU):</speaker>
           <p>Liebe Kollegen, ich komme zum Schluss. - In einem dynamischen Land mit einem hohen Bedarf an Fachkräften brauchen wir alle Menschen. Deshalb sollten wir uns gemeinsam dafür einsetzen.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Als letztem Redner zu diesem Tagesordnungspunkt erteile ich Kollegen Michael Kretschmer für die CDU/ CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Michael Kretschmer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Kretschmer">
+      </div>
+      <div type="agenda_item" n="20" what="debate" desc="Debatte">
+        <sp who="Michael Kretschmer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Kretschmer" party="CDU" name="Michael Kretschmer">
           <speaker>Michael Kretschmer (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Am Ende dieser Debatte ist es gut, die Sachen noch einmal zurechtzurücken</p>
           <stage type="interjection">(René Röspel [SPD]: Nach rechts zu rücken!)</stage>
@@ -644,7 +682,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Hubertus Heil [Peine] [SPD]: Gute Nacht!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird Überweisung der Vorlagen auf den Drucksachen 17/5400 und 17/5489 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? - Das ist offensichtlich der Fall. Dann sind die Überweisungen so beschlossen.</p>
@@ -659,24 +697,24 @@
           <p>- Drucksache 17/5481 -</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Wirtschaft und Technologie (f)</p>
-          <p>Auswärtiger Ausschuss </p>
-          <p>Innenausschuss </p>
-          <p>Finanzausschuss </p>
+          <p>Auswärtiger Ausschuss</p>
+          <p>Innenausschuss</p>
+          <p>Finanzausschuss</p>
           <p>Ausschuss für Ernährung, Landwirtschaft und Verbraucherschutz</p>
-          <p>Ausschuss für Arbeit und Soziales </p>
-          <p>Ausschuss für Verkehr, Bau und Stadtentwicklung </p>
-          <p>Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit </p>
+          <p>Ausschuss für Arbeit und Soziales</p>
+          <p>Ausschuss für Verkehr, Bau und Stadtentwicklung</p>
+          <p>Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit</p>
           <p>Ausschuss für Bildung, Forschung und Technikfolgenabschätzung</p>
-          <p>Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung </p>
-          <p>Ausschuss für die Angelegenheiten der Europäischen Union </p>
+          <p>Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung</p>
+          <p>Ausschuss für die Angelegenheiten der Europäischen Union</p>
           <p>Haushaltsausschuss</p>
           <p>Nach einer interfraktionellen Vereinbarung sind für die Aussprache eineinhalb Stunden vorgesehen. - Ich höre dazu keinen Widerspruch. Dann ist das so beschlossen.</p>
           <p>Ich eröffne die Aussprache und erteile Kollegen Frank-Walter Steinmeier für die SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="2" what="debate" desc="24 Beratung des Antrags der Abgeordneten Rolf Hempelmann, Dr. Matthias Miersch, ...">
-        <sp who="Dr. Frank-Walter Steinmeier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Frank-Walter Steinmeier">
+      <div type="agenda_item" n="21" what="debate" desc="Debatte">
+        <sp who="Frank-Walter Steinmeier" parliamentary_group="SPD" role="mp" position="NA" who_original="Frank-Walter Steinmeier" party="SPD" name="Frank-Walter Steinmeier">
           <speaker>Dr. Frank-Walter Steinmeier (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Im Allgemeinen bin ich ein gelassener Mensch; aber diese Gelassenheit fehlt mir in diesen Tagen, wenn ich die öffentlichen Erklärungen von Herrn Brüderle und Herrn Röttgen zur Energiepolitik lese. Das ist schon dreist, was ich da in diesen Tagen lese.</p>
           <p>Dabei sage ich Ihnen: Wer im Regierungsamt handelt, der kann falsch liegen. Wer nicht handelt, kann erst recht falsch liegen. Aber wer sich so katastrophal irrt wie Sie, wer sich absichtsvoll, verantwortungslos über alle Bedenken zur Kernkraft hinweggesetzt hat, wer sich noch vor einem halben Jahr öffentlich damit gebrüstet hat, dem Energiekonsens in diesem Land das Genick zu brechen und sich dafür feiern zu lassen, von dem erwarte ich auch einen Moment der Demut.</p>
@@ -727,12 +765,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Peter Altmaier für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Peter Altmaier" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Altmaier">
+      </div>
+      <div type="agenda_item" n="22" what="debate" desc="Debatte">
+        <sp who="Peter Altmaier" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Altmaier" party="CDU" name="Peter Altmaier">
           <speaker>Peter Altmaier (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Wir haben soeben eine engagierte, etwas polemische Wahlkampfrede des Kollegen Steinmeier gehört. Nur, sehr geehrter Herr Kollege Steinmeier, zunächst einmal ist festzuhalten: Die Landtagswahlen in Rheinland-Pfalz und Baden-Württemberg sind vorbei.</p>
           <stage type="interjection">(Dr. Barbara Hendricks [SPD]: Und Sie sind abgewählt worden!)</stage>
@@ -764,20 +804,22 @@
           <p>Ich glaube, wenn Sie ein Interesse an der Sache haben und nicht nur den Versuch unternehmen wollen, parteipolitisches Kapital aus einer wichtigen Debatte zu schlagen, dann müssen Sie auch ein Interesse daran haben, dass die Arbeit der Ethikkommission gelingt, und dann müssen Sie anders über die Ethikkommission reden, als Sie es in den letzten Wochen getan haben.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollege Altmaier, es gibt zwei Wünsche nach einer Zwischenfrage, einmal von der Kollegin Bulling-Schröter und einmal vom Kollegen Heil.</p>
         </sp>
-        <sp who="Peter Altmaier" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Altmaier">
+      </div>
+      <div type="agenda_item" n="23" what="debate" desc="Debatte">
+        <sp who="Peter Altmaier" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Altmaier" party="CDU" name="Peter Altmaier">
           <speaker>Peter Altmaier (CDU/CSU):</speaker>
           <p>Sehr gerne.</p>
         </sp>
-        <sp who="Eva Bulling-Schröter" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Eva Bulling-Schröter">
+        <sp who="Eva Bulling-Schröter" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Eva Bulling-Schröter" party="DIE LINKE" name="Eva Bulling-Schröter">
           <speaker>Eva Bulling-Schröter (DIE LINKE):</speaker>
           <p>Vielen Dank. - Sie haben gesagt, dass es einen gesellschaftlichen Konsens geben soll und dass in der Ethikkommission alle relevanten Verbände vertreten sind. Meine Frage an Sie: Warum wurden dazu keine Umweltverbände eingeladen? Warum dürfen deren Vertreter nicht teilnehmen?</p>
           <stage type="interjection">(Bärbel Höhn [BÜNDNIS 90/DIE GRÜNEN]: Sind die nicht relevant?)</stage>
         </sp>
-        <sp who="Peter Altmaier" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Altmaier">
+        <sp who="Peter Altmaier" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Altmaier" party="CDU" name="Peter Altmaier">
           <speaker>Peter Altmaier (CDU/CSU):</speaker>
           <p>Doch. - Wir haben die Ethikkommission so zusammengesetzt, dass sie überschaubar ist,</p>
           <stage type="interjection">(Lachen bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -786,17 +828,19 @@
           <p>auch unter Einbeziehung der Umweltverbände und der Bürgerinnen und Bürger. Dass wir imstande sind, eine solche Debatte zu organisieren, haben Sie im Rahmen von Stuttgart 21 gesehen. Es hätte der Politik niemand zugetraut, dass wir eine solche Debatte zustande bringen. Und Sie haben ja auch gesehen, dass die Öffentlichkeit honoriert hat, dass wir diese Debatte geführt haben.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - René Röspel [SPD]: Der ist lustig! Kann man den mieten?)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollege Heil.</p>
         </sp>
-        <sp who="Hubertus Heil" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hubertus Heil">
+      </div>
+      <div type="agenda_item" n="24" what="debate" desc="Debatte">
+        <sp who="Hubertus Heil (Peine)" parliamentary_group="SPD" role="mp" position="NA" who_original="Hubertus Heil (Peine)" party="SPD" name="Hubertus Heil">
           <speaker>Hubertus Heil (Peine) (SPD):</speaker>
           <p>Sehr geehrter Kollege Altmaier, hätten Sie, wenn Sie jetzt von Umdenken und Umlernen unter Hinweis auf das, was Frank-Walter Steinmeier eben ausführte - dabei ging es darum, wie glaubwürdig das ist -, sprechen, vielleicht einmal die Größe, einzuräumen, dass Sie im Herbst letzten Jahres einen Energiekonsens zwischen der Bundesregierung, dem Deutschen Bundestag und der Energiewirtschaft kaputtgemacht und damit einen gesellschaftlichen Großkonflikt aufgerissen haben? Ich frage Sie, Herr Altmaier: Ist Ihnen entgangen, was im Herbst letzten Jahres in der Wirtschaft passiert ist? Da gab es nämlich Investitionsstau und Attentismus, bedingt durch die Unsicherheit wegen der Laufzeitverlängerungen.</p>
           <p>Weiterhin können Ihnen doch die Proteste auf den Straßen, die wir schon vor Fukushima erlebt haben, nicht entgangen sein. Deshalb wäre es, bevor Sie einen solchen Konsens wiederherstellen wollen, ein Zeichen von Größe und Anstand, zu sagen, dass Sie sich im Herbst geirrt haben. Haben Sie die Größe, das zuzugeben?</p>
           <stage type="interjection">(Beifall bei der SPD und Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Peter Altmaier" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Altmaier">
+        <sp who="Peter Altmaier" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Altmaier" party="CDU" name="Peter Altmaier">
           <speaker>Peter Altmaier (CDU/CSU):</speaker>
           <p>Herr Kollege Heil, ich kann verstehen, dass Sie versuchen, das, was die rot-grüne Regierung damals gemacht hat, als Großtat darzustellen. Sie haben damals übrigens im Einvernehmen den Energieproduzenten Nachrüstungen erlassen und keine zusätzlichen Sicherheitsauflagen durchgesetzt.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU - Ulrich Kelber [SPD]: Unwahrheit! - Christian Lange [Backnang] [SPD]: Sie haben es immer noch nicht verstanden! - Rolf Hempelmann [SPD]: Sie wollten doch aufhören, die Unwahrheit zu sagen!)</stage>
@@ -816,15 +860,17 @@
           <stage type="interjection">(Rolf Hempelmann [SPD]: So wie beim ersten Mal? Wie bei der Laufzeitverlängerung? - Weiterer Zuruf vom BÜNDNIS 90/DIE GRÜNEN: Was heißt denn das?)</stage>
           <p>Die Frage ist nur, ob der Vorschlag, den Sie mit heißer Nadel gestrickt haben, der Weisheit letzter Schluss ist und ob er wirklich dazu angetan ist, dieses Problem bzw. diese Herausforderung in angemessener Weise zu behandeln. Ich will Ihnen dazu drei Überlegungen vortragen.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollege Altmaier, es gibt eine Frage des Kollegen Kelber.</p>
         </sp>
-        <sp who="Peter Altmaier" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Altmaier">
+      </div>
+      <div type="agenda_item" n="25" what="debate" desc="Debatte">
+        <sp who="Peter Altmaier" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Altmaier" party="CDU" name="Peter Altmaier">
           <speaker>Peter Altmaier (CDU/CSU):</speaker>
           <p>Ja, gerne.</p>
         </sp>
-        <sp who="Ulrich Kelber" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ulrich Kelber">
+        <sp who="Ulrich Kelber" parliamentary_group="SPD" role="mp" position="NA" who_original="Ulrich Kelber" party="SPD" name="Ulrich Kelber">
           <speaker>Ulrich Kelber (SPD):</speaker>
           <p>Vielen Dank, Herr Kollege. - Sie haben ja gerade erwähnt, dass Sie für eine angemessene Beteiligung des Parlaments und damit der Öffentlichkeit an den Beratungen sorgen wollen. Ich hoffe, das wird anders als damals ablaufen, als Sie persönlich als Parlamentarischer Geschäftsführer in die Sitzung des Umweltausschusses gegangen sind, um dort für einen Abbruch der Beratungen zu sorgen.</p>
           <p>Ich möchte Sie fragen, ob Ihnen der eineinhalb Seiten umfassende Zeitplan der Bundesregierung für die Beratung bekannt ist. Das Bundeskanzleramt schreibt vor dem Hintergrund, dass am 15. Juni das Moratorium ausläuft - ich zitiere nur den letzten Satz -:</p>
@@ -832,7 +878,7 @@
           <p>Da der Deutsche Bundestag das Gesetz am 9. Juni beschließen müsste, sähe nach Meinung der von Ihnen gestellten Bundesregierung die Parlamentsbefassung so aus: keine Befassung der Fachausschüsse, keine Anhörung, kein Änderungsantrag, Verzicht auf die Fristen, Abstimmung zwei Tage später.</p>
           <p>Werden Sie diesen Zeitplan umsetzen, oder wird das Gesetz im Mai oder gar noch im April in dieses Parlament kommen?</p>
         </sp>
-        <sp who="Peter Altmaier" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Altmaier">
+        <sp who="Peter Altmaier" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Altmaier" party="CDU" name="Peter Altmaier">
           <speaker>Peter Altmaier (CDU/CSU):</speaker>
           <p>Herr Kollege Kelber, im ersten Teil Ihrer Frage bezogen Sie sich auf die parlamentarischen Beratungen im letzten Herbst. Weil sehr viele Bürgerinnen und Bürger heute Morgen zuhören,</p>
           <stage type="interjection">(Eva Bulling-Schröter [DIE LINKE]: Aha!)</stage>
@@ -883,12 +929,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Dr. Gysi für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Gregor Gysi">
+      </div>
+      <div type="agenda_item" n="26" what="debate" desc="Debatte">
+        <sp who="Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Gregor Gysi" party="DIE LINKE" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Herr Altmaier, es nutzt nichts, wenn man versucht, eine zwingend notwendige Entscheidung durch Verzögerung hinauszuschieben. Es bringt Ihnen nichts, es schadet Ihnen nur. Sie kommen aus der Sache sowieso nicht heraus. Der Ausschluss der Öffentlichkeit wird nicht funktionieren.</p>
           <stage type="interjection">(Beifall bei der LINKEN - Peter Altmaier [CDU/ CSU]: Das hat auch niemand gesagt!)</stage>
@@ -956,12 +1004,14 @@
           <p>Lassen Sie uns die dringend notwendigen Entscheidungen hier im Bundestag treffen.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Kauch für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Michael Kauch" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Michael Kauch">
+      </div>
+      <div type="agenda_item" n="27" what="debate" desc="Debatte">
+        <sp who="Michael Kauch" parliamentary_group="FDP" role="mp" position="NA" who_original="Michael Kauch" party="FDP" name="Michael Kauch">
           <speaker>Michael Kauch (FDP):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Herr Gysi, wir wissen, dass Sie Experte für alle Themen sind und dass Ihre Fachpolitiker hier fast nie reden dürfen. Dass Sie sich hier jetzt aber erdreisten, einen toten Kollegen, Hermann Scheer, für Ihre antikapitalistischen Reflexe, für etwas, was Hermann Scheer nie vertreten hat, zu vereinnahmen, all das, was Sie hier abgeliefert haben, ist so unterirdisch, so grottenschlecht und auch unfair gegenüber den Sozialdemokraten, das kann man hier im Parlament nicht akzeptieren.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU, der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -987,24 +1037,28 @@
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Rolf Hempelmann [SPD]: Wo sind die Vorlagen für Entscheidungen? - Dr. Barbara Hendricks [SPD]: Aber bis jetzt gibt es nur ein Sechs-Punkte-Papier, das bei Ihnen umstritten ist, sonst nichts!)</stage>
           <p>Das war beim Energiekonzept so, und es wird bei der Weiterentwicklung des Energiekonzeptes so sein.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollege Kauch, gestatten Sie eine Zwischenfrage?</p>
         </sp>
-        <sp who="Michael Kauch" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Michael Kauch">
+      </div>
+      <div type="agenda_item" n="28" what="debate" desc="Debatte">
+        <sp who="Michael Kauch" parliamentary_group="FDP" role="mp" position="NA" who_original="Michael Kauch" party="FDP" name="Michael Kauch">
           <speaker>Michael Kauch (FDP):</speaker>
           <p>Gerne. Von wem denn?</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Von Herrn Schwabe. - Herr Schwabe, bitte.</p>
           <stage type="interjection">(Ulrich Kelber [SPD]: Ruhrgebiet unter sich!)</stage>
         </sp>
-        <sp who="Frank Schwabe" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Frank Schwabe">
+      </div>
+      <div type="agenda_item" n="29" what="debate" desc="Debatte">
+        <sp who="Frank Schwabe" parliamentary_group="SPD" role="mp" position="NA" who_original="Frank Schwabe" party="SPD" name="Frank Schwabe">
           <speaker>Frank Schwabe (SPD):</speaker>
           <p>Herr Kollege Kauch, Sie haben gerade gesagt, dass wir keine zusätzlichen Ausschüsse und keine zusätzlichen Gremien brauchen. Wie bewerten Sie, dass die Bundesregierung die Ethikkommission "Sichere Energieversorgung" - das ist eine Art Ausschuss - einberufen hat? Ist das ebenfalls ein überflüssiges Gremium? Schließlich meinen Sie, dass wir solche Fragen hier im Parlament zu klären haben.</p>
         </sp>
-        <sp who="Michael Kauch" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Michael Kauch">
+        <sp who="Michael Kauch" parliamentary_group="FDP" role="mp" position="NA" who_original="Michael Kauch" party="FDP" name="Michael Kauch">
           <speaker>Michael Kauch (FDP):</speaker>
           <p>Diese Ethikkommission berät die Regierung. Wir als Parlament müssen am Schluss über die Vorlagen der Regierung, also über das, was die Regierung vorschlägt, entscheiden.</p>
           <stage type="interjection">(Dr. Barbara Hendricks [SPD]: Am Schluss! Wann kommen denn die Vorlagen?)</stage>
@@ -1037,11 +1091,13 @@
           <p>Das ist unumgänglich, das ist notwendig in einem vernetzten Industrieland. Wir sollten nicht so tun, als würde das überhaupt nicht stattfinden.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat die Kollegin Höhn für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Bärbel Höhn" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Bärbel Höhn">
+      </div>
+      <div type="agenda_item" n="30" what="debate" desc="Debatte">
+        <sp who="Bärbel Höhn" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Bärbel Höhn" party="GRUENE" name="Bärbel Höhn">
           <speaker>Bärbel Höhn (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Gestern hatten wir eine sehr ernsthafte Debatte zur PID. Ich hätte mir gewünscht, dass wir diese Debatte zur Energie genauso ernsthaft führen würden und nicht so krähenhaft und so lautstark, wie Sie, Herr Kauch, das eben getan haben.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der LINKEN - Michael Kauch [FDP]: Da sind wir jetzt gespannt!)</stage>
@@ -1070,22 +1126,26 @@
           <p>Deshalb sagen wir: Die Energiewende ist möglich, ohne zu hohe Kosten und ohne Gefährdung der Versorgungssicherheit. Die Bürger brauchen davor keine Angst zu haben. Die Einzigen, die Angst haben müssen, sind die Energiekonzerne; denn durch die Energiewende verlieren sie das Monopol, das sie jetzt noch haben und das ihnen den Freibrief gibt, die Energiepreise so hoch steigen zu lassen, wie wir es in den letzten Jahren erlebt haben: Seit 2005 sind die Energiepreise um 40 Prozent gestiegen. Das liegt am Monopol, nicht an den erneuerbaren Energien.</p>
           <p>Ich sage Ihnen von CDU und FDP: Pfeifen Sie die Atomfreunde in Ihrer Fraktion zurück! Nehmen Sie den Konsens in der Bevölkerung wahr, und setzen Sie entsprechende Maßnahmen um! Dann sind wir an Ihrer Seite. Aber ich sage Ihnen auch: Wenn Sie am Ende der Atomlobby wieder folgen, dann werden wir Sie heftig kritisieren. Damit würden Sie eines machen, nämlich den Konsens, den wir jetzt in der Gesellschaft haben, aufkündigen.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Frau Kollegin Höhn, achten Sie bitte auf die Redezeit.</p>
         </sp>
-        <sp who="Bärbel Höhn" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Bärbel Höhn">
+      </div>
+      <div type="agenda_item" n="31" what="debate" desc="Debatte">
+        <sp who="Bärbel Höhn" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Bärbel Höhn" party="GRUENE" name="Bärbel Höhn">
           <speaker>Bärbel Höhn (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Der Konsens besagt eindeutig und klar: Raus aus der Atomkraft und rein in die erneuerbaren Energien.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Dr. Nüßlein für die Unionsfraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Georg Nüßlein" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Georg Nüßlein">
+      </div>
+      <div type="agenda_item" n="32" what="debate" desc="Debatte">
+        <sp who="Georg Nüßlein" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Georg Nüßlein" party="CSU" name="Georg Nüßlein">
           <speaker>Dr. Georg Nüßlein (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Ich war von der Rede der Frau Höhn nur bis zu der Stelle angetan, an der Sie, Frau Kollegin, den Versorgern höchst präventiv und einseitig die Schuld für einen Blackout und für höhere Preise zugeschoben haben, was im Rahmen einer Energiewende passieren kann.</p>
           <p>So einfach können wir es uns politisch aber nicht machen. Wir haben letzten Herbst ein Energiekonzept beschlossen, das wohlüberlegt und aus unserer Sicht gut austariert war.</p>
@@ -1110,20 +1170,22 @@
           <p>Man kann jetzt nicht dem Kollegen Röttgen die Schuld in die Schuhe schieben, wenn Trittin und Gabriel es letztendlich nicht umgesetzt haben. Ich bitte schon um ein bisschen Lauterkeit in dieser Debatte.</p>
           <stage type="interjection">(Beifall des Abg. Stefan Müller [Erlangen] [CDU/CSU])</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollege Nüßlein, gestatten Sie eine Frage des Kollegen Kelber?</p>
         </sp>
-        <sp who="Dr. Georg Nüßlein" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Georg Nüßlein">
+      </div>
+      <div type="agenda_item" n="33" what="debate" desc="Debatte">
+        <sp who="Georg Nüßlein" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Georg Nüßlein" party="CSU" name="Georg Nüßlein">
           <speaker>Dr. Georg Nüßlein (CDU/CSU):</speaker>
           <p>Ja, gern.</p>
         </sp>
-        <sp who="Ulrich Kelber" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ulrich Kelber">
+        <sp who="Ulrich Kelber" parliamentary_group="SPD" role="mp" position="NA" who_original="Ulrich Kelber" party="SPD" name="Ulrich Kelber">
           <speaker>Ulrich Kelber (SPD):</speaker>
           <p>Zum kerntechnischen Regelwerk: Der Unterschied ist: Das neue Regelwerk wurde, bis Herr Röttgen kam, bereits parallel angewendet; Herr Röttgen hat dafür gesorgt, dass jetzt nur noch das alte Regelwerk angewandt wird.</p>
           <p>Jetzt zur Frage, die ich Ihnen stellen wollte: Haben Sie die Atomausstiegsvereinbarung von 2000 und das Gesetz von 2002 bis zum Ende gelesen? Hinter dem von Kollegen aus Ihren Reihen oft zitierten Teil, demzufolge man die Atomkraftwerke zu dem Zeitpunkt als sicher ansah, wird erstmals die gesetzliche Normierung der Pflicht zur periodischen Sicherheitsüberprüfung von Atomkraftwerken geregelt. Diese Überprüfung dauert übrigens etwa anderthalb Jahre für ein Kraftwerk, nicht sechs Wochen für 17 Kraftwerke. Außerdem ist die stetige Anpassung der Anforderungen an den Stand von Wissenschaft und Technik in der Vereinbarung zum Atomausstieg geregelt worden. Haben Sie den Teil gelesen? Würden Sie ihn in Zukunft bitte mit zitieren?</p>
         </sp>
-        <sp who="Dr. Georg Nüßlein" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Georg Nüßlein">
+        <sp who="Georg Nüßlein" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Georg Nüßlein" party="CSU" name="Georg Nüßlein">
           <speaker>Dr. Georg Nüßlein (CDU/CSU):</speaker>
           <p>Erstens habe ich das gelesen. Zweitens haben Sie, lieber Kollege Kelber, doch gemerkt, dass ich momentan keine konfrontative Rede halten will, sondern vom Konsens reden möchte. Drittens zwingen Sie mich jetzt, noch einmal zu sagen, dass Sie da eine klare Vereinbarung mit den Versorgern getroffen haben, in der steht: Die Bundesregierung wird keine Initiative ergreifen, um diesen Sicherheitsstandard und die diesem zugrunde liegende Sicherheitsphilosophie zu ändern.</p>
           <stage type="interjection">(Ulrich Kelber [SPD]: Ich habe doch gerade den anderen Teil zitiert! Ich habe Ihnen gerade das Gegenteil erzählt!)</stage>
@@ -1139,7 +1201,7 @@
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
           <p>wenngleich ich das parteipolitische Kalkül dahinter natürlich nachvollziehen kann.</p>
           <p>Nun räume ich ein, dass es einen Unterschied gibt: Wir haben klipp und klar gesagt, dass wir die Laufzeiten verlängern, um den Ausbau der erneuerbaren Energien gegenzufinanzieren. Darum bitte ich, uns abzunehmen, dass wir uns bei den Erwägungen, die wir jetzt machen müssen, ein bisschen schwertun, weil jetzt plötzlich dieses Geld - zumindest das, was aus der Nutzung der Kernenergie kommen sollte - wegbrechen wird und am Schluss nur noch die heute schon angesprochenen Einnahmen aus dem Emmissionshandel übrig bleiben werden. Da ist es schon schwierig, eine Lösung zu finden, wenn die Finanzierung teilweise wegbricht, man aber gleichzeitig die erneuerbaren Energien schneller ausbauen will. Das ist keine leichte Übung; da braucht man eine ganze Menge Gehirnschmalz.</p>
-          <p>Ich möchte, ohne dass Sie es gleich wieder als Vorwurf verstehen sollen, deutlich unterstreichen: Wir haben uns damals bei der Erstellung des Energiekonzepts immerhin Gedanken gemacht, wie man die Erforschung und den Ausbau der erneuerbaren Energien, die Geld kosten werden, angesichts knapper Haushaltskassen finanziert. Das haben andere versäumt oder vernachlässigt. </p>
+          <p>Ich möchte, ohne dass Sie es gleich wieder als Vorwurf verstehen sollen, deutlich unterstreichen: Wir haben uns damals bei der Erstellung des Energiekonzepts immerhin Gedanken gemacht, wie man die Erforschung und den Ausbau der erneuerbaren Energien, die Geld kosten werden, angesichts knapper Haushaltskassen finanziert. Das haben andere versäumt oder vernachlässigt.</p>
           <p>Es ist einigermaßen offensiv, Frau Kollegin Höhn, sich jetzt hier hinzustellen und zu sagen: Das kostet alles nichts, das geht zum Nulltarif.</p>
           <stage type="interjection">(Bärbel Höhn [BÜNDNIS 90/DIE GRÜNEN]: Ich habe Ihr eigenes Gutachten zitiert! - Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN]: EWI! - Gegenruf der Abg. Bärbel Höhn [BÜNDNIS 90/DIE GRÜNEN]: Was ist denn EWI?)</stage>
           <p>Das ist nicht korrekt. Sie sagen, die Kosten je Kilowattstunde Strom steigen um 0,5 Cent. Ich bin mir nicht sicher, ob das das Ende der Fahnenstange ist, weil Sie den Emissionshandel berücksichtigen müssen, weil Sie die höheren Kosten für die Nutzung der erneuerbaren Energien berücksichtigen müssen usw.</p>
@@ -1152,12 +1214,14 @@
           <p>Vielen herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Der Kollege Hempelmann hat für die SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Rolf Hempelmann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rolf Hempelmann">
+      </div>
+      <div type="agenda_item" n="34" what="debate" desc="Debatte">
+        <sp who="Rolf Hempelmann" parliamentary_group="SPD" role="mp" position="NA" who_original="Rolf Hempelmann" party="SPD" name="Rolf Hempelmann">
           <speaker>Rolf Hempelmann (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Herr Nüßlein, wer Ihre, wie Sie selbst sagen, auf Konsens getrimmte Rede gerade gehört und in Erinnerung hat, was Ihr Kollege Altmaier zu Beginn der Debatte gesagt hat, wer außerdem weiß, wie Herr Kauder oder Herr Brüderle oder Herr Röttgen zur Energiepolitik stehen, weiß, wie breit das Meinungsspektrum zu diesen Fragen allein in Ihrer Fraktion ist. Vielleicht wäre es an der Zeit, dass Sie zunächst einmal in Ihren eigenen Reihen an einem Energiekonsens arbeiten.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN - Ulrich Kelber [SPD]: Aber nicht zu lange Zeit dafür nehmen!)</stage>
@@ -1181,12 +1245,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Das Wort hat der Kollege Horst Meierhofer für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Horst Meierhofer" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Horst Meierhofer">
+      </div>
+      <div type="agenda_item" n="35" what="debate" desc="Debatte">
+        <sp who="Horst Meierhofer" parliamentary_group="FDP" role="mp" position="NA" who_original="Horst Meierhofer" party="FDP" name="Horst Meierhofer">
           <speaker>Horst Meierhofer (FDP):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Ich fand diese Debatte bislang in weiten Teilen wohltuend und relativ entspannend, abgesehen von einigen Spitzen. Wir sollten versuchen, weitgehend Einigkeit darüber zu erzielen, wie wir die Bürger einbeziehen und wie wir einen Wechsel hinbekommen können; das halte ich für eine vernünftige Sache. Hierüber müssen wir uns ernsthaft Gedanken machen. Mir war nicht ganz klar, warum Herr Steinmeier meinte, alle Fragen seien schon beantwortet. Ich nehme für uns in Anspruch, dass jetzt nicht alle Fragen so beantwortet werden wie in der Vergangenheit. Man kann die Fragen mit gutem Gewissen neu beantworten. Frau Höhn hat selber darauf hingewiesen, dass sich seit Fukushima die Wahrnehmung der Restrisiken bei der Mehrheit der Bevölkerung verändert hat. Das nehme ich auch für mich in Anspruch.</p>
           <p>Bei Tschernobyl wurde damals noch darauf verwiesen, es handele sich ja um einen russischen Reaktortyp, und die UdSSR befinde sich gerade in der Endphase. Jetzt sagen manche: Japan ist nicht vergleichbar, weil es dort ein Erdbeben gab. - Das wussten wir aber vorher. All das führt zum Umdenken. Man sagt nun: Ein Land, das technologisch ähnlich hoch entwickelt ist wie unseres - wenn auch nach internationalen Standards die japanischen Kernkraftwerke nicht auf dem gleichen guten Stand sind wie die unseren -, hat mit Sicherheitsreserven kalkuliert. Diese haben aber nicht ausgereicht. Die Realität hat das Ganze überholt. In einem solchen Fall ist es nicht nur legitim, sondern dringend nötig, neu nachzudenken. Dazu dient das Moratorium.</p>
@@ -1210,11 +1276,13 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Der Kollege Oliver Krischer hat das Wort für Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Oliver Krischer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Oliver Krischer">
+      </div>
+      <div type="agenda_item" n="36" what="debate" desc="Debatte">
+        <sp who="Oliver Krischer" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Oliver Krischer" party="GRUENE" name="Oliver Krischer">
           <speaker>Oliver Krischer (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Ich bin froh, heute auch das eine oder andere nachdenkliche Wort aus den Reihen der Regierungsfraktionen gehört zu haben.</p>
           <stage type="interjection">(Stefan Müller [Erlangen] [CDU/CSU]: Das hättest du uns nicht zugetraut!)</stage>
@@ -1224,7 +1292,7 @@
           <stage type="interjection">(Michael Grosse-Brömer [CDU/CSU]: Und machen Sie dabei mit? Das ist auch eine spannende Frage!)</stage>
           <p>- Darauf komme ich jetzt zu sprechen. - Ich habe da große Zweifel. Wir haben die Bundesregierung einmal konkret gefragt, welche Maßnahmen ihres Energiekonzepts sie außer der Laufzeitverlängerung umgesetzt hat. Die Antwort war entwaffnend ehrlich: Nichts. Außer der Laufzeitverlängerung haben Sie in den letzten Monaten keine andere Maßnahme ergriffen. Deshalb zweifelt die Gesellschaft daran, dass Sie den Konsens "Raus aus der Atomkraft, rein in die erneuerbaren Energien" umsetzen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
-          <p>Herr Röttgen und Herr Brüderle haben einen Sechs-Punkte-Plan vorgelegt. Er enthält viel Lyrisches, viele Ankündigungen, viel Unkonkretes, aber auch manches Richtige. Ich habe aber erhebliche Zweifel daran, dass das ernst gemeint ist. Statt weitere Pläne vorzulegen und Konzepte zu entwickeln, sollten Sie endlich Maßnahmen ergreifen. Es gibt viel Konkretes, was Sie machen könnten. Ich will Ihnen ein Beispiel nennen. </p>
+          <p>Herr Röttgen und Herr Brüderle haben einen Sechs-Punkte-Plan vorgelegt. Er enthält viel Lyrisches, viele Ankündigungen, viel Unkonkretes, aber auch manches Richtige. Ich habe aber erhebliche Zweifel daran, dass das ernst gemeint ist. Statt weitere Pläne vorzulegen und Konzepte zu entwickeln, sollten Sie endlich Maßnahmen ergreifen. Es gibt viel Konkretes, was Sie machen könnten. Ich will Ihnen ein Beispiel nennen.</p>
           <p>In Deutschland gibt es Planungen für Windkraftanlagen in der Größenordnung von 1 400 Megawatt. Diese Anlagen werden nur deshalb nicht gebaut, weil die Bundeswehr das verhindert. Sie sagt, dass diese Anlagen das Radar stören würden. Das ist absurd; denn das Radar im Bereich des zivilen Luftverkehrs und das Radar der amerikanischen Streitkräfte wird dadurch nicht gestört. Der Bundesumweltminister müsste nur einmal mit dem Verteidigungsminister reden, um dieses Problem zu lösen. Das könnten Sie sofort tun. Damit könnten Sie deutlich machen, dass Sie bereit sind, zu handeln.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
           <p>Ich nenne das Beispiel Onshorewindenergie. Der Bundesverband Wind-Energie hat vor einigen Tagen eine Studie vorgelegt, die zeigt, dass wir, wenn wir die Ziele von Nordrhein-Westfalen und Brandenburg, nämlich 2 Prozent der Landesfläche - das ist wirklich nicht viel - für Windenergie zu nutzen, zugrunde legen würden, die installierte Leistung in Deutschland fast verachtfachen könnten. Aber - ich schaue in Richtung Unionsfraktion und FDP-Fraktion - wer blockiert denn in den Ländern den Ausbau der Windenergie? Wer ist das? Überall sind es Union und FDP, die blockieren. Hier könnten Sie sofort aktiv werden.</p>
@@ -1245,14 +1313,16 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN - Ulrich Kelber [SPD]: Genau! Das ist ein super Modell für Verkehr! Das ist die Realität von Oliver Krischer!)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Jens Koeppen hat das Wort für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Jens Koeppen" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Jens Koeppen">
+      </div>
+      <div type="agenda_item" n="37" what="debate" desc="Debatte">
+        <sp who="Jens Koeppen" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Jens Koeppen" party="CDU" name="Jens Koeppen">
           <speaker>Jens Koeppen (CDU/CSU):</speaker>
-          <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Ich habe mich mein ganzes Berufsleben lang mit Energiefragen beschäftigt, insbesondere mit elektrotechnischer Energie. Das ist natürlich nicht verwunderlich, da ich Elektrotechniker bin. Ich möchte einmal auf die Facetten dieser Energieform eingehen. Eine Facette ist natürlich die Energieerzeugung. Eine andere Facette ist die Energieverteilung; dies ist sehr spannend. Eine weitere Facette ist die Energienutzung direkt beim Verbraucher. Seit Mitte bzw. Ende der 90er-Jahre sind die erneuerbaren Energien und dann die Energieeffizienz hinzukommen. Ich habe festgestellt, dass die Verstromung der Gesellschaft jahrzehntelang - trotz aller Energieeffizienz, trotz aller Einsparungen - immer zugenommen hat. Ich prophezeie, dass das auch in Zukunft so sein wird, weil wir - die Erklärung ist ganz einfach - viele neue Anwendungen, viele neue Geräte und insbesondere auch die Elektromobilität nutzen werden. Deswegen wird der Anteil des Stroms an der Energie eher zunehmen als abnehmen. Das müssen wir vor dem Hintergrund von Japan beachten. </p>
+          <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Ich habe mich mein ganzes Berufsleben lang mit Energiefragen beschäftigt, insbesondere mit elektrotechnischer Energie. Das ist natürlich nicht verwunderlich, da ich Elektrotechniker bin. Ich möchte einmal auf die Facetten dieser Energieform eingehen. Eine Facette ist natürlich die Energieerzeugung. Eine andere Facette ist die Energieverteilung; dies ist sehr spannend. Eine weitere Facette ist die Energienutzung direkt beim Verbraucher. Seit Mitte bzw. Ende der 90er-Jahre sind die erneuerbaren Energien und dann die Energieeffizienz hinzukommen. Ich habe festgestellt, dass die Verstromung der Gesellschaft jahrzehntelang - trotz aller Energieeffizienz, trotz aller Einsparungen - immer zugenommen hat. Ich prophezeie, dass das auch in Zukunft so sein wird, weil wir - die Erklärung ist ganz einfach - viele neue Anwendungen, viele neue Geräte und insbesondere auch die Elektromobilität nutzen werden. Deswegen wird der Anteil des Stroms an der Energie eher zunehmen als abnehmen. Das müssen wir vor dem Hintergrund von Japan beachten.</p>
           <p>Natürlich stellen die Ereignisse in Japan eine Zäsur dar. Ich spreche niemanden hier im Hohen Hause die Empathie für Japan ab, auch nicht die guten Absichten. Ich glaube, das Ziel ist uns allen klar: Wir wollen in das Zeitalter der regenerativen Energien, der erneuerbaren Energien, aber insbesondere in das Zeitalter der alternativen Energien. Wir sollten uns hier nicht einschränken. Nur, heute ist wieder einmal deutlich geworden, dass der Weg und die Zeitschiene nicht ganz klar sind. Ich bin mir nicht sicher, ob ein Sonderausschuss dieses Problem letztendlich lösen wird.</p>
           <stage type="interjection">(Beifall des Abg. Horst Meierhofer [FDP])</stage>
           <p>Nach der Zäsur in Japan, die wir alle erleben mussten, müssen wir neu nachdenken. Wir müssen neu justieren und die Sorgen der Menschen ernst nehmen. Nachdenken bedeutet aber nicht, dass wir das Denken einstellen sollten.</p>
@@ -1272,19 +1342,23 @@
           <stage type="interjection">(Bärbel Höhn [BÜNDNIS 90/DIE GRÜNEN]: Herr Koeppen, das ist jetzt aber ein bisschen daneben!)</stage>
           <p>Meine Damen und Herren, ich frage Sie: Sind wir letztendlich auch bereit, den Zubau erneuerbarer Energien zuzulassen? Sie haben gerade gesagt, wir seien dagegen.</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Herr Kollege, möchten Sie eine Frage von Herrn Ott zulassen?</p>
         </sp>
-        <sp who="Jens Koeppen" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Jens Koeppen">
+      </div>
+      <div type="agenda_item" n="38" what="debate" desc="Debatte">
+        <sp who="Jens Koeppen" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Jens Koeppen" party="CDU" name="Jens Koeppen">
           <speaker>Jens Koeppen (CDU/CSU):</speaker>
           <p>Selbstverständlich.</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Dr. Hermann Ott" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="FDP" name="Hermann Otto Solms">
+      </div>
+      <div type="agenda_item" n="39" what="debate" desc="Debatte">
+        <sp who="Hermann Ott" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Hermann Ott" party="GRUENE" name="Hermann E. Ott">
           <speaker>Dr. Hermann Ott (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Kollege Koeppen, vielen Dank. - Das Grundgesetz verlangt von uns Abgeordneten keine spezifische und vertiefte Sach- oder gar Fachkenntnis; das ist auch gut so.</p>
           <stage type="interjection">(Michael Grosse-Brömer [CDU/CSU]: Aber auch schade!)</stage>
@@ -1292,9 +1366,9 @@
           <stage type="interjection">(Dr. Christian Ruck [CDU/CSU]: Ach! Das ist doch Quatsch! Sie haben ja keine Ahnung!)</stage>
           <p>Ist Ihnen bekannt, dass eine Untersuchung im Auftrag des Wirtschaftsministeriums, also für Herrn Brüderle, gerade zu dem Schluss gekommen ist, dass vielleicht nur 250 Kilometer neue Hochspannungsleitungen gebraucht werden?</p>
           <stage type="interjection">(Hartwig Fischer [Göttingen] [CDU/CSU]: Was? Nur 250 Kilometer? - Dr. Maria Flachsbarth [CDU/CSU]: Wie bitte? Was sagen Sie da?)</stage>
-          <p>Ansonsten ist in seriösen Schätzungen von einer Länge von 1 000 bis 1 500 Kilometern die Rede. Operieren Sie bitte nicht immer mit Horrorzahlen, die die Leute nur verschrecken und Angst vor den hohen Kosten machen sollen! </p>
+          <p>Ansonsten ist in seriösen Schätzungen von einer Länge von 1 000 bis 1 500 Kilometern die Rede. Operieren Sie bitte nicht immer mit Horrorzahlen, die die Leute nur verschrecken und Angst vor den hohen Kosten machen sollen!</p>
         </sp>
-        <sp who="Jens Koeppen" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Jens Koeppen">
+        <sp who="Jens Koeppen" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Jens Koeppen" party="CDU" name="Jens Koeppen">
           <speaker>Jens Koeppen (CDU/CSU):</speaker>
           <p>Sie haben sicherlich die dena-Netzstudie I gelesen. Wir haben - Herr Hempelmann war aktiv dabei - in der vergangenen Legislaturperiode um 850 Kilometer gestritten.</p>
           <stage type="interjection">(Bärbel Höhn [BÜNDNIS 90/DIE GRÜNEN]: 6 Kilowatt hat er gesagt!)</stage>
@@ -1312,12 +1386,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Der Kollege Dr. Matthias Miersch hat das Wort für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Matthias Miersch" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Matthias Miersch">
+      </div>
+      <div type="agenda_item" n="40" what="debate" desc="Debatte">
+        <sp who="Matthias Miersch" parliamentary_group="SPD" role="mp" position="NA" who_original="Matthias Miersch" party="SPD" name="Matthias Miersch">
           <speaker>Dr. Matthias Miersch (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Ich möchte auf eine ganz elementare Frage zu sprechen kommen, die mir in vielen Wortbeiträgen ein bisschen zu kurz gekommen ist: Welchen Stellenwert haben wir als Parlamentarier eigentlich nach der deutschen Verfassung? Ich war erschrocken, als ich die Rede von Herrn Altmaier gehört habe; denn seine Beschreibung dieses Stellenwerts stellt eine Abwertung des deutschen Parlaments dar. Das kann nicht Realität in diesem Hause sein.</p>
           <stage type="interjection">(Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -1346,26 +1422,30 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Der Kollege Andreas Lämmel hat jetzt das Wort für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Andreas G. Lämmel" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Andreas Lämmel">
+      </div>
+      <div type="agenda_item" n="41" what="debate" desc="Debatte">
+        <sp who="Andreas G. Lämmel" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Andreas G. Lämmel" party="CDU" name="Andreas G. Lämmel">
           <speaker>Andreas G. Lämmel (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Wenn man die Debatte verfolgt hat, dann kann man feststellen: Abgesehen von der Rede des Herrn Kollegen Gysi, der alles weiß, alles schon durchdacht und im Voraus bestimmt hat, war es eine sehr interessante Debatte, weil alle Fraktionen deutlich gemacht haben, dass die Energiepolitik kein ausschließliches Thema von Schwarz, Rot, Grün, Weiß oder Gelb, sondern ein hochkomplexes Thema ist, in das sehr viele Fachpolitiken hineinspielen.</p>
           <p>Wir stehen vor komplizierten Herausforderungen. Das Problem ist, dass erst die Koalition im letzten Herbst überhaupt ein Energiekonzept vorgelegt hat. Rot-Grün hat jahrelang einen Energiedialog geführt. Es wurden Berge von Studien verfasst, aber das Ergebnis war null.</p>
           <p>Wir haben als CDU/CSU-FDP-Koalition erstmalig ein Konzept vorgelegt.</p>
           <stage type="interjection">(Rolf Hempelmann [SPD]: Das jetzt zur Disposition steht!)</stage>
           <p>Daran kann man zwar Kritik üben - das mag schon sein; es war schließlich das Konzept der Koalition -, aber wir haben immerhin ein Konzept vorgelegt.</p>
-          <p>Jetzt kommen Fragen auf: Muss dieses Energiekonzept jetzt weg? Müssen wir völlig neu diskutieren? Meine Antwort darauf ist: Nein, das Konzept muss nicht weg. </p>
+          <p>Jetzt kommen Fragen auf: Muss dieses Energiekonzept jetzt weg? Müssen wir völlig neu diskutieren? Meine Antwort darauf ist: Nein, das Konzept muss nicht weg.</p>
           <p>Ein Mitglied der Ethikkommission hat uns letzte Woche mit auf den Weg gegeben, dass man in der Diskussion bestehende Risiken nicht durch neue Risiken ersetzen soll.</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Herr Kollege, möchten Sie das Risiko einer Zwischenfrage der Kollegin Bulling-Schröter eingehen?</p>
         </sp>
-        <sp who="Andreas G. Lämmel" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Andreas Lämmel">
+      </div>
+      <div type="agenda_item" n="42" what="debate" desc="Debatte">
+        <sp who="Andreas G. Lämmel" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Andreas G. Lämmel" party="CDU" name="Andreas G. Lämmel">
           <speaker>Andreas G. Lämmel (CDU/CSU):</speaker>
           <p>Im Moment nicht. - Wenn man in Zeiten des Aktionismus und der Hysterie Entscheidungen trifft, ist die Gefahr groß, dass sie sich letzten Endes als Risiko herausstellen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
@@ -1404,7 +1484,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Es ist verabredet, die Vorlagen auf den Druck-sachen 17/5473 und 17/5481 an die Ausschüsse zu überweisen, die Sie in der Tagesordnung finden. - Damit sind Sie einverstanden. Dann ist das so beschlossen.</p>
@@ -1422,14 +1502,14 @@
           <p>Johannes Kahrs</p>
           <p>Dr. Claudia Winterstein</p>
           <p>Roland Claus</p>
-          <p>Stephan Kühn </p>
-          <p>Hierzu liegt ein Änderungsantrag der Fraktion Die Linke vor. Verabredet ist, eine halbe Stunde zu diesem Punkt zu debattieren. - Auch dazu sehe und höre ich keinen Widerspruch. </p>
+          <p>Stephan Kühn</p>
+          <p>Hierzu liegt ein Änderungsantrag der Fraktion Die Linke vor. Verabredet ist, eine halbe Stunde zu diesem Punkt zu debattieren. - Auch dazu sehe und höre ich keinen Widerspruch.</p>
           <p>Ich eröffne die Aussprache und erteile dem Parlamentarischen Staatssekretär Dr. Andreas Scheuer das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="3" what="debate" desc="- Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs ...">
-        <sp who="Dr. Andreas Scheuer" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Verkehr, Bau und Stadtentwicklung" party="CSU" name="Andreas Scheuer">
+      <div type="agenda_item" n="43" what="debate" desc="Debatte">
+        <sp who="Andreas Scheuer" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Verkehr, Bau und Stadtentwicklung" who_original="Andreas Scheuer" party="CSU" name="Andreas Scheuer">
           <speaker>Dr. Andreas Scheuer, Parl. Staatssekretär beim Bundesminister für Verkehr, Bau und Stadtentwicklung:</speaker>
           <p>Frau Präsidentin! Sehr geehrte Kolleginnen und Kollegen! Mit dem Gesetz zur Neuregelung mautrechtlicher Vorschriften für Bundesfernstraßen soll die Autobahnmaut für schwere Lkw auch auf Teile der Bundesstraßen ausgedehnt werden. Bei diesen handelt es sich um Straßen, die sich durch ihren autobahnähnlichen Ausbauzustand auszeichnen.</p>
           <p>Wichtig ist der Hinweis, dass nur das mautpflichtige Straßennetz erweitert werden soll. Alle anderen Merkmale wie Mautsätze oder Bemautung nur von Lkw ab 12 Tonnen bleiben unverändert. Es findet also keine Mauterhöhung statt, sondern das zu bemautende Netz wird einfach erweitert.</p>
@@ -1449,12 +1529,14 @@
           <p>Ich bedanke mich noch einmal für die konstruktive Diskussion. Mein Dank gilt auch den Experten, die uns bei der Anhörung mit Rat und Tat zur Seite gestanden haben. Vielen herzlichen Dank für die parlamentarische Beratung.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Uwe Beckmeyer hat das Wort für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Uwe Beckmeyer" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Uwe Beckmeyer">
+      </div>
+      <div type="agenda_item" n="44" what="debate" desc="Debatte">
+        <sp who="Uwe Beckmeyer" parliamentary_group="SPD" role="mp" position="NA" who_original="Uwe Beckmeyer" party="SPD" name="Uwe Beckmeyer">
           <speaker>Uwe Beckmeyer (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Was im ersten Teil der Rede des Staatssekretärs gesagt wurde, war richtig: Wir haben uns im Ausschuss darüber unterhalten.</p>
           <stage type="interjection">(Beifall der Abg. Dr. Kirsten Tackmann [DIE LINKE])</stage>
@@ -1485,23 +1567,27 @@
           <stage type="interjection">(Oliver Luksic [FDP]: Wortsalat!)</stage>
           <p>Ein letzter Punkt, Herr Präsident. Die Antwort auf unsere Frage 3 ist ziemlich verräterisch. Wir fragen nämlich, mit welcher rechtlichen Begründung die Bundesregierung die Bedenken des Bundesministeriums der Justiz und des Bundesministeriums für Wirtschaft und Technologie hinsichtlich der Frage, ob eine Direktvergabe möglich ist, fallengelassen hat. Darauf wird geantwortet: Das federführende Bundesministerium für Verkehr, Bau und Stadtentwicklung ist nach Prüfung der rechtlichen Fragen zu dem Ergebnis gekommen, dass das so ist. - Das heißt im Grunde, die anderen Ressorts haben heftigste Bedenken dagegen, aber das federführende Ressort ist anderer Meinung.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Und ich habe heftige Bedenken, dass Sie weiterreden. Die Redezeit ist deutlich überschritten.</p>
         </sp>
-        <sp who="Uwe Beckmeyer" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Uwe Beckmeyer">
+      </div>
+      <div type="agenda_item" n="45" what="debate" desc="Debatte">
+        <sp who="Uwe Beckmeyer" parliamentary_group="SPD" role="mp" position="NA" who_original="Uwe Beckmeyer" party="SPD" name="Uwe Beckmeyer">
           <speaker>Uwe Beckmeyer (SPD):</speaker>
           <p>Herr Präsident, ich komme zum Schluss.</p>
           <p>Ich sage an dieser Stelle: Murks bleibt Murks, und dieses Gesetz ist kein gutes Gesetz. Wir Sozialdemokraten werden es ablehnen.</p>
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der SPD - Arnold Vaatz [CDU/ CSU]: Der größte Murks war Ihre Rede!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Patrick Döring für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Patrick Döring" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Patrick Döring">
+      </div>
+      <div type="agenda_item" n="46" what="debate" desc="Debatte">
+        <sp who="Patrick Döring" parliamentary_group="FDP" role="mp" position="NA" who_original="Patrick Döring" party="FDP" name="Patrick Döring">
           <speaker>Patrick Döring (FDP):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Nach dieser wegweisenden Rede ist ja wenigstens klar, was die Sozialdemokraten wollen; das hat das deutsche Volk jetzt verstanden, lieber Kollege Beckmeyer.</p>
           <stage type="interjection">(Beifall bei der FDP - Zuruf des Abg. Gustav Herzog [SPD])</stage>
@@ -1534,11 +1620,13 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Der Kollege Florian Pronold hat nun das Wort für eine Kurzintervention.</p>
         </sp>
-        <sp who="Florian Pronold" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Florian Pronold">
+      </div>
+      <div type="agenda_item" n="47" what="debate" desc="Debatte">
+        <sp who="Florian Pronold" parliamentary_group="SPD" role="mp" position="NA" who_original="Florian Pronold" party="SPD" name="Florian Pronold">
           <speaker>Florian Pronold (SPD):</speaker>
           <p>Sehr geehrter Herr Kollege Döring, ich war überrascht, wie viel Redezeit Sie auf die Vergangenheit verwendet haben, anstatt über Ihre eigenen Pläne zu reden. Sie sprechen davon, dass zu wenig Geld für die Finanzierung der Infrastruktur zur Verfügung steht.</p>
           <stage type="interjection">(Patrick Döring [FDP]: Kein Wort!)</stage>
@@ -1556,11 +1644,13 @@
           <p>Sagen Sie doch endlich, woher Sie das Geld nehmen wollen. Lügen Sie die Menschen nicht an, wie Sie es hier tun, indem Sie behaupten, dass Sie mit dem, was Sie hier vorlegen, einen sinnvollen Beitrag zur Finanzierung der Infrastruktur leisten! Mit dieser halbherzigen Lösung machen Sie nur eines: Sie generieren Mautausweichverkehr.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD - Thomas Jarzombek [CDU/CSU]: Da klatschen nicht mal die eigenen Kollegen! - Patrick Döring [FDP]: Quatsch!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Kollege Döring, bitte.</p>
         </sp>
-        <sp who="Patrick Döring" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Patrick Döring">
+      </div>
+      <div type="agenda_item" n="48" what="debate" desc="Debatte">
+        <sp who="Patrick Döring" parliamentary_group="FDP" role="mp" position="NA" who_original="Patrick Döring" party="FDP" name="Patrick Döring">
           <speaker>Patrick Döring (FDP):</speaker>
           <p>Sehr geehrter Herr Kollege Pronold, man soll sagen, was man denkt, wenn man denkt. Ich versuche wirklich noch einmal, es zu erläutern:</p>
           <p>Erstens. Unmittelbar an Bundesautobahnen angeschlossene vierstreifige Bundesstraßen können nicht zu Mautausweichverkehr führen, weil es keine Alternativstrecken in unmittelbarer Nähe gibt, die Kreis- und Landesstraßen wären.</p>
@@ -1573,12 +1663,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Nun hat Kollege Herbert Behrens für die Fraktion Die Linke das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Herbert Behrens" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Herbert Behrens">
+      </div>
+      <div type="agenda_item" n="49" what="debate" desc="Debatte">
+        <sp who="Herbert Behrens" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Herbert Behrens" party="DIE LINKE" name="Herbert Behrens">
           <speaker>Herbert Behrens (DIE LINKE):</speaker>
           <p>Sehr geehrter Herr Präsident! Kolleginnen und Kollegen! Meine Damen und Herren! Hier wird viel Lärm gemacht; aber wenn man auf den Gesetzestext schaut, dann weiß man: Es ist viel Lärm um nichts. Vor vier Wochen wurde hier angekündigt, dass möglicherweise 2 000 Kilometer Bundesstraße bemautet werden sollen. Heute haben wir festgestellt, dass 1 000 Kilometer übrig geblieben sind. Gut, dass wir heute und nicht erst in vier Wochen darüber abstimmen; dann wären wohl nur noch 500 Kilometer übrig geblieben und es hätte nichts gebracht.</p>
           <stage type="interjection">(Heiterkeit und Beifall bei der LINKEN und der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -1598,11 +1690,13 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Für die Fraktion Bündnis 90/Die Grünen spricht nun Anton Hofreiter.</p>
         </sp>
-        <sp who="Dr. Anton Hofreiter" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Anton Hofreiter">
+      </div>
+      <div type="agenda_item" n="50" what="debate" desc="Debatte">
+        <sp who="Anton Hofreiter" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Anton Hofreiter" party="GRUENE" name="Anton Hofreiter">
           <speaker>Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Der Gesetzentwurf ist, betrachtet man seine Genese - darauf ist schon hingewiesen worden -, schon amüsant zu lesen. Wir haben ursprünglich einmal mit 3 000 Kilometern angefangen; dann waren es 2 000 Kilometer. Jetzt sind wir bei 1 000 Kilometern. Und immer sind es 100 Millionen Euro Einnahmen geblieben. Dann ist noch gesagt worden, Sie hätten scharf und exakt nachgerechnet.</p>
           <stage type="interjection">(Heiterkeit beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
@@ -1621,12 +1715,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Letzter Redner in dieser Debatte ist Thomas Jarzombek für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Thomas Jarzombek" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Thomas Jarzombek">
+      </div>
+      <div type="agenda_item" n="51" what="debate" desc="Debatte">
+        <sp who="Thomas Jarzombek" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Thomas Jarzombek" party="CDU" name="Thomas Jarzombek">
           <speaker>Thomas Jarzombek (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Wir führen heute eine Debatte, in der zumindest einige Unterschiede deutlich werden. Kollege Hofreiter hat uns gerade erklärt - den Widerspruch müsste er einmal auflösen -, dass die On-Board-Units nicht in der Lage wären, mehr als diese 1 000 Kilometer abzubilden. Gleichzeitig fordert er, dass wir die Lkw-Maut auf das gesamte Streckennetz ausdehnen müssen. Wie das zusammengehen soll, ist mir unklar. Entweder stimmt die eine Aussage nicht oder die andere.</p>
           <stage type="interjection">(Dr. Anton Hofreiter [BÜNDNIS 90/DIE GRÜNEN]: Sie haben einfach nicht zugehört! Das ist eine andere Technik!)</stage>
@@ -1668,11 +1764,11 @@
           <p>Ich danke Ihnen vielmals.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Florian Pronold [SPD]: Schwach begonnen, stark nachgelassen!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über den von der Bundesregierung eingebrachten Gesetzentwurf zur Neuregelung mautrechtlicher Vorschriften für Bundesfernstraßen. Der Ausschuss für Verkehr, Bau und Stadtentwicklung empfiehlt in seiner Beschlussempfehlung auf Drucksache 17/5519, den Gesetzentwurf der Bundesregierung auf Drucksache 17/4979 in der Ausschussfassung anzunehmen. Hierzu liegt ein Änderungsantrag der Fraktion Die Linke vor, über den wir zuerst abstimmen. Wer stimmt für den Änderungsantrag der Linken auf Drucksache 17/5531? - Wer stimmt dagegen? - Enthaltungen? - Der Änderungsantrag ist mit den Stimmen der beiden Koalitionsfraktionen gegen die Stimmen von Linken und Grünen bei Enthaltung der SPD abgelehnt.</p>
-          <p>Ich bitte nun diejenigen, die dem Gesetzentwurf in der Ausschussfassung zustimmen wollen, um das Handzeichen. - Wer stimmt dagegen? - Enthaltungen? - Der Gesetzentwurf ist damit in zweiter Beratung mit den Stimmen der beiden Koalitionsfraktionen gegen die Stimmen von SPD und Linken bei Enthaltung der Grünen angenommen. </p>
+          <p>Ich bitte nun diejenigen, die dem Gesetzentwurf in der Ausschussfassung zustimmen wollen, um das Handzeichen. - Wer stimmt dagegen? - Enthaltungen? - Der Gesetzentwurf ist damit in zweiter Beratung mit den Stimmen der beiden Koalitionsfraktionen gegen die Stimmen von SPD und Linken bei Enthaltung der Grünen angenommen.</p>
           <p>Dritte Beratung</p>
           <p>und Schlussabstimmung. Ich bitte diejenigen, die dem Gesetzentwurf zustimmen wollen, sich zu erheben. - Wer stimmt dagegen? - Enthaltungen? - Der Gesetzentwurf ist mit dem gleichen Mehrheitsverhältnis wie in der zweiten Beratung angenommen.</p>
           <p>Ich rufe den Tagesordnungspunkt 26 auf:</p>
@@ -1682,14 +1778,14 @@
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Ernährung, Landwirtschaft und Verbraucherschutz (f)</p>
           <p>Ausschuss für Familie, Senioren, Frauen und Jugend</p>
-          <p>Ausschuss für die Angelegenheiten der Europäischen Union </p>
+          <p>Ausschuss für die Angelegenheiten der Europäischen Union</p>
           <p>Nach einer interfraktionellen Vereinbarung ist für die Aussprache eine halbe Stunde vorgesehen. - Es gibt keinen Widerspruch. Dann ist das so beschlossen.</p>
           <p>Ich eröffne die Aussprache und erteile Kollegin Kirsten Tackmann für die Fraktion Die Linke das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="4" what="debate" desc="Beratung des Antrags der Abgeordneten Dr. Kirsten Tackmann, Cornelia Möhring, Dr...">
-        <sp who="Dr. Kirsten Tackmann" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Kirsten Tackmann">
+      <div type="agenda_item" n="52" what="debate" desc="Debatte">
+        <sp who="Kirsten Tackmann" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Kirsten Tackmann" party="DIE LINKE" name="Kirsten Tackmann">
           <speaker>Dr. Kirsten Tackmann (DIE LINKE):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Liebe Gäste! Junge Frauen sehen in Dörfern und kleinen Städten immer öfter keine Perspektive mehr für sich; das wissen wir seit Jahren. Das hat auch politische Gründe: Es fehlt an existenzsichernder bezahlter Arbeit. Der Lohnabstand zu Männern ist hier noch größer als in Großstädten. Familie und Beruf sind noch schwieriger zu vereinbaren. Familiäre Betreuungs- und Versorgungswege zur Schule, zum Einkauf und zu den Ärzten werden immer länger, und sie müssen meistens von den Frauen übernommen werden. - Der Preis des Bleibens ist unter diesen Bedingungen oft mit dem Verzicht auf eigene Lebensperspektiven verbunden. Darum wandern junge Frauen in die Großstädte ab.</p>
           <p>Der Politik fehlt der Blickwinkel der Frauen. Gerade in Deutschland ist die Agrarpolitik männerdominiert, ebenso wie der Berufsstand und die Verbände. Das ist in der EU-27 nicht überall so. Zum Beispiel im Baltikum wird fast die Hälfte der Landwirtschaftsbetriebe von Frauen geleitet. In Deutschland sind das nicht einmal magere 10 Prozent, und wenn, dann sind das eher Betriebe in Ostdeutschland oder kleinere Betriebe. Ein Bauernverbandsfunktionär hat neulich in einer Veranstaltung der Linken gesagt: Für Gleichstellung sind bei uns die Landfrauen zuständig. - Nichts gegen Landfrauen - im Gegenteil, sie arbeiten sehr engagiert vor Ort -; aber wenn die Gleichstellung gelingen soll, müssen sich alle verantwortlich fühlen.</p>
@@ -1711,12 +1807,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Christoph Poland für die Fraktion der CDU/CSU.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Christoph Poland" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Christoph Poland">
+      </div>
+      <div type="agenda_item" n="53" what="debate" desc="Debatte">
+        <sp who="Christoph Poland" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Christoph Poland" party="CDU" name="Christoph Poland">
           <speaker>Christoph Poland (CDU/CSU):</speaker>
           <p>Herr Präsident! Sehr geehrte Damen und Herren! "Heiterkeit ist ohne Ernst nicht zu begreifen", meinte Loriot. Also versuche ich, bei der Debatte über diesen Antrag, der mich sehr erheitert hat, ernst zu bleiben.</p>
           <stage type="interjection">(Karin Binder [DIE LINKE]: Das ist aber wirklich bedauerlich!)</stage>
@@ -1801,12 +1899,14 @@
           <p>Ich schenke Ihnen allerdings ein paar Minuten meiner Redezeit. Frohe Ostern!</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Dr. Kirsten Tackmann [DIE LINKE]: Allein für diese Rede hat es sich gelohnt, herzukommen!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Danke schön. - Das Wort hat nun Wilhelm Priesmeier für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD sowie der Abg. Dr. Kirsten Tackmann [DIE LINKE])</stage>
         </sp>
-        <sp who="Dr. Wilhelm Priesmeier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wilhelm Priesmeier">
+      </div>
+      <div type="agenda_item" n="54" what="debate" desc="Debatte">
+        <sp who="Wilhelm Priesmeier" parliamentary_group="SPD" role="mp" position="NA" who_original="Wilhelm Priesmeier" party="SPD" name="Wilhelm Priesmeier">
           <speaker>Dr. Wilhelm Priesmeier (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Liebe Kolleginnen und Kollegen! Verehrter Herr Kollege Poland, Ihre Bemerkung zu Heiterkeit und Ernst nehme ich als gegeben hin. Aber die Sachlichkeit war in Ihrer Rede nicht besonders stark ausgeprägt.</p>
           <stage type="interjection">(Iris Gleicke [SPD]: Ja, die Sachkunde auch nicht! - Kerstin Tack [SPD]: Das war peinlich!)</stage>
@@ -1820,7 +1920,7 @@
           <p>Wir Sozialdemokraten wollen natürlich die Rolle der Frauen in den ländlichen Räumen stärken, damit diese lebenswert bleiben. Deshalb unterstützen wir nachdrücklich alle 39 Forderungen dieses Entschließungsantrags. Wir haben allerdings auch die Aufgabe, die Forderungen, die für Europa formuliert sind, an Deutschland und seine Strukturen anzupassen.</p>
           <p>Die Bundesregierung bekennt sich ebenfalls zur Gleichstellungspolitik. An der Antwort auf die Kleine Anfrage der Linken erkennt man aber, dass sie bislang keine Vorschläge erarbeitet und offensichtlich auch keine konkreten Vorstellungen im Hinblick auf die Umsetzung hat.</p>
           <p>Im Rahmen der Ausgestaltung der zweiten Säule nach ELER gibt es einen relativ großen Spielraum an Möglichkeiten, dort spezifische Frauenförderung zu verankern. Schauen Sie sich doch einmal an, wie sich der ländliche Raum darstellt. Schauen Sie vor allem in die ländlichen Räume der neuen Bundesländer: nach Nordostvorpommern, in die Prignitz oder nach Sachsen. Dann erkennen Sie, dass dort mittlerweile ein Missverhältnis zwischen den Geschlechtern besteht - ein Verhältnis im Extremfall von 100 zu 75, im Regelfall von 100 zu 80. Das heißt, 20 Prozent der Frauen in den Altersgruppen zwischen 18 und 29 Jahren fehlen, und es werden weniger Kinder geboren. Auch das führt dazu, dass diese Räume sozial instabil werden.</p>
-          <p>Die Wanderungsbewegung - das haben Sie richtig bemerkt - ist sicherlich eine Erscheinung, die wir seit 100  oder 200 Jahren haben. Das ist so, seitdem die Städte wachsen. Bislang waren wir aber immer in der Lage, dies durch einen entsprechenden Bevölkerungszuwachs in den ländlichen Räumen auszugleichen. Das passiert schon lange nicht mehr.</p>
+          <p>Die Wanderungsbewegung - das haben Sie richtig bemerkt - ist sicherlich eine Erscheinung, die wir seit 100 oder 200 Jahren haben. Das ist so, seitdem die Städte wachsen. Bislang waren wir aber immer in der Lage, dies durch einen entsprechenden Bevölkerungszuwachs in den ländlichen Räumen auszugleichen. Das passiert schon lange nicht mehr.</p>
           <p>Wenn ich meinen eigenen Wahlkreis bzw. meine eigene Kommune anschaue, sehe ich dort ein charakteristisches Beispiel. Wir hatten, als ich anfing, Kommunalpolitik zu machen, etwa 11 500 Einwohner. Heute haben wir noch 9 800 Einwohner. Im letzten Jahr sind in dieser Kommune - ich habe bei meinem Bürgermeister nachgefragt - 48 Kinder geboren worden. Das ist die Perspektive, die wir in ländlichen Räumen haben. Aktive Frauenpolitik, das Fördern von Frauen im ländlichen Raum ist ein zentrales Instrument, um dem demografischen Wandel, der sich in den ländlichen Räumen vollzieht, etwas entgegenzusetzen und ihn zu bewältigen.</p>
           <stage type="interjection">(Beifall bei der SPD und der LINKEN)</stage>
           <p>Für uns ist aktive Gleichstellungspolitik eine Selbstverständlichkeit. Wir wollen die Agrarpolitik davon nicht ausnehmen. Es geht sicherlich nicht um einen Ansatz in Richtung "Bauer sucht Frau" zur Finanzierung des Projekts. Es geht viel weiter. Aber wenn Sie in solchen Regionen leben, ist die Wahrscheinlichkeit, eine adäquate Lebenspartnerin zu finden, geringer, als wenn Sie am Polarkreis lebten.</p>
@@ -1838,11 +1938,13 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Die Kollegin Christel Happach-Kasan von der FDP-Fraktion hat ihre Rede zu Protokoll gegeben,1 sodass jetzt Kollegin Cornelia Behm von der Fraktion Bünd-nis 90/Die Grünen als letzte Rednerin in dieser Debatte das Wort erhält.</p>
         </sp>
-        <sp who="Cornelia Behm" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Cornelia Behm">
+      </div>
+      <div type="agenda_item" n="55" what="debate" desc="Debatte">
+        <sp who="Cornelia Behm" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Cornelia Behm" party="GRUENE" name="Cornelia Behm">
           <speaker>Cornelia Behm (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Vielen Dank, sehr geehrter Herr Präsident. - Liebe Kolleginnen und Kollegen! Herr Poland, Ihre Rede war wahrlich sehr schwer zu ertragen. Dass Sie von den Koalitionsfraktionen so viel Beifall bekommen haben, spricht Bände hinsichtlich Ihrer Geisteshaltung in dieser Frage.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN)</stage>
@@ -1866,7 +1968,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird die Überweisung der Vorlage auf Drucksache 17/5477 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? - Das ist der Fall. Dann ist die Überweisung so beschlossen.</p>
@@ -1886,12 +1988,12 @@
           <p>Ich eröffne die Aussprache und erteile dem Kollegen Konstantin von Notz für die Fraktion Bündnis 90/Die Grünen das Wort.</p>
         </sp>
       </div>
-      <div type="agenda_item" n="5" what="debate" desc="Beratung des Antrags der Abgeordneten Dr. Konstantin von Notz, Wolfgang Wieland,...">
-        <sp who="Dr. Konstantin von Notz" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Konstantin von Notz">
+      <div type="agenda_item" n="56" what="debate" desc="Debatte">
+        <sp who="Konstantin von Notz" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Konstantin von Notz" party="GRUENE" name="Konstantin von Notz">
           <speaker>Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! 1 101 889 000 Passagiere wurden nach Angaben von Eurostat im Jahr 2008 in der EU auf dem Luftweg befördert. Von einem erheblichen Teil dieser Passagiere sollen nun jeweils 19 Datenkategorien ohne Anlass und auf Vorrat gespeichert werden: Anschrift, Telefonnummer, E-Mail-Adresse, Kreditkartennummer, Zahl und Name der Mitreisenden,</p>
           <stage type="interjection">(Wolfgang Wieland [BÜNDNIS 90/DIE GRÜNEN]: Unglaublich!)</stage>
-          <p>der Name des Sachbearbeiters im Reisebüro, der sogenannte Vielfliegervermerk, die Sitzplatznummern und - ein Meisterwerk der Unbestimmtheit - sogenannte allgemeine Hinweise. </p>
+          <p>der Name des Sachbearbeiters im Reisebüro, der sogenannte Vielfliegervermerk, die Sitzplatznummern und - ein Meisterwerk der Unbestimmtheit - sogenannte allgemeine Hinweise.</p>
           <p>Um hier gar keinen großen Spannungsbogen aufzubauen und den Tenor unseres Antrags gleich offen zu benennen: So geht es nicht, meine Damen und Herren.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und der LINKEN)</stage>
           <p>Schon das allein ist eine riesige Menge äußerst aussagekräftiger personenbezogener Daten. Aber zu allem Überfluss ist in der jetzt vorliegenden Richtlinie eine Verknüpfung dieser Daten, eine Abgleichung oder, um es konkreter zu sagen, eine Rasterung verpflichtend vorgesehen. Hier entsteht ein unüberschaubarer, staatlich kontrollierter Datenpool, der nicht nur mit anderen europäischen und nationalen Datensammlungen abgeglichen werden kann und soll, sondern aus dem sich zusätzlich verschiedenste Polizei- und Strafverfolgungsbehörden aller 27 Mitgliedstaaten bedienen sollen.</p>
@@ -1911,21 +2013,25 @@
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN)</stage>
           <p>Denn sonst stellen Sie das Bundesverfassungsgericht vor folgende Wahl, Herr Kollege Binninger - NA</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, Sie müssen zum Ende kommen.</p>
         </sp>
-        <sp who="Dr. Konstantin von Notz" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Konstantin von Notz">
+      </div>
+      <div type="agenda_item" n="57" what="debate" desc="Debatte">
+        <sp who="Konstantin von Notz" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Konstantin von Notz" party="GRUENE" name="Konstantin von Notz">
           <speaker>Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>- ich komme zum Ende -: entweder erstmals Europarecht direkt anzugreifen oder aber sich in direkten Widerspruch zu der eigenen jüngsten Rechtsprechung und damit dem deutschen Verfassungsrecht zu begeben. Ich fordere Sie daher auf: Ersparen Sie uns diese Niederlage für die Grundrechte des Grundgesetzes oder die europäische Integration! Wir Grüne bieten Ihnen an: Lassen Sie uns das Grundrecht auf informationelle Selbstbestimmung nach Europa tragen, statt weiter den politischen Grundrechteabbau durch die europäische Hintertür zu betreiben.</p>
           <p>Ganz herzlichen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Clemens Binninger für die CDU/ CSU-Fraktion.</p>
         </sp>
-        <sp who="Clemens Binninger" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Clemens Binninger">
+      </div>
+      <div type="agenda_item" n="58" what="debate" desc="Debatte">
+        <sp who="Clemens Binninger" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Clemens Binninger" party="CDU" name="Clemens Binninger">
           <speaker>Clemens Binninger (CDU/CSU):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Vorneweg eine klarstellende Bemerkung, Herr Kollege von Notz: Die Richtlinie liegt im Entwurf vor. Über sie wird etwa ein Jahr verhandelt werden. Sie ist noch nicht beschlossen. Wir alle sind aufgefordert, gute Beiträge zur Formulierung der Richtlinie zu leisten. Ihre Rede war leider kein guter Beitrag dazu.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Wolfgang Wieland [BÜNDNIS 90/DIE GRÜNEN]: Aber hallo!)</stage>
@@ -1971,12 +2077,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Wolfgang Gunkel für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Wolfgang Gunkel" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wolfgang Gunkel">
+      </div>
+      <div type="agenda_item" n="59" what="debate" desc="Debatte">
+        <sp who="Wolfgang Gunkel" parliamentary_group="SPD" role="mp" position="NA" who_original="Wolfgang Gunkel" party="SPD" name="Wolfgang Gunkel">
           <speaker>Wolfgang Gunkel (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Die Diskussion über die PNR-Daten ist nicht neu; wir haben sie schon in der vorigen Legislaturperiode geführt. Ich erinnere daran, dass der damalige EU-Kommissar für Justiz, Frattini, einen Vorschlag eingebracht hat, der sich an den Fluggastdatenvereinbarungen mit den USA orientiert hat. Damals waren horrende Speicherfristen und ähnliche Dinge vorgesehen. Bis auf die CDU/CSU haben wir damals einheitlich festgestellt, dass Frattinis Vorschlag nicht akzeptabel ist. Die Unionsfraktion hat dann mitgeteilt, man versuche, zu verhandeln und entsprechend nachzubessern. Dazu ist es dann nicht mehr gekommen, weil Frattini gehen musste und die Sache auf Eis lag.</p>
           <p>Jetzt taucht dieser Vorschlag wieder auf. Wichtig ist in diesem Zusammenhang, dass eine einheitliche Datenerhebung in der Europäischen Union außerordentlich schwierig ist. Das wird klar, wenn man sich anschaut, welche Daten bisher schon erhoben werden. Da setze ich an: Wenn wir schon ein Schengener Informationssystem, ein Visa-Informationssystem und API-Dateien haben, warum brauchen wir dann noch zusätzlich etwas? Auch die EU-Kommission hat nicht erklärt, warum die bisher vorhandenen Dateien nicht ausreichen, um ein System zu installieren, durch das das ermöglicht wird, was Sie, Herr Binninger, hier vorhin vorgestellt haben. Diese Frage ist für mich nach wie vor unbeantwortet.</p>
@@ -2007,22 +2115,24 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN - Clemens Binninger [CDU/ CSU]: Sagen Sie das den Kollegen im Europäischen Parlament!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Gisela Piltz für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU - Jan Korte [DIE LINKE]: Jetzt sind wir gespannt!)</stage>
         </sp>
-        <sp who="Gisela Piltz" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Gisela Piltz">
+      </div>
+      <div type="agenda_item" n="60" what="debate" desc="Debatte">
+        <sp who="Gisela Piltz" parliamentary_group="FDP" role="mp" position="NA" who_original="Gisela Piltz" party="FDP" name="Gisela Piltz">
           <speaker>Gisela Piltz (FDP):</speaker>
           <p>Das ist auch richtig so, Herr Korte. - Herr Präsident! Sehr geehrte Damen und Herren! Herr von Notz, Sie haben uns mit auf den Weg gegeben, wir sollen die Grundrechte nach Europa tragen. Ganz ehrlich: Ihren Hinweis dazu hätten wir nicht gebraucht. Das tun wir nämlich schon selber.</p>
           <stage type="interjection">(Beifall bei der FDP - Lachen beim BÜNDNIS 90/DIE GRÜNEN)</stage>
-          <p>Ich will Ihnen zugestehen - Sie sind um einiges jünger -, dass Sie sich nicht so daran erinnern können, dass 2004 der damalige Außenminister - Sie wissen vielleicht noch, wie er hieß und welcher Partei er angehörte -, Joschka Fischer von den Grünen </p>
+          <p>Ich will Ihnen zugestehen - Sie sind um einiges jünger -, dass Sie sich nicht so daran erinnern können, dass 2004 der damalige Außenminister - Sie wissen vielleicht noch, wie er hieß und welcher Partei er angehörte -, Joschka Fischer von den Grünen</p>
           <stage type="interjection">(Wolfgang Wieland [BÜNDNIS 90/DIE GRÜNEN]: Unvergessen!)</stage>
           <p>- unvergessen deswegen, weil er einen Sündenfall im Datenschutz begangen hat, an dem wir heute noch knabbern; das liegt auch in Ihrer Verantwortung -,</p>
           <stage type="interjection">(Beifall bei der FDP - Manuel Höferlin [FDP]: Hört! Hört!)</stage>
           <p>im Rat einem Abkommen zur Übermittlung von Fluggastdaten zugestimmt hat. Das war der Sündenfall. Das war übrigens ein Abkommen, für das Datenschutz ein absolutes Fremdwort war. Erst dem massiven Druck des Europäischen Parlamentes war es zu verdanken, dass überhaupt nachgebessert worden ist.</p>
           <stage type="interjection">(Helmut Brandt [CDU/CSU]: Es ist so still geworden bei den Grünen! - Dr. Konstantin von Notz [BÜNDNIS 90/DIE GRÜNEN]: Reden Sie einmal über die Zukunft, Frau Kollegin!)</stage>
-          <p>Der Sündenfall war die Zustimmung des grünen Außenministers und im Weiteren die Unterstützung für das PNR-Abkommen unter Missachtung aller datenschutzrechtlichen Erwägungen und ohne jegliche Rechtsschutzmöglichkeiten. </p>
+          <p>Der Sündenfall war die Zustimmung des grünen Außenministers und im Weiteren die Unterstützung für das PNR-Abkommen unter Missachtung aller datenschutzrechtlichen Erwägungen und ohne jegliche Rechtsschutzmöglichkeiten.</p>
           <p>Herr Kollege Gunkel von der SPD, ich frage mich: Wo war da eigentlich die SPD?</p>
           <stage type="interjection">(Clemens Binninger [CDU/CSU]: Die war auf Linie gebracht!)</stage>
           <p>Sie waren doch damals in der Regierung.</p>
@@ -2044,15 +2154,17 @@
           <stage type="interjection">(Beifall bei der FDP - Manuel Höferlin [FDP]: Peinlich, nicht drollig!)</stage>
           <p>Es ist wirklich nicht so, dass wir als FDP ein EU-System zur Nutzung von Fluggastdaten in diesem Umfang begrüßen würden.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Gestatten Sie eine Zwischenfrage des Kollegen Notz?</p>
         </sp>
-        <sp who="Gisela Piltz" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Gisela Piltz">
+      </div>
+      <div type="agenda_item" n="61" what="debate" desc="Debatte">
+        <sp who="Gisela Piltz" parliamentary_group="FDP" role="mp" position="NA" who_original="Gisela Piltz" party="FDP" name="Gisela Piltz">
           <speaker>Gisela Piltz (FDP):</speaker>
           <p>Aber immer gerne.</p>
         </sp>
-        <sp who="Dr. Konstantin von Notz" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Konstantin von Notz">
+        <sp who="Konstantin von Notz" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Konstantin von Notz" party="GRUENE" name="Konstantin von Notz">
           <speaker>Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Kollegin Piltz, während Sie so viel über Joschka Fischer reden, verrinnt Ihre kostbare Redezeit. Ehre, wem Ehre gebührt; aber es geht ja um die Zukunft. Deswegen ist die entscheidende Frage, wie sich die FDP in Regierungsverantwortung konkret mit der Verfassungswidrigkeit der augenblicklichen Richtlinie auseinandersetzt; entscheidend ist nicht, was Joschka Fischer vor vielen Jahren gemacht hat.</p>
           <stage type="interjection">(Dr. Hans-Peter Uhl [CDU/CSU]: Vor vielen Jahren!)</stage>
@@ -2060,7 +2172,7 @@
           <stage type="interjection">(Heiterkeit bei der FDP - Stephan Mayer [Altötting] [CDU/CSU]: So stehen die Dinge um Joschka Fischer! Komplette Distanzierung!)</stage>
           <p>Ich bitte also um Aufklärung, was die Zukunft angeht; Vergangenheitsbewältigung ist nicht erforderlich.</p>
         </sp>
-        <sp who="Gisela Piltz" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Gisela Piltz">
+        <sp who="Gisela Piltz" parliamentary_group="FDP" role="mp" position="NA" who_original="Gisela Piltz" party="FDP" name="Gisela Piltz">
           <speaker>Gisela Piltz (FDP):</speaker>
           <p>Erstens, Herr von Notz: Wenn Sie damals noch ein Kind waren, dann sind Sie heute - denn so lange ist es noch nicht her - bestenfalls ein Heranwachsender.</p>
           <stage type="interjection">(Heiterkeit bei der FDP und der CDU/CSU)</stage>
@@ -2101,12 +2213,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Jan Korte für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Jan Korte" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Jan Korte">
+      </div>
+      <div type="agenda_item" n="62" what="debate" desc="Debatte">
+        <sp who="Jan Korte" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Jan Korte" party="DIE LINKE" name="Jan Korte">
           <speaker>Jan Korte (DIE LINKE):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Liebe Kollegin Piltz, Ihr jetzt geschasster Parteivorsitzender hat vor ein paar Jahren gesagt, Ihre Partei wolle die Freiheitsstatue der Republik sein, und jetzt sind Sie da angekommen, dass Sie sich die Vorratsdatenspeicherung einmal anschauen wollen. Von Ihrem Freiheitsdenken ist nichts übrig geblieben.</p>
           <p>Es handelt sich nicht unbedingt um ein neues Problem. Seit Jahren gibt es schon die Übermittlung von sensibelsten Fluggastdaten an die USA, Australien und Kanada. Jetzt soll das Ganze auf die nächsthöhere Stufe gehoben werden.</p>
@@ -2128,12 +2242,14 @@
           <p>Schönen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN, der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Stephan Mayer für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Stephan Mayer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Stephan Mayer">
+      </div>
+      <div type="agenda_item" n="63" what="debate" desc="Debatte">
+        <sp who="Stephan Mayer (Altötting)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stephan Mayer (Altötting)" party="CSU" name="Stephan Mayer">
           <speaker>Stephan Mayer (Altötting) (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Sehr verehrte Kolleginnen! Sehr geehrte Kollegen! Der Antrag, den die Grünen heute vorlegen, dient nur einem Zweck und einem Ziel, nämlich dem der Effekthascherei und Skandalisierung.</p>
           <stage type="interjection">(Wolfgang Wieland [BÜNDNIS 90/DIE GRÜNEN]: Was? - Dr. Eva Högl [SPD]: Herr Kollege! Etwas mehr Niveau, bitte!)</stage>
@@ -2174,7 +2290,7 @@
           <p>In diesem Sinne: Herzlichen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird die Überweisung der Vorlage auf Drucksache 17/5490 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? - Das ist der Fall. Dann ist die Überweisung so beschlossen.</p>
@@ -2182,6 +2298,7 @@
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 11. Mai 2011, 13 Uhr, ein.</p>
           <p>Ich wünsche Ihnen eine fröhliche, eine schöne Osterzeit.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluss: 14.37 Uhr)</stage>
         </sp>
       </div>
     </body>

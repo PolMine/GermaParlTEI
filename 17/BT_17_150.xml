@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-07</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2013/0920/dokumente/protokolle/plenarprotokolle/plenarprotokolle/17150.txt</url>
-        <date>2015-10-20 19:56:55</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -35,8 +35,8 @@
   </teiHeader>
   <text>
     <body>
-      <div type="agenda_item" n="1" what="government_declaration" desc="Abgabe einer Regierungserklärung durch den Bundesminister für Umwelt, Naturschut...">
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+      <div type="agenda_item" n="1" what="debate" desc="Debatte">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Die Sitzung ist eröffnet. Nehmen Sie bitte Platz.</p>
           <p>Guten Morgen, liebe Kolleginnen und Kollegen! Ich begrüße Sie alle herzlich zur 150. Plenarsitzung in der laufenden Legislaturperiode, die hoffentlich die letzte in diesem Jahr sein wird.</p>
@@ -48,7 +48,7 @@
           <p>Das Wort zur Abgabe einer Regierungserklärung hat der Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit Dr. Norbert Röttgen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Dr. Norbert Röttgen" parliamentary_group="NA" role="government" position="Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit" party="CDU" name="Norbert Röttgen">
+        <sp who="Norbert Röttgen" parliamentary_group="NA" role="government" position="Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit" who_original="Norbert Röttgen" party="CDU" name="Norbert Röttgen">
           <speaker>Dr. Norbert Röttgen, Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit:</speaker>
           <p>Herr Präsident! Sehr geehrte Kolleginnen und Kollegen! In den Morgenstunden des vergangenen Sonntags, des dritten Advents, ist die bislang längste Klimakonferenz nach nächtelangen Verhandlungen zu Ende gegangen. Circa 20 000 Personen waren akkreditiert. Über zwei Wochen wurde verhandelt. Gerade wegen der Aufmerksamkeit, die diese Konferenz weltweit bekommen hat, möchte ich betonen, dass die Konferenz nicht die eigentliche Sache ist und dass man die Konferenz nicht nur aus sich heraus bewerten darf, wenn man dem Thema gerecht werden möchte.</p>
           <p>Die Konferenz ist nicht die Sache selbst. Die Sache selbst ist der Klimaschutz. Auch mit den Ergebnissen dieser Konferenz - im Abschlussdokument ist es ausdrücklich festgehalten - hinken wir dem Problem hinterher. Klimaschutz findet statt, er entwickelt sich dynamisch. Aber die Maßnahmen, die einzelne Staaten getroffen haben, die Maßnahmen, die die Staatengemeinschaft getroffen hat, sind in der Summe nicht ausreichend. Wir tun immer noch zu wenig. Es gibt immer noch eine erschreckende Lücke, die auch auf der Konferenz von denen glaubwürdig dargestellt wurde, die schon heute die Opfer sind. Wir haben dies auch hier in der Debatte vor der Konferenz ausgeführt.</p>
@@ -129,13 +129,15 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Anhaltender Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Ich eröffne die Aussprache.</p>
           <p>Matthias Miersch ist der erste Redner für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Matthias Miersch" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Matthias Miersch">
+      </div>
+      <div type="agenda_item" n="2" what="debate" desc="Debatte">
+        <sp who="Matthias Miersch" parliamentary_group="SPD" role="mp" position="NA" who_original="Matthias Miersch" party="SPD" name="Matthias Miersch">
           <speaker>Dr. Matthias Miersch (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Nicht nur weil Weihnachten ist, sondern auch weil ich fest davon überzeugt bin, Herr Bundesminister, richte ich am Anfang ein Dankeschön an das Verhandlungsteam, an all die Beamtinnen und Beamten, die seit Monaten für die Bundesrepublik Deutschland an dem internationalen Prozess beteiligt gewesen sind. Ich glaube, diese müssen in den Mittelpunkt gerückt werden. Sie haben die Kleinarbeit gemacht. Insofern vielen Dank für diese Arbeit.</p>
           <stage type="interjection">(Beifall bei der SPD, der CDU/CSU, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -165,12 +167,14 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Anhaltender Beifall bei der SPD - Beifall bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN sowie der Abg. Eva Bulling-Schröter [DIE LINKE])</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält nun der Kollege Michael Kauch für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Michael Kauch" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Michael Kauch">
+      </div>
+      <div type="agenda_item" n="3" what="debate" desc="Debatte">
+        <sp who="Michael Kauch" parliamentary_group="FDP" role="mp" position="NA" who_original="Michael Kauch" party="FDP" name="Michael Kauch">
           <speaker>Michael Kauch (FDP):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Die UN-Konferenz von Durban hat die Erwartungen klar übertroffen.</p>
           <stage type="interjection">(Widerspruch bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN - Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Bei der FDP ist jetzt alles durcheinander, ja?)</stage>
@@ -199,12 +203,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Für die Fraktion Die Linke erhält nun Gesine Lötzsch das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Gesine Lötzsch" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Gesine Lötzsch">
+      </div>
+      <div type="agenda_item" n="4" what="debate" desc="Debatte">
+        <sp who="Gesine Lötzsch" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Gesine Lötzsch" party="DIE LINKE" name="Gesine Lötzsch">
           <speaker>Dr. Gesine Lötzsch (DIE LINKE):</speaker>
           <p>Vielen Dank. - Herr Präsident! Meine sehr geehrten Damen und Herren! Der renommierte Kieler Klimaforscher Mojib Latif stellt zu den Ergebnissen von Durban fest: Der weltweite Ausstoß von Treibhausgasen hat sich seit 1990 nicht verringert, sondern er ist um 40 Prozent gestiegen. Sein Fazit - Zitat -:</p>
           <p>... es gab Klimaschutz nur auf dem Papier, aber nicht real.</p>
@@ -236,12 +242,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Christian Ruck ist der nächste Redner für die CDU/ CSU.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Christian Ruck" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Christian Ruck">
+      </div>
+      <div type="agenda_item" n="5" what="debate" desc="Debatte">
+        <sp who="Christian Ruck" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Christian Ruck" party="CSU" name="Christian Ruck">
           <speaker>Dr. Christian Ruck (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Wir alle waren vor der Klimakonferenz von Durban vor dem klimapolitischen Abgrund. Es gab wenig Aussicht auf einen verlässlichen Prozess für ein globales Klimaschutzabkommen. Der Fortgang des Kioto-Protokolls war unklar. Es gab verhärtete Fronten im internationalen Dialog zwischen Industrieländern und Schwellen- und Entwicklungsländern. Durban drohte auf ganzer Linie zu scheitern. Damit drohte auch ein Abriss des globalen Klimaschutzprozesses. Vor diesem Hintergrund kann man wirklich nur feststellen, dass Durban trotz aller Unkenrufe ein Erfolg war.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
@@ -268,20 +276,22 @@
           <p>Ich bitte Sie: Nehmen Sie es einmal zur Kenntnis, oder gehen Sie selber ins BMZ, suchen die Zahlen und rechnen nach. Dann müssten auch Sie auf diese Zahlen kommen.</p>
           <p>Dieser Aufwuchs der ODA-Mittel und auch die Mittel für Umwelt- und Klimaschutz müssen steigen. Dafür kämpfen wir Entwicklungspolitiker. Der Aufwuchs der ODA-Mittel muss vor allem auch in den Klima- und Umweltschutz gehen: für Technologietransfer, für den Schutz von Wäldern und Sumpfgebieten, für Agrarmaßnahmen, zum Beispiel für eine robustere Landwirtschaft, für den Schutz der Korallenriffe und vieles andere mehr.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege Ruck, darf der Kollege Kelber eine Zwischenbemerkung machen?</p>
         </sp>
-        <sp who="Dr. Christian Ruck" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Christian Ruck">
+      </div>
+      <div type="agenda_item" n="6" what="debate" desc="Debatte">
+        <sp who="Christian Ruck" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Christian Ruck" party="CSU" name="Christian Ruck">
           <speaker>Dr. Christian Ruck (CDU/CSU):</speaker>
           <p>Herr Kelber, das wird auch nichts bringen, aber ich lasse Ihre Zwischenfrage zu, sonst sagen Sie wieder, ich hätte Angst vor Ihrem Zahlenwerk. - Bitte.</p>
         </sp>
-        <sp who="Ulrich Kelber" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ulrich Kelber">
+        <sp who="Ulrich Kelber" parliamentary_group="SPD" role="mp" position="NA" who_original="Ulrich Kelber" party="SPD" name="Ulrich Kelber">
           <speaker>Ulrich Kelber (SPD):</speaker>
           <p>Sie sagen ja immer, die Tatsache, dass ich nicht rechnen könne, hätte ich wahrscheinlich meinem Mathematikstudium zu verdanken. Würden Sie aber folgende Zahlen akzeptieren, vorgelegt von Brot für die Welt und Germanwatch? Überschrift: "Der deutsche Beitrag zur Fast-Start-Zusage von Kopenhagen: Alter Wein in neuen Schläuchen". Weiter heißt es: Demnach kommen über den Zeitraum 2010 bis 2012 nur 152 Millionen Euro - das entspricht 12 Prozent der genannten Zahlen - an "frischem" Geld zusammen. Eklatantestes Beispiel: 500 Millionen Euro, die die Bundesregierung bereits für den Waldschutz zugesagt hat, werden bei Fast Start erneut verrechnet.</p>
           <stage type="interjection">(Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Was? Nur zweimal statt dreimal?)</stage>
         </sp>
-        <sp who="Dr. Christian Ruck" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Christian Ruck">
+        <sp who="Christian Ruck" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Christian Ruck" party="CSU" name="Christian Ruck">
           <speaker>Dr. Christian Ruck (CDU/CSU):</speaker>
           <p>Ich akzeptiere die Zahlen nicht. Herr Kelber, ich sage es Ihnen noch einmal: 894 Millionen Euro beträgt der Sockelbetrag; das ist hoffentlich einvernehmlich. 895 Millionen Euro beträgt der Beitrag des BMZ; das sind sowohl Mittel für internationale als auch für bilaterale Projekte. Hinzu kommen 365 Millionen Euro des BMU.</p>
           <p>Es ist so, dass manche Mittel, zum Beispiel für den Waldschutz, gleichzeitig Mittel zum Schutz der Biodiversität sind. Das können Sie dem BMZ und uns aber nicht vorwerfen.</p>
@@ -295,11 +305,13 @@
           <p>Ich sprach über die Partnerschaft mit Entwicklungs- und Schwellenländern. Diese Partnerschaft ist keine Einbahnstraße. Ich komme auf den Fall Brasilien zurück, weil das ein wirklich starkes Stück ist. Mit Brasilien pflegen wir eine jahrzehntelange und kostspielige Zusammenarbeit im Tropenwaldbereich. Die geplante Entwaldungsgesetzgebung wäre im schlechtesten Fall mit einer Freisetzung von 28 Milliarden Tonnen CO2 verbunden. Das ist das Dreißigfache dessen, was die Bundesrepublik Deutschland im Jahr ausstößt. 28 Milliarden Tonnen CO2, das wäre ein Schlag ins Gesicht - für uns und für den internationalen Klimaschutz. Wir müssen im Deutschen Bundestag natürlich über Kanada sprechen, wir müssen aber auch über Brasilien sprechen; denn mit einer solchen Gesetzgebung macht Brasilien die Rio-plus-20-Konferenz zu einer Farce. Deshalb müssen auch wir Bundestagsabgeordnete mit den Brasilianern ein ernstes Wort sprechen.</p>
           <p>Auf der Konferenz in Durban wurde Arbeit eingefordert und Arbeit verteilt: für ein zweites Kioto-Protokoll, für das beschlossene Aktionsprogramm, für einen verbesserten Waldschutz und für den sofortigen Beginn der Arbeit an einem globalen Klimaschutzabkommen. Wir als Abgeordnete müssen uns dabei dauerhaft und aktiv einbringen und dürfen auch eine kritische Auseinandersetzung mit Bremserstaaten nicht scheuen. Auch ich halte das Verhalten der Kanadier für einen Skandal. Wenn man zuerst die Klimaschutzziele dermaßen eklatant verfehlt - statt minus 6 plus 35 Prozent - und dann noch sagt: "Bevor ich Strafe zahlen muss, mache ich mich vom Acker", dann passt das nicht zu einer Nation, die mit den Entwicklungsländern Geschäfte mit den natürlichen Ressourcen macht, und es passt nicht in diese Zeit, in der Kanada den Anspruch erhebt, eine Führungsnation zu sein.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege Ruck, darf die Kollegin Bulling-Schröter eine Zwischenfrage stellen?</p>
         </sp>
-        <sp who="Dr. Christian Ruck" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Christian Ruck">
+      </div>
+      <div type="agenda_item" n="7" what="debate" desc="Debatte">
+        <sp who="Christian Ruck" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Christian Ruck" party="CSU" name="Christian Ruck">
           <speaker>Dr. Christian Ruck (CDU/CSU):</speaker>
           <p>Nein, jetzt nicht mehr. Ich bin nämlich bei meinem letzten Punkt angelangt.</p>
           <p>Klimaverhandlungen sind wichtig. Wir wissen, dass sie zäh sind, langsam vorangehen, vor allem im UNO-Kontext, und dass wir deswegen selber handeln müssen, um andere mitziehen zu können. Genau das tun wir. Unsere Energiewende und der damit verbundene gesellschaftliche Kraftakt finden vor den Augen der Weltöffentlichkeit statt. Er entscheidet über den Erfolg der Klimawende, auch international. Alle schauen darauf, wie wir diese Energiewende gestalten und in welcher Art und Weise wir wirtschaften.</p>
@@ -310,21 +322,25 @@
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
           <p>Ich bin durchaus bereit, meine Damen und Herren von der Opposition, über Energieeffizienz im europäischen Kontext zu reden. Wir brauchen im europäischen Kontext mehr Energieeffizienz. Wir haben wichtige Gesetze vor uns, die uns mehr Energieeffizienz bescheren können, zum Beispiel im KWK-Bereich und im Mietrechtsbereich.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege, Sie müssen jetzt bitte zum Schluss kommen.</p>
         </sp>
-        <sp who="Dr. Christian Ruck" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Christian Ruck">
+      </div>
+      <div type="agenda_item" n="8" what="debate" desc="Debatte">
+        <sp who="Christian Ruck" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Christian Ruck" party="CSU" name="Christian Ruck">
           <speaker>Dr. Christian Ruck (CDU/CSU):</speaker>
           <p>Jawohl. - Entscheidend ist, dass die Welt auf Deutschland schaut. Wir müssen beweisen, dass Klimaschutz Zukunftspolitik und Wachstumslokomotive ist, und zwar nicht nur für das Industrieland Deutschland, sondern auch für die globale Wirtschaft. Wenn uns dies gelingt, dann gibt es vor allem einen Gewinner: das Klima dieser Welt.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort hat nun Renate Künast für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Renate Künast" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Renate Künast">
+      </div>
+      <div type="agenda_item" n="9" what="debate" desc="Debatte">
+        <sp who="Renate Künast" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Renate Künast" party="GRUENE" name="Renate Künast">
           <speaker>Renate Künast (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Nach der Regierungserklärung bin ich etwas ratlos und frage: Was sollte das eigentlich, Herr Röttgen?</p>
           <stage type="interjection">(Josef Göppel [CDU/CSU]: Das war eindeutig klar!)</stage>
@@ -382,12 +398,14 @@
           <p>Warum bauen wir mithilfe der Gelder aus dem Emissionshandel neue Kohlekraftwerke? Ich sage eines ganz klar: Klimaverhandlungen werden in potenziell guten neuen Bündnissen fortgeführt, wenn Deutschland selber einen Innovationsschub hat. Aber das kann Schwarz-Gelb nicht, zumindest nicht der gelbe Teil, und der schwarze hat auch keinen Mut.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Birgit Homburger ist die nächste Rednerin für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU - Jürgen Trittin [BÜNDNIS 90/ DIE GRÜNEN]: Ist das jetzt die Rede zur Bewerbung bei der DBU?)</stage>
         </sp>
-        <sp who="Birgit Homburger" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Birgit Homburger">
+      </div>
+      <div type="agenda_item" n="10" what="debate" desc="Debatte">
+        <sp who="Birgit Homburger" parliamentary_group="FDP" role="mp" position="NA" who_original="Birgit Homburger" party="FDP" name="Birgit Homburger">
           <speaker>Birgit Homburger (FDP):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Wir haben heute Morgen die Möglichkeit, hier über die Ergebnisse von Durban zu diskutieren. Liebe Frau Künast, mich wundert nichts mehr. Ihnen kann man nichts recht machen. Sie sind immer unzufrieden. Es ist egal, was wir machen, es passt Ihnen nicht.</p>
           <stage type="interjection">(Ulrich Kelber [SPD]: Aber egal, was Sie machen, Sie machen es auch falsch!)</stage>
@@ -405,20 +423,22 @@
           <p>Das zeigt, dass diese Bundesregierung handelt, dass sie die Sache ernst nimmt und dass sie diesen Prozess weiter intensiviert und unterstützt.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Kollegin Homburger, darf die Kollegin Höhn eine Zwischenfrage stellen?</p>
         </sp>
-        <sp who="Birgit Homburger" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Birgit Homburger">
+      </div>
+      <div type="agenda_item" n="11" what="debate" desc="Debatte">
+        <sp who="Birgit Homburger" parliamentary_group="FDP" role="mp" position="NA" who_original="Birgit Homburger" party="FDP" name="Birgit Homburger">
           <speaker>Birgit Homburger (FDP):</speaker>
           <p>Bitte sehr.</p>
         </sp>
-        <sp who="Bärbel Höhn" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Bärbel Höhn">
+        <sp who="Bärbel Höhn" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Bärbel Höhn" party="GRUENE" name="Bärbel Höhn">
           <speaker>Bärbel Höhn (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Kollegin Homburger, Sie sind in den letzten Monaten ja nicht mehr in Erscheinung getreten, wenn es um Umwelt- und Klimathemen ging. Heute reden Sie dazu. Könnte ein Grund dafür sein, dass Sie sich um die Nachfolge von Herrn Brickwedde bei der Deutschen Bundesstiftung Umwelt in Osnabrück bewerben wollen?</p>
           <stage type="interjection">(Dr. Thomas Gebhart [CDU/CSU]: Das ist jetzt wirklich unangemessen! - Michael Kauch [FDP]: Peinlich! - Otto Fricke [FDP]: Ach! So ein Quatsch! - Weitere Zurufe von der FDP: Oh! Oh! - Was soll denn das jetzt?)</stage>
         </sp>
-        <sp who="Birgit Homburger" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Birgit Homburger">
+        <sp who="Birgit Homburger" parliamentary_group="FDP" role="mp" position="NA" who_original="Birgit Homburger" party="FDP" name="Birgit Homburger">
           <speaker>Birgit Homburger (FDP):</speaker>
           <p>Sehr geehrte Frau Höhn, das ist eine peinliche Frage, die Ihre Denke vollkommen offenlegt.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
@@ -441,12 +461,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält jetzt der Kollege Frank Schwabe für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Frank Schwabe" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Frank Schwabe">
+      </div>
+      <div type="agenda_item" n="12" what="debate" desc="Debatte">
+        <sp who="Frank Schwabe" parliamentary_group="SPD" role="mp" position="NA" who_original="Frank Schwabe" party="SPD" name="Frank Schwabe">
           <speaker>Frank Schwabe (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Ich denke, man kann feststellen - das können wir, glaube ich, übereinstimmend tun, auch diejenigen Mitglieder des Deutschen Bundestages, die in Durban waren -: Es hat durchaus Bewegung gegeben, und wir haben eine andere Weltlage, auch im Bereich der Klimapolitik. Enorme Bewegung gibt es bei vielen kleineren Ländern, aber auch bei vielen Schwellenländern wie Brasilien, Mexiko, China und Indien. Angesichts ihrer sehr schwierigen Rolle finde ich, dass sogar die USA versucht haben, sich relativ konstruktiv zu verhalten. Ich will ausdrücklich sagen: Ich sehe durchaus Hoffnungen und Chancen in diesem Prozess.</p>
           <p>Trotzdem müssen wir festhalten, dass der UN-Prozess nicht ausreichend ist. Er ist aber notwendig. Deswegen muss er erhalten bleiben. Da der UN-Prozess notwendig ist, muss man gemeinschaftlich ein klares Wort zu Kanada sagen. Ich verstehe in der Tat nicht, warum der Bundesumweltminister, aber auch die Bundeskanzlerin an der Stelle so leisetreterisch und windelweich sind. Bei aller diplomatischen Zurückhaltung: Das, was Kanada hier tut, ist ein starkes Stück, und ich finde, dass es wichtig wäre, die richtigen Reaktionen in Richtung Kanada zu senden.</p>
@@ -476,12 +498,14 @@
           <p>Vielen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN - Axel Schäfer [Bochum] [SPD]: Er schafft es noch nicht einmal, zuzuhören! Demonstrative Ignoranz des Ministers! Das ist unglaublich!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Thomas Gebhart ist der nächste Redner für die CDU/ CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Dr. Thomas Gebhart" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Thomas Gebhart">
+      </div>
+      <div type="agenda_item" n="13" what="debate" desc="Debatte">
+        <sp who="Thomas Gebhart" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Thomas Gebhart" party="CDU" name="Thomas Gebhart">
           <speaker>Dr. Thomas Gebhart (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Es gibt in diesen Tagen unterschiedliche Bewertungen des Ergebnisses der Klimakonferenz in Durban. Dies mag bei dem einen oder anderen mit der Absicht zusammenhängen, die dahintersteckt. Es hängt aber sicherlich vor allem mit dem Maßstab zusammen, anhand dessen diese Ergebnisse von jemandem bewertet werden.</p>
           <p>Aber eines ist doch völlig klar: Wenn man dieses Ergebnis sieht und es an den Erwartungen, die wir vor der Konferenz hatten, und an dem, was realistischerweise machbar war, misst - wir müssen sehen, es sind über 190 Länder am Verhandlungstisch, und es gilt das Einstimmigkeitsprinzip -, kann man sagen, dass dieses Ergebnis definitiv ein Fortschritt ist. Es ist ein Erfolg.</p>
@@ -510,12 +534,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Ich erteile der Kollegin Eva Bulling-Schröter für die Fraktion Die Linke das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Eva Bulling-Schröter" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Eva Bulling-Schröter">
+      </div>
+      <div type="agenda_item" n="14" what="debate" desc="Debatte">
+        <sp who="Eva Bulling-Schröter" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Eva Bulling-Schröter" party="DIE LINKE" name="Eva Bulling-Schröter">
           <speaker>Eva Bulling-Schröter (DIE LINKE):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! In Durban wurde wieder einmal ein Fahrplan verabschiedet, aber - wie die Zeitung Die Welt schrieb - losgefahren ist niemand. Ich möchte der Bundesregierung nicht die gute Laune verderben; aber was ist eigentlich 20 Jahre nach der Klimarahmenkonvention die Bilanz internationaler Klimapolitik? Für fünf Jahre gab es mit dem Kioto-Abkommen ein Einsparziel, aber diese Vereinbarung wurde gleich nach der Verabschiedung durchlöchert. So gab es Zugeständnisse an Russland bezüglich der Anrechnung der Wälder, und es waren die USA, die sich ganz aus dem Klimaschutz verabschiedet haben.</p>
           <p>Wenn das Ziel des Kioto-Protokolls 2012 erreicht wird, dann wird der Minderungsbeitrag gerade einmal 1 Prozent der weltweiten Emissionen ausmachen. Ich rede noch nicht einmal über die Schlupflöcher, zum Beispiel über CDM, also die anrechenbaren Klimaschutzprojekte in Entwicklungsländern. Diese sind noch gar nicht berücksichtigt. Im selben Zeitraum, also seit 1990, sind die globalen Emissionen um fast 40 Prozent gestiegen. Ich wiederhole es, damit auch alle es mitbekommen: Das Ergebnis aller UN-Klimaverhandlungen besteht darin, global einen Beitrag von maximal 1 Prozent Minderung in 20 Jahren zu leisten. Gleichzeitig beträgt die reale Steigerung 40 Prozent. Der internationale Klimaprozess ist gescheitert. Das Ergebnis von Durban ändert daran nichts.</p>
@@ -533,11 +559,13 @@
           <p>Wir sind verantwortlich, und wir haben diese Verantwortung zu tragen.</p>
           <p>Wir haben mit betroffenen Menschen gesprochen. Meine Kollegin Gesine Lötzsch hat gesagt: In Durban wurde allenfalls der Verhandlungsprozess gerettet, nicht aber das Klima. - Da hat sie recht. Wir müssen den Zusammenhang der verschiedenen globalen Krisen sehen; denn sie haben dieselbe Ursache.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Kollegin.</p>
         </sp>
-        <sp who="Eva Bulling-Schröter" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Eva Bulling-Schröter">
+      </div>
+      <div type="agenda_item" n="15" what="debate" desc="Debatte">
+        <sp who="Eva Bulling-Schröter" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Eva Bulling-Schröter" party="DIE LINKE" name="Eva Bulling-Schröter">
           <speaker>Eva Bulling-Schröter (DIE LINKE):</speaker>
           <p>Ich sage: Es ist der ungezügelte Kapitalismus; wir müssen da etwas tun.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -545,11 +573,13 @@
           <p>Aber ich bin ein optimistischer Mensch und habe nach wie vor die Hoffnung, dass diese Welt zu retten ist, dass sie eben nicht untergeht und dass wir das 2-Grad-Ziel noch erreichen. Dafür müssen wir gemeinsam etwas tun, und zwar jetzt. Ich sage immer: Es gibt stets Alternativen. Diese Alternativen müssen wir angehen - im Interesse der Menschen auf anderen Kontinenten.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Hermann Ott ist der nächste Redner für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Dr. Hermann E. Ott" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Hermann E. Ott">
+      </div>
+      <div type="agenda_item" n="16" what="debate" desc="Debatte">
+        <sp who="Ott" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Ott" party="GRUENE" name="Hermann E. Ott">
           <speaker>Dr. Hermann E. Ott (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Es ist gut, dass in Durban doch noch ein Ergebnis zustande kam, dazu noch, wie es der Zufall wollte, am 11. Dezember, also genau an dem Tag, an dem 14 Jahre zuvor das Kioto-Protokoll angenommen worden ist. Ich kann mich noch gut daran erinnern und auch daran, wie ich die Kanzlerin, damals noch Umweltministerin, wissenschaftlich beraten durfte. Was damals in Kioto galt, das gilt heute immer noch.</p>
           <p>Wenn man in 100 Jahren auf unser Jahrzehnt zurückblickt, dann werden viele der Krisen, die uns heute in Atem halten, nicht viel mehr als eine Fußnote der Geschichte sein. Aber was die Menschen in 100 Jahren brennend interessieren wird, das ist die Frage, ob wir es geschafft haben, die menschheitsgefährdende Aufheizung unseres Planeten zu verhindern. Das ist der Maßstab, an dem unsere Politik gemessen werden wird.</p>
@@ -568,12 +598,14 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Josef Göppel ist der nächste Redner für die CDU/ CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Josef Göppel" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Josef Göppel">
+      </div>
+      <div type="agenda_item" n="17" what="debate" desc="Debatte">
+        <sp who="Josef Göppel" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Josef Göppel" party="CSU" name="Josef Göppel">
           <speaker>Josef Göppel (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Die Reden derer, die in Durban dabei waren, unterschieden sich doch etwas von den Reden derer, die nicht in Durban waren. Wer den Verhandlungsprozess verfolgt hat, der hat die existenzielle Not gespürt, die viele Länder bewegte und die letztlich auch zum Aufbrechen der alten Blöcke geführt hat. Der alte Block der G 77 ist von der Realität überholt werden. Die afrikanischen Länder und die Inselstaaten haben sich daraus gelöst, weil sie gemerkt haben, dass ein Land wie China ihre Interessen nicht mehr vertritt.</p>
           <p>In meinen Augen ist der größte Erfolg der Konferenz in Durban, dass es eine neue Allianz zwischen den afrikanischen Ländern, den Inselstaaten und Europa gibt. Das ist vorbereitet worden. Hier hat die deutsche Verhandlungsführung eine gute Rolle gespielt.</p>
@@ -595,12 +627,14 @@
           <p>Ich möchte auch den Oppositionskollegen, die eben hier gesprochen haben und in Durban dabei waren, dafür danken, dass sie die persönliche Leistung des deutschen Bundesumweltministers und seinen Anteil am Verhandlungserfolg anerkannt haben. Diese Einigkeit stärkt insgesamt den Klimaschutz - und damit auch unser Land.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort hat nun der Kollege Ulrich Kelber für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Ulrich Kelber" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ulrich Kelber">
+      </div>
+      <div type="agenda_item" n="18" what="debate" desc="Debatte">
+        <sp who="Ulrich Kelber" parliamentary_group="SPD" role="mp" position="NA" who_original="Ulrich Kelber" party="SPD" name="Ulrich Kelber">
           <speaker>Ulrich Kelber (SPD):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! In der Debatte vor der UN-Klimaschutzkonferenz in Durban hat die SPD die schwarz-gelbe Klima-, Energie- und Umweltpolitik heftig kritisiert, namentlich die Rolle der Bundeskanzlerin, des Bundeswirtschaftsministers und auch des Bundesumweltministers.</p>
           <p>Wir haben damals angesprochen, dass es falsch ist, ohne Position zu den Klimaschutzzielen der Europäischen Union dorthin zu fahren. Und in der Tat: Bis Mai wird der Deutsche Bundestag jetzt entscheiden müssen. Das heißt, das Drücken vor einer Antwort auf die Frage, ob die Europäische Union die Emission von Treibhausgasen um 30 Prozent reduzieren soll oder nicht, wird bei Schwarz-Gelb nicht mehr durchgehen können.</p>
@@ -627,12 +661,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Der Kollege Andreas Jung hat das Wort für die CDU/ CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Andreas Jung" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Andreas Jung">
+      </div>
+      <div type="agenda_item" n="19" what="debate" desc="Debatte">
+        <sp who="Andreas Jung (Konstanz)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Andreas Jung (Konstanz)" party="CDU" name="Andreas Jung">
           <speaker>Andreas Jung (Konstanz) (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Ich möchte zunächst einmal einen Dank an die Bundesregierung aussprechen: Die Bundesregierung, insbesondere Bundesumweltminister Norbert Röttgen als Leiter der Verhandlungen in Durban,</p>
           <stage type="interjection">(Ulrich Kelber [SPD]: Der ist gar nicht mehr da!)</stage>
@@ -665,7 +701,7 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über den gemeinsamen Entschließungsantrag der Fraktionen von SPD und Bündnis 90/Die Grünen auf Drucksache 17/8154. Wer stimmt für diesen Entschließungsantrag? -</p>
@@ -680,9 +716,9 @@
           <p>- Drucksache 17/6486 -</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Arbeit und Soziales (f)</p>
-          <p>Innenausschuss </p>
-          <p>Rechtsausschuss </p>
-          <p>Ausschuss für Familie, Senioren, Frauen und Jugend </p>
+          <p>Innenausschuss</p>
+          <p>Rechtsausschuss</p>
+          <p>Ausschuss für Familie, Senioren, Frauen und Jugend</p>
           <p>Haushaltsausschuss</p>
           <p>c) Beratung des Antrags der Abgeordneten Iris Gleicke, Anette Kramme, Silvia Schmidt (Eisleben), weiterer Abgeordneter und der Fraktion der SPD</p>
           <p>Sofortige Ost-West-Angleichung von pauschal bewerteten Versicherungszeiten beim Erwerb von Entgeltpunkten für die Rentenversicherung vornehmen</p>
@@ -690,23 +726,23 @@
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Arbeit und Soziales (f)</p>
           <p>Verteidigungsausschuss</p>
-          <p>Ausschuss für Familie, Senioren, Frauen und Jugend </p>
-          <p>Ausschuss für Gesundheit </p>
+          <p>Ausschuss für Familie, Senioren, Frauen und Jugend</p>
+          <p>Ausschuss für Gesundheit</p>
           <p>Haushaltsausschuss</p>
           <p>d) Beratung des Antrags der Abgeordneten Dr. Martina Bunge, Matthias W. Birkwald, Dr. Gregor Gysi, weiterer Abgeordneter und der Fraktion DIE LINKE</p>
           <p>Bund-Länder-Arbeitsgruppe zur Korrektur der Überleitung von DDR-Alterssicherungen in bundesdeutsches Recht</p>
           <p>- Drucksache 17/7034 -</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Arbeit und Soziales (f)</p>
-          <p>Innenausschuss </p>
+          <p>Innenausschuss</p>
           <p>Ausschuss für Familie, Senioren, Frauen und Jugend</p>
           <p>Verabredet ist es, hierzu eineinhalb Stunden zu debattieren. - Dazu sehe und höre ich keinen Widerspruch. Dann ist das so beschlossen.</p>
           <p>Ich eröffne die Aussprache. Das Wort hat für die Fraktion der SPD die Kollegin Iris Gleicke.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="2" what="debate" desc="a) Beratung der Großen Anfrage der Abgeordneten Silvia Schmidt (Eisleben), Anett...">
-        <sp who="Iris Gleicke" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Iris Gleicke">
+      <div type="agenda_item" n="20" what="debate" desc="Debatte">
+        <sp who="Iris Gleicke" parliamentary_group="SPD" role="mp" position="NA" who_original="Iris Gleicke" party="SPD" name="Iris Gleicke">
           <speaker>Iris Gleicke (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Das Renten-Überleitungsgesetz ist eine Erfolgsgeschichte.</p>
           <stage type="interjection">(Peter Weiß [Emmendingen] [CDU/CSU]: Richtig!)</stage>
@@ -743,12 +779,14 @@
           <p>Ich danke Ihnen für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Für die Bundesregierung ergreift der Parlamentarische Staatssekretär Hans-Joachim Fuchtel das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Hans-Joachim Fuchtel" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin für Arbeit und Soziales" party="CDU" name="Hans-Joachim Fuchtel">
+      </div>
+      <div type="agenda_item" n="21" what="debate" desc="Debatte">
+        <sp who="Hans-Joachim Fuchtel" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin für Arbeit und Soziales" who_original="Hans-Joachim Fuchtel" party="CDU" name="Hans-Joachim Fuchtel">
           <speaker>Hans-Joachim Fuchtel, Parl. Staatssekretär bei der Bundesministerin für Arbeit und Soziales:</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Zunächst möchte ich mich bei der SPD für die positive Einschätzung der Wirkungen des Renten-Überleitungsgesetzes bedanken. In aller Höflichkeit darf ich als Regierungsmitglied aber darauf hinweisen, dass in zehn der letzten zwölf Jahre die SPD den Arbeits-, den Sozial- und damit den Rentenminister - das waren vier Minister, wenn ich mich richtig erinnere - gestellt hat</p>
           <stage type="interjection">(Iris Gleicke [SPD]: Die CDU hat doch mit ihren ostdeutschen Ministerpräsidenten blockiert!)</stage>
@@ -794,12 +832,14 @@
           <p>Vor diesem Hintergrund gibt es keinen juristischen oder sachlichen Zwang, der uns vom bisherigen Weg abbringen müsste. Wichtig ist, dass wir diesen Weg im Interesse der Erledigung dieser Sache gemeinsam und konsequent beschreiten. Das ist mein Appell am heutigen Tag und wohl auch der Sinn der Debatte.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Dann für den Freitagnachmittag eine Kurzintervention. - Bitte schön.</p>
           <stage type="interjection">(Dr. Heinrich L. Kolb [FDP]: Anwesenheitspflicht bis zum Schluss des Plenums! - Maria Michalk [CDU/CSU]: Jawohl! Bis 15 Uhr mindestens! Das werden wir heute kontrollieren!)</stage>
         </sp>
-        <sp who="Hans-Joachim Hacker" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hans-Joachim Hacker">
+      </div>
+      <div type="agenda_item" n="22" what="debate" desc="Debatte">
+        <sp who="Hans-Joachim Hacker" parliamentary_group="SPD" role="mp" position="NA" who_original="Hans-Joachim Hacker" party="SPD" name="Hans-Joachim Hacker">
           <speaker>Hans-Joachim Hacker (SPD):</speaker>
           <p>Vielen Dank, Frau Präsidentin. - Herr Staatssekretär Fuchtel, Sie haben zu Beginn Ihrer Rede über die Katze gesprochen, die um den heißen Brei schleicht. Ich glaube, wir haben in Ihrer Rede ein bildhaftes Beispiel erlebt,</p>
           <stage type="interjection">(Iris Gleicke [SPD]: Einen Kater! - Dr. Heinrich L. Kolb [FDP]: Was denn für ein bildhaftes Beispiel?)</stage>
@@ -816,11 +856,13 @@
           <p>Ich möchte Sie fragen - darauf hätte ich gerne eine Antwort von Ihnen -, wie Sie die Unterschiede beim Rentenwert eines Entgeltpunktes noch rechtfertigen können.</p>
           <stage type="interjection">(Beifall bei der SPD - Peter Weiß [Emmendingen] [CDU/CSU]: Aber er liegt schon höher als die Durchschnittswerte! Das hat Frau Gleicke zu Recht gesagt! - Eckhardt Rehberg [CDU/CSU]: Richtig! Frau Gleicke, der erzählt etwas anderes als Sie! - Gegenruf der Abg. Iris Gleicke [SPD]: Still da hinten!)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Zur Erwiderung, Herr Staatssekretär.</p>
         </sp>
-        <sp who="Hans-Joachim Fuchtel" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin für Arbeit und Soziales" party="CDU" name="Hans-Joachim Fuchtel">
+      </div>
+      <div type="agenda_item" n="23" what="debate" desc="Debatte">
+        <sp who="Hans-Joachim Fuchtel" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin für Arbeit und Soziales" who_original="Hans-Joachim Fuchtel" party="CDU" name="Hans-Joachim Fuchtel">
           <speaker>Hans-Joachim Fuchtel, Parl. Staatssekretär bei der Bundesministerin für Arbeit und Soziales:</speaker>
           <p>Fast wäre ich geneigt, Wilhelm Busch zu zitieren, der einmal gesagt hat:</p>
           <p>Wer durch des Argwohns Brille schaut, sieht Raupen selbst im Sauerkraut.</p>
@@ -830,12 +872,14 @@
           <p>Darauf können wir aufbauen. Natürlich ist es unser Ziel, in dieser Frage eine Lösung zu finden, sobald wir einen Konsens erzielt haben. Diesen Konsens kann aber nicht allein die Koalition herstellen, sondern er muss darüber hinausreichen. Ich kann den Ball nur an Sie zurückspielen: Wenn Sie all das, was Sie gerade angesprochen haben, wollen, dann arbeiten Sie mit uns zusammen an diesem Konsens.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Das Wort hat die Kollegin Dr. Martina Bunge.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Martina Bunge" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Martina Bunge">
+      </div>
+      <div type="agenda_item" n="24" what="debate" desc="Debatte">
+        <sp who="Martina Bunge" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Martina Bunge" party="DIE LINKE" name="Martina Bunge">
           <speaker>Dr. Martina Bunge (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Der Koalitionsvertrag dieser Bundesregierung sieht in Punkt 8 eindeutig vor, "in dieser Legislaturperiode ein einheitliches Rentensystem in Ost und West" einzuführen.</p>
           <stage type="interjection">(Dr. Thomas Feist [CDU/CSU]: Ja, und? Ist die Legislaturperiode heute zu Ende, oder was?)</stage>
@@ -885,17 +929,19 @@
           <p>Ich wünsche Ihnen alles Gute.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Der Kollege Dr. Heinrich Kolb hat jetzt für die FDP-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Heinrich L. Kolb" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Heinrich Leonhard Kolb">
+      </div>
+      <div type="agenda_item" n="25" what="debate" desc="Debatte">
+        <sp who="Kolb" parliamentary_group="FDP" role="mp" position="NA" who_original="Kolb" party="FDP" name="Heinrich L. Kolb">
           <speaker>Dr. Heinrich L. Kolb (FDP):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Frau Kollegin Bunge, mit Blick auf das Jahr 2011 bietet es sich an, Erich Kästner zu zitieren.</p>
           <stage type="interjection">(Iris Gleicke [SPD]: Was ist denn heute mit euch los? Ihr zitiert so oft, weil euch nichts einfällt!)</stage>
           <p>Er hat gesagt:</p>
-          <p>"Wird's besser? Wird's schlimmer?" fragt man alljährlich. </p>
+          <p>"Wird's besser? Wird's schlimmer?" fragt man alljährlich.</p>
           <p>Seien wir ehrlich: Leben ist immer lebensgefährlich.</p>
           <stage type="interjection">(Dr. Gesine Lötzsch [DIE LINKE]: Das wird immer besser! - Gegenruf des Abg. Otto Fricke [FDP]: So sind wir!)</stage>
           <p>Deswegen möchte ich Ihnen zu Optimismus raten. Richten Sie den Blick nach vorne. Ich kann Ihnen, insbesondere was die Zukunft der schwarz-gelben Bundesregierung anbelangt, sagen: Machen Sie sich da keine falschen Hoffnungen! Wir arbeiten gut zusammen und werden das bis zum Ende der Legislaturperiode in 2013 weiter tun.</p>
@@ -921,11 +967,15 @@
           <p>Herzlichen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Das Wort hat der Kollege Dr. Wolfgang Strengmann-Kuhn für Bündnis 90/Die Grünen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNIS-SES 90/DIE GRÜNEN)</stage>
-          <p>Dr. Wolfgang Strengmann-Kuhn (BÜNDNIS 90/ DIE GRÜNEN):</p>
+        </sp>
+      </div>
+      <div type="agenda_item" n="26" what="debate" desc="Debatte">
+        <sp who="Wolfgang Strengmann-Kuhn" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Wolfgang Strengmann-Kuhn" party="GRUENE" name="Wolfgang Strengmann-Kuhn">
+          <speaker>Dr. Wolfgang Strengmann-Kuhn (BÜNDNIS 90/ DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Es wird jetzt, mehr als 20 Jahre nach der Wiedervereinigung, Zeit, endlich einen rentenpolitischen Schlussstrich zu ziehen. Deswegen habe ich durchaus große Sympathie für die Vorschläge der SPD,</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
           <p>ein Rentenüberleitungsabschlussgesetz - das könnte man vielleicht noch ein bisschen knackiger fassen - zu verabschieden.</p>
@@ -939,14 +989,18 @@
           <p>Die zweite wichtige Gruppe sind die Flüchtlinge aus der DDR, die auch, zumindest zu einem großen Teil, durch die Wiedervereinigung benachteiligt sind. Das halte ich für einen Skandal. Es gab eine lange und breite Debatte darüber, dass man dieser Gruppe unbedingt helfen sollte. Auch dazu gab es einen gemeinsamen Vorschlag von SPD und Grünen, der bei der Bundesregierung nicht auf Wohlgefallen gestoßen ist. Auch an dieser Stelle möchte ich sagen: Machen Sie bitte einen eigenen Vorschlag.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Herr Kollege Strengmann-Kuhn, Herr Kollege Vaatz würde Ihnen gerne eine Zwischenfrage stellen. - Bitte schön, Herr Vaatz.</p>
         </sp>
-        <sp who="Arnold Vaatz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Arnold Vaatz">
+      </div>
+      <div type="agenda_item" n="27" what="debate" desc="Debatte">
+        <sp who="Arnold Vaatz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Arnold Vaatz" party="CDU" name="Arnold Vaatz">
           <speaker>Arnold Vaatz (CDU/CSU):</speaker>
           <p>Herr Dr. Strengmann-Kuhn, ich habe eine Frage, und zwar: Würden Sie es auch für notwendig erachten, einen gleichen rentenmäßigen Ausgleich an Frauen in der Bundesrepublik Deutschland zu zahlen, die vor 1974 geschieden worden sind?</p>
-          <p>Dr. Wolfgang Strengmann-Kuhn (BÜNDNIS 90/ DIE GRÜNEN):</p>
+        </sp>
+        <sp who="Wolfgang Strengmann-Kuhn" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Wolfgang Strengmann-Kuhn" party="GRUENE" name="Wolfgang Strengmann-Kuhn">
+          <speaker>Dr. Wolfgang Strengmann-Kuhn (BÜNDNIS 90/ DIE GRÜNEN):</speaker>
           <p>Man müsste genauer schauen, an welchen Stellen die Ungleichbehandlung erfolgt.</p>
           <stage type="interjection">(Arnold Vaatz [CDU/CSU]: Die sind nach dem gleichen Recht geschieden worden!)</stage>
           <p>Das müsste man im Einzelnen nachprüfen.</p>
@@ -985,21 +1039,27 @@
           <p>Zweitens. Ein weiterer Punkt, der im Rentendialog eine wichtige Rolle gespielt hat, ist, dass die Zuschussrente das Äquivalenzprinzip aufhebt. Es wäre wichtig, dafür zu sorgen, dass jemand, der mehr Beiträge zahlt, insgesamt eine höhere Rente bekommt. Man kann sich an Vorbildern im Ausland orientieren, etwa an der Garantierente in Schweden, man kann aber auch nach Deutschland selber schauen: Bei Hartz IV gibt es mit dem Erwerbstätigenfreibetrag eine ähnliche Lösung. Derartiges könnte man bei der Zuschussrente - bei der grünen Garantierente ist es bereits mit enthalten - berücksichtigen.</p>
           <p>Drittens. Insbesondere für den Osten ist wichtig, dass eine Neuregelung auch für die jetzigen Rentnerinnen und Rentner gilt und nicht erst für die zukünftigen. Es gilt, einen Zusammenhang zu dem Renten-Überleitungsgesetz zu sehen. Für uns ist die Garantierente ein Mittel, um zumindest den Ärmsten im Osten zu helfen. Wir sagen: Wir können nicht in jedem Einzelfall Ungerechtigkeiten abbauen. Aber uns ist wichtig, dass diejenigen, die eine geringe Rente haben, durch die grüne Garantierente geschützt werden.</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Herr Strengmann-Kuhn.</p>
-          <p>Dr. Wolfgang Strengmann-Kuhn (BÜNDNIS 90/ DIE GRÜNEN):</p>
+        </sp>
+      </div>
+      <div type="agenda_item" n="28" what="debate" desc="Debatte">
+        <sp who="Wolfgang Strengmann-Kuhn" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Wolfgang Strengmann-Kuhn" party="GRUENE" name="Wolfgang Strengmann-Kuhn">
+          <speaker>Dr. Wolfgang Strengmann-Kuhn (BÜNDNIS 90/ DIE GRÜNEN):</speaker>
           <p>Wir Grünen werden nicht nachlassen und werden weiter Druck machen für ein einheitliches Rentenrecht in Ost und West und für einen besseren Schutz vor Altersarmut, der in Ostdeutschland besonders wichtig ist.</p>
           <p>Ich hoffe, dass Sie von den Koalitionsfraktionen und der Regierung unsere Vorschläge mit in die nächsten Wochen nehmen, noch einmal darüber nachdenken und vielleicht im nächsten Jahr aktiv werden. Die Hoffnung stirbt ja bekanntlich zuletzt.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Die Kollegin Maria Michalk hat jetzt das Wort für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Maria Michalk" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Maria Michalk">
+      </div>
+      <div type="agenda_item" n="29" what="debate" desc="Debatte">
+        <sp who="Maria Michalk" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Maria Michalk" party="CDU" name="Maria Michalk">
           <speaker>Maria Michalk (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Es geht in dieser Debatte um ein geschichtsträchtiges Thema, ein Thema, das die Menschen immer wieder berührt. Dass es ein sehr, sehr komplexes Thema ist, hat die bisherige Debatte schon gezeigt. Das belegen auch die vier Vorlagen, die Grundlage der heutigen Debatte sind und die quasi wie vier Adventskerzen auf dem Adventskranz stehen, der für mich symbolisch für den Rentenangleichungsprozess der letzten 20 Jahre steht.</p>
           <p>Unsere heutige Aussprache über die Antwort der Bundesregierung auf die Große Anfrage der SPD zu "Zwanzig Jahre Rentenüberleitung" bietet eine gute Gelegenheit - dafür bin ich auch dankbar -, sich zu fragen, ob das Ziel der Rentenüberleitung erreicht wurde, ob hier alles gelungen ist und ob das auf dem richtigen Wege ist.</p>
@@ -1032,11 +1092,13 @@
           <p>Ich weise auch darauf hin, dass wir die Meisterleistung hinbekommen haben, 27 Zusatzversorgungssysteme, 5 Son-derversorgungssysteme und die lohnbezogene bzw. beitragsbezogene gesetzliche Rentenversicherung der DDR in ein Rentensystem zu überführen.</p>
           <p>Es gab außerdem die Auffüllbeträge; auch das gehört zur Geschichte. Für die Stasibeschäftigten, die in den Sondersystemen waren und privilegierte Einkommen hatten - sie haben sich hier und da eingeklagt -, hat das Bundessozialgericht in dieser Woche Gott sei Dank noch einmal bestätigt, - NA</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Frau Kollegin!</p>
         </sp>
-        <sp who="Maria Michalk" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Maria Michalk">
+      </div>
+      <div type="agenda_item" n="30" what="debate" desc="Debatte">
+        <sp who="Maria Michalk" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Maria Michalk" party="CDU" name="Maria Michalk">
           <speaker>Maria Michalk (CDU/CSU):</speaker>
           <p>- dass die Deckelung der Renten nach dem Durchschnittsverdienst eines DDR-Bürgers nicht zu beanstanden ist.</p>
           <p>Es gibt also viele Punkte, die wir noch weiter diskutieren werden. Viel ist bereits getan worden. Wir nehmen aber die Aufgabe mit ins neue Jahr.</p>
@@ -1044,12 +1106,14 @@
           <p>Ich wünsche Ihnen ein gesegnetes Weihnachtsfest.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Die Kollegin Silvia Schmidt hat jetzt das Wort für die Fraktion der SPD.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Silvia Schmidt" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Silvia Schmidt">
+      </div>
+      <div type="agenda_item" n="31" what="debate" desc="Debatte">
+        <sp who="Silvia Schmidt (Eisleben)" parliamentary_group="SPD" role="mp" position="NA" who_original="Silvia Schmidt (Eisleben)" party="SPD" name="Silvia Schmidt">
           <speaker>Silvia Schmidt (Eisleben) (SPD):</speaker>
           <p>Sehr verehrte Frau Präsidentin! Meine sehr verehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Sehr verehrte Frau Michalk, Sie haben völlig recht: Es ist eine großartige Leistung gewesen - eine historische Leistung -, die wir da vollbracht haben. Zur Tatsache, dass dieser Solidartransfer immer noch stattfindet: Ich glaube, dass das die Rentner in den neuen Bundesländern durchaus wissen und dafür dankbar sind.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD und der CDU/CSU)</stage>
@@ -1090,23 +1154,27 @@
           <p>Es ist das Ziel der SPD, die Situation zu verbessern. Deswegen haben wir unsere Anträge eingebracht, etwa den, in dem wir die Einsetzung einer Bund-Länder-Arbeitsgruppe fordern. Denn auch die Länder müssen einbezogen werden; nur so können Kriterien entwickelt werden. Wir brauchen eine konkrete Datenlage. Das ist eine Grundvoraussetzung. In unserer Großen Anfrage haben wir bereits nachgefragt. Antworten gab es keine, Zahlen auch nicht. Da muss man also noch einmal ganz genau hinschauen.</p>
           <p>Ich komme zu meiner letzten Anmerkung. Die Zuschussrente wurde immer wieder angesprochen. Ich kann nur sagen: Das wollen wir mit unserem Härtefallfonds natürlich nicht. Eine Zuschussrente bei 35 Beitragsjahren bzw. 45 Pflichtversicherungsjahren und einer privaten Vorsorge - ich kann mir nicht vorstellen, dass jemand so lange gearbeitet hat und keine ausreichende Rente hat.</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Frau Kollegin Schmidt.</p>
         </sp>
-        <sp who="Silvia Schmidt" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Silvia Schmidt">
+      </div>
+      <div type="agenda_item" n="32" what="debate" desc="Debatte">
+        <sp who="Silvia Schmidt (Eisleben)" parliamentary_group="SPD" role="mp" position="NA" who_original="Silvia Schmidt (Eisleben)" party="SPD" name="Silvia Schmidt">
           <speaker>Silvia Schmidt (Eisleben) (SPD):</speaker>
           <p>Ja, einen kleinen Moment. - Wer eine ausreichende Rente hat, braucht nicht unbedingt eine Zuschussrente. Das sind Almosen. Das finde ich generell unanständig.</p>
           <p>Ich bedanke mich, wünsche Ihnen ein frohes Weihnachtsfest und vor allen Dingen einen guten Rutsch in das neue Jahr. Ich freue mich auf Sie.</p>
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Miriam Gruß hat jetzt das Wort für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Miriam Gruß" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Miriam Gruß">
+      </div>
+      <div type="agenda_item" n="33" what="debate" desc="Debatte">
+        <sp who="Miriam Gruß" parliamentary_group="FDP" role="mp" position="NA" who_original="Miriam Gruß" party="FDP" name="Miriam Gruß">
           <speaker>Miriam Gruß (FDP):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Es ist mehrfach schon gesagt worden: Es besteht Handlungsbedarf, und es ist 20 Jahre nach der Wiedervereinigung an der Zeit, die deutsche Einheit nun auch im Rentenrecht zu vollziehen. Die jetzige Situation ist ein Überbleibsel im Sozialrecht, das noch an die Teilung Deutschlands erinnert. Aber wir leben in einer Gesellschaft. Es ist deswegen notwendig, dass Ungerechtigkeiten beseitigt werden und gleiches Recht für alle gilt, unabhängig davon, in welchem Teil des Landes man lebt.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -1125,12 +1193,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Jetzt spricht Matthias Birkwald für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Matthias Birkwald">
+      </div>
+      <div type="agenda_item" n="34" what="debate" desc="Debatte">
+        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Matthias W. Birkwald" party="DIE LINKE" name="Matthias W. Birkwald">
           <speaker>Matthias W. Birkwald (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Bei der Angleichung der ostdeutschen Renten auf das Westniveau folgt die Linke zwei Grundsätzen:</p>
           <p>Erstens. Gleiche Rente für gleiche Lebensleistung.</p>
@@ -1146,7 +1216,7 @@
           <p>Ich zitiere:</p>
           <p>Die Bundesregierung will offenbar ihr Vorhaben aus dem Koalitionsvertrag aufgeben, noch bis 2013 ein einheitliches Rentensystem in Ost und West einzuführen.</p>
           <stage type="interjection">(Iris Gleicke [SPD]: Hört! Hört!)</stage>
-          <p>Ihr Ostbeauftragter, Christoph Bergner (CDU), will nach SZ-Informationen heute im Bundestag dafür plädieren, in dieser Wahlperiode keine Eingriffe in das Rentenrecht vorzunehmen. </p>
+          <p>Ihr Ostbeauftragter, Christoph Bergner (CDU), will nach SZ-Informationen heute im Bundestag dafür plädieren, in dieser Wahlperiode keine Eingriffe in das Rentenrecht vorzunehmen.</p>
           <p>Das jetzige System habe sich bewährt, kein Alternativmodell sei überzeugend, heißt es in Bergners Umgebung.</p>
           <p>Herr Staatssekretär, sagen Sie doch bitte einmal in dieser Debatte und nicht in der folgenden etwas zu diesem Thema.</p>
           <stage type="interjection">(Beifall bei der LINKEN und der SPD)</stage>
@@ -1172,39 +1242,47 @@
           <p>Zweitens. Die Umrechnung und die Hochwertung der Ostlöhne und -gehälter auf das Westniveau müssen beibehalten werden; das ist sehr wichtig.</p>
           <p>Drittens brauchen wir die Angleichung möglichst schnell. Wir Linke wollen gemeinsam mit Verdi, der Volkssolidarität, dem Sozialverband Deutschland sowie weiteren Verbänden und Gewerkschaften, - NA</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Herr Kollege!</p>
         </sp>
-        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Matthias Birkwald">
+      </div>
+      <div type="agenda_item" n="35" what="debate" desc="Debatte">
+        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Matthias W. Birkwald" party="DIE LINKE" name="Matthias W. Birkwald">
           <speaker>Matthias W. Birkwald (DIE LINKE):</speaker>
           <p>- dass die Angleichung bis 2016 abgeschlossen wird.</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Herr Kollege!</p>
         </sp>
-        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Matthias Birkwald">
+      </div>
+      <div type="agenda_item" n="36" what="debate" desc="Debatte">
+        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Matthias W. Birkwald" party="DIE LINKE" name="Matthias W. Birkwald">
           <speaker>Matthias W. Birkwald (DIE LINKE):</speaker>
           <p>Das erreichen wir mit einem steuerfinanzierten und stufenweise steigenden Zuschlag.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Es hilft nichts, Herr Kollege. Ihre Redezeit ist zu Ende.</p>
         </sp>
-        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Matthias Birkwald">
+      </div>
+      <div type="agenda_item" n="37" what="debate" desc="Debatte">
+        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Matthias W. Birkwald" party="DIE LINKE" name="Matthias W. Birkwald">
           <speaker>Matthias W. Birkwald (DIE LINKE):</speaker>
           <p>Denn es gilt: Der Rentner in Magdeburg ist nicht weniger wert als die Rentnerin im westfälischen Münster.</p>
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Eckhardt Rehberg hat jetzt das Wort für die CDU/ CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Eckhardt Rehberg" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Eckhardt Rehberg">
+      </div>
+      <div type="agenda_item" n="38" what="debate" desc="Debatte">
+        <sp who="Eckhardt Rehberg" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Eckhardt Rehberg" party="CDU" name="Eckhardt Rehberg">
           <speaker>Eckhardt Rehberg (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren Abgeordneten! Herr Birkwald, Sie haben sich schon gestern disqualifiziert, als Sie suggeriert haben - leider sind Journalisten darauf hereingefallen -, dass eine Tabelle für über 65-jährige Männer mit 35 Versicherungsjahren - wenn Sie sich alle Tabellen für Ost und West anschauen, dann stellen Sie fest, dass es immer Sprünge beim Rentenwegfallalter gegeben hat - etwas mit der Lebenserwartung zu tun hat. Dies hat nichts, aber auch gar nichts mit der Lebenserwartung zu tun.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
@@ -1213,11 +1291,13 @@
           <p>Einige haben hier gesagt, die Rentner im Osten müssten genau so viel wert sein wie die Rentner im Westen. Aber das Entscheidende ist nicht die Eckrente, sondern, was bei den Rentnerinnen und Rentnern im Portemonnaie ankommt. Seite 18 der Antwort der Bundesregierung auf die Große Anfrage der SPD ist zu entnehmen, dass 80 Prozent der Ehepaare aus den alten Ländern und 78 Prozent der Ehepaare in den neuen Ländern eine Rente von 1 500 bis 3 000 Euro beziehen. Das heißt, das, was wir seit 1990 machen und vereinbart haben, trägt und kommt im Portemonnaie der Rentnerinnen und Rentner an. Das ist das Entscheidende.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Möchten Sie eine Zwischenfrage des Kollegen Birkwald zulassen?</p>
         </sp>
-        <sp who="Eckhardt Rehberg" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Eckhardt Rehberg">
+      </div>
+      <div type="agenda_item" n="39" what="debate" desc="Debatte">
+        <sp who="Eckhardt Rehberg" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Eckhardt Rehberg" party="CDU" name="Eckhardt Rehberg">
           <speaker>Eckhardt Rehberg (CDU/CSU):</speaker>
           <p>Nein.</p>
           <stage type="interjection">(Matthias W. Birkwald [DIE LINKE]: Das ist aber disqualifizierend jetzt!)</stage>
@@ -1240,11 +1320,13 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Zu einer Kurzintervention der Kollege Birkwald.</p>
         </sp>
-        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Matthias Birkwald">
+      </div>
+      <div type="agenda_item" n="40" what="debate" desc="Debatte">
+        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Matthias W. Birkwald" party="DIE LINKE" name="Matthias W. Birkwald">
           <speaker>Matthias W. Birkwald (DIE LINKE):</speaker>
           <p>Herr Kollege Rehberg, Sie haben ja eben wieder die falsche Behauptung aufgestellt, dass ich mit Zahlen arbeite, die nicht korrekt seien.</p>
           <stage type="interjection">(Peter Weiß [Emmendingen] [CDU/CSU]: Die Zahlen sind korrekt, die Rechnung ist falsch!)</stage>
@@ -1261,11 +1343,13 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der LINKEN - Peter Weiß [Emmendingen] [CDU/CSU]: Unglaublich!)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Herr Rehberg zur Antwort, bitte.</p>
         </sp>
-        <sp who="Eckhardt Rehberg" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Eckhardt Rehberg">
+      </div>
+      <div type="agenda_item" n="41" what="debate" desc="Debatte">
+        <sp who="Eckhardt Rehberg" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Eckhardt Rehberg" party="CDU" name="Eckhardt Rehberg">
           <speaker>Eckhardt Rehberg (CDU/CSU):</speaker>
           <p>Herr Kollege Birkwald, ich lese Ihnen noch einmal die Überschrift vor. Es geht um Tabelle 11-01: Rentenbezugsdauern und -höhen von Altersrentenwegfällen mit mindestens 36 Versicherungsjahren.</p>
           <stage type="interjection">(Matthias W. Birkwald [DIE LINKE]: 35!)</stage>
@@ -1274,12 +1358,14 @@
           <p>Ich möchte Ihnen zum Abschluss eine Frage stellen. Es ist übrigens komisch, dass die Lebenserwartung bei Frauen nicht gesunken ist. Dazu gibt es einen interessanten Kommentar in der Leipziger Volkszeitung; ich rate Ihnen, diesen zu lesen. Sie als Linke, die die Interessen im Osten angeblich so stark vertreten, müssen sich eine andere Frage stellen: Wo haben diejenigen, die mit 65, 70 oder 75 sterben, den Großteil ihres Arbeitslebens verbracht? Sie haben in der Braunkohle bei der Wismut und bei der Chemie in Bitterfeld unter unzumutbaren Bedingungen gearbeitet. Diese Frage müssen Sie sich stellen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP - Jörn Wunderlich [DIE LINKE]: Das war disqualifizierend!)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Patrick Kurth hat jetzt das Wort für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Patrick Kurth" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Patrick Kurth">
+      </div>
+      <div type="agenda_item" n="42" what="debate" desc="Debatte">
+        <sp who="Patrick Kurth (Kyffhäuser)" parliamentary_group="FDP" role="mp" position="NA" who_original="Patrick Kurth (Kyffhäuser)" party="FDP" name="Patrick Kurth">
           <speaker>Patrick Kurth (Kyffhäuser) (FDP):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Genau auf das Beispiel Bitterfeld wollte ich eingehen. Auch ich wollte einen Beitrag zum Zahlenspiel hier leisten. Der Durchschnittsmann hatte in den 80er-Jahren in Bitterfeld-Wolfen eine Lebenserwartung von weniger als 60 Jahren.</p>
           <stage type="interjection">(Eckhardt Rehberg [CDU/CSU]: Das war der existierende Sozialismus! Richtig!)</stage>
@@ -1300,23 +1386,27 @@
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
           <p>Am Ende will ich sagen: Wenn wir dafür sorgen wollen, dass die Menschen mehr Geld in der Tasche haben, indem wir die kalte Progression abbauen, sodass sie zum Beispiel privat vorsorgen können, dann kann es nicht richtig sein, eine kleine steuerpolitische Maßnahme zum Abbau der kalten Progression im Bundesrat zu blockieren oder in Karlsruhe dagegen zu klagen. Das geht nicht.</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Herr Kollege.</p>
         </sp>
-        <sp who="Patrick Kurth" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Patrick Kurth">
+      </div>
+      <div type="agenda_item" n="43" what="debate" desc="Debatte">
+        <sp who="Patrick Kurth (Kyffhäuser)" parliamentary_group="FDP" role="mp" position="NA" who_original="Patrick Kurth (Kyffhäuser)" party="FDP" name="Patrick Kurth">
           <speaker>Patrick Kurth (Kyffhäuser) (FDP):</speaker>
           <p>Leisten Sie hier einen Beitrag!</p>
           <p>Ich bedanke mich sehr herzlich für Ihre Aufmerksamkeit.</p>
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Der Kollege Peter Weiß hat jetzt das Wort für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Peter Weiß" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Weiß">
+      </div>
+      <div type="agenda_item" n="44" what="debate" desc="Debatte">
+        <sp who="Peter Weiß (Emmendingen)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Weiß (Emmendingen)" party="CDU" name="Peter Weiß">
           <speaker>Peter Weiß (Emmendingen) (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Verehrte Kolleginnen und Kollegen! Soeben hat zwischen dem Kollegen Rehberg und dem Kollegen Birkwald eine Diskussion stattgefunden, die hier schon gestern stattgefunden hat. Es ist unglaublich, dass es Herr Birkwald, nachdem ihm gestern mehrere Kollegen angeraten haben, die entsprechenden Untersuchungen noch einmal nachzulesen, bis zum heutigen Tag immer noch nicht geschafft hat, dies zu tun, und er immer noch seine falschen Behauptungen aufrechterhält.</p>
           <stage type="interjection">(Maria Michalk [CDU/CSU]: Das ist die sozialistische Rechthaberei, die er betreibt!)</stage>
@@ -1358,29 +1448,35 @@
           <stage type="interjection">(Eckhardt Rehberg [CDU/CSU]: Richtig! - Monika Lazar [BÜNDNIS 90/DIE GRÜNEN]: Dann können sie in den Osten gehen!)</stage>
           <p>Deswegen ist der Prozess der Angleichung, den wir durchführen müssen, so schwierig.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, wollen Sie Ihre Redezeit verlängern? Der Kollege Birkwald will Sie etwas fragen.</p>
         </sp>
-        <sp who="Peter Weiß" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Weiß">
+      </div>
+      <div type="agenda_item" n="45" what="debate" desc="Debatte">
+        <sp who="Peter Weiß (Emmendingen)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Weiß (Emmendingen)" party="CDU" name="Peter Weiß">
           <speaker>Peter Weiß (Emmendingen) (CDU/CSU):</speaker>
           <p>Gut. Wenn er es immer noch nicht verstanden hat, dann lese ich es ihm gerne noch einmal vor.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Gut. Wiederholung ist die Mutter der Weisheit.</p>
         </sp>
-        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Matthias Birkwald">
+      </div>
+      <div type="agenda_item" n="46" what="debate" desc="Debatte">
+        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Matthias W. Birkwald" party="DIE LINKE" name="Matthias W. Birkwald">
           <speaker>Matthias W. Birkwald (DIE LINKE):</speaker>
           <p>Herr Kollege Weiß, wir machen das jetzt an einer anderen Stelle fest. Sie haben eben behauptet, dass das durchschnittliche Jahresarbeitsentgelt 34 000 Euro betrüge und jemand dafür in der Rentenversicherung einen Entgeltpunkt bekäme.</p>
           <p>Ich habe jetzt bei der Rentenversicherung nachgeschaut. Da steht: Durchschnittliches Jahresarbeitsentgelt 2010: 31 144 Euro, 2011: 30 268 Euro und 2012 - das ist natürlich wie für 2011 geschätzt, weil die Daten noch nicht vorliegen können -: 32 446 Euro. Sie haben die Zahl von 34 000 Euro genannt. Deswegen bitte ich Sie, zur Kenntnis zu nehmen, dass Sie das mit den Zahlen nicht so richtig gut können.</p>
           <stage type="interjection">(Widerspruch bei der CDU/CSU und der FDP - Maria Michalk [CDU/CSU]: Was ist das denn für ein Besserwisser? - Zuruf von der FDP: Das sind die echten Höhepunkte der Debatte!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, bitte.</p>
         </sp>
-        <sp who="Peter Weiß" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Weiß">
+      </div>
+      <div type="agenda_item" n="47" what="debate" desc="Debatte">
+        <sp who="Peter Weiß (Emmendingen)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Weiß (Emmendingen)" party="CDU" name="Peter Weiß">
           <speaker>Peter Weiß (Emmendingen) (CDU/CSU):</speaker>
           <p>Also, damit der Kollege Birkwald zufrieden ist, Herr Präsident, erlaube ich mir, ihm jetzt mit den Zahlen zu antworten, die wir aus dem letzten Jahr, 2010, haben.</p>
           <stage type="interjection">(Jörn Wunderlich [DIE LINKE]: Also wieder mit alten Zahlen!)</stage>
@@ -1396,7 +1492,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird Überweisung der Vorlagen auf den Drucksachen 17/6486, 17/6487 und 17/7034 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? - Das ist offensichtlich der Fall. Dann sind die Überweisungen so beschlossen.</p>
@@ -1427,15 +1523,15 @@
           <p>Daniela Kolbe (Leipzig)</p>
           <p>Patrick Kurth (Kyffhäuser)</p>
           <p>Frank Tempel</p>
-          <p>Wolfgang Wieland </p>
+          <p>Wolfgang Wieland</p>
           <p>Zum Jahresbericht der Bundesregierung liegen ein Entschließungsantrag der Fraktion der SPD und ein Entschließungsantrag der Fraktion Die Linke vor.</p>
           <p>Nach einer interfraktionellen Vereinbarung ist für die Aussprache eine Dreiviertelstunde vorgesehen. - Auch hierzu höre ich keinen Widerspruch. Dann verfahren wir so.</p>
           <p>Ich eröffne die Aussprache und erteile das Wort dem Parlamentarischen Staatssekretär Christoph Bergner.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der FDP)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="3" what="debate" desc="a) Beratung der Unterrichtung durch die Bundesregierung">
-        <sp who="Dr. Christoph Bergner" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister des Innern" party="CDU" name="Christoph Bergner">
+      <div type="agenda_item" n="48" what="debate" desc="Debatte">
+        <sp who="Christoph Bergner" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister des Innern" who_original="Christoph Bergner" party="CDU" name="Christoph Bergner">
           <speaker>Dr. Christoph Bergner, Parl. Staatssekretär beim Bundesminister des Innern:</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Liebe Kolleginnen und Kollegen! Nachdem wir im vergangenen Jahr anlässlich des 20. Jahrestages der deutschen Einheit einen umfänglichen Jubiläumsbericht, wie ich ihn fast nennen möchte, vorgelegt haben, haben wir uns nach Gesprächen mit Parlamentariern unterschiedlicher Fraktionen entschlossen, in diesem Jahr den Bericht straffer zu fassen und uns im Rahmen der Berichterstattung auf aktuelle Handlungsnotwendigkeiten bzw. auf notwendige Handlungsstrategien zu konzentrieren.</p>
           <p>Dabei ist klar, dass das, was mit Blick auf die Zukunft gesagt werden muss, vor dem Hintergrund einer außerordentlich erfolgreichen Entwicklung erfolgt. Die Transformation Ostdeutschlands in eine Marktwirtschaft ist abgeschlossen. Die Unternehmen in Ostdeutschland sind heute wettbewerbsfähig. Die allgemeinen Lebensbedingungen gleichen denen in Westdeutschland weitgehend.</p>
@@ -1452,11 +1548,13 @@
           <p>Ich will noch einmal sagen, dass sich bei manch einem, der beim einheitlichen Rentenwert das Pathos der deutschen Einheit bemüht - das trifft keinen hier im Hause -, feststellen lässt, dass sein Problem nicht der niedrigere Rentenwert, sondern die Höherbewertung der ostdeutschen Einkommen ist. Wegen dieser Diskussion bestehe ich darauf, dass in der Frage des Vorrangs im Sinne des Einigungsvertrages zu handeln ist. Wie immer wir Termine in der Zukunft, wie sie Frau Gleicke genannt hat, festlegen, ist eine ganz andere Frage. Dies ist ein wichtiger Aspekt, der aus meiner Sicht Beachtung verdient.</p>
           <p>Damit ist eine andere Frage verbunden.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, Sie müssen allmählich zum Ende kommen.</p>
         </sp>
-        <sp who="Dr. Christoph Bergner" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister des Innern" party="CDU" name="Christoph Bergner">
+      </div>
+      <div type="agenda_item" n="49" what="debate" desc="Debatte">
+        <sp who="Christoph Bergner" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister des Innern" who_original="Christoph Bergner" party="CDU" name="Christoph Bergner">
           <speaker>Dr. Christoph Bergner, Parl. Staatssekretär beim Bundesminister des Innern:</speaker>
           <p>Das ist bei der Komplexität der Fragestellung außerordentlich misslich. Ich habe gehofft, dass mir Fragen gestellt werden; dann hätte ich auf diese Weise mehr darstellen können. Herr Präsident, ich will bloß noch stichpunktartig vortragen, damit wenigstens die Logik meiner Gedanken zum Ausdruck kommt.</p>
           <p>Wenn es noch immer eine Produktivitätslücke von 25 Prozent gibt, dann müssen wir analysieren, welche Ursachen diese Produktivitätslücke hat. An dieser Stelle müssen wir mit unserer Förderpolitik ansetzen.</p>
@@ -1467,12 +1565,14 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Iris Gleicke [SPD]: Du meine Güte!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Iris Gleicke für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Iris Gleicke" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Iris Gleicke">
+      </div>
+      <div type="agenda_item" n="50" what="debate" desc="Debatte">
+        <sp who="Iris Gleicke" parliamentary_group="SPD" role="mp" position="NA" who_original="Iris Gleicke" party="SPD" name="Iris Gleicke">
           <speaker>Iris Gleicke (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Die Euro-Krise und die Debatte darüber, was die Politik gegen die Finanzmärkte ausrichten kann, überschatten so gut wie alles. Da kommt der Aufbau Ost fast etwas verschämt und so gut wie unbemerkt daher. Dazu passt, dass der Jahresbericht der Bundesregierung zum Stand der Deutschen Einheit 2011 am letzten Sitzungstag in der letzten Sitzungswoche vor Weihnachten quasi abgefrühstückt wird. Die Rede, die wir gerade gehört haben, verstärkt diesen Eindruck bei mir noch.</p>
           <stage type="interjection">(Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN - Patrick Kurth [Kyffhäuser] [FDP]: Das war der glühende Höhepunkt des Jahres!)</stage>
@@ -1500,24 +1600,28 @@
           <stage type="interjection">(Beifall bei Abgeordneten der SPD - Patrick Kurth [Kyffhäuser] [FDP]: Wer hat denn die Ostminister gestellt?)</stage>
           <p>Das ist nicht das Land, das Sie in Ihrem Bericht beschreiben. Ich hätte mir eher eine ehrliche Bestandsaufnahme gewünscht. Ich hätte ein paar Hinweise zur Entwicklung der Einkommen und der Renten wirklich gut gefunden, stattdessen Vertröstungen bis zum Sankt-Nimmerleins-Tag, stattdessen viel heiße Luft und Zuckerguss.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Frau Kollegin, gestatten Sie eine Zwischenfrage zur Verlängerung Ihrer Redezeit?</p>
         </sp>
-        <sp who="Iris Gleicke" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Iris Gleicke">
+      </div>
+      <div type="agenda_item" n="51" what="debate" desc="Debatte">
+        <sp who="Iris Gleicke" parliamentary_group="SPD" role="mp" position="NA" who_original="Iris Gleicke" party="SPD" name="Iris Gleicke">
           <speaker>Iris Gleicke (SPD):</speaker>
           <p>Aber gerne.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Bitte.</p>
         </sp>
-        <sp who="Dr. Thomas Feist" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Thomas Feist">
+      </div>
+      <div type="agenda_item" n="52" what="debate" desc="Debatte">
+        <sp who="Thomas Feist" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Thomas Feist" party="CDU" name="Thomas Feist">
           <speaker>Dr. Thomas Feist (CDU/CSU):</speaker>
           <p>Frau Kollegin, Sie sind ja eine große Verfechterin der deutschen Einheit, wie ich gerade festgestellt habe. Wie beurteilen Sie es denn - dazu hätte ich gerne eine Meinung von Ihnen -, dass der Mann, der aus Leipzig kommend die deutsche Einheit im Herzen getragen hat, nämlich unser ehemaliger Bundesverkehrsminister Tiefensee, heute an dieser Debatte nicht teilnimmt, was ich sehr schade finde? Ist das nur Zeitmangel, oder ist das Desinteresse? Und: Was sind die herausragenden Leistungen von Wolfgang Tiefensee für die deutsche Einheit gewesen?</p>
           <stage type="interjection">(Roland Claus [DIE LINKE]: Wieso ist euer Minister nicht da? - Daniela Kolbe [Leipzig] [SPD]: Wo ist Herr Friedrich?)</stage>
         </sp>
-        <sp who="Iris Gleicke" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Iris Gleicke">
+        <sp who="Iris Gleicke" parliamentary_group="SPD" role="mp" position="NA" who_original="Iris Gleicke" party="SPD" name="Iris Gleicke">
           <speaker>Iris Gleicke (SPD):</speaker>
           <p>Herr Kollege, Ihre Zwischenfrage macht eigentlich deutlich, auf welchem Niveau Sie dieses Thema diskutieren.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -1536,12 +1640,14 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Patrick Kurth für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Tankred Schipanski [CDU/CSU]: Gott sei Dank! Das ist einer, der etwas vom Thema versteht!)</stage>
         </sp>
-        <sp who="Patrick Kurth" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Patrick Kurth">
+      </div>
+      <div type="agenda_item" n="53" what="debate" desc="Debatte">
+        <sp who="Patrick Kurth (Kyffhäuser)" parliamentary_group="FDP" role="mp" position="NA" who_original="Patrick Kurth (Kyffhäuser)" party="FDP" name="Patrick Kurth">
           <speaker>Patrick Kurth (Kyffhäuser) (FDP):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Liebe Frau Gleicke, Sie können das wirklich deutlich konstruktiver. Das war kein Beitrag, der uns weitergebracht hat.</p>
           <stage type="interjection">(Iris Gleicke [SPD]: Das hat Sie getroffen! Ich habe es gemerkt!)</stage>
@@ -1576,23 +1682,27 @@
           <stage type="interjection">(Iris Gleicke [SPD]: Das ist doch Unsinn!)</stage>
           <p>Dann reden wir nämlich ganz schnell auch über den Solidarpakt.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, Sie müssen bitte zum Ende kommen.</p>
         </sp>
-        <sp who="Patrick Kurth" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Patrick Kurth">
+      </div>
+      <div type="agenda_item" n="54" what="debate" desc="Debatte">
+        <sp who="Patrick Kurth (Kyffhäuser)" parliamentary_group="FDP" role="mp" position="NA" who_original="Patrick Kurth (Kyffhäuser)" party="FDP" name="Patrick Kurth">
           <speaker>Patrick Kurth (Kyffhäuser) (FDP):</speaker>
           <p>Davor will ich warnen. Überlegen Sie wirklich, wie Sie politisch wo handeln und wo nicht. An dieser Stelle haben Sie falsch gehandelt.</p>
           <p>Ich wünsche Ihnen frohe Weihnachten. Auf eine gute Zusammenarbeit im nächsten Jahr!</p>
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Dietmar Bartsch für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Dietmar Bartsch" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Dietmar Bartsch">
+      </div>
+      <div type="agenda_item" n="55" what="debate" desc="Debatte">
+        <sp who="Dietmar Bartsch" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Dietmar Bartsch" party="DIE LINKE" name="Dietmar Bartsch">
           <speaker>Dr. Dietmar Bartsch (DIE LINKE):</speaker>
           <p>Herr Präsident! Meine lieben Kolleginnen und Kollegen! Wir haben in dieser Woche - kurz vor Weihnachten - sehr spannende Debatten zur Europapolitik und zur Finanzpolitik gehabt. Wir haben alle gemeinsam feststellen können, dass die Bundesregierung all diese Dinge nicht im Griff hat und dass sie nicht weiß, welchen Kurs sie einschlagen soll.</p>
           <p>Heute, beim Bericht zum Stand der deutschen Einheit 2011, ist zu konstatieren: Diese Bundesregierung kann auch deutsche Einheit nicht.</p>
@@ -1629,11 +1739,13 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Stephan Kühn für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Stephan Kühn" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Stephan Kühn">
+      </div>
+      <div type="agenda_item" n="56" what="debate" desc="Debatte">
+        <sp who="Stephan Kühn" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Stephan Kühn" party="GRUENE" name="Stephan Kühn">
           <speaker>Stephan Kühn (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Der Bericht zum Stand der deutschen Einheit ist ein Bericht ohne Neuigkeiten und Ideen, der uns jedes Jahr routinemäßig vorgelegt wird. Auf vielen Seiten werden die Zahlen einfach nur aktualisiert. Mit vorweihnachtlicher Stimmung wird der Bericht dann noch schnell im Plenum abgearbeitet.</p>
           <p>Routine können wir uns angesichts der Herausforderungen und der Probleme, die im Osten Deutschlands weiterhin bestehen, einfach nicht leisten.</p>
@@ -1663,23 +1775,27 @@
           <p>Gerade die Fachhochschulen sind ein "schlafender Riese". Ich will das in Zahlen verdeutlichen. Während ostdeutsche Universitäten pro Professor 80 000 Euro Drittmittel einwerben, sind es bei den Fachhochschulen nur 12 000 Euro. Wenn man überlegen würde, wie man Fachkräfte in der Region halten will und wie man richtig in die Infrastruktur investiert, dann müsste man dieses Potenzial erkennen und bei den ostdeutschen Fachhochschulen etwas tun. Das tun Sie aber nicht.</p>
           <p>Sie legen uns regelmäßig Berichte vor. Angesprochen wurde das Handlungskonzept "Daseinsvorsorge im demografischen Wandel zukunftsfähig gestalten", in dem viel versprochen wurde. Die fünf ostdeutschen Länder und die Bundesregierung waren daran beteiligt. Bei diesem Konzept ist es genau so wie bei dem Bericht, über den wir jetzt reden: Die Situation wird beschrieben, und wenn man schaut, ob Lösungen präsentiert werden, stellt man fest, dass man über den Status von Modellprojekten nicht hinausgeht. Die Frage, wie die soziale und technische Infrastruktur künftig an den demografischen Wandel angepasst und umgebaut werden soll und wie das zu finanzieren ist, lässt dieser Bericht offen.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Herr Kollege, Sie müssen zum Schluss kommen.</p>
         </sp>
-        <sp who="Stephan Kühn" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Stephan Kühn">
+      </div>
+      <div type="agenda_item" n="57" what="debate" desc="Debatte">
+        <sp who="Stephan Kühn" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Stephan Kühn" party="GRUENE" name="Stephan Kühn">
           <speaker>Stephan Kühn (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ich komme zum Schluss. - So ist es auch mit dem Bericht zum Stand der Deutschen Einheit.</p>
           <p>Legen Sie uns endlich einen Bericht vor, in dem die Probleme ehrlich benannt werden, in dem sie nicht ausgespart werden. Bringen Sie konkrete Lösungsvorschläge, und ruhen Sie sich nicht auf Erfolgen aus.</p>
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Manfred Behrens für die CDU/ CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Manfred Behrens" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Manfred Behrens">
+      </div>
+      <div type="agenda_item" n="58" what="debate" desc="Debatte">
+        <sp who="Manfred Behrens (Börde)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Manfred Behrens (Börde)" party="CDU" name="Manfred Behrens">
           <speaker>Manfred Behrens (Börde) (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine sehr verehrten Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! Die deutsch-deutsche Wiedervereinigung liegt nunmehr 21 Jahre zurück. Die Bilanz, die anlässlich des 20. Jubiläums im vergangenen Jahr gezogen wurde, ist mir noch sehr gut in Erinnerung.</p>
           <p>Der Einigungsprozess ist gekennzeichnet durch viele Meilensteine auf unterschiedlichen Gebieten. Ein sehr wichtiges und viel diskutiertes Teilgebiet ist die Wirtschaft. Hier muss man ganz deutlich anmerken, dass die Finanzkrise seit 2008 die Angleichung von Ost und West eben nicht unterbrochen hat. Im vergangenen Jahr berichtete ich an dieser Stelle davon, dass die Wirtschaftsleistung der neuen Bundesländer seit der Wiedervereinigung von 43 auf 73 Prozent des Westniveaus gestiegen ist. Inzwischen hat sich die Wirtschaftsleistung weiter angeglichen: Inzwischen kann ein Wert von nahezu 80 Prozent verzeichnet werden. Das kontinuierliche Wirtschaftswachstum ist sehr erfreulich. Noch erfreulicher ist die Tatsache, dass das Wachstum krisensicher und krisenresistent ist.</p>
@@ -1712,12 +1828,14 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Daniela Kolbe für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Daniela Kolbe" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Daniela Kolbe">
+      </div>
+      <div type="agenda_item" n="59" what="debate" desc="Debatte">
+        <sp who="Daniela Kolbe (Leipzig)" parliamentary_group="SPD" role="mp" position="NA" who_original="Daniela Kolbe (Leipzig)" party="SPD" name="Daniela Kolbe">
           <speaker>Daniela Kolbe (Leipzig) (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Werte Kolleginnen und Kollegen! Alle Jahre wieder, das ist nicht nur der Titel eines schönen Weihnachtsliedes, sondern beschreibt auch ein bisschen die Haltung, mit der diese Bundesregierung den Bericht zum Stand der deutschen Einheit formuliert hat. Ich habe ihn mehrfach gelesen. Es handelt sich um uninspiriertes und weitestgehend oberflächliches Geschreibe auf über 100 Seiten. Wenn man zum Ausblick in dem Bericht kommt und hofft, dass es nun interessant wird, findet man eine Dreiviertelseite; das ist nicht wirklich viel. Ich lese ein Viertel des Ausblicks aus dem Bericht der Bundesregierung zum Stand der Deutschen Einheit vor:</p>
           <p>Die in Artikel 72 Absatz 2 des Grundgesetzes erwähnte Herstellung gleichwertiger Lebensverhältnisse in Deutschland bleibt das Ziel. Gleichwertigkeit bedeutet aber gerade nicht Gleichheit: Trotz weit fortgeschrittener Einheit werden und dürfen regionale Unterschiede in Wirtschaft und Gesellschaft bestehen bleiben.</p>
@@ -1744,12 +1862,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Als letztem Redner in dieser Debatte erteile ich Kollegen Arnold Vaatz für die CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Arnold Vaatz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Arnold Vaatz">
+      </div>
+      <div type="agenda_item" n="60" what="debate" desc="Debatte">
+        <sp who="Arnold Vaatz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Arnold Vaatz" party="CDU" name="Arnold Vaatz">
           <speaker>Arnold Vaatz (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Die Entwicklung in Ostdeutschland kann nur dann als mangelhaft betrachtet werden, wenn man zwei wesentliche Vergleichsebenen außer Acht lässt. Die erste Ebene ist die des Vergleichs mit unseren früheren sozialistischen Brüdern und Schwestern in Osteuropa, mit der dortigen sozialen Differenzierung, den dortigen Wachstumszahlen, den dortigen Löhnen und den dortigen Perspektiven. Die zweite Ebene ist die des Vergleichs mit der Situation, in der wir 1990 gestartet sind.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
@@ -1783,7 +1903,7 @@
           <p>Ich wünsche Ihnen, meine sehr verehrten Damen und Herren, ein schönes Weihnachtsfest und einen guten Rutsch ins neue Jahr.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Kollege Vaatz, jetzt könnten Sie sich aber bei mir für meine außerordentliche Nachsicht bedanken.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD und der FDP)</stage>
@@ -1796,14 +1916,14 @@
           <p>Ich rufe nun den Tagesordnungspunkt 31 a und b auf:</p>
           <p>a) Beratung des Antrags der Abgeordneten Heidrun Bluhm, Halina Wawzyniak, Dr. Dietmar Bartsch, weiterer Abgeordneter und der Fraktion DIE LINKE</p>
           <p>Mietrecht sozial gerecht weiterentwickeln</p>
-          <p>- Drucksache 17/4837 -  </p>
+          <p>- Drucksache 17/4837 -</p>
           <p>Überweisungsvorschlag:</p>
           <p>Rechtsausschuss (f)</p>
           <p>Ausschuss für Verkehr, Bau und Stadtentwicklung (f)</p>
           <p>Federführung strittig</p>
           <p>b) Beratung des Antrags der Abgeordneten Katrin Kunert, Katja Kipping, Dr. Kirsten Tackmann, weiterer Abgeordneter und der Fraktion DIE LINKE</p>
           <p>Mindeststandards bei der Angemessenheit der Kosten der Unterkunft und Heizung</p>
-          <p>- Drucksache 17/7847 -  </p>
+          <p>- Drucksache 17/7847 -</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Arbeit und Soziales (f)</p>
           <p>Innenausschuss</p>
@@ -1813,8 +1933,8 @@
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
       </div>
-      <div type="agenda_item" n="4" what="debate" desc="a) Beratung des Antrags der Abgeordneten Heidrun Bluhm, Halina Wawzyniak, Dr. Di...">
-        <sp who="Heidrun Bluhm" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Heidrun Bluhm">
+      <div type="agenda_item" n="61" what="debate" desc="Debatte">
+        <sp who="Heidrun Bluhm" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Heidrun Bluhm" party="DIE LINKE" name="Heidrun Bluhm">
           <speaker>Heidrun Bluhm (DIE LINKE):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Deutschland ist überwiegend ein Mieterland. Von den insgesamt über 40 Millionen Wohnungen hierzulande sind derzeit 24 Millionen Mietwohnungen. Der größte Teil der Bevölkerung - nach meiner Überzeugung wird dieser Anteil weiter wachsen - realisiert sein Wohnbedürfnis nicht als selbstnutzender Eigentümer, sondern als Mieter.</p>
           <p>Vermieter und Mieter müssen sich nicht immer mögen. Aber sie sind keine natürlichen Gegner.</p>
@@ -1838,12 +1958,14 @@
           <p>Ich danke Ihnen für die Aufmerksamkeit und wünsche Ihnen auch im Sinne dieses Themas ein besinnliches Weihnachtsfest.</p>
           <stage type="interjection">(Beifall bei der LINKEN - Dr. Martin Lindner [Berlin] [FDP]: Lang lebe die DDR!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Jan-Marco Luczak für die CDU/ CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der FDP - Dr. Martin Lindner [Berlin] [FDP]: So, jetzt kommt die richtige Antwort aus Berlin!)</stage>
         </sp>
-        <sp who="Dr. Jan-Marco Luczak" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Jan-Marco Luczak">
+      </div>
+      <div type="agenda_item" n="62" what="debate" desc="Debatte">
+        <sp who="Jan-Marco Luczak" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Jan-Marco Luczak" party="CDU" name="Jan-Marco Luczak">
           <speaker>Dr. Jan-Marco Luczak (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Kolleginnen und Kollegen! Frau Bluhm, ich dachte zuerst, Sie kommen gar nicht mehr zu Ihrem Antrag, nachdem Sie mit lauter Allgemeinplätzen in das Thema eingeführt haben. Zum Schluss haben Sie wenigstens noch ein paar Worte dazu verloren. Das ist an dieser Stelle aller Ehren wert.</p>
           <p>Die Linke konfrontiert uns in dieser Legislaturperiode des Öfteren mit Anträgen zum Mietrecht. Im Prinzip geht es dabei immer um das Gleiche, nämlich darum, das Mietrecht sozial gerecht auszugestalten. Das ist ohne Frage ein absolut anerkennenswertes Ziel. Auch und gerade die christlich-liberale Koalition hat sich diesem Ziel verschrieben; denn in unserem Land gibt es in der Tat 24 Millionen Mietwohnungen, und für viele Mieter hat das Thema wirklich eine existenzielle Bedeutung. Deswegen ist der Erhalt eines ausgewogenen und sozialen Mietrechts für uns, die Union, eine bare Selbstverständlichkeit, und ich sage auch: Wir brauchen die Linke nicht, um uns daran zu erinnern.</p>
@@ -1880,12 +2002,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Ingo Egloff für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Ingo Egloff" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ingo Egloff">
+      </div>
+      <div type="agenda_item" n="63" what="debate" desc="Debatte">
+        <sp who="Ingo Egloff" parliamentary_group="SPD" role="mp" position="NA" who_original="Ingo Egloff" party="SPD" name="Ingo Egloff">
           <speaker>Ingo Egloff (SPD):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Es ist bereits das zweite Mal, dass wir uns über die Frage der Mietrechtsänderung vor dem Hintergrund der energetischen Gebäudesanierung unterhalten, ohne dass das Gesetzgebungsverfahren der Bundesregierung weiter vorangekommen ist. Ich wünsche mir, dass der Gesetzentwurf endlich in den Ausschüssen vorliegt und wir dann im Rahmen von Anhörungen klären können, wie die Sachlage am Markt insgesamt ist und wie wir einen Ausgleich zwischen den Rechten von Mietern und Vermietern erreichen können.</p>
           <p>Die Ausgangslage ist klar: Wenn wir die Klimaziele erreichen wollen, kommen wir in Deutschland ohne energetische Gebäudesanierung nicht aus. Darum gilt es, hier die Balance zwischen den Klimazielen einerseits und der Frage sozial angemessener Mieten andererseits zu halten. Das wird die Aufgabe der vor uns liegenden Gesetzesänderung sein.</p>
@@ -1905,12 +2029,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Stephan Thomae für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Stephan Thomae" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Stephan Thomae">
+      </div>
+      <div type="agenda_item" n="64" what="debate" desc="Debatte">
+        <sp who="Stephan Thomae" parliamentary_group="FDP" role="mp" position="NA" who_original="Stephan Thomae" party="FDP" name="Stephan Thomae">
           <speaker>Stephan Thomae (FDP):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Kolleginnen und Kollegen! Herr Kollege Egloff, ich kann Ihnen mitteilen, dass der Referentenentwurf für die Mietrechtsnovelle der Regierung vorliegt. Er ist zurzeit in der Verbändeabstimmung. Wie Sie wissen, wird sich Ende des ersten Quartals 2012 das Kabinett damit befassen, und dann werden wir den Entwurf im Ausschuss beraten können. Haben Sie also noch ein klein wenig Geduld: noch ein paarmal schlafen, dann werden wir ihn auch im Ausschuss beraten können.</p>
           <p>Einstweilen müssen wir uns heute mit den Vorschlägen der Linken und Grünen zum Thema beschäftigen. Ich kann erahnen, dass die Grünen vielleicht für vieles, was wir im Referentenentwurf vorgesehen haben, Sympathie haben werden.</p>
@@ -1919,7 +2045,7 @@
           <p>Erstens geht es zum Beispiel darum, dass energetische Sanierungsmaßnahmen vom Mieter grundsätzlich zu dulden sind, weil wir die energetischen Sanierungen erleichtern wollen.</p>
           <p>Zweitens werden wir regeln, dass Mieter Modernisierungsmaßnahmen künftig nicht mehr mit dem Einwand einer finanziellen Härte aufhalten können. Die finanzielle Härte muss vielmehr im Wege der Kostenumlage nach § 559 BGB geltend gemacht werden.</p>
           <p>Wir werden drittens regeln, dass der Klimaschutz in der Interessenabwägung zwischen Vermieter und Mieter bei der Duldung von Modernisierungsmaßnahmen eine Rolle spielen wird.</p>
-          <p>Da Sie den Referentenentwurf schon kennen, werden Sie also eine ganze Reihe von Punkten in unserem Entwurf wiederfinden. </p>
+          <p>Da Sie den Referentenentwurf schon kennen, werden Sie also eine ganze Reihe von Punkten in unserem Entwurf wiederfinden.</p>
           <p>Über einen Punkt aber besteht Dissens. Den möchte ich jetzt ansprechen. Die Absenkung der Modernisierungsumlage von 11 auf 9 Prozent werden Sie bei uns nicht finden. Ich will Ihnen auch sagen, weshalb. Aus unserer Sicht hat sich diese 11-Prozent-Regelung bewährt. Sie stellt einen angemessenen Ausgleich zwischen Mieter- und Vermieterinteressen dar. Eine Absenkung - das hat der Kollege Egloff gerade angesprochen - ist in unseren Augen und sollte auch in Ihren Augen das falsche Signal zur falschen Zeit sein, weil der Anreiz sänke, solche Modernisierungsmaßnahmen durchzuführen, wenn der Vermieter mehr Zeit für die Refinanzierung der Maßnahme in Kauf nehmen müsste.</p>
           <p>Ich komme zum Antrag der Linken. Sie schlagen sogar eine 5-Prozent-Regelung vor. Schon Kollege Egloff hat Ihnen erklärt, dass Sie wohl selber nicht daran glauben, dass das praktikabel und vorstellbar ist.</p>
           <p>In Ihrem Antrag bin ich noch über einen anderen Punkt gestolpert. Sie fordern, die ersatzlose Räumung der Wohnung solle nicht zulässig sein, wenn dem gekündigten Mieter die Obdachlosigkeit drohe. Das klingt zunächst einmal ganz sozial. Aber wie viel Zeit soll der Mieter eigentlich haben, eine neue Wohnung zu suchen und dann auch zu finden? Das ist eine Steilvorlage dafür, dass der Mieter einfach behaupten kann, er könne keine Wohnung finden und deshalb könne ihm nicht gekündigt werden. Deswegen werden wir Ihrem Antrag leider nicht zustimmen können.</p>
@@ -1927,11 +2053,13 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Daniela Wagner, Fraktion Bünd-nis 90/Die Grünen.</p>
         </sp>
-        <sp who="Daniela Wagner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Daniela Wagner">
+      </div>
+      <div type="agenda_item" n="65" what="debate" desc="Debatte">
+        <sp who="Daniela Wagner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Daniela Wagner" party="GRUENE" name="Daniela Wagner">
           <speaker>Daniela Wagner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Herr Kollege Thomae, Duldung von Modernisierungsmaßnahmen ja, aber nicht die Mitfinanzierung um jeden Preis. Wir legen schon Wert darauf, dass das nicht immer möglich sein wird.</p>
           <p>Lassen Sie mich gleich zum Antrag der Linken kommen. Wir begrüßen grundsätzlich die Zielsetzungen dieses Antrages, weil auch wir die Gefahr sehen, dass unter dem durchaus ehrenwerten Ziel der energetischen Gebäudesanierung und des altersgerechten Umbaus einkommensschwache Haushalte verdrängt werden und soziale Entmischung in vielen Stadtteilen zunehmend die Folge ist. Aber, liebe Kollegin Bluhm, wenn die Regelungen dazu führen, dass Vermieterinnen und Vermieter am Ende des Tages sogar noch draufzahlen müssen, dann führt das zu einem Sanierungs- und Neubaustopp und verschärft sogar die Situation. Sie wissen so gut wie ich: Wohnungsmangel treibt die Mietpreise in die Höhe.</p>
@@ -1950,22 +2078,26 @@
           <p>Staatliche Förderung als verbindlicher Rechtsanspruch würde ich so nie befürworten. Staatliche Förderung muss vor allen Dingen an Bedingungen geknüpft sein. Je mehr Steuergelder in einem Gebäude stecken, desto besser muss der energetische Standard und desto niedriger müssen die Mietnebenkosten sein. Ein verbindlicher Rechtsanspruch für alle führt jedenfalls aus meiner Sicht nicht zu diesem Ziel.</p>
           <p>Ich finde, Sie haben ansonsten ganz interessante Vorschläge unterbreitet, die man durchaus diskutieren kann. Lassen Sie mich noch ein Wort zu den KdU sagen.</p>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Aber bitte kurz.</p>
         </sp>
-        <sp who="Daniela Wagner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Daniela Wagner">
+      </div>
+      <div type="agenda_item" n="66" what="debate" desc="Debatte">
+        <sp who="Daniela Wagner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Daniela Wagner" party="GRUENE" name="Daniela Wagner">
           <speaker>Daniela Wagner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr kurz. - Man sollte sich durchaus einmal das Bielefelder Modell anschauen. Danach trägt die Stadt als Klimabonus in Stufen die höhere Nettokaltmiete mit und refinanziert diese Mehrausgaben über Einsparungen bei Ausgaben für Mietnebenkosten. Damit werden Wohnungswechsel wegen der KdU zwar nicht gänzlich vermieden, aber in ihrer Anzahl zumindest deutlich reduziert. Das könnte ein Schritt in die richtige Richtung sein.</p>
           <p>Auch ich wünsche Ihnen ein gesegnetes Weihnachtsfest, hoffentlich ohne vorweihnachtliche Mieterhöhungsbegehren.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Paul Lehrieder für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)</stage>
         </sp>
-        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Paul Lehrieder">
+      </div>
+      <div type="agenda_item" n="67" what="debate" desc="Debatte">
+        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Paul Lehrieder" party="CSU" name="Paul Lehrieder">
           <speaker>Paul Lehrieder (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen! Liebe Kollegen! Liebe Frau Bluhm, ich muss die Linkspartei schon einmal darauf hinweisen, dass die Zeiten der Zuweisung von Wohnraum vorbei sind - seit 21 Jahren.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
@@ -1988,12 +2120,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Heiterkeit und Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Michael Groß für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Michael Groß" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Michael Groß">
+      </div>
+      <div type="agenda_item" n="68" what="debate" desc="Debatte">
+        <sp who="Michael Groß" parliamentary_group="SPD" role="mp" position="NA" who_original="Michael Groß" party="SPD" name="Michael Groß">
           <speaker>Michael Groß (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Sehr geehrte Damen und Herren! Liebe Kolleginnen und Kollegen! Der Kollege Egloff ist ja schon auf die Anträge der Linken eingegangen. Ich möchte mich ein bisschen auf das konzentrieren, was die Koalition macht. Eine Mietrechtsreform ist sicherlich nicht unbedingt das Weihnachtsgeschenk, auf das wir warten, jedenfalls nicht Ihre Mietrechtsreform.</p>
           <p>Es ist heute schon mehrfach festgestellt worden, dass Wohnen mehr ist, als nur eine Unterkunft zu haben, und es hier auch um die Fragen von Chancengleichheit und -gerechtigkeit geht. Ich möchte gerne noch einmal darstellen, was das bedeutet.</p>
@@ -2008,12 +2142,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Pascal Kober für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Pascal Kober">
+      </div>
+      <div type="agenda_item" n="69" what="debate" desc="Debatte">
+        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" who_original="Pascal Kober" party="FDP" name="Pascal Kober">
           <speaker>Pascal Kober (FDP):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Liebe Kolleginnen und Kollegen der Fraktion Die Linke, in Ihrem Antrag, in dem es um die Kosten der Unterkunft und Heizung geht, fordern Sie umfangreiche Verbesserungen für die Bezieher der Grundsicherung für Arbeitsuchende im Bereich des Wohnens. Ich möchte das eine oder andere herausgreifen.</p>
           <p>Sie fordern beispielsweise:</p>
@@ -2040,7 +2176,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Daniela Wagner [BÜNDNIS 90/DIE GRÜNEN]: Gern geschehen!)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird vorgeschlagen, die Vorlage auf Drucksache 17/4837 an die in der Tagesordnung aufgeführten Ausschüsse zu überweisen. Die Federführung ist jedoch strittig. Die Fraktionen der CDU/CSU und der FDP wünschen Federführung beim Rechtsausschuss, die Linke wünscht Federführung beim Ausschuss für Verkehr, Bau und Stadtentwicklung.</p>
@@ -2050,9 +2186,9 @@
           <p>Damit rufe ich den Tagesordnungspunkt 32 auf:</p>
           <p>Beratung des Antrags der Abgeordneten Dr. Konstantin von Notz, Nicole Maisch, Tabea Rößner, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN</p>
           <p>Grundrechte schützen - Datenschutz und Verbraucherschutz in sozialen Netzwerken stärken</p>
-          <p>- Drucksache 17/8161 -  </p>
+          <p>- Drucksache 17/8161 -</p>
           <p>Überweisungsvorschlag:</p>
-          <p>Innenausschuss (f) </p>
+          <p>Innenausschuss (f)</p>
           <p>Rechtsausschuss</p>
           <p>Ausschuss für Ernährung, Landwirtschaft und Verbraucherschutz</p>
           <p>Ausschuss für Kultur und Medien</p>
@@ -2060,8 +2196,8 @@
           <p>Ich eröffne die Aussprache und erteile dem Kollegen Konstantin von Notz für die Fraktion Bündnis 90/Die Grünen das Wort.</p>
         </sp>
       </div>
-      <div type="agenda_item" n="5" what="debate" desc="Beratung des Antrags der Abgeordneten Dr. Konstantin von Notz, Nicole Maisch, Ta...">
-        <sp who="Dr. Konstantin von Notz" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Konstantin von Notz">
+      <div type="agenda_item" n="70" what="debate" desc="Debatte">
+        <sp who="Konstantin von Notz" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Konstantin von Notz" party="GRUENE" name="Konstantin von Notz">
           <speaker>Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Der letzte Tagesordnungspunkt in diesem Jahr: der Datenschutz.</p>
           <p>Uns war es wichtig, eines der drängendsten Themen unserer Zeit noch in diesem Jahr zu behandeln. Es ist ein Thema, von dem heute praktisch jeder und jede betroffen ist. Wer in diesen Tagen über den Datenschutz spricht, der sollte auch einen Ausgangsbefund offenlegen. Unser Befund deckt sich dabei weitgehend mit dem der Datenschutzbeauftragten des Bundes und der Länder: Es gibt eine anhaltende, teilweise geradezu revolutio-näre Durchtechnisierung unseres Alltags. Die Technik hält viele Vorteile und Annehmlichkeiten bereit, die auch wir, die wir hier sitzen, alle nutzen. Die vermehrte Nutzung schafft aber eben auch eine stark zunehmende Abbildbarkeit und Interpretation der Menschen und ihres Verhaltens.</p>
@@ -2085,12 +2221,14 @@
           <p>Ganz herzlichen Dank und ein frohes Weihnachtsfest.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Stephan Mayer für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Stephan Mayer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Stephan Mayer">
+      </div>
+      <div type="agenda_item" n="71" what="debate" desc="Debatte">
+        <sp who="Stephan Mayer (Altötting)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stephan Mayer (Altötting)" party="CSU" name="Stephan Mayer">
           <speaker>Stephan Mayer (Altötting) (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Kolleginnen! Sehr geehrte Kollegen! Sehr geehrter Herr Kollege von Notz, nachdem Sie vermeintlich schon wissen, was vonseiten der Regierungskoalition kommt, werden Sie jetzt etwas verblüfft sein,</p>
           <stage type="interjection">(Wolfgang Wieland [BÜNDNIS 90/DIE GRÜNEN]: Ja, wir haben da eine Ahnung! - Dr. Konstantin von Notz [BÜNDNIS 90/DIE GRÜNEN]: Ich lasse mich gern überraschen!)</stage>
@@ -2098,7 +2236,7 @@
           <p>Sie stellen die Frage, wie verhindert werden kann, dass Daten in die Hände von Unbefugten gelangen. Auch die Gefahr der Profilbildung sprechen Sie durchaus zu Recht an. Es ist eine Aufgabe dieses Hauses, uns damit zu beschäftigen, wie wirklich effektiv kontrolliert werden kann, dass Daten, die der Nutzer löschen will, wirklich gelöscht werden. Wir müssen uns auch mit der Frage beschäftigen, inwiefern das deutsche Datenschutzrecht zum Beispiel auf soziale Netzwerke, die ihren Sitz nicht in Deutschland, sondern im Ausland haben, anwendbar ist; hier geht es um das Problem der Durchsetzbarkeit.</p>
           <p>Herr Kollege von Notz, jetzt komme ich zu dem Bereich, in dem ich Ihnen nicht zustimmen kann: Sie machen meines Erachtens den großen Fehler, zu glauben - diesem Glauben hängen Sie wohl an -, man könne diese Probleme und Herausforderungen nur mit gesetzgeberischem Handeln in den Griff bekommen; darauf konzentrieren Sie sich einseitig.</p>
           <stage type="interjection">(Dr. Konstantin von Notz [BÜNDNIS 90/DIE GRÜNEN]: Aber auch! - Wolfgang Wieland [BÜNDNIS 90/DIE GRÜNEN]: Nein! Aber der Bundestag macht Gesetze!)</stage>
-          <p>Wir sollten hier den Grundsatz der Subsidiarität beachten und uns darauf verständigen, dass es in allererster Linie die Aufgabe sein muss, Regelungen zu schaffen oder Vorgaben zu machen, die niedrigschwelliger als gesetzgeberische Vorgaben sind. </p>
+          <p>Wir sollten hier den Grundsatz der Subsidiarität beachten und uns darauf verständigen, dass es in allererster Linie die Aufgabe sein muss, Regelungen zu schaffen oder Vorgaben zu machen, die niedrigschwelliger als gesetzgeberische Vorgaben sind.</p>
           <p>Herr Kollege von Notz, Sie machen meines Erachtens auch einen gravierenden Fehler, wenn Sie sich in Ihrem Antrag ausschließlich auf die Gewährleistung des Grundrechtes auf informationelle Selbstbestimmung konzentrieren und dabei vollkommen außer Acht lassen, dass es beim Umgang im Internet auch um andere Grundrechte geht. Es geht um Kommunikationsfreiheit, Meinungsfreiheit, um Berufsfreiheit und auch um das Grundrecht der allgemeinen Handlungsfreiheit.</p>
           <p>Das Bundesverfassungsgericht hat sehr gut daran getan, den Grundsatz der praktischen Konkordanz aufzustellen. Der Grundsatz der praktischen Konkordanz gibt uns vor, dass wir unser gesetzgeberisches Handeln so vornehmen sollen, dass man möglichst allen Grundrechten, auch wenn sie teilweise divergierend sind, zu einer größtmöglichen Ausbreitung verhilft. Mit den Forderungen in Ihrem Antrag werden Sie dem Anspruch auf einen möglichst schonenden Ausgleich aller möglichen Grundrechte nicht gerecht.</p>
           <p>Wir sollten uns nicht einseitig auf gesetzgeberisches Handeln verlegen. Sie haben den Präsidenten des Bundesverfassungsgerichts zitiert. Ich möchte Ihnen den Hinweis geben, dass Sie ihn in Ihrem Antrag falsch zitiert haben. Herr Professor Voßkuhle hat nicht die Nutzung von Facebook mit einer gefahrgeneigten Tätigkeit gleichgestellt. Er spricht in dem erwähnten Interview im Focus von einer risikogeneigten Tätigkeit, aber nur insoweit, als dass gewährleistet sein muss, dass Daten von Nutzern gelöscht werden, wenn die Nutzer dies wollen. Er stellt also nicht die Nutzung von Facebook mit einer risiko- oder gefahrgeneigten Tätigkeit gleich, sondern nur den speziellen Bereich der Kontrolle über das Löschen entsprechender Daten.</p>
@@ -2140,12 +2278,14 @@
           <p>Herzlichen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Gerold Reichenbach für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Gerold Reichenbach" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gerold Reichenbach">
+      </div>
+      <div type="agenda_item" n="72" what="debate" desc="Debatte">
+        <sp who="Gerold Reichenbach" parliamentary_group="SPD" role="mp" position="NA" who_original="Gerold Reichenbach" party="SPD" name="Gerold Reichenbach">
           <speaker>Gerold Reichenbach (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Sehr geehrte Damen und Herren! Liebe Kolleginnen und Kollegen von der Koalition, seit zwei Jahren hören wir, dass die Verbraucherschutzministerin und der Innenminister - genauso wie sein Vorgänger - gute Gespräche führen, mit deren erfolgreichem Abschluss sie demnächst rechnen. Seit zwei Jahren hören wir, dass Sie auf einem guten Weg sind. Ich sage Ihnen als jemand, der selber wandert:</p>
           <stage type="interjection">(Heiterkeit bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
@@ -2171,12 +2311,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Erik Schweickert für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP)</stage>
         </sp>
-        <sp who="Dr. Erik Schweickert" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Erik Schweickert">
+      </div>
+      <div type="agenda_item" n="73" what="debate" desc="Debatte">
+        <sp who="Erik Schweickert" parliamentary_group="FDP" role="mp" position="NA" who_original="Erik Schweickert" party="FDP" name="Erik Schweickert">
           <speaker>Dr. Erik Schweickert (FDP):</speaker>
           <p>Herr Präsident! Sehr geehrte Damen und Herren! Liebe Kolleginnen und Kollegen! Ich möchte heute mit einem Zitat beginnen:</p>
           <p>Das Internet ist das erste von Menschenhand erschaffene Ding, das der Mensch nicht versteht. Es ist das größte Experiment in Anarchie, das es jemals gab.</p>
@@ -2206,12 +2348,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Die letzte Rednerin in dieser Debatte ist nun Kollegin Halina Wawzyniak für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Halina Wawzyniak" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Halina Wawzyniak">
+      </div>
+      <div type="agenda_item" n="74" what="debate" desc="Debatte">
+        <sp who="Halina Wawzyniak" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Halina Wawzyniak" party="DIE LINKE" name="Halina Wawzyniak">
           <speaker>Halina Wawzyniak (DIE LINKE):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Wir sprechen heute über einen gelungenen Antrag der Fraktion Bündnis 90/Die Grünen zum Thema Datenschutz in sozialen Netzwerken. Dieser Antrag wird unsere Zustimmung finden.</p>
           <stage type="interjection">(Wolfgang Wieland [BÜNDNIS 90/DIE GRÜNEN]: Was ist denn nun los?)</stage>
@@ -2235,7 +2379,7 @@
           <p>Weil Weihnachten ist, wünsche ich Ihnen einen guten Rutsch, frohe Weihnachten und Frieden.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie des Abg. Gerold Reichenbach [SPD])</stage>
         </sp>
-        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Dr. h. c. Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Dr. h. c. Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Vizepräsident Dr. h. c. Wolfgang Thierse:</speaker>
           <p>Ich schließe die letzte Aussprache dieses Jahres.</p>
           <p>Interfraktionell wird Überweisung der Vorlage auf Drucksache 17/8161 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? - Das ist offensichtlich der Fall. Dann haben wir das auch so beschlossen.</p>
@@ -2243,6 +2387,7 @@
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 18. Januar 2012, 13 Uhr, ein.</p>
           <p>Nachdem ich so viele Weihnachts- und Jahreswünsche gehört habe, will ich mich dem besonders herzlich anschließen. Ich wünsche Ihnen allen fröhliche Weihnachten, einen heiteren Jahreswechsel und dass wir uns gesund und munter und in bester Laune im neuen Jahr wiedersehen. Alles Gute für Sie!</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluss: 15.26 Uhr)</stage>
         </sp>
       </div>
     </body>

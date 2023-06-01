@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-07</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://www.bundestag.de/blob/382718/724b74f92114030128295f7d9bd88d62/18116-data.txt</url>
-        <date>2015-10-20 20:01:24</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -36,7 +36,7 @@
   <text>
     <body>
       <div type="agenda_item" n="1" what="debate" desc="a) – Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwur...">
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Die Sitzung ist eröffnet. Nehmen Sie bitte Platz.</p>
           <p>Liebe Kolleginnen und Kollegen! Ich begrüße Sie alle herzlich zu unserer vorläufig letzten Plenarsitzung vor Beginn der parlamentarischen Sommerpause.</p>
@@ -64,7 +64,7 @@
           <p>Ich eröffne die Aussprache und erteile dem Bundes-innenminister Thomas de Maizière das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Die Aufdeckung der NSU-Verbrechen vor dreieinhalb Jahren war für uns alle ein Schock, war Ergebnis eines kollektiven Versagens der Sicherheitsbehörden, auch der Verfassungsschutzbehörden, führte zum NSU-Untersuchungsausschuss und war der Beginn eines umfassenden Reformprozesses der Verfassungsschutzbehörden von Bund und Ländern. Dazu gehört die Binnenreform dieses Bundesamtes – auch in den Ländern gibt es entsprechende Bemühungen –, und dazu gehört das Gesetz, das wir heute in zweiter und dritter Lesung beraten und verabschieden.</p>
           <p>Dieses Gesetz ist eine entschlossene Konsequenz aus den Mängeln bei der Aufklärung der NSU-Verbrechen für den Bereich der Verfassungsschutzbehörden.</p>
@@ -104,23 +104,23 @@
           <p>Diese neu hinzugekommenen Restriktionen ergänzen die bereits bestehenden Ausschlusskriterien wie zum Beispiel Minderjährigkeit und machen die Anwerbevoraussetzungen noch einmal klarer und strenger.</p>
           <p>Ich halte die Regelungen zur Anwerbung für eine gute Lösung. Wenn wir durch eine V-Person für unser Land gefährliche Bestrebungen aufklären können – nur dann ist ihr Einsatz zulässig –, ist es grundsätzlich nicht verantwortlich, hierauf zu verzichten.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Minister, darf der Kollege Ströbele eine Zwischenfrage stellen?</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Gerne.</p>
           <stage type="interjection">(Clemens Binninger [CDU/CSU]: Er redet doch gleich! Kann er doch dann fragen!)</stage>
         </sp>
-        <sp who="Hans-Christian Ströbele" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Hans-Christian Ströbele">
+        <sp who="Hans-Christian Ströbele" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Hans-Christian Ströbele" party="GRUENE" name="Hans-Christian Ströbele">
           <speaker>Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ich kann Sie beruhigen, Herr Kollege Binninger: Da habe ich noch mehr zu sagen.</p>
-          <p>Herr Minister, Sie haben gesagt: Bei schwersten Straftaten dürfen V Leute nicht weiterbeschäftigt werden.</p>
+          <p>Herr Minister, Sie haben gesagt: Bei schwersten Straftaten dürfen V-Leute nicht weiterbeschäftigt werden.</p>
           <stage type="interjection">(Clemens Binninger [CDU/CSU]: Schwerstkriminelle hat er gesagt!)</stage>
-          <p>Der Änderungsantrag, dem Sie das entnehmen, bezieht sich ausschließlich auf Tötungsdelikte, und zwar nur Mord und Totschlag. Körperverletzung mit Todesfolge, schwerste Erpressung beispielsweise, schwerer Raub, das alles sind nach dem Gesetz, wie Sie es jetzt vorschlagen, keine Taten, bei denen V Leute nicht weiterbeschäftigt werden können – der Präsident oder der Vizepräsident muss lediglich zustimmen. Sagen Sie also nicht: bei schwersten Straftaten. Schwerste Straftaten sind nicht nur Mord und Totschlag. Können Sie sich das Gesetz mal anschauen und mir darauf eine Antwort geben?</p>
+          <p>Der Änderungsantrag, dem Sie das entnehmen, bezieht sich ausschließlich auf Tötungsdelikte, und zwar nur Mord und Totschlag. Körperverletzung mit Todesfolge, schwerste Erpressung beispielsweise, schwerer Raub, das alles sind nach dem Gesetz, wie Sie es jetzt vorschlagen, keine Taten, bei denen V-Leute nicht weiterbeschäftigt werden können – der Präsident oder der Vizepräsident muss lediglich zustimmen. Sagen Sie also nicht: bei schwersten Straftaten. Schwerste Straftaten sind nicht nur Mord und Totschlag. Können Sie sich das Gesetz mal anschauen und mir darauf eine Antwort geben?</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Das will ich gerne tun. Aus Zeitgründen habe ich die einzelnen Delikte nicht aufgeführt.</p>
           <stage type="interjection">(Hans-Christian Ströbele [BÜNDNIS 90/DIE GRÜNEN]: Zwei!)</stage>
@@ -145,12 +145,12 @@
           <p>Wir haben die Lehren aus den Defiziten bei der Arbeit unserer Verfassungsschutzbehörden gezogen und entwickeln den gesetzlichen Rahmen dafür mit Maß und Mitte fort. Wir brauchen Verfassungsschutzbehörden, die zusammenarbeiten und die ihre Strukturen dort, wo es nötig ist, immer wieder erneuern. Für diesen Erneuerungsprozess ist der vorliegende Gesetzentwurf ein wichtiger Baustein. Ich bitte um eine breite Zustimmung.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält nun die Kollegin Petra Pau für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Petra Pau (DIE LINKE):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Ich beobachte derzeit zwei widerstreitende Entwicklungen. Die erste Entwicklung: Auch die deutschen Geheimdienste sind zunehmend diskreditiert, und sie haben sich durch ihr Agieren selbst delegitimiert.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -177,7 +177,7 @@
           <p>Ich will Ihnen unser Nein an zwei Beispielen illustrieren. Das erste Beispiel ist die V-Leute-Praxis. V-Leute sind gekaufte Spitzel und bezahlte Täter,</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
           <p>im NSU-Fall verbohrte Nazis mit all ihrer Menschenverachtung. Rund um das NSU-Nazinetzwerk waren übrigens rund 40 V-Leute verschiedener Sicherheitsbehörden aktiv. Ich frage Sie: mit welchem Erfolg?</p>
-          <p>Weder das Leben der NSU-Opfer noch die Verfassung wurden geschützt. Stattdessen wurden diese V-Leute, also Nazis, vor Ermittlungen gewarnt und geschützt. Über üppige Honorare und Sachleistungen für diese V Leute wurden Nazinetzwerke obendrein gestärkt und zum Teil erst aufgebaut. Daran ändert auch der vorliegende Gesetzentwurf nichts. Er regelt bestenfalls schwarz auf weiß, was bislang im Grauen geschah. Die Linke fordert deshalb eine andere, eine wirkliche Konsequenz, nämlich das V-Leute-Unwesen der Sicherheitsbehörden sofort zu beenden.</p>
+          <p>Weder das Leben der NSU-Opfer noch die Verfassung wurden geschützt. Stattdessen wurden diese V-Leute, also Nazis, vor Ermittlungen gewarnt und geschützt. Über üppige Honorare und Sachleistungen für diese V-Leute wurden Nazinetzwerke obendrein gestärkt und zum Teil erst aufgebaut. Daran ändert auch der vorliegende Gesetzentwurf nichts. Er regelt bestenfalls schwarz auf weiß, was bislang im Grauen geschah. Die Linke fordert deshalb eine andere, eine wirkliche Konsequenz, nämlich das V-Leute-Unwesen der Sicherheitsbehörden sofort zu beenden.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
           <p>Das zweite Beispiel ist der Informations- und Datenfluss. Alle Informationen der Ämter für Verfassungsschutz sollen verlässlicher ausgetauscht und letztlich beim Bundesamt für Verfassungsschutz gebündelt werden. So verheißt es der vorliegende Gesetzentwurf. Das klingt harmlos und sogar vernünftig. Das ist es aber nicht. Denn wie das NSU-Desaster gezeigt hat, hatte der Verfassungsschutz sehr wohl Erkenntnisse über den Verbleib und die Vorhaben des NSU-Kerntrios. Sie wurden auch innerhalb des Verfassungsschutzes ausgetauscht. Den Fahndern der Kriminalämter indes wurden sie verheimlicht, weil der Schutz der V-Leute mehr zählte als die Fahndung nach Räubern und Mördern.</p>
           <p>Ändert das Gesetz etwas an diesem Prinzip? Nein. Altes wird uns hier als etwas Neues verkauft. So etwas nennt man Täuschung.</p>
@@ -197,12 +197,12 @@
           <p>Damit würden zugleich Grundrechte wie das Recht auf informationelle Selbstbestimmung, das Post- und Briefgeheimnis sowie die Meinungsfreiheit verfassungsgemäß gestärkt.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Für die SPD-Fraktion hat nun die Kollegin Eva Högl das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Eva Högl" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Eva Högl">
+        <sp who="Eva Högl" parliamentary_group="SPD" role="mp" position="NA" who_original="Eva Högl" party="SPD" name="Eva Högl">
           <speaker>Dr. Eva Högl (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Einen schönen guten Morgen, liebe Kolleginnen und Kollegen! Meine sehr geehrten Damen und Herren! Ich möchte meine Rede mit einem ausdrücklichen Lob beginnen, und zwar mit einem Lob für unsere Sicherheitsbehörden im Bund und in den Ländern.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU – Hans-Christian Ströbele [BÜNDNIS 90/DIE GRÜNEN]: Na, na!)</stage>
@@ -264,7 +264,7 @@
           <p>weil wir der Auffassung sind, dass wir auch das keinem Graubereich überlassen können, dass auch das ausdrücklich geregelt werden muss. Darüber, ob das sinnvoll ist, haben wir lange diskutiert. Aber es ist sinnvoll.</p>
           <p>Wir haben klargestellt, dass es keinen Eingriff in Individualrechte geben darf – das ist eine ganz wichtige Einschränkung – und dass das Begehen einer Straftat selbstverständlich unerlässlich sein muss zum Erlangen einer Information. Es geht darum, dass wir eine Verbindung haben zwischen Qualität der Information und der zur Erlangung der Information begangenen Straftat. Außerdem gibt es eine Verhältnismäßigkeitsprüfung. Ich finde – ich sage das für die SPD-Fraktion –, dass wir damit in einem sensiblen Punkt eine ganz klare und sehr gute Regelung gefunden haben. Ich kann Sie nur ermuntern, dieser Regelung zuzustimmen.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
-          <p>Die Reform des Verfassungsschutzes muss weitergehen. Wir haben innerhalb der Behörden noch einiges vor. Wir müssen an einigen Punkten noch weiterarbeiten. Wir müssen etwa die Analysekompetenz des Personals stärken; die Herangehensweise an die Arbeit muss verbessert werden. Auf unserer Agenda steht vor allen Dingen außerdem die Stärkung der parlamentarischen Kontrolle. Dazu werden wir in dieser Legislaturperiode noch einiges verabschieden. Ich hoffe jedenfalls, dass wir das zustande bringen. Aber schon dieser Gesetzentwurf enthält dazu einen wichtigen Punkt: Wir bekommen von der Bundesregierung einen Bericht über den Einsatz von V Leuten, einen sogenannten Lagebericht.</p>
+          <p>Die Reform des Verfassungsschutzes muss weitergehen. Wir haben innerhalb der Behörden noch einiges vor. Wir müssen an einigen Punkten noch weiterarbeiten. Wir müssen etwa die Analysekompetenz des Personals stärken; die Herangehensweise an die Arbeit muss verbessert werden. Auf unserer Agenda steht vor allen Dingen außerdem die Stärkung der parlamentarischen Kontrolle. Dazu werden wir in dieser Legislaturperiode noch einiges verabschieden. Ich hoffe jedenfalls, dass wir das zustande bringen. Aber schon dieser Gesetzentwurf enthält dazu einen wichtigen Punkt: Wir bekommen von der Bundesregierung einen Bericht über den Einsatz von V-Leuten, einen sogenannten Lagebericht.</p>
           <stage type="interjection">(Irene Mihalic [BÜNDNIS 90/DIE GRÜNEN]: Dass man eine solche Selbstverständlichkeit ins Gesetz schreiben muss!)</stage>
           <p>Das versetzt uns in die Lage, den Verfassungsschutz deutlich besser zu kontrollieren, als es in der Vergangenheit der Fall war.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
@@ -272,21 +272,21 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Hans-Christian Ströbele erhält nun das Wort für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Hans-Christian Ströbele" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Hans-Christian Ströbele">
+        <sp who="Hans-Christian Ströbele" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Hans-Christian Ströbele" party="GRUENE" name="Hans-Christian Ströbele">
           <speaker>Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Es stimmt ja, dass wir alle hier im Saal – –</p>
           <stage type="interjection">(Bundeskanzlerin Dr. Angela Merkel spricht mit Abg. Thomas Oppermann [SPD] an dessen Platz)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Frau Bundeskanzlerin, das muss sich auch anderswo erledigen lassen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Hans-Christian Ströbele" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Hans-Christian Ströbele">
+        <sp who="Hans-Christian Ströbele" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Hans-Christian Ströbele" party="GRUENE" name="Hans-Christian Ströbele">
           <speaker>Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Die interessiert das Thema offenbar wenig.</p>
           <stage type="interjection">(Irene Mihalic [BÜNDNIS 90/DIE GRÜNEN]: Es ist ja alles aufgeklärt!)</stage>
@@ -330,23 +330,23 @@
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Wir lehnen dieses Gesetz ab, weil leider weder Sie noch wir die Bevölkerung – schon gar nicht den besonders betroffenen Teil der Bevölkerung – damit beruhigen können nach dem Motto „Jetzt sind wir auf einem guten Weg“. Nein, das sind wir nicht.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege.</p>
         </sp>
-        <sp who="Hans-Christian Ströbele" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Hans-Christian Ströbele">
+        <sp who="Hans-Christian Ströbele" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Hans-Christian Ströbele" party="GRUENE" name="Hans-Christian Ströbele">
           <speaker>Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Wir brauchen völlig neue gedankliche Ansätze. Ich fordere von Ihnen, das fortzusetzen, was wir im Untersuchungsausschuss praktiziert haben:</p>
           <stage type="interjection">(Tankred Schipanski [CDU/CSU]: Machen wir!)</stage>
           <p>dass Sie sich mit uns zusammensetzen, Dinge durchdenken und mit uns diskutieren, Alternativen zu einer solchen Art von Verfassungsschutz entwickeln, wie wir sie in unserem Entschließungsantrag angedeutet haben.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Stephan Mayer ist der nächste Redner für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Stephan Mayer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Stephan Mayer">
+        <sp who="Stephan Mayer (Altötting)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stephan Mayer (Altötting)" party="CSU" name="Stephan Mayer">
           <speaker>Stephan Mayer (Altötting) (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Sehr verehrte Kolleginnen! Sehr geehrte Kollegen! Mit dem Gesetz zur Verbesserung der Zusammenarbeit im Bereich des Verfassungsschutzes setzen wir die wesentlichen Empfehlungen des NSU-Untersuchungsausschusses eins zu eins um.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
@@ -381,21 +381,21 @@
           <p>Meine sehr verehrten Kolleginnen und Kollegen, ich glaube aber auch, dass man dieses Gesetz nicht nur im Lichte der schrecklichen Erkenntnisse aus dem NSU-Untersuchungsausschuss sehen darf, sondern man es auch progressiv im Lichte der aktuellen Bedrohungs-situation sehen muss. Da möchte auch ich auf den Verfassungsschutzbericht Bezug nehmen, den unser Bundesinnenminister am vergangenen Dienstag vorgestellt hat. Es wird doch keiner von uns behaupten wollen, dass die Welt sicherer geworden ist. Die Welt droht an vielen Ecken und Enden aus den Fugen zu geraten. Die Auswirkungen sind sehr schnell mittelbar oder unmittelbar auch in Deutschland spürbar. Der Extremismus nimmt in allen Bereichen zu, sowohl rechts als auch links als auch im Bereich des Islamismus. Deswegen brauchen wir einen leistungsfähigen, einen qualitativ hochwertigen Verfassungsschutz. Dieser ist zur Bewahrung unserer freiheitlich-demokratischen Grundordnung und für eine wehrhafte Demokratie unerlässlich.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege, lassen Sie eine Zusatzfrage des Kollegen von Notz zu?</p>
         </sp>
-        <sp who="Stephan Mayer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Stephan Mayer">
+        <sp who="Stephan Mayer (Altötting)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stephan Mayer (Altötting)" party="CSU" name="Stephan Mayer">
           <speaker>Stephan Mayer (Altötting) (CDU/CSU):</speaker>
           <p>Selbstverständlich, sehr gerne.</p>
         </sp>
-        <sp who="Dr. Konstantin von Notz" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Konstantin von Notz">
+        <sp who="Konstantin von Notz" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Konstantin von Notz" party="GRUENE" name="Konstantin von Notz">
           <speaker>Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Vielen Dank, Herr Präsident. – Vielen Dank, Herr Mayer. Sie haben den dramatischen Anstieg der Zahl der Straftaten im rechtsextremistischen Bereich eben beschrieben. Während die Möglichkeit zum Einsatz von V-Leuten in den letzten Jahren voll bestand, ist diese Entwicklung zu verzeichnen gewesen. Jetzt erklären Sie mir mal, wie sich die Ihrer Meinung nach erfolgreiche V-Mann-Arbeit der letzten Jahre, die ja ganz unreguliert erfolgen konnte, da positiv ausgewirkt hat!</p>
           <p>Herr Mayer, finden Sie es wirklich richtig, dass Menschen, die in Syrien gefoltert haben und hier nach Deutschland kommen, oder Nazis, die Brandstiftungen begangen haben, über Jahre und Jahre hinweg staatlich dafür alimentiert werden können, irgendwelche Informationen durchzustecken, an den Staat weiterzugeben? Kann das rechtsstaatlich sein?</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Stephan Mayer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Stephan Mayer">
+        <sp who="Stephan Mayer (Altötting)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stephan Mayer (Altötting)" party="CSU" name="Stephan Mayer">
           <speaker>Stephan Mayer (Altötting) (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Kollege von Notz, ich antworte sehr gerne auf die beiden Fragen, die Sie mir gestellt haben.</p>
           <p>Zur ersten Frage. Natürlich ist mit Besorgnis festzustellen, dass die Zahl der Gewalttaten im Bereich des Rechtsextremismus in Deutschland deutlich zugenommen hat. Aber es wäre natürlich perfide, jetzt so zu argumentieren, wie Sie es machen, und zu sagen: Na ja, ihr hattet ja bisher schon die Möglichkeit, V-Leute zum Einsatz zu bringen,</p>
@@ -419,12 +419,12 @@
           <p>Herzlichen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Für die SPD-Fraktion hat nun der Kollege Uli Grötsch das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Uli Grötsch" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Uli Grötsch">
+        <sp who="Uli Grötsch" parliamentary_group="SPD" role="mp" position="NA" who_original="Uli Grötsch" party="SPD" name="Uli Grötsch">
           <speaker>Uli Grötsch (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Vor ein paar Wochen habe ich an gleicher Stelle gesagt, dass ich fest davon überzeugt bin, dass wir das Bundesamt für Verfassungsschutz brauchen. Genauso deutlich habe ich gesagt, dass eine Reform dringend notwendig ist. Auch jetzt nach der öffentlichen Anhörung des Innenausschusses, nach der öffentlichen Debatte der letzten Wochen und nach den Gesprächen mit zahlreichen Interessenvertretern hat sich an meiner Meinung nichts geändert.</p>
           <stage type="interjection">(Irene Mihalic [BÜNDNIS 90/DIE GRÜNEN]: Sie hätten ja mal die Datenschutzbeauftragte kommen lassen können!)</stage>
@@ -456,12 +456,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Zum Schluss dieser Debatte erhält der Kollege Clemens Binninger für die CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Clemens Binninger" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Clemens Binninger">
+        <sp who="Clemens Binninger" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Clemens Binninger" party="CDU" name="Clemens Binninger">
           <speaker>Clemens Binninger (CDU/CSU):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Die Sicherheit in unserem Land ist zurzeit sowohl von innen wie von außen so bedroht wie noch nie. Eine starke Zunahme von gewaltbereitem Rechtsextremismus, die uns mit großer Sorge erfüllen muss, die Bedrohung durch den IS, mehr als 3 000 sogenannte Foreign Fighters aus Europa, die für den IS morden und irgendwann zurückkommen und für uns auch ein Problem darstellen, neue Formen von Angriffen wie Cyberattacken, wie wir in diesem Hause selber leidvoll erfahren mussten – all das zeigt, wie schwierig es ist, die Sicherheit für die Menschen in diesem Land zu gewährleisten, und wie wichtig es ist, dass wir dafür Sicherheitsbehörden, auch Nachrichtendienste, haben, die das tun können. Ich halte es mit Blick auf die Anträge der Opposition an diesem Punkt schlicht für unverantwortlich,</p>
           <stage type="interjection">(Dr. Eva Högl [SPD]: Ja!)</stage>
@@ -507,32 +507,32 @@
           <stage type="interjection">(Abg. Hans-Christian Ströbele [BÜNDNIS 90/DIE GRÜNEN] meldet sich zu einer Zwischenfrage)</stage>
           <p>– Alles andere hätte mich enttäuscht. Herr Kollege Ströbele, ich würde Ihre Frage zulassen, wenn der Präsident Sie aufruft.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das mache ich ganz besonders gerne, wenn es wechselseitig dieses erkennbare Interesse gibt. – Bitte schön, Herr Kollege Ströbele.</p>
         </sp>
-        <sp who="Clemens Binninger" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Clemens Binninger">
+        <sp who="Clemens Binninger" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Clemens Binninger" party="CDU" name="Clemens Binninger">
           <speaker>Clemens Binninger (CDU/CSU):</speaker>
           <p>Wenn Sie auch meine Redezeit anhalten würden, wäre ich Ihnen noch mehr verbunden.</p>
           <stage type="interjection">(Heiterkeit)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das ist längst erfolgt. – Bitte schön.</p>
         </sp>
-        <sp who="Hans-Christian Ströbele" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Hans-Christian Ströbele">
+        <sp who="Hans-Christian Ströbele" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Hans-Christian Ströbele" party="GRUENE" name="Hans-Christian Ströbele">
           <speaker>Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Kollege Binninger, Sie haben das als meinen Lieblingspunkt angesprochen. Ich habe heute die ganze Zeit, auch bei der Frage an den Minister, den anderen Lieblingspunkt angesprochen, zu dem Sie sich bisher nicht geäußert haben. Sie haben hier gesessen und versucht, mich zu verunsichern. Das ist Ihnen fast gelungen.</p>
           <stage type="interjection">(Clemens Binninger [CDU/CSU]: Jetzt aber! Nicht so empfindlich!)</stage>
           <p>– Fast. – Das wäre angesichts der Kompliziertheit und der, sagen wir mal, Schwierigkeit dieses Gesetzes, das von allen Sachverständigen in der Anhörung kritisiert wurde – sie haben gesagt: wie kann man so ein Gesetz schreiben? aber lassen wir das dahingestellt sein –, ja nicht verwunderlich: Man kann ja was übersehen. – Aber ich habe nichts übersehen.</p>
-          <p>Sagen Sie doch vorne vom Pult aus klar etwas zu der Frage der Übermittlung von Erkenntnissen des Verfassungsschutzes von Bund und Ländern an Strafverfolgungsbehörden. Das ist doch die Schlüsselfrage. Da haben Sie behauptet: Das steht hier drin. – Das steht für den einen seltenen Ausnahmefall drin. Dabei geht es darum, dass ein V Mann auffällt, der erhebliche Straftaten begangen hat. Dann soll das auch an die Strafverfolgungsbehörden weitergegeben werden. Das steht in der neuen Vorschrift.</p>
+          <p>Sagen Sie doch vorne vom Pult aus klar etwas zu der Frage der Übermittlung von Erkenntnissen des Verfassungsschutzes von Bund und Ländern an Strafverfolgungsbehörden. Das ist doch die Schlüsselfrage. Da haben Sie behauptet: Das steht hier drin. – Das steht für den einen seltenen Ausnahmefall drin. Dabei geht es darum, dass ein V-Mann auffällt, der erhebliche Straftaten begangen hat. Dann soll das auch an die Strafverfolgungsbehörden weitergegeben werden. Das steht in der neuen Vorschrift.</p>
           <p>Aber es geht doch darum: Der Verfassungsschutz hatte – in diesem Fall in Nürnberg und München – umfassendes Wissen. Er hatte dicke Akten dazu, in denen auch das NSU-Trio vorkam, nämlich die „Rennsteig“-Akten, die Sie ja auch kennen. Der Verfassungsschutz hatte die vorliegen. Davon hat er den Strafverfolgungsbehörden nichts mitgeteilt, als sie danach gefragt haben. Es geht darum, dass solche Skandale in Zukunft vermieden werden. Jetzt sagen Sie mal, wo das geregelt ist.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Clemens Binninger" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Clemens Binninger">
+        <sp who="Clemens Binninger" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Clemens Binninger" party="CDU" name="Clemens Binninger">
           <speaker>Clemens Binninger (CDU/CSU):</speaker>
           <p>Ich beantworte die Frage gerne. Die Empfindlichkeit verstehe ich nicht ganz. Wer austeilt, muss sich auch, glaube ich, einmal einen Zwischenruf gefallen lassen. Ich wollte Sie aber nicht aus der Ruhe bringen.</p>
-          <p>Mein Eindruck ist nur – der hat sich durch Ihre Frage bestätigt –: Sie verwechseln dauernd verschiedene Passagen aus einem sicher anspruchsvollen Gesetz. Das ist der Punkt. Die bringen Sie durcheinander. Es geht einerseits um die Frage: Welche Straftaten darf ein V Mann überhaupt begehen? Zweitens: Welche V Leute sind aufgrund ihrer kriminellen Vorgeschichte von vornherein von der Anwerbung ausgeschlossen? Und drittens: In welchen Situationen muss der Verfassungsschutz seine Erkenntnisse an die Polizei mitteilen?</p>
+          <p>Mein Eindruck ist nur – der hat sich durch Ihre Frage bestätigt –: Sie verwechseln dauernd verschiedene Passagen aus einem sicher anspruchsvollen Gesetz. Das ist der Punkt. Die bringen Sie durcheinander. Es geht einerseits um die Frage: Welche Straftaten darf ein V-Mann überhaupt begehen? Zweitens: Welche V-Leute sind aufgrund ihrer kriminellen Vorgeschichte von vornherein von der Anwerbung ausgeschlossen? Und drittens: In welchen Situationen muss der Verfassungsschutz seine Erkenntnisse an die Polizei mitteilen?</p>
           <stage type="interjection">(Irene Mihalic [BÜNDNIS 90/DIE GRÜNEN]: Genau!)</stage>
           <p>Das sind die drei Dinge, die man aber auseinanderhalten muss. Das machen Sie aber nicht.</p>
           <stage type="interjection">(Hans-Christian Ströbele [BÜNDNIS 90/DIE GRÜNEN]: Doch!)</stage>
@@ -541,15 +541,15 @@
           <p>Ich werde jetzt versuchen, Ihnen alle drei Punkte im Stenogrammstil noch einmal zu erklären, ohne dass ich die Hoffnung habe, Erfolg zu haben.</p>
           <stage type="interjection">(Irene Mihalic [BÜNDNIS 90/DIE GRÜNEN]: Es geht um den letzten!)</stage>
           <p>Aber ich spreche auch für die Öffentlichkeit und für die Kollegen.</p>
-          <p>Punkt eins. Ein V Mann darf keine Straftaten begehen, mit denen er Individualinteressen verletzt. Punkt. Das steht im Gesetz.</p>
+          <p>Punkt eins. Ein V-Mann darf keine Straftaten begehen, mit denen er Individualinteressen verletzt. Punkt. Das steht im Gesetz.</p>
           <stage type="interjection">(Irene Mihalic [BÜNDNIS 90/DIE GRÜNEN]: Das war nicht die Frage! Es geht um den letzten Punkt!)</stage>
           <p>– Doch, er hat eine Mischfrage gestellt. Er wirft doch dauernd alles durcheinander.</p>
           <p>Punkt zwei. Wenn er dennoch Straftaten begeht, muss der Einsatz abgeschaltet werden. Und nur in Bezug auf die Frage, wann diese Abschaltung stattfindet, hat der Behördenleiter im Ausnahmefall ein eigenes Recht. Es wird aber in keiner Weise eine Straftat erlaubt. Und das suggerieren Sie hier dauernd.</p>
           <stage type="interjection">(Hans-Christian Ströbele [BÜNDNIS 90/DIE GRÜNEN]: Ich rede gar nicht davon!)</stage>
-          <p>– Sie reden jetzt nicht von V Leuten?</p>
+          <p>– Sie reden jetzt nicht von V-Leuten?</p>
           <stage type="interjection">(Hans-Christian Ströbele [BÜNDNIS 90/DIE GRÜNEN]: Herr Binninger, ich rede von was anderem!)</stage>
           <p>Von was dann?</p>
-          <stage type="interjection">(Hans-Christian Ströbele [BÜNDNIS 90/DIE GRÜNEN]: V Leute sind ein Problem!)</stage>
+          <stage type="interjection">(Hans-Christian Ströbele [BÜNDNIS 90/DIE GRÜNEN]: V-Leute sind ein Problem!)</stage>
           <p>– Es wird heute mit uns beiden schwierig, aber ich habe es versucht. Ich glaube, das Bemühen war mir anzusehen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
           <p>Punkt drei – diesen einen Punkt darf ich noch erwähnen, dann sind wir damit ja auch durch; wir sehen uns nachher wieder, dann können wir noch einmal darüber reden –: Ja, die Übermittlung der Informationen des -bayerischen Verfassungsschutzes an die Polizei hat skandalös lange gedauert.</p>
@@ -564,7 +564,7 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Um den auch nur angedeuteten Verdacht, dass ausgerechnet bei einem solch wichtigen Thema der Präsident nickelig mit den Redezeiten umgehe, auszuräumen, weise ich darauf hin, dass wir zu Beginn dieser Debatte beschlossen haben, 77 Minuten zu debattieren. Jeder Blick auf die Uhr macht deutlich, dass wir jetzt 95 Minuten debattiert haben. Das räumt den Verdacht aus, mit den Redezeiten sei restriktiv umgegangen worden.</p>
@@ -598,7 +598,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="2" what="debate" desc="a) Beratung des Antrags der Abgeordneten Markus Kurth, Brigitte Pothmer, Beate M...">
-        <sp who="Markus Kurth" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Markus Kurth">
+        <sp who="Markus Kurth" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Markus Kurth" party="GRUENE" name="Markus Kurth">
           <speaker>Markus Kurth (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Sehr verehrte Damen und Herren! Liebe Kolleginnen und Kollegen! Was beschäftigt die Menschen in diesem Land, wenn sie sich Gedanken über ihre Alterssicherung machen? Zwei Fragen dürften sich die meisten in jedem Fall stellen: Erstens diejenige nach der Höhe der Altersversorgung und eng damit zusammenhängend zweitens, ob und wie lange sie zum Ende ihres Berufslebens arbeiten werden, ob sie sich bis zum Renteneintritt quälen oder ob sie sogar über das gesetzliche Renteneintrittsalter hinaus Spaß an ihrem Job haben können.</p>
           <p>Auf der Suche nach Antworten werden sie bei der jetzigen Regierung jedenfalls nicht fündig. Obwohl der Anstieg des Renteneintrittsalters nun im fünften Jahr läuft und obwohl das Durchschnittsalter der Erwerbsbevölkerung stetig steigt – diese Regierung handelt nicht.</p>
@@ -621,12 +621,12 @@
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN – Peter Weiß [Emmendingen] [CDU/CSU]: Oh, oh, oh! – Katja Mast [SPD]: Nur die Überschrift und nichts gewesen!)</stage>
           <p>– Doch.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege, Sie sollten aber jetzt ganz langsam zum Mitschreiben sprechen.</p>
           <stage type="interjection">(Dr. Matthias Zimmer [CDU/CSU]: Damit wir das auch verstehen! – Katja Mast [SPD]: Lesen Sie doch mal die These Ihres Antrags vor!)</stage>
         </sp>
-        <sp who="Markus Kurth" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Markus Kurth">
+        <sp who="Markus Kurth" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Markus Kurth" party="GRUENE" name="Markus Kurth">
           <speaker>Markus Kurth (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ja. – Es ist immer schön, wenn man als Redner merkt, dass man einen gewissen Unterhaltungswert hat. Aber kommen wir wieder zur Sache.</p>
           <stage type="interjection">(Katja Mast [SPD]: Lesen Sie erst mal, was unter der Überschrift steht, vor!)</stage>
@@ -650,12 +650,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN – Albert Stegemann [CDU/CSU]: Der Anspruch ist gut, der Antrag ist schlecht!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Peter Weiß ist der nächste Redner für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD – Albert Stegemann [CDU/CSU]: Lass’ Dampf ab!)</stage>
         </sp>
-        <sp who="Peter Weiß" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Weiß">
+        <sp who="Peter Weiß (Emmendingen)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Weiß (Emmendingen)" party="CDU" name="Peter Weiß">
           <speaker>Peter Weiß (Emmendingen) (CDU/CSU):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Liebe Zuhörerinnen und Zuhörer! Natürlich macht es Spaß, im Parlament eine Rede mit Unterhaltungswert zu hören. Aber auch zum Inhalt hätte man von den Grünen gerne etwas erfahren.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
@@ -689,21 +689,21 @@
           <p>Was ist das für ein rentenpolitischer Zickzackkurs? Gegen die Rente mit 63 wird polemisiert, und jetzt wird die Rente ab 60 beantragt.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD – Markus Kurth [BÜNDNIS 90/DIE GRÜNEN]: Mit vollen Abschlägen! Mit Abschlägen!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Lieber Kollege Weiß, darf der Kollege Kurth eine Zwischenfrage stellen?</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Er hat doch gerade geredet! – Gegenruf des Abg. Matthias W. Birkwald [DIE LINKE]: Aber nicht dazu! – Gegenruf der Abg. Kerstin Andreae [BÜNDNIS 90/DIE GRÜNEN]: Aber bitte! Manche Dinge muss man inhaltlich klarstellen!)</stage>
         </sp>
-        <sp who="Peter Weiß" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Weiß">
+        <sp who="Peter Weiß (Emmendingen)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Weiß (Emmendingen)" party="CDU" name="Peter Weiß">
           <speaker>Peter Weiß (Emmendingen) (CDU/CSU):</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Markus Kurth" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Markus Kurth">
+        <sp who="Markus Kurth" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Markus Kurth" party="GRUENE" name="Markus Kurth">
           <speaker>Markus Kurth (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Weiß, eines muss ich klarstellen. Ich habe fast vermutet, dass Sie der Versuchung nicht widerstehen können, unseren Antrag unvollständig wiederzugeben, um den Eindruck zu erwecken, dass wir ein neues Frühverrentungsfenster öffnen. Ich habe vorhin ausdrücklich gesagt, dass das nicht unser Ziel ist. Unser Vorschlag, es zu ermöglichen, die Teilrente früher zu beziehen, wird sich im Gegensatz zur Rente mit 63 und zur Mütterrente nicht negativ auf die Rentenkasse auswirken, weil die vollen Abschläge wirksam werden; das ist der entscheidende Punkt. Zusätzlich sehen wir für gesundheitlich Beeinträchtigte die Möglichkeit vor – darauf wird Herr Strengmann-Kuhn nachher noch näher eingehen –, diese Abschläge auszugleichen. Ansonsten werden mit dem, was wir vorschlagen, die Rentenkasse sowie die Beitragszahlerinnen und Beitragszahler nicht belastet. Sind Sie bereit, das zur Kenntnis zu nehmen?</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN – Dr. Martin Rosemann [SPD]: „… einer vollen Altersrente“ steht da!)</stage>
         </sp>
-        <sp who="Peter Weiß" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Weiß">
+        <sp who="Peter Weiß (Emmendingen)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Weiß (Emmendingen)" party="CDU" name="Peter Weiß">
           <speaker>Peter Weiß (Emmendingen) (CDU/CSU):</speaker>
           <p>Herr Kollege Kurth, das heutige Recht sieht wie folgt aus – um das allen Zuhörerinnen und Zuhörern zu erklären –: Ab dem Erreichen des 63. Lebensjahres kann ich vorzeitig in Rente gehen. Ich kann aber auch, wenn ich will, eine Teilrente beantragen, zum Beispiel zu 50 Prozent in Rente gehen und zu 50 Prozent weiterarbeiten. Diese Grenze von 63 bleibt auch dann bestehen, wenn wir die Regelaltersgrenze von 67 haben. Es gibt eine vierjährige Übergangszeit, in der Flexibilität herrscht. In der Tat: Auf diese Rente werden im Vergleich zu dem, was sich erreichen lässt, wenn man erst mit 67 in Rente geht, Abschläge erhoben.</p>
           <stage type="interjection">(Matthias W. Birkwald [DIE LINKE]: Horrende Abschläge!)</stage>
@@ -736,12 +736,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Für die Fraktion Die Linke spricht jetzt der Kollege Matthias W. Birkwald.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Matthias Birkwald">
+        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Matthias W. Birkwald" party="DIE LINKE" name="Matthias W. Birkwald">
           <speaker>Matthias W. Birkwald (DIE LINKE):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Vorgestern hatte das Rentenpaket mit der sogenannten Mütterrente und der Rente ab 63 seinen ersten Geburtstag.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
@@ -793,11 +793,11 @@
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
           <p>Sie, liebe Grüne, schlagen vor, dass „Rentenbeiträge der Arbeitgeber künftig rentenwirksam und freiwillige Rentenbeiträge der beschäftigten Rentnerinnen und Rentner ermöglicht werden“. Ich sage Ihnen klipp und klar: Davon halte ich gar nichts. Entweder jemand ist sozialversicherungspflichtig beschäftigt und will über seine persönliche Regelaltersgrenze hinaus arbeiten. Wer das kann und das will, darf das tun – heute schon; das hat Herr Weiß berichtet. Dafür brauchen wir kein neues Gesetz. Wer länger arbeiten will, bekommt dafür 6 Prozent lebenslange Zuschläge pro Jahr auf seine Rente und den üblichen Entgeltpunktanteil. Das bedeutet bei einer regulären Altersrente von 1 000 Euro: Ein Jahr länger arbeiten gibt 1 090 Euro Rente. Anders gesagt: Es wird so getan, als hätte er oder sie in diesem Jahr rund 9 000 Euro verdient. Ich finde, das ist attraktiv genug.</p>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Herr Kollege Birkwald, darf ich Sie an die Redezeit erinnern, welche schon ausreichend genutzt wurde?</p>
         </sp>
-        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Matthias Birkwald">
+        <sp who="Matthias W. Birkwald" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Matthias W. Birkwald" party="DIE LINKE" name="Matthias W. Birkwald">
           <speaker>Matthias W. Birkwald (DIE LINKE):</speaker>
           <p>Ja, Herr Präsident, ich komme zum Schluss. Lassen Sie mich noch diesen Gedanken ausführen. – Oder aber jemand ist bereits in Altersrente; dann darf er oder sie unbegrenzt hinzuverdienen und zahlt weder Beiträge zur Arbeitslosenversicherung noch Beiträge zur Rentenversicherung, hat also netto mehr in der Tasche. Ich finde, auch das ist attraktiv genug.</p>
           <stage type="interjection">(Beifall der Abg. Kathrin Vogler [DIE LINKE])</stage>
@@ -805,12 +805,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN – Dr. Martin Rosemann [SPD]: Und die Erde ist eine Scheibe!)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Für die SPD spricht jetzt die Kollegin Katja Mast.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Katja Mast" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Katja Mast">
+        <sp who="Katja Mast" parliamentary_group="SPD" role="mp" position="NA" who_original="Katja Mast" party="SPD" name="Katja Mast">
           <speaker>Katja Mast (SPD):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Kolleginnen und Kollegen! Liebe Bürgerinnen und Bürger! Der Unterschied zwischen einer Koalitionsarbeitsgruppe und Oppositionsanträgen ist, dass das, was wir in einer Koalitionsarbeitsgruppe besprechen und beschließen, Realität wird, während Oppositionsanträge nicht umgesetzt werden. Das ist der wichtigste Unterschied an dieser Stelle.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU – Lachen bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN – Markus Kurth [BÜNDNIS 90/DIE GRÜNEN]: Das glauben Sie doch selbst nicht! – Dr. Wolfgang Strengmann-Kuhn [BÜNDNIS 90/DIE GRÜNEN]: Wann?)</stage>
@@ -846,12 +846,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Für die CDU/CSU spricht jetzt der Kollege Matthäus Strebl.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie des Abg. Dr. Martin Rosemann [SPD])</stage>
         </sp>
-        <sp who="Matthäus Strebl" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Matthäus Strebl">
+        <sp who="Matthäus Strebl" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Matthäus Strebl" party="CSU" name="Matthäus Strebl">
           <speaker>Matthäus Strebl (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Verehrte Kolleginnen und Kollegen! Bis vor einigen Jahren endete die Berufstätigkeit für viele Menschen in Deutschland mit dem Erreichen des Renteneintrittsalters. Das hat sich geändert. Hierzu möchte ich einige Zahlen nennen: Nach einer Untersuchung des Instituts der deutschen Wirtschaft Köln hat sich der Anteil der Erwerbstätigen zwischen 65 und 74 Jahren in den vergangenen Jahren mehr als verdoppelt. Während im Jahr 2000 noch 3,7 Prozent der Menschen in der genannten Altersgruppe erwerbstätig waren, lag der Anteil 2013 bereits bei 8,7 Prozent, und das bei weiterhin steigender Tendenz. Die Steigerung erscheint mir logisch und nachvollziehbar. Längere -Erwerbstätigkeit wird heute meist positiv bewertet, positiver als in früheren Jahren. Sie bedeutet für den Einzelnen die Beibehaltung eines jahrzehntelangen Tagesrhythmus, Austausch, soziale Kontakte mit Kollegen, Anerkennung in der Gesellschaft. Eine niedrige Rente ist für viele Ältere eben nicht der ausschlaggebende Grund, im Rentenalter weiterzuarbeiten. Die Menschen arbeiten länger, weil sie es wollen.</p>
           <p>Wir dürfen nicht außer Acht lassen, dass nicht nur die Gründe des Einzelnen für ein längeres Arbeiten sprechen. Auch für den derzeitigen Arbeitsmarkt und das deutsche Rentensystem ist eine Verlängerung der Erwerbstätigkeit zu begrüßen. Den demografischen Wandel und den Renteneintritt von vielen älteren Arbeitnehmern spüren viele Betriebe in Deutschland bereits jetzt. Viele Firmen blicken mit Sorge auf den drohenden Fachkräftemangel, wenn die älteren Mitarbeiter ihre Erwerbstätigkeit beenden. Immer mehr Arbeitgeber versuchen, mit flexiblen Arbeitszeiten und Prämien ihre Fachkräfte im Unternehmen zu halten. Leider beenden heute viele Beschäftigte ihre Erwerbstätigkeit, obwohl sie noch weiterarbeiten wollen. Eines ist sicher, verehrte Kolleginnen und Kollegen: Wir dürfen die erprobte Erfahrung und das Wissen von älteren Arbeitnehmerinnen und Arbeitnehmern nicht verschwenden.</p>
@@ -871,12 +871,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD – Markus Kurth [BÜNDNIS 90/DIE GRÜNEN]: Beraten Sie sie doch erst einmal!)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Vielen Dank. – Nächste Rednerin ist für die Fraktion Die Linke die Kollegin Kerstin Kassner.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Kerstin Kassner" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Kerstin Kassner">
+        <sp who="Kerstin Kassner" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Kerstin Kassner" party="DIE LINKE" name="Kerstin Kassner">
           <speaker>Kerstin Kassner (DIE LINKE):</speaker>
           <p>Sehr geehrter Herr Präsident! Sehr verehrte Kolleginnen und Kollegen! Liebe Gäste! Das Thema, das uns mit der Drucksache 18/5213 auf den Tisch gelegt wurde, geht uns alle an. In Zeiten knapper Kassen, namentlich in den Kommunen, wird immer mehr auf das Ehrenamt gesetzt. Vieles, was vorher von hauptamtlichen Mitarbeitern geregelt wurde, wird jetzt durch ehrenamtlich Engagierte – Gott sei Dank haben wir sie – erledigt. Es gibt aber Grenzen. Diese Grenzen gibt es immer im Zusammenspiel mit Menschen, mit Kindern. Es wird nicht nur guter Wille gebraucht, sondern auch Wissen und Können, insbesondere bei den kommunalen Mitstreitern, den kommunalen Ehrenämtern. Dort wird eine riesengroße Verantwortung wahrgenommen. Es geht nicht nur um eine sinnvolle Freizeitgestaltung.</p>
           <stage type="interjection">(Beifall bei der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -893,12 +893,12 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Nächster Redner ist der Kollege Dr. Martin Rosemann für die SPD.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Martin Rosemann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Martin Rosemann">
+        <sp who="Martin Rosemann" parliamentary_group="SPD" role="mp" position="NA" who_original="Martin Rosemann" party="SPD" name="Martin Rosemann">
           <speaker>Dr. Martin Rosemann (SPD):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Ich möchte zu Beginn meiner Rede der Fraktion Bündnis 90/Die Grünen sehr herzlich danken, dass Sie mit Ihrem Überschriftenantrag uns die Gelegenheit zu der heutigen Debatte geben und damit mir die Möglichkeit, die Position der SPD-Bundestagsfraktion zum Thema „flexible Übergänge“ deutlich zu machen.</p>
           <p>Was bedeuten für uns flexible Übergänge? Sie bedeuten nicht einen früheren Renteneintritt. Denn wenn wir im Durchschnitt, liebe Kolleginnen und Kollegen, immer älter werden, dann müssen wir im Durchschnitt auch länger arbeiten.</p>
@@ -933,11 +933,11 @@
           <p>Sie sehen also: Bei der Diskussion um flexible Übergänge geht es um weit mehr als um ein paar Verbesserungen bei der Teilrente. Es geht auch um weit mehr als um das Arbeiten oberhalb der Regelaltersgrenze. „Flexible Übergänge“ ist eines der großen Themen an der Schnittstelle von Arbeitsmarkt- und Alterssicherungs-politik. Ein so großes Thema verlangt mehr als Überschriften. Deshalb nehmen wir uns die notwendige Zeit, um Lösungen gemeinsam mit unserem Koalitionspartner zu finden.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU – Markus Kurth [BÜNDNIS 90/DIE GRÜNEN]: Der letzte Satz klang schon ein bisschen resigniert!)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Der Kollege Dr. Wolfgang Strengmann-Kuhn für die Fraktion Bündnis 90/Die Grünen ist der nächste Redner.</p>
         </sp>
-        <sp who="Dr. Wolfgang Strengmann-Kuhn" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Wolfgang Strengmann-Kuhn">
+        <sp who="Wolfgang Strengmann-Kuhn" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Wolfgang Strengmann-Kuhn" party="GRUENE" name="Wolfgang Strengmann-Kuhn">
           <speaker>Dr. Wolfgang Strengmann-Kuhn (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Sie hatten relativ lange Zeit, sich um das Thema „flexible Rentenübergänge“ zu kümmern. In Bezug auf die Pro-blembeschreibung sind wir uns einig, aber wenn es um eine Lösung geht, dann sind Sie sehr blockiert. Diese Debatte macht sehr deutlich, dass die Grünen an dieser Stelle die Partei der Freiheit sind.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN – Lachen bei Abgeordneten der CDU/CSU – Dr. Matthias Zimmer [CDU/CSU]: Den Verdacht hatte ich schon immer! Grün ist das neue Gelb!)</stage>
@@ -968,12 +968,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Nächster Redner ist der Kollege Dr. Carsten Linnemann für die CDU/CSU.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Carsten Linnemann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Carsten Linnemann">
+        <sp who="Carsten Linnemann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Carsten Linnemann" party="CDU" name="Carsten Linnemann">
           <speaker>Dr. Carsten Linnemann (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Lieber Martin Rosemann, ich reihe mich gerne ein: Auch ich bedanke mich dafür, dass Sie dieses Thema in die Kernzeit und nicht in die Randzeit unserer Plenartage geschoben haben. Das Thema „Arbeiten im Alter“ ist wichtig. Ich freue mich auf die Diskussionen im Ausschuss. Bisher kam aber, glaube ich, der Umstand, warum wir über dieses Thema reden, ein bisschen zu kurz.</p>
           <p>Jeder geht dieses Thema auf seine eigene Art und Weise an. Für mich sind drei Zahlen interessant:</p>
@@ -996,12 +996,12 @@
           <p>Herzlichen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Nächste Rednerin ist die Kollegin Dagmar Schmidt für die SPD.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dagmar Schmidt" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dagmar Schmidt">
+        <sp who="Dagmar Schmidt (Wetzlar)" parliamentary_group="SPD" role="mp" position="NA" who_original="Dagmar Schmidt (Wetzlar)" party="SPD" name="Dagmar Schmidt">
           <speaker>Dagmar Schmidt (Wetzlar) (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Sehr geehrte Damen und Herren! Unser allererstes Anliegen als SPD ist es, allen Menschen ein gesundes Arbeiten bis zum Regelrenteneintrittsalter zu ermöglichen. Das Problem ist ja nicht – das ist an vielen Stellen schon angesprochen worden –, länger arbeiten zu können. Es ist gesagt worden: Diese Möglichkeiten haben wir geschaffen. Das Problem ist doch eigentlich, dass viele Menschen es aus den unterschiedlichsten Gründen nicht schaffen, Vollzeit bis zur Rente zu arbeiten.</p>
           <p>Unser Rentensystem ist an verschiedenen Stellen reformbedürftig. Wichtige Reformen sind von uns bereits umgesetzt worden. Lasst mich einmal sagen: Wir regieren seit anderthalb Jahren. Zeigen Sie mir eine andere Bundesregierung, die so viel auf den Weg gebracht und in der Rente und darüber hinaus umgesetzt hat wie wir!</p>
@@ -1025,22 +1025,22 @@
           <p>In diesem Sinne: Glück auf!</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Nach diesen guten Wünschen hat der Kollege Albert Stegemann für die CDU/CSU das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Albert Stegemann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Albert Stegemann">
+        <sp who="Albert Stegemann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Albert Stegemann" party="CDU" name="Albert Stegemann">
           <speaker>Albert Stegemann (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen! Liebe Kollegen! Sehr geehrte Damen und Herren! Die Sommerpause im Parlament wirft ihre Schatten voraus. Ich freue mich sehr, dass wir uns heute, bevor das Parlament in die wohlverdiente Ruhepause startet, mit der Phase des Ruhestandes im Arbeitsleben beschäftigen. Hierzu hatte ich mir einen Vers notiert, den ich vortragen wollte, um danach in die nächsten Seiten meiner Rede einzusteigen. Diesen Vers kann ich heute aber auch -anwenden; denn unser geschätzter Saaldiener Herr -Grothkopf wird am 31. Juli dieses Jahres in den Ruhestand gehen. Wir wünschen ihm von hier aus alles, alles Gute!</p>
           <stage type="interjection">(Anhaltender Beifall – Die Abgeordneten erheben sich.)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Nach dieser verdienten Wertschätzung und allgemeinem Beifall – das wird von der Redezeit abgezogen – haben Sie wieder das Wort.</p>
           <stage type="interjection">(Heiterkeit – Matthias W. Birkwald [DIE LINKE]: Herr Präsident, dann hätte ich das auch schon gemacht!)</stage>
         </sp>
-        <sp who="Albert Stegemann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Albert Stegemann">
+        <sp who="Albert Stegemann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Albert Stegemann" party="CDU" name="Albert Stegemann">
           <speaker>Albert Stegemann (CDU/CSU):</speaker>
           <p>Herzlichen Dank. – Der von mir angewandte Spruch hieß: Mein lieber Pensionär, wir hier im Büro vermissen dich sehr. Du hast mit uns hinter dem Schalter gesessen, wir werden dich niemals vergessen! – Mit solchen oder ähnlichen Sprüchen werden tagtäglich langgediente Mitarbeiter in den Ruhestand geschickt.</p>
           <p>Wir müssen feststellen, dass sich die Arbeitswelt seit einigen Jahren grundlegend ändert. Die Erwerbsbiografien werden vielfältiger und bunter. Um hierauf reagieren zu können, muss auch das System der Rente flexibler werden. Dennoch gilt in der allgemeinen Wahrnehmung fälschlicherweise der Grundsatz, dass das Berufsleben zu einem gesetzlich festgelegten Stichtag endet. Damit nähert sich der Renteneintritt unaufhaltsam, ob der Mitarbeiter nun möchte oder nicht, ob er fit ist oder nicht. Vor diesem Hintergrund bin ich Ihnen, liebe Kollegen von den Grünen, sehr dankbar, dass Sie das Thema der flexiblen Rentenübergänge auf die heutige Tagesordnung gesetzt haben.</p>
@@ -1067,12 +1067,12 @@
           <p>Herzlichen Dank. Schöne Sommerpause.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Abschließender Redner zu diesem Tagesordnungspunkt ist der Kollege Ralf Kapschack für die SPD.</p>
           <stage type="interjection">(Beifall bei der SPD sowie des Abg. Dr. Matthias Zimmer [CDU/CSU])</stage>
         </sp>
-        <sp who="Ralf Kapschack" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ralf Kapschack">
+        <sp who="Ralf Kapschack" parliamentary_group="SPD" role="mp" position="NA" who_original="Ralf Kapschack" party="SPD" name="Ralf Kapschack">
           <speaker>Ralf Kapschack (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Liebe Zuschauer! Ich möchte mich erst einmal bedanken für die bisher sehr konstruktive Debatte. Ich glaube, sie ist auch angemessen, wenn man sich überlegt, dass jeder Zweite über 55 gerne schrittweise in die Rente gehen will und nicht abrupt.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -1102,7 +1102,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Damit schließe ich die Aussprache.</p>
           <p>Interfraktionell wird die Überweisung der Vorlagen auf den Drucksachen 18/5212 und 18/5213 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? – Ich sehe keine andere Haltung oder Meinung. Dann ist die Überweisung so beschlossen.</p>
@@ -1127,7 +1127,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="3" what="debate" desc="a) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Geset...">
-        <sp who="Stefan Müller" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin für Bildung und Forschung" party="CSU" name="Stefan Müller">
+        <sp who="Stefan Müller" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin für Bildung und Forschung" who_original="Stefan Müller" party="CSU" name="Stefan Müller">
           <speaker>Stefan Müller, Parl. Staatssekretär bei der Bundesministerin für Bildung und Forschung:</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Vor rund drei Jahren, am 1. April 2012 – das war kein Aprilscherz –, ist das sogenannte Anerkennungsgesetz des Bundes in Kraft getreten. Wir haben damals eine, wie ich finde, gute rechtliche Grundlage dafür geschaffen, dass im Ausland erworbene Abschlüsse in Deutschland einfacher anerkannt werden können und wir damit Mi-grantinnen und Migranten besser in den Arbeitsmarkt integrieren können.</p>
           <p>Eines kann man feststellen: Dieses Gesetz hat in der Bevölkerung ein Umdenken in der Form bewirkt, dass die ausländischen Qualifikationen Zugewanderter als Potenzial wahrgenommen werden.</p>
@@ -1161,12 +1161,12 @@
           <p>In diesem Sinne hoffe ich auf eine wohlwollende und zustimmende Beratung im weiteren parlamentarischen Verfahren.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Nächste Rednerin ist die Kollegin Sigrid Hupach für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Sigrid Hupach" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Sigrid Hupach">
+        <sp who="Sigrid Hupach" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Sigrid Hupach" party="DIE LINKE" name="Sigrid Hupach">
           <speaker>Sigrid Hupach (DIE LINKE):</speaker>
           <p>Herr Präsident! Sehr geehrte Damen und Herren! Bei der Vorstellung des Berichts zum Anerkennungsgesetz 2015 feiert die Bundesregierung das Gesetz als großen Erfolg. Warum eigentlich? Weil gerade 26 500 Menschen in Deutschland einen Antrag auf Anerkennung ihrer ausländischen Berufsabschlüsse gestellt haben? Doch wohl eher nicht! Ich teile also nicht ganz das Lobeslied von Staatssekretär Müller.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der LINKEN – Tankred Schipanski [CDU/CSU]: Nicht überraschend!)</stage>
@@ -1190,12 +1190,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Für die SPD spricht jetzt der Kollege Dr. Karamba Diaby.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Karamba Diaby" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Karamba Diaby">
+        <sp who="Karamba Diaby" parliamentary_group="SPD" role="mp" position="NA" who_original="Karamba Diaby" party="SPD" name="Karamba Diaby">
           <speaker>Dr. Karamba Diaby (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren!</p>
           <p>Die Tür steht dir offen, du bist willkommen, du wirst gebraucht, und du kannst dich mit all deinen Fähigkeiten hier entfalten.</p>
@@ -1230,14 +1230,14 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Vielen Dank, Herr Kollege Dr. Diaby, auch was die Einhaltung der Redezeit betrifft. Sie sind ja auch Schriftführer und wissen die Disziplin zu schätzen. Vielen Dank.</p>
           <stage type="interjection">(Heiterkeit)</stage>
           <p>Jetzt kommt der Kollege Özcan Mutlu für Bündnis 90/Die Grünen.</p>
           <stage type="interjection">(Dr. Thomas Feist [CDU/CSU]: Auch Schriftführer! Da werden wir mal sehen, wie er sich an die vorgegebene Redezeit hält!)</stage>
         </sp>
-        <sp who="Özcan Mutlu" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Özcan Mutlu">
+        <sp who="Özcan Mutlu" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Özcan Mutlu" party="GRUENE" name="Özcan Mutlu">
           <speaker>Özcan Mutlu (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Bei Ihnen, Herr Kollege Diaby, habe ich zeitweise gedacht, hier redet ein Oppositionspolitiker und nicht ein Vertreter der Regierungskoalition. Aber sei’s drum. Wenn Sie auf dem richtigen Weg sind, freuen wir uns sogar.</p>
           <stage type="interjection">(Martin Rabanus [SPD]: Immer den Blick nach vorn, Kollege!)</stage>
@@ -1282,12 +1282,12 @@
           <p>Danke sehr, auch Ihnen, Herr Präsident, für die Geduld.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Nächste Rednerin ist für die CDU/CSU-Fraktion die Kollegin Cemile Giousouf.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Cemile Giousouf" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Cemile Giousouf">
+        <sp who="Cemile Giousouf" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Cemile Giousouf" party="CDU" name="Cemile Giousouf">
           <speaker>Cemile Giousouf (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Aus Brüssel können dieser Tage auch gute Nachrichten kommen. Am 10. Juni, also an dem Tag, als der vorliegende Bericht vom Bundeskabinett beschlossen wurde, hat der Brüsseler Thinktank Migration Policy Group eine Studie vorgestellt, in der die Integrationspolitik von 38 Ländern verglichen wurde. Nach dieser Studie ist Deutschland in die Top Ten der besten Integrationsländer aufgestiegen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
@@ -1327,12 +1327,12 @@
           <p>Vielen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD – Özcan Mutlu [BÜNDNIS 90/DIE GRÜNEN]: Das war eine Kritik an Ihrer Politik!)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Abschließende Rednerin in dieser Aussprache ist die Kollegin Dr. Daniela De Ridder, SPD.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Daniela De Ridder" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Daniela De Ridder">
+        <sp who="Daniela De Ridder" parliamentary_group="SPD" role="mp" position="NA" who_original="Daniela De Ridder" party="SPD" name="Daniela De Ridder">
           <speaker>Dr. Daniela De Ridder (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! „Wings University“ heißt das Projekt, von dem mir zwei Studierende in dieser Woche berichteten. Sie wollen flüchtenden Menschen die Chance geben, ein Studium aufzunehmen und mit einem Abschluss zu beenden: ohne Kosten, ohne Zugangsvoraussetzungen, ohne Ausweispflicht. Gerade in der ungewissen und unsicheren Situation, in der sich viele geflüchtete Menschen befinden, gibt das diesen möglicherweise einen neuen Sinn. Beim Start im Herbst sind zunächst alle Kurse online. Schon jetzt haben sich über 3 000 Menschen angemeldet.</p>
           <p>Ich erwähne dieses Projekt deshalb, weil es genau beim richtigen Punkt ansetzt: Es gibt Menschen berufliche Chancen und die Hoffnung auf eine gesicherte Zukunft. Das tut im Übrigen auch das Anerkennungsgesetz. Auch wenn, lieber Kollege Mutlu, noch nicht alles auf der richtigen Bahn ist und noch ein Stück Arbeit vor uns liegt: Wir von der SPD stricken nie mit der heißen Nadel. Ich weiß, wovon ich spreche.</p>
@@ -1355,13 +1355,13 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="CSU" name="Johannes Singhammer">
+        <sp who="Johannes Singhammer" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Johannes Singhammer" party="CSU" name="Johannes Singhammer">
           <speaker>Vizepräsident Johannes Singhammer:</speaker>
           <p>Vielen Dank für diesen guten Wunsch. – Damit schließe ich die Aussprache zu diesem Tagesordnungspunkt.</p>
           <p>Interfraktionell wird Überweisung der Vorlagen auf den Drucksachen 18/5326 und 18/5200 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. – Weil sich keinerlei Widerspruch erhebt, gehe ich davon aus, dass Sie alle damit einverstanden sind und die Überweisungen so beschlossen sind.</p>
           <p>Ich rufe jetzt den Tagesordnungspunkt 35 auf:</p>
           <p>Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes für sichere digitale Kommunikation und Anwendungen im Gesundheitswesen</p>
-          <p>Drucksache 18/5293 </p>
+          <p>Drucksache 18/5293</p>
           <p>Überweisungsvorschlag:</p>
           <p>Ausschuss für Gesundheit (f)</p>
           <p>Innenausschuss</p>
@@ -1373,7 +1373,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="4" what="debate" desc="Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes...">
-        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" party="CDU" name="Annette Widmann-Mauz">
+        <sp who="Annette Widmann-Mauz" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin beim Bundesminister für Gesundheit" who_original="Annette Widmann-Mauz" party="CDU" name="Annette Widmann-Mauz">
           <speaker>Annette Widmann-Mauz, Parl. Staatssekretärin beim Bundesminister für Gesundheit:</speaker>
           <p>Herr Präsident! Liebe Kolleginnen! Liebe Kollegen! Ich freue mich, dass wir als vorletzten Tagesordnungspunkt vor der Sommerpause über den Regierungsentwurf eines E-Health-Gesetzes sprechen. Es mag zwar der vorletzte Tagesordnungspunkt sein, aber das ist eher Understatement; denn in Wirklichkeit geht es um eines der anspruchsvollsten IT-Projekte der Gegenwart. Manche sprechen sogar vom größten IT-Projekt weltweit, und das, meine lieben Kolleginnen und Kollegen, aus gutem Grund; denn wir wollen in Deutschland eine umfassende Infrastruktur schaffen, die einen sicheren elek-tronischen Datenaustausch im Gesundheitswesen ermöglicht.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
@@ -1397,7 +1397,7 @@
           <p>Uns ist es ernst. Wir wollen mit diesem E-Health-Gesetz einen Durchbruch erreichen. Ich werbe um Ihre Unterstützung für dieses einzigartige Projekt.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Frau Kollegin Widmann-Mauz. – Einen schönen Nachmittag von meiner Seite, liebe Kolleginnen und Kollegen.</p>
           <stage type="interjection">(Jörn Wunderlich [DIE LINKE]: Gleichfalls, Frau Präsidentin!)</stage>
@@ -1407,7 +1407,7 @@
           <p>Pia Zimmermann ist die nächste Rednerin für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Pia Zimmermann" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Pia-Beate Zimmermann">
+        <sp who="Pia Zimmermann" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Pia Zimmermann" party="DIE LINKE" name="Pia Zimmermann">
           <speaker>Pia Zimmermann (DIE LINKE):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Sehr geehrte Damen und Herren! Mit Ihrem Gesetzentwurf verbessern Sie nicht primär die gesundheitliche Versorgung der Patientinnen und Patienten, mit Ihrem Gesetz wollen Sie vielmehr das Gesundheitswesen stärker ökonomisieren. Das lehnen wir als Linke grundsätzlich ab.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -1435,43 +1435,43 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN – Maik Beermann [CDU/CSU]: Ganz sicher nicht!)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Pia Zimmermann. – Nächster Redner in der Debatte: Dirk Heidenblut für die SPD.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dirk Heidenblut" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dirk Heidenblut">
+        <sp who="Dirk Heidenblut" parliamentary_group="SPD" role="mp" position="NA" who_original="Dirk Heidenblut" party="SPD" name="Dirk Heidenblut">
           <speaker>Dirk Heidenblut (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Meine sehr geehrten Damen und Herren! Eines möchte ich gleich zu Beginn klarstellen: Wir werden natürlich nichts zurückziehen, und wir werden auch nichts einmotten.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
           <p>Ganz im Ernst: Wer angesichts einer Infrastruktur, über die wir uns – ich bedaure das durchaus – seit über zehn Jahren Gedanken machen – wir machen uns vor allem Gedanken über die Sicherheit –, mit dem Vorwurf kommt, wir würden fahrlässig Gesundheits- und Patientendaten in irgendwelche Netze speisen, den kann man nicht für voll nehmen. Das tut mir furchtbar leid, aber das ist natürlich Kokolores. Insofern werden wir das auch nicht tun.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Herr Kollege Heidenblut, erlauben Sie eine Zwischenfrage oder -bemerkung der Kollegin Vogler?</p>
         </sp>
-        <sp who="Dirk Heidenblut" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dirk Heidenblut">
+        <sp who="Dirk Heidenblut" parliamentary_group="SPD" role="mp" position="NA" who_original="Dirk Heidenblut" party="SPD" name="Dirk Heidenblut">
           <speaker>Dirk Heidenblut (SPD):</speaker>
           <p>Bitte sehr.</p>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Wir wollen rechtzeitig fertig werden, aber es ist Ihr Recht, Frau Vogler.</p>
         </sp>
-        <sp who="Dirk Heidenblut" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dirk Heidenblut">
+        <sp who="Dirk Heidenblut" parliamentary_group="SPD" role="mp" position="NA" who_original="Dirk Heidenblut" party="SPD" name="Dirk Heidenblut">
           <speaker>Dirk Heidenblut (SPD):</speaker>
           <p>Hätte ich Nein sagen sollen?</p>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Nein, um Gottes Willen, ich mische mich nicht ein.</p>
         </sp>
-        <sp who="Kathrin Vogler" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Kathrin Vogler">
+        <sp who="Kathrin Vogler" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Kathrin Vogler" party="DIE LINKE" name="Kathrin Vogler">
           <speaker>Kathrin Vogler (DIE LINKE):</speaker>
           <p>Herr Kollege Heidenblut, wir haben doch erst kürzlich im Fernsehen bewundern dürfen, wie einfach es ist, sich mit öffentlich erhältlichen Daten aus dem Callcenter einer Krankenkasse Zugang zu den Versichertendaten einer anderen Person zu beschaffen, sich eine falsche elektronische Gesundheitskarte ausstellen zu lassen und damit sogar auch noch Einsicht in die Rentenunterlagen zu nehmen. Meinen Sie nicht auch, dass das zumindest ein Anlass hätte sein können, in dieser Debatte ein bisschen nachdenklicher aufzutreten und noch einmal zu überlegen, ob Sie da tatsächlich auf dem richtigen Weg sind?</p>
         </sp>
-        <sp who="Dirk Heidenblut" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Dirk Heidenblut">
+        <sp who="Dirk Heidenblut" parliamentary_group="SPD" role="mp" position="NA" who_original="Dirk Heidenblut" party="SPD" name="Dirk Heidenblut">
           <speaker>Dirk Heidenblut (SPD):</speaker>
           <p>Wenn Menschen durch betrügerische oder andere Maßnahmen versuchen, sich Zugang wozu auch immer zu verschaffen, dann ist das ein Anlass, darüber nachzudenken, wie man dafür sorgt, dass sie das a) nicht mehr können und dass man b) ihrer entsprechend habhaft wird, damit man sie dafür bestrafen kann.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -1501,11 +1501,11 @@
           <p>Ich bedanke mich für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Kollege Heidenblut. – Nächste Rednerin in der Debatte: Maria Klein-Schmeink für Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Maria Klein-Schmeink" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Maria Klein-Schmeink">
+        <sp who="Maria Klein-Schmeink" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Maria Klein-Schmeink" party="GRUENE" name="Maria Klein-Schmeink">
           <speaker>Maria Klein-Schmeink (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Liebe Präsidentin! Liebe Kollegen! Anders als die Linke begrüßen wir die Vorlage dieses Gesetzentwurfs,</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der CDU/CSU und der SPD)</stage>
@@ -1518,21 +1518,21 @@
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Trotz der Tatsache, dass viele richtige Dinge im Gesetz stehen und in dem Sinne auch die Telematikinfrastruktur ein Stück weit vorangebracht wird, muss man sagen: Es gibt eine große Lücke. Diese hat damit zu tun, dass die Position der Patienten und der Versicherten, was ihre Zugriffsrechte auf die eGK und den Austausch von Informationen angeht, noch nicht entscheidend gestärkt wird. Das wiederum hat damit zu tun, dass sie nach der jetzigen Konstruktion eigentlich keinen wirklichen Anwalt haben. Auch die Gematik und die Bundesregierung erfüllten diese Aufgabe nicht. Das muss man an dieser Stelle einmal sagen. Da müssen wir nachlegen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
-          <p>Ich meine, wir sollten auch gezielt darüber nachdenken, ob es nicht so etwas wie die Einbeziehung der Pa-tientenorganisationen in dieses Setting geben muss, damit die patienten- bzw. versichertenbezogenen Anwendungen berücksichtigt werden. Dabei geht es darum, dass die Patienten selbst wirklich entscheiden kämen: Wer hat Zugriff auf welche Daten? Welche macht man im E Kiosk öffentlich und welche nicht? Es sollte dafür gesorgt werden, dass das überhaupt vorangebracht wird. Von daher wäre das, meine ich, ein wichtiger Punkt, der im Gesetzgebungsverfahren eine Rolle spielen sollte.</p>
+          <p>Ich meine, wir sollten auch gezielt darüber nachdenken, ob es nicht so etwas wie die Einbeziehung der Pa-tientenorganisationen in dieses Setting geben muss, damit die patienten- bzw. versichertenbezogenen Anwendungen berücksichtigt werden. Dabei geht es darum, dass die Patienten selbst wirklich entscheiden kämen: Wer hat Zugriff auf welche Daten? Welche macht man im E-Kiosk öffentlich und welche nicht? Es sollte dafür gesorgt werden, dass das überhaupt vorangebracht wird. Von daher wäre das, meine ich, ein wichtiger Punkt, der im Gesetzgebungsverfahren eine Rolle spielen sollte.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU)</stage>
           <p>Ich komme zu einer weiteren großen Lücke. Sie betrifft die Einbeziehung anderer Dienstleister, die im IT-Bereich überhaupt nicht zu vermeiden ist. Wie stellen wir sicher, dass sich diese Dienstleister wirklich an die hohen Anforderungen des Sozialdatenschutzes halten? Wie stellen wir sicher, dass die Daten nicht in irgendeiner Weise woandershin abfließen? Wie stellen wir sicher, dass, wenn beispielsweise eine Firma pleitegeht, die Daten nicht Gegenstand anderer Verfahren werden? Wir brauchen also ein Nachsteuern beim Sozialdatenschutz, gerade auch was die von außen agierenden Dienstleister anbelangt. Auch das ist aus meiner Sicht bisher nicht im Gesetz enthalten. Da muss nachgeliefert werden.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
-          <p>Die Gesundheits-Apps wurden schon angesprochen. Auch da hat sich ein breiter Markt entwickelt. Die Techniker Krankenkasse hat jetzt gerade eine Studie vorgelegt. Danach gibt es fast 400 000 gesundheitsbezogene Apps. Niemand aber weiß, ob sie wirklich sicher sind, ob die Ergebnisse, die dort vielleicht nur vorgetäuscht werden, tatsächlich haltbar sind. Und es ist die Frage, ob sie in der Telemedizin Anwendung finden sollten. Auch dazu fehlt bisher jegliche Regelung, die dazu führen könnte, dass wir es schaffen, diese externen Angebote bestimmten Sicherheits , aber auch Produkt- und Qualitätsstandards zu unterwerfen. Auch das muss passieren.</p>
+          <p>Die Gesundheits-Apps wurden schon angesprochen. Auch da hat sich ein breiter Markt entwickelt. Die Techniker Krankenkasse hat jetzt gerade eine Studie vorgelegt. Danach gibt es fast 400 000 gesundheitsbezogene Apps. Niemand aber weiß, ob sie wirklich sicher sind, ob die Ergebnisse, die dort vielleicht nur vorgetäuscht werden, tatsächlich haltbar sind. Und es ist die Frage, ob sie in der Telemedizin Anwendung finden sollten. Auch dazu fehlt bisher jegliche Regelung, die dazu führen könnte, dass wir es schaffen, diese externen Angebote bestimmten Sicherheits-, aber auch Produkt- und Qualitätsstandards zu unterwerfen. Auch das muss passieren.</p>
           <p>Ich glaube, das sind die großen Herausforderungen, die durch dieses Gesetz bisher noch nicht bewältigt werden. Von daher bin ich gespannt, wie die Debatte im Herbst weitergehen wird.</p>
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Maria Klein-Schmeink. – Nächste Rednerin ist Dr. Katja Leikert für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Katja Leikert" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Katja Leikert">
+        <sp who="Katja Leikert" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Katja Leikert" party="CDU" name="Katja Leikert">
           <speaker>Dr. Katja Leikert (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Liebe Gäste! Vor anderthalb Jahren hat der Gesundheitsausschuss seine Arbeit aufgenommen. Da war mit Blick auf die Digitalisierung im Gesundheitswesen noch keine größere Bewegung abzusehen. Wenn Frau Zimmermann – wir haben ihr ja gerade zugehört – hier regieren würde, würde sich auf diesem Gebiet auch weiterhin gar nichts tun. Dann gäbe es – vor lauter Rückwärtsgewandtheit, die Sie hier an den Tag gelegt haben – bestimmt auch keinen elektronischen Bankenverkehr.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU – Zuruf der Abg. Pia Zimmermann [DIE LINKE])</stage>
@@ -1540,21 +1540,21 @@
           <p>Die elektronische Gesundheitskarte, die wahrscheinlich viele von Ihnen im Portemonnaie haben, kann – das wissen Sie auch – nicht besonders viel bisher, die „weiß“ in der Regel, wo Sie wohnen und bei welcher Krankenkasse Sie versichert sind. Darüber hinaus beinhaltet sie neuerdings auch ein Foto zur Identifizierung; aber sonst, wie gesagt, hat sie keine weitere Anwendung.</p>
           <p>Wenn wir uns weiter in unserem Gesundheitswesen umschauen, dann stellen wir fest, dass auch viele andere wichtige Dokumente noch in Papierform vorliegen. Vielleicht kennen Sie die Kampagne der Bundeszentrale für gesundheitliche Aufklärung „Deutschland sucht den Impfpass“, wo jemand auf der Suche nach dem Impfpass in den Umzugskarton klettert. Das ist das, was wir nicht wollen. Wir wollen, dass die Menschen ihre Impfpässe nicht mehr suchen müssen, sondern diese Daten langfristig vom Smartphone beispielsweise oder am Computer daheim abrufen können. Das ist das, was wir – Frau Klein-Schmeink hat es angesprochen – unter Patientensouveränität auch verstehen.</p>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Frau Kollegin, entschuldigen Sie bitte: Erlauben Sie eine Zwischenfrage oder –bemerkung von Frau Vogler?</p>
         </sp>
-        <sp who="Dr. Katja Leikert" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Katja Leikert">
+        <sp who="Katja Leikert" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Katja Leikert" party="CDU" name="Katja Leikert">
           <speaker>Dr. Katja Leikert (CDU/CSU):</speaker>
           <p>Ja, gern.</p>
         </sp>
-        <sp who="Kathrin Vogler" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Kathrin Vogler">
+        <sp who="Kathrin Vogler" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Kathrin Vogler" party="DIE LINKE" name="Kathrin Vogler">
           <speaker>Kathrin Vogler (DIE LINKE):</speaker>
           <p>Vielen Dank, Frau Kollegin, dass Sie meine Zwischenbemerkung zulassen. – Ich konnte jetzt nicht mehr anders, weil ich finde, der Impfpass ist nun wirklich ein ausgesprochen blödes Beispiel für eine mögliche nutzbringende Anwendung der elektronischen Gesundheitskarte. Den Impfpass benötigt nämlich nicht nur der, der bei einer gesetzlichen Krankenkasse versichert ist, sondern auch, wer privat versichert ist. Man benötigt ihn nicht nur in Deutschland, sondern vor allem auch, wenn man ins Ausland reist. Da nützt es überhaupt nichts, wenn die Daten in Deutschland in einer elektronischen Telematikinfrastruktur gespeichert sind. Damit kann man in anderen EU-Ländern und erst recht im ferneren Ausland überhaupt nichts anfangen.</p>
           <p>Es handelt sich aber um wichtige Dokumente, um Urkunden, in denen ein Arzt mir bescheinigt – das muss ich in manchen Ländern bei der Einreise belegen –, dass ich gegen bestimmte Krankheiten geimpft bin. Von daher ist es wirklich ein untaugliches Beispiel.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Katja Leikert" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Katja Leikert">
+        <sp who="Katja Leikert" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Katja Leikert" party="CDU" name="Katja Leikert">
           <speaker>Dr. Katja Leikert (CDU/CSU):</speaker>
           <p>Ich denke mal, die Frage spricht für sich selbst. Wenn wir uns gerade die Masernepidemie vor kurzem hier in Berlin vor Augen führen, bin ich mir nicht sicher, ob jeder über seinen Impfstatus auf dem Laufenden ist und ob dieses Heftchen, das so aussieht, als ob es aus den 70er-Jahren stammt, wirklich noch ein aktuelles Medium ist, um sich über den eigenen Impfstatus zu informieren. Insofern kann ich Ihre Argumentation nicht teilen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten bei der CDU/CSU sowie bei Abgeordneten der SPD und der Abg. Kordula Schulz-Asche [BÜNDNIS 90/DIE GRÜNEN])</stage>
@@ -1563,7 +1563,7 @@
           <p>Das sind nur ganz wenige Beispiele dafür, warum die Digitalisierung unseres Gesundheitswesens Sinn macht.</p>
           <p>Annette Widmann-Mauz hat schon ausgeführt, was der Gesetzentwurf im Detail vorsieht. Der schnelle Aufbau der Telematikinfrastruktur ist wichtig, damit es ein sicheres Netz gibt. Die Anwendungen wurden schon skizziert.</p>
           <p>Dass wir uns natürlich noch ein paar andere Dinge vorstellen können, haben wir an unterschiedlicher Stelle schon debattiert. Ein ganz zentraler Punkt für uns ist das Thema Interoperabilität. Wir finden, dass wir viel von dem übernehmen können, was schon vorhanden ist. International etablierte Standards für das gesamte System verbindlich festzulegen, macht aus unserer Sicht wirklich Sinn.</p>
-          <p>Daneben haben wir schon viele andere Anwendungen besprochen, vom E Rezept – das ich ganz praktisch finde – über den E-Mutterpass bis hin zu den Heften für die Untersuchungen der Kinder; das alles könnte in elektronischer Form vorliegen.</p>
+          <p>Daneben haben wir schon viele andere Anwendungen besprochen, vom E-Rezept – das ich ganz praktisch finde – über den E-Mutterpass bis hin zu den Heften für die Untersuchungen der Kinder; das alles könnte in elektronischer Form vorliegen.</p>
           <p>Ganz wichtig ist auch, dass auf der elektronischen Gesundheitskarte – ich bin Berichterstatterin für das Thema Organspende – auch die Organspendebereitschaft vermerkt werden kann. Dieses Thema liegt mir sehr am Herzen, und ich setze mich gerne dafür ein.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
           <p>Daneben sind weitere Abrechnungsziffern im Bereich der telemedizinischen Anwendung wichtig. Herr Heidenblut hat das ja schon auf den Punkt gebracht.</p>
@@ -1574,12 +1574,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Frau Kollegin Dr. Leikert. – Nächster Redner: Dr. Edgar Franke für die SPD.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Edgar Franke" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Edgar Franke">
+        <sp who="Edgar Franke" parliamentary_group="SPD" role="mp" position="NA" who_original="Edgar Franke" party="SPD" name="Edgar Franke">
           <speaker>Dr. Edgar Franke (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Die medizinische Kommunikation – wir haben es eben mehrfach gehört – muss endlich in das digitale Zeitalter überführt werden. Mancher Arzt zeigt mir zwar immer noch stolz seinen Zettelkasten aus Holz und sagt, das sei der beste Datenschutz, aber ich glaube, diese Form der Datenaufbewahrung sollte endlich der Vergangenheit angehören.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
@@ -1609,17 +1609,17 @@
           <p>Ich möchte zum Schluss einen weiteren Punkt ganz kurz ansprechen; ganz kurz deshalb, weil Telemedizin bei uns schon lange ein Thema ist. Telemedizin ist gerade bei der gesundheitlichen Versorgung auf dem Land ein wichtiges Thema, das Innovationen mit sich bringt. Es führt letztlich zu einer Verbesserung der Versorgung, weil Patientinnen und Patienten mithilfe der Telemedizin von der Praxis aus in ihrer häuslichen Umgebung betreut werden können. Der persönliche Arzt-Patienten-Kontakt ist zwar wichtig, aber manchmal geht das auf dem Land nicht. Die Technik erleichtert hier die Betreuung.</p>
           <p>Über Videokonsultationen und auch technische Assistenz für nichtärztliches Personal können wir im Rahmen des Innovationsfonds sprechen.</p>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Aber das machen wir nicht heute.</p>
         </sp>
-        <sp who="Dr. Edgar Franke" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Edgar Franke">
+        <sp who="Edgar Franke" parliamentary_group="SPD" role="mp" position="NA" who_original="Edgar Franke" party="SPD" name="Edgar Franke">
           <speaker>Dr. Edgar Franke (SPD):</speaker>
           <p>Ich komme zum Schluss. – Im Bereich Telemedizin und auch im digitalen Bereich der Gesundheitswirtschaft dürfen wir die Zukunft nicht verschlafen; die Gefahr besteht nämlich. Da gibt es riesige Potenziale für Innovationen in der Versorgung von Patienten. Der Einsatz – Frau Präsidentin, mein letzter Satz – von digitaler Informationstechnologie verbessert nicht nur die Qualität der Versorgung, sondern sichert auch den Wirtschaftsstandort Deutschland und ist von herausragender Bedeutung. Insofern ist das ein wirklich gutes Gesetz und bringt Deutschland voran. Mit diesem Gesetz wird alles gut.</p>
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Danke, Herr Kollege Franke. – Wir im Präsidium waren uns etwas unsicher. Sie haben gesagt, Sie bekämen einen Hals wie wer? Wir haben nicht verstanden, was danach kam.</p>
           <stage type="interjection">(Dr. Edgar Franke [SPD]: Einen Hals wie eine Kobra!)</stage>
@@ -1628,7 +1628,7 @@
           <p>Gut, da wir haben wieder etwas gelernt: 400 000 Apps und die Sache mit dem Kobrahals. – Letzter Redner in dieser Debatte: Maik Beermann für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Maik Beermann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Maik Beermann">
+        <sp who="Maik Beermann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Maik Beermann" party="CDU" name="Maik Beermann">
           <speaker>Maik Beermann (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! Ich bin sehr froh, dass ich nicht nur in einer innovationsfreundlichen Partei mitarbeiten darf, sondern bei diesem Thema auch in einer innovationsfreundlichen Koalition.</p>
           <stage type="interjection">(Maria Klein-Schmeink [BÜNDNIS 90/DIE GRÜNEN]: Hören Sie mal! Sie waren zehn Jahre an der Macht!)</stage>
@@ -1656,7 +1656,7 @@
           <p>Vielen Dank für die Aufmerksamkeit. Ich wünsche Ihnen allen eine erholsame und schöpferische parlamentarische Sommerpause.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Herr Kollege Beermann. Das wünschen wir Ihnen auch, das Schöpferische und das Erholsame.</p>
           <p>Ich schließe die Aussprache.</p>
@@ -1671,14 +1671,14 @@
           <p>Ausschuss für Familie, Senioren, Frauen und Jugend</p>
           <p>b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss) zu dem Antrag der Abgeordneten Harald Weinberg, Birgit Wöllert, Sabine Zimmermann (Zwickau), weiterer Abgeordneter und der Fraktion DIE LINKE</p>
           <p>Private Krankenversicherung als Vollversicherung abschaffen – Hochwertige und effiziente Versorgung für alle</p>
-          <p>Drucksachen 18/4099, 18/5354 </p>
+          <p>Drucksachen 18/4099, 18/5354</p>
           <p>Nach einer interfraktionellen Vereinbarung sind für die Aussprache 38 Minuten vorgesehen. – Ich höre und sehe keinen Widerspruch. Dann ist das so beschlossen.</p>
           <p>Dann hat die erste Rednerin das Wort, und das ist Pia Zimmermann für die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
       </div>
       <div type="agenda_item" n="5" what="debate" desc="a) Beratung des Antrags der Abgeordneten Pia Zimmermann, Harald Weinberg, Sabine...">
-        <sp who="Pia Zimmermann" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Pia-Beate Zimmermann">
+        <sp who="Pia Zimmermann" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Pia Zimmermann" party="DIE LINKE" name="Pia Zimmermann">
           <speaker>Pia Zimmermann (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Personalmangel, Arbeitsverdichtung, Burn-out, das sind Schlagworte, die mit der Pflege in diesem Land asso-ziiert werden. Wundliegen, keine Zeit für Gespräche, „im Minutentakt gepflegt werden“ prägen die Erfahrungen von Menschen mit Pflegebedarf. Überlastung, ein permanentes Hin-und-her-gerissen-Sein zwischen dem eigenen Lebensentwurf sowie den Sorgen und Nöten geliebter Menschen, damit kämpfen pflegende Angehörige. Dass dies Begriffe und Bilder sind, die vielen beim Thema Pflege einfallen, ist ein Armutszeugnis.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -1713,12 +1713,12 @@
           <p>Herzlichen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Kollegin Zimmermann. – Nächster Redner in der Debatte: Thomas Stritzl für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Thomas Stritzl" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Thomas Stritzl">
+        <sp who="Thomas Stritzl" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Thomas Stritzl" party="CDU" name="Thomas Stritzl">
           <speaker>Thomas Stritzl (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren!</p>
           <stage type="interjection">(Mechthild Rawert [SPD]: Er hat eine App!)</stage>
@@ -1741,12 +1741,12 @@
           <p>Es ist doch ganz einfach: Wenn die Sonne scheint und lacht, dann hat’s die CDU gemacht.</p>
           <stage type="interjection">(Heiterkeit und Beifall bei der CDU/CSU – Heiterkeit bei der SPD – Lachen bei der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Erlauben Sie Zwischenbemerkungen von den restlichen Fraktionen hier im Haus?</p>
           <stage type="interjection">(Mechthild Rawert [SPD]: Lieber nicht! Es brennt! Das geht auch ins Gehirn!)</stage>
         </sp>
-        <sp who="Thomas Stritzl" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Thomas Stritzl">
+        <sp who="Thomas Stritzl" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Thomas Stritzl" party="CDU" name="Thomas Stritzl">
           <speaker>Thomas Stritzl (CDU/CSU):</speaker>
           <p>Jederzeit. Das tut ja der Wahrheit keinen Abbruch.</p>
           <stage type="interjection">(Zuruf des Abg. Dr. Edgar Franke [SPD])</stage>
@@ -1785,20 +1785,20 @@
           <stage type="interjection">(Kathrin Vogler [DIE LINKE]: Genau so ist es!)</stage>
           <p>Das muss man sich einmal auf der Zunge zergehen lassen. Ich bin, ehrlich gesagt, etwas zusammengezuckt, als ich dieses Wording las. Ich hatte gehofft, wir wären gemeinsam ein Stück weiter.</p>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Auch wenn Sie uns die Sonne schenken: Kommen Sie zum Schluss!</p>
         </sp>
-        <sp who="Thomas Stritzl" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Thomas Stritzl">
+        <sp who="Thomas Stritzl" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Thomas Stritzl" party="CDU" name="Thomas Stritzl">
           <speaker>Thomas Stritzl (CDU/CSU):</speaker>
           <p>Frau Präsidentin, selbstverständlich folge ich Ihrem Rat, muss meine Rede dann abkürzen.</p>
           <stage type="interjection">(Heiterkeit beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Das ist mehr als ein Rat.</p>
         </sp>
-        <sp who="Thomas Stritzl" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Thomas Stritzl">
+        <sp who="Thomas Stritzl" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Thomas Stritzl" party="CDU" name="Thomas Stritzl">
           <speaker>Thomas Stritzl (CDU/CSU):</speaker>
           <p>Lassen Sie mich im Ergebnis sagen: Ein System der dualen Krankenversicherung, das sich national und international bewährt hat, das das leistungsfähigste im internationalen Vergleich ist, soweit wir es wissen – –</p>
           <stage type="interjection">(Pia Zimmermann [DIE LINKE]: Das ist international aber nicht gut unterwegs! Gucken Sie sich das mal in den skandinavischen Ländern an!)</stage>
@@ -1809,11 +1809,11 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Danke, Herr Stritzl. – Nächste Rednerin: Elisabeth Scharfenberg für Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Elisabeth Scharfenberg" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Elisabeth Scharfenberg">
+        <sp who="Elisabeth Scharfenberg" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Elisabeth Scharfenberg" party="GRUENE" name="Elisabeth Scharfenberg">
           <speaker>Elisabeth Scharfenberg (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Sehr geehrte Frau Staatssekretärin! Herr Laumann! Sehr geehrte Damen und Herren! Ich möchte gern ein Dankeschön an die Kolleginnen und Kollegen der Linksfraktion sagen. Es ist gut, dass wir vor der Sommerpause noch einmal die Gelegenheit haben, über die Pflege zu reden. Es geht nicht darum, bemüht Bilder über Beipackzettel im Bereich der Pflegeversicherung zu finden oder Slapstickeinlagen über den Einfluss der CDU aufs Wetter zu bringen. Das macht die CDU manchmal, aber ansonsten: negativ im Bereich des Klimawandels, Herr Stritzl.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
@@ -1847,12 +1847,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, liebe Elisabeth Scharfenberg, und auch Danke für die Punktlandung, auf die Sekunde. Schauen wir mal, wie es weitergeht. – Mechthild Rawert von der SPD ist die nächste Rednerin.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Mechthild Rawert" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Mechthild Rawert">
+        <sp who="Mechthild Rawert" parliamentary_group="SPD" role="mp" position="NA" who_original="Mechthild Rawert" party="SPD" name="Mechthild Rawert">
           <speaker>Mechthild Rawert (SPD):</speaker>
           <p>Ich nehme zunächst Bezug auf die Rede von Frau Zimmermann. Auch ich habe den Worten Taten folgen lassen. Ich stehe an der Seite der Pflegenden. Ich war in Straßburg die Nummer 29 299 und habe von dort aus für die Interessen der Pflegenden in Krankenhäusern bei der Protestaktion „162000 für 162000“ gestreikt.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD – Rudolf Henke [CDU/CSU]: Wie kann denn eine Bundestagsabgeordnete streiken?)</stage>
@@ -1873,12 +1873,12 @@
           <p>Liebe Kollegen, ich diskutiere immer gerne mit allen über die Bürgerversicherung; denn wir stehen als Sozialdemokratie für eine gerechte und nachhaltige Entwicklung der sozialen Sicherungssysteme. Eines ist ja klar: Es ist richtig, immer wieder auf die zu erwartende Ausgabenentwicklung im Sozialversicherungsbereich zu schauen. Es ist richtig, die demografische und soziale Entwicklung im Auge zu behalten, sowohl die wachsende Zahl der Pflegebedürftigen als auch die Entwicklung hinsichtlich der Schweregrade. Aber ich sage noch eines: Das betrifft auch die Inanspruchnahme professioneller Dienste, die im Vergleich zu dem, was die Familien erhalten, die derzeit das Pflegegeld in Anspruch nehmen, teurer sind. Das gewandelte Rollenverständnis innerhalb der Familien wird dazu führen, dass es zu einer weiteren Verschiebung zugunsten der professionellen Dienste kommen wird. Auch das gilt es langfristig, dauerhaft, nachhaltig und vor allen Dingen solidarisch zu finanzieren. Die soziale Bürgerversicherung steht also für eine nachhaltige Pflegepolitik. Wir fangen selbstverständlich aber jetzt, in dieser Koalition, schon einmal mit den Taten an – insofern machen wir auch nicht zu wenig – und sorgen selbstverständlich auch noch für die nachhaltige Finanzierung in der Zukunft. Eines ist klar: Die SPD bleibt am Ball.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Mechthild Rawert. – Bezüglich Feiertagen empfehle ich Augsburg; denn wir haben die meisten.</p>
           <p>Nächster Redner – auch aus einem sonnenreichen Land, wo nicht nur die CSU für die Sonne zuständig ist –: Erich Irlstorfer für die CDU/CSU-Fraktion.</p>
         </sp>
-        <sp who="Erich Irlstorfer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Erich Irlstorfer">
+        <sp who="Erich Irlstorfer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Erich Irlstorfer" party="CSU" name="Erich Irlstorfer">
           <speaker>Erich Irlstorfer (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen! Liebe Kollegen! Bei einer so sonnigen Präsidentin macht es einfach eine Freude, hier zu reden; das muss man einmal ganz klar sagen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -1909,12 +1909,12 @@
           <p>Ihnen allen wünsche ich einen schönen Sommer, frei nach dem Motto von Karl Valentin: „Gar nicht krank ist auch nicht gesund.“ In diesem Sinne: danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vergelts Gott, Erich Irlstorfer. – Nächste Rednerin: Heike Baehrens für die SPD.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Heike Baehrens" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Heike Baehrens">
+        <sp who="Heike Baehrens" parliamentary_group="SPD" role="mp" position="NA" who_original="Heike Baehrens" party="SPD" name="Heike Baehrens">
           <speaker>Heike Baehrens (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Sehr geehrte Damen und Herren! Was erwarten die Bürgerinnen und Bürger von unserem Gesundheitssystem? Sie wollen die Gewissheit haben, dass sie, wenn sie krank werden, an ihrem Wohnort die bestmögliche medizinische und pflegerische Versorgung bekommen.</p>
           <stage type="interjection">(Pia Zimmermann [DIE LINKE]: Fernseher anmachen!)</stage>
@@ -1946,12 +1946,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Heike Baehrens. – Der letzte Redner in dieser Debatte und am heutigen Tag – schauen wir einmal, für wie lange – ist Erwin Rüddel für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU – Mechthild Rawert [SPD]: Aber nur begrenzt!)</stage>
         </sp>
-        <sp who="Erwin Rüddel" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Erwin Rüddel">
+        <sp who="Erwin Rüddel" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Erwin Rüddel" party="CDU" name="Erwin Rüddel">
           <speaker>Erwin Rüddel (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine Damen und Herren! Der Begriff „Bürgerversicherung“ ist mehrfach gefallen. Ich glaube, es gibt sehr unterschiedliche Fantasien darüber, wie die Bürgerversicherung ausgestaltet werden soll. Ein schlüssiges Konzept ist mir noch nicht vorgelegt worden,</p>
           <stage type="interjection">(Mechthild Rawert [SPD]: Wir geben Ihnen das mal aus dem letzten Wahlkampf!)</stage>
@@ -1983,7 +1983,7 @@
           <p>Ich wünsche allen einen sonnigen Sommer.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Kollege Rüddel. – Ich schließe die Aussprache.</p>
           <p>Interfraktionell wird Überweisung der Vorlage auf Drucksache 18/5110 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. – Sie sind damit einverstanden. Dann ist die Überweisung so beschlossen.</p>
@@ -1994,6 +1994,7 @@
           <p>ich wünsche der Regierung, mit der wir ein mehr oder weniger gutes Verhältnis pflegen, ich wünsche unseren Gästen auf der Tribüne verdiente Sommertage, Ruhe, Entspannung. Ich wünsche uns friedliche Tage. Ich wünsche uns Sonne, auch wenn es regnet.</p>
           <p>Das ist jetzt schwierig – ich muss die nächste Sitzung einberufen –: Ich berufe die nächste reguläre Sitzung des Deutschen Bundestages auf Dienstag, den 8. September 2015, 10 Uhr, ein.</p>
           <p>Die Sitzung ist geschlossen. Vielleicht sehen wir uns ja schon früher. Alles, alles Gute und einen guten Sommer!</p>
+          <stage type="interjection">(Schluss: 14.33 Uhr)</stage>
         </sp>
       </div>
     </body>

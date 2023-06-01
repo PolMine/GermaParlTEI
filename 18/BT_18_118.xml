@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-07</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://www.bundestag.de/blob/385856/738ac5be91acf3c06f19896f7f992eb2/18118-data.txt</url>
-        <date>2015-10-20 20:01:23</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -35,8 +35,8 @@
   </teiHeader>
   <text>
     <body>
-      <div type="agenda_item" n="1" what="1" desc="1">
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+      <div type="agenda_item" n="1" what="government_declaration" desc="a) Abgabe einer Regierungserklärung durch den Bundesminister der Finanzen">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Nehmen Sie bitte Platz. Die Sitzung ist eröffnet.</p>
           <p>Liebe Kolleginnen und Kollegen! Ich begrüße Sie alle herzlich zur 118. Plenarsitzung des Deutschen Bundestages. Die heutige Sitzung habe ich gemäß Artikel 39 Absatz 3 Satz 2 des Grundgesetzes einberufen, und ich gehe davon aus, dass Sie nachweislich Ihrer bemerkenswert starken Anwesenheit mit der Einberufung dieser Sitzung einverstanden sind. Die Unvermeidlichkeit war ja auch hinreichend gut erkennbar.</p>
@@ -51,7 +51,7 @@
           <p>Das Wort zur Abgabe einer Regierungserklärung hat der Bundesminister der Finanzen, Wolfgang Schäuble.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Wolfgang Schäuble" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" party="CDU" name="Wolfgang Schäuble">
+        <sp who="Wolfgang Schäuble" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" who_original="Wolfgang Schäuble" party="CDU" name="Wolfgang Schäuble">
           <speaker>Dr. Wolfgang Schäuble, Bundesminister der Finanzen:</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Die Entscheidung über ein weiteres Hilfsprogramm für Griechenland fällt nicht leicht. Die Debatten zu den Hilfen für Griechenland waren und sind aus guten Gründen streitig. Es gibt beachtliche Gründe dafür und es gibt beachtliche Gründe dagegen – ökonomische und politische; das ist unbestritten. Das liegt an der unvollständigen Konstruktion der Währungsunion, der eben eine gemeinsame Haushalts-, Finanz- und Wirtschaftspolitik fehlt. So konnten einzelne Euro-Länder Entscheidungen auf Kosten der Gemeinschaft treffen, weil Verantwortung und Haftung immer wieder auseinanderzufallen drohten.</p>
           <p>Im Zuge der Euro-Krise haben wir die Währungsunion seit 2010 stabiler gemacht: mit den neu eingeführten Regeln für den Stabilitäts- und Wachstumspakt, mit dem sogenannten Six-Pack, und mit dem Fiskalpakt. So ist es gelungen, Verantwortung und Haftung näher zusammenzuführen. Mit der Bankenunion haben wir den Teufelskreis zwischen Staatsschulden und Bankenkrisen durchbrochen. Mit gezielten Reformprogrammen haben wir die Wachstumskräfte in der Währungsunion gestärkt. Das war erfolgreich: in Irland, in Portugal, in Spanien und in Zypern. Es hat bis zum letzten Jahr auch in Griechenland funktioniert. Dabei war Griechenland von Anfang an ein außergewöhnlich schwieriger Fall.</p>
@@ -88,16 +88,16 @@
           <p>Wenn Griechenland zu seinen Vereinbarungen steht und wenn das Programm entschlossen und vollständig umgesetzt wird, dann kann die griechische Wirtschaft in den nächsten Jahren wieder wachsen. Die Chance ist gegeben. Ob sie genutzt wird, entscheiden allein die Griechen.</p>
           <p>Liebe Kolleginnen und Kollegen, wir müssen oft Entscheidungen treffen, bei denen es gute Gründe dafür und gute Gründe dagegen gibt; das ist Politik. Es ist nicht so, dass immer alle Argumente nur dafür sprechen.</p>
           <stage type="interjection">(Christine Lambrecht [SPD]: Leider!)</stage>
-          <p>Bei den meisten Entscheidungen ist es übrigens so, dass man zum Zeitpunkt der Entscheidung nicht ganz sicher sein kann, wie sich das in der Rückschau in einigen Jahren darstellen wird; wir können zukünftige Entwicklungen nicht antizipieren. Deswegen müssen wir die Argumente sorgfältig abwägen. Insofern sage ich mit allem Ernst: Wir haben uns alle Mühe gemacht, unserer Verantwortung für Europa, für europäische Solidarität gegenüber Griechenland, aber natürlich auch gegenüber dem Souverän in jedem anderen Mitgliedstaat und gegenüber den Steuerzahlern in allen Ländern der europäischen Währungsunion gerecht zu werden. </p>
+          <p>Bei den meisten Entscheidungen ist es übrigens so, dass man zum Zeitpunkt der Entscheidung nicht ganz sicher sein kann, wie sich das in der Rückschau in einigen Jahren darstellen wird; wir können zukünftige Entwicklungen nicht antizipieren. Deswegen müssen wir die Argumente sorgfältig abwägen. Insofern sage ich mit allem Ernst: Wir haben uns alle Mühe gemacht, unserer Verantwortung für Europa, für europäische Solidarität gegenüber Griechenland, aber natürlich auch gegenüber dem Souverän in jedem anderen Mitgliedstaat und gegenüber den Steuerzahlern in allen Ländern der europäischen Währungsunion gerecht zu werden.</p>
           <p>Wir wissen – darin sind wir uns alle einig –, wir brauchen aus vielen, vielen Gründen ein starkes, ein handlungsfähiges Europa, und das geht nicht ohne Verlässlichkeit, ohne Vertrauen, und das erfordert Solidarität. Ich glaube, dass ich sagen kann, dass ich nicht weniger als irgendjemand sonst um diese Entscheidung gerungen habe. Weil das so ist, kann ich Sie alle mit voller Überzeugung bitten: Stimmen Sie dem Antrag des Bundesfinanzministeriums zu.</p>
           <stage type="interjection">(Anhaltender Beifall bei Abgeordneten der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Ich eröffne die Aussprache. Erster Redner ist der Kollege Dr. Gysi für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Gregor Gysi">
+        <sp who="Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Gregor Gysi" party="DIE LINKE" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (DIE LINKE):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Bevor ich zur Euro-Krise und zu Griechenland komme, einige wenige andere außenpolitische und innenpolitische Bemerkungen:</p>
           <p>Gegen Mitarbeiterinnen und Mitarbeiter der Onlineplattform netzpolitik.org</p>
@@ -112,7 +112,7 @@
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
           <p>Meine zweite Bemerkung: Seit Jahrzehnten unterdrücken die türkischen Behörden die Kurdinnen und Kurden in der Türkei, und zwar kulturell, sozial und rechtlich.</p>
           <stage type="interjection">(Michael Grosse-Brömer [CDU/CSU]: Können Sie noch einmal die Überschrift der Debatte lesen?)</stage>
-          <p>– Ich weiß, Sie meinen, das gehört nicht zum Thema. Aber die Leute interessiert das, und das ist das Entscheidende. </p>
+          <p>– Ich weiß, Sie meinen, das gehört nicht zum Thema. Aber die Leute interessiert das, und das ist das Entscheidende.</p>
           <stage type="interjection">(Beifall bei der LINKEN – Lachen bei Abgeordneten der CDU/CSU – Sabine Weiss [Wesel I] [CDU/CSU]: Zu Griechenland nichts zu sagen, oder wie?)</stage>
           <p>Im Kampf dagegen bildete sich die PKK. Nach vielen Jahrzehnten hat endlich ein so schwieriger und wichtiger Friedensprozess begonnen, und den zerstört Erdogan gerade durch Bomben. Ich weiß, dass auch die PKK Fehler begeht, aber Erdogan begeht viel schwerwiegendere Fehler, und er ist viel mächtiger und stärker und hat deshalb ganz andere Verpflichtungen. Aber der Höhepunkt ist, dass die Bundesregierung uns bestätigen musste, dass Erdogan den „Islamischen Staat“, diese einzigartige terroristische Organisation, regelmäßig unterstützt, während die PKK die entscheidende Kämpferin gegen den „Islamischen Staat“ ist.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -190,23 +190,23 @@
           <p>Also, 100 Milliarden Euro haben wir daran verdient.</p>
           <p>Außerdem wurden bis Mitte 2015, Herr Gabriel, entgegen Ihrer Reduzierungsankündigung so viele Rüstungsexporte genehmigt wie im gesamten Jahr 2014.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege.</p>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Gregor Gysi">
+        <sp who="Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Gregor Gysi" party="DIE LINKE" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (DIE LINKE):</speaker>
           <p>Ich bin sofort fertig.</p>
           <stage type="interjection">(Michael Grosse-Brömer [CDU/CSU]: Jetzt kommt der übliche Dialog! Wir warten auf den üblichen Dialog!)</stage>
           <p>Unter den Empfängerländern befinden sich auch auspeitschende, verstümmelnde und höchst undemokratische Staaten wie Saudi-Arabien. Deutschland verdient also auch noch an jedem Krieg. Glauben Sie wirklich an eine sinnvolle Zukunft unseres Landes, wenn wir so extrem von Krisen und Kriegen profitieren? Ich nicht.</p>
           <stage type="interjection">(Beifall bei der LINKEN – Volker Kauder [CDU/CSU]: Das war aber auch nicht so bedeutend!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält nun der Kollege Thomas Oppermann für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Thomas Oppermann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Thomas Oppermann">
+        <sp who="Thomas Oppermann" parliamentary_group="SPD" role="mp" position="NA" who_original="Thomas Oppermann" party="SPD" name="Thomas Oppermann">
           <speaker>Thomas Oppermann (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Ich habe heute Gregor Gysi natürlich ganz aufmerksam zugehört. Es war wohl seine letzte oder vorletzte Rede als Frak-tionsvorsitzender.</p>
           <stage type="interjection">(Katja Kipping [DIE LINKE]: Mischen Sie sich nicht in unsere Redeplanung ein!)</stage>
@@ -227,7 +227,7 @@
           <p>Das Ergebnis zeigt: Es war absolut richtig, dass wir hier vor vier Wochen den Weg für Verhandlungen mit Griechenland frei gemacht haben.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
           <p>Zum ersten Mal seit dem Amtsantritt der Syriza--Regierung haben viele europäische Kolleginnen und Kollegen und auch Finanzminister Schäuble, die mit der griechischen Regierung direkt zu tun hatten, den Eindruck, dass diesmal nicht nur über Reformen geredet und verhandelt wird, sondern dass es auch den Willen gibt, diese Reformen umzusetzen. Ich finde, das ist ein ermutigendes Zeichen.</p>
-          <p>Auch wenn in Griechenland viele immer noch nicht restlos überzeugt sind und die Regierungspartei Syriza vor der Spaltung steht, so ist doch die ganz überwiegende Mehrheit im griechischen Parlament und auch die ganz große Mehrheit in der griechischen Bevölkerung der Meinung, dass wir lange genug gestritten haben. Jetzt haben wir uns geeinigt. </p>
+          <p>Auch wenn in Griechenland viele immer noch nicht restlos überzeugt sind und die Regierungspartei Syriza vor der Spaltung steht, so ist doch die ganz überwiegende Mehrheit im griechischen Parlament und auch die ganz große Mehrheit in der griechischen Bevölkerung der Meinung, dass wir lange genug gestritten haben. Jetzt haben wir uns geeinigt.</p>
           <p>Jetzt muss entschieden werden. Jetzt müssen die Dinge umgesetzt werden, meine Damen und Herren.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
           <p>Dafür gibt es gute Argumente. Ich finde, dieses Hilfsprogramm hat eine andere, eine neue Qualität, weil es sich in einem ganz wesentlichen Punkt von den bisherigen Programmen unterscheidet. Es ist nämlich nicht nur, wie bisher, allein auf die fiskalischen Einsparziele -fixiert, sondern es setzt erstmals auf den Umbau von Staat, Wirtschaft und Gesellschaft in Griechenland, und nur so können die vielen verschiedenen, tiefliegenden und einander wechselseitig verstärkenden Defizite dieses Landes gelöst werden.</p>
@@ -250,11 +250,11 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU – Volker Kauder [CDU/CSU]: Bei der SPD auch nicht besonders typisch, oder? – Gegenruf der Abg. Christine Lambrecht [SPD]: Kümmert euch um eure Geschlossenheit! Da habt ihr genug zu tun! – Gegenruf des Abg. Johannes Kahrs [SPD]: Kommen die alle nicht, oder? – Gegenruf des Abg. Volker Kauder [CDU/CSU]: Wer den Ärger hat, braucht für den Spott nicht zu sorgen!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Nächster Redner ist der Kollege Anton Hofreiter für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Dr. Anton Hofreiter" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Anton Hofreiter">
+        <sp who="Anton Hofreiter" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Anton Hofreiter" party="GRUENE" name="Anton Hofreiter">
           <speaker>Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Frau Merkel, Sie haben erst vor kurzem bekannt gegeben – –</p>
           <stage type="interjection">(Lachen bei der CDU/CSU)</stage>
@@ -299,12 +299,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Für die CDU/CSU-Fraktion erhält nun Volker Kauder das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Volker Kauder" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Volker Kauder">
+        <sp who="Volker Kauder" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Volker Kauder" party="CDU" name="Volker Kauder">
           <speaker>Volker Kauder (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Meine lieben Kolleginnen und Kollegen! Wenn wir uns an die letzte Sondersitzung und daran, worüber wir da diskutiert haben, um den Weg für Verhandlungen frei zu machen, erinnern, dann stellen wir fest, dass doch bei vielen eine gewisse Un-sicherheit herrschte, ob dies tatsächlich zu einem guten Ergebnis führt. Zu viel ist in den Wochen davor an Diskussionen und an Hin und Her der griechischen Regierung geschehen. Man hat deshalb durchaus Verständnis haben können, wenn einige gesagt haben: Dies kann gar nicht zu einem guten Ergebnis führen. – Wenn wir jetzt aber das Ergebnis anschauen, dann zeigt sich rückblickend, dass es richtig war, noch einmal den Versuch zu machen, diese griechische Regierung auf einen richtigen Weg zu führen.</p>
           <p>Wenn man das Ergebnis anschaut, bleiben natürlich auch Fragen. Wolfgang Schäuble hat darauf hinge-wiesen, dass die allermeisten Fragen, über die wir zu entscheiden haben – übrigens nicht nur im politischen Bereich, sondern auch in anderen Bereichen –, Abwägungsfragen sind, wo es Gründe dafür und Gründe dagegen gibt und wo es nicht hundert zu null steht. In diese Abwägung müssen die folgenden Fragen einbezogen werden: Welche Konsequenzen hat ein Verhalten, also ob ich so oder anders entscheide? Welche Möglichkeiten bietet eine Entscheidung, dem anderen doch noch einmal zu helfen, über die Hürde zu kommen, die notwendig ist? Vielleicht bietet eine solche Abwägung auch die Möglichkeit, Dinge einzubeziehen, die nicht unmittelbar etwas mit dem Gegenstand zu tun haben, um den es jetzt geht.</p>
@@ -329,12 +329,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Carsten Schneider ist der nächste Redner für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Carsten Schneider" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Carsten Schneider">
+        <sp who="Carsten Schneider (Erfurt)" parliamentary_group="SPD" role="mp" position="NA" who_original="Carsten Schneider (Erfurt)" party="SPD" name="Carsten Schneider">
           <speaker>Carsten Schneider (Erfurt) (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Ich möchte doch noch mal zu dem Thema kommen, über das wir heute abstimmen werden – nämlich die Frage der -Finanzhilfen für Griechenland in den nächsten drei Jahren –, und zu den Konsequenzen, die sich mit dieser Abstimmung verbinden.</p>
           <p>Vor vier Wochen hat der Bundestag der Regierung, dem Finanzminister einen Verhandlungsauftrag erteilt. Damals gab es ein sehr uneinheitliches Bild auch im Bundestag selbst: Ablehnung bei der Linksfraktion, bei den Grünen war es gemischt – da war alles dabei –, die Union unsicher. Es ist aber eine der ganz zentralen Fragen in dieser Legislaturperiode, wie unsere Währung, wie Europa zusammengehalten wird. Ich glaube, dass das, was wir jetzt als Ergebnis vorliegen haben, viel besser ist als das, was der Verhandlungsauftrag und die Verabredung der Staats- und Regierungschefs vom Juli vorsahen.</p>
@@ -359,11 +359,11 @@
           <p>Ich will nur einen Punkt herausgreifen: Sie haben gesagt, die Mehrwertsteuererhöhung und -vereinheitlichung für die Hotels auf den Inseln wäre wirtschaftspolitisch unsinnig.</p>
           <stage type="interjection">(Katja Kipping [DIE LINKE]: Das sind zwei Themen!)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Lieber Kollege Schneider, darf der Kollege Ernst eine Zwischenfrage stellen?</p>
         </sp>
-        <sp who="Carsten Schneider" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Carsten Schneider">
+        <sp who="Carsten Schneider (Erfurt)" parliamentary_group="SPD" role="mp" position="NA" who_original="Carsten Schneider (Erfurt)" party="SPD" name="Carsten Schneider">
           <speaker>Carsten Schneider (Erfurt) (SPD):</speaker>
           <p>Gleich. Ich will nur den Punkt zu Ende bringen.</p>
           <p>Sie haben gesagt, dass das wirtschaftspolitisch unsinnig sei. Sehen Sie, in dem MoU stehen viele Sachen, was das Land wirtschaftspolitisch machen muss. Das sind viele kluge Dinge,</p>
@@ -380,18 +380,18 @@
           <p>Zum Zweiten. Die Staatsanleihen Deutschlands werden am Markt gehandelt. Das sind insgesamt fast 2 Billionen Euro. Die werden pro Jahr sechsmal umgeschlagen; da geht es um circa 10 Billionen Euro. 80 Prozent der Investoren sind Ausländer. Die Preise werden am Markt festgestellt. Ich bin froh, dass wir nicht so viel Zinsen zahlen müssen wie geplant, dass wir diese 100 Milliarden Euro sparen, sie vielmehr investieren können und keine Schulden dafür machen müssen. Darüber bin ich froh und nicht wie Sie der Auffassung, wie Sie es hier gesagt haben, dass wir beim deutschen Sparer sparen. Das ist doch absoluter Blödsinn.</p>
           <stage type="interjection">(Beifall bei der SPD sowie des Abg. Max Straubinger [CDU/CSU])</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Wenn überhaupt, dann muss die Zwischenfrage jetzt gestellt werden, oder die Redezeit ist vorbei. – Bitte schön, Herr Kollege Ernst.</p>
         </sp>
-        <sp who="Klaus Ernst" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Klaus Ernst">
+        <sp who="Klaus Ernst" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Klaus Ernst" party="DIE LINKE" name="Klaus Ernst">
           <speaker>Klaus Ernst (DIE LINKE):</speaker>
           <p>Danke schön. – Sie haben es so dargestellt, als würden wir den Antrag von Syriza ablehnen. Ich weiß nicht, ob Ihnen entgangen ist, dass hier der Antrag der Regierung zur Abstimmung steht und nicht der Antrag von Syriza. – Das ist insofern interessant, als Sie daran den Unterschied zwischen unserer und Ihrer Politik erkennen können.</p>
           <p>Wir stimmen hier nicht darüber ab – wie der Kollege Oppermann behauptet hat –, ob wir die „linksradikale Position“ von Syriza unterstützen – die steht überhaupt nicht zur Debatte –, sondern wir stimmen über den Weg ab, den die Bundesregierung also auch mit Unterstützung der Sozialdemokraten vorschlägt, der dazu beiträgt, dass das Wachstum in Griechenland weiter geschwächt wird, der im Ergebnis dazu führt, dass die Steuereinnahmen in Griechenland weiter sinken werden, was im Ergebnis dann wiederum dazu führen wird, dass Griechenland nicht in die Lage versetzt wird, seine Schulden zurückzuzahlen. Darüber stimmen wir ab.</p>
           <p>Ich bitte Sie einfach, zur Kenntnis zu nehmen, dass wir hier in Deutschland nur über Dinge abzustimmen haben, die wir beeinflussen können. Wir haben die Regierung hier zu kontrollieren und nicht die griechische. Die Regierung in Deutschland trägt maßgeblich dazu bei, die Erpressung der griechischen Regierung fortzusetzen, sie trägt dazu bei, die Austeritätspolitik, die übrigens von der Sozialdemokratie oft kritisiert wurde, fortzusetzen. Solch einer Politik können wir nicht zustimmen, obwohl wir Syriza unterstützen. Das möchte ich in aller Deutlichkeit sagen.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Carsten Schneider" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Carsten Schneider">
+        <sp who="Carsten Schneider (Erfurt)" parliamentary_group="SPD" role="mp" position="NA" who_original="Carsten Schneider (Erfurt)" party="SPD" name="Carsten Schneider">
           <speaker>Carsten Schneider (Erfurt) (SPD):</speaker>
           <p>Herr Kollege Ernst, zunächst einmal vielen Dank, dass ich ein paar Bemerkungen zu den Positionen der Linkspartei machen kann.</p>
           <p>Zu Griechenland. Es gab Wachstum in Griechenland; Finanzminister Schäuble hat zu Recht darauf hingewiesen. Für 2015 wurden fast 3 Prozent Wachstum erwartet. Nachdem dann die Regierung von Herrn Tsipras gewählt wurde, ist es zurückgegangen.</p>
@@ -409,12 +409,12 @@
           <p>Liebe Kolleginnen und Kollegen, angesichts der wichtigen Entscheidung, vor der wir heute stehen, sage ich: Die Sozialdemokratie wird dem Hilfspaket zustimmen. Wir werden nachhalten, dass die Reformen in Griechenland auch umgesetzt werden. Ich glaube auch, dass wir noch mehr für Wachstum in Griechenland tun müssen. Mit einem klaren Kurs und einer klaren Haltung sind wir für die Zukunft gut gewappnet. Deutschland ist in den Händen einer Regierung, an der wir Sozialdemokraten beteiligt sind – das zeigt gerade die heutige Debatte –, gut aufgehoben.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält nun die Kollegin Gesine Lötzsch für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Gesine Lötzsch" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Gesine Lötzsch">
+        <sp who="Gesine Lötzsch" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Gesine Lötzsch" party="DIE LINKE" name="Gesine Lötzsch">
           <speaker>Dr. Gesine Lötzsch (DIE LINKE):</speaker>
           <p>Herr Präsident! Meine sehr geehrten Damen und Herren! Es ist hier häufig das Wort „Solidarität“ gebraucht worden. Uns als Linken ist vorgeworfen worden, wir wären nicht solidarisch mit Griechenland.</p>
           <stage type="interjection">(Lothar Binding [Heidelberg] [SPD]: Zu Recht!)</stage>
@@ -440,12 +440,12 @@
           <p>Wir haben von der Griechenland-Krise bisher profitiert. Das ist das Gegenteil von Solidarität. Ich finde, wahre Solidarität besteht darin, Programme aufzulegen, die erstens die europäische Idee und den europäischen Zusammenhalt stärken und zweitens dafür sorgen, dass in Griechenland die Wirtschaft wieder auf die Beine kommt. Das, was jetzt beschlossen wurde, ist eine große Hilfe für die Banken, die mit Steuergeldern gerettet wurden, und auch eine Hilfe für die herrschende Politik hier in Deutschland. Jeder muss wissen, worüber wir abstimmen. Wir stimmen nicht über Hilfen für Griechenland ab, sondern über ein böses Spiel mit den Menschen in Griechenland, und dagegen wird die Linke immer kämpfen.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Gerda Hasselfeldt ist die nächste Rednerin für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Gerda Hasselfeldt (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Ich will nur einige wenige Bemerkungen in die Debatte einwerfen.</p>
           <p>Erstens. Die griechische Regierung und das griechische Parlament haben inzwischen offensichtlich den Ernst der Lage erkannt. Sie sind zu Reformen bereit, ja, sie haben mittlerweile sogar im Vorgriff auf das Verhandlungsergebnis eine ganze Reihe von Gesetzen beschlossen. Das alles zeigt: Athen hat begriffen, worum es geht. In Athen wird verstanden, dass es keinen schmerzfreien Weg aus dieser Schuldenkrise in Griechenland gibt. Ich finde, es ist an der Zeit, dass auch die Linke bei uns im Parlament dies endlich begreift.</p>
@@ -493,12 +493,12 @@
           <p>Mit all seinen Maßnahmen bietet dieses Programm eine gute Chance für Griechenland, die Staatsschuldenkrise zu bewältigen. Es ist eine gute Grundlage für eine weitere positive wirtschaftliche und politische Entwicklung in Europa, ja, für weitere wirtschaftliche und politische Stabilität in Europa. Dies brauchen wir, wenn wir die anderen Probleme, die gerade angesprochen wurden, wie beispielsweise die Asylproblematik, gemeinsam lösen wollen. Deshalb empfehle ich Zustimmung.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Nächster Redner ist der Kollege Sven-Christian Kindler für die Fraktion Bündnis 90/Die Grünen.</p>
           <stage type="interjection">(Johannes Kahrs [SPD]: Ruhig bleiben, Sven!)</stage>
         </sp>
-        <sp who="Sven-Christian Kindler" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Sven-Christian Kindler">
+        <sp who="Sven-Christian Kindler" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Sven-Christian Kindler" party="GRUENE" name="Sven-Christian Kindler">
           <speaker>Sven-Christian Kindler (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Am Anfang nur ein Wort zu Ihrer Rede, Herr Kauder. Sie haben gesagt, Sie wollten das Thema Asyl und Flüchtlinge nicht parteipolitisch ausschlachten; das ist auch richtig. Aber genau das haben Sie in Ihrer Rede gemacht, nämlich das Thema parteipolitisch ausgeschlachtet. Das finde ich scheinheilig und unwürdig.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
@@ -512,25 +512,25 @@
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Der Heilsbringer soll jetzt der IWF sein. Ich finde, da hat man sich den falschen Propheten ausgesucht.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege Kindler, darf der Kollege von Stetten, der sich offenkundig persönlich angesprochen fühlt, eine Zwischenbemerkung machen?</p>
         </sp>
-        <sp who="Sven-Christian Kindler" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Sven-Christian Kindler">
+        <sp who="Sven-Christian Kindler" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Sven-Christian Kindler" party="GRUENE" name="Sven-Christian Kindler">
           <speaker>Sven-Christian Kindler (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ja, gerne.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Bitte.</p>
         </sp>
-        <sp who="Christian Freiherr von Stetten" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Christian von Stetten">
+        <sp who="Christian Freiherr von Stetten" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Christian Freiherr von Stetten" party="CDU" name="Christian Frhr. von Stetten">
           <speaker>Christian Freiherr von Stetten (CDU/CSU):</speaker>
           <p>Herr Kollege, Sie haben gerade behauptet, dass ich einen Untersuchungsausschuss gefordert hätte. Ich weiß nicht, wie Sie darauf kommen. Ich kann Ihnen mitteilen – ich bitte Sie, das zur Kenntnis zu nehmen –, dass ich gefragt worden bin, warum ich die rechtlichen Fragen jetzt gelöst haben möchte, und dass ich darauf geantwortet habe: Wir müssen sie heute lösen, weil ich nicht in einigen Jahren vor einem Untersuchungsausschuss unangenehme Fragen gestellt bekommen möchte. Ich habe mit keinem Wort einen Untersuchungsausschuss gefordert und werde auch der Einsetzung eines solchen Ausschusses nicht zustimmen. Ich bitte Sie, das zur Kenntnis zu nehmen.</p>
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Michael Grosse-Brömer [CDU/CSU], an den Abg. Sven-Christian Kindler [BÜNDNIS 90/DIE GRÜNEN] gewandt: Das haben Sie wieder falsch gelesen!)</stage>
         </sp>
-        <sp who="Sven-Christian Kindler" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Sven-Christian Kindler">
+        <sp who="Sven-Christian Kindler" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Sven-Christian Kindler" party="GRUENE" name="Sven-Christian Kindler">
           <speaker>Sven-Christian Kindler (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Kollege von Stetten, es ist ziemlich interessant, dass Sie jetzt deutlich zurückrudern. Aber warum haben Sie diese Bemerkung eigentlich gemacht? Sie haben das Wort „Untersuchungsausschuss“ in die Medien gebracht und klargemacht, dass Sie deutliche Zweifel an Ihrer eigenen Regierung bzw. Ihrer eigenen Fraktion haben.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
@@ -551,15 +551,15 @@
           <p>Deutschland hat den Vernichtungskrieg angefangen und die Schoah, die Ermordung der europäischen Juden, zu verantworten, und trotzdem haben wenige Jahre danach die Gläubiger, die Länder, denen Deutschland viel Leid – schreckliches Leid – und Blut gebracht hat, diesem Land eine große Schuldenerleichterung gewährt, auch Griechenland übrigens. Deswegen muss man auch aufgrund der historischen Erfahrung und der historischen Verantwortung jetzt für eine Schuldenerleichterung für Griechenland sein. Das ist unsere Aufgabe.</p>
           <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege Kindler, lassen Sie noch eine Zwischenfrage des Kollegen Nüßlein zu?</p>
         </sp>
-        <sp who="Sven-Christian Kindler" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Sven-Christian Kindler">
+        <sp who="Sven-Christian Kindler" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Sven-Christian Kindler" party="GRUENE" name="Sven-Christian Kindler">
           <speaker>Sven-Christian Kindler (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Gerne.</p>
         </sp>
-        <sp who="Dr. Georg Nüßlein" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Georg Nüßlein">
+        <sp who="Georg Nüßlein" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Georg Nüßlein" party="CSU" name="Georg Nüßlein">
           <speaker>Dr. Georg Nüßlein (CDU/CSU):</speaker>
           <p>Herr Kollege Kindler, vielen Dank. – Sie reden viel über Fehler und Verantwortung, im Übrigen auch in historischen Zusammenhängen, die ich persönlich an der Stelle so nicht sehen möchte.</p>
           <stage type="interjection">(Claudia Roth [Augsburg] [BÜNDNIS 90/DIE GRÜNEN]: Die gibt es aber! – Weitere Zurufe vom BÜNDNIS 90/DIE GRÜNEN und von der LINKEN)</stage>
@@ -571,7 +571,7 @@
           <p>Griechenland gegen besseres Wissen und trotz der schon damals fehlenden wirtschaftlichen Leistungsfähigkeit in die Euro-Zone aufzunehmen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU – Widerspruch bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Sven-Christian Kindler" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Sven-Christian Kindler">
+        <sp who="Sven-Christian Kindler" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Sven-Christian Kindler" party="GRUENE" name="Sven-Christian Kindler">
           <speaker>Sven-Christian Kindler (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Erst einmal will ich antworten, dass ich es unglaublich finde, dass Sie die historische Verantwortung Deutschlands für den Zweiten Weltkrieg und die Schoah hier in Abrede stellen wollten und bestreiten, dass es danach einen klaren Schuldenerlass gab.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN sowie bei Abgeordneten der SPD – Widerspruch bei der CDU/CSU)</stage>
@@ -589,12 +589,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erteile ich nun dem Kollegen Norbert Spinrath für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Norbert Spinrath" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Norbert Spinrath">
+        <sp who="Norbert Spinrath" parliamentary_group="SPD" role="mp" position="NA" who_original="Norbert Spinrath" party="SPD" name="Norbert Spinrath">
           <speaker>Norbert Spinrath (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Sehr geehrte Damen und Herren! In diesen Tagen haben viele von uns zahlreiche wütende, teils aufgebrachte E-Mails oder Briefe von Bürgerinnen und Bürgern anlässlich unserer heutigen Debatte erreicht. Es war immer der gleiche Tenor: Griechenland sei ein Fass ohne Boden, in dem die europäischen Gelder seit Jahren wirkungslos versickerten.</p>
           <stage type="interjection">(Beifall des Abg. Klaus-Peter Willsch [CDU/CSU])</stage>
@@ -618,12 +618,12 @@
           <p>Liebe Kolleginnen und Kollegen, deshalb komme ich zu dem Fazit: Das Bild von Griechenland als Fass ohne Boden taugt nicht dazu, die Situation zutreffend zu beschreiben. Griechenland wird in den kommenden Jahren harte und tiefe Einschnitte in seinen Strukturen und bei seiner Verwaltung vornehmen müssen, um das ambitionierte Reformkonzept umzusetzen und soziale und wirtschaftliche Stabilität zu erreichen. Am Ende gilt aber dann trotzdem: Manchmal braucht es eben einen langen Atem, um angestrebte Ziele zu erreichen, oder – um im Bild zu bleiben –: Das Fass hat einen Boden in einem solidarischen, in einem sozialen Europa.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Manuel Sarrazin ist der nächste Redner für die Fraktion Bündnis 90/Die Grünen.</p>
           <stage type="interjection">(Johannes Kahrs [SPD]: Jetzt dürfen die Grünen klatschen!)</stage>
         </sp>
-        <sp who="Manuel Sarrazin" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Manuel Sarrazin">
+        <sp who="Manuel Sarrazin" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Manuel Sarrazin" party="GRUENE" name="Manuel Sarrazin">
           <speaker>Manuel Sarrazin (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Verehrte Kolleginnen und Kollegen! Frau Merkel, ich habe einen Vorschlag für Sie: Wir haben ja gelernt, dass es vor dem Hintergrund des Pro-blems in Ihrer Fraktion mit den 56 Kollegen, die nicht genau wissen, wie sie abstimmen sollen, für Sie eigentlich am besten wäre, wenn Griechenland eine Erfolgsgeschichte schriebe, wenn es jetzt bergauf ginge, wenn es Wachstum gäbe und man wieder sagen könnte: Es klappt doch und alles läuft.</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Das hat sie doch gesagt! – Dr. Angela Merkel, Bundeskanzlerin: Ist doch klar!)</stage>
@@ -644,12 +644,12 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält nun der Kollege Ralph Brinkhaus für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Ralph Brinkhaus" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ralph Brinkhaus">
+        <sp who="Ralph Brinkhaus" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ralph Brinkhaus" party="CDU" name="Ralph Brinkhaus">
           <speaker>Ralph Brinkhaus (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Herr Sarrazin, ich finde es rührend, wie Sie um unsere Regierung besorgt sind. Wahrscheinlich ist das die Angst davor, irgendwann einmal selbst Regierungsverantwortung zu bekommen; denn die Beiträge der Grünen waren nicht dazu angetan, Hoffnung zu machen, dass das dann vernünftig läuft.</p>
           <p>Meine Damen und Herren, wir können uns hier trefflich darüber streiten, was der richtige Weg für Griechenland ist; darüber ist in verschiedenen Debattenbeiträgen gesprochen worden. Es war nicht alles richtig, aber Herr Gysi hat einen richtigen Satz gesagt; ich gebe das mal sinngemäß wieder. Herr Gysi, Sie haben gesagt, wenn wir die Probleme nicht vor Ort lösen, dann kommen die Probleme zu uns. Das sehen wir momentan auf ganz -verschiedenen Politikfeldern, ob das die Flüchtlinge sind, die zu uns kommen, oder ob das Sicherheitsprobleme oder sonstige Probleme sind. Deswegen scheidet bei dieser ganzen Beschäftigung mit dem Komplex Griechenland eine Sache aus: dass wir Griechenland hängen lassen und wir Griechenland sich selbst überlassen. Ich glaube, das ist auch Konsens in diesem Haus.</p>
@@ -659,7 +659,7 @@
           <p>Der eine Teil ist, dass es netto rund 86 Milliarden Euro Hilfen für Griechenland gibt, die sich wie folgt zusammensetzen – auch das muss an dieser Stelle einmal gesagt werden –: 37 Milliarden Euro zur Bedienung der Altschulden, das heißt, es ist eine Umschuldung, 17 Milliarden Euro für Zinsen auf diese Altschulden. Weiter geht es um 7 Milliarden Euro für Rechnungen, die die griechischen Behörden bisher nicht bezahlt haben und damit unter anderem den griechischen Mittelstand schwer geschädigt haben. Es geht um die Handkasse – das sind auch noch einmal 7 Milliarden Euro –, die jedes Land braucht, um bestehen zu können. Und, Herr Gysi, es geht um bis zu 25 Milliarden Euro für die Banken. Ja, 25 Milliarden Euro für die Banken. Wir sind, meine Damen und Herren, in den letzten fünf Jahren sehr dafür kritisiert worden, dass wir angeblich die Banken gerettet haben. Manchmal ist es schwierig, Dinge zu erklären, aber manchmal kapiert auch eine linke Partei wie Syriza – wenn der Crash da ist –, was es bedeutet, wenn man nicht vorausschauend gehandelt hat. Der Crash war da: Die Banken haben in Griechenland zugemacht, die Menschen konnten kein Geld mehr aus den Geldautomaten bekommen, die Unternehmen konnten weder im Inland noch im Ausland überweisen. Man hat gesehen, dass Banken mehr sind als Aktionäre, als Gläubiger und Einleger. Banken sind Infrastruktur. Banken sind die Straßen, die man braucht, damit eine Wirtschaft bestehen kann. Deshalb ist es wichtig – ob es uns gefällt oder nicht –, dass wir an dieser Stelle mit den 25 Milliarden Euro – vielleicht wird es weniger – die Banken stützen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
           <p>Der zweite Teil des Paketes ist ein sehr ambitioniertes Reformprogramm. Es ist schon in verschiedenen Reden darauf hingewiesen worden. Es geht um das Steuer-system, um das Sozialversicherungssystem, um das -Gesundheitssystem, um ausgeglichene Haushalte, um Institutionen, die besser funktionieren sollen, um Korruptionsbekämpfung, um die Öffnung von Arbeitsmärkten und von Produktmärkten. Ich denke, dass wir alle der Meinung sind, dass dieses Paket, wenn es tatsächlich umgesetzt wird, dazu geeignet ist, Griechenland wirklich zu helfen.</p>
-          <p>Ich will das einmal erläutern. Wenn ich einen Staat zu sanieren hätte, dann würde ich Folgendes machen: Ich würde kurzfristige Reformen auf den Weg bringen, die mir Geld bringen, damit ich handeln kann. Das ist in diesem Paket enthalten. Ich würde langfristige Reformen auf den Weg bringen, damit ich wieder ein Geschäfts-modell habe, also Verbesserung der Verwaltung, Verbesserung der Investitionen, Wirtschaftsförderung. Das ist in diesem Paket enthalten. Ich würde das Zahlungssystem, das Bankensystem stabilisieren, weil sonst kein Staat leben kann. Das ist in diesem Paket enthalten. Ich würde mir die Zeit erkaufen – auch das ist richtig –, um mir die Gläubiger vom Hals zu halten, damit ich alles umsetzen kann. Ich würde noch etwas Viertes machen – darüber stimmen wir heute nicht ab, aber es gehört auch dazu –: Ich würde Investitionen auf den Weg bringen. </p>
+          <p>Ich will das einmal erläutern. Wenn ich einen Staat zu sanieren hätte, dann würde ich Folgendes machen: Ich würde kurzfristige Reformen auf den Weg bringen, die mir Geld bringen, damit ich handeln kann. Das ist in diesem Paket enthalten. Ich würde langfristige Reformen auf den Weg bringen, damit ich wieder ein Geschäfts-modell habe, also Verbesserung der Verwaltung, Verbesserung der Investitionen, Wirtschaftsförderung. Das ist in diesem Paket enthalten. Ich würde das Zahlungssystem, das Bankensystem stabilisieren, weil sonst kein Staat leben kann. Das ist in diesem Paket enthalten. Ich würde mir die Zeit erkaufen – auch das ist richtig –, um mir die Gläubiger vom Hals zu halten, damit ich alles umsetzen kann. Ich würde noch etwas Viertes machen – darüber stimmen wir heute nicht ab, aber es gehört auch dazu –: Ich würde Investitionen auf den Weg bringen.</p>
           <p>Wir haben über 30 Milliarden Euro europäische Mittel, die nur darauf warten, von Griechenland abgerufen zu werden für Investitionen unter anderem im Kampf -gegen die Langzeitarbeitslosigkeit. Insofern ist dieses Paket ein gutes Paket,</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
           <p>wenn es denn umgesetzt wird. Da haben wir natürlich Zweifel: Wird es denn umgesetzt? Ist die Regierung in Griechenland so stabil, dass sie die Mehrheit hat, dass sie auch den Willen hat, das Ganze umzusetzen, wenn es unterschrieben ist und wenn die erste Tranche geflossen ist? Die Bundesregierung hat hier Folgendes gesagt: Leistung nur gegen Gegenleistung. Deswegen ist es auch so wichtig, dass, bevor die erste Tranche gezahlt wird – der Kollege Spinrath hat darauf hingewiesen, über 50 Maßnahmen sind im Rahmen der Prior Actions vom griechischen Parlament schon umgesetzt worden; noch nicht in der Praxis, auch das gehört zur Wahrheit –, das Prinzip „Leistung gegen Gegenleistung“ als essenzieller Bestandteil dieses Paketes sichergestellt ist.</p>
@@ -677,12 +677,12 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Ich erteile das Wort nun dem Kollegen Heinz-Joachim Barchmann für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Heinz-Joachim Barchmann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Heinz-Joachim Barchmann">
+        <sp who="Heinz-Joachim Barchmann" parliamentary_group="SPD" role="mp" position="NA" who_original="Heinz-Joachim Barchmann" party="SPD" name="Heinz-Joachim Barchmann">
           <speaker>Heinz-Joachim Barchmann (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Über die verschiedenen Inhalte des ESM-Programms für Griechenland wurde heute schon in aller Breite diskutiert. Es ist viel über die zahlreichen Maßnahmen gesprochen worden, die Griechenland in den kommenden drei Jahren umsetzen muss, als Gegenleistung für die -Finanzmittel von bis zu 86 Milliarden Euro. Als Berichterstatter der SPD-Fraktion für Griechenland im Europaausschuss möchte ich hier nicht noch einmal auf die Zahlen eingehen, die mit dem Programm zusammenhängen, obwohl sie sehr wichtig sind. Ich möchte stattdessen auf Punkte eingehen, die mir zum einen als Sozial-demokrat und alter Gewerkschafter wichtig sind und mir zum anderen als einfacher, normaler europäischer Bürger am Herzen liegen.</p>
           <p>Aus sozialdemokratischer Sicht möchte ich hier noch einmal deutlich machen, dass wir das Programm, wie es jetzt ausgehandelt wurde, als deutlich ausgereifter ansehen können als frühere Vorschläge, vor allem deshalb, weil bei diesem Programm viel stärker auf die sozialen Auswirkungen der Maßnahmen geachtet wurde, die von der griechischen Regierung nun umzusetzen sind. Diese Reformen können die Grundlage für eine vernünftige soziale Basisabsicherung der griechischen Bevölkerung und auch für einen vernünftigen Zugang der Bevölkerung zur Gesundheitsversorgung legen. Die Strukturen, um diese Grundfunktionen sicherzustellen, werden mit dem vorliegenden Programm geschaffen. Es geht nicht mehr nur ums Sparen. Auch die Auswirkungen auf die Menschen vor Ort werden nun endlich in den Blick genommen. Dies ist aus meiner Sicht eine klare Abkehr von der strikten Austeritätspolitik, die über einen viel zu langen Zeitraum in ganz Europa den Umgang mit der Finanzkrise beherrscht hat und die auch von der letzten Bundesregierung mit geprägt wurde.</p>
@@ -697,12 +697,12 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der SPD sowie des Abg. Tom Koenigs [BÜNDNIS 90/DIE GRÜNEN])</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Michael Stübgen ist der nächste Redner für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Michael Stübgen" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Stübgen">
+        <sp who="Michael Stübgen" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Stübgen" party="CDU" name="Michael Stübgen">
           <speaker>Michael Stübgen (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Als wir hier vor etwas über vier Wochen – am 17. Juli – eine Sondersitzung hatten, hat mir – ich will es ehrlich zugeben – die Fantasie gefehlt, mir vorzustellen, dass wir in vier Wochen in der Lage sein würden, über ein Memorandum of Understanding für Griechenland einschließlich eines dritten Hilfspakets, das auch nur ansatzweise tragfähig ist, abzustimmen.</p>
           <p>Ich gebe es ehrlich zu: Ich war vor vier Wochen empört darüber, welche europaweite Kampagne gegen Bundesfinanzminister Schäuble – auch in Deutschland – lief, und dies nur deshalb, weil er eine fast triviale Wahrheit ausgesprochen hat. Er hat nämlich gesagt und argumentiert, dass es, wenn ein Euro-Mitgliedsland – in diesem Fall Griechenland – fundamental und nachhaltig nicht bereit sei, die Regeln des Euro-Systems einzuhalten, wenn es auch nicht bereit sei, und zwar auch noch durch ein Referendum bestätigt, Reformen vorzunehmen, um die fiskalische Tragfähigkeit wiederherzustellen, für dieses Land keine Zukunft in der Euro-Zone geben werde. Er hat niemals gesagt, dass dieses Land rausgeworfen werden soll. Im Übrigen haben 15 der 19 Finanzminister der Euro-Gruppe dies genauso gesehen und sich dementsprechend artikuliert. Ich werfe niemandem vor, dass er eine andere Meinung hat und sie artikuliert. Nur die Art und Weise dieser Kritik, die darauf abzielte, die persönliche Integrität des Andersdenkenden zu verletzen, hielt ich für absolut inakzeptabel.</p>
@@ -718,7 +718,7 @@
           <stage type="interjection">(Dr. Gesine Lötzsch [DIE LINKE]: Er kommt gleich wieder!)</stage>
           <p>hat heute – ich habe es erwartet – wieder Krokodilstränen vergossen und gesagt: Dieses dritte Rettungsprogramm beinhaltet zum großen Teil die Refinanzierung und Bedienung vorhandener Schulden. Herr Gysi, Sie könnten sich auch darüber beschweren, dass ein Auto fährt. Aber das Wesen eines Autos ist, zu fahren. Das Wesen des ESM, des Europäischen Stabilitätsmechanismus, ist ganz eindeutig, einen ungeordneten Staatsbankrott zu verhindern. Der passiert nämlich dann, wenn man den Schuldendienst nicht mehr leisten kann. Ungeordneter Staatsbankrott heißt Zusammenbruch sämtlicher Sozialleistungen eines Staates – ich will das jetzt gar nicht weiter ausführen –; aber das sagt Herr Gysi nie dazu.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
-          <p>Natürlich ist es das Wesen des ESM, dass wir einen Staatsbankrott in Griechenland verhindern – in anderen Ländern haben wir das erfolgreich gemacht –, mit dem Ziel, dass das Land seine fiskalische Stabilität wiedererlangt. </p>
+          <p>Natürlich ist es das Wesen des ESM, dass wir einen Staatsbankrott in Griechenland verhindern – in anderen Ländern haben wir das erfolgreich gemacht –, mit dem Ziel, dass das Land seine fiskalische Stabilität wiedererlangt.</p>
           <p>Der dritte Punkt – auch da fließen Krokodilstränen, und es wird regelmäßig gesagt –: Es werden ja bis zu 25 Milliarden Euro für die Banken gegeben, nicht für die Menschen, sondern für die Banken. – Was die Linken in diesem Zusammenhang niemals sagen, ist, dass bei den griechischen Banken, die samt und sonders illiquide sind und kurz vor dem Bankrott stehen, Millionen von kleinen Sparkonten von normalen Griechen geführt werden, von Rentnern, die ein paar Hundert Euro angespart haben, und von Familien, die vielleicht ein paar Tausend Euro angespart haben, um sich etwas leisten zu können. Bei einem ungeordneten Bankrott dieser Banken, bei einem ungeordneten Staatsbankrott Griechenlands wäre das alles weg und stünde auf null. Das heißt, Bankenrekapitalisierung ist auch eine soziale Aufgabe, die wir erfüllen müssen. Deshalb stehe ich ausdrücklich hinter der Bankenrekapitalisierung.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der SPD)</stage>
           <p>Lassen Sie mich ein Thema noch nennen, das vor allen Dingen in meiner Fraktion in der Debatte eine wesentliche Rolle gespielt hat, wie ich glaube, zu Recht. Es geht um die Schuldentragfähigkeit. Es ist richtig, dass uns bis jetzt noch keine Schuldentragfähigkeitsbestätigung für dieses Programm durch den IWF vorliegt. Es ist auch richtig, dass gerade meine Fraktion immer klar kommuniziert hat, dass das Vorliegen dieser Schuldentragfähigkeitsbestätigung für uns eine ganz wesentliche Voraussetzung ist. Ich will Ihnen sagen, warum ich zu diesem Zeitpunkt trotzdem zustimme, warum ich das für ausreichend halte.</p>
@@ -727,30 +727,30 @@
           <p>Es bleibt aber dabei – Bundesfinanzminister Wolfgang Schäuble hat darauf hingewiesen –: Für uns ist eine aktive Beteiligung des IWF, auch eine finanzielle Beteiligung, unverzichtbar. In wenigen Wochen werden wir in diesem Hause darüber diskutieren, wie wir im Oktober zu einer Beteiligung des IWF kommen können.</p>
           <p>Meine sehr verehrten Damen und Herren, noch zwei kurze Sätze zu einem Thema – NA</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Nein, einer, Herr Stübgen.</p>
         </sp>
-        <sp who="Michael Stübgen" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Stübgen">
+        <sp who="Michael Stübgen" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Stübgen" party="CDU" name="Michael Stübgen">
           <speaker>Michael Stübgen (CDU/CSU):</speaker>
           <p>– einer; ich danke für die Großzügigkeit –, das viele meiner Kollegen umtreibt. Es geht um die Frage: Wie groß kann eigentlich die Hoffnung sein, dass in Griechenland jetzt alles anders wird, als wir das im letzten halben Jahr, aber auch in den letzten Jahren erlebt haben? Ich glaube, es gibt genug Anzeichen dafür, dass es besser wird. Zum Ersten hat sich die Verhandlungssituation deutlich verändert. Zum Zweiten gibt es eine breite Mehrheit im Parlament, eine Nichtregierungsmehrheit, für diese Reform. Die Prior Actions sind durchweg umgesetzt worden. Zum Dritten. Es wird mit allergrößter Wahrscheinlichkeit im September dieses Jahres Neuwahlen in Griechenland geben. Wir werden sehr genau beobachten können, wie sich die Parteien dort aufstellen.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege, wenn mich mein Eindruck nicht täuscht – –</p>
         </sp>
-        <sp who="Michael Stübgen" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Stübgen">
+        <sp who="Michael Stübgen" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Stübgen" party="CDU" name="Michael Stübgen">
           <speaker>Michael Stübgen (CDU/CSU):</speaker>
           <p>Wenn es dazu kommt – was wir alle hoffen –, dass eine Reformregierung die Mehrheit erhält, werden wir die Schuldentragfähigkeit erreichen. Wenn nicht, werden wir, glaube ich, wieder über die Frage eines Verbleibs Griechenlands in der Euro-Zone diskutieren müssen. Das will aber keiner von uns.</p>
           <p>Ich danke für Ihre Aufmerksamkeit und für die Großmut des Präsidenten.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält nun Johannes Kahrs für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Johannes Kahrs" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Johannes Kahrs">
+        <sp who="Johannes Kahrs" parliamentary_group="SPD" role="mp" position="NA" who_original="Johannes Kahrs" party="SPD" name="Johannes Kahrs">
           <speaker>Johannes Kahrs (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Wir Sozialdemokraten hatten, was Griechenland und die Rettungspakete angeht, immer eine klare Linie. Die SPD hat sich hier immer solidarisch gezeigt. Die SPD hat aber auch immer gesagt: Hilfen gibt es nur, wenn die Griechen ihren Teil dazu beitragen. Das eine geht nicht ohne das andere. Wenn wir in Deutschland, wenn wir in Europa leisten, helfen und unterstützen, dann muss man auch sehen, dass die Griechen ihren Teil dazu beitragen. – Wenn man sich dieses Hilfspaket anschaut, stellt man fest, dass es genau so ist, wie wir es gefordert haben. Wie es die SPD von Anfang an gefordert hat, so ist es gekommen.</p>
           <p>Deswegen werden wir, die SPD, dem auch zustimmen. Das, glaube ich, ist eine gute Sache.</p>
@@ -780,11 +780,11 @@
           <p>Wenn man das alles zusammenfasst, dann merkt man meines Erachtens, dass wir Sozialdemokraten, dass diese Große Koalition ihre Aufgaben gemacht hat, dass es in Griechenland funktioniert hat: Die Griechen gehen diesen Weg. Deswegen würde ich mich freuen, wenn wir hier heute im Deutschen Bundestag alle solidarisch und gemeinsam zustimmen. Dass die Linke schon angekündigt hat, dass sie die Menschen in Griechenland, dass sie Griechenland nicht unterstützen will, ist eine Schande.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Das Wort erhält nun der Kollege Klaus-Peter Willsch.</p>
         </sp>
-        <sp who="Klaus-Peter Willsch" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Klaus-Peter Willsch">
+        <sp who="Klaus-Peter Willsch" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Klaus-Peter Willsch" party="CDU" name="Klaus-Peter Willsch">
           <speaker>Klaus-Peter Willsch (CDU/CSU):</speaker>
           <p>Ich habe mich erst einmal vergewissert, wer hinter mir sitzt. – Herr Präsident! Liebe Kollegen! Der Grundtenor der Debatte, die wir heute führen, von all denen, die sich für das dritte Rettungspaket aussprechen, lautet: Athen hat verstanden.</p>
           <stage type="interjection">(Johannes Kahrs [SPD]: Herr Willsch nicht!)</stage>
@@ -795,8 +795,8 @@
           <p>Syriza gehe es weiterhin um Umverteilung von Mitteln in Griechenland und künftig um Finanzprogramme für diejenigen, die durch die Reformvereinbarungen von Kürzungen betroffen seien, etwa die Landwirte.</p>
           <p>Es ist uns als wichtiger Erfolg verkauft worden, dass diese Reform durchgeführt worden ist; hier wird angekündigt, dass sie wieder konterkariert werden wird. – Dann geht es weiter:</p>
           <p>Es gebe keinen Grund, warum Syriza nicht in Europa weiter für seine Ziele kämpfen solle, etwa für eine Rolle der EZB als Garant für alle Staatsschulden, sagte Pappas. Er stimme der Idee des ehemaligen italienischen Ministerpräsidenten Romano Prodi zu, dass sich Frankreich und Italien mit anderen Ländern gegen Deutschland verbünden sollten, … Ein dankbarer Schuldner klingt in meinen Ohren ein bisschen anders, und dass hier wirklich der Reformwille mit Gewalt um sich gegriffen hätte, kann ich daraus auch nicht ablesen.</p>
-          <p>Kollege Stübgen hat es dankenswerterweise angesprochen: Wir erwarten die Vertrauensabstimmung in Kürze, vielleicht schon morgen, wenn hier alles in trockenen Tüchern ist und die ersten Milliarden überwiesen sind. Sie wird Herr Tsipras nach allen Vorhersagen, die man aus Griechenland so hört, verlieren, und dann gehen wir in den Wahlkampf. </p>
-          <p>Was Wahlkampf in Griechenland heißt, das haben wir dieses Jahr doch schon zweimal erlebt, einmal beim Wahlkampf für das Referendum, das im Übrigen zum Gegenstand hatte, dass Herr Tsipras die Bevölkerung aufgerufen hat, Nein zu sagen zu einem Reformpaket, und auch im Januar/Februar, als das Parlament neu gewählt wurde. Auch da ging es nicht gerade schonend und mit weichen Bandagen zu, sondern es wurde hart gekämpft. </p>
+          <p>Kollege Stübgen hat es dankenswerterweise angesprochen: Wir erwarten die Vertrauensabstimmung in Kürze, vielleicht schon morgen, wenn hier alles in trockenen Tüchern ist und die ersten Milliarden überwiesen sind. Sie wird Herr Tsipras nach allen Vorhersagen, die man aus Griechenland so hört, verlieren, und dann gehen wir in den Wahlkampf.</p>
+          <p>Was Wahlkampf in Griechenland heißt, das haben wir dieses Jahr doch schon zweimal erlebt, einmal beim Wahlkampf für das Referendum, das im Übrigen zum Gegenstand hatte, dass Herr Tsipras die Bevölkerung aufgerufen hat, Nein zu sagen zu einem Reformpaket, und auch im Januar/Februar, als das Parlament neu gewählt wurde. Auch da ging es nicht gerade schonend und mit weichen Bandagen zu, sondern es wurde hart gekämpft.</p>
           <p>Das liegt auch ein wenig im Wesen des politischen Systems von Griechenland. Im Wahlkampf muss man eine Mehrheit für sich gewinnen, um danach Regierungsämter zu bekommen und seine Hintersassen mit Regierungsposten und Posten in der staatlichen Industrie zu versorgen.</p>
           <stage type="interjection">(Dr. Petra Sitte [DIE LINKE]: Was ist das für ein Verständnis, wie Sie das übersetzen!)</stage>
           <p>Deshalb ist das immer eine entscheidende Phase. Dass in dieser Zeit der IWF überprüfen soll, ob in Griechenland alles gut läuft: Mit Verlaub, da fehlt mir wirklich der Glaube, dass das realistisch ist.</p>
@@ -805,21 +805,21 @@
           <p>Ich will noch eines zu der Frage sagen: Wer zahlt das alles? In diesem Zusammenhang ist die neue Definition von Schuldentragfähigkeit ziemlich gefährlich. Wenn wir eine Grenze von 15 Prozent für Ausgaben für akzeptabel halten, dann haben wir es in der Hand, immer neue Kredite zu geben. Durch eine beliebige Verlängerung des tilgungsfreien Zeitraums können wir die Schuldentragfähigkeit von außen mit Pseudokrediten herstellen.</p>
           <p>Was wir wirklich machen, wenn wir Kredite gewähren und Laufzeiten um 30 oder 50 Jahre erhöhen, ist eine Schenkung und nichts anderes. Das ist natürlich ein Verstoß gegen das, was wir den Menschen versprochen haben: Jeder in der Währungsunion muss für seine Schulden selbst aufkommen. Es gibt kein Bail-out.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Herr Kollege.</p>
         </sp>
-        <sp who="Klaus-Peter Willsch" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Klaus-Peter Willsch">
+        <sp who="Klaus-Peter Willsch" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Klaus-Peter Willsch" party="CDU" name="Klaus-Peter Willsch">
           <speaker>Klaus-Peter Willsch (CDU/CSU):</speaker>
           <p>Zahlen – das ist der letzte Satz, Herr Präsident – werden das nicht einmal mehr unsere Kinder, sondern deren Kinder und Enkel. Über 2 Billionen Euro an Schulden haben diese Menschen abzutragen, und jetzt packen wir noch Schulden anderer drauf. Das ist den nachfolgenden Generationen gegenüber unverantwortlich. Sagen Sie bitte Nein.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Letzter Redner in der Aussprache ist der Kollege Eckhardt Rehberg für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD – Dr. Gesine Lötzsch [DIE LINKE]: Das stimmt!)</stage>
         </sp>
-        <sp who="Eckhardt Rehberg" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Eckhardt Rehberg">
+        <sp who="Eckhardt Rehberg" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Eckhardt Rehberg" party="CDU" name="Eckhardt Rehberg">
           <speaker>Eckhardt Rehberg (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Wir stimmen heute nicht über den kommenden Wahlkampf in Griechenland oder darüber ab, ob sich Herr Tsipras der Vertrauensfrage stellt.</p>
           <stage type="interjection">(Beifall der Abg. Dr. Daniela De Ridder [SPD])</stage>
@@ -843,7 +843,7 @@
           <p>Im Memorandum of Understanding sind 58 Maßnahmen mit 200 konkreten Terminen vorgesehen, von denen – das halte ich für sehr bemerkenswert – vier Fünftel heute schon zumindest im Parlament beschlossen, wenn auch noch nicht umgesetzt worden sind.</p>
           <p>Die entscheidende und härteste Bewährungsprobe in den nächsten Wochen und Monaten wird übrigens die Umsetzung sein. Deswegen stimme ich dem Kollegen Thomas Oppermann zu, dass es richtig ist, dass wir heute nicht über die Verlängerung von Kreditlaufzeiten und Schuldenerleichterungen reden – ein Haircut ist überhaupt nicht möglich –, sondern dass wir das erst dann in den Blick nehmen, wenn die griechische Regierung gezeigt hat, dass sie das, was vereinbart worden ist, nicht nur im Parlament beschließen lässt, sondern es auch administrativ umsetzt. Es hilft überhaupt nichts, die Erhöhung der Mehrwertsteuern für die kleinen Inseln um 30 Prozent zu beschließen. Das Entscheidende ist nicht der Beschluss im Parlament, sondern dass die Steuern auch eingenommen werden. Denn nur dann können sie in den griechischen Haushalt fließen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der SPD)</stage>
-          <p>Das ist aus meiner Sicht das, was Tsipras und die griechische Regierung jetzt leisten müssen. </p>
+          <p>Das ist aus meiner Sicht das, was Tsipras und die griechische Regierung jetzt leisten müssen.</p>
           <p>Lieber Johannes Kahrs, dieses Hilfspaket war kein Selbstläufer, und dieses Hilfspaket wird bis 2018 auch kein Selbstläufer sein. Ich persönlich würde mich sehr freuen, wenn wir zu Beginn des kommenden Jahres, ähnlich wie nach einer gewissen Zeit im Falle von Spanien, Irland, Portugal und Zypern, im Haushaltsausschuss die MoUs, die Reviews, zur Kenntnis nehmen können und keine Stellungnahme abgeben, weil in dem Fall die Quadriga attestiert, dass das, was beschlossen wurde, in Griechenland auch umgesetzt wird.</p>
           <p>Wenn Sie sich das Memorandum of Understanding in seiner ganzen Breite anschauen, dann sehen Sie, dass hiermit eine Basis gelegt worden ist. Hier hat aus meiner Sicht die Europäische Kommission eine große Verantwortung, nicht nur politisch zu agieren, sondern auch echte technische Hilfe vor Ort zu leisten, und zwar in den verschiedensten Bereichen. Dann ist eine Chance gegeben, dass in Griechenland ein moderner, wettbewerbsfähiger Staat entsteht.</p>
           <p>Ich sage Ihnen ganz ehrlich: Mir ist relativ wurscht, welche Partei am Ruder ist. Für mich ist von Interesse, dass das umgesetzt wird, was mit den europäischen Institutionen vereinbart worden ist.</p>
@@ -854,14 +854,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Zu einer persönlichen Erklärung zur Aussprache erhält jetzt der Kollege Nüßlein das Wort.</p>
           <stage type="interjection">(Petra Hinz [Essen] [SPD]: Er hat vorhin schon etwas gesagt!)</stage>
           <p>Anschließend habe ich noch eine wichtige Mitteilung zu machen. Insofern besteht durchaus Gelegenheit, sich noch einen Augenblick auf die Plätze zu setzen. Danach kommen wir zu der namentlichen Abstimmung.</p>
           <p>Bitte, Herr Kollege Nüßlein.</p>
         </sp>
-        <sp who="Dr. Georg Nüßlein" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Georg Nüßlein">
+        <sp who="Georg Nüßlein" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Georg Nüßlein" party="CSU" name="Georg Nüßlein">
           <speaker>Dr. Georg Nüßlein (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen! Meine Herren! Herr Kollege Kindler hat mich im Rahmen dieser Debatte in dieselbe Ecke wie Holocaustleugner gestellt. Ich möchte das hier an dieser Stelle auf das Schärfste zurückweisen. Herr Kollege Kindler, weder der Kontext Ihrer Einlassung noch der Kontext meiner Zwischenfrage gab dazu Anlass. So etwas tut man auch nicht in schärfster rhetorischer und argumentativer Bedrängnis, nicht unter Kollegen und nicht unter Demokraten.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
@@ -870,7 +870,7 @@
           <p>Vielen herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Ich schließe damit unsere Aussprache.</p>
           <p>Bevor wir jetzt zu den Abstimmungen kommen, habe ich noch einen wichtigen praktischen Hinweis mit Blick auf die Arbeitsfähigkeit der Büros und auch der Kolleginnen und Kollegen, die sich in den nächsten Wochen vermutlich nicht dauerhaft in Berlin aufhalten wollen und müssen.</p>
@@ -884,15 +884,15 @@
           <stage type="interjection">(Christine Lambrecht [SPD]: Was für ein -Service im Plenum!)</stage>
           <p>So, und nun kommen wir zur Abstimmung über den Antrag des Bundesministeriums der Finanzen auf den Drucksachen 18/5780 und 18/5788 zur Einholung eines zustimmenden Beschlusses des Deutschen Bundestages, der Hellenischen Republik Stabilitätshilfe in Form einer Finanzhilfefazilität zu gewähren, sowie zur Vereinbarung über ein Memorandum of Understanding zwischen der Hellenischen Republik und dem Europäischen Stabilitätsmechanismus.</p>
           <p>Ich mache ausdrücklich darauf aufmerksam, dass der Antrag auch die Zustimmung zur Auszahlung der ersten Tranche der Finanzhilfe an Griechenland in Höhe von 26 Milliarden Euro beinhaltet. Darüber muss also nicht etwa erst zu einem späteren Zeitpunkt gesondert abgestimmt werden.</p>
-          <p>Im Übrigen nehmen wir zahlreiche persönliche Erklärungen zur Abstimmung, die wir erhalten haben, in bewährtem Verfahren zu Protokoll.</p>
-          <p>Wir stimmen nun auf Verlangen der Fraktionen der CDU/CSU und SPD über den Antrag namentlich ab. Ich bitte um einen Hinweis der Schriftführerinnen und Schriftführer, ob die Urnen jeweils doppelt besetzt sind. Ich gucke einmal von links über die Mitte nach rechts. – Es sieht so aus. Dann eröffne ich hiermit die Abstimmung. </p>
-          <p>Ist ein Mitglied im Saal anwesend, das seine Stimme noch nicht abgegeben hat? – Das ist nicht erkennbar. Dann schließe ich hiermit die Abstimmung und bitte die Schriftführerinnen und Schriftführer, mit der Auszählung zu beginnen. Da wir nur eine namentliche Abstimmung haben, wird das vermutlich zügig gehen, sodass diejenigen, die ganz gespannt auf das Ergebnis dieser Abstimmung warten, sich nicht allzu lange gedulden müssen, bis wir es vorliegen haben.�</p>
+          <p>Im Übrigen nehmen wir zahlreiche persönliche Erklärungen zur Abstimmung, die wir erhalten haben, in bewährtem Verfahren zu Protokoll.1</p>
+          <p>Wir stimmen nun auf Verlangen der Fraktionen der CDU/CSU und SPD über den Antrag namentlich ab. Ich bitte um einen Hinweis der Schriftführerinnen und Schriftführer, ob die Urnen jeweils doppelt besetzt sind. Ich gucke einmal von links über die Mitte nach rechts. – Es sieht so aus. Dann eröffne ich hiermit die Abstimmung.</p>
+          <p>Ist ein Mitglied im Saal anwesend, das seine Stimme noch nicht abgegeben hat? – Das ist nicht erkennbar. Dann schließe ich hiermit die Abstimmung und bitte die Schriftführerinnen und Schriftführer, mit der Auszählung zu beginnen. Da wir nur eine namentliche Abstimmung haben, wird das vermutlich zügig gehen, sodass diejenigen, die ganz gespannt auf das Ergebnis dieser Abstimmung warten, sich nicht allzu lange gedulden müssen, bis wir es vorliegen haben.2�</p>
           <p>Wir kommen nun zur Abstimmung über den Entschließungsantrag der Fraktion Bündnis 90/Die Grünen auf Drucksache 18/5789. Wer stimmt für diesen Entschließungsantrag? – Wer stimmt dagegen? – Das sind ein paar mehr. Wer enthält sich? – Damit ist dieser Entschließungsantrag mit den Stimmen der Koalition bei Enthaltung der Fraktion Die Linke abgelehnt.</p>
           <p>Bis zum Vorliegen des Ergebnisses der namentlichen Abstimmung unterbreche ich für einige Minuten die Sitzung und teile Ihnen dann das Ergebnis mit.</p>
           <p>Vorsichtshalber weise ich schon jetzt darauf hin, dass die nächste Sitzung des Bundestages voraussichtlich am Dienstag, dem 8. September 2015, stattfinden wird. Gehen Sie davon aus, dass das der späteste denkbare Termin ist. Sie bekommen aber rechtzeitig die entsprechenden Informationen.</p>
           <stage type="interjection">(Unterbrechung von 12.03 bis 12.09 Uhr)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Liebe Kolleginnen und Kollegen, die unterbrochene Sitzung ist wieder eröffnet.</p>
           <p>Ich teile Ihnen das von den Schriftführerinnen und Schriftführern ermittelte Ergebnis der namentlichen Abstimmung über den Antrag des Bundesministeriums der Finanzen zur Stabilitätshilfe zugunsten Griechenlands mit: abgegebene Stimmen 585. Mit Ja haben gestimmt 454, mit Nein haben 113 Kolleginnen und Kollegen gestimmt, enthalten haben sich 18. Damit ist der Antrag angenommen.</p>
@@ -1306,7 +1306,8 @@
           <p>Stefan Zierke</p>
           <p>Dr. Jens Zimmermann</p>
           <p>Manfred Zöllmer</p>
-          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>BÜNDNIS 90/</p>
+          <p>DIE GRÜNEN</p>
           <p>Luise Amtsberg</p>
           <p>Kerstin Andreae</p>
           <p>Annalena Baerbock</p>
@@ -1475,7 +1476,8 @@
           <p>Birgit Wöllert</p>
           <p>Hubertus Zdebel</p>
           <p>Pia Zimmermann</p>
-          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>BÜNDNIS 90/</p>
+          <p>DIE GRÜNEN</p>
           <p>Hans-Christian Ströbele</p>
           <p>Enthalten</p>
           <p>CDU/CSU</p>
@@ -1490,7 +1492,8 @@
           <p>Dr. Kirsten Tackmann</p>
           <p>Frank Tempel</p>
           <p>Dr. Axel Troost</p>
-          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>BÜNDNIS 90/</p>
+          <p>DIE GRÜNEN</p>
           <p>Uwe Kekeritz</p>
           <p>Sylvia Kotting-Uhl</p>
           <p>Monika Lazar</p>
@@ -1502,6 +1505,7 @@
           <p>Wir sind damit auch am Schluss unserer heutigen Tagesordnung.</p>
           <p>Die nächste Sitzung des Bundestages berufe ich hiermit auf Dienstag, den 8. September 2015, ein, soweit nicht zwischenzeitlich andere Mitteilungen erfolgen.</p>
           <p>Die Sitzung ist geschlossen. Ich wünsche Ihnen noch ein paar hoffentlich ruhige, besinnliche und erholsame Tage.</p>
+          <stage type="interjection">(Schluss: 12.10 Uhr)</stage>
         </sp>
       </div>
     </body>

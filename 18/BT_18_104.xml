@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-07</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://www.bundestag.de/blob/374378/424a4db6577a4a159cd1d16ea5d39598/18104-data.txt</url>
-        <date>2015-10-20 20:01:28</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -36,7 +36,7 @@
   <text>
     <body>
       <div type="agenda_item" n="1" what="debate" desc="Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Menschenre...">
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Guten Morgen! Die Sitzung ist eröffnet – nach einem sehr beeindruckenden ersten Teil am heutigen 8. Mai in unserem Bundestag.</p>
           <p>Ich rufe den Tagesordnungspunkt 18 auf:</p>
@@ -47,7 +47,7 @@
           <p>Ich eröffne die Aussprache und gebe das Wort als erstem Redner Christoph Strässer, dem Beauftragten der Bundesregierung für Menschenrechtspolitik und Humanitäre Hilfe.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Christoph Strässer" parliamentary_group="NA" role="government" position="Beauftragter der Bundesregierung für Menschenrechtspolitik und Humanitäre Hilfe" party="SPD" name="Christoph Strässer">
+        <sp who="Christoph Strässer" parliamentary_group="NA" role="government" position="Beauftragter der Bundesregierung für Menschenrechtspolitik und Humanitäre Hilfe" who_original="Christoph Strässer" party="SPD" name="Christoph Strässer">
           <speaker>Christoph Strässer, Beauftragter der Bundesregierung für Menschenrechtspolitik und Humanitäre Hilfe:</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Liebe Kolleginnen und Kollegen! Es ist natürlich schwierig, an diesem 8. Mai nach dieser beeindruckenden Veranstaltung sofort wieder zur Tagesordnung überzugehen. Ich glaube aber, dass das heute ganz wichtig ist; denn der Tagesordnungspunkt, über den wir jetzt sprechen, ist geprägt von Bildern und Meldungen, die wir eigentlich nicht mehr sehen wollten: Bilder von Vertreibung, von Flucht, von gepeinigten Menschen weltweit.</p>
           <p>Wenn man sich die Zahlen vergegenwärtigt, die der UNHCR, der Hohe Flüchtlingskommissar der Vereinten Nationen, veröffentlicht hat, geht es dabei um mittlerweile 56 Millionen Menschen weltweit, Menschen, die auf der Flucht oder Vertriebene im eigenen Land sind, weil Krieg und gewaltsam ausgetragene Konflikte wie in Syrien, im Irak, im Jemen, im Südsudan oder in der Demokratischen Republik Kongo ihr Leben bedrohen oder ihre Lebensgrundlagen zerstören. Es ist die höchste Zahl seit der Katastrophe des Zweiten Weltkrieges.</p>
@@ -69,12 +69,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD, der CDU/CSU und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Christoph Strässer. – Nächste Rednerin: Inge Höger für die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Inge Höger" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Inge Höger">
+        <sp who="Inge Höger" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Inge Höger" party="DIE LINKE" name="Inge Höger">
           <speaker>Inge Höger (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Der Bericht der Bundesregierung über die deutsche humanitäre Hilfe im Ausland steht leider zu einem erschreckend passenden Moment auf unserer Tagesordnung. Das verheerende Erdbeben in Nepal zeigt uns die große Hilfsbereitschaft vieler Menschen weltweit – Herr Strässer hat es eben schon angesprochen –, es zeigt aber auch logistische Schwachstellen und Probleme bei der konkreten Umsetzung von Hilfe. Humanitäre Hilfe, also die Unterstützung von Menschen in Notlagen, wird absehbar in den nächsten Jahren eine immer größere Herausforderung darstellen. Naturkatastrophen, Dürren, Überschwemmungen und verheerende Stürme nehmen zu. Deswegen muss an einer weiteren Verbesserung und Ausweitung der humanitären Hilfe gearbeitet werden. Doch nicht allein Naturkatastrophen oder Krankheiten wie Ebola führen zu humanitären Notlagen. Kriege und Konflikte zerstören Menschenleben, die Gesundheit und die Zukunft ganzer Gesellschaften.</p>
           <p>Am Mittwoch wurden die aktuellen Zahlen über die Menschen veröffentlicht, die 2014 aus ihren Wohnorten vertrieben wurden. 60 Prozent flohen infolge von Kriegen und bewaffneten Konflikten. Zu dieser hohen Anzahl von Flüchtlingen kommen noch einmal 11 Millionen Binnenflüchtlinge. Jeden Tag flohen 30 000 Menschen aus ihrer Heimat. Während des Zeitraums unserer Debatte sind es 1 400. Jan Egeland, Generalsekretär des Norwegischen Flüchtlingsrates, äußerte seine Betroffenheit wie folgt: In 30 Jahren als Katastrophenhelfer habe ich nie solche Zahlen gesehen, solche Zerstörung, solches Leid.</p>
@@ -110,22 +110,22 @@
           <p>Was alles möglich ist, wenn man internationale Solidarität mit hoher Priorität verfolgt, das zeigt das kleine Land Kuba. Dieses kleine und arme Land ist mit Ärzten und anderen Helferinnen und Helfern schnell und wirkungsvoll aktiv, wo immer Hilfe nötig ist. In vielen Ländern Lateinamerikas, jetzt in Nepal, aber auch in den Ebolagebieten gehörte Kuba zu den Ersten, die die Not der Menschen linderten.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Frau Höger, denken Sie an Ihre Redezeit?</p>
         </sp>
-        <sp who="Inge Höger" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Inge Höger">
+        <sp who="Inge Höger" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Inge Höger" party="DIE LINKE" name="Inge Höger">
           <speaker>Inge Höger (DIE LINKE):</speaker>
           <p>Ich komme zum Ende. – Wenn dieses reiche Deutschland den gleichen Anteil seiner Wirtschaftsleistung in humanitäre Hilfe investieren würde wie Kuba, dann würde das in vielen Regionen der Welt einen wirklichen Unterschied machen.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank. – Nächster Redner in der Debatte: der Parlamentarische Staatssekretär Thomas Silberhorn.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Thomas Silberhorn" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusammenarbeit und Entwicklung" party="CSU" name="Thomas Silberhorn">
+        <sp who="Thomas Silberhorn" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusammenarbeit und Entwicklung" who_original="Thomas Silberhorn" party="CSU" name="Thomas Silberhorn">
           <speaker>Thomas Silberhorn, Parl. Staatssekretär beim Bundesminister für wirtschaftliche Zusammenarbeit und Entwicklung:</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Die Anzahl der langanhaltenden Krisen und Katastrophen, mit denen sich die internationale Gemeinschaft konfrontiert sieht, ist in den letzten Jahren deutlich gestiegen. Wir haben es mit zahlreichen Krisen, Konflikten und Katastrophen gleichzeitig zu tun: jüngst das Erdbeben in Nepal, die Konflikte in Mali, im Südsudan und in Zentralafrika, die Ebolaepidemie in Westafrika, die Konflikte im Nahen und Mittleren Osten, in Syrien, im Irak und in Gaza oder in der Ukraine, direkt vor unserer Haustür.</p>
           <p>Diese Konflikte und Katastrophen rücken näher an uns heran, und immer mehr Menschen sind davon betroffen. Viele sind gezwungen, ihre Heimat zu verlassen. Etwa 57 Millionen Flüchtlinge sind derzeit beim Hohen Flüchtlingskommissar der Vereinten Nationen registriert. Das ist die größte humanitäre Katastrophe seit dem Zweiten Weltkrieg.</p>
@@ -150,11 +150,11 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Thomas Silberhorn. – Nächster Redner: Tom Koenigs für Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Tom Koenigs" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Tom Koenigs">
+        <sp who="Tom Koenigs" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Tom Koenigs" party="GRUENE" name="Tom Koenigs">
           <speaker>Tom Koenigs (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Humanitäre Hilfe ist Ausdruck ethischer Verantwortung für Menschen in Not. Gemeinplätze wie diesen findet man in dieser Debatte häufig. Auch der Bericht ist nicht frei davon. Die Beschlussempfehlung, die Sie uns aber hier vorlegen, ist praktisch voll von solchen Sprüchen. Das kann man nicht lesen. Lassen Sie doch da mal einen Praktikanten ran, der das redaktionell überarbeitet.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN)</stage>
@@ -191,12 +191,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Tom Koenigs. – Nächste Rednerin in der Debatte: Dr. Ute Finckh-Krämer für die Sozialdemokraten.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Ute Finckh-Krämer" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Ute Finckh-Krämer">
+        <sp who="Ute Finckh-Krämer" parliamentary_group="SPD" role="mp" position="NA" who_original="Ute Finckh-Krämer" party="SPD" name="Ute Finckh-Krämer">
           <speaker>Dr. Ute Finckh-Krämer (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Liebe Zuhörerinnen und Zuhörer oben auf den Tribünen! Ich möchte auf das historische Datum zurückkommen, an dem wir heute über humanitäre Hilfe diskutieren; denn vor 70 Jahren war Europa in großen Teilen zerstört, und nicht zuletzt Deutschland war dringend auf humanitäre Hilfe angewiesen. Diese humanitäre Hilfe wurde nach vier humanitären Prinzipien geleistet, die erst später schriftlich fixiert wurden: Menschlichkeit, Unabhängigkeit, Neutralität und Unparteilichkeit.</p>
           <p>Wir als Deutsche haben Glück gehabt, dass diese Prinzipien damals schon angewandt wurden, weil nach dem, was von deutschem Boden damals ausgegangen war, sonst nicht viel humanitäre Hilfe in Deutschland angekommen wäre.</p>
@@ -223,12 +223,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Ute Finckh-Krämer. – Nächster Redner: Frank Heinrich für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Frank Heinrich" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Frank Heinrich">
+        <sp who="Frank Heinrich (Chemnitz)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Frank Heinrich (Chemnitz)" party="CDU" name="Frank Heinrich">
           <speaker>Frank Heinrich (Chemnitz) (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Liebe Zuhörerinnen und Zuhörer! Ich weiß nicht, wer von Ihnen schon da war, als eben die Gedenkstunde zu 70 Jahren Kriegsende stattfand. Das Kriegsende markiert nicht nur die Befreiung von Völkermord und humanitärer Katastrophe, sondern auch den Beginn von 70 Jahren Frieden in Europa, in einem Großteil Europas – so lange wie vorher tausend Jahre lang nicht.</p>
           <p>Aus dieser Geschichte wächst Verantwortung. Das betont die Einleitung des Berichts, über den wir jetzt debattieren. Ich zitiere aus dieser Einleitung:</p>
@@ -254,12 +254,12 @@
           <p>Ich danke Ihnen für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Frank Heinrich. – Nächster Redner: Dr. Rolf Mützenich für die SPD.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Rolf Mützenich" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rolf Mützenich">
+        <sp who="Rolf Mützenich" parliamentary_group="SPD" role="mp" position="NA" who_original="Rolf Mützenich" party="SPD" name="Rolf Mützenich">
           <speaker>Dr. Rolf Mützenich (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Es ist richtig, dass der Deutsche Bundestag sich zum zweiten Mal entschieden hat, die Debatte über diesen wichtigen Bericht in die Kernzeit seiner Tätigkeit zu legen. Ich glaube, es ist notwendig, dass man viele Kritikpunkte aufnimmt, sich aber insbesondere darüber vergewissert, wie wichtig humanitäre Hilfe gerade auch als ein Zeichen deutscher Außenpolitik ist und dass sie gewährt werden muss. Es ist eben kein Gnadenbrot, sondern eine notwendige Ergänzung, notwendige Hilfe, insbesondere angesichts der Tatsache, dass das vergangene Jahr ein so dunkles gewesen ist. Das vergangene Jahr hat gezeigt, dass humanitäre Hilfe notwendig ist, natürlich auch, weil die Politik versagt hat.</p>
           <p>Wir dürfen nicht aufhören – ich will auf die Zusammenhänge hinweisen –, kluge Außenpolitik zu machen, humanitäre Hilfe zu leisten und auf der anderen Seite Strukturen zu schaffen, damit nicht immer nur humanitäre Hilfe geleistet werden muss, sondern auch Erfolge möglich sind. Ich finde, hier geht es um ein Zusammenspiel: Humanitäre Hilfe und kluge Außenpolitik gehören zusammen.</p>
@@ -275,12 +275,12 @@
           <p>Vielen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Rolf Mützenich. – Nächster Redner: Michael Brand für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Michael Brand" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Brand">
+        <sp who="Michael Brand" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Brand" party="CDU" name="Michael Brand">
           <speaker>Michael Brand (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Aktuell verzeichnen wir weltweit 50 Millionen Flüchtlinge, so viele wie seit dem Zweiten Weltkrieg nicht mehr. Humanitäre Hilfe ist in einer solchen Lage nicht nur ein Gebot menschlichen Mitleids; humanitäre Hilfe aktiv anzubieten, ist eine Frage von Haltung. Dies gilt für uns Menschen, für jeden einzelnen von uns, aber es gilt auch für ganze Staaten. Insbesondere gilt es für diejenigen, die mehr Möglichkeiten haben als andere.</p>
           <p>Wir verzeichnen angesichts vieler Krisen einen stark anwachsenden Bedarf bei der Finanzierung humanitärer Hilfe. Ohne die einzelnen Appelle der Vereinten Nationen für die jeweiligen Budgets in Milliardenhöhe hier aufzuführen, muss festgehalten werden: Die Summe der Katastrophen und Krisen übersteigt die bisherigen Erfahrungen, und sie erfordert neue Antworten im finanziellen Bereich. Folgerichtig spricht der vorliegende Bericht der Regierung von der Notwendigkeit, einen neuen Ansatz in der deutschen humanitären Hilfe zu wählen.</p>
@@ -296,11 +296,11 @@
           <p>Liebe Kolleginnen und Kollegen, der Bericht der Bundesregierung ist also Bilanz und programmatischer Ausblick zugleich. Die ausführliche Anhörung zu diesem Bericht im Ausschuss für Menschenrechte und Humanitäre Hilfe hat viele Anregungen gebracht. Eines hat sie aber vor allem zutage gefördert: Wir werden mit der zunehmenden Komplexität und Quantität humanitärer Krisen auch in Zukunft zu rechnen haben. Die dramatische Flüchtlingskatastrophe im Mittelmeer ist nur ein aktueller Ausdruck dessen, dass uns die humanitären Katastrophen in immer größerem Maße unmittelbar betreffen. Wir werden in einer zunehmend globalisierten und wechselseitig immer abhängiger gewordenen Welt der Erkenntnis nicht entkommen: Nicht nur wirtschaftlich, sondern auch im Bereich humanitärer Katastrophen werden wir in Zukunft sehr viel stärker betroffen sein, als es vielen bisher bewusst ist und manche auch wahrnehmen wollen.</p>
           <p>Ich komme zum Schluss. Dass mit dem Bericht ein ernsthafter Versuch unternommen wurde, auf diese neuen Herausforderungen entsprechende Antworten zu entwickeln, ist ein wichtiger Schritt. Es ist ein wichtiger erster Schritt, und wir werden uns auch als Deutscher Bundestag mit diesen Themen als Querschnittsaufgabe in Zukunft intensiver befassen müssen. Wir werden uns damit nicht nur aus humanitären oder karitativen Gründen befassen müssen, sondern auch aus strategischen Gründen. Humanitäre Außenpolitik ist integraler Bestandteil der internationalen Politik unseres Landes geworden. Gute humanitäre Politik dient der politischen Stabilität ganzer Regionen und auch der Sicherheit unserer eigenen europäischen Region.</p>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Bitte Zeit beachten!</p>
         </sp>
-        <sp who="Michael Brand" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Brand">
+        <sp who="Michael Brand" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Brand" party="CDU" name="Michael Brand">
           <speaker>Michael Brand (CDU/CSU):</speaker>
           <p>Frau Präsidentin, mein letzter Satz.</p>
           <stage type="interjection">(Jörn Wunderlich [DIE LINKE]: Ein Satz!)</stage>
@@ -308,12 +308,12 @@
           <p>Vielen Dank, Frau Präsidentin.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD – Jörn Wunderlich [DIE LINKE]: Das waren drei Sätze!)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Ja, das waren aber drei gute Sätze. – Letzte Rednerin in dieser Debatte: Dagmar Wöhrl für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dagmar G. Wöhrl" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Dagmar Wöhrl">
+        <sp who="Dagmar G. Wöhrl" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Dagmar G. Wöhrl" party="CSU" name="Dagmar G. Wöhrl">
           <speaker>Dagmar G. Wöhrl (CDU/CSU):</speaker>
           <p>Sehr geehrte Präsidentin! Liebe Kolleginnen und Kollegen! Erst einmal möchte ich mich dafür bedanken, dass es möglich ist, heute über dieses Thema zu debattieren. Wir wissen, dass eine Katastrophe die andere jagt. In Nepal gab es erst vor kurzem über 8 000 Tote. Bei Ebola hoffen wir, dass die Epidemie bald überwunden sein wird; hier gab es über 10 000 Tote. Wir haben immens viele Krisen und immens viele Konfliktgebiete auf der Welt; das zeigt der Bericht der Bundesregierung.</p>
           <p>Seit Vorliegen des Berichts ist aber die Zahl der Krisen und Konflikte noch weiter gestiegen, und alte Krisen und Konflikte sind noch nicht beendet. Ich erinnere nur an Syrien, wo es immer noch 12,2 Millionen Hilfsbedürftige gibt. Das ist über die Hälfte der Bevölkerung. Über 4 Millionen Menschen sind aus dem Land geflohen, und es gibt über 7 Millionen Binnenvertriebene. Ich erinnere auch an den Irak mit rund 3 Millionen Binnenvertriebenen. Und es gibt viele andere Länder wie Somalia oder die Zentralafrikanische Republik, die Staaten der EAC und noch einige mehr, die hier ebenfalls zu nennen wären.</p>
@@ -336,7 +336,7 @@
           <p>In dem Sinne vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD sowie des Abg. Dr. Anton Hofreiter [BÜNDNIS 90/DIE GRÜNEN])</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Dagmar Wöhrl. – Damit schließe ich die Aussprache.</p>
           <p>Wir kommen zur Beschlussempfehlung des Ausschusses für Menschenrechte und Humanitäre Hilfe auf Drucksache 18/4416 zum Bericht der Bundesregierung über die deutsche humanitäre Hilfe im Ausland 2010 bis 2013. Der Ausschuss empfiehlt, in Kenntnis des Berichts der Bundesregierung auf Drucksache 18/2900 eine Entschließung anzunehmen. Wer stimmt für diese Beschlussempfehlung? – Wer stimmt dagegen? – Wer enthält sich? – Die Beschlussempfehlung ist mit Zustimmung von CDU/CSU und SPD und Enthaltung bei den Linken und bei Bündnis 90/Die Grünen angenommen.</p>
@@ -371,7 +371,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="2" what="debate" desc="ZP 5 Beratung des Antrags der Abgeordneten Steffi Lemke, Peter Meiwald, Dr. Vale...">
-        <sp who="Dr. Anton Hofreiter" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Anton Hofreiter">
+        <sp who="Anton Hofreiter" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Anton Hofreiter" party="GRUENE" name="Anton Hofreiter">
           <speaker>Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Vor circa zwei Jahren war ich das letzte Mal mit einem Meereskajak in Südostasien von Insel zu Insel unterwegs. Mit einem Kajak kann man wunderbar tolle Buchten und einsame Strände, auf denen normalerweise kein Mensch ist, erkunden und wunderschöne Korallenriffe entdecken.</p>
           <p>Der Punkt ist nur: Auf den ersten Blick wirkt es wie ein echtes Paradies. Wenn man dann aber an Land geht und sich die Strände genauer anschaut, dann entdeckt man jenseits der Hochwasserlinie Berge von Plastikmüll. Inzwischen ist es absurderweise so, dass dort, wo keine Menschen sind, sehr viel mehr Müll liegt als dort, wo sich Menschen befinden. Der Müll wird nämlich vom Meer gebracht. Es ist uns tatsächlich gelungen, die riesigen Weltmeere so zu vermüllen, dass an von Menschen unberührten Stränden Berge von Plastikmüll liegen. Das ist absolut skandalös, und daran erkennt man, dass dringendster Handlungsbedarf besteht.</p>
@@ -395,12 +395,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Claudia Roth">
+        <sp who="Claudia Roth" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Claudia Roth" party="GRUENE" name="Claudia Roth">
           <speaker>Vizepräsidentin Claudia Roth:</speaker>
           <p>Vielen Dank, Toni Hofreiter. – Nächster Redner in der Debatte: Karsten Möring für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Karsten Möring" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Karsten Möring">
+        <sp who="Karsten Möring" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Karsten Möring" party="CDU" name="Karsten Möring">
           <speaker>Karsten Möring (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Ende Mai haben wir den Europäischen Tag der Meere, eingeführt im Jahr 2008, Bekanntheitsgrad minimal. Trotzdem macht ein solcher Tag Sinn; denn er dient dazu, uns die entscheidende Bedeutung der Ozeane für unser tägliches Leben in Erinnerung zu rufen und in der Öffentlichkeit stärker ins Bewusstsein zu heben.</p>
           <p>Eins ist völlig klar: Der Meeresschutz ist auch für unsere Fraktion, die CDU/CSU, ein wichtiges Anliegen. Wir haben mit der Meeresstrategie-Rahmenrichtlinie und ihrer Umsetzung in nationales Recht schon einen Meilenstein erreicht. Und wenn Herr Hofreiter immer wieder betont, es gehe nicht um Beschlüsse, sondern Umsetzung sei das Thema,</p>
@@ -429,24 +429,24 @@
           <p>Das Ziel der deutschen Meeresschutzpolitik ist ein auf dem Ökosystemansatz beruhendes, umfassendes und integriertes Management aller Aktivitäten, um einen guten Zustand zu erreichen. Dafür brauchen wir ein Zusammenwirken aller Politikbereiche.</p>
           <p>Ich will abschließen mit einem kurzen Blick auf die Situation des Rheines im Bereich meiner Heimatstadt Köln.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Aber wirklich nur kurz.</p>
         </sp>
-        <sp who="Karsten Möring" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Karsten Möring">
+        <sp who="Karsten Möring" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Karsten Möring" party="CDU" name="Karsten Möring">
           <speaker>Karsten Möring (CDU/CSU):</speaker>
           <p>Danke, ich mache es sehr schnell. – Im letzten Jahr hat das Fangen eines Fisches Aufsehen erregt: eines Maifisches. Ein Maifisch ist ein Fisch, der zwar im Rhein geboren wird, dann aber auswandert und bis zur Geschlechtsreife im Meer bleibt, dann zurückkommt und Eier ablegt. Das Besondere war, dass wir erstmals einen solchen Fisch gefangen haben, der nicht im Rhein ausgesetzt wurde, sondern der diesen vollständigen Zyklus durchlaufen hat. Das zeigt – zusammen mit der Feststellung, dass wir inzwischen wieder um die 50 verschiedene Fischarten im Rhein haben –, dass wir mit nationalen Maßnahmen bei der Reinhaltung von Flüssen einiges erreichen können. Das sollten wir auch beibehalten.</p>
           <p>All denjenigen, die dazu beigetragen haben – das sind auch viele Ehrenamtler –, sollten wir dafür besonders dankbar sein. Sie behalten das Ziel einer guten Wasserqualität im Blick und arbeiten dafür – jeder an seinem Platz –, dass es da auch in Zukunft weiterhin Erfolge gibt.</p>
           <p>Ich danke Ihnen für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Ich möchte noch einmal darauf aufmerksam machen: Wenn man die Redezeit zu weit überzieht, geht das in der Regel zulasten der nachfolgenden Redner und Rednerinnen. Das machen wir jetzt nicht. Dies ist ein Hinweis für alle, die danach zu Wort kommen, im Zeitrahmen zu bleiben.</p>
           <p>Nächster Redner für die Fraktion die Linke ist der Kollege Hubertus Zdebel.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Hubertus Zdebel" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Hubertus Zdebel">
+        <sp who="Hubertus Zdebel" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Hubertus Zdebel" party="DIE LINKE" name="Hubertus Zdebel">
           <speaker>Hubertus Zdebel (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Sehr geehrte Damen und Herren! Die Belastung unserer Ozeane wird ein immer drängenderes Problem. Und dabei ist die Betrachtung der Meeresbelastung durch Plastikmüll nur eine Komponente.</p>
           <p>Es ist richtig und wichtig und auch sehr zentral, dass die Bundesregierung den Meeresschutz als ein Schwerpunktthema der deutschen Präsidentschaft des G 7-Gipfels benennt, der eigentlich ein G 8-Gipfel sein sollte, was bei der langen russischen Küstenlinie auch Sinn machen würde. Aber das ist ein anderes Thema.</p>
@@ -471,13 +471,13 @@
           <p>Der Schutz des Meeres und seiner Ressourcen bedeutet auch Friedenssicherung. Auch deshalb setzt sich die Linke dafür ein.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie des Abg. Dr. Anton Hofreiter [BÜNDNIS 90/DIE GRÜNEN])</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. Die Einhaltung der Redezeit war vorbildlich.</p>
           <p>Als Nächste erhält die Parlamentarische Staatssekretärin Rita Schwarzelühr-Sutter das Wort für die Bundesregierung.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Rita Schwarzelühr-Sutter" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin bei der Bundesministerin für Umwelt, Naturschutz, Bau und Reaktorsicherheit" party="SPD" name="Rita Schwarzelühr-Sutter">
+        <sp who="Rita Schwarzelühr-Sutter" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin bei der Bundesministerin für Umwelt, Naturschutz, Bau und Reaktorsicherheit" who_original="Rita Schwarzelühr-Sutter" party="SPD" name="Rita Schwarzelühr-Sutter">
           <speaker>Rita Schwarzelühr-Sutter, Parl. Staatssekretärin bei der Bundesministerin für Umwelt, Naturschutz, Bau und Reaktorsicherheit:</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Sehr geehrte Damen und Herren! Beide Anträge zum Meeresschutz greifen ein ganz wichtiges Themenfeld auf. Sicherlich kann man sagen, dass die Vermüllung der Meere aktuell eine der größten Herausforderungen für die Meeresökosysteme ist.</p>
           <p>Deutschland hat als Anlieger an zwei europäischen Meeren – an Nord- und Ostsee – eine ganz besondere Beziehung zum Meeres- und Meeresnaturschutz. Wir wirken bereits in regionalen Kooperationen mit, um die Qualität der biologischen Vielfalt und der Meeresökosysteme von Nord- und Ostsee zu verbessern. Auch das Wattenmeer als Weltnaturerbe ist ein Vorzeigebeispiel, wie es gelingen kann, Nutzungen und Umweltschutz zusammenzubringen.</p>
@@ -502,12 +502,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächster Redner ist Dr. Thomas Gebhart, CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Thomas Gebhart" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Thomas Gebhart">
+        <sp who="Thomas Gebhart" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Thomas Gebhart" party="CDU" name="Thomas Gebhart">
           <speaker>Dr. Thomas Gebhart (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! In unseren Meeren schwimmen mehr als 100 Millionen Tonnen Müll. Jahr für Jahr kommen alleine 13 Millionen Tonnen an Kunststoffabfällen dazu. Im Nordpazifik treibt ein Müllteppich, der so groß ist wie Deutschland und Frankreich zusammen. Wir können und dürfen es nicht zulassen, dass unsere Meere zu einer gigantischen Mülldeponie werden und verkommen. Es ist unsere Aufgabe, die Meere zu schützen. Das ist auch für uns Christdemokraten ein Kernanliegen. Es geht um elementare Lebensgrundlagen, die wir schützen wollen, die wir bewahren wollen, auch für nachfolgende Generationen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
@@ -532,11 +532,11 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Darauf darf jetzt die Kollegin Steffi Lemke, Bündnis 90/Die Grünen, antworten.</p>
         </sp>
-        <sp who="Steffi Lemke" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Steffi Lemke">
+        <sp who="Steffi Lemke" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Steffi Lemke" party="GRUENE" name="Steffi Lemke">
           <speaker>Steffi Lemke (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Frau Merkel hat 2011 vor der CDU/CSU-Fraktion gesagt, wir sollten die Meere in unsere Herzen schließen. Nach den Reden der CDU-Kollegen habe ich kurz überlegt, ob das eine Drohung gewesen ist. Sie haben zwar erwähnt, dass wir Regelungen haben – es gibt längst Aktionspläne, wir haben Gesetze und die Meeresstrategie-Rahmenrichtlinie der EU –; die Bundesregierung wird aber gerade von der EU und von den deutschen Umweltverbänden verklagt, weil sie diese Gesetze, weil sie diese Richtlinie nicht umsetzt. Und dann stellen Sie sich hierhin und sagen: Wir haben doch die Meeresstrategie-Rahmenrichtlinie, wir haben Aktionspläne; die Anträge der Opposition sind überflüssig. – Was Sie hier gemacht haben, ist hanebüchen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
@@ -558,22 +558,22 @@
           <p>Sie haben nicht einmal eine Kennzeichnungspflicht dafür eingeführt. Das hat Ihnen der BUND abgenommen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Frau Kollegin Lemke, darf ich auch Sie an die Zeit erinnern?</p>
         </sp>
-        <sp who="Steffi Lemke" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Steffi Lemke">
+        <sp who="Steffi Lemke" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Steffi Lemke" party="GRUENE" name="Steffi Lemke">
           <speaker>Steffi Lemke (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ich komme zum Schluss. – Ich begrüße ausdrücklich, Herr Gebhart, dass Sie den Kollegen Töpfer und den Rhein angesprochen haben. Ich appelliere an Sie: Nehmen Sie sich als Bundesregierung ein Beispiel an dem Kollegen Töpfer! Der trägt Mitverantwortung dafür, dass bei einem ähnlich gravierenden Problem, dem Ozonloch, ein FCKW-Verbot durchgesetzt wurde. Das war entschiedenes und fundamentales Handeln. Davon ist bei Ihnen nichts zu sehen.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie des Abg. Heinz Wiese [Ehingen] [CDU/CSU])</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Für die SPD-Fraktion erhält jetzt Frank Schwabe das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Frank Schwabe" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Frank Schwabe">
+        <sp who="Frank Schwabe" parliamentary_group="SPD" role="mp" position="NA" who_original="Frank Schwabe" party="SPD" name="Frank Schwabe">
           <speaker>Frank Schwabe (SPD):</speaker>
           <p>Frau Präsidentin! Sehr verehrte Damen und Herren! 71 Prozent der Weltfläche sind durch Meere bedeckt. Es ist schon mehrfach gesagt worden: Wir wissen kaum etwas darüber. Ich glaube, das ist auch der Grund, warum wir uns relativ wenig, wenn wir das einmal in Relation zur Gesamtfläche setzen, mit den Meeren beschäftigen.</p>
           <p>Deswegen ist es richtig und gut, dass wir uns heute mit den Meeren beschäftigen. Deswegen ist es gut, dass die Opposition mit Leidenschaft, die in der Debatte auch wichtig ist, hier vorträgt. Natürlich muss die Opposition immer mehr fordern als das, was schon geschieht. Trotzdem kann ich, glaube ich, für alle feststellen: Es gibt wirklich einen Fortschritt. Es ist gut, dass der Meeresschutz Thema auf dem G 7-Gipfel in diesem Jahr ist. Das ist ein Fortschritt. Natürlich muss aus der Beschäftigung mit dem Thema am Ende dann auch konkretes Handeln erwachsen.</p>
@@ -593,12 +593,12 @@
           <p>Insofern sage ich noch einmal: Es ist gut, dass Schwung in die Debatte über den Meeresschutz gekommen ist. Es muss aber auch zu konkreten Taten kommen. Die heutige Debatte ist dabei zumindest ein kleiner Baustein.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD sowie des Abg. Dr. Klaus-Peter Schulze [CDU/CSU])</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächster Redner ist Dr. Klaus-Peter Schulze, CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Klaus-Peter Schulze" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Klaus-Peter Schulze">
+        <sp who="Klaus-Peter Schulze" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Klaus-Peter Schulze" party="CDU" name="Klaus-Peter Schulze">
           <speaker>Dr. Klaus-Peter Schulze (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Die Weltmeere verfügen über eine große Artenvielfalt, die auch heute noch weitgehend unbekannt ist. Wenngleich drei Viertel der Erdoberfläche von Ozeanen bedeckt sind, sind sechsmal mehr Landlebewesen als Meeresorganismen bekannt. Die biologische Vielfalt im Meer hat seit Beginn der Industrialisierung stark abgenommen, und dieser Prozess schreitet weiter voran. Durch das Verschwinden von Arten verringert sich die stabilisierende Wirkung ehemals vielfältiger Lebensgemeinschaften. Dadurch werden ganze Lebensräume gefährdet.</p>
           <p>Dies wissend, hat der Meeresumweltschutz eine große Bedeutung in der deutschen Politik. Das beweist ganz aktuell der Umstand, dass dieses Thema ein Schwerpunkt der G 7-Präsidentschaft ist. Aber auch generell ist Deutschland in Europa bei der Ausweisung von Schutzgebieten bereits heute führend.</p>
@@ -618,12 +618,12 @@
           <p>Ich bedanke mich für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Letzter Redner zu diesem Tagesordnungspunkt ist der Kollege Michael Thews, SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Michael Thews" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Michael Thews">
+        <sp who="Michael Thews" parliamentary_group="SPD" role="mp" position="NA" who_original="Michael Thews" party="SPD" name="Michael Thews">
           <speaker>Michael Thews (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen! Liebe Kollegen! Sehr geehrte Damen und Herren! Zum ersten Mal werden Fragen des Meeresumweltschutzes von den großen Wirtschaftsnationen auf dem G7-Gipfel behandelt. Die G7-Nationen wollen einen Aktionsplan gegen Meeresmüll beschließen, der weltweit Maßnahmen zur Reduzierung von Meeresmüll initiiert und dabei bereits vorhandene regionale Aktionspläne einbezieht – ein Schritt, der in seiner Bedeutung nicht zu unterschätzen ist, ein Schritt, der angesichts der Bedeutung der Meere für unsere Ernährung, für unsere Umwelt notwendig ist.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
@@ -643,7 +643,7 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Damit schließe ich die Aussprache.</p>
           <p>Interfraktionell wird die Überweisung der Vorlagen auf den Drucksachen 18/4814 und 18/4809 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. – Ich sehe, Sie sind damit einverstanden. Dann sind die Überweisungen so beschlossen.</p>
@@ -657,7 +657,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="3" what="debate" desc="Beratung des Antrags der Fraktionen der CDU/CSU und SPD">
-        <sp who="Rita Schwarzelühr-Sutter" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin bei der Bundesministerin für Umwelt, Naturschutz, Bau und Reaktorsicherheit" party="SPD" name="Rita Schwarzelühr-Sutter">
+        <sp who="Rita Schwarzelühr-Sutter" parliamentary_group="NA" role="government" position="Parl. Staatssekretärin bei der Bundesministerin für Umwelt, Naturschutz, Bau und Reaktorsicherheit" who_original="Rita Schwarzelühr-Sutter" party="SPD" name="Rita Schwarzelühr-Sutter">
           <speaker>Rita Schwarzelühr-Sutter, Parl. Staatssekretärin bei der Bundesministerin für Umwelt, Naturschutz, Bau und Reaktorsicherheit:</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Sehr geehrte Damen und Herren! Morgen findet der erste Tag der Städtebauförderung statt. Jeder von uns hat die Erfolge und Leistungen der Städtebauförderung schon gesehen, bewusst oder unbewusst. Über 7 700 Fördermaßnahmen in 3 200 Städten und Gemeinden konnten bisher umgesetzt werden; das spricht für sich. Bund und Länder haben die Kommunen im Rahmen der Städtebauförderung seit 1971 – die Kommunen in den neuen Ländern seit 1990 – bei ihrer städtebaulichen Entwicklung mit rund 16 Milliarden Euro unterstützt.</p>
           <p>Mit den fünf Programmen der Städtebauförderung sorgen wir dafür, dass historische Stadtkerne in altem Glanz erstrahlen und kulturhistorisch wertvolle Stadtkerne erhalten werden, dass für eine soziale Stadt die soziale Infrastruktur vor Ort, zum Beispiel Nachbarschaftszentren, Stadtteilschulen und Mehrgenerationenhäuser, ausgebaut und sozialen Polarisierungen entgegengewirkt wird –</p>
@@ -684,12 +684,12 @@
           <p>Ich danke Ihnen herzlich.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Für die Fraktion Die Linke spricht jetzt Heidrun Bluhm.</p>
           <stage type="interjection">(Beifall bei der LINKEN – Sören Bartol [SPD]: Jetzt lob‘ uns aber mal!)</stage>
         </sp>
-        <sp who="Heidrun Bluhm" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Heidrun Bluhm">
+        <sp who="Heidrun Bluhm" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Heidrun Bluhm" party="DIE LINKE" name="Heidrun Bluhm">
           <speaker>Heidrun Bluhm (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Verehrte Kolleginnen und Kollegen! Frau Schwarzelühr-Sutter hat es bereits gesagt: Morgen begehen wir den ersten Tag der Städtebauförderung. Die heutige Debatte hier soll wahrscheinlich schon die Feierstunde sein.</p>
           <stage type="interjection">(Ulli Nissen [SPD]: Zu Recht!)</stage>
@@ -722,12 +722,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächster Redner ist Kai Wegner, CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Kai Wegner" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Kai Wegner">
+        <sp who="Kai Wegner" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Kai Wegner" party="CDU" name="Kai Wegner">
           <speaker>Kai Wegner (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Liebe Frau Bluhm, in der Tat: Tue Gutes und rede darüber. – Das, was wir in den letzten Jahren in der Städtebauförderung geleistet haben – gerade auch diese Koalition in ihrer Amtszeit –, lässt sich allemal sehen und ist unverzichtbar für die Quartiere, für die Stadtentwicklung und für den ländlichen Raum. Deshalb ist es gut, dass wir heute über die Städtebauförderung und die Initiativen dieser Regierung sprechen, Frau Bluhm.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU – Ulli Nissen [SPD]: Gut, dass Sie das so sagen, Herr Wegner!)</stage>
@@ -757,12 +757,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Dann erhält jetzt das Wort ein Grüner, nämlich Christian Kühn.</p>
           <stage type="interjection">(Sylvia Kotting-Uhl [BÜNDNIS 90/DIE GRÜNEN]: Ein kühner Grüner!)</stage>
         </sp>
-        <sp who="Christian Kühn" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Christian Kühn">
+        <sp who="Christian Kühn (Tübingen)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Christian Kühn (Tübingen)" party="GRUENE" name="Christian Kühn">
           <speaker>Christian Kühn (Tübingen) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Danke, Frau Präsidentin. – Sehr geehrte Damen und Herren! Liebe Kolleginnen und Kollegen! Die Menschen in den Städten in Deutschland wollen mehr Pflanzen, mehr Bäume und mehr Parkanlagen statt Betonwüsten und Asphaltpisten. Das ist eine gute Nachricht im Hinblick auf die Nachhaltigkeit in der Stadt.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -788,12 +788,12 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Für die SPD-Fraktion spricht jetzt der Kollege Michael Groß.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Michael Groß" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Michael Groß">
+        <sp who="Michael Groß" parliamentary_group="SPD" role="mp" position="NA" who_original="Michael Groß" party="SPD" name="Michael Groß">
           <speaker>Michael Groß (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Sehr geehrte Damen und Herren! Liebe Kolleginnen und Kollegen! Mich freut die Rückmeldung der Opposition. Das war, würde ich sagen, ein Kritikchen.</p>
           <p>Wir Sozialdemokraten wissen genau, was wir wollen. In die Koalitionsvereinbarung haben wir hineingeschrieben, dass „Soziale Stadt“ das Leitprogramm für soziale Integration sein soll; das ist unser Ziel. Wir wollen, dass die Menschen im Quartier ein Zuhause finden, dass Flüchtlinge, alte Menschen und junge Menschen dort gemeinsam leben können.</p>
@@ -815,12 +815,12 @@
           <p>Ich danke Ihnen. Glück auf! Ein schönes Wochenende!</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Für die CDU/CSU-Fraktion spricht jetzt der Kollege Artur Auernhammer.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Artur Auernhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Artur Auernhammer">
+        <sp who="Artur Auernhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Artur Auernhammer" party="CSU" name="Artur Auernhammer">
           <speaker>Artur Auernhammer (CDU/CSU):</speaker>
           <p>Verehrte Frau Präsidentin! Meine sehr verehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Auch wenn es der Opposition ein wenig schwerfällt, uns in der Regierungsverantwortung zu loben, kann ich hier auch als Kommunalpolitiker sagen: Es gibt nur wenige Förderprogramme, die in so umfassender Weise auf die Kommunen wirken wie das Städtebauförderprogramm.</p>
           <p>Seit mehr als 40 Jahren steht der investive Teil der Städtebauförderung nicht nur für die Konservierung alter, zumindest auch historisch bedeutender Bauten. Städtebauförderung steht auch für die Umgestaltung und -Anpassung an heutige Bedürfnisse. Bauhistorische Substanz wurde saniert und in einem nutzbaren Zustand in das 21. Jahrhundert gebracht.</p>
@@ -844,27 +844,27 @@
           <p>Ich bedanke mich für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Der Kollege Auernhammer war der letzte Redner zu diesem Tagesordnungspunkt. Deshalb schließe ich die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über den Antrag der Fraktionen der CDU/CSU und SPD auf Drucksache 18/4806 mit dem Titel „Starke Städte und Quartiere – Die Erfolgsgeschichte der Städtebauförderung fortschreiben“. Wer stimmt für diesen Antrag? – Wer stimmt dagegen? – Wer enthält sich? – Der Antrag ist mit den Stimmen von CDU/CSU, SPD und Linke bei Enthaltung der Fraktion Bündnis 90/Die Grünen angenommen.</p>
           <p>Ich rufe den Tagesordnungspunkt 21 auf:</p>
           <p>Beratung des Antrags der Fraktionen CDU/CSU, SPD und BÜNDNIS 90/DIE GRÜNEN</p>
-          <p>zu dem Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates über das Klonen von Rindern, Schweinen, Schafen, Ziegen und Equiden, die für landwirtschaftliche Zwecke gehalten und reproduziert werden </p>
+          <p>zu dem Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates über das Klonen von Rindern, Schweinen, Schafen, Ziegen und Equiden, die für landwirtschaftliche Zwecke gehalten und reproduziert werden</p>
           <p>KOM(2013) 892 endg.; Ratsdok. 18152/13</p>
           <p>und</p>
           <p>zu dem Vorschlag für eine Richtlinie des Rates über das Inverkehrbringen von Lebensmitteln von Klontieren</p>
           <p>KOM(2013) 893 endg.; Ratsdok. 18153/13</p>
           <p>hier: Stellungnahme gegenüber der Bundesregierung gemäß Artikel 23 Absatz 3 des Grundgesetzes</p>
           <p>Kein Klonfleisch in der EU – Für mehr Tier- und Verbraucherschutz</p>
-          <p>Drucksache 18/4808 </p>
+          <p>Drucksache 18/4808</p>
           <p>Nach einer interfraktionellen Vereinbarung sind für die Aussprache 38 Minuten vorgesehen. – Ich sehe keinen Widerspruch. Dann ist so beschlossen.</p>
           <p>Ich eröffne die Aussprache. Das Wort erhält die Kollegin Gitta Connemann, CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
       </div>
       <div type="agenda_item" n="4" what="debate" desc="Beratung des Antrags der Fraktionen CDU/CSU, SPD und BÜNDNIS 90/DIE GRÜNEN">
-        <sp who="Gitta Connemann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Gitta Connemann">
+        <sp who="Gitta Connemann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Gitta Connemann" party="CDU" name="Gitta Connemann">
           <speaker>Gitta Connemann (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Kennen Sie den Film The 6th Day? Es geht um das Klonen von Menschen wie auch Tieren, und es gibt dort einen bemerkenswerten Dialog, den ich Ihnen gerne vortragen würde:</p>
           <p>„Bei Ihrem RePet …wird es sich exakt um denselben Hund handeln. Er kann alle Kunststückchen, die Sie ihm beigebracht haben, er findet alle Knochen, die er verbuddelt hat. Er wird überhaupt nicht spüren, dass er ein Klon ist …“ – „… kann ich meiner Tochter ein so großes Tier anvertrauen mit scharfen Zähnen?“ – „Wir können ihn auch kleiner machen, mit weichen Zähnen.“ … „Wenn Sie wollen, können wir ihn sogar farblich auf ihre Wohnzimmereinrichtung abstimmen.“ Meine Damen und Herren, Utopie? Dystopie? Nein, heute schon ein Stück Realität. 1996 wird in Schottland das weltweit erste geklonte Säugetier präsentiert, das Klonschaf Dolly. Dolly ist die identische Kopie eines anderen Schafes, eine Reproduktion aus dem Reagenzglas. Damit war übrigens der Damm gebrochen. Klonmäuse, Klonrinder, Klonschweine folgen. Auch Haustiere werden kopiert. Eine Klonkatze soll zeigen, dass sich niemand mehr von seinem geliebten Begleiter verabschieden muss. Der Weg zum „RePet“ ist also nicht mehr weit.</p>
@@ -905,12 +905,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Das Wort hat jetzt Dr. Kirsten Tackmann, Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Kirsten Tackmann" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Kirsten Tackmann">
+        <sp who="Kirsten Tackmann" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Kirsten Tackmann" party="DIE LINKE" name="Kirsten Tackmann">
           <speaker>Dr. Kirsten Tackmann (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Liebe Gäste! Beim Klonen geht es darum, künstlich und systematisch genetisch identische Individuen zu schaffen – ein Horrorszenario für alle, für die die Vielfalt des Lebens ihre eigentliche Existenzgrundlage ist. Deswegen ist das schon allein ein guter Grund, Klonen abzulehnen.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -932,12 +932,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Für die SPD-Fraktion spricht jetzt der Kollege Dr. Wilhelm Priesmeier.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Wilhelm Priesmeier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wilhelm Priesmeier">
+        <sp who="Wilhelm Priesmeier" parliamentary_group="SPD" role="mp" position="NA" who_original="Wilhelm Priesmeier" party="SPD" name="Wilhelm Priesmeier">
           <speaker>Dr. Wilhelm Priesmeier (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Liebe Kollegin Tackmann, ich kann das nachvollziehen: Ich bedauere es außerordentlich, dass es in diesem Hause nicht gelingt, bei Fragestellungen, bei denen es um ethische und moralische Ansprüche und Themen geht, fraktionsübergreifend zusammenzuarbeiten.</p>
           <stage type="interjection">(Beifall der Abg. Birgit Wöllert [DIE LINKE])</stage>
@@ -963,11 +963,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Als nächste Rednerin hat Nicole Maisch von der Fraktion Bündnis 90/Die Grünen das Wort.</p>
         </sp>
-        <sp who="Nicole Maisch" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Nicole Maisch">
+        <sp who="Nicole Maisch" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Nicole Maisch" party="GRUENE" name="Nicole Maisch">
           <speaker>Nicole Maisch (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Debatten zur Tierhaltung und zur Tierzucht in diesem Haus sind normalerweise Debatten, in denen ein tiefer Graben zwischen Herrn Ebner und Herrn Stier, zwischen Grünen und Schwarzen verläuft. Umso mehr freue ich mich, dass von der heutigen Debatte ein klares Signal gegen das Klonen von Nutztieren nach Europa gesendet wird. Das ist ein gutes Zeichen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN)</stage>
@@ -988,12 +988,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Als nächster Redner in der Debatte hat Artur Auernhammer für die CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Artur Auernhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Artur Auernhammer">
+        <sp who="Artur Auernhammer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Artur Auernhammer" party="CSU" name="Artur Auernhammer">
           <speaker>Artur Auernhammer (CDU/CSU):</speaker>
           <p>Verehrte Frau Präsidentin! Meine sehr verehrten Damen und Herren ! Liebe Kolleginnen und Kollegen! Der Sänger Max Raabe brachte 2002 eine Single heraus, mit der er einem gesellschaftlichen Irrtum zu einer hohen Popularität verhalf. Ich zitiere: „Klonen kann sich lohnen“. Wir haben jetzt in dieser Debatte mitbekommen: Klonen kann sich nicht lohnen, und Klonen wird sich nicht lohnen. Gerade ist bereits von meiner Kollegin Gitta Connemann ausgeführt worden, welche negativen Herausforderungen uns hier entgegenstehen.</p>
           <p>Ich möchte das Thema hier, nachdem bereits zwei Veterinärmediziner gesprochen haben, einmal aus Sicht des Rinderzüchters erläutern. Nehmen wir einmal an, ein international tätiger Konzern hat eine Spitzenfärse oder einen Zuchtbullen, der besonders gute Leistungszahlen hat, der gute Merkmale vererbt. Auch dem besten Bullen geht im hohen Alter, wenn er vielleicht schon 1 Million Spermaportionen produziert hat, irgendwann einmal die Luft aus. Also hat dieser Konzern vielleicht Interesse daran, aus diesem Bullen einen Klon herzustellen, auch mit dem notwendigen finanziellen Aufwand.</p>
@@ -1014,12 +1014,12 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Als letzte Rednerin in dieser Debatte hat Christina Jantz von der SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Christina Jantz" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Christina Jantz">
+        <sp who="Christina Jantz" parliamentary_group="SPD" role="mp" position="NA" who_original="Christina Jantz" party="SPD" name="Christina Jantz">
           <speaker>Christina Jantz (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Liebe Schülerinnen und Schüler! Liebe Kolleginnen und Kollegen! Zu Beginn meiner Rede möchte ich ausdrücklich betonen, wie wichtig es ist, dass wir Abgeordnete des Bundestages gemeinsam und geschlossen gegen landwirtschaftliche Klontiere in der EU auftreten. Daher ist es ein besonders gutes Zeichen, dass dieser Antrag sowohl von den Regierungsfraktionen, SPD und Union, als auch von der Fraktion Bündnis 90/Die Grünen auf den Weg gebracht wurde. Natürlich wäre eine Einbringung durch alle Fraktionen des Hauses auch aus meiner Sicht wünschenswert gewesen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD, der CDU/CSU und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -1031,7 +1031,7 @@
           <p>Liebe Kolleginnen und Kollegen, ich danke Ihnen für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Liebe Kolleginnen und Kollegen, wir kommen zur Abstimmung über den Antrag der Fraktionen von CDU/CSU, SPD und Bündnis 90/Die Grünen auf der Drucksache 18/4808 mit dem Titel „Kein Klonfleisch in der EU – Für mehr Tier- und Verbraucherschutz“, hier: Stellungnahme gegenüber der Bundesregierung gemäß Artikel 23 Absatz 3 des Grundgesetzes. Wer stimmt für diesen Antrag? – Gibt es jemanden, der dagegen stimmt? – Gibt es jemanden, der sich enthält? – Nein. Dann ist dieser Antrag einstimmig angenommen worden.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
@@ -1046,7 +1046,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="5" what="debate" desc="Beratung des Antrags der Abgeordneten Dr. Gesine Lötzsch, Sevim Dağdelen, Caren ...">
-        <sp who="Dr. Gesine Lötzsch" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Gesine Lötzsch">
+        <sp who="Gesine Lötzsch" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Gesine Lötzsch" party="DIE LINKE" name="Gesine Lötzsch">
           <speaker>Dr. Gesine Lötzsch (DIE LINKE):</speaker>
           <p>Vielen Dank. – Frau Präsidentin! Meine sehr geehrten Damen und Herren! Wir waren heute Morgen alle dabei: Bundestagspräsident Lammert eröffnete die Gedenkstunde mit dem Zitat:</p>
           <p>Der 8. Mai 1945 war ein Tag der Befreiung.</p>
@@ -1070,12 +1070,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Als nächster Redner hat Herr Dr. Tim Ostermann von der CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Tim Ostermann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Tim Ostermann">
+        <sp who="Tim Ostermann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Tim Ostermann" party="CDU" name="Tim Ostermann">
           <speaker>Dr. Tim Ostermann (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine sehr geehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Heute vor 70 Jahren hat die deutsche Wehrmacht bedingungslos gegenüber den Alliierten kapituliert. Ein sechsjähriger Weltkrieg fand damit in Europa sein Ende. An diesem Krieg waren mehr als 60 Staaten beteiligt. Mehr als 50 Millionen Menschen – wir haben es eben schon gehört – sind ihm zum Opfer gefallen. Am 8. Mai 1945 war dieser grauenvolle Krieg endlich beendet. Das Töten hörte auf.</p>
           <p>Das Ende des Zweiten Weltkrieges bedeutete die militärische Niederlage Deutschlands. Mit dem Ende des Krieges ging aber auch das Ende der NS-Diktatur einher. Zwölf Jahre lang haben die Nationalsozialisten Deutschland und Europa mit ihrer Schreckensherrschaft terrorisiert. Wer nicht in das Idealbild der Nationalsozialisten passte, wurde verfolgt, drangsaliert, getötet. Der traurige und auch heute noch schwer zu fassende Tiefpunkt war dabei der Holocaust. Über 6 Millionen Menschen jüdischen Glaubens wurden von den Nationalsozialisten systematisch und auf bestialische Weise ermordet.</p>
@@ -1116,11 +1116,11 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Als nächster Redner hat Volker Beck von der Fraktion Bündnis 90/Die Grünen das Wort.</p>
         </sp>
-        <sp who="Volker Beck" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Volker Beck">
+        <sp who="Volker Beck (Köln)" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Volker Beck (Köln)" party="GRUENE" name="Volker Beck">
           <speaker>Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Heinrich Böll sagte 1985:</p>
           <p>Ihr werdet die Deutschen immer wieder daran erkennen können, ob sie den 8. Mai als Tag der Niederlage oder der Befreiung bezeichnen.</p>
@@ -1149,12 +1149,12 @@
           <p>Ich kann Ihnen sagen: Wir haben am Mittwoch darüber in der Bundesstiftung „Denkmal für die ermordeten Juden Europas“ diskutiert. Der Beirat schlägt vor, dass man sich dieses Themas annimmt. Ich finde, wir sollten uns als Bundestag diesen Fragen gemeinsam öffnen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Als nächste Rednerin hat Gabriele Fograscher von der SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Gabriele Fograscher" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gabriele Fograscher">
+        <sp who="Gabriele Fograscher" parliamentary_group="SPD" role="mp" position="NA" who_original="Gabriele Fograscher" party="SPD" name="Gabriele Fograscher">
           <speaker>Gabriele Fograscher (SPD):</speaker>
           <p>Frau Präsidentin! Verehrte Kolleginnen und Kollegen! Wir haben diesen 8. Mai heute mit einer Gedenkstunde begonnen und beenden die Plenarsitzung heute mit der Diskussion zum 8. Mai. Auch wenn wir dem Antrag der Linken nicht zustimmen werden – das muss ich leider sagen, Herr Ostermann: ganz ausdrücklich nicht mit der Begründung, die Sie genannt haben; ich werde das nachher ausführen –, gibt er doch Gelegenheit, die Bedeutung dieses Tages nochmals zu beleuchten.</p>
           <p>Es hat lange gedauert – Professor Dr. Winkler hat das heute Morgen ausgeführt –, bis der 8. Mai 1945 als „Tag der Befreiung“ bezeichnet und begriffen wurde. Es war Richard von Weizsäcker im Jahr 1985, der damals – auch danach nicht unumstritten – diesen Begriff prägte. Gerade in diesem Jahr, zum 70. Jahrestag, gab und gibt es um dieses Datum viele würdige, zum Nachdenken anregende Veranstaltungen: Gedenkveranstaltungen in den KZ-Gedenkstätten oder die Eröffnung des NS-Dokumentationszentrums in München, die Gedenkstunde heute Morgen oder die Debatte gestern zum Thema „50 Jahre diplomatische Beziehungen zu Israel“.</p>
@@ -1170,12 +1170,160 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Wir kommen zur Abstimmung über den Antrag der Fraktion Die Linke auf der Drucksache 18/4333 mit dem Titel „Tag der Befreiung muss gesetzlicher Gedenktag werden“. Wer stimmt für diesen Antrag? – Wer stimmt dagegen? – Wer enthält sich? – Damit ist dieser Antrag mit den Stimmen der Koalition gegen die Stimmen der Fraktion Die Linke bei Enthaltung der Fraktion Bündnis 90/Die Grünen abgelehnt worden.</p>
           <p>Wir sind damit am Schluss unserer heutigen Tagesordnung.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 20. Mai 2015, 13 Uhr, ein.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluss: 14.45 Uhr)</stage>
+          <p>Anlagen zum Stenografischen Bericht</p>
+          <p>Anlage 1</p>
+          <p>Liste der entschuldigten Abgeordneten</p>
+          <p>Abgeordnete(r)</p>
+          <p>entschuldigt bis</p>
+          <p>einschließlich</p>
+          <p>Amtsberg, Luise</p>
+          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>08.05.2015</p>
+          <p>Beck (Bremen), Marieluise</p>
+          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>08.05.2015</p>
+          <p>Becker, Dirk</p>
+          <p>SPD</p>
+          <p>08.05.2015</p>
+          <p>Dr. Bergner, Christoph</p>
+          <p>CDU/CSU</p>
+          <p>08.05.2015</p>
+          <p>Buchholz, Christine</p>
+          <p>DIE LINKE</p>
+          <p>08.05.2015</p>
+          <p>Dörner, Katja</p>
+          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>08.05.2015</p>
+          <p>Ehrmann, Siegmund</p>
+          <p>SPD</p>
+          <p>08.05.2015</p>
+          <p>Freitag, Dagmar</p>
+          <p>SPD</p>
+          <p>08.05.2015</p>
+          <p>Gohlke, Nicole</p>
+          <p>DIE LINKE</p>
+          <p>08.05.2015</p>
+          <p>Gröhe, Hermann</p>
+          <p>CDU/CSU</p>
+          <p>08.05.2015</p>
+          <p>Hartmann (Wackern-heim), Michael</p>
+          <p>SPD</p>
+          <p>08.05.2015</p>
+          <p>Hintze, Peter</p>
+          <p>CDU/CSU</p>
+          <p>08.05.2015</p>
+          <p>Hinz (Essen), Petra</p>
+          <p>SPD</p>
+          <p>08.05.2015</p>
+          <p>Hornhues, Bettina</p>
+          <p>CDU/CSU</p>
+          <p>08.05.2015</p>
+          <p>Dr. Jüttner, Egon</p>
+          <p>CDU/CSU</p>
+          <p>08.05.2015</p>
+          <p>Karawanskij, Susanna</p>
+          <p>DIE LINKE</p>
+          <p>08.05.2015</p>
+          <p>Kovac, Kordula</p>
+          <p>CDU/CSU</p>
+          <p>08.05.2015</p>
+          <p>Krellmann, Jutta</p>
+          <p>DIE LINKE</p>
+          <p>08.05.2015</p>
+          <p>Dr. Lücking-Michel, Claudia</p>
+          <p>CDU/CSU</p>
+          <p>08.05.2015</p>
+          <p>Menz, Birgit</p>
+          <p>DIE LINKE</p>
+          <p>08.05.2015</p>
+          <p>Motschmann, Elisabeth</p>
+          <p>CDU/CSU</p>
+          <p>08.05.2015</p>
+          <p>Dr. Müller, Gerd</p>
+          <p>CDU/CSU</p>
+          <p>08.05.2015</p>
+          <p>Nietan, Dietmar</p>
+          <p>SPD</p>
+          <p>08.05.2015</p>
+          <p>Nouripour, Omid</p>
+          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>08.05.2015</p>
+          <p>Pflugradt, Jeannine</p>
+          <p>SPD</p>
+          <p>08.05.2015</p>
+          <p>Dr. Rosemann, Martin</p>
+          <p>SPD</p>
+          <p>08.05.2015</p>
+          <p>Roth (Heringen), Michael</p>
+          <p>SPD</p>
+          <p>08.05.2015</p>
+          <p>Rüffer, Corinna</p>
+          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>08.05.2015</p>
+          <p>Sarrazin, Manuel</p>
+          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>08.05.2015</p>
+          <p>Schlecht, Michael</p>
+          <p>DIE LINKE</p>
+          <p>08.05.2015</p>
+          <p>Schmidt (Fürth), Christian</p>
+          <p>CDU/CSU</p>
+          <p>08.05.2015</p>
+          <p>Steinbrück, Peer</p>
+          <p>SPD</p>
+          <p>08.05.2015</p>
+          <p>Strothmann, Lena</p>
+          <p>CDU/CSU</p>
+          <p>08.05.2015</p>
+          <p>Dr. Terpe, Harald</p>
+          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>08.05.2015</p>
+          <p>Dr. Troost, Axel</p>
+          <p>DIE LINKE</p>
+          <p>08.05.2015</p>
+          <p>Ulrich, Alexander</p>
+          <p>DIE LINKE</p>
+          <p>08.05.2015</p>
+          <p>Dr. Weisgerber, Anja</p>
+          <p>CDU/CSU</p>
+          <p>08.05.2015</p>
+          <p>Zimmermann (Zwickau), Sabine</p>
+          <p>DIE LINKE</p>
+          <p>08.05.2015</p>
+          <p>Anlage 2</p>
+          <p>Amtliche Mitteilungen</p>
+          <p>Der Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit (16. Ausschuss) hat mit Schreiben vom 6. Mai 2015 mitgeteilt, dass er entgegen seinem Schreiben vom 25. März 2015 nicht von einer Bericht-erstattung zu der nachstehenden Vorlage gemäß § 80 Absatz 3 Satz 2 der Geschäftsordnung abgesehen hat. Die Amtliche Mitteilung ohne Verlesung vom 27. März 2015 (98. Sitzung) wird insoweit aufgehoben.</p>
+          <p>– Unterrichtung durch die Bundesregierung</p>
+          <p>Baukulturbericht 2014/15 der Bundesstiftung Baukultur und Stellungnahme der Bundesregierung</p>
+          <p>Drucksache 18/3020</p>
+          <p>Die Vorsitzenden der folgenden Ausschüsse haben mitgeteilt, dass der Ausschuss die nachstehenden Unionsdokumente zur Kenntnis genommen oder von einer Beratung abgesehen hat.</p>
+          <p>Innenausschuss</p>
+          <p>Drucksache 18/642 Nr. C.7</p>
+          <p>Ratsdokument 8229/13</p>
+          <p>Drucksache 18/1707 Nr. A.2</p>
+          <p>Ratsdokument 9550/14</p>
+          <p>Drucksache 18/3362 Nr. A.5</p>
+          <p>Ratsdokument 15013/14</p>
+          <p>Drucksache 18/3898 Nr. A.9</p>
+          <p>EP P8_TA-PROV(2014)0102</p>
+          <p>Ausschuss für Ernährung und Landwirtschaft</p>
+          <p>Drucksache 18/4749 Nr. A.32</p>
+          <p>Ratsdokument 7252/15</p>
+          <p>Ausschuss für Verkehr und digitale Infrastruktur</p>
+          <p>Drucksache 18/4253 Nr. A.3</p>
+          <p>Ratsdokument 5095/15</p>
+          <p>9944 Deutscher Bundestag – 18. Wahlperiode – 104. Sitzung, Berlin, Freitag, den 8. Mai 2015</p>
+          <p>Deutscher Bundestag – 18. Wahlperiode – 104. Sitzung, Berlin, Freitag, den 8. Mai 2015 9945</p>
+          <p>Deutscher Bundestag – 15. Wahlperiode – 38. Sitzung – 4. April 2003 4</p>
+          <p>9978 Deutscher Bundestag – 18. Wahlperiode – 104. Sitzung, Berlin, Freitag, den 8. Mai 2015</p>
+          <p>Deutscher Bundestag – 18. Wahlperiode – 104. Sitzung, Berlin, Freitag, den 8. Mai 2015 9977</p>
         </sp>
       </div>
     </body>

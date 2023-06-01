@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-07</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2013/0920/dokumente/protokolle/plenarprotokolle/plenarprotokolle/17079.txt</url>
-        <date>2015-10-20 19:56:38</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -35,8 +35,8 @@
   </teiHeader>
   <text>
     <body>
-      <div type="agenda_item" n="1" what="debate" desc="a) - Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und der FDP e...">
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+      <div type="agenda_item" n="1" what="debate" desc="Debatte">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Guten Morgen, liebe Kolleginnen und Kollegen! Die Sitzung ist eröffnet.</p>
           <p>Interfraktionell ist vereinbart worden, den bisher als letzten Punkt unserer heutigen Tagesordnung zur Beratung vorgesehenen Antrag der Fraktion Die Linke "Stuttgart 21 - Bau- und Vergabestopp" im Anschluss an den jetzt gleich folgenden ersten Tagesordnungspunkt aufzurufen und darüber ohne Aussprache sofort abzustimmen.</p>
@@ -94,7 +94,7 @@
           <p>Ich eröffne die Aussprache und erteile als erstem Redner das Wort dem Kollegen Karl Schiewerling von der CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Karl Schiewerling" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Karl Schiewerling">
+        <sp who="Karl Schiewerling" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Karl Schiewerling" party="CDU" name="Karl Schiewerling">
           <speaker>Karl Schiewerling (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Liebe Kolleginnen und Kollegen! Mit dem Gesetz zur Ermittlung von Regelbedarfen und zur Änderung des Zweiten und Zwölften Buches Sozialgesetzbuch, dessen Entwurf in zweiter und dritter Lesung zur Verabschiedung ansteht, kommen die Koalitionsfraktionen der Union und der FDP dem Auftrag des Bundesverfassungsgerichts nach. Die Regelsätze werden insgesamt neu und transparent gestaltet.</p>
           <stage type="interjection">(Elke Ferner [SPD]: Das glauben Sie ja selber nicht!)</stage>
@@ -140,12 +140,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Ich erteile jetzt das Wort der Kollegin Elke Ferner von der SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Elke Ferner" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Elke Ferner">
+      </div>
+      <div type="agenda_item" n="2" what="debate" desc="Debatte">
+        <sp who="Elke Ferner" parliamentary_group="SPD" role="mp" position="NA" who_original="Elke Ferner" party="SPD" name="Elke Ferner">
           <speaker>Elke Ferner (SPD):</speaker>
           <p>Herr Präsident! Liebe Kollegen und Kolleginnen! Sehr geehrte Frau von der Leyen, Ihr Gesetzentwurf ist mehr Schein als Sein. Sie haben eine Zeitverzögerung hineingebracht. Das Verfassungsgerichtsurteil datiert vom 9. Februar. Sie haben den Gesetzentwurf Ende Oktober eingebracht. Sie hätten die Zeit dazwischen nutzen müssen - nicht nur können, müssen! -, um die organisatorischen Dinge mit den Kommunen und den Ländern zu klären. Das haben Sie nicht getan. Sie haben den Entwurf so spät eingebracht, dass ohne Fristverzicht durch den Bundesrat der Gesetzentwurf noch nicht einmal am 17. Dezember im Bundesrat zu behandeln wäre. Sie versuchen - das werden Sie nachher auch wieder tun -, uns die Verantwortung dafür zuzuschieben, dass das Gesetz nicht mehr in diesem Jahr ins Gesetzblatt kommt.</p>
           <p>Das hätte man erreichen können, wenn das Gesetz die Vorgaben des Verfassungsgerichts erfüllen würde. Aber das ist nicht der Fall. In keinem einzigen Punkt werden die Vorgaben des Verfassungsgerichts erfüllt. Das hat die Anhörung eindrucksvoll ergeben. Herr Schiewerling, Sie können hier noch so lange sagen: "Die Regelsätze sind in einem transparenten, in einem nachvollziehbaren Verfahren ermittelt worden" - es stimmt nicht!</p>
@@ -170,12 +172,14 @@
           <p>Schönen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN - Peter Weiß [Emmendingen] [CDU/CSU]: Wer hat das verfassungswidrige Gesetz gemacht? Das war doch die SPD, Frau Ferner!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt der Kollege Pascal Kober von der FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Pascal Kober">
+      </div>
+      <div type="agenda_item" n="3" what="debate" desc="Debatte">
+        <sp who="Pascal Kober" parliamentary_group="FDP" role="mp" position="NA" who_original="Pascal Kober" party="FDP" name="Pascal Kober">
           <speaker>Pascal Kober (FDP):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Bekanntlich gilt ja: Kindermund tut Wahrheit kund. Deshalb hat es uns alle aufgerüttelt, dass die Wortschöpfung der Jugend des Jahres 2009 das Wort "hartzen" war. So weit sind wir in unserer Gesellschaft schon gekommen, dass sich junge Menschen vorstellen können, dass eine Notsituation zu einem dauerhaften Zustand wird, für den es in unserer Gesellschaft bisher kein beschreibendes Tätigkeitswort gab.</p>
           <p>Ich bin froh, dass wir als christlich-liberale Koalition nun mit den vorliegenden Gesetzentwürfen zur Leistungsreform SGB II - eingebettet in eine kluge, weitsichtige und wachstumsorientierte Arbeitsmarkt-, Wirtschafts-, Haushalts- und Bildungspolitik - die besten Voraussetzungen geschaffen haben, dass dieses Jugendwort des Jahres 2009, "hartzen", bald wieder in Vergessenheit geraten wird.</p>
@@ -203,12 +207,14 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt der Kollege Dr. Gregor Gysi von der Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Gregor Gysi">
+      </div>
+      <div type="agenda_item" n="4" what="debate" desc="Debatte">
+        <sp who="Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Gregor Gysi" party="DIE LINKE" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (DIE LINKE):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Ich frage mich immer bei der FDP-Fraktion, wozu sie überhaupt sozialpolitische Sprecher hat; aber ich lasse das einmal weg.</p>
           <stage type="interjection">(Beifall bei der LINKEN - Pascal Kober [FDP]: Um Ihnen die Sozialpolitik zu erklären!)</stage>
@@ -256,21 +262,25 @@
           <p>- Ja. Hören Sie zu. Man brauchte eine andere Regelung. Das Sorgerecht haben nicht wir, sondern die Eltern. In Ausnahmefällen kann das Jugendamt - das gilt für alle Bevölkerungsschichten - eingreifen und sagen: Es gibt Gutscheine, weil eine besondere Situation vorliegt. - Anders ist das nicht gerechtfertigt.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Kommen Sie bitte zum Schluss, Herr Gysi.</p>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Gregor Gysi">
+      </div>
+      <div type="agenda_item" n="5" what="debate" desc="Debatte">
+        <sp who="Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Gregor Gysi" party="DIE LINKE" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (DIE LINKE):</speaker>
           <p>Ich weiß, Herr Präsident.</p>
           <p>Ich kann es nicht ändern, dass Sie trotz meiner Warnung auch heute wieder ein verfassungswidriges Gesetz beschließen werden.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt der Kollege Markus Kurth von Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Markus Kurth" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Markus Kurth">
+      </div>
+      <div type="agenda_item" n="6" what="debate" desc="Debatte">
+        <sp who="Markus Kurth" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Markus Kurth" party="GRUENE" name="Markus Kurth">
           <speaker>Markus Kurth (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Meine verehrten Kolleginnen und Kollegen! Meine Kolleginnen und Kollegen von der Union, seit letzter Woche sagen Sie gerne, dass die Grünen die Dagegen-Partei seien.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der FDP - Heinz Lanfermann [FDP]: Jawohl!)</stage>
@@ -309,12 +319,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und der Abg. Katja Kipping [DIE LINKE])</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt die Bundesministerin Dr. Ursula von der Leyen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Ursula von der Leyen" parliamentary_group="NA" role="government" position="Bundesministerin für Arbeit und Soziales" party="CDU" name="Ursula von der Leyen">
+      </div>
+      <div type="agenda_item" n="7" what="debate" desc="Debatte">
+        <sp who="Ursula von der Leyen" parliamentary_group="NA" role="government" position="Bundesministerin für Arbeit und Soziales" who_original="Ursula von der Leyen" party="CDU" name="Ursula von der Leyen">
           <speaker>Dr. Ursula von der Leyen, Bundesministerin für Arbeit und Soziales:</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Herr Kurth, die Familienministerin heißt nicht Köhler, sondern Schröder, und diese Frau ist klasse - nur damit das einmal klar ist.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Lachen bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN - Anette Kramme [SPD]: Sie lachen Ihre eigene Familienministerin aus!)</stage>
@@ -357,19 +369,23 @@
           <p>Die hier begangenen Versäumnisse beheben wir heute. Kommen Sie mit ins Boot. Machen Sie mit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Frau Kollegin von der Leyen?</p>
         </sp>
-        <sp who="Dr. Ursula von der Leyen" parliamentary_group="NA" role="government" position="Bundesministerin für Arbeit und Soziales" party="CDU" name="Ursula von der Leyen">
+      </div>
+      <div type="agenda_item" n="8" what="debate" desc="Debatte">
+        <sp who="Ursula von der Leyen" parliamentary_group="NA" role="government" position="Bundesministerin für Arbeit und Soziales" who_original="Ursula von der Leyen" party="CDU" name="Ursula von der Leyen">
           <speaker>Dr. Ursula von der Leyen, Bundesministerin für Arbeit und Soziales:</speaker>
           <p>Ich mache jetzt weiter.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Keine Zwischenfrage?</p>
         </sp>
-        <sp who="Dr. Ursula von der Leyen" parliamentary_group="NA" role="government" position="Bundesministerin für Arbeit und Soziales" party="CDU" name="Ursula von der Leyen">
+      </div>
+      <div type="agenda_item" n="9" what="debate" desc="Debatte">
+        <sp who="Ursula von der Leyen" parliamentary_group="NA" role="government" position="Bundesministerin für Arbeit und Soziales" who_original="Ursula von der Leyen" party="CDU" name="Ursula von der Leyen">
           <speaker>Dr. Ursula von der Leyen, Bundesministerin für Arbeit und Soziales:</speaker>
           <p>Nein, keine Zwischenfragen.</p>
           <stage type="interjection">(Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Feige!)</stage>
@@ -395,11 +411,13 @@
           <p>Ich bitte Sie um Zustimmung, meine Damen und Herren.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Jürgen Trittin [BÜNDNIS 90/DIE GRÜNEN]: Setzen! Fünf! - Swen Schulz [Spandau] [SPD]: Das war nicht sehr überzeugend!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Zu einer Kurzintervention erteile ich das Wort dem Kollegen Hubertus Heil.</p>
         </sp>
-        <sp who="Hubertus Heil" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hubertus Heil">
+      </div>
+      <div type="agenda_item" n="10" what="debate" desc="Debatte">
+        <sp who="Hubertus Heil (Peine)" parliamentary_group="SPD" role="mp" position="NA" who_original="Hubertus Heil (Peine)" party="SPD" name="Hubertus Heil">
           <speaker>Hubertus Heil (Peine) (SPD):</speaker>
           <p>Sehr geehrte Frau Ministerin von der Leyen, ich möchte Sie erstens daran erinnern - das hätte ich gerne in einer Zwischenfrage getan; aber Sie haben sie nicht zugelassen -, dass über den Vermittlungsausschuss die CDU/CSU und auch Sie - wenn ich mich richtig erinnere, waren Sie seinerzeit Sozialministerin und damit im Bundesrat mittelbar vertreten - an dem, was dort passiert ist, beteiligt waren. Das nun anderen in die Schuhe zu schieben, ist ziemlich albern und billig.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN sowie der Abg. Dr. Dagmar Enkelmann [DIE LINKE])</stage>
@@ -423,12 +441,14 @@
           <p>Ich kann mir lebhaft vorstellen, wozu das führt. Wenn Sie die Förderung im Bereich der Arbeitsmarktpolitik um 20 Prozent zusammenstreichen, wodurch Sie den betroffenen Eltern übrigens die Chance rauben, aus der Arbeitslosigkeit herauszukommen, und gleichzeitig Ihren Werbeetat um 30 Prozent erhöhen, dann gewinnt man einen bleibenden Eindruck von der Politik, die Sie machen. Warme Worte reichen nicht. Frau Ministerin, wir brauchen klare Taten, damit die Kinder tatsächlich bessere Bildungs- und Lebenschancen bekommen.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der Abg. Katja Kipping [DIE LINKE] - Jürgen Trittin [BÜNDNIS 90/DIE GRÜNEN]: Wenn die warmen Worte doch wenigstens mal greifen würden!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Zur Erwiderung, bitte.</p>
           <stage type="interjection">(Ulrich Kelber [SPD]: Diesmal bei der Wahrheit bleiben! - Gegenruf des Abg. Volker Kauder [CDU/CSU]: Na, na, na!)</stage>
         </sp>
-        <sp who="Dr. Ursula von der Leyen" parliamentary_group="NA" role="government" position="Bundesministerin für Arbeit und Soziales" party="CDU" name="Ursula von der Leyen">
+      </div>
+      <div type="agenda_item" n="11" what="debate" desc="Debatte">
+        <sp who="Ursula von der Leyen" parliamentary_group="NA" role="government" position="Bundesministerin für Arbeit und Soziales" who_original="Ursula von der Leyen" party="CDU" name="Ursula von der Leyen">
           <speaker>Dr. Ursula von der Leyen, Bundesministerin für Arbeit und Soziales:</speaker>
           <p>Solche Unverschämtheiten überhören wir einfach. Ich finde, im parlamentarischen Verfahren kann man Argumente austauschen, aber nicht solche Pöbeleien.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Ulrich Kelber [SPD]: Dann tun Sie das doch!)</stage>
@@ -452,12 +472,14 @@
           <p>Ich kann Ihnen nur empfehlen: Kommen Sie endlich aus der Boxengasse heraus! Sonst sind wir mit dem Rennen durch, ehe Sie sich auf den Weg machen. Es wäre schade drum.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Als nächste Rednerin hat die Kollegin Anette Kramme von der SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Anette Kramme" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Anette Kramme">
+      </div>
+      <div type="agenda_item" n="12" what="debate" desc="Debatte">
+        <sp who="Anette Kramme" parliamentary_group="SPD" role="mp" position="NA" who_original="Anette Kramme" party="SPD" name="Anette Kramme">
           <speaker>Anette Kramme (SPD):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Liebe Frau von der Leyen, Sie haben gesagt, dass wir Selbstkritik üben sollten. Leider stellen wir nicht fest, dass Sie Selbstkritik üben. Selbstkritik üben heißt an dieser Stelle, dem Urteil des Bundesverfassungsgerichts besondere Aufmerksamkeit zu schenken. Wir haben hier eine Sachverständigenanhörung durchgeführt, und wir können nur feststellen, dass dem Rat der Sachverständigen komplette Missachtung geschenkt worden ist. Sie als Ministerin hätten lernen können, wenn Sie denn anwesend gewesen wären.</p>
           <p>Jürgen Borchert, Vorsitzender Richter am Hessischen Landessozialgericht, also derjenige, der das Bundesverfassungsgericht erfolgreich wegen der Regelsätze angerufen hat, hat gesagt:</p>
@@ -483,12 +505,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN sowie bei Abgeordneten der LINKEN - Volker Kauder [CDU/CSU]: Es spricht die Mutter!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat der Kollege Dr. Heinrich Kolb von der FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Heinrich L. Kolb" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Heinrich Leonhard Kolb">
+      </div>
+      <div type="agenda_item" n="13" what="debate" desc="Debatte">
+        <sp who="Kolb" parliamentary_group="FDP" role="mp" position="NA" who_original="Kolb" party="FDP" name="Heinrich L. Kolb">
           <speaker>Dr. Heinrich L. Kolb (FDP):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Kollege Gysi hat von diesem Rednerpult aus gefragt, wozu die FDP eigentlich sozialpolitische Sprecher benenne. Herr Kollege Gysi, das will ich Ihnen gerne sagen: um Ihnen einen sozialpolitischen Gegenentwurf aufzuzeigen, um Sie darauf hinzuweisen, dass gute Sozialpolitik eben nicht darin besteht, mit der Gießkanne</p>
           <stage type="interjection">(Volker Kauder [CDU/CSU]: Mit der Gysi-Kanne!)</stage>
@@ -499,11 +523,13 @@
           <p>Deswegen ist die Frage wichtig - das gebe ich zu -, welche Leistungen die Empfänger von Hartz IV erhalten sollen.</p>
           <stage type="interjection">(Abg. Diana Golze [DIE LINKE] meldet sich zu einer Zwischenfrage)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Kollege Kolb, gestatten Sie eine Zwischenfrage?</p>
         </sp>
-        <sp who="Dr. Heinrich L. Kolb" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Heinrich Leonhard Kolb">
+      </div>
+      <div type="agenda_item" n="14" what="debate" desc="Debatte">
+        <sp who="Kolb" parliamentary_group="FDP" role="mp" position="NA" who_original="Kolb" party="FDP" name="Heinrich L. Kolb">
           <speaker>Dr. Heinrich L. Kolb (FDP):</speaker>
           <p>Nein. Ich möchte, weil ich nur drei Minuten Redezeit habe, im Zusammenhang vortragen.</p>
           <p>Noch wichtiger aber ist - darauf weise ich Sie als sozialpolitischer Sprecher der FDP-Bundestagsfraktion auch hin -, dass wir Strukturen schaffen, die ermöglichen, dass die Menschen, die arbeitslos sind, möglichst schnell ein neues Angebot bekommen. Deswegen haben wir bereits in der ersten Hälfte dieses Jahres die Jobcenterreform auf den Weg gebracht. Auch das war eine Reparatur von fehlerhaftem Handeln von Rot-Grün. Diese Reform wird im nächsten Jahr in Kraft treten. Sie wird genau das leisten, was wir wollen: Durch möglichst effiziente Strukturen werden schnell Angebote für arbeitslose Menschen geschaffen.</p>
@@ -525,14 +551,16 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Liebe Kolleginnen und Kollegen, in Anbetracht der Wetter- und Zeitsituation möchte ich Sie bitten, heute mit dem Instrument der Zwischenfragen und Kurzinterventionen sehr zurückhaltend umzugehen. Mehr kann ich jetzt nicht sagen.</p>
           <stage type="interjection">(Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Ich habe Zeit! Andere müssen auch arbeiten! - Gegenruf des Abg. Volker Kauder [CDU/CSU]: Immer die Berliner!)</stage>
           <p>Das Wort hat die Kollegin Katja Kipping von der Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Katja Kipping" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Katja Kipping">
+      </div>
+      <div type="agenda_item" n="15" what="debate" desc="Debatte">
+        <sp who="Katja Kipping" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Katja Kipping" party="DIE LINKE" name="Katja Kipping">
           <speaker>Katja Kipping (DIE LINKE):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Herr Kolb, einfach bei den Ärmsten kürzen zu wollen, ist noch keine Reform und schon gar kein sozialpolitischer Gegenentwurf.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -553,38 +581,19 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt die Kollegin Britta Haßelmann von Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Britta Haßelmann" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Britta Haßelmann">
+      </div>
+      <div type="agenda_item" n="16" what="debate" desc="Debatte">
+        <sp who="Britta Haßelmann" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Britta Haßelmann" party="GRUENE" name="Britta Haßelmann">
           <speaker>Britta Haßelmann (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Liebe Gäste auf der Besuchertribüne! Eines steht doch fest - das zeigt auch diese Debatte -: Die Öffentlichkeit, die Menschen, die betroffen sind, die Menschen, die soziale Verantwortung haben und sich in Vereinen, Initiativen, Kirchen und vielen Organisationen engagieren, und die Mitmenschen, die in Armut leben, wissen ganz genau, dass die massiven Ungerechtigkeiten in diesem Gesetzentwurf nicht einfach nur schöngelächelt werden können.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
           <p>Frau von der Leyen, wer Sie heute Morgen gesehen hat - wir kennen uns aus diesem Parlament schon seit fünf Jahren -, hat das auch an Ihrem Auftritt gesehen.</p>
           <p>Ich finde, es ist völlig klar, dass mit dem Gerichtsurteil auch CDU-Politik komplett abgeräumt worden ist.</p>
-          <p>(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD Was sollen eigentlich Ihre Phrasen und Ihre Bezugnahmen auf die Hartz-IV-Gesetzgebung und Rot-Grün? Zum einen regiert die CDU/CSU seit 2005. Muss man Sie daran erinnern? Sie haben Hundert Gelegenheiten gehabt, aktiv zu werden und sozialpolitisch Verantwortung zu übernehmen. Das haben Sie bis heute nicht getan.</p>
-          <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</stage>
-          <p>Zum anderen geht das Gesetz, das Sie hier gerne immer Rot-Grün zuschieben, auf eine Rechtsverordnung zurück. Diese Rechtsverordnung haben maßgeblich die unionsgeführten Bundesländer - dafür stehen Namen: Rüttgers, Koch und Stoiber - so im Bundesrat ausverhandelt.</p>
-          <stage type="interjection">(Elke Ferner [SPD]: Und Wulff!)</stage>
-          <p>Das gehört auch zur Ehrlichkeit dazu. Deshalb hat das Gericht auch Ihr Gesetz und nicht das Gesetz von Rot-Grün kassiert.</p>
-          <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der LINKEN)</stage>
-          <p>Sie haben die Verantwortung dafür gehabt. Nach Stoiber hätte der Regelsatz gar nicht niedrig genug sein können,</p>
-          <stage type="interjection">(Elke Ferner [SPD]: So ist das!)</stage>
-          <p>und nach Koch hätten wir die Leistungen gar nicht genug einschränken können. Das gehört zur Wahrheit dazu, und das muss man hier auch diskutieren, wenn man über die Verantwortung und auch über die politische Verantwortung redet.</p>
-          <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD - Hubertus Heil [Peine] [SPD]: Niedersachsen nicht zu vergessen!)</stage>
-          <p>Tun Sie jetzt doch nicht so, als sei dieses Teilhabepaket das Nonplusultra. Hier werden in Bausch und Bogen 30 verschiedene Maßnahmen aufgezählt, die sich die Kinder künftig leisten können. Was kann man mit 10 Euro im Monat machen? Das wissen Menschen, die in Armut leben, ganz genau. Davon kann man nicht gleichzeitig Musikunterricht, Sportunterricht und Bildungsnachhilfe erhalten und Sportschuhe kaufen. Für 10 Euro - das wissen auch viele von Ihnen - kann man sich höchstens eine Leistung davon teilweise kaufen; denn Musikunterricht erhalten Sie in ganz Deutschland nicht unter 20 Euro. Seien Sie deshalb an diesem Punkt doch endlich einmal ehrlich!</p>
-          <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN - Karl Schiewerling [CDU/CSU]: Ja natürlich, aber das kann man wahrnehmen! Das konnte man bisher nicht wahrnehmen! Unglaublich!)</stage>
-          <p>Das, was Sie den Kommunen hier als große Leistung verkaufen, ist eine Gefahr für die Betroffenen. Denn Sie wissen, dass viele Kommunen nach Kassenlage agieren. Die Kluft zwischen armen und reichen Kommunen hat sich stark vergrößert. Anstatt den Bundesanteil an den Kosten der Unterkunft, wie Ihre eigenen Länder es fordern, zu erhöhen, gehen Sie hin und verkaufen das Satzungsrecht als große Flexibilisierungsmaßnahme für die Städte und Gemeinden. Am Ende gucken dabei die Betroffenen in die Röhre, denn für sie wird die Frage der Angemessenheit der Unterkunft demnächst vor dem Bundesverfassungsgericht entschieden.</p>
-          <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN)</stage>
-        </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
-          <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
-          <p>Das Wort hat der Kollege Dr. Carsten Linnemann von der CDU/CSU-Fraktion.</p>
-          <stage type="interjection">(Beifall bei der CU/CSU)</stage>
-        </sp>
-        <sp who="Dr. Carsten Linnemann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Carsten Linnemann">
-          <speaker>Dr. Carsten Linnemann (CDU/CSU):</speaker>
+          <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD Was sollen eigentlich Ihre Phrasen und Ihre Bezugnahmen auf die Hartz-IV-Gesetzgebung und Rot-Grün? Zum einen regiert die CDU/CSU seit 2005. Muss man Sie daran erinnern? Sie haben Hundert Gelegenheiten gehabt, aktiv zu werden und sozialpolitisch Verantwortung zu übernehmen. Das haben Sie bis heute nicht getan. (Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD) Zum anderen geht das Gesetz, das Sie hier gerne immer Rot-Grün zuschieben, auf eine Rechtsverordnung zurück. Diese Rechtsverordnung haben maßgeblich die unionsgeführten Bundesländer - dafür stehen Namen: Rüttgers, Koch und Stoiber - so im Bundesrat ausverhandelt. (Elke Ferner [SPD]: Und Wulff!) Das gehört auch zur Ehrlichkeit dazu. Deshalb hat das Gericht auch Ihr Gesetz und nicht das Gesetz von Rot-Grün kassiert. (Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der LINKEN) Sie haben die Verantwortung dafür gehabt. Nach Stoiber hätte der Regelsatz gar nicht niedrig genug sein können, (Elke Ferner [SPD]: So ist das!) und nach Koch hätten wir die Leistungen gar nicht genug einschränken können. Das gehört zur Wahrheit dazu, und das muss man hier auch diskutieren, wenn man über die Verantwortung und auch über die politische Verantwortung redet. (Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD - Hubertus Heil [Peine] [SPD]: Niedersachsen nicht zu vergessen!) Tun Sie jetzt doch nicht so, als sei dieses Teilhabepaket das Nonplusultra. Hier werden in Bausch und Bogen 30 verschiedene Maßnahmen aufgezählt, die sich die Kinder künftig leisten können. Was kann man mit 10 Euro im Monat machen? Das wissen Menschen, die in Armut leben, ganz genau. Davon kann man nicht gleichzeitig Musikunterricht, Sportunterricht und Bildungsnachhilfe erhalten und Sportschuhe kaufen. Für 10 Euro - das wissen auch viele von Ihnen - kann man sich höchstens eine Leistung davon teilweise kaufen; denn Musikunterricht erhalten Sie in ganz Deutschland nicht unter 20 Euro. Seien Sie deshalb an diesem Punkt doch endlich einmal ehrlich! (Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN - Karl Schiewerling [CDU/CSU]: Ja natürlich, aber das kann man wahrnehmen! Das konnte man bisher nicht wahrnehmen! Unglaublich!) Das, was Sie den Kommunen hier als große Leistung verkaufen, ist eine Gefahr für die Betroffenen. Denn Sie wissen, dass viele Kommunen nach Kassenlage agieren. Die Kluft zwischen armen und reichen Kommunen hat sich stark vergrößert. Anstatt den Bundesanteil an den Kosten der Unterkunft, wie Ihre eigenen Länder es fordern, zu erhöhen, gehen Sie hin und verkaufen das Satzungsrecht als große Flexibilisierungsmaßnahme für die Städte und Gemeinden. Am Ende gucken dabei die Betroffenen in die Röhre, denn für sie wird die Frage der Angemessenheit der Unterkunft demnächst vor dem Bundesverfassungsgericht entschieden. (Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN) Vizepräsident Dr. Hermann Otto Solms: Das Wort hat der Kollege Dr. Carsten Linnemann von der CDU/CSU-Fraktion. (Beifall bei der CU/CSU) Dr. Carsten Linnemann (CDU/CSU):</stage>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! Das Verfahren geht heute dem Ende entgegen.</p>
           <stage type="interjection">(Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Nein, jetzt fängt es erst an!)</stage>
           <p>Es fußt, Frau Künast, auf dem Urteil aus Karlsruhe vom 9. Februar.</p>
@@ -610,24 +619,28 @@
           <p>Ich will jetzt nichts Falsches sagen, aber nehmen Sie das Beispiel Fußballverein. Ich kann mir nicht vorstellen, dass der Mitgliedsbeitrag für ein Kind in einem Fußballverein in Deutschland pro Jahr oberhalb von 120 Euro liegt. Das ist realitätsfremd.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU - Elke Ferner [SPD]: Aber Sie sagen doch, dass das Geld nur für den Beitrag ausgegeben werden darf!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Kollege Linnemann, erlauben Sie eine Zwischenfrage der Kollegin Kipping?</p>
         </sp>
-        <sp who="Dr. Carsten Linnemann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Carsten Linnemann">
+      </div>
+      <div type="agenda_item" n="17" what="debate" desc="Debatte">
+        <sp who="Carsten Linnemann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Carsten Linnemann" party="CDU" name="Carsten Linnemann">
           <speaker>Dr. Carsten Linnemann (CDU/CSU):</speaker>
           <p>Ja.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Bitte schön, Frau Kipping.</p>
         </sp>
-        <sp who="Katja Kipping" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Katja Kipping">
+      </div>
+      <div type="agenda_item" n="18" what="debate" desc="Debatte">
+        <sp who="Katja Kipping" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Katja Kipping" party="DIE LINKE" name="Katja Kipping">
           <speaker>Katja Kipping (DIE LINKE):</speaker>
           <p>Herr Linnemann, Sie haben soeben den Eindruck erweckt, dass sich Teile der Opposition überhaupt nicht um Menschen kümmern würden, die niedrige Löhne hätten. Ich will Sie daran erinnern, dass wir uns seit Jahren engagiert für einen gesetzlichen Mindestlohn einsetzen, der genau dafür sorgen würde, dass Menschen, die arbeiten gehen, mit ihrem Einkommen wirklich oberhalb der Armutsgrenze liegen können. Sie haben jetzt gesagt, dass Ihnen diese Menschen besonders am Herzen liegen. Sie haben allerdings anschließend daraus geschlussfolgert, dass deshalb der Regelsatz besonders niedrig sein muss. Ich frage Sie, was die Verkäuferin, die zu einem Dumpinglohn arbeitet, davon hat, wenn es der Erwerbslosen noch schlechter geht. Ich frage Sie: Warum setzen Sie sich nicht für einen gesetzlichen Mindestlohn ein, wenn Ihnen die Geringverdiener so am Herzen liegen?</p>
           <stage type="interjection">(Beifall bei der LINKEN und der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Carsten Linnemann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Carsten Linnemann">
+        <sp who="Carsten Linnemann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Carsten Linnemann" party="CDU" name="Carsten Linnemann">
           <speaker>Dr. Carsten Linnemann (CDU/CSU):</speaker>
           <p>Frau Kipping, erstens wissen Sie genauso wie ich, dass Ihr Mindestlohn von 10 Euro die Aufstocker nicht aus Hartz IV herausholt. Um die Familien herauszuholen, müssten Sie auf 13 oder 14 Euro heraufgehen.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -647,12 +660,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP - Hubertus Heil [Peine] [SPD]: Das ist eine Drohung für die Arbeitslosen!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat die Kollegin Gabriele Hiller-Ohm von der SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Gabriele Hiller-Ohm" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gabriele Hiller-Ohm">
+      </div>
+      <div type="agenda_item" n="19" what="debate" desc="Debatte">
+        <sp who="Gabriele Hiller-Ohm" parliamentary_group="SPD" role="mp" position="NA" who_original="Gabriele Hiller-Ohm" party="SPD" name="Gabriele Hiller-Ohm">
           <speaker>Gabriele Hiller-Ohm (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Am 9. Februar haben die Karlsruher Richter ihr Urteil zu den Regelsätzen gesprochen. Seither sind 297 Tage vergangen, an denen Sie, Frau Ministerin, mit uns Verhandlungen über die Umsetzung des Teilhabepakets hätten aufnehmen können. Sie haben diese Chance nicht genutzt. Das ist unverantwortlich.</p>
           <p>Das Urteil des Bundesverfassungsgerichts bietet einen guten Weg, über die unterschiedlichen Zuständigkeiten hinweg Bildung in Deutschland endlich gerechter zu verteilen. In keinem anderen Industriestaat entscheidet die soziale Herkunft so sehr über den Schul- und Bildungserfolg wie in Deutschland. Damit muss Schluss sein.</p>
@@ -671,12 +686,14 @@
           <p>Teilhabe und mehr Bildungsgerechtigkeit erreichen wir nur durch einen konsequenten Ausbau von Betreuungseinrichtungen und Ganztagsschulen. Wir brauchen Lehrer und Sozialpädagogen in Kitas und Schulen. Sie machen jedoch genau das Gegenteil. Sie bauen Bürokratie auf, verschleudern Steuermittel und schaden den betroffenen Menschen.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt die Kollegin Gabriele Molitor von der FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Gabriele Molitor" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Gabi Molitor">
+      </div>
+      <div type="agenda_item" n="20" what="debate" desc="Debatte">
+        <sp who="Gabriele Molitor" parliamentary_group="FDP" role="mp" position="NA" who_original="Gabriele Molitor" party="FDP" name="Gabriele Molitor">
           <speaker>Gabriele Molitor (FDP):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Damen und Herren! Die Zeitvorgabe, die uns das Bundesverfassungsgericht auferlegt hat, war sehr knapp. Ich bin der Meinung, die Regierungskoalition hat unter diesem enormen Zeitdruck eine gute Lösung für die Ermittlung von Regelbedarfen geschaffen.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
@@ -687,11 +704,13 @@
           <p>Ich denke, die Kritik, die hier seitens der Opposition laut geworden ist, ist eher lapidar. Es ging um Schnittblumen oder darum, ob eine chemische Reinigung zum Existenzminimum gehört. Ich denke, das ist an dieser Stelle vollkommen unpassend.</p>
           <stage type="interjection">(Katja Kipping [DIE LINKE]: Wissen Sie, was das bedeutet?)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Frau Kollegin Molitor, erlauben Sie eine Zwischenfrage der Kollegin Lösekrug-Möller?</p>
         </sp>
-        <sp who="Gabriele Molitor" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Gabi Molitor">
+      </div>
+      <div type="agenda_item" n="21" what="debate" desc="Debatte">
+        <sp who="Gabriele Molitor" parliamentary_group="FDP" role="mp" position="NA" who_original="Gabriele Molitor" party="FDP" name="Gabriele Molitor">
           <speaker>Gabriele Molitor (FDP):</speaker>
           <p>Nein. Ich möchte das jetzt nicht. Ich habe ohnehin nur eine Redezeit von drei Minuten. Ich denke, an dieser Stelle ist schon genug von der Opposition gesagt worden.</p>
           <stage type="interjection">(Katja Kipping [DIE LINKE]: Es wird nicht angerechnet! - Hubertus Heil [Peine] [SPD]: Gute Argumente beunruhigen nur!)</stage>
@@ -703,31 +722,37 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU - Dr. Dagmar Enkelmann [DIE LINKE]: Sehr christlich! Sehr liberal! Schöne Bescherung! - Elke Ferner [SPD]: Man kann sich ja viel wünschen, aber es geht nicht alles in Erfüllung!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Ich habe zwei Wortmeldungen zu einer Kurzintervention, zunächst Kollegin Gabriele Lösekrug-Möller, anschließend Dr. Ilja Seifert. - Bitte schön.</p>
         </sp>
-        <sp who="Gabriele Lösekrug-Möller" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gabriele Lösekrug-Möller">
+      </div>
+      <div type="agenda_item" n="22" what="debate" desc="Debatte">
+        <sp who="Gabriele Lösekrug-Möller" parliamentary_group="SPD" role="mp" position="NA" who_original="Gabriele Lösekrug-Möller" party="SPD" name="Gabriele Lösekrug-Möller">
           <speaker>Gabriele Lösekrug-Möller (SPD):</speaker>
           <p>Herr Präsident, vielen Dank, dass ich Gelegenheit zu dieser Kurzintervention habe. - Frau Molitor, ich hätte die Frage gerne gestellt, als Sie noch gesprochen haben. Sie haben von wesentlichen Verbesserungen gesprochen. Ich will jetzt gar nicht über das 4 Milliarden Euro schwere Ganztagsschulprogramm reden, das wir auf den Weg gebracht haben, damit alle Kinder bessere Chancen bekommen. Ich will mich auf einen Aspekt beschränken, für den bisher, aber offenbar nur bisher, eigentlich auch Liberale standen.</p>
           <p>Sie sind sehr sensibel, was das Sammeln von Daten anbelangt. Das haben Sie hinter sich gelassen. Frau Molitor, wie stellen Sie sich das eigentlich vor, wenn zukünftig zum Beispiel bei einer Bedarfsgemeinschaft im Jobcenter die schlechten Schulnoten der Kinder registriert werden, wenn die Kinder eine Fünf in Mathe haben und von Versetzung bedroht sind? Das Jobcenter registriert, wenn jemand Nachhilfe haben will und wenn genau diese Kinder zum Beispiel Mitglied in einem Verein für Kampfsport werden wollen. Alle diese Daten sammeln Sie. Sie wollen hier gute Taten auskehren. Aber ich habe große Bedenken, dass sich hier eine Fülle von Daten über Personen anhäuft, die eigentlich kein anderes Problem haben, als dass Mutter oder Vater keine Arbeit hat oder aber Arbeit, von der die Familie nicht leben kann.</p>
           <p>Ich bin erschüttert darüber, dass eine liberale Fraktion einer solchen Anhäufung von Daten zustimmen kann, die extrem interpretationsbedürftig sind. Diese Daten haben meines Erachtens in keinem Jobcenter etwas zu suchen. Ich bitte Sie, dazu Stellung zu nehmen.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Zunächst Dr. Ilja Seifert; dann können Sie zusammenfassend erwidern, Frau Molitor. - Bitte schön, Herr Seifert.</p>
         </sp>
-        <sp who="Dr. Ilja Seifert" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Ilja Seifert">
+      </div>
+      <div type="agenda_item" n="23" what="debate" desc="Debatte">
+        <sp who="Ilja Seifert" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Ilja Seifert" party="DIE LINKE" name="Ilja Seifert">
           <speaker>Dr. Ilja Seifert (DIE LINKE):</speaker>
           <p>Vielen Dank, Herr Präsident. - Frau Kollegin Molitor, heute ist der Welttag der Menschen mit Behinderungen. Sie sind behindertenpolitische Sprecherin Ihrer Fraktion, und ausgerechnet heute wollen Sie allen Ernstes beschließen, den Menschen 68 Euro wegzunehmen, die von Grundsicherung leben und noch bei ihren Eltern wohnen. Dazu haben Sie kein Wort verloren. Sie stellen sich hier hin und sagen: Wie soll denn das draußen wirken, was wir hier veranstalten? - Ja, wie wirkt es denn auf Menschen mit Behinderungen, wenn Sie am Welttag der Behinderten sagen: Ihr seid uns 68 Euro weniger wert als alle anderen? - Wie kann denn so etwas sein?</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Frau Molitor, bitte.</p>
         </sp>
-        <sp who="Gabriele Molitor" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Gabi Molitor">
+      </div>
+      <div type="agenda_item" n="24" what="debate" desc="Debatte">
+        <sp who="Gabriele Molitor" parliamentary_group="FDP" role="mp" position="NA" who_original="Gabriele Molitor" party="FDP" name="Gabriele Molitor">
           <speaker>Gabriele Molitor (FDP):</speaker>
           <p>Zunächst zur ersten Frage. Ich frage mich, Frau Lösekrug-Möller: Wo leben Sie?</p>
           <stage type="interjection">(Beifall bei der FDP - Widerspruch bei der SPD)</stage>
@@ -738,12 +763,14 @@
           <p>Diesen Punkt muss man hineinrechnen. Daher kommt es hier nicht zu einer Benachteiligung.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Jetzt erteile ich anstelle der Kollegin Krüger-Leißner dem Parteivorsitzenden der SPD, Sigmar Gabriel, das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Sigmar Gabriel" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Sigmar Gabriel">
+      </div>
+      <div type="agenda_item" n="25" what="debate" desc="Debatte">
+        <sp who="Sigmar Gabriel" parliamentary_group="SPD" role="mp" position="NA" who_original="Sigmar Gabriel" party="SPD" name="Sigmar Gabriel">
           <speaker>Sigmar Gabriel (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Ich habe mich gemeldet, weil - -</p>
           <stage type="interjection">(Manfred Grund [CDU/CSU]: Er war die ganze Zeit nicht im Saal und kriegt jetzt Redezeit! Das ist unglaublich!)</stage>
@@ -772,12 +799,14 @@
           <p>Letzte Bemerkung. Wenn Sie die Arbeitsbedingungen von Hartz-IV-Empfängern verbessern wollen, dann sorgen Sie dafür, dass die Schlupflöcher bei der Leiharbeit beseitigt werden und dass für alle ausnahmslos gilt: gleicher Lohn für gleiche Arbeit. Das ist das, was wir von einer Arbeitsministerin verlangen.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Die CDU/CSU-Fraktion tauscht ebenfalls den letzten Redner aus. Deswegen erteile ich das Wort der Abgeordneten von der Leyen. Bitte schön.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Lachen bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Ursula von der Leyen" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ursula von der Leyen">
+      </div>
+      <div type="agenda_item" n="26" what="debate" desc="Debatte">
+        <sp who="Ursula von der Leyen" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ursula von der Leyen" party="CDU" name="Ursula von der Leyen">
           <speaker>Dr. Ursula von der Leyen (CDU/CSU):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Das, was Sigmar Gabriel hier abgeliefert hat, war gerade das Armutszeugnis von elf Jahren SPD-Beteiligung an der Bundesregierung. Das haben Sie gerade hier richtig beschrieben.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
@@ -802,18 +831,20 @@
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Jürgen Trittin [BÜNDNIS 90/DIE GRÜNEN]: Jetzt wird auch noch die Anzeige gefälscht! Herr Präsident, wo sind wir denn?)</stage>
           <p>- Sie sind ja so empfindlich.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Herr Trittin, beruhigen Sie sich bitte.</p>
           <stage type="interjection">(Abg. Jürgen Trittin [BÜNDNIS 90/DIE GRÜNEN] zeigt in Richtung Medienwand - Jürgen Trittin [BÜNDNIS 90/DIE GRÜNEN]: Gucken Sie da hin! - Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Lüge! So weit ist es schon! - Gegenruf des Abg. Volker Kauder [CDU/CSU]: Blödsinn!)</stage>
         </sp>
-        <sp who="Dr. Ursula von der Leyen" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ursula von der Leyen">
+      </div>
+      <div type="agenda_item" n="27" what="debate" desc="Debatte">
+        <sp who="Ursula von der Leyen" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ursula von der Leyen" party="CDU" name="Ursula von der Leyen">
           <speaker>Dr. Ursula von der Leyen (CDU/CSU):</speaker>
           <p>Sie sind ja offensichtlich so empfindlich, weil es Ihnen wehtut, dass Sie merken, dass Sie besser für die bedürftigen Kinder hätten sorgen müssen.</p>
           <stage type="interjection">(Jürgen Trittin [BÜNDNIS 90/DIE GRÜNEN]: Uns tut gar nichts mehr weh!)</stage>
           <p>Jetzt lasst uns doch einmal - - NA</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Frau von der Leyen, darf ich Sie einen Moment unterbrechen? - Erstens. Es ist entscheidend, was der Präsident sagt, nicht das, was an der Tafel steht.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
@@ -828,11 +859,13 @@
           <p>Jetzt bitte ich Frau von der Leyen, fortzusetzen. Bitte schön.</p>
           <stage type="interjection">(Zurufe von der LINKEN: Nein, nein! - Gegenruf von der CDU/CSU: Wo gibt es denn so was?)</stage>
         </sp>
-        <sp who="Dr. Ursula von der Leyen" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ursula von der Leyen">
+      </div>
+      <div type="agenda_item" n="28" what="debate" desc="Debatte">
+        <sp who="Ursula von der Leyen" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ursula von der Leyen" party="CDU" name="Ursula von der Leyen">
           <speaker>Dr. Ursula von der Leyen (CDU/CSU):</speaker>
           <p>Meine Damen und Herren, es ist ja ein gutes Zeichen, wenn die Emotionen so hochkochen, wenn wir zum ersten Mal ausführlich - -</p>
           <stage type="interjection">(Zurufe vom BÜNDNIS 90/DIE GRÜNEN: Oh! - Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Oh, Mutti!)</stage>
-          <p>-  Da merkt man, Herr Trittin, wie wenig ernst es Ihnen ist mit der Fürsorge für bedürftige Kinder.</p>
+          <p>- Da merkt man, Herr Trittin, wie wenig ernst es Ihnen ist mit der Fürsorge für bedürftige Kinder.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
           <p>Bei aller Auseinandersetzung um die Sache selber, dies als letzten Satz: Ich freue mich, dass wir mit solch einer Begeisterung, Leidenschaft, vielleicht auch Kritik endlich in Deutschland darüber reden, wie wir für bedürftige Kinder die Chancen in ihrem Leben und den Zugang zu Bildung verbessern können.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
@@ -846,19 +879,23 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Langanhaltender lebhafter Beifall bei der CDU/CSU und der FDP - Abgeordnete der CDU/CSU und der FDP erheben sich - Glocke des Präsidenten - Zurufe von der LINKEN: Buh! - Pfui!)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Ich bitte um Aufmerksamkeit. Die Fraktion Die Linke hat eine Sitzungsunterbrechung und die sofortige Einberufung des Ältestenrates beantragt. Ich unterbreche deshalb die Sitzung. Der Wiederbeginn wird Ihnen bekannt gegeben.</p>
           <stage type="interjection">(Unterbrechung von 10.37 bis 11.26 Uhr)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+      </div>
+      <div type="agenda_item" n="29" what="debate" desc="Debatte">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Die unterbrochene Sitzung ist wieder eröffnet.</p>
           <p>Es gibt keinen Zweifel daran, dass das Verfahren ordnungsgemäß und geschäftsordnungstreu abgewickelt worden ist. Wir haben aber einvernehmlich vereinbart, noch eine Kurzrunde durchzuführen, wie ich es vorhin ohnehin vorgeschlagen hätte, und zwar mit einer Länge von 20 Minuten.</p>
           <p>Deswegen erteile ich jetzt dem Kollegen Lehrieder von der CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Dr. Dagmar Enkelmann [DIE LINKE]: Jetzt darf er!)</stage>
         </sp>
-        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Paul Lehrieder">
+      </div>
+      <div type="agenda_item" n="30" what="debate" desc="Debatte">
+        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Paul Lehrieder" party="CSU" name="Paul Lehrieder">
           <speaker>Paul Lehrieder (CDU/CSU):</speaker>
           <p>Sehr geehrter Herr Präsident! Liebe Kolleginnen! Liebe Kollegen! Die weise Entscheidung des Ältestenrates ist dem Thema angemessen. Hartz IV, die soziale Absicherung, der Ausfluss des Sozialstaatsgebots in unserer Verfassung, verdient es durchaus, dass wir noch 20 Minuten extra darüber reden.</p>
           <p>Anders als einige Vorredner werde ich nicht groß die Vergangenheit beleuchten, sondern einfach darstellen, was die Bevölkerung, was die armen Familien und was insbesondere die Kinder und Jugendlichen in armen Familien ab dem 1. Januar 2011 von uns erwarten können, nachdem wir die Entscheidung des Bundesverfassungsgerichts vom 9. Februar 2010 umgesetzt haben.</p>
@@ -888,12 +925,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="NA" role="presidency" position="Vizepräsident" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Vizepräsident Dr. Hermann Otto Solms:</speaker>
           <p>Das Wort hat jetzt der Kollege Sigmar Gabriel.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Sigmar Gabriel" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Sigmar Gabriel">
+      </div>
+      <div type="agenda_item" n="31" what="debate" desc="Debatte">
+        <sp who="Sigmar Gabriel" parliamentary_group="SPD" role="mp" position="NA" who_original="Sigmar Gabriel" party="SPD" name="Sigmar Gabriel">
           <speaker>Sigmar Gabriel (SPD):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Frau von der Leyen, damit das zwischen uns klar ist: Es geht um eine Richtungsänderung, die Sie vornehmen. Worüber wir hier streiten, ist die Frage: In welche Richtung soll die Bildungspolitik in Deutschland in Zukunft gehen?</p>
           <stage type="interjection">(Zuruf von der FDP: In die richtige!)</stage>
@@ -928,31 +967,37 @@
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN sowie bei Abgeordneten der LINKEN - Dr. Hans-Peter Friedrich [Hof] [CDU/CSU]: Sie reden nicht die Wahrheit!)</stage>
           <p>Das gilt auch für die Arbeitsmarktpolitik. Wir wollen nicht, dass Sie die Mittel für die Qualifizierung von Arbeitslosen um 1,3 Milliarden Euro kürzen und gleichzeitig sagen: Hartz IV soll nicht für immer sein; die Menschen sollen ausgebildet werden und wieder in Arbeit kommen.</p>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Herr Kollege, ich muss Sie auf die Redezeit aufmerksam machen.</p>
         </sp>
-        <sp who="Sigmar Gabriel" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Sigmar Gabriel">
+      </div>
+      <div type="agenda_item" n="32" what="debate" desc="Debatte">
+        <sp who="Sigmar Gabriel" parliamentary_group="SPD" role="mp" position="NA" who_original="Sigmar Gabriel" party="SPD" name="Sigmar Gabriel">
           <speaker>Sigmar Gabriel (SPD):</speaker>
           <p>Vielen Dank. - Ich komme zum Schluss. Sie kürzen Ihren Etat für die aktive Arbeitsmarktpolitik um 20 Pro-zent.</p>
           <stage type="interjection">(Volker Kauder [CDU/CSU]: So ein Blödsinn!)</stage>
           <p>Ihren Etat für Öffentlichkeitsarbeit steigern Sie hingegen um 30 Prozent.</p>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Herr Kollege, Ihre Redezeit ist abgelaufen.</p>
         </sp>
-        <sp who="Sigmar Gabriel" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Sigmar Gabriel">
+      </div>
+      <div type="agenda_item" n="33" what="debate" desc="Debatte">
+        <sp who="Sigmar Gabriel" parliamentary_group="SPD" role="mp" position="NA" who_original="Sigmar Gabriel" party="SPD" name="Sigmar Gabriel">
           <speaker>Sigmar Gabriel (SPD):</speaker>
           <p>Das zeigt, was Sie sind: Sie sind eine Staatsschauspielerin, aber niemand, der die richtige Richtung einfordert.</p>
           <stage type="interjection">(Anhaltender Beifall bei der SPD - Beifall bei der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Nächster Redner ist der Kollege Dr. Kolb für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Heinrich L. Kolb" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Heinrich Leonhard Kolb">
+      </div>
+      <div type="agenda_item" n="34" what="debate" desc="Debatte">
+        <sp who="Kolb" parliamentary_group="FDP" role="mp" position="NA" who_original="Kolb" party="FDP" name="Heinrich L. Kolb">
           <speaker>Dr. Heinrich L. Kolb (FDP):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Herr Kollege Gabriel, wenn Sie andere als Staatsschauspieler bezeichnen, dann will ich Ihnen sagen, dass Sie heute Morgen als Heißluftmaschine aufgetreten sind.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
@@ -983,12 +1028,14 @@
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der FDP und der CDU/CSU)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Nächster Redner ist der Kollege Dr. Gregor Gysi für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Gregor Gysi">
+      </div>
+      <div type="agenda_item" n="35" what="debate" desc="Debatte">
+        <sp who="Gregor Gysi" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Gregor Gysi" party="DIE LINKE" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Erstens. Eine Regel steht fest, Frau von der Leyen. Das letzte Wort in einer Parlamentsdebatte hat das Parlament und nicht die Regierung. Dafür müssen wir sorgen.</p>
           <stage type="interjection">(Beifall bei der LINKEN, der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -1005,11 +1052,13 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Lebhafter Beifall bei der LINKEN - Volker Kauder [CDU/CSU]: Zentralist!)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Nun hat die Kollegin Renate Künast für die Fraktion Bündnis 90/Die Grünen das Wort.</p>
         </sp>
-        <sp who="Renate Künast" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Renate Künast">
+      </div>
+      <div type="agenda_item" n="36" what="debate" desc="Debatte">
+        <sp who="Renate Künast" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Renate Künast" party="GRUENE" name="Renate Künast">
           <speaker>Renate Künast (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Lieber Gregor Gysi, aufgeblasen wie ein Ochsenfrosch, neun Jahre Zeit gehabt in Berlin,</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der FDP)</stage>
@@ -1031,28 +1080,30 @@
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD - Widerspruch bei der CDU/CSU)</stage>
           <p>Vielleicht haben Sie heute zulasten von Herrn Röttgen die Konkurrenz zu Frau Merkel um die Kanzlerkandidatur eröffnet, - NA</p>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Frau Kollegin, denken Sie an die Redezeit.</p>
         </sp>
-        <sp who="Renate Künast" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Renate Künast">
+      </div>
+      <div type="agenda_item" n="37" what="debate" desc="Debatte">
+        <sp who="Renate Künast" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Renate Künast" party="GRUENE" name="Renate Künast">
           <speaker>Renate Künast (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>- ich will nur noch diesen Satz zu Ende führen -, weil Sie viermal so viel Beifall bekommen haben. Aber für die Kinder in diesem Land haben Sie bisher außer warmen Worten nichts geliefert.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN - Karl Schiewerling [CDU/CSU]: Unerträglich!)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Nun schließe ich die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über die von den Fraktionen der CDU/CSU und der FDP sowie von der Bundesregierung eingebrachten Entwürfe eines Gesetzes zur Ermittlung von Regelbedarfen und zur Änderung des Zweiten und Zwölften Buches Sozialgesetzbuch. Der Ausschuss für Arbeit und Soziales empfiehlt unter Buchstabe a seiner Beschlussempfehlung auf Drucksachen 17/4032 und 17/4095, die genannten Gesetzentwürfe auf Drucksachen 17/3404 und 17/3958 zusammenzuführen und als Gesetz zur Ermittlung von Regelbedarfen und zur Änderungen des Zweiten und Zwölften Buches Sozialgesetzbuch in der Ausschussfassung anzunehmen.</p>
           <p>Hierzu liegen elf Änderungsanträge vor, über die wir zuerst abstimmen. Wir beginnen mit den drei Änderungsanträgen, zu denen namentliche Abstimmung verlangt wird. Es werden dann voraussichtlich nach einer kleinen Unterbrechung in kurzem Abstand noch drei weitere namentliche Abstimmungen folgen, einschließlich einer namentlichen Abstimmung zum Tagesord-nungspunkt 35, der ohne Aussprache aufgerufen werden wird. Wir werden also insgesamt sechs namentliche Abstimmungen in relativ rascher Folge durchführen.</p>
           <p>Wir stimmen nun über den Änderungsantrag der Fraktion Die Linke auf Drucksache 17/4084 namentlich ab. Ich bitte die Schriftführerinnen und Schriftführer, die vorgesehenen Plätze an den Urnen einzunehmen. - Sind alle Plätze an den Urnen besetzt? - Das ist der Fall. Ich eröffne die Abstimmung.</p>
-          <p>Sind Kolleginnen oder Kollegen im Saal, die ihre Stimme noch nicht abgegeben haben? - Das ist nicht der Fall. Dann schließe ich diese Abstimmung und bitte, die Stimmen auszuzählen. Das Ergebnis wird Ihnen später bekannt gegeben.</p>
-          <p>Wir stimmen jetzt über den Änderungsantrag der Fraktion Bündnis 90/Die Grünen auf Drucksache 17/4096 namentlich ab. Wir beginnen also mit der zweiten namentlichen Abstimmung. Sind alle Plätze an den Urnen mit Schriftführerinnen und Schriftführern besetzt? - Das ist der Fall. Dann eröffne ich die zweite namentliche Abstimmung.</p>
+          <p>Sind Kolleginnen oder Kollegen im Saal, die ihre Stimme noch nicht abgegeben haben? - Das ist nicht der Fall. Dann schließe ich diese Abstimmung und bitte, die Stimmen auszuzählen. Das Ergebnis wird Ihnen später bekannt gegeben.1</p>
+          <p>Wir stimmen jetzt über den Änderungsantrag der Fraktion Bündnis 90/Die Grünen auf Drucksache 17/4096 namentlich ab. Wir beginnen also mit der zweiten namentlichen Abstimmung. Sind alle Plätze an den Urnen mit Schriftführerinnen und Schriftführern besetzt? - Das ist der Fall. Dann eröffne ich die zweite namentliche Abstimmung.2</p>
           <p>Haben alle Kolleginnen und Kollegen für die zweite namentliche Abstimmung ihre Stimme abgegeben? - Das ist der Fall. Dann schließe ich diese Abstimmung. Ich bitte, die Stimmen auszuzählen.</p>
           <p>Wir kommen zur Abstimmung über den Änderungsantrag der Fraktion Bündnis 90/Die Grünen auf Drucksache 17/4107. Auch hier wird namentliche Abstimmung gewünscht. Sind alle Plätze an den Urnen besetzt? - Das ist der Fall. Dann eröffne ich die dritte namentliche Abstimmung.</p>
-          <stage type="interjection">(Volker Beck [Köln] [BÜNDNIS 90/DIE GRÜNEN]: Frau Präsidentin, wenn da oben der Betreff nicht geändert wird, merken die Leute nicht, dass wir jetzt in der dritten Abstimmung sind! "Ermittlung von Regelbedarfen" stand schon bei der zweiten Abstimmung! Es muss jetzt "Regelbedarf Kinder" heißen, sonst merken die Leute nicht, in welcher Veranstaltung sie sind! - Gegenruf: Sie vielleicht nicht)</stage>
+          <p>(Volker Beck [Köln] [BÜNDNIS 90/DIE GRÜNEN]: Frau Präsidentin, wenn da oben der Betreff nicht geändert wird, merken die Leute nicht, dass wir jetzt in der dritten Abstimmung sind! "Ermittlung von Regelbedarfen" stand schon bei der zweiten Abstimmung! Es muss jetzt "Regelbedarf Kinder" heißen, sonst merken die Leute nicht, in welcher Veranstaltung sie sind! - Gegenruf: Sie vielleicht nicht)</p>
           <p>Zur Klarstellung: Wir sind in der dritten namentlichen Abstimmung. Es geht um den Änderungsantrag der Fraktion Bündnis 90/Die Grünen auf Drucksache 17/4107.</p>
-          <p>Sind noch Kolleginnen und Kollegen im Saal, die ihre Stimmkarte für die dritte namentliche Abstimmung nicht abgegeben haben? - Das ist nicht der Fall. Dann schließe ich auch diese Abstimmung und bitte die Schriftführerinnen und Schriftführer, auszuzählen.</p>
+          <p>Sind noch Kolleginnen und Kollegen im Saal, die ihre Stimmkarte für die dritte namentliche Abstimmung nicht abgegeben haben? - Das ist nicht der Fall. Dann schließe ich auch diese Abstimmung und bitte die Schriftführerinnen und Schriftführer, auszuzählen.3</p>
           <p>Liebe Kolleginnen und Kollegen, wir haben eine Reihe von einfachen Abstimmungen über insgesamt acht Änderungsanträge zu absolvieren. Ich bitte Sie, Platz zu nehmen, damit ich einen Überblick über die Mehrheitsverhältnisse bekomme. Je zügiger Sie Platz nehmen, desto schneller sind wir heute fertig.</p>
           <p>Wir kommen zur Abstimmung über den Änderungsantrag der Fraktion Die Linke auf Drucksache 17/4085. Wer stimmt für diesen Änderungsantrag? - Wer ist dagegen? - Enthaltungen? - Der Änderungsantrag ist abgelehnt. Für ihn haben gestimmt die Kolleginnen und Kollegen der Fraktion Die Linke, dagegen die Koalitionsfraktionen und die SPD-Fraktion. Enthalten hat sich die Fraktion Bündnis 90/Die Grünen.</p>
           <p>Nun kommen wir zu den Änderungsanträgen der Fraktion Bündnis 90/Die Grünen.</p>
@@ -1067,7 +1118,9 @@
           <p>Die Sitzung ist unterbrochen.</p>
           <stage type="interjection">(Unterbrechung von 12.06 bis 12.14 Uhr)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+      </div>
+      <div type="agenda_item" n="38" what="debate" desc="Debatte">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Liebe Kolleginnen und Kollegen, die unterbrochene Sitzung ist wieder eröffnet.</p>
           <p>Ich darf Ihnen zunächst die von den Schriftführerinnen und Schriftführern ermittelten Ergebnisse der namentlichen Abstimmungen bekannt geben.</p>
@@ -1249,7 +1302,7 @@
           <p>Dorothee Menzner</p>
           <p>Cornelia Möhring</p>
           <p>Niema Movassat</p>
-          <p>Wolfgang Ne kovic</p>
+          <p>Wolfgang Nekovic</p>
           <p>Petra Pau</p>
           <p>Richard Pitterle</p>
           <p>Yvonne Ploetz</p>
@@ -1271,7 +1324,8 @@
           <p>Katrin Werner</p>
           <p>Jörn Wunderlich</p>
           <p>Sabine Zimmermann</p>
-          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>BÜNDNIS 90/</p>
+          <p>DIE GRÜNEN</p>
           <p>Kerstin Andreae</p>
           <p>Volker Beck (Köln)</p>
           <p>Cornelia Behm</p>
@@ -1825,7 +1879,7 @@
           <p>Dorothee Menzner</p>
           <p>Cornelia Möhring</p>
           <p>Niema Movassat</p>
-          <p>Wolfgang Ne kovic</p>
+          <p>Wolfgang Nekovic</p>
           <p>Petra Pau</p>
           <p>Richard Pitterle</p>
           <p>Yvonne Ploetz</p>
@@ -1846,7 +1900,8 @@
           <p>Katrin Werner</p>
           <p>Jörn Wunderlich</p>
           <p>Sabine Zimmermann</p>
-          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>BÜNDNIS 90/</p>
+          <p>DIE GRÜNEN</p>
           <p>Kerstin Andreae</p>
           <p>Volker Beck (Köln)</p>
           <p>Cornelia Behm</p>
@@ -2396,7 +2451,7 @@
           <p>Dorothee Menzner</p>
           <p>Cornelia Möhring</p>
           <p>Niema Movassat</p>
-          <p>Wolfgang Ne kovic</p>
+          <p>Wolfgang Nekovic</p>
           <p>Petra Pau</p>
           <p>Richard Pitterle</p>
           <p>Yvonne Ploetz</p>
@@ -2418,7 +2473,8 @@
           <p>Katrin Werner</p>
           <p>Jörn Wunderlich</p>
           <p>Sabine Zimmermann</p>
-          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>BÜNDNIS 90/</p>
+          <p>DIE GRÜNEN</p>
           <p>Kerstin Andreae</p>
           <p>Volker Beck (Köln)</p>
           <p>Cornelia Behm</p>
@@ -2785,13 +2841,13 @@
           <p>Dr. Claudia Winterstein</p>
           <p>Dr. Volker Wissing</p>
           <p>Hartfrid Wolff (Rems-Murr)</p>
-          <p>Damit kommen wir zur Abstimmung über den Gesetzentwurf. Dazu liegen mehrere persönliche Erklärungen zur Abstimmung nach § 31 unserer Geschäftsordnung vor. Es geht um den Gesetzentwurf zur Ermittlung von Regelbedarfen und zur Änderung des Zweiten und Zwölften Buches Sozialgesetzbuch in der Ausschussfassung. Wer zustimmen will, den bitte ich um das Handzeichen. - Wer ist dagegen? - Gibt es Enthaltungen? - Der Gesetzentwurf ist damit in zweiter Beratung mit den Stimmen der Koalitionsfraktionen gegen die Stimmen der Oppositionsfraktionen angenommen.</p>
+          <p>Damit kommen wir zur Abstimmung über den Gesetzentwurf. Dazu liegen mehrere persönliche Erklärungen zur Abstimmung nach § 31 unserer Geschäftsordnung vor.4 Es geht um den Gesetzentwurf zur Ermittlung von Regelbedarfen und zur Änderung des Zweiten und Zwölften Buches Sozialgesetzbuch in der Ausschussfassung. Wer zustimmen will, den bitte ich um das Handzeichen. - Wer ist dagegen? - Gibt es Enthaltungen? - Der Gesetzentwurf ist damit in zweiter Beratung mit den Stimmen der Koalitionsfraktionen gegen die Stimmen der Oppositionsfraktionen angenommen.</p>
           <p>Wir kommen zur</p>
           <p>dritten Beratung</p>
           <p>und Schlussabstimmung. Über den Gesetzentwurf stimmen wir auf Verlangen der Fraktion der SPD namentlich ab. Ich bitte die Schriftführerinnen und Schriftführer, ihre Plätze an den Urnen wieder einzunehmen. - Sind die Plätze an den Urnen besetzt? - Das ist der Fall. Dann eröffne ich die vierte namentliche Abstimmung.</p>
-          <p>Sind Kolleginnen und Kollegen im Saal, die ihre Stimme bei dieser vierten namentlichen Abstimmung, bei der es um den Gesetzentwurf geht, noch nicht abgegeben haben? - Das ist der Fall. Ich bitte, dies schnell zu erledigen. - Ich sehe jetzt niemanden mehr, der seine Stimme noch nicht abgegeben hat. Ich schließe die Abstimmung. Das Ergebnis wird Ihnen später bekannt gegeben.</p>
+          <p>Sind Kolleginnen und Kollegen im Saal, die ihre Stimme bei dieser vierten namentlichen Abstimmung, bei der es um den Gesetzentwurf geht, noch nicht abgegeben haben? - Das ist der Fall. Ich bitte, dies schnell zu erledigen. - Ich sehe jetzt niemanden mehr, der seine Stimme noch nicht abgegeben hat. Ich schließe die Abstimmung. Das Ergebnis wird Ihnen später bekannt gegeben.5</p>
           <p>Wir kommen jetzt zur Abstimmung über die Entschließungsanträge. Zunächst stimmen wir über den Entschließungsantrag der Fraktion der SPD auf Druck-sache 17/4104 ab. Über diesen Entschließungsantrag stimmen wir namentlich ab. - Ich sehe, alle Plätze an den Urnen sind besetzt. Ich eröffne die fünfte und damit vorletzte namentliche Abstimmung.</p>
-          <p>Sind noch Kolleginnen oder Kollegen im Saal, die ihre Stimme noch nicht abgegeben haben? - Das ist nicht der Fall. Dann ist diese Abstimmung geschlossen. Ich bitte, auszuzählen.</p>
+          <p>Sind noch Kolleginnen oder Kollegen im Saal, die ihre Stimme noch nicht abgegeben haben? - Das ist nicht der Fall. Dann ist diese Abstimmung geschlossen. Ich bitte, auszuzählen.6</p>
           <p>Jetzt darf ich Sie bitten, wieder Platz zu nehmen, damit ich bei den folgenden einfachen Abstimmungen einen Überblick über die Mehrheitsverhältnisse habe. - Darf ich Sie bitten, Ihre Gespräche einzustellen, damit wir mit den Abstimmungen fortfahren können?</p>
           <p>Wir kommen zur Abstimmung über den Entschließungsantrag der Fraktion Die Linke auf Drucksache 17/4105. Wer stimmt für diesen Entschließungsantrag? - Wer ist dagegen? - Enthaltungen? - Der Entschließungsantrag ist abgelehnt. Dafür hat die Fraktion Die Linke gestimmt. Die anderen Fraktionen waren dagegen.</p>
           <p>Wir kommen nun zur Abstimmung über den Entschließungsantrag der Fraktion Die Linke auf Druck-sache 17/4106. Wer stimmt dafür? - Wer stimmt dagegen? - Enthaltungen? - Der Entschließungsantrag ist abgelehnt. Dafür haben die Fraktion Die Linke und die Fraktion Bündnis 90/Die Grünen gestimmt. Dagegen haben die Koalitionsfraktionen und die SPD-Fraktion gestimmt.</p>
@@ -2808,9 +2864,9 @@
           <p>Stuttgart 21 - Bau- und Vergabestopp</p>
           <p>- Drucksache 17/3992 -</p>
           <p>Interfraktionell ist vereinbart worden, dass eine Aussprache dazu nicht stattfinden soll, sodass wir gleich zur Abstimmung kommen.</p>
-          <p>Ich weise darauf hin, dass dazu mehrere persönliche Erklärungen nach § 31 unserer Geschäftsordnung vorliegen.</p>
+          <p>Ich weise darauf hin, dass dazu mehrere persönliche Erklärungen nach § 31 unserer Geschäftsordnung vorliegen.7</p>
           <p>Auf Verlangen der Fraktion Die Linke stimmen wir über den Antrag auf Drucksache 17/3992 namentlich ab. Die Plätze an den Urnen sind, wie ich sehe, besetzt. Ich eröffne die sechste namentliche Abstimmung.</p>
-          <p>Sind noch Kolleginnen und Kollegen im Saal, die ihre Stimmkarten nicht abgegeben haben? - Das ist nicht der Fall. Dann schließe ich auch diese Abstimmung und bitte die Schriftführerinnen und Schriftführer, mit der Auszählung zu beginnen. Das Ergebnis der Abstimmung wird Ihnen später bekanntgegeben.</p>
+          <p>Sind noch Kolleginnen und Kollegen im Saal, die ihre Stimmkarten nicht abgegeben haben? - Das ist nicht der Fall. Dann schließe ich auch diese Abstimmung und bitte die Schriftführerinnen und Schriftführer, mit der Auszählung zu beginnen. Das Ergebnis der Abstimmung wird Ihnen später bekanntgegeben.8</p>
           <p>Damit können wir unsere Beratungen fortsetzen. Bevor ich den nächsten Tagesordnungspunkt aufrufe, teile ich Ihnen mit, dass sich die Fraktionen darauf verständigt haben, die Tagesordnungspunkte 32 und 33 abzusetzen. Sind Sie damit einverstanden? - Ich sehe, das ist der Fall. Dann ist das so beschlossen.</p>
           <p>Wir kommen zum Tagesordnungspunkt 31:</p>
           <p>Erste Beratung des von den Abgeordneten Renate Künast, Ekin Deligöz, Monika Lazar, weiteren Abgeordneten und der Fraktion BÜNDNIS 90/ DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes zur geschlechtergerechten Besetzung von Aufsichtsräten</p>
@@ -2819,14 +2875,14 @@
           <p>Rechtsausschuss (f)</p>
           <p>Ausschuss für Familie, Senioren, Frauen und Jugend (f)</p>
           <p>Ausschuss für Wirtschaft und Technologie</p>
-          <p>Ausschuss für Arbeit und Soziales </p>
+          <p>Ausschuss für Arbeit und Soziales</p>
           <p>Federführung strittig</p>
           <p>Interfraktionell wurde vereinbart, darüber eineinviertel Stunden zu diskutieren. Ich sehe, damit sind Sie einverstanden. Dann werden wir so verfahren.</p>
           <p>Ich eröffne die Aussprache. Als erste Rednerin hat das Wort die Kollegin Renate Künast für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
       </div>
-      <div type="agenda_item" n="2" what="debate" desc="Erste Beratung des von den Abgeordneten Renate Künast, Ekin Deligöz, Monika Laza...">
-        <sp who="Renate Künast" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Renate Künast">
+      <div type="agenda_item" n="39" what="debate" desc="Debatte">
+        <sp who="Renate Künast" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Renate Künast" party="GRUENE" name="Renate Künast">
           <speaker>Renate Künast (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Als Erstes will ich meiner Freude Ausdruck verleihen, dass aus allen Fraktionen so wahnsinnig viele Leute anwesend sind, vor allen Dingen so viele Männer.</p>
           <stage type="interjection">(Heiterkeit bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN - Jörg van Essen [FDP]: Was soll das denn heißen? - Dr. Eva Högl [SPD]: Hier ist doch einer!)</stage>
@@ -2877,7 +2933,7 @@
           <p>Jede Frau wird Ihnen sagen: Am Ende gehen die Vorstände und Aufsichtsräte immer zu den jungen Männern und fragen: Was willst du denn demnächst noch werden? Wo willst du dich weiterqualifizieren? Wohin nehme ich dich mal mit? - Bei den Frauen wird immer noch erwartet, dass sie ihre Arbeitszeit verkürzen, Kinder kriegen und die Familienarbeit machen. Damit muss Schluss sein. Damit wird aber nur Schluss sein, wenn sich Frauen - vor allem die Frauen - und auch Männer im Deutschen Bundestag in dieser Legislaturperiode endlich mal ein Herz nehmen und sagen: Nach 60 Jahren Grundgesetz ist Schluss damit. An den Kodex der Freiwilligkeit von Frau Schröder glaubt sowieso kein Mensch. Wir machen endlich Nägel mit Köpfen. Also, bitte, stimmen Sie unserem Entwurf eines Aufsichtsratsgesetzes zu.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und der LINKEN)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Bevor ich der nächsten Rednerin das Wort erteile, will ich Ihnen die von den Schriftführerinnen und Schriftführern ermittelten Ergebnisse der namentlichen Abstimmungen bekannt geben.</p>
           <p>Ich gebe Ihnen zunächst das Ergebnis der Abstimmung über den Gesetzentwurf der Koalitionsfraktionen und der Bundesregierung zur Ermittlung von Regelbedarfen bekannt: abgegebene Stimmen 557. Mit Ja haben gestimmt 302, mit Nein 255; Enthaltungen gab es keine. Der Gesetzentwurf ist damit angenommen.</p>
@@ -3364,7 +3420,7 @@
           <p>Dorothee Menzner</p>
           <p>Cornelia Möhring</p>
           <p>Niema Movassat</p>
-          <p>Wolfgang Ne kovic</p>
+          <p>Wolfgang Nekovic</p>
           <p>Petra Pau</p>
           <p>Richard Pitterle</p>
           <p>Yvonne Ploetz</p>
@@ -3386,7 +3442,8 @@
           <p>Katrin Werner</p>
           <p>Jörn Wunderlich</p>
           <p>Sabine Zimmermann</p>
-          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>BÜNDNIS 90/</p>
+          <p>DIE GRÜNEN</p>
           <p>Kerstin Andreae</p>
           <p>Volker Beck (Köln)</p>
           <p>Cornelia Behm</p>
@@ -3627,7 +3684,7 @@
           <p>Ulrich Maurer</p>
           <p>Cornelia Möhring</p>
           <p>Niema Movassat</p>
-          <p>Wolfgang Ne kovic</p>
+          <p>Wolfgang Nekovic</p>
           <p>Petra Pau</p>
           <p>Richard Pitterle</p>
           <p>Yvonne Ploetz</p>
@@ -3649,7 +3706,8 @@
           <p>Katrin Werner</p>
           <p>Jörn Wunderlich</p>
           <p>Sabine Zimmermann</p>
-          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>BÜNDNIS 90/</p>
+          <p>DIE GRÜNEN</p>
           <p>Kerstin Andreae</p>
           <p>Volker Beck (Köln)</p>
           <p>Cornelia Behm</p>
@@ -4190,7 +4248,7 @@
           <p>Dorothee Menzner</p>
           <p>Cornelia Möhring</p>
           <p>Niema Movassat</p>
-          <p>Wolfgang Ne kovic</p>
+          <p>Wolfgang Nekovic</p>
           <p>Petra Pau</p>
           <p>Richard Pitterle</p>
           <p>Yvonne Ploetz</p>
@@ -4212,7 +4270,8 @@
           <p>Katrin Werner</p>
           <p>Jörn Wunderlich</p>
           <p>Sabine Zimmermann</p>
-          <p>BÜNDNIS 90/DIE GRÜNEN</p>
+          <p>BÜNDNIS 90/</p>
+          <p>DIE GRÜNEN</p>
           <p>Kerstin Andreae</p>
           <p>Volker Beck (Köln)</p>
           <p>Cornelia Behm</p>
@@ -4591,7 +4650,9 @@
           <p>Jetzt können wir in der Debatte fortfahren. Das Wort hat die Kollegin Elisabeth Winkelmeier-Becker für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der FDP)</stage>
         </sp>
-        <sp who="Elisabeth Winkelmeier-Becker" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Elisabeth Winkelmeier-Becker">
+      </div>
+      <div type="agenda_item" n="40" what="debate" desc="Debatte">
+        <sp who="Elisabeth Winkelmeier-Becker" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Elisabeth Winkelmeier-Becker" party="CDU" name="Elisabeth Winkelmeier-Becker">
           <speaker>Elisabeth Winkelmeier-Becker (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Dies ist die erste Lesung dieses Gesetzentwurfs; aber es ist bei weitem nicht das erste Mal, dass wir uns mit dem Thema "Frauen in Führungspositionen" hier im Plenum beschäftigen. Dieses Thema stand auch in der vergangenen Sitzungswoche auf der Tagesordnung, und ich habe selber dazu gesprochen. Daher ist es kein Geheimnis - ich brauche nicht darum herumzureden -, dass ich mir durchaus vorstellen kann, dass wir dazu kommen, eine verbindliche Quote für Frauen in Führungspositionen, speziell in Aufsichtsräten, zu beschließen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU und der SPD)</stage>
@@ -4653,12 +4714,14 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Nächste Rednerin ist die Kollegin Christel Humme für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Christel Humme" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Christel Humme">
+      </div>
+      <div type="agenda_item" n="41" what="debate" desc="Debatte">
+        <sp who="Christel Humme" parliamentary_group="SPD" role="mp" position="NA" who_original="Christel Humme" party="SPD" name="Christel Humme">
           <speaker>Christel Humme (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kollegen, liebe Kolleginnen! Frau Winkelmeier-Becker, es würde mir gut gefallen, wenn mehr Frauen wie Sie in der CDU-Fraktion wären. Ich glaube, dann kämen wir einen großen Schritt weiter.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
@@ -4698,30 +4761,36 @@
           <p>- Ich möchte die Zahlen lieber nicht wissen.</p>
           <stage type="interjection">(Otto Fricke [FDP]: Sie wissen es! Sie sind noch besser geworden!)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Frau Kollegin, kommen Sie bitte zum Schluss.</p>
         </sp>
-        <sp who="Christel Humme" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Christel Humme">
+      </div>
+      <div type="agenda_item" n="42" what="debate" desc="Debatte">
+        <sp who="Christel Humme" parliamentary_group="SPD" role="mp" position="NA" who_original="Christel Humme" party="SPD" name="Christel Humme">
           <speaker>Christel Humme (SPD):</speaker>
           <p>Lassen Sie mich zum Schluss noch einen Punkt ansprechen.</p>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Sie haben Ihre Redezeit schon überzogen.</p>
         </sp>
-        <sp who="Christel Humme" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Christel Humme">
+      </div>
+      <div type="agenda_item" n="43" what="debate" desc="Debatte">
+        <sp who="Christel Humme" parliamentary_group="SPD" role="mp" position="NA" who_original="Christel Humme" party="SPD" name="Christel Humme">
           <speaker>Christel Humme (SPD):</speaker>
           <p>Trotzdem noch eine kurze Bemerkung: Ich denke, der Vorstoß der Grünen ist richtig; wir begrüßen ihn ausdrücklich. Ich hoffe, dass die Debatte und die Anhörung im Bundestag auch dazu führen, dass wir den Gesetzentwurf noch verbessern können. Denn eine Regelung für Aufsichtsräte ist zwar gut, aber die Vorstände gehören auch mit hinein. Dieser Bereich sollte bei der Einführung einer Quote zumindest mit in Erwägung gezogen werden.</p>
           <p>Schönen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Nächster Redner ist der Kollege Marco Buschmann für die FDP-Fraktion.</p>
           <stage type="interjection">(Beifall bei der FDP)</stage>
         </sp>
-        <sp who="Marco Buschmann" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Marco Buschmann">
+      </div>
+      <div type="agenda_item" n="44" what="debate" desc="Debatte">
+        <sp who="Marco Buschmann" parliamentary_group="FDP" role="mp" position="NA" who_original="Marco Buschmann" party="FDP" name="Marco Buschmann">
           <speaker>Marco Buschmann (FDP):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Die Tatsachenverdrehung, mit der wir wieder einmal konfrontiert werden, ist ein starkes Stück.</p>
           <stage type="interjection">(Monika Lazar [BÜNDNIS 90/DIE GRÜNEN]: Sie leben nicht in der Realität!)</stage>
@@ -4731,11 +4800,13 @@
           <stage type="interjection">(Monika Lazar [BÜNDNIS 90/DIE GRÜNEN]: Bis Sie es gelernt haben!)</stage>
           <p>Ich kann nur dazu raten, dies alles abzulehnen.</p>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Herr Kollege Buschmann, gestatten Sie eine Zwischenfrage des Kollegen Ströbele?</p>
         </sp>
-        <sp who="Marco Buschmann" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Marco Buschmann">
+      </div>
+      <div type="agenda_item" n="45" what="debate" desc="Debatte">
+        <sp who="Marco Buschmann" parliamentary_group="FDP" role="mp" position="NA" who_original="Marco Buschmann" party="FDP" name="Marco Buschmann">
           <speaker>Marco Buschmann (FDP):</speaker>
           <p>Nein, gestatte ich nicht.</p>
           <stage type="interjection">(Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Feige!)</stage>
@@ -4774,11 +4845,13 @@
           <stage type="interjection">(Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Das ist eine sehr moderne Partei, die FDP! - Renate Künast [BÜNDNIS 90/DIE GRÜNEN], an den Abg. Otto Fricke [FDP] gewandt: Wo haben Sie den denn ausgegraben, Herr Fricke?)</stage>
           <p>Das können Sie doch nicht ernsthaft behaupten. Vielmehr gibt es Probleme bei der Umsetzung dieser Quote.</p>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Herr Kollege Buschmann, darf ich Sie noch einmal unterbrechen? Die Kollegin Lazar möchte gern eine Zwischenfrage stellen.</p>
         </sp>
-        <sp who="Marco Buschmann" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Marco Buschmann">
+      </div>
+      <div type="agenda_item" n="46" what="debate" desc="Debatte">
+        <sp who="Marco Buschmann" parliamentary_group="FDP" role="mp" position="NA" who_original="Marco Buschmann" party="FDP" name="Marco Buschmann">
           <speaker>Marco Buschmann (FDP):</speaker>
           <p>Nein, das lasse ich nicht zu.</p>
           <stage type="interjection">(Monika Lazar [BÜNDNIS 90/DIE GRÜNEN]: Peinlich!)</stage>
@@ -4789,12 +4862,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP - Caren Marks [SPD]: Sie sind so peinlich! Ehrlich! - Monika Lazar [BÜNDNIS 90/DIE GRÜNEN]: Sie sind ein Schnösel! - Weitere Zurufe von der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Ich bitte Sie, sich zu beruhigen und sich auf den nächsten Redebeitrag zu konzentrieren. Er kommt von der Kollegin Cornelia Möhring für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN - Iris Gleicke [SPD]: Jetzt kommt wieder Qualität in die Debatte!)</stage>
         </sp>
-        <sp who="Cornelia Möhring" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Cornelia Möhring">
+      </div>
+      <div type="agenda_item" n="47" what="debate" desc="Debatte">
+        <sp who="Cornelia Möhring" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Cornelia Möhring" party="DIE LINKE" name="Cornelia Möhring">
           <speaker>Cornelia Möhring (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Liebe Kolleginnen und Kollegen! Herr Buschmann, ehrlich gestanden: Natürlich kann man das in der Zeitung nachlesen; da haben Sie durchaus recht. Aber nicht alles, was in der Zeitung steht, stimmt.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der LINKEN - Marco Buschmann [FDP]: Aha! - Otto Fricke [FDP]: Aha, die Zeitung lügt! - Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Jetzt wissen wir zumindest, was die FDP denkt!)</stage>
@@ -4834,18 +4909,20 @@
           <p>Liebe Kolleginnen von den Grünen, Sie sind zwar nicht auf halbem Weg, wohl aber bei 40 Prozent verhungert. Aber mit der Geschlechtergerechtigkeit verhält es sich wie mit einer Schwangerschaft: Ein bisschen geht nicht. Wir sollten darüber diskutieren, ob wir uns gemeinsam für die stufenweise Einführung einer 50-prozentigen Quote für Frauen einsetzen sollten.</p>
           <p>Obwohl wir Ihren Gesetzentwurf unterstützen, wird meine Fraktion im Frühjahr einen weiter gehenden Antrag vorlegen, der beide Punkte umfasst. Darin verankern wir die stufenweise Einführung einer 50-prozentigen Mindestquote für Frauen in Vorständen und Aufsichtsräten innerhalb der nächsten zehn Jahre. Die Erfahrungen unserer norwegischen Nachbarinnen - darüber sollte man sich besser vor Ort und nicht nur in der Süddeutschen Zeitung informieren - zeigen auch, dass es dringend notwendig ist, gleichzeitig transparente Auswahlverfahren und Konzepte zur Qualifizierung von Führungskräften einzuführen.</p>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Frau Kollegin, die Frau Kollegin Lazar möchte gerne eine Zwischenfrage stellen. - Bitte.</p>
         </sp>
-        <sp who="Monika Lazar" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Monika Lazar">
+      </div>
+      <div type="agenda_item" n="48" what="debate" desc="Debatte">
+        <sp who="Monika Lazar" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Monika Lazar" party="GRUENE" name="Monika Lazar">
           <speaker>Monika Lazar (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Kollegin, könnten Sie dem Kollegen Buschmann von unserer Norwegenreise berichten, an der auch die Kollegin Bracht-Bendt teilgenommen hat? Der norwegische Arbeitgeberverband war vor der Einführung gegen eine Quote. Als wir nun diesen Arbeitgeberverband besucht haben, wurde uns berichtet, dass es jetzt ein Qualifizierungsprogramm für Frauen gibt - ein solches Programm empfehle ich auch manchem Mann, der dann ja wohl nach Ihrer Auffassung eine "Goldhose" wäre - und dass der Arbeitgeberverband nicht mehr gegen, sondern für die Quote ist. Vielleicht sollte auch Herr Buschmann nach Norwegen reisen,</p>
           <stage type="interjection">(Marco Buschmann [FDP]: Ich mache keine Lustreisen! - Dr. Dagmar Enkelmann [DIE LINKE]: Reisen bildet, auch die FDP!)</stage>
           <p>um sich beim dortigen Arbeitgeberverband, der wahrscheinlich eher seine Positionen vertritt, kundig zu machen. Vielleicht können Sie, Frau Möhring, diesbezüglich noch einige Ausführungen machen. Offenbar hat die Kollegin Bracht-Bendt die Informationen von der Norwegenreise in ihrer Fraktion noch nicht ausreichend verbreitet.</p>
           <stage type="interjection">(Caren Marks [SPD]: Sehr schön, Monika! - Beifall der Abg. Caren Marks [SPD])</stage>
         </sp>
-        <sp who="Cornelia Möhring" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Cornelia Möhring">
+        <sp who="Cornelia Möhring" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Cornelia Möhring" party="DIE LINKE" name="Cornelia Möhring">
           <speaker>Cornelia Möhring (DIE LINKE):</speaker>
           <p>Vielen Dank für die Frage. - Ich bestätige die von Ihnen dargelegten Erfahrungen sehr gerne.</p>
           <stage type="interjection">(Otto Fricke [FDP]: Wie süß!)</stage>
@@ -4861,12 +4938,14 @@
           <p>denn wir wollen endlich etwas verändern.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="CSU" name="Gerda Hasselfeldt">
+        <sp who="Gerda Hasselfeldt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Gerda Hasselfeldt" party="CSU" name="Gerda Hasselfeldt">
           <speaker>Vizepräsidentin Gerda Hasselfeldt:</speaker>
           <p>Nächster Redner ist der Kollege Dr. Stephan Harbarth für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP - Caren Marks [SPD]: Hoffentlich redet der nicht so ein dummes Zeug wie der Buschmann!)</stage>
         </sp>
-        <sp who="Dr. Stephan Harbarth" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Stephan Harbarth">
+      </div>
+      <div type="agenda_item" n="49" what="debate" desc="Debatte">
+        <sp who="Stephan Harbarth" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stephan Harbarth" party="CDU" name="Stephan Harbarth">
           <speaker>Dr. Stephan Harbarth (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Sehr verehrte Kolleginnen und Kollegen! Über Fraktionsgrenzen hinweg sind wir uns einig, dass wir mehr Frauen in Führungspositionen der Wirtschaft benötigen.</p>
           <stage type="interjection">(Monika Lazar [BÜNDNIS 90/DIE GRÜNEN]: Immerhin!)</stage>
@@ -4901,7 +4980,7 @@
           <p>es war Ihr rot-grüner Bundeskanzler Gerhard Schröder, der Frauenpolitik nicht nur verunglimpft, sondern als "Gedöns" geradezu verspottet hat.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Markus Grübel [CDU/CSU]: Wo er recht hat, hat er recht! - Hubertus Heil [Peine] [SPD]: Helmut Kohl, der Frauenförderer! Ich lach' mich tot! - Caren Marks [SPD]: Der größte Spott für die Frauen ist diese Frauenministerin!)</stage>
           <p>Auch bei manchen DAX-Unternehmen scheinen die Dinge in Bewegung zu kommen. SAP, ein Unternehmen aus meinem Wahlkreis - deshalb freue ich mich auch darüber -, hat in diesem Jahr zum ersten Mal in der Unternehmensgeschichte eine Frau in den Vorstand berufen. Gleiches gilt für BASF. Gleiches steht, wenn man einem Bericht der FAZ aus dieser Woche Glauben schenken mag, bei Daimler bevor.</p>
-          <p>Als erstes der DAX-30-Unternehmen hat sich die Deutsche Telekom im März dieses Jahres verpflichtet, bis Ende 2015  30 Prozent der oberen und mittleren Führungspositionen im Unternehmen mit Frauen zu besetzen. Die Telekom hat sich also aus freien Stücken, ohne gesetzliche Vorgabe, für eine Frauenquote von 30 Pro-zent entschieden. Wenn Sie anführen, die Telekom bestehe darauf, dass es zu einer gesetzlichen Regelung kommt, sage ich Ihnen: Ich freue mich, dass die Telekom bei 30 Prozent angekommen ist. Aber sie soll die Forderung nach gesetzlichen Regelungen noch nicht erheben. Wer bei 30 Prozent ist, kann sicherlich noch etwas zulegen.</p>
+          <p>Als erstes der DAX-30-Unternehmen hat sich die Deutsche Telekom im März dieses Jahres verpflichtet, bis Ende 2015 30 Prozent der oberen und mittleren Führungspositionen im Unternehmen mit Frauen zu besetzen. Die Telekom hat sich also aus freien Stücken, ohne gesetzliche Vorgabe, für eine Frauenquote von 30 Pro-zent entschieden. Wenn Sie anführen, die Telekom bestehe darauf, dass es zu einer gesetzlichen Regelung kommt, sage ich Ihnen: Ich freue mich, dass die Telekom bei 30 Prozent angekommen ist. Aber sie soll die Forderung nach gesetzlichen Regelungen noch nicht erheben. Wer bei 30 Prozent ist, kann sicherlich noch etwas zulegen.</p>
           <stage type="interjection">(Beifall der Abg. Nadine Schön [St. Wendel] [CDU/CSU])</stage>
           <p>Mit all dem, was ich dargestellt habe, ist das Ziel einer angemessenen Vertretung von Frauen in Unternehmen noch nicht erreicht. Aber wir haben den Eindruck, dass im jetzt zu Ende gehenden Jahr 2010 viel mehr in Bewegung gekommen ist als in dem Jahrzehnt davor. Aber wenn man alle Unternehmen über einen Kamm schert, wie das in dem Gesetzentwurf der Grünen vorgesehen ist, muss man sich schon fragen, ob man die strukturelle Vielfalt unserer Wirtschaft hinreichend berücksichtigt. Der Frauenanteil ist in den verschiedenen Wirtschaftsbereichen und Branchen sehr unterschiedlich ausgeprägt. Er liegt im Dienstleistungsbereich bei 57 Prozent, im verarbeitenden Gewerbe bei nur 25 Prozent. Da muss man sich schon fragen, ob es wirklich sachgerecht ist, für beide Bereiche genau den gleichen Schwellenwert festzulegen.</p>
           <p>Klar ist auch: Wer den Anteil von Frauen in Führungspositionen nachhaltig erhöhen möchte, braucht ein Gesamtkonzept. Er braucht nicht ein reines Stückwerk wie den vorliegenden Gesetzentwurf der Grünen, der nur einen kleinen Ausschnitt adressiert, nämlich die Situation in Aufsichtsräten.</p>
@@ -4921,12 +5000,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der FDP - Christel Humme [SPD]: Welche Überraschung!)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Die Kollegin Dr. Eva Högl hat jetzt für die SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Eva Högl" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Eva Högl">
+      </div>
+      <div type="agenda_item" n="50" what="debate" desc="Debatte">
+        <sp who="Eva Högl" parliamentary_group="SPD" role="mp" position="NA" who_original="Eva Högl" party="SPD" name="Eva Högl">
           <speaker>Dr. Eva Högl (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen! Liebe Kollegen! Ich muss es zu Beginn noch einmal sagen: Ich finde es extrem peinlich - auch wenn es ein Freitagnachmittag ist -, dass bei dieser wichtigen Debatte die Bundesfrauenministerin nicht anwesend ist.</p>
           <stage type="interjection">(Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -4966,12 +5047,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Jetzt hat die Kollegin Nicole Bracht-Bendt für die FDP-Fraktion das Wort.</p>
-          <stage type="interjection">(Beifall bei der FDP) </stage>
+          <stage type="interjection">(Beifall bei der FDP)</stage>
         </sp>
-        <sp who="Nicole Bracht-Bendt" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Nicole Bracht-Bendt">
+      </div>
+      <div type="agenda_item" n="51" what="debate" desc="Debatte">
+        <sp who="Nicole Bracht-Bendt" parliamentary_group="FDP" role="mp" position="NA" who_original="Nicole Bracht-Bendt" party="FDP" name="Nicole Bracht-Bendt">
           <speaker>Nicole Bracht-Bendt (FDP):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine sehr geehrten Damen und Herren! 40 Prozent Frauen in Aufsichtsräten wünsche ich mir als frauenpolitische Sprecherin der Liberalen auch. Ich teile Ihre Auffassung, liebe Kolleginnen und Kollegen der Grünen, dass die Berücksichtigung von mehr Frauen in Führungspositionen schon lange überfällig ist. Fest steht: An Schulen und Universitäten sind Frauen sehr erfolgreich. In vielen Studiengängen sind mehr als die Hälfte der Studierenden Frauen. In manchen Fächern, zum Beispiel Jura, machen Frauen die besseren Examen. Gleichzeitig ist nicht einmal jedes zehnte Aufsichtsratsmitglied in börsennotierten Unternehmen eine Frau, und diese vertreten meist nicht die Anteilseigner, sondern die Arbeitnehmer. Noch ernüchternder sieht es in der Vorstandsebene aus. In den deutschen börsennotierten Unternehmen sitzen 21 Frauen - gerade einmal 3 Prozent - in den Vorständen. Bundesjustizministerin Leutheusser-Schnarrenberger hat in ihrer Rede zum neuen Governance Kodex im Sommer darauf hingewiesen, dass sie ohne Raumnot alle Aufsichtsrätinnen zur Vollversammlung in ihr Büro einladen kann. Dass sich das ändert, wollen wir alle.</p>
           <stage type="interjection">(Caren Marks [SPD]: Ja, wie denn?)</stage>
@@ -4985,11 +5068,13 @@
           <stage type="interjection">(Abg. Cornelia Möhring [DIE LINKE] meldet sich zu einer Zwischenfrage)</stage>
           <p>Berichtspflicht und Selbstverpflichtung setzt der Governance Kodex um. Der Kodex verlangt, klare Ziele in der Frauenförderung zu formulieren und diese Ziele bei den Wahlvorschlägen zu berücksichtigen.</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Frau Bracht-Bendt, lassen Sie eine Zwischenfrage zu?</p>
         </sp>
-        <sp who="Nicole Bracht-Bendt" parliamentary_group="FDP" role="mp" position="NA" party="FDP" name="Nicole Bracht-Bendt">
+      </div>
+      <div type="agenda_item" n="52" what="debate" desc="Debatte">
+        <sp who="Nicole Bracht-Bendt" parliamentary_group="FDP" role="mp" position="NA" who_original="Nicole Bracht-Bendt" party="FDP" name="Nicole Bracht-Bendt">
           <speaker>Nicole Bracht-Bendt (FDP):</speaker>
           <p>Nein, ich lasse sie nicht zu. Die Zeit ist schon fortgeschritten, und wir wollen zum Ende kommen.</p>
           <p>Frauenförderung ist für mich der Schlüssel zu mehr Frauen in Aufsichtsräten. Immer wieder höre ich, dass für die Besetzung von Aufsichtsratsposten nicht genügend qualifizierte Frauen zur Verfügung stünden. Dem widerspreche ich. Keiner kann mir weismachen, dass die vielen hochqualifizierten Frauen mit Studienabschluss, vielfach promoviert, plötzlich alle vom Erdboden verschluckt sind oder den Aufsichtsratsposten nicht wollen. Der Grund, warum nach qualifizierten Frauen für Aufsichtsratsposten teilweise noch Ausschau gehalten werden muss, liegt doch viel mehr darin, dass Frauen häufig keine jahrelange Vorstandstätigkeit in einem börsennotierten Unternehmen vorweisen können. Aber das kann man den Frauen nicht zum Vorwurf machen. Deshalb müssen wir dafür sorgen,</p>
@@ -5002,12 +5087,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Hubertus Heil hat das Wort für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Hubertus Heil" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Hubertus Heil">
+      </div>
+      <div type="agenda_item" n="53" what="debate" desc="Debatte">
+        <sp who="Hubertus Heil (Peine)" parliamentary_group="SPD" role="mp" position="NA" who_original="Hubertus Heil (Peine)" party="SPD" name="Hubertus Heil">
           <speaker>Hubertus Heil (Peine) (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Als die Debatte begonnen hat, war ich sehr hoffnungsfroh, weil neben der Einbringung des Gesetzentwurfs durch Frau Künast und neben den Redebeiträgen von den Kollegen aus meiner Fraktion Sie, Frau Winkelmeier-Becker, vielen meiner Kolleginnen und Kollegen mit der Beschreibung Ihrer Position durchaus aus dem Herzen gesprochen haben. Ich hatte gehofft, dass sich bei Ihnen an diesem Punkt etwas bewegt hat, muss aber leider feststellen, dass Sie offensichtlich weder für die Mehrheit Ihrer Fraktion noch für die Koalition sprechen;</p>
           <stage type="interjection">(Rita Pawelski [CDU/CSU]: Wie kommen Sie denn darauf?)</stage>
@@ -5055,14 +5142,16 @@
           <p>Alle gehen diesen Weg.</p>
           <stage type="interjection">(Marco Buschmann [FDP]: Alle freiwillig!)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Das hatte schon fast die Qualität einer Kurzintervention, da Sie noch einmal an das Rednerpult zurückgegangen sind.</p>
           <stage type="interjection">(Marco Buschmann [FDP]: Das war ein Missbrauch! Ordnungsruf!)</stage>
           <p>Jetzt hat die Kollegin Nadine Schön für die CDU/ CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Nadine Schön" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Nadine Schön">
+      </div>
+      <div type="agenda_item" n="54" what="debate" desc="Debatte">
+        <sp who="Nadine Schön (St. Wendel)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Nadine Schön (St. Wendel)" party="CDU" name="Nadine Müller">
           <speaker>Nadine Schön (St. Wendel) (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Sehr geehrter Herr Heil, Sie sagten, dass Sie vor zehn Jahren so geredet haben und seitdem so viel schlauer geworden sind. Aber Sie waren vor fünf Jahren an der Regierung und haben gar nichts vorgelegt,</p>
           <stage type="interjection">(Caren Marks [SPD]: Da haben Sie das verhindert!)</stage>
@@ -5090,7 +5179,7 @@
           <p>Man kann aber nicht sagen, dass die Frauen an allem schuld sind; denn Frauen kämpfen nur für eine Position, wenn sie das Ziel für erstrebenswert halten.</p>
           <stage type="interjection">(Caren Marks [SPD]: Das sieht Frau Schröder aber anders!)</stage>
           <p>Der Charme von Führungsetagen ist zurzeit eher begrenzt. Es gibt eine Anwesenheitskultur. Es gibt Intrigen, Machogehabe und die 70-Stunden-Woche. Für viele Frauen wirkt das abschreckend. Jetzt kann man natürlich sagen: Pech gehabt! Dann müsst ihr eben draußen bleiben. - Man kann daraus aber auch schließen, dass sich das Klima in den Chefetagen ändern muss, damit sie sowohl für Frauen als auch für Männer attraktiv sind.</p>
-          <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU - Lisa Paus [BÜNDNIS 90/DIE GRÜNEN]: Was tun Sie dafür? - Dr. Eva Högl [SPD]: Das ändert sich erst, wenn Frauen drin sind!) </stage>
+          <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU - Lisa Paus [BÜNDNIS 90/DIE GRÜNEN]: Was tun Sie dafür? - Dr. Eva Högl [SPD]: Das ändert sich erst, wenn Frauen drin sind!)</stage>
           <p>- Sehr gut erkannt, liebe Kollegin. Das ändert sich erst, wenn Frauen drin sind.</p>
           <p>Das möchte ich Ihnen gerne an einem Gedankenexperiment verdeutlichen. Nehmen Sie - das ist bei diesen Temperaturen etwas schwierig - als Beispiel eine Grillparty. Wenn ein Mann eine Grillparty plant, dann gibt es dort Feuer, Fleisch, kaltes Bier und vielleicht noch eine Bierzeltgarnitur. Frauen gehen so etwas anders an. Ihnen ist das zu trist; bei ihnen kommen ein paar Dinge hinzu, zum Beispiel Windlichter und ein frischer Salat als Beilage. Klar ist: Solange nur Männer die Grillparty vorbereiten, wird es bei Bier, Fleisch und Feuer bleiben.</p>
           <stage type="interjection">(Otto Fricke [FDP]: Was kennen Sie denn für Männer?)</stage>
@@ -5129,7 +5218,7 @@
           <p>Ich hätte kein Problem damit, das schon jetzt gesetzlich vorzuschreiben. Wir müssen aber erst abwarten, wie sich die Dynamik entwickelt. Wenn sie nicht zum Erfolg führt, müssen wir die Stellschrauben enger ziehen. Dann muss der Gesetzgeber verbindliche Quoten festlegen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Frau Schön, Sie kommen bitte zum Ende.</p>
           <p>Liebe Kolleginnen und Kollegen, wir liegen beim Ziel nicht weit auseinander, und wir liegen beim Weg nicht weit auseinander. Lassen Sie uns darüber in Ruhe sprechen. Wir finden Ihren Gesetzentwurf eigentlich gut. Wir sind an einer engen Zusammenarbeit bei diesem Thema interessiert. Auf diese Zusammenarbeit freue ich mich.</p>
@@ -5138,7 +5227,9 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP - Caren Marks [SPD]: Armes Würstchen!)</stage>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Katrin Göring-Eckardt">
+      </div>
+      <div type="agenda_item" n="55" what="debate" desc="Debatte">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Vizepräsidentin Katrin Göring-Eckardt:</speaker>
           <p>Damit schließe ich die Aussprache.</p>
           <p>Interfraktionell wird Überweisung des Gesetzentwurfes auf Drucksache 17/3296 an die Ausschüsse vorgeschlagen, die Sie in der Tagesordnung finden. Die Federführung ist jedoch strittig. Die Fraktionen der CDU/CSU und der FDP wünschen Federführung beim Rechtsausschuss, Bündnis 90/Die Grünen beim Ausschuss für Familie, Senioren, Frauen und Jugend.</p>
@@ -5147,23 +5238,24 @@
           <p>Der Tagesordnungspunkt 32 ist abgesetzt und soll zu einem späteren Termin wieder aufgesetzt werden, ebenso der Tagesordnungspunkt 33.</p>
           <p>Ich rufe jetzt den Tagesordnungspunkt 34 a und b auf:</p>
           <p>a) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Stärkung der Pressefreiheit im Straf- und Strafprozessrecht (PrStG)</p>
-          <p>- Drucksache 17/3355 - </p>
+          <p>- Drucksache 17/3355 -</p>
           <p>Überweisungsvorschlag:</p>
-          <p>Rechtsausschuss (f) </p>
+          <p>Rechtsausschuss (f)</p>
           <p>Innenausschuss</p>
           <p>Ausschuss für Kultur und Medien</p>
           <p>b) Erste Beratung des von den Abgeordneten Volker Beck (Köln), Tabea Rößner, Kai Gehring, weiteren Abgeordneten und der Fraktion BÜND-NIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes zum Schutz von Journalisten und der Pressefreiheit im Straf- und Strafprozessrecht</p>
           <p>- Drucksache 17/3989 -</p>
           <p>Überweisungsvorschlag:</p>
-          <p>Rechtsausschuss (f) </p>
+          <p>Rechtsausschuss (f)</p>
           <p>Innenausschuss</p>
           <p>Ausschuss für Kultur und Medien</p>
-          <p>Interfraktionell wird vorgeschlagen, die Reden zu diesem Tagesordnungspunkt zu Protokoll zu geben. - Ich sehe, damit sind Sie einverstanden. Es handelt sich um die Kolleginnen und Kollegen Ansgar Heveling, Christine Lambrecht, Halina Wawzyniak, Volker Beck und den Parlamentarisches Staatssekretär Max Stadler.</p>
+          <p>Interfraktionell wird vorgeschlagen, die Reden zu diesem Tagesordnungspunkt zu Protokoll zu geben. - Ich sehe, damit sind Sie einverstanden. Es handelt sich um die Kolleginnen und Kollegen Ansgar Heveling, Christine Lambrecht, Halina Wawzyniak, Volker Beck und den Parlamentarisches Staatssekretär Max Stadler.9</p>
           <p>Die Gesetzentwürfe auf den Drucksachen 17/3355 und 17/3989 sollen an die Ausschüsse überwiesen werden, die in der Tagesordnung stehen. Gibt es dazu anderweitige Vorschläge? - Das ist nicht der Fall. Dann ist so beschlossen.</p>
           <p>Wir sind damit am Schluss der heutigen Tagesordnung.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 15. Dezember 2010, 13 Uhr, ein.</p>
           <p>Genießen Sie das Wochenende, den zweiten Advent und die gewonnenen Einsichten.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluss: 14.02 Uhr)</stage>
         </sp>
       </div>
     </body>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-07</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://www.bundestag.de/blob/364356/d4c309d5d3288fc2734e795c02267345/18092-data.txt</url>
-        <date>2015-10-20 20:01:33</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -36,7 +36,7 @@
   <text>
     <body>
       <div type="agenda_item" n="1" what="debate" desc="a) – Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwur...">
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Guten Morgen, liebe Kolleginnen und Kollegen! Die Sitzung ist eröffnet. Nehmen Sie bitte Platz.</p>
           <p>Ich rufe die Tagesordnungspunkte 19 a bis 19 c auf:</p>
@@ -53,17 +53,17 @@
           <p>c) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Familie, Senioren, Frauen und Jugend (13. Ausschuss)</p>
           <p>– zu der Unterrichtung durch die Bundesregierung</p>
           <p>Zweiter Erfahrungsbericht der Bundesregierung zum Bundesgleichstellungsgesetz</p>
-          <stage type="interjection">(Berichtszeitraum 1. Juli 2004 bis 30. Juni 2009)</stage>
+          <p>(Berichtszeitraum 1. Juli 2004 bis 30. Juni 2009)</p>
           <p>– zu der Unterrichtung durch die Bundesregierung</p>
           <p>Fünfter Gremienbericht der Bundesregierung zum Bundesgremienbesetzungsgesetz</p>
-          <stage type="interjection">(Berichtszeitraum 30. Juni 2005 bis 30. Juni 2009)</stage>
+          <p>(Berichtszeitraum 30. Juni 2005 bis 30. Juni 2009)</p>
           <p>Drucksachen 17/4307, 17/4308 (neu), 18/4227 Beschlussfassung</p>
           <p>Zu dem Gesetzentwurf der Bundesregierung liegt ein Änderungsantrag der Fraktion Bündnis 90/Die Grünen vor.</p>
           <p>Nach einer interfraktionellen Vereinbarung sind für die Aussprache 96 Minuten vorgesehen. – Ich höre keinen Widerspruch. Dann ist so beschlossen.</p>
           <p>Ich eröffne die Aussprache. Das Wort hat die Bundesministerin Manuela Schwesig.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Manuela Schwesig" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" party="SPD" name="Manuela Schwesig">
+        <sp who="Manuela Schwesig" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" who_original="Manuela Schwesig" party="SPD" name="Manuela Schwesig">
           <speaker>Manuela Schwesig, Bundesministerin für Familie, Senioren, Frauen und Jugend:</speaker>
           <p>Sehr geehrte Frau Präsidentin! Sehr geehrte Damen und Herren Abgeordnete! Der erste Internationale Frauentag 1911 war eine Kundgebung für das Frauenwahlrecht. In der Resolution hieß es damals – Zitat –: Millionen Frauen erheben mit allem Nachdruck Anspruch auf soziale und politische Gleichberechtigung. – 2015 erheben wir Frauen immer noch diesen Anspruch; denn die tatsächliche Durchsetzung der sozialen und politischen Gleichberechtigung steht noch aus. Aber zwei Tage vor dem Internationalen Frauentag machen wir in Deutschland einen historischen Schritt für die Gleichberechtigung der Frauen. Die Quote kommt.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
@@ -99,12 +99,12 @@
           <p>Vielen Dank für Ihre Unterstützung.</p>
           <stage type="interjection">(Langanhaltender rhythmischer Beifall bei der SPD – Beifall bei der CDU/CSU und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat die Kollegin Caren Lay für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Caren Lay" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Caren Lay">
+        <sp who="Caren Lay" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Caren Lay" party="DIE LINKE" name="Caren Lay">
           <speaker>Caren Lay (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Es ist schon ein bisschen die Woche der klitzekleinen Fortschritte.</p>
           <stage type="interjection">(Widerspruch bei der SPD)</stage>
@@ -150,12 +150,12 @@
           <p>Ich bedanke mich für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Die Kollegin Nadine Schön hat für die CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Nadine Schön" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Nadine Schön">
+        <sp who="Nadine Schön (St. Wendel)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Nadine Schön (St. Wendel)" party="CDU" name="Nadine Schön">
           <speaker>Nadine Schön (St. Wendel) (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und liebe Kollegen! Liebe Besucher der Debatte, die Sie heute sehr zahlreich anwesend sind! Ich sehe auf der Tribüne auch Kämpferinnen für mehr Frauen in Führungspositionen: Frau Schulz-Strelow, Frau Süssmuth, Rita Pawelski, die dieses Thema in den letzten Jahren sehr engagiert vorangebracht haben. Herzlich willkommen auch von unserer Seite! Ich freue mich sehr, dass Sie heute hier sind.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU, der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
@@ -181,11 +181,11 @@
           <p>Herzlichen Dank für die guten Beratungen! Herzlichen Dank an alle, die sich für mehr Frauen in Führungspositionen engagiert haben! Ihre Arbeit ist noch nicht vorbei – da bin ich mir sicher. Wir werden gemeinsam daran arbeiten, dass wir in Deutschland mehr Gleichberechtigung, mehr Frauen in Führungspositionen und ein gutes Miteinander der Geschlechter haben; denn nur so können wir wirtschaftlich international erfolgreich sein.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat die Kollegin Katrin Göring-Eckardt für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Katrin Göring-Eckardt" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Katrin Göring-Eckardt">
+        <sp who="Katrin Göring-Eckardt" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Katrin Göring-Eckardt" party="GRUENE" name="Katrin Göring-Eckardt">
           <speaker>Katrin Göring-Eckardt (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine Damen und Herren! Ja, das ist heute ein großer Tag. Das ist heute ein Meilenstein in der Debatte um die Gleichberechtigung von Frauen und Männern in Deutschland.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der CDU/CSU und der LINKEN)</stage>
@@ -234,12 +234,12 @@
           <p>Wir brauchen in unserer Wirtschaft das Potenzial von Frauen für gute Führungskultur, wir brauchen das Potenzial für neue Impulse. Und: Nein, wir sind immer noch nicht müde, wir halten noch eine ganze Menge Macho-sprüche aus; da können Sie sich sicher sein. Und damit das klar ist: Frauen bilden Banden, weiterhin.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Die Kollegin Birgit Kömpel hat für die SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Birgit Kömpel" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Birgit Kömpel">
+        <sp who="Birgit Kömpel" parliamentary_group="SPD" role="mp" position="NA" who_original="Birgit Kömpel" party="SPD" name="Birgit Kömpel">
           <speaker>Birgit Kömpel (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Sehr geehrte Frau Bundeskanzlerin! Sehr geehrte Frau Ministerin Schwesig! Sehr geehrter Herr Minister Maas! Und Sie sind heute noch nicht genannt worden: Liebe Frau Scherb vom Deutschen LandFrauenverband! Meine Damen und Herren! Der norwegische Wirtschaftsminister Trond Giske sagte zur Einführung der gesetzlichen Frauenquote in seiner Heimat: Brechen wir diese Männerbastion nicht, schaffen wir nie die Gleichberechtigung. – Und es stimmt: Die freiwilligen Selbstverpflichtungen sind auf ganzer Linie gescheitert,</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -273,12 +273,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat die Kollegin Susanna Karawanskij für die Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Susanna Karawanskij" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Susanna Karawanskij">
+        <sp who="Susanna Karawanskij" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Susanna Karawanskij" party="DIE LINKE" name="Susanna Karawanskij">
           <speaker>Susanna Karawanskij (DIE LINKE):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Gut Ding will bekanntlich Weile haben. Viele Monate wurde über den Gesetzentwurf diskutiert. Rekordverdächtige sechs Referentenentwürfe gingen diesem Entwurf voran. Gerade die Wirtschaft jaulte am lautesten auf. Die Widerstände von Unternehmen, aber auch von Teilen der Union waren teilweise aberwitzig. Wie immer wurde der Untergang des Wirtschaftsstandorts Deutschland heraufbeschworen – wie immer zu Unrecht. Aus linker Sicht gibt es durchaus einige Kritikpunkte an diesem Gesetzentwurf; darauf hat meine Kollegin Caren Lay schon deutlich hingewiesen.</p>
           <p>Aber ich muss hier auch sagen: Gut Ding musste nicht nur Weile haben, sondern es musste zusammen mit Initiativen und Verbänden auch beharrlich Druck aufgebaut werden. Ich bin froh, dass es gemeinsam gelungen ist, auch unter Beteiligung der Linken, dass es in Deutschland zumindest ein bisschen Quote gibt, ein bisschen „gut Ding“, woran wir alle teilhaben können und in Zukunft teilhaben werden.</p>
@@ -297,12 +297,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Der Kollege Marcus Weinberg hat für die CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Marcus Weinberg" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Marcus Weinberg">
+        <sp who="Marcus Weinberg (Hamburg)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Marcus Weinberg (Hamburg)" party="CDU" name="Marcus Weinberg">
           <speaker>Marcus Weinberg (Hamburg) (CDU/CSU):</speaker>
           <p>Vielen Dank. – Frau Präsidentin! Der siebte Redner ist der erste Mann. Das ist, glaube ich, gut so.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -336,11 +336,11 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD – Thomas Oppermann [SPD]: Das werden wir beide nicht mehr erleben, Marcus!)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat die Kollegin Ulle Schauws für die Fraktion Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Ulle Schauws" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Ursula Schauws">
+        <sp who="Ulle Schauws" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Ulle Schauws" party="GRUENE" name="Ulle Schauws">
           <speaker>Ulle Schauws (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Sehr geehrte Gäste! Liebe Kolleginnen und Kollegen! Auch ich sage: Heute ist ein guter Tag für die Gleichstellung in unserem Land.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der LINKEN)</stage>
@@ -373,12 +373,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Sönke Rix für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Sönke Rix" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Sönke Rix">
+        <sp who="Sönke Rix" parliamentary_group="SPD" role="mp" position="NA" who_original="Sönke Rix" party="SPD" name="Sönke Rix">
           <speaker>Sönke Rix (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Zunächst einmal möchte ich an die Ausführungen meiner Vorrednerin anknüpfen: Wenn die Gemeinsamkeiten groß genug sind, dann kann man auch Großes bewirken. Das zeigt der heutige Tag, liebe Kolleginnen und Kollegen.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
@@ -406,12 +406,12 @@
           <p>Herzlichen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der Abg. Dr. Petra Sitte [DIE LINKE])</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Der Kollege Dr. Stephan Harbarth hat für die CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Stephan Harbarth" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Stephan Harbarth">
+        <sp who="Stephan Harbarth" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Stephan Harbarth" party="CDU" name="Stephan Harbarth">
           <speaker>Dr. Stephan Harbarth (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren Kollegen! Liebe Zuschauerinnen und Zuschauer! Uns alle in diesem Haus eint das Ziel, Frauen eine gleichberechtigte Teilhabe in unserer Gesellschaft zu ermöglichen. Unser Wunsch ist, dass dieses Ziel in erster Linie nicht durch Normen und Paragrafen, sondern durch innere Überzeugung erreicht wird, dass es die Menschen also als selbstverständlich empfinden, dass jemand in diesem Land völlig unabhängig von seinem Geschlecht Erfolgschancen wahrnehmen kann.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
@@ -449,12 +449,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Bundesminister Heiko Maas.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Heiko Maas" parliamentary_group="NA" role="government" position="Bundesminister der Justiz und für Verbraucherschutz" party="SPD" name="Heiko Maas">
+        <sp who="Heiko Maas" parliamentary_group="NA" role="government" position="Bundesminister der Justiz und für Verbraucherschutz" who_original="Heiko Maas" party="SPD" name="Heiko Maas">
           <speaker>Heiko Maas, Bundesminister der Justiz und für Verbraucherschutz:</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine Damen und Herren Abgeordneten! Auch die Männer in der Regierung freuen sich über dieses Gesetz.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU und der Abg. Dr. Petra Sitte [DIE LINKE] – Sönke Rix [SPD]: Zeigt das mal!)</stage>
@@ -486,12 +486,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Für die CDU/CSU-Fraktion hat die Kollegin Gudrun Zollner das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Gudrun Zollner" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Gudrun Zollner">
+        <sp who="Gudrun Zollner" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Gudrun Zollner" party="CSU" name="Gudrun Zollner">
           <speaker>Gudrun Zollner (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Ein denkwürdiger Tag! Nach teils sehr emotional geführten Debatten schließen wir heute ein Kapitel, das vor Jahren aufgeschlagen wurde, aufgeschlagen von vielen Mitstreiterinnen wie Frau Staatsministerin Professor Böhmer und von den vielen Frauen, die heute als Gäste bei uns auf der Tribüne sitzen.</p>
           <p>Wir alle kennen inzwischen die Zahlen, wir haben sie oft genug diskutiert. Der Anteil von Frauen in Spitzenpositionen sowohl in der Wirtschaft als auch in der Bundesverwaltung ist immer noch marginal. Sicherlich gab es in den vergangenen Jahren Fortschritte. Lag der Frauenanteil in den Aufsichtsräten der DAX-Konzerne vor vier Jahren bei knapp 14 Prozent, so sind es heute gut 25 Prozent. Betrachtet man alle börsennotierten Unternehmen, ist die Bilanz allerdings ernüchternd. Noch immer sind weniger als 20 Prozent aller Aufsichtsräte von Frauen besetzt. Die Selbstverpflichtung der Wirtschaft aus dem Jahr 2001 ist gescheitert. Wäre dies anders, würden wir heute hier nicht stehen.</p>
@@ -521,15 +521,15 @@
           <stage type="interjection">(Dr. Petra Sitte [DIE LINKE]: In Bayern vielleicht!)</stage>
           <p>Deshalb ist es auch richtig, dass wir jetzt eine gesetzliche Regelung beschließen. Auch unsere Partei, die bayerische CSU, hat eine Frauenquote.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollegin Zollner, gestatten Sie eine Frage oder Bemerkung der Kollegin Künast?</p>
         </sp>
-        <sp who="Gudrun Zollner" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Gudrun Zollner">
+        <sp who="Gudrun Zollner" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Gudrun Zollner" party="CSU" name="Gudrun Zollner">
           <speaker>Gudrun Zollner (CDU/CSU):</speaker>
           <p>Bitte schön.</p>
         </sp>
-        <sp who="Renate Künast" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Renate Künast">
+        <sp who="Renate Künast" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Renate Künast" party="GRUENE" name="Renate Künast">
           <speaker>Renate Künast (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Danke, Frau Zollner. – Sie haben gerade zu unserem Gesetzentwurf gesagt, es sei nicht Aufgabe des Staates, Parität zu erzwingen. Da würde ich von Ihnen doch gerne wissen, wo Sie in unserem Gesetzentwurf ein solches Erzwingen von Parität sehen.</p>
           <p>Ich kann Ihnen sagen, dass wir an dieser Stelle eines immer genau wussten: dass für den öffentlichen Dienst die klassische Parität gar nicht zulässig ist, dass vielmehr zur Beseitigung von strukturellen Nachteilen Frauen bei gleicher Qualifikation bevorzugt einzustellen sind, solange es diese Differenz gibt. Das ist kein Erzwingen von Parität. In dem ganzen Prozess ist mir das Erzwingen von Parität nur im Gesetzentwurf der Koalition untergekommen; die entsprechende Formulierung haben Sie nach Hinweisen bei der Anhörung auf ihre Verfassungswidrigkeit wieder gestrichen.</p>
@@ -537,7 +537,7 @@
           <p>Parität wird auch nicht erreicht, wenn man sagt: Die Mindestquote von 40 Prozent in den Aufsichtsräten der Privatunternehmen gilt für jedes Geschlecht. Sie müssen unserem Gesetzentwurf – vielleicht ist es dafür noch zu früh – nicht folgen. Aber etwas zu behaupten, was nicht drinsteht, gefällt mir auch nicht.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Gudrun Zollner" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Gudrun Zollner">
+        <sp who="Gudrun Zollner" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Gudrun Zollner" party="CSU" name="Gudrun Zollner">
           <speaker>Gudrun Zollner (CDU/CSU):</speaker>
           <p>Frau Kollegin Künast, ich habe 40 Prozent nicht mit Parität verwechselt, vielmehr habe ich die 50-Prozent-Parität auf die Linken bezogen. Das ging, glaube ich, aus meinem Satz hervor.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU – Dr. Petra Sitte [DIE LINKE]: Das war es jetzt?)</stage>
@@ -553,12 +553,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat die Kollegin Dr. Eva Högl für die SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Eva Högl" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Eva Högl">
+        <sp who="Eva Högl" parliamentary_group="SPD" role="mp" position="NA" who_original="Eva Högl" party="SPD" name="Eva Högl">
           <speaker>Dr. Eva Högl (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen, liebe Kollegen! Meine sehr geehrten Damen und Herren! Den 6. März 2015 streichen wir uns alle ganz dick in unserem Kalender an.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -570,26 +570,26 @@
           <p>Es ging weiter – leider erst nach einer Durststrecke von knapp 30 Jahren –: Elisabeth Selbert hat es ermöglicht, dass im Grundgesetz, das im Mai 1949 verabschiedet wurde, ein wirklich wegweisender Satz steht, nämlich in Artikel 3 Absatz 2:</p>
           <p>Männer und Frauen sind gleichberechtigt.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU und der LINKEN)</stage>
-          <p>Damit genoss die Gleichstellung von Frauen und Männern erstmals Verfassungsrang. </p>
+          <p>Damit genoss die Gleichstellung von Frauen und Männern erstmals Verfassungsrang.</p>
           <p>Wir wissen aber, dass eine Verfassungsnorm nicht automatisch Alltagsrealität ist. Deswegen haben wir in den mehr als 60 Jahren seit Bestehen des Grundgesetzes wesentliche Schritte unternommen. Ich erinnere noch einmal daran, dass erst vor wenigen Jahrzehnten – man kann es sich kaum vorstellen – das erste Gleichberechtigungsgesetz es Frauen ermöglichte, ohne Zustimmung des Ehemannes arbeiten zu gehen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
           <p>1977 wurde mit der Reform des Ehe- und Familienrechts das Leitbild der Hausfrauenehe abgeschafft, und erst 1980 wurde die vollständige Gleichbehandlung von Frauen und Männern am Arbeitsplatz beschlossen.</p>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Kollegin Högl, gestatten Sie eine Frage oder Bemerkung der Kollegin Vogler?</p>
         </sp>
-        <sp who="Dr. Eva Högl" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Eva Högl">
+        <sp who="Eva Högl" parliamentary_group="SPD" role="mp" position="NA" who_original="Eva Högl" party="SPD" name="Eva Högl">
           <speaker>Dr. Eva Högl (SPD):</speaker>
           <p>Selbstverständlich.</p>
         </sp>
-        <sp who="Kathrin Vogler" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Kathrin Vogler">
+        <sp who="Kathrin Vogler" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Kathrin Vogler" party="DIE LINKE" name="Kathrin Vogler">
           <speaker>Kathrin Vogler (DIE LINKE):</speaker>
           <p>Vielen Dank, liebe Kollegin. Ich wollte die Gelegenheit nutzen, mich für die Einladung zu bedanken, die Sie und die Kollegin Carola Reimann an uns alle geschickt haben. Sie wollen diesen großen Erfolg, wie Sie das nennen, im Fraktionssaal der SPD mit Quotentorte und Sekt feiern. Ich muss Ihnen leider sagen, dass ich diese Einladung ablehnen muss. Ich finde, dass dieses Gesetz eher Anlass wäre für Zwieback und Selters.</p>
           <stage type="interjection">(Zurufe von der SPD: Oh! – Mechthild Rawert [SPD]: Können Sie ja mitbringen!)</stage>
           <p>Deswegen bedanke ich mich für die Einladung, lehne sie aber ab.</p>
         </sp>
-        <sp who="Dr. Eva Högl" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Eva Högl">
+        <sp who="Eva Högl" parliamentary_group="SPD" role="mp" position="NA" who_original="Eva Högl" party="SPD" name="Eva Högl">
           <speaker>Dr. Eva Högl (SPD):</speaker>
           <p>Liebe Frau Vogler, wie humorlos ist das denn, bitte?</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -611,12 +611,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Das Wort hat der Kollege Paul Lehrieder für die CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Paul Lehrieder">
+        <sp who="Paul Lehrieder" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Paul Lehrieder" party="CSU" name="Paul Lehrieder">
           <speaker>Paul Lehrieder (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen! Liebe Kollegen! Sehr geehrte Damen und Herren auf der Tribüne und an den Fernsehgeräten! Es geht schon mit dem Beginn meiner Rede los: In meinem Konzept stand „Sehr geehrter Herr Präsident“, das habe ich jetzt handschriftlich in „Sehr geehrte Frau Präsidentin“ geändert.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der SPD – Zurufe von der SPD: Oh!)</stage>
@@ -648,12 +648,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD – Birgit Kömpel [SPD]: Ganz toll!)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Die Kollegin Christina Jantz hat für die SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Christina Jantz" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Christina Jantz">
+        <sp who="Christina Jantz" parliamentary_group="SPD" role="mp" position="NA" who_original="Christina Jantz" party="SPD" name="Christina Jantz">
           <speaker>Christina Jantz (SPD):</speaker>
           <p>Guten Morgen, Frau Präsidentin! Guten Morgen, Frau Bundeskanzlerin! Meine sehr geehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Die Frauenquote ist ein Meilenstein für unser Land –</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
@@ -673,12 +673,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="DIE LINKE" name="Petra Pau">
+        <sp who="Petra Pau" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Pau" party="DIE LINKE" name="Petra Pau">
           <speaker>Vizepräsidentin Petra Pau:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <stage type="interjection">(Volker Kauder [CDU/CSU]: Schön!)</stage>
           <p>Wir kommen zur Abstimmung über den von der Bundesregierung eingebrachten Gesetzentwurf für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst.</p>
-          <p>Mir liegen Erklärungen nach § 31 unserer Geschäftsordnung von den Kolleginnen Vogler, Sitte, Schröder und Deligöz und dem Kollegen Bareiß vor. Wir nehmen sie entsprechend unseren Regeln zu Protokoll.</p>
+          <p>Mir liegen Erklärungen nach § 31 unserer Geschäftsordnung von den Kolleginnen Vogler, Sitte, Schröder und Deligöz und dem Kollegen Bareiß vor. Wir nehmen sie entsprechend unseren Regeln zu Protokoll.1</p>
           <p>Der Ausschuss für Familie, Senioren, Frauen und Jugend empfiehlt unter Buchstabe a seiner Beschlussempfehlung auf Drucksache 18/4227, den Gesetzentwurf der Bundesregierung auf den Drucksachen 18/3784 und 18/4053 in der Ausschussfassung anzunehmen. Hierzu liegt ein Änderungsantrag der Fraktion Bündnis 90/Die Grünen vor, über den wir zuerst abstimmen. Wer stimmt für den Änderungsantrag auf Drucksache 18/4240? – Wer stimmt dagegen? – Wer enthält sich? – Der Änderungsantrag ist mit den Stimmen der Koalitionsfraktionen gegen die Stimmen der antragstellenden Fraktion Bündnis 90/Die Grünen und der Fraktion Die Linke abgelehnt.</p>
           <p>Die Fraktionen Die Linke und Bündnis 90/Die Grünen haben beantragt, über den Gesetzentwurf in der Ausschussfassung getrennt abzustimmen, und zwar zum einen über Artikel 1 und Artikel 2 und zum anderen über den Gesetzentwurf im Übrigen.</p>
           <p>Wir kommen zunächst zur Abstimmung über Artikel 1 und Artikel 2 des Gesetzentwurfs in der Ausschussfassung. Ich bitte nun diejenigen, die Artikel 1 und Artikel 2 des Gesetzentwurfs in der Ausschussfassung zustimmen wollen, um das Handzeichen. – Wer stimmt dagegen? – Wer enthält sich? – Artikel 1 und Artikel 2 sind mit den Stimmen der Fraktionen der CDU/CSU und der SPD gegen die Stimmen der Fraktion Die Linke und der Fraktion Bündnis 90/Die Grünen angenommen.</p>
@@ -722,12 +722,12 @@
         </sp>
       </div>
       <div type="agenda_item" n="2" what="debate" desc="Beratung des Antrags der Abgeordneten Friedrich Ostendorff, Nicole Maisch, Haral...">
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Liebe Kolleginnen und Kollegen, die Aussprache ist eröffnet, da die meisten Kolleginnen und Kollegen ihre Plätze eingenommen haben.</p>
           <p>Als erster Redner erhält Dr. Hofreiter von Bündnis 90/Die Grünen das Wort. – Herr Kollege.</p>
         </sp>
-        <sp who="Dr. Anton Hofreiter" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Anton Hofreiter">
+        <sp who="Anton Hofreiter" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Anton Hofreiter" party="GRUENE" name="Anton Hofreiter">
           <speaker>Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Seit zehn Jahren ist das Landwirtschafts- und Ernährungsministerium in der Hand der CSU. Herrn Minister Schmidt – er ist bei dieser Debatte noch nicht anwesend – muss ich fragen: Was haben die Ministerinnen und Minister der CSU in diesen zehn Jahren erreicht?</p>
           <p>Wenn man sich die Bilanz anschaut, dann stellt man fest, dass diese einfach grauenhaft ist.</p>
@@ -752,19 +752,19 @@
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie der Abg. Dr. Kirsten Tackmann [DIE LINKE])</stage>
           <p>Wenn Sie darüber stöhnen oder lästern, schauen Sie sich die Bedingungen an, unter denen diese Menschen arbeiten.</p>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Herr Kollege Hofreiter, lassen Sie eine Zwischenfrage des Kollegen Priesmeier zu?</p>
         </sp>
-        <sp who="Dr. Anton Hofreiter" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Anton Hofreiter">
+        <sp who="Anton Hofreiter" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Anton Hofreiter" party="GRUENE" name="Anton Hofreiter">
           <speaker>Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ja, klar, wenn er Lust dazu hat.</p>
         </sp>
-        <sp who="Dr. Wilhelm Priesmeier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wilhelm Priesmeier">
+        <sp who="Wilhelm Priesmeier" parliamentary_group="SPD" role="mp" position="NA" who_original="Wilhelm Priesmeier" party="SPD" name="Wilhelm Priesmeier">
           <speaker>Dr. Wilhelm Priesmeier (SPD):</speaker>
           <p>Herr Kollege Hofreiter, wenn Sie das dänische Beispiel loben, wie erklären Sie dann die Tatsache, dass in Dänemark in den letzten zwei Jahren das Vorkommen von MRSA-Keimen in den Proben der Lebensmittelüberwachung drastisch zugenommen hat?</p>
         </sp>
-        <sp who="Dr. Anton Hofreiter" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Anton Hofreiter">
+        <sp who="Anton Hofreiter" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Anton Hofreiter" party="GRUENE" name="Anton Hofreiter">
           <speaker>Dr. Anton Hofreiter (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>In Dänemark hat das Vorkommen deshalb zugenommen, weil dort inzwischen vernünftig kontrolliert wird. Ein Teil der Antibiotikastrategie in Dänemark ist nämlich auch, für entsprechende Kontrollen zu sorgen und nicht nur das Ausmaß des Einsatzes von Antibiotika zu senken.</p>
           <stage type="interjection">(Friedrich Ostendorff [BÜNDNIS 90/DIE GRÜNEN]: So ist das!)</stage>
@@ -782,12 +782,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN – Marlene Mortler [CDU/CSU]: Schwach! Äußerst schwach!)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Als nächste Rednerin hat die Kollegin Ingrid Pahlmann von der CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Ingrid Pahlmann" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ingrid Pahlmann">
+        <sp who="Ingrid Pahlmann" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ingrid Pahlmann" party="CDU" name="Ingrid Pahlmann">
           <speaker>Ingrid Pahlmann (CDU/CSU):</speaker>
           <p>Sehr geehrte Präsidentin! Meine Damen und Herren! Liebe Kollegen und Kolleginnen! Ich kann nur sagen: Und täglich grüßt das Murmeltier. Heute nun wieder mal die Forderung nach der Agrarwende: weg von der marktwirtschaftlichen Landwirtschaft,</p>
           <stage type="interjection">(Harald Ebner [BÜNDNIS 90/DIE GRÜNEN]: Wenn Sie es nicht schaffen, müssen wir es täglich wiederholen!)</stage>
@@ -832,12 +832,12 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie der Abg. Jeannine Pflugradt [SPD] – Sven-Christian Kindler [BÜNDNIS 90/DIE GRÜNEN]: Das war ganz schlecht!)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Als nächste Rednerin hat Dr. Kirsten Tackmann von der Linken das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Dr. Kirsten Tackmann" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Kirsten Tackmann">
+        <sp who="Kirsten Tackmann" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Kirsten Tackmann" party="DIE LINKE" name="Kirsten Tackmann">
           <speaker>Dr. Kirsten Tackmann (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Liebe Gäste! Ich habe monatlich eine Sprechstunde auf den Marktplätzen zwischen Perleberg und Neuruppin. Da hört man ziemlich gut, was die Leute so bewegt. Es gibt kaum ein Thema, auf das man öfter angesprochen wird als die Landwirtschaft. Die Kritik richtet sich aber nicht gegen die Landwirtschaft an sich, sondern gegen Megaställe, gegen zu viel Chemie auf dem Acker – weswegen es zu wenige Bienen gibt –, gegen Agrogentechnik oder gegen den Missbrauch von Antibiotika.</p>
           <p>Ich finde, dass die Bürgerinnen und Bürger ein sehr feines Gefühl für die Fehlentwicklungen in der Landwirtschaft haben. Ich finde, dass man diese Kritik auch ernst nehmen muss.</p>
@@ -857,12 +857,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Als nächster Redner hat Dr. Wilhelm Priesmeier von der SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Wilhelm Priesmeier" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wilhelm Priesmeier">
+        <sp who="Wilhelm Priesmeier" parliamentary_group="SPD" role="mp" position="NA" who_original="Wilhelm Priesmeier" party="SPD" name="Wilhelm Priesmeier">
           <speaker>Dr. Wilhelm Priesmeier (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Lieber Kollege Hofreiter, ich hätte bei Ihrer Rede ein bisschen mehr Wissenschaftlichkeit erwartet. Als Diplombiologe wären Sie dazu sicherlich in der Lage.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
@@ -899,12 +899,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Als nächster Redner hat Hans-Georg von der Marwitz von der CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Hans-Georg von der Marwitz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hans-Georg von der Marwitz">
+        <sp who="Hans-Georg von der Marwitz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hans-Georg von der Marwitz" party="CDU" name="Hans-Georg von der Marwitz">
           <speaker>Hans-Georg von der Marwitz (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Liebe Kolleginnen! Liebe Kollegen! Beim Durchlesen des heutigen Antrags von den Grünen ging mir ein Zitat von Christian Morgenstern durch den Kopf:</p>
           <stage type="interjection">(Harald Ebner [BÜNDNIS 90/DIE GRÜNEN]: Das ist ja nicht schlecht!)</stage>
@@ -960,23 +960,23 @@
           <p>Ich habe das Gefühl, ihr habt aus eurem letzten Wahlkampfdesaster keine wirklichen Konsequenzen gezogen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU – Steffi Lemke [BÜNDNIS 90/DIE GRÜNEN]: Kennen Sie Ihr Wahlergebnis in Hamburg?)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Herr Kollege, Sie müssen zum Schluss kommen.</p>
         </sp>
-        <sp who="Hans-Georg von der Marwitz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Hans-Georg von der Marwitz">
+        <sp who="Hans-Georg von der Marwitz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hans-Georg von der Marwitz" party="CDU" name="Hans-Georg von der Marwitz">
           <speaker>Hans-Georg von der Marwitz (CDU/CSU):</speaker>
           <p>Ich komme zum Schluss. – Gestatten Sie mir nach dem heute Erlebten noch eine Bemerkung in eigener Sache: Wer sich allzu grün macht, sagte Goethe, den fressen am Ende die Ziegen.</p>
           <stage type="interjection">(Heiterkeit bei der CDU/CSU und der SPD)</stage>
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Als nächster Redner in dieser Debatte hat der Kollege Niema Movassat von der Fraktion Die Linke das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Niema Movassat" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Niema Movassat">
+        <sp who="Niema Movassat" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Niema Movassat" party="DIE LINKE" name="Niema Movassat">
           <speaker>Niema Movassat (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Werte Kolleginnen und Kollegen! Jeden Tag hungern 800 Millionen Menschen auf der Welt. Die deutsche und europäische Agrarpolitik ist dafür mitverantwortlich. Immer mehr produzieren, das ist das Credo. Die EU unterstützt das. 45 Prozent des gesamten EU-Haushalts fließen in die Landwirtschaft. Das sind von 2014 bis 2020 386,5 Milliarden Euro. Das nützt vor allem den großen Agrokonzernen. Das schadet nicht nur vielen Bauern bei uns, sondern zerstört auch die Existenz von Millionen Kleinbauern in den Entwicklungsländern, schafft dort Armut und Hunger. Um den Hunger in der Welt zu bekämpfen, brauchen wir endlich eine Agrarwende.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -993,12 +993,12 @@
           <p>Im Weltagrarbericht wurde 2008 festgestellt, dass die Kleinbauern, die in den Entwicklungsländern 80 Prozent der Lebensmittel produzieren, der Schlüssel im Kampf gegen den Hunger sind. Liebe Bundesregierung, nehmen Sie das endlich ernst! Unterstützen Sie Kleinbauern statt Agrokonzerne!</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie des Abg. Dr. Anton Hofreiter [BÜNDNIS 90/DIE GRÜNEN])</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Als nächste Rednerin spricht Rita Hagl-Kehl von der SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Rita Hagl-Kehl" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rita Hagl-Kehl">
+        <sp who="Rita Hagl-Kehl" parliamentary_group="SPD" role="mp" position="NA" who_original="Rita Hagl-Kehl" party="SPD" name="Rita Hagl-Kehl">
           <speaker>Rita Hagl-Kehl (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Wie mein Kollege Wilhelm Priesmeier gerade erläutert hat, besteht die Basis einer zukunftsfähigen -Agrarpolitik nach unserer Auffassung aus lebendigen ländlichen Räumen und einer nachhaltigen Landbewirtschaftung. Ziel der SPD-Bundestagsfraktion ist es, eine Landwirtschaft zu fördern, die flächendeckend wirtschaftet, multifunktional ausgerichtet ist und ressourcenschonend produziert. In diesem Sinne fördern wir das nachhaltigste Produktionssystem, nämlich den ökologischen Landbau. Deswegen finde ich es sehr schade, dass im Antrag der Grünen auf diesen Punkt nicht konkret eingegangen wird. Viele Themen, die im Antrag angesprochen worden sind, hängen sehr eng mit dem ökologischen Landbau zusammen. Genau aus diesem Grund halte ich es für sinnvoll, die Förderung des ökologischen Landbaus nicht nur im Rahmen der heutigen Debatte, sondern allgemein für die Zukunft der deutschen Landwirtschaft in den Vordergrund zu stellen.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
@@ -1015,11 +1015,11 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Als nächster Redner spricht Friedrich Ostendorff von Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Friedrich Ostendorff" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Friedrich Ostendorff">
+        <sp who="Friedrich Ostendorff" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Friedrich Ostendorff" party="GRUENE" name="Friedrich Ostendorff">
           <speaker>Friedrich Ostendorff (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Lieber Kollege Hans-Georg von der Marwitz, hättest du doch nur bei den Zitaten von Morgenstern etwas weiter gegoogelt. Da heißt es, wie du weißt:</p>
           <p>Die Zaghaftigkeit – wo Gutes gewollt wird – ist zu nichts nütze. Sie ist nur die Quelle immer weiterer Schwäche und damit immer weiterer Mißerfolge.</p>
@@ -1044,12 +1044,12 @@
           <p>Haben Sie doch endlich den Mut, die Wagenburg, in der Sie sich befinden, einzureißen! Gehen Sie auf die Gesellschaft zu! Dann kommen wir weiter.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Als nächste Rednerin hat Rita Stockhofe von der CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Rita Stockhofe" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Rita Stockhofe">
+        <sp who="Rita Stockhofe" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Rita Stockhofe" party="CDU" name="Rita Stockhofe">
           <speaker>Rita Stockhofe (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Liebe Besucher! Der Antrag der Fraktion Bündnis 90/Die Grünen stellt sich mir als populistischer Rundumschlag gegen die zurzeit bestehende Landwirtschaft dar. Jeder Punkt dieses Antrags ist ideologisch besetzt, ohne sich inhaltlich in der Tiefe damit auseinanderzusetzen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU – Lachen beim BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -1089,31 +1089,31 @@
           <p>Ich hoffe, mit dieser Darstellung erreicht zu haben, dass Sie, liebe Kolleginnen und Kollegen, Ihr gleich anstehendes Mittagessen noch einmal mehr genießen und zu schätzen wissen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Frau Stockhofe, lassen Sie zum Schluss noch eine Zwischenfrage zu? Ich lasse sie jetzt zu, bitte aber um eine zügige Antwort.</p>
         </sp>
-        <sp who="Rita Stockhofe" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Rita Stockhofe">
+        <sp who="Rita Stockhofe" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Rita Stockhofe" party="CDU" name="Rita Stockhofe">
           <speaker>Rita Stockhofe (CDU/CSU):</speaker>
           <p>Ich habe sie erwartet, deswegen gerne.</p>
         </sp>
-        <sp who="Harald Ebner" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Harald Ebner">
+        <sp who="Harald Ebner" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Harald Ebner" party="GRUENE" name="Harald Ebner">
           <speaker>Harald Ebner (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Vielen Dank, Frau Kollegin, dass Sie meine Zwischenfrage am Ende zulassen. – Sie haben in Ihrer ganzen Rede von Ideologie gesprochen und schwarz-weiß gemalt, statt auf unseren Antrag und auf das Grundpro-blem, das wir am Anfang skizziert haben, einzugehen. Es ist das Problem des andauernden – „Höfesterben“ will ich es gar nicht erst nennen, „Strukturwandel“ schon gar nicht – Strukturbruchs, der uns allen wehtut. Er tut der Landwirtschaft weh. Ich hätte gerne eine Antwort darauf gehört. Welche Antwort haben Sie darauf? Statt permanent die Ideologienummer zu ziehen, möchte ich eine Antwort auf die Frage des Strukturwandels. Was tun Sie da politisch? In welche Richtung geht Ihr Weg?</p>
         </sp>
-        <sp who="Rita Stockhofe" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Rita Stockhofe">
+        <sp who="Rita Stockhofe" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Rita Stockhofe" party="CDU" name="Rita Stockhofe">
           <speaker>Rita Stockhofe (CDU/CSU):</speaker>
           <p>Wenn Sie zu Beginn meiner Rede genau zugehört hätten, dann hätten Sie gehört, dass ich auf Ihren Antrag eine Antwort gegeben habe, nämlich dass Sie inhaltlich keinen Punkt differenziert betrachtet haben, sondern einen Rundumschlag gemacht haben. Die Forderungen, die Sie ständig an die Landwirtschaft stellen, sind immer mit Dokumentationspflichten verbunden, weil Sie immer auch das Misstrauen gegenüber den Landwirten voranstellen und alles aufgeschrieben werden muss, statt die gute fachliche Praxis, die in der Ausbildung vermittelt worden ist, einfach anzuerkennen und denen zuzugestehen, die es gelernt haben. Es muss nicht irgendeiner von außen kommen, der weiß, wie es besser geht, und aufschreibt, was er gerne hätte. Dies führt zum Höfesterben und nicht das, was Sie hier genannt haben.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
           <p>So erhalten wir den „Strukturwandel“, wie Sie es bezeichnen. Dies ist ein ganz fürchterlicher Begriff, wie viele andere Begriffe, die Sie benutzen, wie „Agrogentechnik“, „Agroindustrie“ und Ähnliches. Wir haben eine Grüne Gentechnik, das alles kann man auch positiv besetzen. Aber Sie schüren lieber Ängste und sehen zu, dass die Verbraucher gar nicht mehr wissen, wo sie stehen, und verunsichern sie. Das ist der Fehler, den Sie machen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Als nächster Redner in der Debatte hat Johann Saathoff von der SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Johann Saathoff" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Johann Saathoff">
+        <sp who="Johann Saathoff" parliamentary_group="SPD" role="mp" position="NA" who_original="Johann Saathoff" party="SPD" name="Johann Saathoff">
           <speaker>Johann Saathoff (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Ihr Antrag zur Agrarwende, liebe Kolleginnen und Kollegen von den Grünen, besteht eigentlich aus mehreren, nämlich aus acht Anträgen, zu denen es sich jeweils lohnt, eine eigene Debatte zu führen. Diese Debatte haben wir zum Teil schon geführt, andere stehen uns mit Sicherheit in dieser Legislaturperiode noch bevor. Bei einer derartigen Themenfülle macht es Sinn, sich in der Kürze der Zeit unemotionalisiert auf einige Teile des Antrags zu fokussieren.</p>
           <p>Öffentliches Geld für öffentliche Leistungen: Bei diesem Ziel des Antrages, liebe Kolleginnen und Kollegen der CDU/CSU, sind wir uns alle schon einmal einig; denn genau diese Parole haben wir, die SPD, als langfristiges Ziel unserer Agrarpolitik ausgegeben.</p>
@@ -1147,12 +1147,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Als letzte Rednerin in dieser Debatte hat die Kollegin Marlene Mortler von der CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Marlene Mortler" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Marlene Mortler">
+        <sp who="Marlene Mortler" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Marlene Mortler" party="CSU" name="Marlene Mortler">
           <speaker>Marlene Mortler (CDU/CSU):</speaker>
           <p>Sehr geehrte Präsidentin! Liebe Kolleginnen und Kollegen! Meine sehr geehrten Damen und Herren! Eines muss klar sein: Wir, die Union, distanzieren uns klar von schwarzen Schafen in der Land- und Ernährungswirtschaft, egal ob groß, ob klein, ob bio oder konventionell.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
@@ -1186,7 +1186,7 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank, liebe Kolleginnen und Kollegen. Damit schließe ich die Debatte.</p>
           <p>Interfraktionell wird Überweisung der Vorlage auf Drucksache 18/4191 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? – Das ist der Fall. Dann ist die Überweisung so beschlossen.</p>
@@ -1206,7 +1206,7 @@
         </sp>
       </div>
       <div type="agenda_item" n="3" what="debate" desc="Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes...">
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" party="CDU" name="Thomas de Maizière">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
           <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Ich bringe hiermit einen Gesetzentwurf zur Neubestimmung des Bleiberechts und der Aufenthaltsbeendigung ein. Dieses Gesetz enthält zwei klare Botschaften: Bleiberecht für gut integrierte und rechtstreue Ausländer einerseits und Aufenthaltsbeendigung für diejenigen, die nicht schutzbedürftig sind, andererseits. Beide Botschaften gehören zusammen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
@@ -1241,12 +1241,12 @@
           <p>Meine Damen und Herren, beide Seiten des Gesetzentwurfs – Bleiberechte und Aufenthaltsbeendigung – bedingen sich gegenseitig. Verbesserungen für Schutzbedürftige sind für einen klugen Umgang mit dem -Asylrecht ebenso wichtig wie konsequente Aufenthaltsbeendigung und notfalls Abschiebung von nicht Schutzbedürftigen. Langfristig – aber auch kurzfristig – brauchen wir beides: um der Sache willen, aber auch, um die Akzeptanz für legale Zuwanderung und für die Aufnahme von Flüchtlingen in Deutschland zu erhalten und zu stärken. Gegen eine große Mehrheit der Bevölkerung lässt sich Flüchtlingspolitik nicht machen. Deswegen müssen wir um diese Mehrheit in der Bevölkerung nachhaltig werben und für sie eintreten. Diese Mehrheit ist da. Sie ist aber immer gefährdet. Nur wenn wir klarmachen: „Wir schützen die wirklich Schutzbedürftigen, und diejenigen, die nicht schutzbedürftig sind und tricksen und täuschen, werden mit Schutzbedürftigen nicht gleichbehandelt“, dann gewinnen wir die Herzen und die Köpfe der Mehrheit unserer Bevölkerung. Darauf kommt es an. Deswegen bitte ich um Unterstützung für diesen Gesetzentwurf.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Als nächste Rednerin hat Ulla Jelpke von der Fraktion Die Linke das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Ulla Jelpke" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Ulla Jelpke">
+        <sp who="Ulla Jelpke" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Ulla Jelpke" party="DIE LINKE" name="Ulla Jelpke">
           <speaker>Ulla Jelpke (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Herr Minister, es ist keine faire Art der Debatte, schon im Vorhinein alles als Unsinn zu bezeichnen, was die Opposition hier an Kritik vorbringt.</p>
           <stage type="interjection">(Beifall bei der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -1270,12 +1270,12 @@
           <p>Um es zusammenfassend zu sagen: Das neue Bleiberecht greift viel zu kurz. Die verschärfte Abschiebepolitik ist zynisch und inhuman. Das wird die Linke nicht mittragen.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Als nächster Redner hat Rüdiger Veit von der SPD-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Rüdiger Veit" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Rüdiger Veit">
+        <sp who="Rüdiger Veit" parliamentary_group="SPD" role="mp" position="NA" who_original="Rüdiger Veit" party="SPD" name="Rüdiger Veit">
           <speaker>Rüdiger Veit (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! Liebe Ulla Jelpke, bei aller persönlichen Wertschätzung kann ich dem Zerrbild, das hier von dir von dem Gesetzentwurf entworfen worden ist, nun wirklich nicht folgen. Ich werde versuchen, das im Einzelnen zu widerlegen.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
@@ -1302,11 +1302,11 @@
           <p>Ich bedanke mich für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Als nächste Rednerin hat Luise Amtsberg von Bündnis 90/Die Grünen das Wort.</p>
         </sp>
-        <sp who="Luise Amtsberg" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Luise Amtsberg">
+        <sp who="Luise Amtsberg" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Luise Amtsberg" party="GRUENE" name="Luise Amtsberg">
           <speaker>Luise Amtsberg (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Um das gleich vorwegzunehmen: Dieser Gesetzentwurf ist Schatten, aber auch Licht. Der Kürze halber fange ich mit dem Licht an. Wir freuen uns, dass sich die Bundesregierung endlich dazu durchgerungen hat, die Rechtsgrundlage für das Resettlement-Programm – das wurde noch nicht erwähnt – zu schaffen.</p>
           <p>Gut ist auch der Vorschlag, eine stichtags- und altersunabhängige Bleiberechtsregelung ins Leben zu rufen.</p>
@@ -1332,12 +1332,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Vielen Dank. – Als nächste und letzte Rednerin in dieser Debatte erhält Andrea Lindholz von der CDU/CSU-Fraktion das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Andrea Lindholz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Andrea Lindholz">
+        <sp who="Andrea Lindholz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Andrea Lindholz" party="CSU" name="Andrea Lindholz">
           <speaker>Andrea Lindholz (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine sehr geehrten Damen und Herren! Die weltweiten Krisen machen sich auch in diesem Jahr in Deutschland nach wie vor bemerkbar. Das Bundesamt für Migration und Flüchtlinge erwartet erneut einen massiven Anstieg der Asylbewerberzahlen von zuletzt 203 000 auf 300 000 Asylanträge in diesem Jahr.</p>
           <p>Die Strategie der Großen Koalition zur Stabilisierung unseres Asylsystems hat zwei zentrale Ziele: Erstens. Die Schutzberechtigten sollen besser integriert werden. Zweitens. Unberechtigte Asylanträge sollen schneller abgeschlossen werden. Bereits im letzten Jahr haben wir zahlreiche Maßnahmen umgesetzt. Wir haben im Bundesamt für Migration und Flüchtlinge die Zahl der Stellen um rund 30 Prozent aufgestockt. Wir haben drei Westbalkanländer zu sicheren Herkunftsstaaten erklärt, um unbegründete Anträge schneller abschließen zu können. Wir haben in diesem Jahr Länder und Kommunen um 556 Millionen Euro bei der Versorgung und Unterbringung von Flüchtlingen entlastet. Im Jahr 2016 wird das novellierte Asylbewerberleistungsgesetz zu noch mehr Entlastungen führen.</p>
@@ -1361,36 +1361,36 @@
           <stage type="interjection">(René Röspel [SPD]: Das ist doch ein unbestimmter Rechtsbegriff!)</stage>
           <p>Natürlich ist das nach unserem Gesetz bereits möglich. Das muss nur noch von den Ländern entsprechend verankert werden.</p>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Frau Kollegin, lassen Sie eine Zwischenfrage der Kollegin Amtsberg zu?</p>
         </sp>
-        <sp who="Andrea Lindholz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Andrea Lindholz">
+        <sp who="Andrea Lindholz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Andrea Lindholz" party="CSU" name="Andrea Lindholz">
           <speaker>Andrea Lindholz (CDU/CSU):</speaker>
           <p>Ja, wenn ich gerade noch meinen Satz zu Ende bringen darf.</p>
         </sp>
-        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Edelgard Bulmahn">
+        <sp who="Edelgard Bulmahn" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Edelgard Bulmahn" party="SPD" name="Edelgard Bulmahn">
           <speaker>Vizepräsidentin Edelgard Bulmahn:</speaker>
           <p>Selbstverständlich.</p>
         </sp>
-        <sp who="Andrea Lindholz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Andrea Lindholz">
+        <sp who="Andrea Lindholz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Andrea Lindholz" party="CSU" name="Andrea Lindholz">
           <speaker>Andrea Lindholz (CDU/CSU):</speaker>
-          <p>Aus § 39 Aufenthaltsgesetz geht hervor, dass man nach einer entsprechenden Ausbildung als Fachkraft oder mit der Bluecard eine Arbeitserlaubnis erhalten kann. Insofern bleibt allenfalls die Frage zu beantworten, ob wir es noch deutlicher klarstellen müssen. Darin stimme ich vielleicht mit Ihnen überein. Aber es trifft schlicht nicht zu, dass unser Gesetz das nicht schon regelt. </p>
+          <p>Aus § 39 Aufenthaltsgesetz geht hervor, dass man nach einer entsprechenden Ausbildung als Fachkraft oder mit der Bluecard eine Arbeitserlaubnis erhalten kann. Insofern bleibt allenfalls die Frage zu beantworten, ob wir es noch deutlicher klarstellen müssen. Darin stimme ich vielleicht mit Ihnen überein. Aber es trifft schlicht nicht zu, dass unser Gesetz das nicht schon regelt.</p>
         </sp>
-        <sp who="Luise Amtsberg" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Luise Amtsberg">
+        <sp who="Luise Amtsberg" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Luise Amtsberg" party="GRUENE" name="Luise Amtsberg">
           <speaker>Luise Amtsberg (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Kollegin, vielen Dank, dass Sie die Zwischenfrage zulassen. – Das Problem bei den Auszubildenden und jungen Flüchtlingen, die einen unsicheren Status haben, ist für die Ausbildungsbetriebe nicht der rein rechtliche Aspekt, sondern die Tatsache, dass sie ausgewiesen werden können, während sie in der Ausbildung sind.</p>
         </sp>
-        <sp who="Andrea Lindholz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Andrea Lindholz">
+        <sp who="Andrea Lindholz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Andrea Lindholz" party="CSU" name="Andrea Lindholz">
           <speaker>Andrea Lindholz (CDU/CSU):</speaker>
           <p>Nein. Das ist schlicht falsch. Schauen Sie in das Gesetz!</p>
         </sp>
-        <sp who="Luise Amtsberg" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Luise Amtsberg">
+        <sp who="Luise Amtsberg" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Luise Amtsberg" party="GRUENE" name="Luise Amtsberg">
           <speaker>Luise Amtsberg (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Das ist de facto so. – Die Unsicherheit, die sich daraus ergibt, veranlasst viele Betriebe, lieber auszuweichen und den Menschen keine Chance zu geben. Da Klarheit zu schaffen, wäre doch eigentlich ein gutes Anliegen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD – Rüdiger Veit [SPD]: Auch über die Ausbildung hinaus!)</stage>
         </sp>
-        <sp who="Andrea Lindholz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Andrea Lindholz">
+        <sp who="Andrea Lindholz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Andrea Lindholz" party="CSU" name="Andrea Lindholz">
           <speaker>Andrea Lindholz (CDU/CSU):</speaker>
           <p>Frau Kollegin Amtsberg, es ist nur leider sachlich falsch. Schauen Sie in das Gesetz!</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU – Luise Amtsberg [BÜNDNIS 90/DIE GRÜNEN]: Ich gucke auf die Fälle, die ich kenne, wo das nicht so ist!)</stage>
@@ -1402,7 +1402,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Damit schließe ich die Aussprache.</p>
           <p>Interfraktionell wird Überweisung des Gesetzentwurfs auf den Drucksachen 18/4097 und 18/4199 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Gibt es dazu anderweitige Vorschläge? – Ich sehe, das ist nicht der Fall. Dann ist die Überweisung so beschlossen.</p>
@@ -1423,14 +1423,14 @@
           <p>Federführung strittig</p>
           <p>c) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Verkehr und digitale Infrastruktur (15. Ausschuss) zu dem Antrag der Abgeordneten Sabine Leidig, Herbert Behrens, Caren Lay, weiterer Abgeordneter und der Fraktion DIE LINKE</p>
           <p>Rückzug der Deutschen Bahn AG bei Nacht- und Autoreisezügen stoppen – Nachhaltige Reisekultur in Europa fördern</p>
-          <p>Drucksachen 18/2494, 18/4080 </p>
+          <p>Drucksachen 18/2494, 18/4080</p>
           <p>Nach einer interfraktionellen Vereinbarung sind für die Aussprache 38 Minuten vorgesehen. – Ich höre keinen Widerspruch. Dann ist so beschlossen.</p>
           <p>Ich eröffne die Aussprache. Das Wort hat die Kollegin Sabine Leidig, Fraktion Die Linke.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
       </div>
       <div type="agenda_item" n="4" what="debate" desc="a) Beratung des Antrags der Abgeordneten Sabine Leidig, Herbert Behrens, Caren L...">
-        <sp who="Sabine Leidig" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Sabine Leidig">
+        <sp who="Sabine Leidig" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Sabine Leidig" party="DIE LINKE" name="Sabine Leidig">
           <speaker>Sabine Leidig (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Kolleginnen und Kollegen! Werte Gäste! Wir reden heute über drei Anträge meiner Fraktion. Mit diesen Anträgen kämpft die Linke für ein besseres Fernreiseangebot auf der Schiene.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
@@ -1456,22 +1456,22 @@
           <p>Weil ich weiß, dass Sie es niemals übers Herz bringen werden, einem Antrag der Linken zuzustimmen, auch wenn er noch so richtig ist, bitte ich Sie, Kollege Fischer, in diesem Falle zum Wiederholungstäter zu werden. Sie könnten ihren damaligen Antrag einfach noch einmal einbringen. Ich bin sicher: Wir hätten nicht nur eine Mehrheit aus CDU/CSU und Linken; vielmehr würden auch die Kollegen der Grünen und der SPD zustimmen.</p>
           <p>Denn in der Zwischenzeit ist ja vieles passiert: Über 100 Städte mit mehr als 20 000 Einwohnern haben ihren Anschluss an den Fernverkehr verloren. Da hält kein ICE mehr und kein IC und natürlich auch kein Inter-regio, weil diese Zugart völlig zerstört worden ist. Das bedeutet aber für die Bewohnerinnen und Bewohner in Chemnitz, in Zwickau, in Potsdam, in Landau und in vielen anderen Städten, dass sie öfter umsteigen müssen, dass die Chance größer ist, dass sie einen Anschluss verpassen, dass sie viele Wartezeiten haben. Es bedeutet, dass die Attraktivität der Bahn schlechter wird und dass die Attraktivität dieser Städte schlechter wird.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Frau Kollegin Leidig, ehe Sie jetzt noch durch ganz Deutschland reisen, darf ich Sie an die Zeit erinnern.</p>
         </sp>
-        <sp who="Sabine Leidig" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Sabine Leidig">
+        <sp who="Sabine Leidig" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Sabine Leidig" party="DIE LINKE" name="Sabine Leidig">
           <speaker>Sabine Leidig (DIE LINKE):</speaker>
           <p>Ich finde, da kann der Bund nicht zuschauen. Sie als Bundestagsabgeordnete haben die Möglichkeit, Herrn Grube sozusagen in den Arm zu fallen und dafür zu sorgen, dass wir eine vernünftige, zielgerichtete Entwicklung des Schienenfernverkehrs haben. Ich kann Sie nur auffordern, die Möglichkeiten zu nutzen.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächster Redner ist der Kollege Dirk Fischer, CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der SPD)</stage>
         </sp>
-        <sp who="Dirk Fischer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Dirk Fischer">
+        <sp who="Dirk Fischer (Hamburg)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Dirk Fischer (Hamburg)" party="CDU" name="Dirk Fischer">
           <speaker>Dirk Fischer (Hamburg) (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Verehrte Kolleginnen und Kollegen! Es liegen uns drei Anträge der Fraktion Die Linke vor. Nach dem einen Antrag soll die Mehrwertsteuer im Schienenpersonenfernverkehr von 19 Prozent auf 7 Prozent abgesenkt werden. Daneben sollen Flugtickets im internationalen Verkehr mit 19 Prozent Umsatzsteuer belastet werden. Außerdem soll eine Gegenfinanzierung über die Luftverkehrsteuer vorgenommen werden. Das heißt, die Verrechnung von Einnahmen aus dem Emissionshandel soll gestrichen werden; die Deckelung auf 1 Milliarde Euro Einnahmen soll gestrichen werden; zur Deckung der Einnahmeverluste sollen die Steuersätze entsprechend angehoben werden.</p>
           <p>Aus Sicht meiner Fraktion ist der Luftverkehrsstandort durch die Luftverkehrsteuer im internationalen Wettbewerb schon sehr stark belastet. Wir sind entschieden gegen jede weitere Zusatzbelastung, die die Probleme für unsere Flughäfen und unsere Airlines noch verschärft.</p>
@@ -1482,25 +1482,25 @@
           <p>Dazu sagen wir ganz deutlich: Nicht mit uns!</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Herr Kollege Fischer, gestatten Sie eine Zwischenfrage oder -bemerkung der Kollegin Leidig?</p>
         </sp>
-        <sp who="Dirk Fischer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Dirk Fischer">
+        <sp who="Dirk Fischer (Hamburg)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Dirk Fischer (Hamburg)" party="CDU" name="Dirk Fischer">
           <speaker>Dirk Fischer (Hamburg) (CDU/CSU):</speaker>
           <p>Gerne, ja.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Bitte schön, Frau Kollegin Leidig.</p>
         </sp>
-        <sp who="Sabine Leidig" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Sabine Leidig">
+        <sp who="Sabine Leidig" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Sabine Leidig" party="DIE LINKE" name="Sabine Leidig">
           <speaker>Sabine Leidig (DIE LINKE):</speaker>
           <p>Kollege Fischer, es stimmt natürlich, was Sie sagen: Es geht darum – vergleichbar dem, was die Länder beim Nahverkehr machen –, praktisch die notwendige Zugleistung zu bestellen. Das soll auf Bundesebene auch für die Fernzüge gemacht werden.</p>
           <p>Sie selbst haben diesen Antrag 2001 genau so eingebracht, also mit genau demselben Bestellerprinzip. Ich möchte Sie erstens gerne fragen, was sich aus Ihrer Sicht in der Zwischenzeit so entscheidend verändert hat. Denn die Begründung war damals genau dieselbe, dass nämlich die Fernverkehrsanbindungen von der Bahn gekappt werden und es deshalb notwendig ist, dass der Bund diese Aufgabe übernimmt.</p>
           <p>Die zweite Frage bezieht sich auf die Größenordnung. Ich erinnere mich, dass wir 2009 eine Anhörung zur Fernverkehrsanbindung von Oberzentren hatten. Da wurde uns dargelegt, dass man mit 100 Millionen Euro im Jahr – das ist nun wirklich weit von den vielen Milliarden entfernt, über die wir im Verkehrsbereich immer reden – alle Oberzentren in der Bundesrepublik Deutschland an den Schienenfernverkehr anbinden könnte. Halten Sie diese Zahl für unverhältnismäßig?</p>
         </sp>
-        <sp who="Dirk Fischer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Dirk Fischer">
+        <sp who="Dirk Fischer (Hamburg)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Dirk Fischer (Hamburg)" party="CDU" name="Dirk Fischer">
           <speaker>Dirk Fischer (Hamburg) (CDU/CSU):</speaker>
           <p>Zum Ersten: Meine Fraktion hat niemals einen Antrag eingebracht, aus einem eigenwirtschaftlichen Schienenpersonenfernverkehr einen bezuschussten Verkehr zu machen. Es steht aber eine Gewährleistung darin. Wenn man das entscheidende Jahr der Bahnreform nimmt, ging es damals um 180 Millionen Zugkilometer im Fernverkehr. Dieses war für uns immer eine Zielmarke, an der sich auch die Unternehmenspolitik zu orientieren hat. Damals hat die im Amt befindliche rot-grüne Bundesregierung eine Gewährleistung von Zugkilometern über Jahre strikt zurückgewiesen und gesagt: Es geht nur darum, dass die Infrastruktur vorgehalten wird, auf der dann der Schienenpersonenverkehr erfolgen kann.</p>
           <p>Zweitens. Ich halte es für völlig illusionär, zu glauben, man könne einen Schienenpersonenfernverkehr mit einem Zuschuss von 100 Millionen Euro finanzieren. Ich halte das für eine absolute Illusion. Ich glaube, man sollte sich an solchen Zahlen überhaupt nicht orientieren. Dabei geht es um erhebliche Milliardenbeträge und nichts anderes. Im Unterschied zum Schienenpersonennahverkehr würden wir dadurch auch die Tickets für den internationalen Verkehr in erheblichem Maße aus dem Bundeshaushalt subventionieren. Ich glaube, das kann vernünftigerweise nicht unser Ziel sein.</p>
@@ -1519,7 +1519,7 @@
           <p>In diesem Sinne müssen wir auch diesen Antrag ablehnen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD – Abg. Sabine Leidig [DIE LINKE] meldet sich zu einer Zwischenfrage)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächster Redner ist Matthias Gastel, Bündnis 90/Die Grünen.</p>
           <stage type="interjection">(Sabine Leidig [DIE LINKE]: Frau Präsidentin!)</stage>
@@ -1531,7 +1531,7 @@
           <stage type="interjection">(Beifall bei Abgeordneten der LINKEN – Zurufe von der CDU/CSU)</stage>
           <p>– Die müssen die Geschäftsordnung noch lernen.</p>
         </sp>
-        <sp who="Sabine Leidig" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Sabine Leidig">
+        <sp who="Sabine Leidig" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Sabine Leidig" party="DIE LINKE" name="Sabine Leidig">
           <speaker>Sabine Leidig (DIE LINKE):</speaker>
           <p>Ich sehe mich zu dieser Kurzintervention veranlasst, weil der Kollege Fischer mich hier quasi der Unwahrheit geziehen hat.</p>
           <p>Ich habe hier Ihren Antrag, den Antrag, der von der CDU/CSU-Fraktion eingebracht wurde, Drucksache 14/5451, und ich zitiere daraus nur zwei Punkte:</p>
@@ -1541,13 +1541,13 @@
           <p>Sie haben dies damals beantragt. Dass Sie jetzt so tun, als wenn es völlig aus der Luft gegriffen wäre, das kann ich einfach nur zurückweisen.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Herr Kollege Fischer, wollen Sie erwidern?</p>
           <stage type="interjection">(Dirk Fischer [Hamburg] [CDU/CSU]: Nein!)</stage>
           <p>– Gut. – Dann hat jetzt der Kollege Gastel, Bündnis 90/Die Grünen, das Wort.</p>
         </sp>
-        <sp who="Matthias Gastel" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Matthias Gastel">
+        <sp who="Matthias Gastel" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Matthias Gastel" party="GRUENE" name="Matthias Gastel">
           <speaker>Matthias Gastel (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen! Liebe Kollegen! Vor einem Jahr standen wir hier und haben über die Bilanz von 20 Jahren Bahnreform diskutiert. Damals war es mir ein besonders großes Anliegen, dass wir diese Bilanz ehrlich ziehen, insbesondere im Hinblick auf die Situation des Schienenfernverkehrs. Leider wurde sie hier von der Mehrheit eher geschönt dargestellt, und dementsprechend ist seither auch nichts zur Stärkung des Fernverkehrs auf der Schiene und nichts zur Stärkung des Systems Schiene insgesamt geschehen. Ganz im Gegenteil: Die Schiene wurde im Wettbewerb mit dem Auto, mit dem Fernbus, mit dem Flugzeug und mit dem Lkw einseitig weiter belastet.</p>
           <p>Hinzu gekommen sind die Belastung bei der EEG-Umlage – 70 bis 80 Millionen Euro zusätzlich –, die Senkung der Lkw-Maut. Das macht umgerechnet eine Wettbewerbsungerechtigkeit von etwa 200 Millionen Euro aus. Außerdem hat sich nichts geändert beim Wettbewerb zwischen der Schiene und anderen Verkehrsmitteln. Die Bus-Maut fehlt nach wie vor. Der Zug zahlt für jeden Kilometer Trasse, die er benutzt, aber der Fernbus bezahlt nichts für die Straßennutzung.</p>
@@ -1565,40 +1565,40 @@
           <p>auf eine Bahn, die pünktlich, zuverlässig und umweltgerecht Menschen und Güter transportiert. Mit der Politik, die Sie betreiben, ist das aber leider nicht möglich.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Für die SPD-Fraktion hat jetzt das Wort Kirsten Lühmann.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Kirsten Lühmann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Kirsten Lühmann">
+        <sp who="Kirsten Lühmann" parliamentary_group="SPD" role="mp" position="NA" who_original="Kirsten Lühmann" party="SPD" name="Kirsten Lühmann">
           <speaker>Kirsten Lühmann (SPD):</speaker>
           <p>Was wir in den nächsten ein bis zwei Jahren erarbeiten wollen, ist ein Satz von Rahmenbedingungen, sowohl unternehmensintern wie extern, die in der Lage sind, eine Basis dafür zu schaffen, dass man Nachtzugverkehre dauerhaft betreiben kann.</p>
           <p>Das, sehr verehrte Frau Präsidentin, liebe Kollegen, liebe Kolleginnen, hat uns der Bahnvorstand Ulrich Homburg in der Anhörung des Verkehrsausschusses zu dem Thema gesagt. Das ist für Kunden und Kundinnen und auch für die vielen Beschäftigten in diesem Bereich ein wichtiges Signal. Das begrüßen wir.</p>
-          <p>Die Bahn erarbeitet Lösungen. Und welches Bild malen die Anträge, die wir hier heute beraten? Die Bundesregierung soll der Bahn ein Moratorium vorgeben. Die Bundesregierung soll ein Konzept in Auftrag geben. Die Bundesregierung soll den Fernverkehr subventionieren. – Liebe Kollegen, liebe Kolleginnen, wenn wir der Bahn so in den Fernverkehr reinreden, ist das eine 180 Grad-Wende zu allem, was wir damals bei der Bahnreform verabschiedet haben, und das wollen wir so nicht.</p>
+          <p>Die Bahn erarbeitet Lösungen. Und welches Bild malen die Anträge, die wir hier heute beraten? Die Bundesregierung soll der Bahn ein Moratorium vorgeben. Die Bundesregierung soll ein Konzept in Auftrag geben. Die Bundesregierung soll den Fernverkehr subventionieren. – Liebe Kollegen, liebe Kolleginnen, wenn wir der Bahn so in den Fernverkehr reinreden, ist das eine 180-Grad-Wende zu allem, was wir damals bei der Bahnreform verabschiedet haben, und das wollen wir so nicht.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD und der CDU/CSU)</stage>
           <p>Warum wollen wir das nicht? Weil das Konzept aufgeht. Der Nahverkehr – das ist hier mehrfach gesagt worden – ist eine Erfolgsgeschichte. Mit dem Geld des Bundes organisieren die Länder, dass mehr Menschen pünktlicher mit der Bahn fahren können. Das Netz wird nicht nur über Nutzerentgelte finanziert, sondern auch mit Steuermitteln subventioniert, da es sich um Daseinsvorsorge handelt. Im letzten Jahr haben wir die Leistungs- und Finanzierungsvereinbarung II abgeschlossen. Sie ist gegenüber der ersten verbessert. In ihr wird eine bürokratiearme Steuerung über Qualitätsmerkmale festgeschrieben. Der eigenwirtschaftliche Güterverkehr mit über 300 privaten Eisenbahnverkehrsunternehmen – es gibt dort echten Wettbewerb – ist ein Erfolgsmodell. Die Nutzungszahlen steigen so sehr, dass es sogar zu Netzengpässen kommt.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Frau Kollegin Lühmann, gestatten Sie eine Zwischenfrage der Kollegin Leidig?</p>
         </sp>
-        <sp who="Kirsten Lühmann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Kirsten Lühmann">
+        <sp who="Kirsten Lühmann" parliamentary_group="SPD" role="mp" position="NA" who_original="Kirsten Lühmann" party="SPD" name="Kirsten Lühmann">
           <speaker>Kirsten Lühmann (SPD):</speaker>
           <p>Ja, bitte.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Bitte schön.</p>
           <stage type="interjection">(Unruhe bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Sabine Leidig" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Sabine Leidig">
+        <sp who="Sabine Leidig" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Sabine Leidig" party="DIE LINKE" name="Sabine Leidig">
           <speaker>Sabine Leidig (DIE LINKE):</speaker>
           <p>Ich höre, Sie stöhnen; aber ich finde, es geht hier auch um etwas Wichtiges. – Ich würde gerne Ihnen, Frau Lühmann, eine Frage stellen. Sie haben gerade davon gesprochen, dass bei der Bahnreform klar geregelt wurde, dass der Bund mit der Bahn nichts zu tun hat und der Bund hier nicht reinreden soll. Ich möchte Ihnen jetzt den Grundgesetzartikel vorlesen, der damals mit der Bahnreform zusammen beschlossen und ins Grundgesetz eingefügt wurde. Artikel 87 e Absatz 4 Grundgesetz lautet:</p>
           <p>Der Bund gewährleistet, dass dem Wohl der Allgemeinheit, insbesondere den Verkehrsbedürfnissen, beim Ausbau und Erhalt des Schienennetzes der Eisenbahnen des Bundes sowie bei deren Verkehrsangeboten auf diesem Schienennetz, soweit diese nicht den Schienenpersonennahverkehr betreffen, Rechnung getragen wird. Das Nähere wird durch Bundesgesetz geregelt.</p>
           <stage type="interjection">(Uwe Kekeritz [BÜNDNIS 90/DIE GRÜNEN]: Hört! Hört!)</stage>
           <p>Wie würden Sie das interpretieren?</p>
         </sp>
-        <sp who="Kirsten Lühmann" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Kirsten Lühmann">
+        <sp who="Kirsten Lühmann" parliamentary_group="SPD" role="mp" position="NA" who_original="Kirsten Lühmann" party="SPD" name="Kirsten Lühmann">
           <speaker>Kirsten Lühmann (SPD):</speaker>
           <p>Ich interpretiere das so – wir haben ja gesagt: der Nahverkehr ist Daseinsvorsorge, und darum finanzieren wir ihn aus Steuern –, dass wir uns in dem Moment Gedanken machen müssen, wenn klar ist, dass den vorhandenen Bedürfnissen im Fernverkehr eigenwirtschaftlich nicht mehr entsprochen werden kann. Der eigenwirtschaftliche Fernverkehr – das hätte ich im nächsten Satz meiner Rede gesagt – ist kein Selbstläufer. Darum warten wir alle gespannt darauf, was kommt.</p>
           <p>Die Deutsche Bahn hat für den 18. März ein Fernverkehrskonzept angekündigt, und ich möchte erst einmal abwarten, wie dieses Fernverkehrskonzept aussieht. Wenn durch das Fernverkehrskonzept ein bedarfsgerechter Fernverkehr auf Deutschlands Schienen gewährleistet ist, dann sehe ich keinen Grund dafür, dass sich der Bund in irgendeiner Art und Weise einmischt. Das Grundgesetz schreibt das auch nicht vor.</p>
@@ -1610,12 +1610,12 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Nächster Redner ist der Kollege Fritz Güntzler, CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Fritz Güntzler" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Fritz Güntzler">
+        <sp who="Fritz Güntzler" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Fritz Güntzler" party="CDU" name="Fritz Güntzler">
           <speaker>Fritz Güntzler (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine Damen und Herren! Ich werde mich lediglich dem Antrag der Linken zur Mehrwertsteuerreduktion im Schienenpersonenfernverkehr aus Sicht eines Finanzpolitikers zuwenden.</p>
           <p>Dem Antrag der Linken liegt die Annahme zugrunde, es gebe erhebliche Wettbewerbsverzerrungen zwischen Bahn- und Flugverkehr.</p>
@@ -1641,12 +1641,12 @@
           <p>Ich bedanke mich für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Für die SPD-Fraktion spricht jetzt der Kollege Andreas Schwarz.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Andreas Schwarz" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Andreas Schwarz">
+        <sp who="Andreas Schwarz" parliamentary_group="SPD" role="mp" position="NA" who_original="Andreas Schwarz" party="SPD" name="Andreas Schwarz">
           <speaker>Andreas Schwarz (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Liebe Kolleginnen und Kollegen! Lieber Herr Güntzler, wir werden uns dann gleich am Hauptbahnhof Berlin sehen, wie wir das schon öfter am Freitag erlebt haben.</p>
           <p>Was für ein schönes Thema, mit dem wir diese Sitzungswoche beenden dürfen.</p>
@@ -1668,12 +1668,12 @@
           <p>Ich bedanke mich für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Letzter Redner zu diesem Tagesordnungspunkt ist der Kollege Michael Donth, CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie des Abg. Andreas Rimkus [SPD])</stage>
         </sp>
-        <sp who="Michael Donth" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Michael Donth">
+        <sp who="Michael Donth" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Michael Donth" party="CDU" name="Michael Donth">
           <speaker>Michael Donth (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Lassen Sie mich zu Beginn eines vorwegnehmen: Ich halte Ihren Antrag, liebe Kolleginnen und Kollegen der Linken, für einen Schaufensterantrag, der vor allem unternehmerisches Denken und strukturelle Weitsicht vermissen lässt. Er ist außerdem überholt. Nicht jeder Antrag, Frau Leidig, der zur Jahrhundertwende noch richtig war, muss auch heute noch, 14 Jahre später, richtig sein.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU – Sabine Leidig [DIE LINKE]: Das stimmt! Aber der schon!)</stage>
@@ -1690,7 +1690,7 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Damit schließe ich die Aussprache.</p>
           <p>Wir kommen zur Abstimmung über Tagesordnungspunkt 22 a. Interfraktionell wird die Überweisung der Vorlage auf Drucksache 18/4186 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? – Ich sehe, das ist der Fall. Dann ist die Überweisung so beschlossen.</p>
@@ -1701,12 +1701,12 @@
           <p>Ich rufe den Zusatzpunkt 4 auf:</p>
           <p>Aktuelle Stunde</p>
           <p>auf Verlangen der Fraktion BÜNDNIS 90/DIE GRÜNEN</p>
-          <p>Perspektiven für Klimaschutz und Energie-effizienz nach Absage der Bundesregierung an einen Steuerbonus für eine energetische Gebäudesanierung </p>
-          <p>Ich eröffne die Aussprache. Das Wort hat der Kollege Oliver Krischer, Bündnis 90/Die Grünen. </p>
+          <p>Perspektiven für Klimaschutz und Energie-effizienz nach Absage der Bundesregierung an einen Steuerbonus für eine energetische Gebäudesanierung</p>
+          <p>Ich eröffne die Aussprache. Das Wort hat der Kollege Oliver Krischer, Bündnis 90/Die Grünen.</p>
         </sp>
       </div>
       <div type="agenda_item" n="5" what="recent_issues" desc="Aktuelle Stunde">
-        <sp who="Oliver Krischer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Oliver Krischer">
+        <sp who="Oliver Krischer" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Oliver Krischer" party="GRUENE" name="Oliver Krischer">
           <speaker>Oliver Krischer (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Bei 70 Prozent unseres Gebäudebestandes besteht Bedarf an energetischer Sanierung. Wenn wir es nicht in allernächster Zeit schaffen, jährlich 2 bis 3 Prozent dieser Sanierungen abzuarbeiten, dann können wir alle Klimaschutzziele und auch die Energiewende im Wärmebereich vergessen. Das ist die Herausforderung, der wir uns stellen müssen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -1723,7 +1723,7 @@
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Ich sage Ihnen: Die Politik von Herrn Seehofer im Bundesrat – etwas zu beantragen, was er dann selbst im Koalitionsausschuss der Großen Koalition verhindert – ist Bananenrepublik im Lederhosenformat. Das kann einfach nicht sein.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN – Olav Gutting [CDU/CSU]: Na, na! – Ingbert Liebing [CDU/CSU]: Unerhört!)</stage>
-          <p>Ich sage Ihnen auch: Damit ist nicht nur die Einführung eines Steuerbonus gescheitert; denn er ist das zentrale Element von Klimaschutz und Energiewende dieser Bundesregierung. </p>
+          <p>Ich sage Ihnen auch: Damit ist nicht nur die Einführung eines Steuerbonus gescheitert; denn er ist das zentrale Element von Klimaschutz und Energiewende dieser Bundesregierung.</p>
           <p>Wenn das nicht mit dem Handwerkerbonus gegenfinanziert werden soll, meine Damen und Herren, dann können wir gerne über andere Vorschläge reden. Ich hätte die Mövenpick-Steuer anzubieten. Die können wir gerne zur Gegenfinanzierung einsetzen. Lassen Sie das an dieser Stelle aber bitte nicht scheitern. Wenn Sie das nicht wollen, dann machen Sie bitte andere Vorschläge.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN – Dr. Georg Nüßlein [CDU/CSU]: Jäger 90!)</stage>
           <p>Zum Schluss möchte ich sagen: Hunderttausende Hausbesitzer, Handwerker, die Bau- und die Heizungsindustrie warten auf diesen Steuerbonus. Die Ankündigung des Steuerbonus durch die Große Koalition hat zu Attentismus geführt, sodass Investitionen verschoben worden sind. Jeder Förder-Euro, den wir in diesem Bereich investieren, löst Investitionen von 7 bis 8 Euro aus. Das ist ein unabhängiges und gutes Konjunkturprogramm.</p>
@@ -1731,12 +1731,12 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Das Wort hat jetzt der Kollege Dr. Georg Nüßlein, CDU/CSU-Fraktion.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Georg Nüßlein" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Georg Nüßlein">
+        <sp who="Georg Nüßlein" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Georg Nüßlein" party="CSU" name="Georg Nüßlein">
           <speaker>Dr. Georg Nüßlein (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Herr Krischer, das war ein ganz gezielter Versuch, die Öffentlichkeit in die Irre zu führen. Das wissen Sie ganz genau.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU – Ingbert Liebing [CDU/CSU]: So ist es!)</stage>
@@ -1775,12 +1775,12 @@
           <p>– ich meine insbesondere die Regierungen, an denen die Grünen beteiligt sind –, sind verantwortlich dafür, auch einmal die Tasche aufzumachen und etwas für den Klimaschutz zu tun, statt nur flache Reden zu halten.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Eva Bulling-Schröter, Fraktion Die Linke, hat jetzt das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Eva Bulling-Schröter" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Eva Bulling-Schröter">
+        <sp who="Eva Bulling-Schröter" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Eva Bulling-Schröter" party="DIE LINKE" name="Eva Bulling-Schröter">
           <speaker>Eva Bulling-Schröter (DIE LINKE):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Die Bürgerinnen und Bürger geben heute für das Heizen und für Warmwasser 10 Milliarden Euro im Jahr mehr aus als noch vor zehn Jahren. 40 Prozent des Energiebedarfs in Deutschland entfällt auf den Gebäudebestand.</p>
           <p>Trotzdem sind die Gebäude weiterhin nicht auf der Höhe der Zeit. Über die Hälfte aller Fassaden und mehr als ein Drittel aller Dächer älterer Gebäude haben keine Dämmung. Mehr als jede zweite Heizungsanlage wurde vor 1997 eingebaut. – Das hat in dieser Woche die Deutsche Energie-Agentur gesagt.</p>
@@ -1806,12 +1806,12 @@
           <p>Dann hätten wir genügend Geld, sowohl zur Finanzierung des Handwerkerbonus als auch für die anderen Dinge. Da muss man gucken, wie man das Geld verteilt. Sie alle miteinander wollen das offensichtlich nicht. Das ist einfach schädlich.</p>
           <stage type="interjection">(Beifall bei der LINKEN – Dr. Georg Nüßlein [CDU/CSU]: Unser Anteil ist doch da! Sie reden mit den Falschen!)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Für die Bundesregierung spricht jetzt der Parlamentarische Staatssekretär Uwe Beckmeyer.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Uwe Beckmeyer" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Wirtschaft und Energie" party="SPD" name="Uwe Beckmeyer">
+        <sp who="Uwe Beckmeyer" parliamentary_group="NA" role="government" position="Parl. Staatssekretär beim Bundesminister für Wirtschaft und Energie" who_original="Uwe Beckmeyer" party="SPD" name="Uwe Beckmeyer">
           <speaker>Uwe Beckmeyer, Parl. Staatssekretär beim Bundesminister für Wirtschaft und Energie:</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Hier ist der Streit angesprochen worden. Ich denke, wir müssen Lösungen präsentieren. Eine Lösung heißt, dass wir etwas für die Umwelt tun. Ich glaube, es liegt im Interesse des ganzen Hauses, dass wir alle uns in Deutschland in der Frage der CO2-Gebäudesanierung anstrengen. Ich denke, das, was in der jüngsten Vergangenheit erreicht worden ist, ist handwerklich eine gute Leistung. Die letzten Jahre haben gezeigt, dass die Menschen das CO2-Gebäudesanierungsprogramm annehmen.</p>
           <p>Nun gibt es zurzeit die Diskussion darüber, ob wir uns in der Frage der steuerlichen Förderung einigen. Momentan hakt es da noch ein wenig. Das ist bedauerlich, sage ich an dieser Stelle. Ich höre aus den Reihen der Koalition das Signal, dass man eine Einigung will. Ich sage hier: Das Bundeswirtschaftsministerium ist dafür absolut offen. Wir sind gerne bereit, diesen Prozess zügig anzugehen und umzusetzen.</p>
@@ -1845,12 +1845,12 @@
           <p>Herzlichen Dank für die Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD und der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Jetzt hat der Kollege Liebing, CDU/CSU-Fraktion, das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Ingbert Liebing" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Ingbert Liebing">
+        <sp who="Ingbert Liebing" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Ingbert Liebing" party="CDU" name="Ingbert Liebing">
           <speaker>Ingbert Liebing (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Es ist völlig unstrittig: Die energetische Gebäudesanierung kann einen wesentlichen Beitrag dazu leisten, dass wir die CO2-Emissionen reduzieren. Die steuerliche Förderung ist für uns dabei ein wichtiger Aspekt.</p>
           <stage type="interjection">(Dr. Julia Verlinden [BÜNDNIS 90/DIE GRÜNEN]: Konsens!)</stage>
@@ -1889,12 +1889,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Für die Linke erhält jetzt der Kollege Ralph Lenkert das Wort.</p>
           <stage type="interjection">(Beifall bei der LINKEN)</stage>
         </sp>
-        <sp who="Ralph Lenkert" parliamentary_group="DIE LINKE" role="mp" position="NA" party="DIE LINKE" name="Ralph Lenkert">
+        <sp who="Ralph Lenkert" parliamentary_group="DIE LINKE" role="mp" position="NA" who_original="Ralph Lenkert" party="DIE LINKE" name="Ralph Lenkert">
           <speaker>Ralph Lenkert (DIE LINKE):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Geehrte Kolleginnen und Kollegen! Als Techniker sehe ich die Gründe für diese Debatte so: Die Koalition wollte etwas für den Klimaschutz erreichen und einigte sich auf eine 10-prozentige Förderung der energetischen Sanierung. Um die eventuellen Steuerausfälle zu kompensieren, sollte der Handwerkerbonus auf kleine Rechnungen wegfallen. Weil Bayern diesen Bonus komplett erhalten will, ist die Förderung der energetischen Sanierung jetzt für die SPD laut Oppermann vom Tisch.</p>
           <p>Horst Seehofer hat eigentlich recht: Das Streichen des Handwerkerbonus für die energetische Gebäudesanierung wäre kontraproduktiv.</p>
@@ -1921,12 +1921,12 @@
           <p>Mieterinnen und Mieter hätten stabile Mieten und die Bauwirtschaft mehr Aufträge. Es könnte so einfach sein!</p>
           <stage type="interjection">(Beifall bei der LINKEN – Dr. Georg Nüßlein [CDU/CSU]: Schöne neue Welt!)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Dr. Nina Scheer, SPD-Fraktion, hat jetzt das Wort.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Dr. Nina Scheer" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Nina Scheer">
+        <sp who="Nina Scheer" parliamentary_group="SPD" role="mp" position="NA" who_original="Nina Scheer" party="SPD" name="Nina Scheer">
           <speaker>Dr. Nina Scheer (SPD):</speaker>
           <p>Sehr verehrte Präsidentin! Meine lieben Kolleginnen und Kollegen! Es ist viel zu der betreffenden Thematik gesagt worden. Ich möchte gleich voranstellen, dass uns natürlich allen klar sein muss, dass die enormen Investitionen, die im Komplex „Energetische Sanierung – Wärmewende“ geleistet werden können, fiskalisch gesehen die Fördermaßnahmen um ein Vielfaches übersteigen. Das ist klar, man muss es immer voranstellen.</p>
           <p>Ich finde folgenden Ablauf – das möchte ich hier ganz deutlich kritisieren – durchaus problematisch: Man bewegt sich auf einem bestimmten Einigungspfad. Zuerst verständigt man sich auf die steuerliche Förderung als ein Instrument des NAPE. Im nächsten Schritt soll gegenfinanziert werden. Dabei lässt man sich dafür loben, dass man eine Einigung erzielt hat. Im letzten Schritt aber wird das Instrumentarium verweigert.</p>
@@ -1937,16 +1937,16 @@
           <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Da muss es eine deutliche Kehrtwende geben. Ich sage jetzt nicht, dass ich schwarzsehe. Aber ich sehe die Zukunft nicht so rosig, wenn wir nicht versuchen, auf diesem Weg Schritt für Schritt – und das Energiepaket hat viele Schritte – voranzugehen, und wenn wir uns nicht um Umsetzung bemühen.</p>
           <p>Ich möchte dann aber auch noch an das anknüpfen, was Uwe Beckmeyer zu den Alternativen gesagt hat. Bei der ganzen Debatte um die Steuerfinanzierbarkeit bzw. die steuerliche Förderung muss auch immer klar sein, dass es sich hierbei nur um einen Teil eines großen Bereichs handelt. Sie hätte einige angesprochen, bei weitem nicht alle. Sie hätte nur diejenigen angesprochen, die von einem solchen steuerlichen Instrument profitieren können. Es gibt aber noch viele andere Instrumente. Uns darf jetzt aber auch nicht passieren, dass wir den Blick von diesen anderen Möglichkeiten abwenden.</p>
-          <p>Ich möchte an uns alle adressieren, dass wir noch mehr im Bereich der Qualifizierung tun müssen. Energieberatung ist ein ganz wichtiger Punkt. Wir wissen auch, dass in der Vergangenheit Mittel teilweise nicht abgerufen wurden. Dort einen Schwerpunkt zu setzen, wird jetzt vielleicht auch noch einmal eines neuen Impulses – auch weiterer Qualifizierungsmaßnahmen – bedürfen. Denn ich entdecke auch, dass wir bei Energieeffizienzmaßnahmen sehr verkürzt auf Gebäudesanierung – dort speziell auf die Fassaden – blicken. Es ist auch angeklungen, welche Probleme damit – dabei geht es auch um die Schadstoffe – verbunden sind. Dabei können wir nicht stehen bleiben. </p>
+          <p>Ich möchte an uns alle adressieren, dass wir noch mehr im Bereich der Qualifizierung tun müssen. Energieberatung ist ein ganz wichtiger Punkt. Wir wissen auch, dass in der Vergangenheit Mittel teilweise nicht abgerufen wurden. Dort einen Schwerpunkt zu setzen, wird jetzt vielleicht auch noch einmal eines neuen Impulses – auch weiterer Qualifizierungsmaßnahmen – bedürfen. Denn ich entdecke auch, dass wir bei Energieeffizienzmaßnahmen sehr verkürzt auf Gebäudesanierung – dort speziell auf die Fassaden – blicken. Es ist auch angeklungen, welche Probleme damit – dabei geht es auch um die Schadstoffe – verbunden sind. Dabei können wir nicht stehen bleiben.</p>
           <p>Es muss um eine Wärmewende gehen. Innovationen im Bereich der erneuerbaren Energien, die Einführung neuer technologischer Systeme und die dabei zu generierenden Effizienzgewinne müssen zusammen gedacht werden. Ich glaube, wir können unsere Ziele nur dann erreichen, wenn wir diese Bereiche gemeinsam denken. Aber wir müssen, wie gesagt, Schritt für Schritt vorgehen. Es kann nicht sein, dass einzelne Schritte an einem Teil unseres Koalitionspartners scheitern. Das kann so nicht bleiben.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Als Nächste hat Lisa Paus das Wort, Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Lisa Paus" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Elisabeth Paus">
+        <sp who="Lisa Paus" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Lisa Paus" party="GRUENE" name="Lisa Paus">
           <speaker>Lisa Paus (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Wir Grünen haben diese Aktuelle Stunde angemeldet, weil wir hinsichtlich der steuerlichen Förderung der energetischen Sanierung endlich aus der Endlosschleife herauswollen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
@@ -1968,27 +1968,27 @@
           <stage type="interjection">(Florian Post [SPD]: Die CSU! Nicht Bayern!)</stage>
           <p>– Die CSU aus Bayern. –</p>
           <stage type="interjection">(Klaus Mindrup [SPD]: Es gibt auch Bayern, die nicht in der CSU sind!)</stage>
-          <p>Die CSU hat über die Win-win-Situation nachgedacht und festgestellt, dass es besser ist, wenn man mehr gewinnt als die anderen. Das scheint das Lebensmotto der CSU in Bayern und von Herrn Seehofer zu sein. Die CSU hat festgestellt, dass von dem Handwerkerbonus – für den Bund sind das Steuermindereinnahmen – Bayern ganz besonders profitiert. Bayern muss weniger einzahlen in den Bund-Länder-Finanzausgleich, aber die Wirtschaft in Bayern profitiert überproportional davon. Daher sagt die CSU: „Der Handwerkerbonus muss unbedingt bleiben“, obwohl die Abschmelzung des Handwerkerbonus ein Vorschlag der Handwerkskammer war. Das haben sich nicht Herr Gabriel, die Grünen oder sonst jemand ausgedacht, sondern in der Debatte über die Bekämpfung der Schwarzarbeit wurde gemeinsam festgestellt, dass der Handwerkerbonus nicht das leistet, was gewünscht war, und es deswegen sinnvoll ist, ihn einzuschränken. Das war ein konkreter Vorschlag der Handwerkskammer, der aufgegriffen worden ist. </p>
+          <p>Die CSU hat über die Win-win-Situation nachgedacht und festgestellt, dass es besser ist, wenn man mehr gewinnt als die anderen. Das scheint das Lebensmotto der CSU in Bayern und von Herrn Seehofer zu sein. Die CSU hat festgestellt, dass von dem Handwerkerbonus – für den Bund sind das Steuermindereinnahmen – Bayern ganz besonders profitiert. Bayern muss weniger einzahlen in den Bund-Länder-Finanzausgleich, aber die Wirtschaft in Bayern profitiert überproportional davon. Daher sagt die CSU: „Der Handwerkerbonus muss unbedingt bleiben“, obwohl die Abschmelzung des Handwerkerbonus ein Vorschlag der Handwerkskammer war. Das haben sich nicht Herr Gabriel, die Grünen oder sonst jemand ausgedacht, sondern in der Debatte über die Bekämpfung der Schwarzarbeit wurde gemeinsam festgestellt, dass der Handwerkerbonus nicht das leistet, was gewünscht war, und es deswegen sinnvoll ist, ihn einzuschränken. Das war ein konkreter Vorschlag der Handwerkskammer, der aufgegriffen worden ist.</p>
           <p>Die CSU in Bayern will das als Einzige nicht akzeptieren. Die CSU sagt: Wir haben netto mehr davon, wenn der Handwerkerbonus erhalten bleibt, weil wir dann weniger in den Bund-Länder-Finanzausgleich einzahlen müssen. Dann setzt sie noch eins drauf – sie kann ja nicht genug kriegen – und sagt: Trotzdem muss die steuerliche Förderung der energetischen Gebäudesanierung ohne Gegenfinanzierung kommen, weil – das ist auch klar – Bayern davon am meisten hat.</p>
           <p>Die Situation ist: Wir gewinnen alle. Aber die Stadtstaaten zum Beispiel haben weniger Eigennutzer, weniger Einzelgebäude. Deswegen ist es logisch, dass nicht nur Berlin, sondern auch Hamburg und Bremen feststellen, dass sie zwar ebenfalls etwas für den Klimaschutz und die Gebäudesanierung tun wollen, die konkrete steuerliche Förderung aber nicht das ist, was ihnen – wie auch den anderen Städten und Ballungsräumen – den großen Impuls bringt. Deswegen brauchen wir ein gemeinsames Programm und keine isolierte Politik, wie sie die CSU in Deutschland vorhat, meine Damen und Herren.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Ich appelliere noch einmal: Sie müssen sich nicht gleich die grünen Forderungen zu eigen machen. Wir sagen, dass mindestens 6 Milliarden Euro nötig sind. Aber 1 Milliarde Euro zusätzlich sollte doch durchaus drin sein: Wo ist irgendein Engagement für das Thema Klimaschutz? Es ist bisher nicht zu erkennen. Wo ist das Engagement der SPD in dieser Frage? Ich habe an den entsprechenden Tischen gesessen, wo monatelang über 300 Millionen Euro verhandelt wurde. Da ging nichts. Durch einen Federstrich aus Lust und Laune eines Länderchefs gingen 300 Millionen Euro trotzdem als Mindereinnahmen an die Länder, weil der Eingangssteuertarif nicht so schön war.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Frau Kollegin Paus.</p>
         </sp>
-        <sp who="Lisa Paus" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="GRÜNE" name="Elisabeth Paus">
+        <sp who="Lisa Paus" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Lisa Paus" party="GRUENE" name="Lisa Paus">
           <speaker>Lisa Paus (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Dieses Theater können wir nicht mehr sehen. Das kann die Republik nicht mehr sehen. Die Leute laufen aus diesem Theater hinaus. Deswegen kommen Sie endlich zum Punkt, und machen Sie einen Schritt hin zur steuerlichen Förderung mit entsprechender Gegenfinanzierung. Eine Chance geben wir Ihnen noch.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Für die CDU/CSU-Fraktion hat jetzt Olav Gutting das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Olav Gutting" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Olav Gutting">
+        <sp who="Olav Gutting" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Olav Gutting" party="CDU" name="Olav Gutting">
           <speaker>Olav Gutting (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren Kollegen! Ich habe hier an dieser Stelle vor einigen Wochen ziemlich auf die Länder geschimpft. Es ging um den Solidaritätszuschlag und darum, dass die Länder wie immer nur unser Bestes wollen, nämlich unser Geld. Es ging darum, dass die Länder den Hals nicht voll kriegen, und es geht darum, dass sie nicht bereit sind, ihren Beitrag zur Finanzierung dieses wichtigen Projektes zu leisten.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
@@ -2014,23 +2014,23 @@
           <stage type="interjection">(Ingbert Liebing [CDU/CSU]: So ist es!)</stage>
           <p>mit allen Konsequenzen: mehr Gewerbesteuereinnahmen, mehr Arbeitsplätze usw. Letztendlich schaden die Länder vor allem sich selbst. Denn durch die steuerliche Förderung gäbe es, wie gerade aufgezeigt, Anreize für zusätzliche Investitionen; es wäre sogar mit Steuermehreinnahmen zu rechnen.</p>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Herr Kollege, denken Sie bitte an die Redezeit.</p>
         </sp>
-        <sp who="Olav Gutting" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Olav Gutting">
+        <sp who="Olav Gutting" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Olav Gutting" party="CDU" name="Olav Gutting">
           <speaker>Olav Gutting (CDU/CSU):</speaker>
           <p>Insofern fordere ich die Bundesregierung, aber auch gerade Sie, die Vertreter von Parteien, die in den Ländern Regierungsverantwortung tragen, auf, mit den Ländern zu sprechen, damit sie ihren Anteil an der Finanzierung dieser wichtigen Maßnahme erbringen.</p>
           <stage type="interjection">(Dr. Julia Verlinden [BÜNDNIS 90/DIE GRÜNEN]: Sprechen Sie doch mal mit Herrn Seehofer, verdammt noch mal!)</stage>
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Als Nächstes spricht Johann Saathoff, SPD-Fraktion.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Johann Saathoff" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Johann Saathoff">
+        <sp who="Johann Saathoff" parliamentary_group="SPD" role="mp" position="NA" who_original="Johann Saathoff" party="SPD" name="Johann Saathoff">
           <speaker>Johann Saathoff (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Herr Kollege Gutting, herzlichen Dank für Ihre Sicht auf die Dinge und die rot-grüne Verantwortung in dieser Sache. Es sind jedenfalls aus meiner Sicht vom Deich – das muss ich ganz klar sagen – nicht die Länder, die diese Regelung gerade verhindern,</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD – Ingbert Liebing [CDU/CSU]: Diskriminieren Sie mal nicht die Deiche!)</stage>
@@ -2061,12 +2061,12 @@
           <p>Herzlichen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Als Nächstes hat der Kollege Hansjörg Durz, CDU/CSU-Fraktion, das Wort.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Hansjörg Durz" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Hansjörg Durz">
+        <sp who="Hansjörg Durz" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Hansjörg Durz" party="CSU" name="Hansjörg Durz">
           <speaker>Hansjörg Durz (CDU/CSU):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Verehrte Kolleginnen und Kollegen! Meine sehr geehrten Damen und Herren! Alle hier im Haus vertretenen Fraktionen – das wird immer wieder deutlich – sind sich einig: Die steuerliche Förderung der energetischen Gebäudesanierung muss kommen, vor allem aus zwei Gründen: Erstens brauchen wir sie dringend, um unsere Klimaschutzziele zu erreichen – übrigens auch die Länder brauchen sie, um ihre Klimaschutzziele zu erreichen –, und zweitens ist die steuerliche Abschreibung ein hervorragendes Konjunkturprogramm für das Handwerk und damit auch aus volkswirtschaftlichen Gesichtspunkten zu begrüßen. Experten gehen von einem enormen Förderhebel aus. Es sind verschiedene Zahlen genannt worden. Der niedrigste Faktor war der Faktor 8, das heißt: Aus 1 Euro Förderung des Staates durch steuerliche Abschreibung erfolgen 8 Euro an Investitionen. Dies bringt Wachstum und Beschäftigung und wiederum mehr Steuereinnahmen.</p>
           <p>Nun wurde nach dem letzten Treffen des Koalitionsausschusses berichtet, dass die Einigung über die steuerliche Förderung an Bayern gescheitert sei. Es ist ein Leichtes – das ist hier schon mehrfach angeklungen –, den Schwarzen Peter nach München zu schieben.</p>
@@ -2077,7 +2077,7 @@
           <stage type="interjection">(Lisa Paus [BÜNDNIS 90/DIE GRÜNEN]: Wo war die Gegenfinanzierung?)</stage>
           <p>Zur Klarstellung: Der aktuelle Antrag wurde bisher nicht abgelehnt, er ist vertagt; es besteht also immer noch die Chance auf Einigung. Und warum gab es bisher keine Einigung?</p>
           <stage type="interjection">(Lisa Paus [BÜNDNIS 90/DIE GRÜNEN]: Weil Bayern ausgeschert ist!)</stage>
-          <p>Die Antwort lautet: wegen der Gegenfinanzierung. Wir wollen dafür nicht den Handwerkerbonus opfern. </p>
+          <p>Die Antwort lautet: wegen der Gegenfinanzierung. Wir wollen dafür nicht den Handwerkerbonus opfern.</p>
           <p>Im Übrigen – das kann man auch der Presse entnehmen –: Die Gegenfinanzierung über den Handwerker-bonus ist kein Vorschlag, der aus dem Handwerk kam.</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Genau!)</stage>
           <p>Wir wollen auch nicht für die steuerliche Abschreibung den Handwerkerbonus drangeben; denn beides hat miteinander nichts zu tun. Wir wollen nicht das eine gegen das andere ausspielen,</p>
@@ -2099,12 +2099,12 @@
           <p>Vielen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Für die SPD-Fraktion erhält jetzt Klaus Mindrup das Wort.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Klaus Mindrup" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Klaus Mindrup">
+        <sp who="Klaus Mindrup" parliamentary_group="SPD" role="mp" position="NA" who_original="Klaus Mindrup" party="SPD" name="Klaus Mindrup">
           <speaker>Klaus Mindrup (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Wenn man die Debatte hier so verfolgt, hat man den Eindruck, dass es nur einen Königsweg zum Klimaschutz gibt, nämlich Steuerboni. Dem möchte ich an dieser Stelle energisch widersprechen. Steuerliche Entlastungen sind wichtig für einige Zielgruppen, aber nicht für alle. Ich bin selbst seit über zwölf Jahren Aufsichtsrat einer Graswurzelgenossenschaft im Prenzlauer Berg. Wir haben unsere 450 Wohnungen saniert und dabei durch intelligentes Vorgehen 70 Prozent des CO2-Ausstoßes eingespart. Wir hatten zweimal die Chance, steuerliche Sonderabschreibungen zu nutzen, die es heute schon gibt, erstens weil unsere Genossenschaft im Sanierungsgebiet liegt und zweitens weil unsere Bestände denkmalgeschützt sind. Beide steuerlichen Möglichkeiten haben wir nicht genutzt, weil es für uns keinen Sinn machte: Wir können keine Gewinne mit Verlusten verrechnen. Es gibt viele Hauseigentümer, die das nicht können, seien es Genossenschaften, kommunale Gesellschaften oder auch Einzeleigentümer. Diese müssen mit dem letzten Cent rechnen; und für sie ist es viel wichtiger, dass es Zuschüsse wie die Tilgungszuschüsse von der KfW gibt, die jetzt geplant sind. Auch wichtig sind Darlehen mit einer langen Laufzeit und mit einer sehr hohen Verlässlichkeit.</p>
           <p>Wir als SPD wollen auf dem Weg zum Klimaschutz alle mitnehmen: Rentnerinnen und Rentner mit einem kleinen Haus darf man genauso wenig überfordern wie Mieterinnen und Mieter. Wohnen muss bezahlbar bleiben.</p>
@@ -2122,12 +2122,12 @@
           <p>In diesem Sinne wünsche ich Ihnen ein schönes Wochenende und eine gute sitzungsfreie Woche. Auf Wiedersehen!</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Für die CDU/CSU-Fraktion spricht jetzt der Kollege Jan Metzler.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Jan Metzler" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Jan Metzler">
+        <sp who="Jan Metzler" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Jan Metzler" party="CDU" name="Jan Metzler">
           <speaker>Jan Metzler (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Meine sehr geehrten Damen und Herren! Der Verlauf der Debatte hat gezeigt, dass – da sind wir uns alle, denke ich, einig – Energieeffizienz ein wichtiger Bestandteil der Energiewende ist. Was wir nicht verbrauchen, das müssen wir auch nicht erzeugen, ganz einfach. Unbestritten ist also, dass Energieeffizienz der Schlüssel zu einer nachhaltigen Energiepolitik ist. Ohne Einsparungen wird die Energiewende nicht zu schaffen sein; da sind wir uns alle einig, und das wurde jetzt auch mehrfach betont.</p>
           <p>Deutschland hat in den letzten Jahren viel auf den Weg gebracht. Wir sind Vorreiter, sowohl im europäischen als auch im internationalen Vergleich. Vor allem energetische Gebäudesanierungen bzw. energetisches Bauen sind hier wichtige Hebel, die einen entscheidenden Beitrag leisten. In diesem Bereich gehört Deutschland laut der Internationalen Energie-Agentur zur internationalen Spitzengruppe. Seit 2006 hat das CO2-Gebäudesanierungsprogramm Investitionen von über 187 Milliarden Euro in diesem Bereich angestoßen; auch das muss man hier einmal betonen. Mehr als 3,8 Millionen Wohnungen wurden saniert oder besonders energieeffizient neu gebaut. Auch mehr als 2 000 kommunale oder soziale Einrichtungen haben davon profitiert.</p>
@@ -2146,13 +2146,14 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="SPD" name="Ulla Schmidt">
+        <sp who="Ulla Schmidt" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Ulla Schmidt" party="SPD" name="Ulla Schmidt">
           <speaker>Vizepräsidentin Ulla Schmidt:</speaker>
           <p>Vielen Dank. – Damit ist die Aktuelle Stunde beendet.</p>
           <p>Wir sind gleichzeitig am Schluss der heutigen Tagesordnung.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 18. März 2015, 13 Uhr, ein.</p>
           <p>Die Sitzung ist geschlossen.</p>
           <p>Auch ich wünsche Ihnen ein nicht zu arbeitsreiches Wochenende.</p>
+          <stage type="interjection">(Schluss: 15.09 Uhr)</stage>
         </sp>
       </div>
     </body>

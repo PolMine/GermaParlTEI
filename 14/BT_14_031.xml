@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.txt</package>
-          <version>0.1.1</version>
-          <birthday>2016-01-06</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>txt</filetype>
         <url>http://webarchiv.bundestag.de/archive/2005/1205/bic/plenarprotokolle/pp/1999/14031a.zip</url>
-        <date>2015-10-20 19:19:42</date>
+        <date>2015-10-20</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -36,7 +36,7 @@
   <text>
     <body>
       <div type="agenda_item" n="1" what="debate" desc="Erste Beratung des von den Abgeordneten Hans-Joachim Otto (Frankfurt), Rainer Fu...">
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Guten Morgen, liebe Kolleginnen und Kollegen! Die Sitzung ist eröffnet.</p>
           <p>Ich rufe den Tagesordnungspunkt 15 auf:</p>
@@ -50,12 +50,12 @@
           <p>Finanzausschuß</p>
           <p>Ausschuß für Wirtschaft und Technologie</p>
           <p>Ausschuß für Arbeit und Sozialordnung</p>
-          <p>Ausschuß für Bildung, Forschung </p>
+          <p>Ausschuß für Bildung, Forschung</p>
           <p>und Technikfolgenabschätzung</p>
           <p>Nach einer interfraktionellen Vereinbarung ist für die Aussprache eine halbe Stunde vorgesehen, wobei für die Fraktion der F.D.P. sieben Minuten angesetzt sind. - Ich höre keinen Widerspruch. Dann ist es so beschlossen.</p>
           <p>Ich eröffne die Aussprache. Das Wort für die F.D.P.-Fraktion hat Herr Kollege Otto.</p>
         </sp>
-        <sp who="Hans-Joachim Otto" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Hans-Joachim Otto">
+        <sp who="Hans-Joachim Otto (Frankfurt)" parliamentary_group="FDP" role="mp" position="NA" who_original="Hans-Joachim Otto (Frankfurt)" party="FDP" name="Hans-Joachim Otto">
           <speaker>Hans-Joachim Otto (Frankfurt) (F.D.P.):</speaker>
           <p>Herr Präsident! Meine Damen und Herren! Mit unserer Gesetzes-initiative wollen wir ein Signal für mehr bürgerschaftliches Engagement und für mehr Mäzenatentum setzen. Wir wollen eine neue Stifterkultur in unserem Lande.</p>
           <p>Schon aus Haushaltsgründen ist der Staat nicht in der Lage, alle gesellschaftlichen Aufgaben zu finanzieren; er soll es auch gar nicht. Die Vollkaskoversorgung ist Wesensmerkmal eines Obrigkeitsstaates, während sich die freiheitliche Gesellschaft durch die Mitwirkung und Mitverantwortung ihrer Bürger auszeichnet.</p>
@@ -74,22 +74,22 @@
           <p>Zur Belebung der Stiftungskultur wollen wir aber auch das Errichten von Stiftungen erleichtern. Das bisherige Konzessionssystem, also das Erfordernis einer staatlichen Genehmigung, stammt aus den Zeiten des Obrigkeitsstaates und entspricht nicht mehr einem modernen Staatsverständnis. Wir schlagen statt dessen vor, eine Stiftung bereits durch die notarielle Beurkundung des Stiftungsgeschäfts entstehen zu lassen. Wir sind uns dabei bewußt, daß dies ein mutiger Vorschlag ist, und stellen uns einer unvoreingenommenen Diskussion.</p>
           <p>Das gilt auch für die Frage, ob die Stiftungsaufsicht weiterhin durch Landesbehörden erfolgen soll und ob das Stiftungsregister zukünftig von den Gerichten geführt werden könnte.</p>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Herr Kollege Otto, gestatten Sie eine Zwischenfrage des Kollegen von Stetten?</p>
         </sp>
-        <sp who="Hans-Joachim Otto" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Hans-Joachim Otto">
+        <sp who="Hans-Joachim Otto (Frankfurt)" parliamentary_group="FDP" role="mp" position="NA" who_original="Hans-Joachim Otto (Frankfurt)" party="FDP" name="Hans-Joachim Otto">
           <speaker>Hans-Joachim Otto (Frankfurt) (F.D.P.):</speaker>
           <p>Aber bitte.</p>
         </sp>
-        <sp who="Dr. Wolfgang Freiherr von Stetten" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang von Stetten">
+        <sp who="Wolfgang Freiherr von Stetten" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Freiherr von Stetten" party="CDU" name="Wolfgang Freiherr von Stetten">
           <speaker>Dr. Wolfgang Freiherr von Stetten (CDU/CSU):</speaker>
           <p>Lieber Kollege Otto, teilen Sie mit mir zumindest die rechtliche Beurteilung, daß das Stiftungsrecht - es besteht 100 Jahre - so schlecht nicht gewesen sein kann, wenn es schon so lange besteht?</p>
           <stage type="interjection">(Lachen bei der SPD - Jörg Tauss [SPD]: Das ist CDU-Argumentation!)</stage>
           <p>- Langsam, langsam. - Im Grunde genommen wurde der Stifter auch beim Konzessionsmodell - sprich: bei der Genehmigung der Stiftung - unter Umständen beraten. Beim Registermodell besteht die Gefahr, daß ein Notar nicht über alle Aspekte einer Stiftung so gut beraten kann, wie das in Baden-Württemberg das Regierungspräsidium und in Bayern das entsprechende Ministerium, also gewichtige Behörden, tun.</p>
           <p>Laufen wir nicht Gefahr, daß gerade kleine Stiftungen, die Sie ja fördern wollen, durch das Registermodell leichtsinnig gemacht werden, da man die Folgen - man ist nicht mehr Mitglied wie in einem Verein; vielmehr gibt es nur noch Destinatäre - nicht kennt? Worin besteht der Vorteil des Registermodells gegenüber dem Konzessionsmodell, abgesehen von der Beseitigung der verstaubten Aspekte, die durch den von Ihnen eingebrachten Gesetzentwurf erreicht würden?</p>
         </sp>
-        <sp who="Hans-Joachim Otto" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Hans-Joachim Otto">
+        <sp who="Hans-Joachim Otto (Frankfurt)" parliamentary_group="FDP" role="mp" position="NA" who_original="Hans-Joachim Otto (Frankfurt)" party="FDP" name="Hans-Joachim Otto">
           <speaker>Hans-Joachim Otto (Frankfurt) (F.D.P.):</speaker>
           <p>Lieber Herr Kollege von Stetten, ich kann Ihnen zunächst bestätigen, daß es Stiftungen nicht erst seit 100, sondern seit vielen Hunderten von Jahren gibt.</p>
           <stage type="interjection">(Dr. Antje Vollmer [BÜNDNIS 90/DIE GRÜNEN]: 1 000!)</stage>
@@ -105,11 +105,11 @@
           <p>Ich bedanke mich.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU sowie bei Abgeordneten des BÜNDNISSES 90/ DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Das Wort für die SPD-Fraktion hat jetzt der Parlamentarische Staatssekretär bei der Bundesministerin der Justiz, Eckhart Pick.</p>
         </sp>
-        <sp who="Dr. Eckhart Pick" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin der Justiz" party="SPD" name="Eckhart Pick">
+        <sp who="Eckhart Pick" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin der Justiz" who_original="Eckhart Pick" party="SPD" name="Eckhart Pick">
           <speaker>Dr. Eckhart Pick, Parl. Staatssekretär bei der Bundesministerin der Justiz:</speaker>
           <p>Herr Präsident! Meine geehrten Kolleginnen und Kollegen! Das von der F.D.P.-Fraktion vorgelegte Stiftungsreformgesetz benennt als Zweck, die Rahmenbedingungen für Stiftungen zu verbessern, um die Errichtung bzw. die Erweiterung von Stiftungen anzuregen. Ein solches Anliegen ist aus der Sicht der Bundesregierung vorbehaltlos zu unterstützen.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN, der CDU/CSU und der F.D.P.)</stage>
@@ -131,84 +131,84 @@
           <p>Zu den steuerlichen Vorschlägen des Gesetzentwurfs gäbe es eine ganze Menge zu sagen. Eigentlich betrifft das Thema, so wie es jetzt angelegt ist, zu einem geringeren Teil materielles BGB-Stiftungsrecht, sondern in erster Linie Fragen des steuerlichen Umgangs mit Stiftungen. Insofern ist der Finanzminister natürlich bei diesem Thema sehr aufmerksam, wie Sie sich denken können; denn die Vorschläge führen durch entsprechend erforderliche Änderungen des Einkommen-, Körperschaft- und Gewerbesteuerrechts zu Einkommenseinbußen des Staates und sind deshalb durchaus fragwürdig.</p>
           <p>Ich nenne noch einen Punkt, der besonders die Länder betrifft. Wenn wir Einschränkungen beim Aufkommen aus der Erbschaftsteuer und Schenkungsteuer machen, dann wissen wir: Das betrifft ausschließlich die Bundesländer. Sie werden natürlich ein wachsames Auge auf unsere Überlegungen haben.</p>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Kollege Pick, gestatten Sie eine Zwischenfrage der Kollegin Vollmer?</p>
         </sp>
-        <sp who="Dr. Eckhart Pick" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin der Justiz" party="SPD" name="Eckhart Pick">
+        <sp who="Eckhart Pick" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin der Justiz" who_original="Eckhart Pick" party="SPD" name="Eckhart Pick">
           <speaker>Dr. Eckhart Pick, Parl. Staatssekretär bei der Bundesministerin der Justiz:</speaker>
           <p>Natürlich.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Dr. Antje Vollmer (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Kollege Pick, darf ich Sie zum ersten darauf hinweisen, daß es in Ihrem eigenen Hause ein Gutachten über diesen Entwurf gibt, in dem wird gesagt, es kommt nicht - wie Sie eben gesagt haben - zu erheblichen Steuereinnahmeminderungen, sondern faktisch nur zu einer Verlagerung?</p>
           <p>Darf ich Sie zum zweiten darauf hinweisen, daß man das Ganze unter dem Gesichtspunkt Steuersparmodell nicht diffamierend erwähnen darf, weil - wie hier von dem Kollegen Otto schon gesagt worden ist - der Stifter erheblich mehr für gemeinnützige Zwecke gibt, was ja dem Gemeinwesen zugute kommt? Ich glaube, das war ein bißchen zu kritisch ausgedrückt.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Dr. Eckhart Pick" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin der Justiz" party="SPD" name="Eckhart Pick">
+        <sp who="Eckhart Pick" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin der Justiz" who_original="Eckhart Pick" party="SPD" name="Eckhart Pick">
           <speaker>Dr. Eckhart Pick, Parl. Staatssekretär bei der Bundesministerin der Justiz:</speaker>
           <p>Frau Kollegin Vollmer, Sie werden aus meinen Bemerkungen entnommen haben, daß die Ausführungen der Bundesregierung mit den Ministerien abgestimmt sind.</p>
           <stage type="interjection">(Lachen bei der CDU/CSU und der F.D.P. - Dr. Norbert Lammert [CDU/CSU]: Das merkt man tatsächlich!)</stage>
           <p>- Das wollte ich auch ganz besonders betonen.</p>
           <p>Insofern gibt es natürlich unterschiedliche Berechnungen, wie sich einzelne steuerrechtliche Vorschläge in bezug auf das Stiftungsrecht auswirken. Hier gibt es sehr verschiedene Berechnungen. Ich habe mir erlaubt, auf diese hinzuweisen. Je nach Ausgestaltung der steuerlichen Vorschriften gibt es unterschiedliche Berechnungen. Die sollten wir in Ruhe und Gelassenheit vornehmen.</p>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Kollege Pick, gestatten Sie weitere Zwischenfragen der Kollegen Braun und Hauser?</p>
         </sp>
-        <sp who="Dr. Eckhart Pick" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin der Justiz" party="SPD" name="Eckhart Pick">
+        <sp who="Eckhart Pick" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin der Justiz" who_original="Eckhart Pick" party="SPD" name="Eckhart Pick">
           <speaker>Dr. Eckhart Pick, Parl. Staatssekretär bei der Bundesministerin der Justiz:</speaker>
           <p>Ja, bitte.</p>
         </sp>
-        <sp who="Hildebrecht Braun" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Hildebrecht Braun">
+        <sp who="Hildebrecht Braun (Augsburg)" parliamentary_group="FDP" role="mp" position="NA" who_original="Hildebrecht Braun (Augsburg)" party="FDP" name="Hildebrecht Braun">
           <speaker>Hildebrecht Braun (Augsburg) (F.D.P.):</speaker>
           <p>Herr Kollege Pick, der Duktus Ihrer Rede signalisiert, daß Sie Ihren Mitarbeitern, die diese Rede gemacht haben, den Auftrag erteilt haben, zu prüfen: Gibt es irgendwelche Gründe, die ich mit Anstand vortragen kann, die gegen das Projekt des Kollegen Otto sprechen? Sie sind doch mit dem Motto angetreten: Neues wagen. Wäre es nicht einfach einmal ein neuer Ansatz gewesen, den Prüfauftrag so zu formulieren: Gibt es nicht sehr triftige Gründe, weswegen ich das Projekt unterstützen könnte?</p>
           <stage type="interjection">(Beifall bei Abgeordneten der F.D.P. und der CDU/CSU sowie der Abg. Dr. Antje Vollmer [BÜNDNIS 90/DIE GRÜNEN])</stage>
         </sp>
-        <sp who="Dr. Eckhart Pick" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin der Justiz" party="SPD" name="Eckhart Pick">
+        <sp who="Eckhart Pick" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin der Justiz" who_original="Eckhart Pick" party="SPD" name="Eckhart Pick">
           <speaker>Dr. Eckhart Pick, Parl. Staatssekretär bei der Bundesministerin der Justiz:</speaker>
           <p>Herr Kollege Braun, die neue Bundesregierung läßt sich bei der Prüfung, wo Fortschritt angesagt ist und wie man diesen Fortschritt begleitet, von niemandem übertreffen.</p>
           <stage type="interjection">(Lachen bei der F.D.P. - Beifall bei Abgeordneten der SPD)</stage>
           <p>Wir werden auch die Diskussion um ein neues Stiftungsrecht - darauf können Sie sich verlassen - konstruktiv begleiten. Dazu - Sie kennen unser Haus - sind wir immer bereit.</p>
           <stage type="interjection">(Beifall bei der SPD - Dr. Antje Vollmer [BÜNDNIS 90/DIE GRÜNEN]: Das steht auch im Koalitionsvertrag!)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Kollege Hauser.</p>
         </sp>
-        <sp who="Norbert Hauser" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Norbert Hauser">
+        <sp who="Norbert Hauser (Bonn)" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Norbert Hauser (Bonn)" party="CDU" name="Norbert Hauser">
           <speaker>Norbert Hauser (Bonn) (CDU/CSU):</speaker>
           <p>Herr Staatssekretär, könnten Sie mir gegebenenfalls zustimmen, daß ein gewisses Maß an Steuerausfällen, wenn es zu diesen käme - Kollegin Vollmer hat zu Recht darauf hingewiesen, daß es nicht einmal sicher ist, daß es zu diesen kommt -, hinnehmbar wäre im Hinblick darauf, daß Stiftungen als bürgerschaftliches Engagement erhebliche Leistungen für diese Gesellschaft erbringen und der Staat letztlich in der Bilanz einen Vorteil aus den Stiftungen hat?</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. sowie bei Abgeordneten des BÜNDNISSES 90/ DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Eckhart Pick" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin der Justiz" party="SPD" name="Eckhart Pick">
+        <sp who="Eckhart Pick" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin der Justiz" who_original="Eckhart Pick" party="SPD" name="Eckhart Pick">
           <speaker>Dr. Eckhart Pick, Parl. Staatssekretär bei der Bundesministerin der Justiz:</speaker>
           <p>Herr Kollege Hauser, ich habe schon in meinen Bemerkungen angedeutet, daß die Bundesregierung dies vorbehaltlos und objektiv prüfen wird. Sie können gewiß sein, daß wir sehr sorgfältig abwägen werden, was die Vor- und Nachteile auch in finanzieller Hinsicht sind. Im übrigen bleibt es bei der grundsätzlichen Begrüßung des privaten Engagements und auch eines Engagements, das sich in einer vermehrten und sinnvollen Stiftungspraxis ausdrückt.</p>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Kollege Pick, eine weitere Zwischenfrage des Kollegen Wilhelm Schmidt.</p>
         </sp>
-        <sp who="Wilhelm Schmidt" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Wilhelm Schmidt">
+        <sp who="Wilhelm Schmidt (Salzgitter)" parliamentary_group="SPD" role="mp" position="NA" who_original="Wilhelm Schmidt (Salzgitter)" party="SPD" name="Wilhelm Schmidt">
           <speaker>Wilhelm Schmidt (Salzgitter) (SPD):</speaker>
           <p>Herr Staatssekretär, ich möchte die gleiche Eingangsformulierung verwenden: Können Sie mir zustimmen, daß die oberschlauen Fragesteller von F.D.P. und CDU/CSU 16 Jahre Gelegenheit gehabt hätten, dieses Gesetz zu machen, wenn sie so intensiv daran interessiert sind?</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der PDS - Widerspruch bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Eckhart Pick" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin der Justiz" party="SPD" name="Eckhart Pick">
+        <sp who="Eckhart Pick" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin der Justiz" who_original="Eckhart Pick" party="SPD" name="Eckhart Pick">
           <speaker>Dr. Eckhart Pick, Parl. Staatssekretär bei der Bundesministerin der Justiz:</speaker>
           <p>Herr Kollege Schmidt, die Vermutung spricht für eine Bejahung Ihrer Frage. Es kommt aber gelegentlich vor - das ist nichts Neues -, daß man auf einmal über Nacht klüger wird. Das sollte man jedem zugestehen.</p>
           <stage type="interjection">(Heiterkeit und Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Der Nachfragebedarf ist erheblich. Kollege Solms wünscht, eine Frage zu stellen.</p>
         </sp>
-        <sp who="Dr. Hermann Otto Solms" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Hermann Otto Solms">
+        <sp who="Hermann Otto Solms" parliamentary_group="FDP" role="mp" position="NA" who_original="Hermann Otto Solms" party="FDP" name="Hermann Otto Solms">
           <speaker>Dr. Hermann Otto Solms (F.D.P.):</speaker>
           <p>Herr Kollege Pick, wie interpretieren Sie es, daß just in dem Moment, in dem Sie von der großen Aufmerksamkeit des Bundesfinanzministers sprechen, die Parlamentarische Staatssekretärin Frau Dr. Hendricks - sie ist im Moment beim Vertreter des Bundesfinanzministers beschäftigt - den Saal verlassen hat?</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Sie ist schon wieder auf der Flucht!)</stage>
         </sp>
-        <sp who="Dr. Eckhart Pick" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin der Justiz" party="SPD" name="Eckhart Pick">
+        <sp who="Eckhart Pick" parliamentary_group="NA" role="government" position="Parl. Staatssekretär bei der Bundesministerin der Justiz" who_original="Eckhart Pick" party="SPD" name="Eckhart Pick">
           <speaker>Dr. Eckhart Pick, Parl. Staatssekretär bei der Bundesministerin der Justiz:</speaker>
           <p>Ich glaube, Frau Staatssekretärin Hendricks ist in vollem Vertrauen auf die Übereinstimmung meiner Ausführungen mit der Auffassung ihres Hauses kurz aus dem Plenum gegangen. Dafür habe ich Verständnis.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN - Zuruf von der SPD: Ich habe gar nicht gewußt, daß die F.D.P. so infantil ist!)</stage>
@@ -216,16 +216,16 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der SPD - Dr. Norbert Lammert [CDU/CSU]: Ziemlich kraftvoll!)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Das Wort für die CDU/CSU-Fraktion hat nun Kollegin Rita Süssmuth.</p>
         </sp>
-        <sp who="Dr. Rita Süssmuth" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Rita Süssmuth">
+        <sp who="Rita Süssmuth" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Rita Süssmuth" party="CDU" name="Rita Süssmuth">
           <speaker>Dr. Rita Süssmuth (CDU/CSU):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Der Elan ist nicht mehr zu übertreffen: Es darf viel geredet werden; passieren darf aber nichts, vor allem nicht schnell.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der CDU/CSU und der F.D.P.)</stage>
           <p>Das paßt zum Stiftungsrecht überhaupt nicht.</p>
-          <p>Wir waren schon einmal weiter. Wir haben am  12. Februar des vergangenen Jahres im Rahmen der Kulturdebatte über das Stiftungsrecht debattiert. Ich finde, Ihre ständigen Hinweise auf die 16 Jahre helfen uns nicht weiter.</p>
+          <p>Wir waren schon einmal weiter. Wir haben am 12. Februar des vergangenen Jahres im Rahmen der Kulturdebatte über das Stiftungsrecht debattiert. Ich finde, Ihre ständigen Hinweise auf die 16 Jahre helfen uns nicht weiter.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. - Iris Gleicke [SPD]: Das kann ich mir vorstellen!)</stage>
           <p>Wir waren uns einig, daß wir uns auf den Weg machen wollten - darüber gab es in diesem Haus sehr viel Übereinstimmung -, um im Sinne gesellschaftlichen Engagements, der Bürgergesellschaft, Stiftungen - nicht nur große, sondern auch kleine - voranzubringen.</p>
           <p>Wir haben bisher ein Konzessionsmodell pur und sollten uns fragen, ob wir nicht zum Normativsystem übergehen sollten. Damit möchte ich folgendes sagen: Ich finde es gut, wenn die Fraktionen unseres Bundestages Gesetzentwürfe einbringen. Ich wünsche mir, daß wir ihre Behandlung nicht mehr auf die lange Bank schieben, sondern bald handeln.</p>
@@ -260,11 +260,11 @@
           <p>Ich danke Ihnen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. sowie bei Abgeordneten der SPD, des BÜNDNISSES 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
-          <p>Ich erteile das Wort Kollegin Antje Vollmer, Bündnis 90/Die Grünen. </p>
+          <p>Ich erteile das Wort Kollegin Antje Vollmer, Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Dr. Antje Vollmer (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen und Kollegen! Als ich den Gesetzentwurf der F.D.P. gesehen habe, hatte ich ein fröhliches Déjà-vu-Gefühl.</p>
           <stage type="interjection">(Hans-Joachim Otto [Frankfurt] [F.D.P.]: Dann können Sie ja zustimmen!)</stage>
@@ -298,11 +298,11 @@
           <p>Danke.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der F.D.P. sowie bei Abgeordneten der CDU/CSU und der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Für die PDS-Fraktion hat das Wort Kollege Heinrich Fink.</p>
         </sp>
-        <sp who="Dr. Heinrich Fink" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Heinrich Fink">
+        <sp who="Heinrich Fink" parliamentary_group="PDS" role="mp" position="NA" who_original="Heinrich Fink" party="PDS" name="Heinrich Fink">
           <speaker>Dr. Heinrich Fink (PDS):</speaker>
           <p>Herr Präsident! Meine sehr verehrten Kolleginnen und Kollegen! Ein Gesetz zur Reform des Stiftungsrechtes ist dringend nötig. Darüber sind wir uns alle einig. Das Interesse daran ist unterschiedlich. Meines ist, die Spendenfreudigkeit von Bürgerinnen und Bürgern, die sich vielleicht sogar zur Übertragung ihrer gesamten Hinterlassenschaft entschließen, zu fördern, insonderheit für die Kultur, für die immer weniger Geld da ist.</p>
           <p>Von diesem Standpunkt aus gesehen sind wir an allen parlamentarischen Initiativen interessiert, die den Anspruch erheben, eine solche vielgestaltige Kulturlandschaft zu fördern.</p>
@@ -318,16 +318,16 @@
           <p>Ich komme zum Schluß - meine Redezeit beträgt leider nur 3 Minuten -: In summa: Stiftungsreform - ja, aber mit einer hohen rechtlichen Absicherung im vorrangigen Interesse von Kultur, Bildung und sozialen Belangen. Die Stiftungen dürfen nicht ein Ort stiller Reserven für die Wirtschaft und für nicht gezahlte Steuern sein.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Das Wort hat nun Kollege Jörg Tauss, SPD-Fraktion.</p>
         </sp>
-        <sp who="Jörg Tauss" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Jörg Tauss">
+        <sp who="Jörg Tauss" parliamentary_group="SPD" role="mp" position="NA" who_original="Jörg Tauss" party="SPD" name="Jörg Tauss">
           <speaker>Jörg Tauss (SPD):</speaker>
           <p>Herr Präsident! Liebe Kolleginnen! Liebe Kollegen! Ich habe mir vorgenommen, heute richtig nett zur F.D.P. zu sein, denn der Kollege Pick - auch das ist selten - hat Sie ja genug "gepickt".</p>
           <p>Der Kollege Otto hat auf eine hinreißende Art und Weise die Koalitionsvereinbarung zitiert. An diesem Punkt haben Sie recht: Steuerpolitische Hemmnisse für Stiftungen zu beseitigen, neue Möglichkeiten für Mäzenaten, Stifter und Kultursponsoren zu gewinnen ist Originalton rotgrün. Sie können in der Koalitionsvereinbarung die entsprechende Stelle nachlesen. Wo sich die F.D.P. der vernünftigen Linie anschließt, sollte man sie nicht kritisieren.</p>
           <p>Lieber Herr Kollege Otto, wir sind ja beide Mitglied des Kulturausschusses, wo wir uns gelegentlich um Fragen des Urheberrechts streiten. Deshalb will ich Ihnen offen sagen, daß Sie ein bißchen von den Vorlagen der Grünen aus der letzten Legislaturperiode abgeschrieben haben.</p>
-          <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN - Klaus Wolfgang Müller [Kiel] [BÜNDNIS 90/DIE GRÜNEN]: Ein bißchen?)</stage>
+          <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN - Klaus Wolfgang Müller [Kiel] [BÜNDNIS 90/ DIE GRÜNEN]: Ein bißchen?)</stage>
           <p>Ich weiß, daß wir das Rad nicht immer neu erfinden müssen. Sie haben in der Tat berechtigterweise einige Punkte angesprochen, in denen Dissens zwischen uns besteht.</p>
           <p>Sie sprachen völlig zu Recht - das hat mich von seiten der F.D.P. überrascht - von den großen Vermögen, den Vermögen in Billionenhöhe, die in Deutschland zur Vererbung anstehen. Vielleicht kann eine solche Feststellung manch emotionale Debatte über Steuerreformen in diesem Haus etwas entemotionalisieren. Sie tun ja gemeinhin so, als stünden die Reichen kurz vor der Verarmung.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
@@ -340,33 +340,32 @@
           <p>Etwas problematisch wird es aber bei den 20 Prozent, die Sie vorgeschlagen haben; das sage ich ganz offen. Wir werden das natürlich in aller Sorgfalt diskutieren.</p>
           <p>Was wir allerdings nicht wollen, ist eine Familienstiftung. Damit keine Mißverständnisse aufkommen -ich glaube, wir haben dies auch geklärt -: Eine Familienstiftung hat nichts damit zu tun, daß Familien ihren Namen geben. Es handelt sich hier in der Tat um ein Steuersparmodell, um den Erhalt privaten Vermögens. Das ist nicht unser Ziel. Wenn Sie sagen, daß dies auch Ihr Ziel nicht ist, dann kommen wir voran - auch bei den Finanzbeamten, die dem, was wir tun, gründlich mißtrauen. Ich weiß nur nicht, ob Ihr Vorschlag hinsichtlich der 20 Prozent sehr sinnvoll ist. Ich fürchte, Sie bekommen nicht das Geld, das Sie haben wollen, erfahren aber auf der Finanzseite sehr viel Widerstand.</p>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Kollege Tauss, gestatten Sie eine Zwischenfrage des Kollegen Otto?</p>
         </sp>
-        <sp who="Jörg Tauss" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Jörg Tauss">
+        <sp who="Jörg Tauss" parliamentary_group="SPD" role="mp" position="NA" who_original="Jörg Tauss" party="SPD" name="Jörg Tauss">
           <speaker>Jörg Tauss (SPD):</speaker>
           <p>Sicher. Ich war schon überrascht, daß bisher niemand eine Zwischenfrage stellen wollte.</p>
           <p>Kollege Otto, bitte schön.</p>
         </sp>
-        <sp who="Hans-Joachim Otto" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Hans-Joachim Otto">
+        <sp who="Hans-Joachim Otto (Frankfurt)" parliamentary_group="FDP" role="mp" position="NA" who_original="Hans-Joachim Otto (Frankfurt)" party="FDP" name="Hans-Joachim Otto">
           <speaker>Hans-Joachim Otto (Frankfurt) (F.D.P.):</speaker>
           <p>Ich bin heute friedlich. - Herr Kollege Tauss, darf ich Sie in bezug auf Ihre Philippika gegen die Familienstiftungen darauf aufmerksam machen, daß die Familienunterhaltsstiftung - diese haben Sie eben angesprochen - überhaupt keine Steuervorteile hat, weil die Mittel aus der finanziellen Entlastung durch das Gemeinnützigkeitsrecht, über das wir heute sprechen, nur für gemeinnützige Zwecke ausgegeben werden dürfen? Der Vorwurf, die Familienstiftungen seien ein Steuersparmodell, ist leider von Unkenntnis getragen. Darüber muß ich Sie aufklären.</p>
-          <stage type="interjection">(Dr. Wolfgang Freiherr von Stetten [CDU/CSU]: So ist es! Völlige Unkenntnis!)</stage>
-          <p>2566 Deutscher Bundestag - 14. Wahlperiode - 31. Sitzung. Bonn, Freitag, den 26. März 1999 Deutscher Bundestag - 14. Wahlperiode - 31. Sitzung. Bonn, Freitag, den 26. März 1999 2561 Deutscher Bundestag - 14. Wahlperiode - 245. Sitzung, Bonn, Donnerstag, den 25. Juni 1998 2561 NA</p>
+          <stage type="interjection">(Dr. Wolfgang Freiherr von Stetten [CDU/ CSU]: So ist es! Völlige Unkenntnis!)</stage>
         </sp>
-        <sp who="Jörg Tauss" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Jörg Tauss">
+        <sp who="Jörg Tauss" parliamentary_group="SPD" role="mp" position="NA" who_original="Jörg Tauss" party="SPD" name="Jörg Tauss">
           <speaker>Jörg Tauss (SPD):</speaker>
           <p>Lieber Kollege Otto, über Unkenntnis können wir uns im Ausschuß lange unterhalten.</p>
           <p>Erstens. Sie wissen ganz genau, daß es Konstruktionen gibt, die höchst fragwürdig sind. Wenn Großunternehmen in diesem Lande über Stiftungsmodelle mehr an Körperschaftsteuer sparen, als sie an den Staat entrichten, dann ist das ein verkehrter Weg. Dies wollen wir nicht.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
           <p>Zweitens. Ich sage Ihnen noch etwas über die Fami- lienstiftung: Da gibt es einen mißratenen Sohn oder eine mißratene Tochter, und die Familie will nicht, daß diese ihr Leben auf dem Golf- oder dem Tennisplatz verbringen. Sie will das Vermögen erhalten; es soll nicht für Jachttouren in die Karibik ausgegeben werden. Das mag auch legitim und vernünftig sein. Genau das aber ist nicht das Ziel, das wir mit einer Reform des Stiftungsrechts verfolgen. Ich hoffe, daß wir uns darauf einigen können. Das ist eine Idee, die legitim sein mag. Wer will schon sein Geld, das er erarbeitet hat, an lockere Menschen verschenken! Aber das ist nicht das Ziel, über das wir heute diskutieren.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>Wenn wir diese Signale auch den Beamten im Finanzministerium deutlich machen, dann haben die weniger schlaflose Nächte. Die denken ja immer, daß wir etwas Unanständiges machen. Können wir uns darauf verständigen?</p>
           <stage type="interjection">(Zuruf des Abg. Hans-Joachim Otto [Frankfurt] [F.D.P.] - Zurufe von der CDU/CSU: Nein!)</stage>
           <p>- Ich danke Ihnen, lieber Kollege Otto.</p>
           <p>Das, was wir vorhaben, muß seriös durchgerechnet werden. Das ist doch völlig klar. Die bestehenden Rechtsprobleme hat Kollege Pick angesprochen. Ich glaube tatsächlich, daß das Registermodell nicht im Mittelpunkt unserer Betrachtungen stehen sollte. Wir befinden uns mit den Vertretern der Länder in einem sehr intensiven Dialog. Wir haben seitens unserer Arbeitsgruppen für Kultur und Medien sowohl von grüner als auch von roter Seite Vorschläge vorgelegt. Darüber kann man sprechen. Die Stiftungsreferenten der Länder haben ein großes Interesse signalisiert, mit uns einen Dialog zu führen. Dies müssen wir auch tun, und zwar auf vernünftige Weise. Wir werden Lösungen finden, lieber Freiherr von Stetten, nicht deshalb, weil es seit 100 Jahren so ist,</p>
-          <stage type="interjection">(Dr.  Wolfgang  Freiherr  von Stetten  [CDU/CSU]: Das BGB besteht seit 100 Jahren!)</stage>
+          <stage type="interjection">(Dr. Wolfgang Freiherr von Stetten [CDU/ CSU]: Das BGB besteht seit 100 Jahren!)</stage>
           <p>sondern deshalb, weil wir miteinander etwas Vernünftiges erreichen wollen.</p>
           <p>Wir können an dieser Stelle auch über Thesaurierungsverbote und all diese Dinge diskutieren. Das ist schlichtweg Unfug. Da sind wir uns sehr schnell einig. Das Land Rheinland-Pfalz wollte neulich eine Stiftung gründen. Da stellte man fest, daß dies nicht geht. Ein solches Vorgehen kann jedoch unter vielen Umständen Sinn machen. Über all diese Dinge wollen wir sprechen. Das ist unser Ziel.</p>
           <p>Der Gedanke des Stiftungswesens - auch das ist zu betonen - muß aufgewertet werden. Was passiert denn heute, wenn einer eine Stiftung gründen will? Er muß sich zum Beispiel im Regierungspräsidium an das Amt für Abfallwirtschaft und Stiftungswesen wenden. Man macht ihm damit schon auf dem Flur deutlich, daß er eigentlich unwillkommen ist,</p>
@@ -375,12 +374,12 @@
           <stage type="interjection">(Hans-Joachim Otto [Frankfurt] [F.D.P.]: Jetzt hat Herr Tauss einmal wirklich recht!)</stage>
           <p>Da können wir in der Tat - siehe Carnegie - etwas tun.</p>
           <p>Das heißt also, wir werden einen ausgezeichneten Gesetzentwurf vorlegen. Die Koalitionsvereinbarung wird umgesetzt. Wenn die F.D.P. mitmacht und uns hilft, dann ist das prima. Ich habe gehört, auch die Union will einen Entwurf auf den Weg bringen.</p>
-          <stage type="interjection">(Dr. Wolfgang Freiherr von Stetten [CDU/CSU]: Etwas sehr Vernünftiges!)</stage>
+          <stage type="interjection">(Dr. Wolfgang Freiherr von Stetten [CDU/ CSU]: Etwas sehr Vernünftiges!)</stage>
           <p>- Das ist klasse. Sie sehen, die Oppositionsrolle setzt in Ihrer Partei kreative Kräfte frei! Dabei sollte es bleiben.</p>
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der PDS)</stage>
         </sp>
-        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" party="SPD" name="Wolfgang Thierse">
+        <sp who="Wolfgang Thierse" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Wolfgang Thierse" party="SPD" name="Wolfgang Thierse">
           <speaker>Präsident Wolfgang Thierse:</speaker>
           <p>Ich schließe die Aussprache zu diesem Tagesordnungspunkt.</p>
           <p>Interfraktionell wird die Überweisung des Gesetzentwurfes auf Drucksache 14/336 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Gibt es dazu anderweitige Vorschläge? - Das ist nicht der Fall. Dann ist die Überweisung so beschlossen.</p>
@@ -388,32 +387,32 @@
           <p>Die Sitzung ist unterbrochen.</p>
           <stage type="interjection">(Unterbrechung von 9.52 bis 11.00 Uhr)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
-          <p>Liebe Kolleginnen und Kollegen, ich eröffne die unterbrochene Sitzung wieder und rufe Tagesordnungspunkt 14 auf: </p>
+          <p>Liebe Kolleginnen und Kollegen, ich eröffne die unterbrochene Sitzung wieder und rufe Tagesordnungspunkt 14 auf:</p>
           <p>Abgabe einer Erklärung der Bundesregierung zur aktuellen Lage im Kosovo nach dem Eingreifen der NATO und zu den Ergebnissen der Sondertagung des Europäischen Rates in Berlin</p>
           <p>Es liegt ein Entschließungsantrag der Fraktion der PDS vor. Der Entschließungsantrag der Fraktion der F.D.P. auf Drucksache 14/643 (neu) wurde zurückgezogen.</p>
           <p>Nach einer interfraktionellen Vereinbarung sind für die Aussprache nach der Regierungserklärung drei Stunden vorgesehen. - Widerspruch höre ich nicht. Dann ist so beschlossen.</p>
           <p>Ich gebe jetzt das Wort zur Abgabe einer Regierungserklärung dem Herrn Bundeskanzler Gerhard Schröder.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
         </sp>
       </div>
       <div type="agenda_item" n="2" what="government_declaration" desc="Abgabe einer Erklärung der Bundesregierung zur aktuellen Lage im Kosovo nach dem...">
-        <sp who="Gerhard Schröder" parliamentary_group="NA" role="government" position="Bundeskanzler " party="SPD" name="Gerhard Schröder">
+        <sp who="Gerhard Schröder" parliamentary_group="NA" role="government" position="Bundeskanzler" who_original="Gerhard Schröder" party="SPD" name="Gerhard Schröder">
           <speaker>Gerhard Schröder, Bundeskanzler :</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! In dieser Woche hat Europa Handlungsfähigkeit beweisen müssen. Die Kosovo-Krise, der Rücktritt der Kommission und die Agenda 2000 waren in dieser Bündelung wohl mit die größten Herausforderungen, die ein Europäischer Rat jemals bewältigen mußte. Ich bin froh und bin auch stolz, Ihnen heute sagen zu können, daß die Europäische Union unter deutscher Ratspräsidentschaft diese Prüfung bestanden hat.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>In den frühen Morgenstunden ist es uns nach anstrengenden und gewiß harten Verhandlungen in Berlin gelungen, die Agenda 2000 zu verabschieden. Mit diesem, wie ich es nennen möchte, Berlin-Paket haben wir einen Kompromiß gefunden, bei dem alle beteiligten Parteien, also auch wir, Abstriche von ihren Ausgangspositionen zu machen hatten. Es ist ein Kompromiß, der vernünftig ist und mit dem alle leben können. Genau deshalb ist er gut und richtig.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>Bereits am Mittwoch habe ich in meiner Eigenschaft als Präsident des Europäischen Rates Romano Prodi namens und im Auftrage des Europäischen Rates für das Amt des Präsidenten der Kommission vorgeschlagen. Nach Zustimmung durch das Europäische Parlament werden wir schon im Sommer wieder eine handlungsfähige Kommission unter seiner gewiß hochkompetenten Leitung haben.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU)</stage>
           <p>Meine sehr verehrten Damen und Herren, in der Nacht zum Donnerstag hat die NATO mit Luftschlägen gegen militärische Ziele in Jugoslawien begonnen. Das Bündnis war zu diesem Schritt gezwungen, um weitere schwere und systematische Verletzungen der Menschenrechte im Kosovo zu unterbinden und um eine humanitäre Katastrophe dort zu verhindern.</p>
           <p>Der Bundesaußenminister, die Bundesregierung und die Kontaktgruppe haben in den letzten Wochen und Monaten nichts, aber auch gar nichts unversucht gelassen, eine friedliche Lösung des Kosovo-Konfliktes zu erzielen. Präsident Milosevic hat sein eigenes Volk, die albanische Bevölkerungsmehrheit im Kosovo und die Staatengemeinschaft ein ums andere Mal hintergangen.</p>
           <p>Monatelang haben der EU-Sonderbeauftragte Petritsch und sein amerikanischer Kollege Hill in intensiver Reisediplomatie mit den beiden Konfliktparteien Gespräche geführt und den Boden für ein faires Abkommen bereitet. In Rambouillet und Paris ist mehrere Wochen lang - wir alle waren Zeugen - hartnäckig verhandelt worden. Zu dem dort vorgelegten Abkommen, das die Menschenrechte der albanischen Bevölkerungsmehrheit im Kosovo, aber auch die territoriale Integrität der Republik Jugoslawien gewährleistet, gibt es nach meiner festen Auffassung keine Alternative.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU und der F.D.P.)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU und der F.D.P.)</stage>
           <p>Das ist der Grund, warum alle Parteien diesem Abkommen hätten zustimmen müssen.</p>
           <p>Die Ziele dieses Abkommens - das ist mir wichtig - werden auch von Rußland geteilt. Ich selbst habe in einem Telefongespräch mit dem russischen Premierminister Primakow unterstrichen, daß die Europäische Union die Beziehungen zu Rußland nicht einschränken, nicht relativieren, nein: gerade jetzt weiter ausbauen wird.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU und der F.D.P.)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU und der F.D.P.)</stage>
           <p>Wir haben - das betrifft alle Parteien dieses Hauses - mit Rußland eine Qualität in unseren Beziehungen erreicht, die wir von unserer Seite aus nicht in Frage gestellt sehen wollen.</p>
           <p>Die Vertreter der Kosovo-Albaner haben dem Abkommen von Rambouillet schließlich zugestimmt. Einzig die Belgrader Delegation hat durch ihre Obstruk- tionspolitik alle, aber auch wirklich alle Vermittlungsversuche scheitern lassen. Sie allein trägt die Verantwortung für die entstandene Lage.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
@@ -437,19 +436,19 @@
           <stage type="interjection">(Heiterkeit)</stage>
           <p>- Es ist wirklich schwierig, jedenfalls zu diesem Zeitpunkt.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/ DIE GRÜNEN)</stage>
-          <p>Die Nominierung von Romano Prodi also wird dem gegenwärtigen Europäischen Parlament zur Zustimmung vorgelegt werden.  Anschließend soll der designierte Kommissionspräsident versuchen, in Zusammenarbeit mit den Regierungen der Mitgliedstaaten so früh wie möglich die Ernennung einer neuen Kommission vorzubereiten. Die Regierungen der Mitgliedstaaten werden dann im Einvernehmen mit Romano Prodi</p>
+          <p>Die Nominierung von Romano Prodi also wird dem gegenwärtigen Europäischen Parlament zur Zustimmung vorgelegt werden. Anschließend soll der designierte Kommissionspräsident versuchen, in Zusammenarbeit mit den Regierungen der Mitgliedstaaten so früh wie möglich die Ernennung einer neuen Kommission vorzubereiten. Die Regierungen der Mitgliedstaaten werden dann im Einvernehmen mit Romano Prodi</p>
           <stage type="interjection">(Beifall bei Abgeordneten der F.D.P.)</stage>
           <p>die übrigen Personen benennen, die sie als Kommissionsmitglieder zu ernennen beabsichtigen. Dieses neue Kollegium wird sich schon im Sommer dieses Jahres dem Votum des dann neu gewählten Europaparlaments stellen. Damit schaffen Rat und Parlament die Voraussetzungen, daß die neue Kommission ihre Arbeit zum frühestmöglichen Zeitpunkt beginnen und ab Januar 2000 für eine volle fünfjährige Amtszeit fortführen kann.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
           <p>Durch den Rücktritt der Kommission drohte dem vereinten Europa die Gefahr einer schweren institutionellen Krise. Vor diesem Hintergrund läßt sich ermessen, wie bedeutend die schnelle und überzeugende Lösung dieser Krise durch die Ernennung des neuen Kommissionspräsidenten ist. Europa hat - das darf man ruhig deutlich unterstreichen - in dieser Situation Entschlossenheit und auch Handlungsfähigkeit bewiesen. Ich denke, das wird Europa und der europäischen Idee im Bewußtsein der Bürgerinnen und Bürger auch unseres Landes helfen.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>Ich sage das keineswegs nur aus pragmatischen Gründen. Die in Berlin versammelten Delegationen, Minister sowie Staats- und Regierungschefs waren trotz aller Unterschiede in Einzelfragen der Agenda 2000 in einer Überzeugung geeint, nämlich in der, daß wir die einmalige historische Chance, die sich den europäischen Völkern durch den konsequenten Integrationsprozeß bietet, wirklich beherzt ergreifen wollen. Wir haben den Schritt zur Wirtschafts- und Währungsunion getan. Weitere EU-Mitgliedstaaten werden sich dieser Union anschließen. Genau dafür, also für die Erweiterung der Union, sind in Berlin allerwichtigste Grundlagen gelegt worden.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>Wir haben heute die Möglichkeit, ausgehend von 50 Jahren Frieden in Europa, unsere Völker und Staaten in freundschaftlicher Nachbarschaft immer enger miteinander zu verzahnen. Dies ist der Auftrag, den wir von den Vätern und Müttern, die zwei schreckliche Kriege auf diesem Kontinent erleben mußten, übernommen haben. Wir werden ihn konsequent ausführen. Dies ist der Auftrag, den uns unsere Kinder, für die das vereinte Europa auch eine kulturelle - nicht nur eine politische - Selbstverständlichkeit geworden ist, täglich aufs neue erteilen.</p>
           <p>Dieses gemeinsame Europa kann nicht par ordre du mufti oder auf einem Gipfeltreffen beschlossen werden. Nein, es braucht die Unterstützung der freien Bürgerinnen und Bürger dieses Kontinents, sonst greift es zu kurz. Es braucht auch nicht nur auf die Entscheidungen der politischen Führungen zu starren; denn in der guten Nachbarschaft unserer Völker ist ein Europa, das sich auf die Menschen stützt und stützen kann, längst entstanden. Aber Europas Bürgerinnen und Bürger haben ein Recht darauf, daß ihre Regierungen die europäischen Institutionen handlungsfähig machen und sie dadurch erhalten. Genau das haben wir getan.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
           <p>Genau das in einer schwierigen Situation geschafft zu haben ist der große, ja der durchschlagende und währende Erfolg des Gipfeltreffens in Berlin.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>Meine Damen und Herren, die Europäische Union - ich habe darauf verwiesen - braucht so bald wie möglich eine starke Kommission, die dem Gebot der Effi- zienz, der Transparenz und - das ist entscheidend - der Bürgernähe wirklich gerecht wird. Wir werden deshalb den designierten Kommissionspräsidenten Prodi bitten, im Dialog mit den Mitgliedstaaten ein Programm auszuarbeiten, in dem die veränderte Arbeitsweise der neuen Kommission fest umrissen wird. Ein erster Gedankenaustausch zwischen den Staats- und Regierungschefs und dem neuen Kommissionspräsidenten über ein solches Reformprogramm wird bereits am 14. April, vermutlich in Brüssel, stattfinden.</p>
           <p>Wir müssen und wollen bei der Verwaltung von Gemeinschaftsfonds, von Programmen und von Projekten durch die Kommission ein Höchstmaß an Integrität, aber auch ein Höchstmaß an Effizienz in der Durchführung erreichen.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
@@ -459,22 +458,22 @@
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
           <p>Die Union, meine Damen und Herren, darf nicht an Deutschlands Ostgrenze enden. Gerade deshalb haben die Bürgerinnen und Bürger Europas kein Verständnis für administrativen Unterschleif oder eine Politik des nationalen Egoismus.</p>
           <p>Ich freue mich, Ihnen sagen zu können, daß es uns auf dem Berliner Gipfeltreffen gelungen ist, darüber hinaus wichtige Vereinbarungen zu erzielen. Nach rund dreijährigen Verhandlungen ist eine Einigung zum Handels- und Kooperationsabkommen mit Südafrika erzielt worden.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie des Abg. Dr. Werner Hoyer [F.D.P.])</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN sowie des Abg. Dr. Werner Hoyer [F.D.P.])</stage>
           <p>Damit, meine Damen und Herren, stellt Europa unter Beweis, daß es ihm mit seinem Engagement für das neue Südafrika - für das Südafrika des so großartigen Menschen Nelson Mandela - ernst ist.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU und der PDS)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU und der PDS)</stage>
           <p>Das geeinte Europa stellt unter Beweis, daß es eben keine Exklusivveranstaltung für die Reichen der Welt ist, sondern daß es zu freundschaftlicher Zusammenarbeit gerade mit denen fähig ist, denen es nicht so gut geht wie den reichen Nationen dieser Welt. Daß wir übrigens diese Einigung am letzten Tag der Amtszeit von Präsident Nelson Mandela, der auch mir ganz persönlich mit seinem opferreichen Kampf für die Menschenrechte stets ein Vorbild gewesen ist,</p>
           <stage type="interjection">(Zurufe von der CDU/CSU: Oh!)</stage>
           <p>erzielen konnten, erfüllt mich wirklich mit Freude.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN sowie bei Abgeordneten der PDS)</stage>
           <p>Meine Damen und Herren, wie es so ist: Ein guter Kompromiß tut allen weh. Das gilt auch für den in Berlin erzielten Kompromiß zur Agenda 2000. Gleichwohl können alle Partner, also auch wir, mit den Ergebnissen zufrieden sein. Bedenkt man, wie weit die Ausgangspositionen auseinander lagen, ist das Ergebnis zufriedenstellend, weil es ausgewogen ist. Die Einigung, die wir in Berlin erzielt haben, ist ein klares Signal an die europäischen Bürgerinnen und Bürger, an die Märkte und an die Beitrittskandidaten, und sie belegt, daß wir alle am Ende unsere gemeinsame Verantwortung vor die jeweiligen Einzelinteressen gestellt haben. Das Berliner Paket ist ein tragfähiges Fundament für das Handeln der Europäischen Union.</p>
           <p>Zwei Prinzipien standen und stehen dabei im Vordergrund: Ausgabenstabilität und Solidarität innerhalb Europas mit den Schwächeren.</p>
           <stage type="interjection">(Zustimmung bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
           <p>Wir haben uns auf einen Rahmen geeinigt, der uns vorgibt, auch in Europa strenge Haushaltsdisziplin zu üben. Wir werden dabei den Zusammenhalt unter den Mitgliedstaaten wahren, so wie es der Vertrag vorsieht. Wir haben in Berlin eine Obergrenze für die EU-Ausgaben bis zum Jahr 2006 einvernehmlich festgeschrieben. Das war am Anfang alles andere als eine Selbstverständlichkeit. Diese Grenze wird bei 1,27 Prozent des EU-Bruttosozialproduktes liegen.</p>
           <p>Wir werden in zwei Stufen bis zum Jahre 2004 die Mehrwertsteuereigenmittel zur Hälfte auf Bruttosozialprodukteigenmittel umstellen. Wir erhöhen die Erhebungskostenpauschale bei den sogenannten traditionellen Eigenmitteln von 10 Prozent auf 25 Prozent. Beim Beitragsrabatt für Großbritannien sowie beim Schlüssel für die Finanzierung des Rabatts haben wir Modifikationen vereinbart, die zu einer größeren Beitragsgerechtigkeit für die Nettozahler - damit meine ich alle Nettozahler, nicht nur Deutschland - führen werden.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>Meine sehr verehrten Damen und Herren, in der Agrarpolitik sind wir nach langem Ringen zu einer auskömmlichen Lösung gelangt. Vielleicht wird es dem einen oder anderen an Begeisterung mangeln. Denjenigen, bei dem das so ist, kann ich trösten: Bei mir ist das nicht anders.</p>
           <p>Kernstück sind die Preissenkungen bei Getreide und Rindfleisch sowie die auf dem Petersberger Gipfel vereinbarte Höchstgrenze für die Agrarausgaben. Auch über den Kohäsionsfonds haben wir eine Einigung erzielt. Innerhalb der Strukturfonds haben wir für die neuen Bundesländer auch für die nächsten sieben Jahre die höchste Förderpriorität gesichert.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>Übrigens, dazu gehört auch eine vernünftige Übergangsregelung für Ostberlin.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
           <p>Man nennt das in der Sprache der europäischen Beamten "phasing out".</p>
@@ -484,31 +483,31 @@
           <p>Auch wir Deutschen haben nicht alles von dem durchsetzen können, was wir gern durchgesetzt hätten. Das gerade hier zu sagen gebietet die Redlichkeit.</p>
           <stage type="interjection">(Zustimmung bei Abgeordneten der SPD)</stage>
           <p>Etwas Wesentliches haben wir allerdings erreicht: Die Ausgabenbegrenzung konnte so festgeschrieben werden, wie Deutschland und einige unserer Partner es im nationalen, aber auch im europäischen Interesse gefordert haben. Schritte hin zu mehr Beitragsgerechtigkeit liegen nicht nur im deutschen, im niederländischen, im österreichischen oder im schwedischen Interesse; der Gesichtspunkt der Solidarität und der Gerechtigkeit auch den Stärkeren gegenüber liegt vielmehr auch im europäischen Interesse. Solidarität ist eben keine Einbahnstraße.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>Wir haben uns deshalb in Berlin darauf geeinigt, daß die Kurve der deutschen Nettozahlungen in der Tendenz gestoppt und - naturgemäß langsam - umgedreht wird.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der SPD)</stage>
           <p>Aber es gilt ganz kühl festzustellen: Wir werden nicht auf einen Schlag reparieren können, was in der Vergangenheit versäumt worden ist.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN - Widerspruch bei Abgeordneten der CDU/CSU und der F.D.P.)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN - Widerspruch bei Abgeordneten der CDU/CSU und der F.D.P.)</stage>
           <p>- Das ist so! Sollte sich der eine oder andere von dieser oder jener Bank zu Wort melden, dann bin ich sehr gespannt darauf, ob er es schafft, das, was wir in Berlin erreicht haben, mit dem zu vergleichen, was andere aus Edinburgh mitgebracht haben.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>Auf diese Diskussion, die wir sicherlich noch mit großem Nachdruck und mit großem Interesse miteinander - in welchen Gruppierungen bei Ihnen auch immer - werden führen können, freuen wir uns wirklich.</p>
           <stage type="interjection">(Siegfried Hornung [CDU/CSU]: So eine Nullnummer!)</stage>
-          <p>Deutschland hat die EU-Ratspräsidentschaft in einer gewiß prekären Lage übernommen. Am Ende dieses Halbjahres werden wir vier Gipfeltreffen der Staats- und Regierungschefs hinter uns gebracht haben, und dies  - wie wir mit ein Stück weit Stolz sagen - durchaus mit Erfolg.</p>
+          <p>Deutschland hat die EU-Ratspräsidentschaft in einer gewiß prekären Lage übernommen. Am Ende dieses Halbjahres werden wir vier Gipfeltreffen der Staats- und Regierungschefs hinter uns gebracht haben, und dies - wie wir mit ein Stück weit Stolz sagen - durchaus mit Erfolg.</p>
           <p>Mit der Nominierung von Prodi haben wir eine institutionelle Krise in der Union abwenden können. Die Lage im Kosovo hat die europäische Wertegemeinschaft erstmals seit dem zweiten Weltkrieg vor den Zwang gestellt, mit militärischen Mitteln eine humanitäre Katastrophe verhindern zu müssen.</p>
           <p>Mit dem Berliner Paket haben wir eine gute Basis gelegt, um die Osterweiterung der Europäischen Union voranzutreiben. Diese Erweiterung ist und bleibt unsere größte, unsere drängendste Aufgabe.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>Die Europäische Union strukturell und finanziell für die Aufnahme der Beitrittskandidaten fit zu machen - ich habe darauf immer wieder hingewiesen - stand und steht weit oben auf der europäischen Tagesordnung.</p>
           <p>Auf dem Gipfel in Köln Anfang Juni wollen wir darüber hinaus einen Beschäftigungspakt für und in Europa verabschieden und einen Fahrplan für die dringend notwendigen institutionellen Reformen der EU festlegen. Damit erweisen wir uns einmal mehr als der in der Realität und nicht nur im Reden wirkliche und ehrliche Anwalt der Beitrittskandidaten.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>Mit dem in Berlin erreichten Kompromiß sind wir unseren Zielen, vor allen Dingen dem Ziel, Europa zu erweitern, ein großes Stück näher gekommen. Ich erwarte nicht, daß alle Mitglieder dieses Hohen Hauses allen Einzelheiten des Kompromisses zustimmen. Aber ich erwarte, meine Damen und Herren, daß wir den ernstgemeinten Versuch machen, europäische Politik ein Stück weit herauszuhalten aus dem politischen Konkurrenzkampf der Parteien.</p>
           <p>Vielen Dank für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Langanhaltender Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Herr Vorsitzende der CDU/CSU-Fraktion, Dr. Wolfgang Schäuble.</p>
         </sp>
-        <sp who="Dr. Wolfgang Schäuble" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Wolfgang Schäuble">
+        <sp who="Wolfgang Schäuble" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Wolfgang Schäuble" party="CDU" name="Wolfgang Schäuble">
           <speaker>Dr. Wolfgang Schäuble (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Eugen Gerstenmaier, der große Präsident dieses Hauses, hat seine Memoiren mit dem Titel überschrieben: "Streit und Friede hat seine Zeit". Wir sind heute in einer besonderen Situation. Wir haben, Herr Bundeskanzler, gestern schon kurz darüber debattiert. Deswegen will ich ganz ruhig und klar sagen, inwieweit wir das unterstützen, was Sie gesagt haben, und worin wir uns unterscheiden.</p>
           <p>Wir unterstützen, Herr Bundeskanzler, das, was Sie zur Lage im Kosovo gesagt haben. Ich habe gestern für die CDU/CSU-Fraktion erklärt, daß sich die Bundesregierung auf unsere Unterstützung verlassen kann.</p>
@@ -536,7 +535,7 @@
           <p>Die Aufgabe dieser Position hat sich auf die Ergebnisse des Berliner Gipfels, so wie wir sie kennen, zum Nachteil einer wirkungsvollen Reform der Agrarpolitik ausgewirkt.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
           <p>Wir kennen die Zahlen nicht im einzelnen. Das ist keine Kritik; der Berliner Gipfel ging ja bis in die frühen Morgenstunden. Wir legen einen Entschließungsantrag vor, in dem wir - gemäß unserer Überzeugung, daß das Parlament als Ganzes Stellung beziehen sollte - eine Position formulieren. Aber auch wenn man die Zahlen nicht im einzelnen kennt, eines ist klar: Die grundlegenden Probleme in der Agrarpolitik werden durch das Ergebnis des Berliner Gipfels nicht gelöst. Manches wird sogar schlechter. Der Preisdruck beispielsweise durch die Milchquoten wird eher stärker werden. Die Einkommenseinbußen für die deutsche Landwirtschaft - wie immer sich die Zahlen im einzelnen darstellen - sind erheblich. Wir muten keinem anderen Teil unserer Bevölkerung etwas Vergleichbares zu.</p>
-          <p>2570 Deutscher Bundestag - 14. Wahlperiode - 31. Sitzung. Bonn, Freitag, den 26. März 1999 Deutscher Bundestag - 14. Wahlperiode - 31. Sitzung. Bonn, Freitag, den 26. März 1999 2573 Deutscher Bundestag - 14. Wahlperiode - 245. Sitzung, Bonn, Donnerstag, den 25. Juni 1998 2576 Angesichts dieser Situation, wo wir den Bauern in Deutschland etwas zumuten, was wir keiner anderen Bevölkerungsgruppe zumuten, will ich noch einmal mit allem Nachdruck an die Mehrheit dieses Hauses appellieren: Es ist falsch und unverantwortlich, durch Maßnahmen nationaler Gesetzgebung - von der sogenannten Steuerentlastung, die für die Landwirtschaft eine Steuermehrbelastung bedeutet,</p>
+          <p>Angesichts dieser Situation, wo wir den Bauern in Deutschland etwas zumuten, was wir keiner anderen Bevölkerungsgruppe zumuten, will ich noch einmal mit allem Nachdruck an die Mehrheit dieses Hauses appellieren: Es ist falsch und unverantwortlich, durch Maßnahmen nationaler Gesetzgebung - von der sogenannten Steuerentlastung, die für die Landwirtschaft eine Steuermehrbelastung bedeutet,</p>
           <stage type="interjection">(Widerspruch bei der SPD)</stage>
           <p>über die Ökosteuer bis zur Kürzung der Zuschüsse für die landwirtschaftliche Unfallversicherung - zusätzliche Einkommensverluste in einer Größenordnung von 1,8 Milliarden DM für die deutsche Landwirtschaft zu beschließen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
@@ -592,31 +591,31 @@
           <p>Dazu gehört, daß wir die Kraft aufbringen, Entscheidungen zu treffen, auch wenn die Entscheidungen, für die es wie im Falle der aktuellen Lage im Kosovo keine bessere Alternative gibt, sehr weh tun.</p>
           <stage type="interjection">(Anhaltender Beifall bei der CDU/CSU - Beifall bei der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Fraktionsvorsitzende der SPD, Peter Struck.</p>
         </sp>
-        <sp who="Dr. Peter Struck" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Peter Struck">
+        <sp who="Peter Struck" parliamentary_group="SPD" role="mp" position="NA" who_original="Peter Struck" party="SPD" name="Peter Struck">
           <speaker>Dr. Peter Struck (SPD):</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Herr Bundeskanzler, im Namen der SPD-Fraktion gratuliere ich Ihnen zu den Ergebnissen, die Sie in Berlin erreicht haben.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>Bevor ich darauf und auch auf die Bemerkungen meines Vorredners näher eingehe, möchte ich noch einige Ausführungen zur aktuellen Situation im Kosovo machen. Niemand in diesem Hause wird in diesen Tagen und Stunden ohne Skrupel sein; niemand wird unbeeindruckt von den Fernsehbildern der letzten beiden Nächte sein. Es wird niemanden geben, der sich nicht eindringlich fragt und prüft, ob der militärische Einsatz in Jugoslawien wirklich berechtigt ist. Es wird auch niemanden geben, der sich nicht der gewaltigen Zäsur bewußt ist, daß erstmals nach dem zweiten Weltkrieg deutsche Soldaten in Kampfeinsätze geschickt werden mußten.</p>
           <p>Ich muß für meine Person bedrückt feststellen, daß ich keine Alternative zu diesen Entscheidungen gefunden habe. Ich halte die begonnenen Luftschläge gegen militärische Ziele in Jugoslawien für unabdingbar. Die Gewaltherrschaft des jugoslawischen Präsidenten Milosevic und das blutige, menschenverachtende Vorgehen der serbischen Polizei- und Militärkräfte im Kosovo konnten mit diplomatischen und politischen Mitteln nicht mehr gestoppt werden. Im Gegenteil: Je intensiver sich die USA, Europa und auch die Vereinten Nationen um Lösungen bemühten, desto grausamer gingen die Schergen von Milosevic im Kosovo vor: mehr als 2 000 Tote, über 500 zerstörte Dörfer und 500 000 Vertriebene. Die Tragödie der Kosovo-Albaner mußte ein Ende haben.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der F.D.P.)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN sowie bei Abgeordneten der F.D.P.)</stage>
           <p>Es gab viele Stimmen, die das Zuwarten der NATO seit dem Massaker von Racak im letzten Januar kritisiert haben. Sie könnten vielleicht sogar recht haben. Unzweifelhaft ist aber auf jeden Fall, daß die Regierungen der NATO-Mitgliedstaaten, die Bosnien-Kontaktgruppe, die Europäische Union, die OSZE und die Vereinten Nationen alles versucht und alle Möglichkeiten ausgeschöpft haben, um Milosevic zu einer friedlichen Lösung des Konflikts zu bewegen. Auch die russische Regierung hat sich intensiv an solchen Überzeugungsversuchen beteiligt.</p>
           <p>Alle diese Versuche hatten das Ziel, einerseits Vertreibungen, Dorfzerstörungen und Tötungen durch serbische Einheiten zu beenden, andererseits den Gewaltakten der albanischen UCK Einhalt zu gebieten. Sie zielten auf eine menschenrechtskonforme Lösung des Konflikts im Rahmen einer fairen Lösung für beide Konfliktparteien: Bewahrung und Sicherstellung der Souveränität und der territorialen Integrität Jugoslawiens, weitgehende Autonomie und Selbstverwaltung für die albanische Mehrheit im Kosovo, Garantie der individuellen Menschenrechte. Alle diese Bemühungen aber prallten an dem machtversessenen, zynischen Diktator Milosevic ab.</p>
           <p>Angesichts dieser Erfahrungen darf Europa kein zweites Srebrenica zulassen!</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie des Abg. Dr. Wolfgang Gerhardt [F.D.P.])</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN sowie des Abg. Dr. Wolfgang Gerhardt [F.D.P.])</stage>
           <p>In Bosnien haben wir zu lange gewartet, nicht frühzeitig genug schwerste Verbrechen gegen die Menschlichkeit unterbunden und haben dadurch einen Völkermord mitten in Europa geschehen lassen. Das darf und wird uns nicht noch einmal passieren. - Wenn wir glaubhaft für den Aufbau und die Schaffung eines demokratischen Europas eintreten wollen, wenn wir für dieses Europa die höchsten Menschenrechtsnormen beanspruchen, dann bleibt uns nichts, als gegen die humanitäre Katastrophe, gegen Gewalt und Willkür im Kosovo entschieden vorzugehen.</p>
           <p>Ich sehe das Dilemma, das eine Reihe von Ihnen hier im Haus, auch aus meiner Fraktion beklagen. Wir standen vor der schwierigen Alternative, entweder ethnische Säuberungen und andere schwerste Menschenrechtsverletzungen geschehen zu lassen oder ohne die Zustimmung Rußlands und Chinas im Sicherheitsrat für eine Beendigung dessen zu sorgen. Ich halte unsere Entscheidung und die unserer Partnerstaaten für letzteres unter den konkreten Umständen für angemessen, vor allem deshalb, weil die Verhinderung von Völkermord schwerer ins Gewicht fällt als der Respekt vor dem Vetorecht von zwei Mitgliedern des Sicherheitsrates, zumal dies aus sachfremden Gründen mißbraucht worden ist.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>Von dieser Stelle aus wende ich mich an all die vielen Mitbürgerinnen und Mitbürger jugoslawischer Herkunft in unserem Land. Ihnen und dem serbischen Volk möchte ich eindringlich klarmachen, daß weder die NATO noch die Europäische Union, daß weder die USA noch Deutschland oder ein anderer europäischer Staat Feindschaft gegen das serbische Volk, die Republik Serbien oder die Bundesrepublik Jugoslawien hegen.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>Unser Vorgehen richtet sich allein gegen den Diktator und gewalttätigen Hasardeur Milosevic und die von ihm befehligten Polizei- und Streitkräfte. Er handelt gegen die Interessen seines eigenen Volkes, indem er es vom demokratischen Europa isoliert.</p>
           <p>Meine Damen und Herren, mit Genugtuung und Respekt habe ich verfolgt, wie der Bundesverteidigungsminister mit großer Umsicht und Fürsorge den größtmöglichen Schutz für unsere am Einsatz beteiligten Soldaten veranlaßt hat.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der F.D.P.)</stage>
           <p>Um die Last, die in diesen Tagen auf ihm liegt, ist er nicht zu beneiden. Er verdient für diese Aufgabe die Unterstützung aller, auch die seines Vorgängers im Amt.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>Trotz aller Vorsichts- und Sicherheitsmaßnahmen bleibt ein hohes Gefahrenpotential für die Gesundheit und das Leben unserer Soldaten. Zum erstenmal nach dem zweiten Weltkrieg beteiligen sie sich an einem Kampfeinsatz, nach dem sich niemand von uns gedrängt hat. Sie sind beteiligt an einem Einsatz, der Terror und Völkermord mitten in Europa beenden und die Grundlage für ein friedliches Miteinander garantieren soll. Unsere Gedanken und unsere Anteilnahme sind bei den Tornadopiloten und bei den Bodentruppen in Mazedonien. Wir bangen mit ihren Familien. Wir hoffen mit ihnen, daß alle unbeschadet zurückkehren.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
           <p>Die Schrecken im Kosovo machen uns bewußt, daß es zur europäischen Integration keine Alternative gibt. Sie allein ist der Weg zu Frieden und gemeinsamem Wohlstand auf diesem Kontinent.</p>
@@ -630,7 +629,7 @@
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
           <p>Die Verabschiedung der Agenda 2000 ist nach der sehr schnellen und sehr übereinstimmenden Entscheidung zugunsten von Romano Prodi das zweite wesentliche Ergebnis des Gipfels. Mit der Agenda 2000 ist ein Handlungsrahmen geschaffen worden, der die finanzielle Solidität der Gemeinschaft und die Stabilität der Europäischen Währungsunion garantiert. Gleichzeitig sind die in der Agenda 2000 getroffenen Regelungen entscheidende Voraussetzungen für die Osterweiterung der Europäischen Union. Jedem Kenner war klar, daß nicht jedes Detail der deutschen Vorstellungen durchzusetzen war und daß alle Beteiligten Kompromißfähigkeit zeigen mußten. Wesentlich ist aber, daß im Hinblick auf die Agrarausgaben eine reale Konstante erreicht worden ist. Sie liegt nur gering oberhalb der angestrebten Grenze von jährlich 40,5 Milliarden Euro.</p>
           <p>Sie, Herr Kollege Schäuble, haben festgestellt, daß alle beteiligten Regierungschefs in ihren Ländern aus ihrer nationalen Sicht das Ergebnis des Gipfels als Erfolg bezeichnet haben. Ich denke, der Bundeskanzler hat genau das erreicht, was man auf einem solchen Gipfel überhaupt erreichen kann: Alle sind zufrieden, das heißt, alle tragen diesen Kompromiß mit.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>Alles in allem konnte die deutsche Nettobelastung durch die Berliner Entscheidungen gesenkt werden. Die Entlastung ist nicht so hoch, wie wir es uns gewünscht hätten. Sie ist ganz sicherlich nicht so hoch, wie es von der Opposition absurderweise gefordert wurde, die von einer Entlastung in Höhe von 14 Milliarden DM sprach und die Möglichkeit der Durchsetzung einer solchen Forderung suggerieren wollte. Jeder Experte wußte, daß das eine unsinnige Forderung war.</p>
           <stage type="interjection">(Hans Michelbach [CDU/CSU]: Zufriedenheit auf niedrigem Niveau!)</stage>
           <p>Wir haben die Hypotheken, die wir von der Regierung Kohl übernehmen mußten, nicht von heute auf morgen abtragen können. Das dauert etwas länger, meine Damen und Herren. Aber wir sind auf dem richtigen Wege.</p>
@@ -644,11 +643,11 @@
           <p>Berlin war ein entscheidender Meilenstein für den erfolgreichen Abschluß der deutschen Präsidentschaft. Dafür danken wir dem Bundeskanzler Gerhard Schröder und seiner Bundesregierung.</p>
           <stage type="interjection">(Lebhafter Beifall bei der SPD - Beifall beim BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
-          <p>Jetzt hat das Wort der Franktionsvorsitzende der F.D.P., Dr. Wolfgang Gerhardt. </p>
+          <p>Jetzt hat das Wort der Franktionsvorsitzende der F.D.P., Dr. Wolfgang Gerhardt.</p>
         </sp>
-        <sp who="Dr. Wolfgang Gerhardt" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Wolfgang Gerhardt">
+        <sp who="Wolfgang Gerhardt" parliamentary_group="FDP" role="mp" position="NA" who_original="Wolfgang Gerhardt" party="FDP" name="Wolfgang Gerhardt">
           <speaker>Dr. Wolfgang Gerhardt (F.D.P.):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! In der heutigen Debatte werden wir bei SPD, den Grünen, der CDU/CSU und der F.D.P. Gemeinsamkeiten feststellen; wir werden auch Unterschiede markieren müssen. Das ist ein normaler Vorgang in einer demokratischen Ordnung.</p>
           <p>Zunächst zu den Punkten, bei denen Übereinstimmung besteht.</p>
@@ -696,12 +695,12 @@
           <p>Meine Damen und Herren, ich will mich auch deshalb nicht damit begnügen, weil Sie und der Bundesaußenminister, der nach mir reden wird, als Kritiker des früheren Bundeskanzlers Kohl immer diese ambitionierte Europapolitik, diese Leidenschaft und diese Emotionen, Europa weiterzubringen, gefordert haben. Jetzt sind Sie in der Verantwortung und sehen auf einmal, wo Sie an Grenzen kommen. Natürlich - der Bundesaußenminister hat es dazwischengerufen - wissen wir, was auch dann nur möglich gewesen wäre, wenn wir neben Herrn Chirac gesessen hätten. Ich muß Ihnen aber vorwerfen: Sie haben vorher den Boden zerstört, auf dem ein besserer Berliner Kompromiß hätte herauskommen können.</p>
           <stage type="interjection">(Lebhafter Beifall bei der F.D.P. - Beifall bei der CDU/CSU - Lachen bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Herr Bundesaußenminister, Joschka Fischer.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Joseph Fischer" parliamentary_group="NA" role="government" position="Bundesminister des Auswärtigen" party="CDU" name="Joseph Fischer">
+        <sp who="Joseph Fischer" parliamentary_group="NA" role="government" position="Bundesminister des Auswärtigen" who_original="Joseph Fischer" party="GRUENE" name="Joseph Fischer">
           <speaker>Joseph Fischer, Bundesminister des Auswärtigen:</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Es war und ist eine historische Woche für Europa. Wir haben es mit einem sehr ungewöhnlichen Zusammentreffen dreier Krisen, dreier großer Herausforderungen zu tun, die auf dem Europäischen Rat der Staats- und Regierungschefs in Berlin räumlich zusammengefügt wurden: Das war die durch den Rücktritt der Kommission ausgelöste institutionelle Krise der Europäischen Kommission; das war die Agenda 2000; und das war der beginnende Krieg im Kosovo.</p>
           <stage type="interjection">(Ulrich Heinrich [F.D.P.]: Ihr habt den Lafontaine vergessen!)</stage>
@@ -716,7 +715,7 @@
           <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNIS- SES 90/DIE GRÜNEN und der SPD sowie des Abg. Dr. Christian Schwarz-Schilling [CDU/CSU])</stage>
           <p>Ich darf Sie an die furchtbaren Grausamkeiten im Bosnien-Krieg erinnern. Ich darf Sie immer wieder an dieselben Erfahrungen erinnern: Es wurde immer wieder versucht, den Krieg zu verhindern.</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Späte Erkenntnis!)</stage>
-          <p>Es wurde immer wieder versucht, einen Friedensvertrag auszuhandeln. Die einzige Konsequenz war, daß der Vertrag gebrochen wurde und daß die Politik der Gewalt weitergegangen ist. Deswegen möchte ich mit allem Nachdruck den Vorwurf zurückweisen, daß wir hier von deutschem Boden aus eine Politik des Krieges betreiben. Wir können nicht zulassen, daß sich in Europa eine Politik der Gewalt durchsetzt, eine Politik, die keine Skrupel hat, Gewalt einzusetzen, und die bereit ist, über Leichen zu gehen, auch wenn es Tausende, Zehntausende oder Hunderttausende Tote bedeutet. Das ist keine Theorie, sondern Praxis auf dem Balkan; sie ist als Ergebnis der Politik von Milosevic zu sehen. Wenn das geschieht, würde das nicht nur unsägliches Leid für die Menschen in der betroffenen Region, sondern auch eine 2582 Deutscher Bundestag - 14. Wahlperiode - 31. Sitzung. Bonn, Freitag, den 26. März 1999 Deutscher Bundestag - 14. Wahlperiode - 31. Sitzung. Bonn, Freitag, den 26. März 1999 2577 Deutscher Bundestag - 14. Wahlperiode - 245. Sitzung, Bonn, Donnerstag, den 25. Juni 1998 2584 Gefährdung für Frieden und Sicherheit in dieser Region mit fatalen Konsequenzen bedeuten. Deswegen muß diesem jetzt Einhalt geboten werden.</p>
+          <p>Es wurde immer wieder versucht, einen Friedensvertrag auszuhandeln. Die einzige Konsequenz war, daß der Vertrag gebrochen wurde und daß die Politik der Gewalt weitergegangen ist. Deswegen möchte ich mit allem Nachdruck den Vorwurf zurückweisen, daß wir hier von deutschem Boden aus eine Politik des Krieges betreiben. Wir können nicht zulassen, daß sich in Europa eine Politik der Gewalt durchsetzt, eine Politik, die keine Skrupel hat, Gewalt einzusetzen, und die bereit ist, über Leichen zu gehen, auch wenn es Tausende, Zehntausende oder Hunderttausende Tote bedeutet. Das ist keine Theorie, sondern Praxis auf dem Balkan; sie ist als Ergebnis der Politik von Milosevic zu sehen. Wenn das geschieht, würde das nicht nur unsägliches Leid für die Menschen in der betroffenen Region, sondern auch eine Gefährdung für Frieden und Sicherheit in dieser Region mit fatalen Konsequenzen bedeuten. Deswegen muß diesem jetzt Einhalt geboten werden.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und der F.D.P.)</stage>
           <p>Meine Damen und Herren, dies ist nicht mit einer Aggressionspolitik vergleichbar, die aus nationalistischer Überhebung oder gar aus verbrecherischer rassistischer Verblendung entstanden ist und für die das Deutsche Reich in der ersten Hälfte des 20. Jahrhunderts zweimal verantwortlich war. Wir sind in die internationale Staatengemeinschaft, also in die Demokratien der EU und der NATO, eingebunden. Diese Demokratien riskieren jetzt das Leben ihrer Soldaten, um Menschenleben zu retten und vor allen Dingen um einen Friedensvertrag durchzusetzen.</p>
           <p>Es war für mich - ich sage das all denen, deren Skrupel ich gut verstehe - einer der deprimierendsten Tage, als klar war, daß die Konfrontation nicht mehr aufzuhalten ist, weil ein Frieden mit der langfristigen Konsequenz einer Gesamtordnung auf dem Balkan nicht zu erreichen war. Was notwendig gewesen wäre, liegt auf dem Tisch; wir können es mit Händen greifen: zunächst das Autonomiestatut von Rambouillet und als nächstes dann eine Friedenskonferenz für den südlichen Balkan mit einem langfristigen Engagement von Europäischer Union und dem Westen für eine Gesamtordnung. Der einzige, der das verhindert, ist Milosevic mit seiner Gewaltpolitik. Der Kosovo würde Bestandteil nicht nur Jugoslawiens, sondern auch Serbiens bleiben; das war das Ziel der internationalen Staatengemeinschaft. Milosevic müßte nur ja sagen; aber er hat immer nur nein gesagt.</p>
@@ -739,7 +738,7 @@
           <stage type="interjection">(Dr. Wolfgang Gerhardt [F.D.P.]: Herr Außen-minister, das ist aber eine einfache Interpretation meiner Worte!)</stage>
           <p>Sie mögen ja durchaus das eine oder andere an uns kritisieren.</p>
           <p>Weil ich dabei war - was ich vorher dachte, war Theorie -, ist mir heute nacht zum erstenmal wirklich klargeworden - ich sage das als überzeugter Europäer; vielleicht kann es Dr. Kohl aus seinen vielen Erfahrungen bestätigen -, daß dieses Europa mit Horrido auseinanderfliegt, wenn unser Land die europäische Führungsaufgabe nicht wahrnimmt.</p>
-          <stage type="interjection">(Widerspruch bei Abgeordneten der CDU/CSU und der F.D.P. - Dr. Helmut Kohl [CDU/CSU]: Das habe ich euch 16 Jahre lang gesagt!)</stage>
+          <stage type="interjection">(Widerspruch bei Abgeordneten der CDU/ CSU und der F.D.P. - Dr. Helmut Kohl [CDU/CSU]: Das habe ich euch 16 Jahre lang gesagt!)</stage>
           <p>Wenn das wahr ist, dann müssen Herr Schäuble und Herr Gerhardt ihre Reden sofort wieder einpacken. Das sage ich Ihnen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
           <p>Ich hätte die beiden bei so einer Gelegenheit gern einmal dabei. Warum soll man bei einem europäischen Gipfel nicht einmal überparteilich zusammensitzen? Das wäre wirklich hervorragend.</p>
@@ -753,19 +752,19 @@
           <p>- Ich stimme Ihnen hinsichtlich der Kofinanzierung doch zu. Aber mit Frankreich war die Kofinanzierung jetzt nicht durchsetzbar. Wenn das hätte geschehen sollen, hätten Sie mit entsprechenden Verhandlungen früher beginnen müssen.</p>
           <stage type="interjection">(Beifall bei Abgeordneten des BÜNDNIS- SES 90/DIE GRÜNEN und der SPD - Widerspruch bei Abgeordneten der CDU/CSU und der F.D.P.)</stage>
           <p>- Herr Dr. Kohl, sagen Sie es Ihren Buben doch einmal. Sie wissen es doch besser.</p>
-          <stage type="interjection">(Heiterkeit und Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
+          <stage type="interjection">(Heiterkeit und Beifall beim BÜNDNIS 90/ DIE GRÜNEN und bei der SPD)</stage>
           <p>Ich teile manches von Ihrer Kritik an der Agrarpolitik. Nur, was geschehen ist, war eine Entscheidung für Europa. Das ist der Punkt. Im entscheidenden Augenblick stellte sich die Frage, ob der Bundeskanzler nationales Interesse - im kurzfristigen und damit im falsch verstandenen Sinne - vertritt oder ob unser nationales Interesse im Sinne der europäischen Einigung an erster Stelle steht. Um diese Frage drehte sich die Entscheidung, und diese Entscheidung haben wir in die richtige Bahn gelenkt.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
           <p>Wenn die Zahlen auf dem Tisch liegen, werden wir die Debatte dazu mit ausreichend Zeit, wie es der Kollege Gerhardt angeboten hat, schön quantifiziert führen.</p>
           <stage type="interjection">(Klaus Bühler [Bruchsal] [CDU/CSU]: Schwach! Sehr schwach!)</stage>
           <p>- Ich wünsche mir gerne weiterhin so schwache Reden und so starke Ergebnisse, wie wir sie heute im Bundestag erleben.</p>
-          <stage type="interjection">(Heiterkeit und anhaltender Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD - Lachen bei Abgeordneten der CDU/CSU und der F.D.P.)</stage>
+          <stage type="interjection">(Heiterkeit und anhaltender Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD - Lachen bei Abgeordneten der CDU/ CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Fraktionsvorsitzende der PDS, Gregor Gysi.</p>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Gregor Gysi">
+        <sp who="Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" who_original="Gregor Gysi" party="PDS" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (PDS):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Gestatten Sie mir, mit dem EU-Gipfel zu beginnen. Ich finde eine solche Debatte einfach deshalb schwierig, weil die meisten im Hause das Ergebnis noch nicht kennen. Wir hatten überhaupt keine Möglichkeit, die Vereinbarungen zu studieren. Wir sind also allein auf die Informationen des Bundeskanzlers und des Bundesaußenministers angewiesen, und wir sollen darüber diskutieren. Nur, diese Informationen sind so allgemein, daß eine Beurteilung wirklich ausgesprochen schwerfällt.</p>
           <p>Andererseits möchte ich der rechten Opposition in diesem Hause sagen: Man kann an das Ergebnis eines solchen Gipfels auch nicht die gleichen Maßstäbe anlegen wie an einen Kabinettsbeschluß; denn es muß eine Übereinstimmung mit sehr vielen Ländern in Europa herbeigeführt werden. Exkanzler Kohl und viele andere wissen, wie schwierig das ist. Das muß schon der Ausgangspunkt für die Beurteilung sein.</p>
@@ -835,30 +834,30 @@
           <stage type="interjection">(Beifall bei der PDS)</stage>
           <p>Wer sagt Ihnen denn, wer in einem halben Jahr in Rußland die Macht hat? Wer garantiert, daß dann, wenn das Argument mit dem Geld noch zehnmal gebraucht wird, dort nicht ganz irrationale Entscheidungen getroffen werden? Politik ist nicht nur rational; sie ist auch irrational. Das macht mir große Sorgen.</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Kollege Gysi, Sie haben schon die ganze Ihrer Fraktion zustehenden Redezeit ausgeschöpft.</p>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Gregor Gysi">
+        <sp who="Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" who_original="Gregor Gysi" party="PDS" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (PDS):</speaker>
           <p>Frau Präsidentin, ich komme zum letzten Satz. - Über die historische Dimension ist übrigens so gut wie gar nicht gesprochen worden; lediglich der Bundesaußenminister hat am Rande darauf hingewiesen.</p>
           <p>Es bleibt eine traurige Tatsache: Europa und die Welt werden hinterher anders aussehen. Das gilt ebenso für die SPD, aber auch für die Grünen, die ihren Pazifismus aufgegeben haben.</p>
           <p>Ich finde es traurig - NA</p>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Herr Kollege Gysi!</p>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Gregor Gysi">
+        <sp who="Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" who_original="Gregor Gysi" party="PDS" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (PDS):</speaker>
           <p>-, daß dieser Krieg in Europa in Deutschland durch einen Kanzler der Sozialdemokratie angeordnet wurde. Das hätte nie passieren dürfen. Das wird Folgen haben - kurzfristige, mittelfristige und auch langfristige Folgen.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Dr. Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="GRUENE" name="Antje Vollmer">
+        <sp who="Antje Vollmer" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Antje Vollmer" party="GRUENE" name="Antje Vollmer">
           <speaker>Vizepräsidentin Dr. Antje Vollmer:</speaker>
           <p>Das Wort hat jetzt der Abgeordnete Dr. Norbert Wieczorek.</p>
         </sp>
-        <sp who="Dr. Norbert Wieczorek" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Norbert Wieczorek">
+        <sp who="Norbert Wieczorek" parliamentary_group="SPD" role="mp" position="NA" who_original="Norbert Wieczorek" party="SPD" name="Norbert Wieczorek">
           <speaker>Dr. Norbert Wieczorek (SPD):</speaker>
           <p>Frau Präsidentin! Liebe Kolleginnen und Kollegen! Herr Gysi, nur ein Wort zu Ihnen: Wenn Sie von Notwehr sprechen und dafür sind, dann ist auch Nothilfe erforderlich.</p>
           <p>Zu dem, was jetzt passiert ist, möchte ich das wiederholen, was andere bereits gesagt haben: Wir tun gut daran, an unsere Soldaten und ihre Angehörigen zu denken. Wir tun aber auch sehr gut daran - ich würde mir wünschen, daß das stärker geschieht -, ebenfalls der Opfer dieser Politik von Milosevic zu gedenken. Die künftigen Planungen der EU sollten eine Hilfe für diese Opfer und diese Region vorsehen. Denn nur so kann dort eine auf die Zukunft gerichtete Entwicklung einsetzen. Aber der Kampf muß jetzt wohl ausgefochten werden.</p>
@@ -937,14 +936,13 @@
           <stage type="interjection">(Beifall bei der SPD)</stage>
           <p>Gestatten Sie mir zum Abschluß noch eine Bemerkung: Natürlich bedanken wir uns beim Bundeskanzler und bei den Kabinettsmitgliedern, die mitgewirkt haben, für das erreichte Ergebnis. Ich möchte aber ausdrücklich alle Mitarbeiterinnen und Mitarbeiter in diesen Dank einschließen, die eine gewaltige Arbeit geleistet und diesen Erfolg möglich gemacht haben.</p>
           <p>Vielen Dank.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
-          <p>2592 Deutscher Bundestag - 14. Wahlperiode - 31. Sitzung. Bonn, Freitag, den 26. März 1999 Deutscher Bundestag - 14. Wahlperiode - 31. Sitzung. Bonn, Freitag, den 26. März 1999 2585 Deutscher Bundestag - 14. Wahlperiode - 245. Sitzung, Bonn, Donnerstag, den 25. Juni 1998 2593 NA</p>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Vizepräsidentin Petra Bläss:</speaker>
           <p>Zu einer Kurzintervention erteile ich dem Kollegen Ulrich Heinrich, F.D.P., das Wort.</p>
         </sp>
-        <sp who="Ulrich Heinrich" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Ulrich Heinrich">
+        <sp who="Ulrich Heinrich" parliamentary_group="FDP" role="mp" position="NA" who_original="Ulrich Heinrich" party="FDP" name="Ulrich Heinrich">
           <speaker>Ulrich Heinrich (F.D.P.):</speaker>
           <p>Frau Präsidentin, ich habe mich wegen der Aussagen des Herrn Kollegen Wieczorek zur Agrarpolitik zu einer Kurzintervention gemeldet.</p>
           <p>Eine Einigung ist erfolgt; das stimmt. Die Probleme aber sind nicht gelöst. Die Einkommen der Landwirte werden sinken. Die Landwirte werden mit bis zu 2 Milliarden DM zusätzlich belastet. Im Gegensatz zu dem, was Sie gesagt haben, Herr Wieczorek, ist nicht zu erwarten, daß von dieser Reform positive Impulse für die Einkommensentwicklung in der Landwirtschaft ausgehen werden. Die Überschüsse werden nicht abgebaut. Vor allen Dingen aber werden die Exportsubventionen nicht geregelt. Das heißt, im Herbst, wenn wir diese Politik in der WTO-Runde darzustellen haben, werden wir entsprechend unter Druck geraten. Wenn die 15 Regierungen nur einen solchen Kompromiß zustande bringen, frage ich mich, warum wir als Parlament dies auch noch beklatschen sollen. Dafür habe ich kein Verständnis.</p>
@@ -955,21 +953,21 @@
           <stage type="interjection">(Wilhelm Schmidt [Salzgitter] [SPD]: Weil Sie nicht reden dürfen, strapazieren Sie unsere Geschäftsordnung!)</stage>
           <p>- Ich habe eine Redezeit von drei Minuten.</p>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Vizepräsidentin Petra Bläss:</speaker>
           <p>Herr Kollege, Ihre Redezeit ist abgelaufen.</p>
           <stage type="interjection">(Wilhelm Schmidt [Salzgitter] [SPD]: Sie sind doch parlamentarischer Geschäftsführer! Sie wissen doch Bescheid!)</stage>
         </sp>
-        <sp who="Ulrich Heinrich" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Ulrich Heinrich">
+        <sp who="Ulrich Heinrich" parliamentary_group="FDP" role="mp" position="NA" who_original="Ulrich Heinrich" party="FDP" name="Ulrich Heinrich">
           <speaker>Ulrich Heinrich (F.D.P.):</speaker>
           <p>Ich komme zu meinem Schlußwort. Ich sage Ihnen: So kommt es zu einer Vernichtung von Volkswirtschaftsvermögen. Wissenschaftler belegen das. Wenn das so weitergeht, dann wird das Agrarsystem bald nicht mehr finanzierbar sein.</p>
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU - Peter Dreßen [SPD]: Ein schöner Marktwirtschaftler! - Uwe Hiksch [SPD]: Das war ja keine F.D.P. mehr!)</stage>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Vizepräsidentin Petra Bläss:</speaker>
           <p>Zur Erwiderung, Herr Kollege Dr. Wieczorek, bitte.</p>
         </sp>
-        <sp who="Dr. Norbert Wieczorek" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Norbert Wieczorek">
+        <sp who="Norbert Wieczorek" parliamentary_group="SPD" role="mp" position="NA" who_original="Norbert Wieczorek" party="SPD" name="Norbert Wieczorek">
           <speaker>Dr. Norbert Wieczorek (SPD):</speaker>
           <p>Herr Kollege, wenn ich Sie richtig verstanden habe, wollten Sie einen Beitrag zur Landwirtschaft machen und nicht so sehr zu dem, was ich gesagt habe. Ich möchte auf drei Dinge Ihrer Kurzintervention eingehen, die ich tatsächlich angesprochen habe. Mit Ihren anderen Bemerkungen haben Sie Ihre Redezeit ausgenutzt. Dafür hat man ja Verständnis.</p>
           <p>Erstens. Im Hinblick auf die Preisstützung und diesbezügliche Interventionen ist, soweit ich es aus dem, was bisher veröffentlicht wurde, erkennen konnte, ausdrücklich eine Überprüfung vorgesehen. Ich schlage vor, daß man sich genauer anschaut, was festgelegt worden ist.</p>
@@ -980,14 +978,14 @@
           <p>Danke sehr.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Vizepräsidentin Petra Bläss:</speaker>
           <p>Es spricht jetzt der Ministerpräsident des Freistaates Bayern, Dr. Edmund Stoiber.</p>
           <stage type="interjection">(Uwe Hiksch [SPD]: Jetzt kommt Europa aus der Sicht von Gunzenhausen!)</stage>
         </sp>
-        <sp who="Dr. Edmund Stoiber" parliamentary_group="NA" role="federal_council" position="Ministerpräsident" party=" CSU" name=" Edmund Stoiber">
+        <sp who="Dr. Edmund Stoiber" parliamentary_group="NA" role="federal_council" position="Ministerpräsident" who_original="Dr. Edmund Stoiber" party="CSU" name="Edmund Stoiber">
           <speaker>Dr. Edmund Stoiber, Ministerpräsident (Bayern):</speaker>
-          <p> Frau Präsidentin! Meine sehr verehrten Damen! Meine sehr verehrten Herren! Die Bürgerinnen und Bürger in Deutschland, wir alle in diesem Hohen Hause stehen unter dem Eindruck der dramatischen Ereignisse im Kosovo. Wir alle sind angesichts der Bilder, die uns abends und in der Früh über die Fernsehschirme erreichen, bedrückt. Mitten in Europa muß mit Waffengewalt um Frieden, Freiheit und Recht gekämpft werden. Die Grundlagen des menschlichen Zusammenlebens, des friedlichen Miteinanders der Völker und die Menschenrechte müssen in ganz Europa gelten.</p>
+          <p>Frau Präsidentin! Meine sehr verehrten Damen! Meine sehr verehrten Herren! Die Bürgerinnen und Bürger in Deutschland, wir alle in diesem Hohen Hause stehen unter dem Eindruck der dramatischen Ereignisse im Kosovo. Wir alle sind angesichts der Bilder, die uns abends und in der Früh über die Fernsehschirme erreichen, bedrückt. Mitten in Europa muß mit Waffengewalt um Frieden, Freiheit und Recht gekämpft werden. Die Grundlagen des menschlichen Zusammenlebens, des friedlichen Miteinanders der Völker und die Menschenrechte müssen in ganz Europa gelten.</p>
           <p>Bei dem NATO-Einsatz gegen das Regime in Belgrad geht es deshalb auch um die Zukunft Europas. Das menschenverachtende System von Milosevic hat der Staatengemeinschaft keine andere Wahl gelassen, als mit militärischen Mitteln den organisierten und eskalierenden Verletzungen der Menschenrechte im Kosovo entgegenzutreten.</p>
           <p>Ich hoffe, Herr Bundeskanzler, daß es uns allen gemeinsam gelingt, diese Sichtweise besonders auch den jugoslawischen Mitbürgerinnen und Mitbürgern in Deutschland eindeutig darzulegen. Ich bin ein wenig betroffen davon, wie sehr Menschen aus Jugoslawien, die bereits lange Zeit hier in Deutschland leben, an der Politik und an der Position von Milosevic hängen. Wir sollten diese Gefahren nicht geringschätzen und uns deswegen bemühen, daß die Menschen in Deutschland, auch die ausländischen Mitbürgerinnen und Mitbürger, unsere Position, die eine gemeinsame Position ist, richtig einordnen können und sie verstehen.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
@@ -1051,11 +1049,11 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Lebhafter Beifall bei der CDU/CSU - Beifall bei der F.D.P.)</stage>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Vizepräsidentin Petra Bläss:</speaker>
           <p>Es spricht nun der Vorsitzende der Fraktion Bündnis 90/Die Grünen, Rezzo Schlauch.</p>
         </sp>
-        <sp who="Rezzo Schlauch" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Rezzo Schlauch">
+        <sp who="Rezzo Schlauch" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Rezzo Schlauch" party="GRUENE" name="Rezzo Schlauch">
           <speaker>Rezzo Schlauch (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Bevor ich mich mit dem Herrn Ministerpräsidenten aus Bayern auseinandersetze, möchte ich erst einmal meine Freude und die Freude unserer Fraktion über das Ergebnis von Berlin zum Ausdruck bringen. Wir beglückwünschen den Herrn Bundeskanzler, unseren Außenminister und die übrigen Regierungsmitglieder zu ihrem Erfolg von heute morgen.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
@@ -1091,11 +1089,11 @@
           <p>Danke schön.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD)</stage>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Vizepräsidentin Petra Bläss:</speaker>
           <p>Es spricht jetzt der Kollege Dr. Helmut Haussmann, F.D.P.-Fraktion.</p>
         </sp>
-        <sp who="Dr. Helmut Haussmann" parliamentary_group="F.D.P." role="mp" position="NA" party="FDP" name="Helmut Haussmann">
+        <sp who="Helmut Haussmann" parliamentary_group="FDP" role="mp" position="NA" who_original="Helmut Haussmann" party="FDP" name="Helmut Haussmann">
           <speaker>Dr. Helmut Haussmann (F.D.P.):</speaker>
           <p>Frau Präsidentin! Geschätzte Kolleginnen und Kollegen! Wir haben Verständnis dafür, daß Sie sich angesichts der innenpolitischen Lage auch über bescheidene außenpolitische Erfolge freuen. Wenn man die Gipfel verfolgt, so muß man sagen: Der Berliner Gipfel wird nicht in die europäische Geschichte eingehen. Er war ein Gipfel auf kleinstem gemeinsamen Nenner.</p>
           <p>Herr Fischer, ich gönne es Ihnen, daß Sie Ihre erste Gipfelerfahrung gemacht haben. Bundeskanzler Kohl hat über 25 EU-Gipfel gestaltet, Außenminister Genscher über 30. Aber mit so kurzen Hosen, mit so bescheidenen Ergebnissen kam die frühere Regierung nie nach Hause, Herr Fischer.</p>
@@ -1122,17 +1120,17 @@
           <stage type="interjection">(Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
           <p>Deshalb hoffen wir auf Herrn Prodi. Wir können nur sagen, Herr Prodi hat auch eine gute Kommission verdient. Deshalb kann es nicht sein, daß Kommissarinnen, die belastet wurden, erneut antreten wollen.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
-          <p>Deutschland hat das Anrecht, daß ein frischer Start erfolgt. Es kann auch nicht so sein, daß in Kürze im sogenannten Parteirat der Grünen ausgeklüngelt wird, wer - ohne jede Europaerfahrung - die Quote für die Frauen erfüllt. So können wir in Zukunft die Europäische Kommission nicht mehr besetzen. Das neue Parlament 2594 Deutscher Bundestag - 14. Wahlperiode - 31. Sitzung. Bonn, Freitag, den 26. März 1999 Deutscher Bundestag - 14. Wahlperiode - 31. Sitzung. Bonn, Freitag, den 26. März 1999 2599 Deutscher Bundestag - 14. Wahlperiode - 245. Sitzung, Bonn, Donnerstag, den 25. Juni 1998 2601 wird solchen Nominierungen auch nicht mehr zustimmen; denn da gilt bereits der Vertrag von Amsterdam.</p>
+          <p>Deutschland hat das Anrecht, daß ein frischer Start erfolgt. Es kann auch nicht so sein, daß in Kürze im sogenannten Parteirat der Grünen ausgeklüngelt wird, wer - ohne jede Europaerfahrung - die Quote für die Frauen erfüllt. So können wir in Zukunft die Europäische Kommission nicht mehr besetzen. Das neue Parlament wird solchen Nominierungen auch nicht mehr zustimmen; denn da gilt bereits der Vertrag von Amsterdam.</p>
           <stage type="interjection">(Beifall bei Abgeordneten der F.D.P.)</stage>
           <p>Meine Damen und Herren, wir müssen die Krise der Kommission für einen echten Neubeginn mit wirklich guten Leuten nutzen. Ich hoffe, daß Deutschland gute Vorschläge macht, nicht nach dem Parteienproporz. Wir brauchen eine Stärkung des Europäischen Parlaments, das seine Feuertaufe, wenn auch erst im zweiten Anlauf, bestanden hat. Wir hätten das gleich damals im Januar machen können. Langfristiges Ziel muß eine europäische Verfassung sein, für die wir seit langer Zeit eintreten.</p>
           <p>Ich danke für Ihre Aufmerksamkeit.</p>
           <stage type="interjection">(Beifall bei der F.D.P. und der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Vizepräsidentin Petra Bläss:</speaker>
-          <p>Für die SPD-Fraktion spricht jetzt der Kollege Dr. Gerald Thalheim. </p>
+          <p>Für die SPD-Fraktion spricht jetzt der Kollege Dr. Gerald Thalheim.</p>
         </sp>
-        <sp who="Dr. Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gerald Thalheim">
+        <sp who="Gerald Thalheim" parliamentary_group="SPD" role="mp" position="NA" who_original="Gerald Thalheim" party="SPD" name="Gerald Thalheim">
           <speaker>Dr. Gerald Thalheim (SPD):</speaker>
           <p>Sehr geehrte Frau Präsidentin! Meine sehr geehrten Damen und Herren! Die Einigung über das Gesamtpaket der Agenda 2000 stellt auch aus der Perspektive der Agrarpolitik einen großen Erfolg dar. Zumindest kommt man zu der Bewertung, wenn man sich erstens die Ausgangssituation vergegenwärtigt und zweitens an die Tatsachen hält.</p>
           <p>Was die Ausgangsposition anbelangt, so ist erstens festzustellen, daß nach vielen Jahren der Untätigkeit eine Reform durchgeführt werden mußte, ohne daß mehr Geld, sondern eher weniger Geld zur Verfügung steht. Zweitens hat es die alte Bundesregierung versäumt, gerade im Landwirtschaftsbereich strategische Partner für viele Positionen zu suchen. Im Gegenteil hatten die Mitgliedstaaten eher sehr unterschiedliche Positionen.</p>
@@ -1140,7 +1138,7 @@
           <p>Die Antwort, die man auf diese Forderung geben sollte, ist in der "Süddeutschen Zeitung" vom vergangenen Freitag nachzulesen. Dort schreibt Udo Bergdoll:</p>
           <p>Wer behauptet, ... Frankreich könne zur Akzeptanz der Kofinanzierung in der Landwirtschaft gezwungen werden, nimmt sich selbst nicht mehr ernst.</p>
           <p>Dem ist eigentlich nichts hinzuzufügen.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>Wenn man es dennoch tun wollte, dann das: In der Opposition ist in der Tat die Gefahr groß, populäre Forderungen zu erheben und sich selbst nicht mehr ernst zu nehmen.</p>
           <p>Wenn für die Landwirtschaft etwas erreicht wurde, dann die Gewißheit, daß man mit den zugesagten Zahlen rechnen kann. Die Ausgleichszahlungen bis zum Jahre 2006 sind eine verläßliche Basis für die Landwirtschaft. Künftig wird von den Brüsseler Geldern mehr bei den Bauern ankommen und weniger für Lagerhaltung und Exporterstattungen draufgehen - ein wichtiger Erfolg der Agenda 2000. Aber die Landwirtschaft muß sich künftig viel stärker am Markt orientieren. Damit wird ein Versäumnis der Vergangenheit offengelegt.</p>
           <p>Tatsache ist, daß die zunehmende Verflechtung der Märkte zu einer stärkeren Liberalisierung der Agrarmärkte führt. Das GATT-Abkommen von 1994 hat nicht diese Bundesregierung, sondern die Vorgängerregierung beschlossen. Es grenzt an Realitätsverweigerung, wenn man so tut, als hätten die Beschlüsse von damals für die Landwirtschaft heute keine Konsequenzen. Das Gegenteil ist der Fall. Ich habe in den letzten Wochen in Versammlungen von vielen Bauern gehört, daß sie die Notwendigkeit einer Reform einräumen. Das wird von Ihnen und den Vertretern der Bauernverbände natürlich geleugnet.</p>
@@ -1151,7 +1149,7 @@
           <p>Angesichts dieser Entwicklung brauchen wir eine Mengenbegrenzung bei der Produktion. Hier ist oft gefragt worden, welche Erfolge denn unter deutscher Präsidentschaft erreicht worden sind.</p>
           <stage type="interjection">(Siegfried Hornung [CDU/CSU]: Keine!)</stage>
           <p>Bis zum Jahr 2006 werden 10 Prozent stillgelegt - eine Forderung, die ich von Dir, Siegfried Hornung, in den letzten Wochen mehrfach gehört habe. Dies ist ein eindeutiger Erfolg der Bundesregierung.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>Auch die Milchquotenregelung wird fortgeführt. Diesbezüglich fällt meine Freude aber schon viel gedämpfter aus. Denn wir wissen, daß sich die Intention der Milchquotenregelung längst in ihr Gegenteil verkehrt hat: hohe Kostenbelastungen für die aktiven Milcherzeuger und niedrige Preise. Wenn jetzt erneut gefordert wird - so zum Beispiel vom bayerischen Landwirtschaftsminister Miller -, endlich das Altpachtproblem zu klären, kann ich nur fragen: Was hat die alte Bundesregierung, was hat die Bayerische Staatsregierung in den letzten Jahren getan, um dieses Problem zu klären?</p>
           <stage type="interjection">(Friedrich Merz [CDU/CSU]: Sie sind am Zug!)</stage>
           <p>Wir werden das angehen. Allerdings: Die Erblast der Verrechtlichung - mit 34 Änderungsverordnungen allein für den Milchbereich - stellt gerade auf diesem Gebiet eine schwere Hypothek für Veränderungen dar.</p>
@@ -1171,13 +1169,13 @@
           <p>Mit Ihrer Kritik bleiben Sie eher Ihrer Entwicklung in der Vergangenheit treu; denn die Einkommenssicherung für die Zukunft kann nicht durch Intervention und staatlich vorgegebene Preise geschehen, sondern nur durch ein erfolgreiches Bemühen am Markt. Vor allen Dingen dort liegen die Versäumnisse der alten Bundesregierung. Die Vermarktungsstrukturen in Deutschland sind in Europa, zumindest im Vergleich zu anderen wichtigen Agrarstaaten, kaum wettbewerbsfähig. Insofern geht Ihre Kritik an den Beschlüssen der Agenda 2000 ins Leere.</p>
           <p>Wir gehen davon aus, daß die Landwirtschaft in den nächsten Jahren die Vorteile und Chancen einsehen wird, die die Beschlüsse der Agenda gebracht haben. Wir als Bundesregierung werden auch künftig die Landwirtschaft weiter unterstützen.</p>
           <p>Vielen Dank.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Vizepräsidentin Petra Bläss:</speaker>
           <p>Nächster Redner ist der Kollge Peter Hintze, CDU/CSU-Fraktion.</p>
         </sp>
-        <sp who="Peter Hintze" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Peter Hintze">
+        <sp who="Peter Hintze" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Peter Hintze" party="CDU" name="Peter Hintze">
           <speaker>Peter Hintze (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine sehr geehrten Damen und Herren! Erfolg oder nicht Erfolg, das ist die Frage in dieser Debatte. Ich glaube, der bisherige Diskussionsstand hat deutlich gemacht: Das Ergebnis von Berlin hat bei kritischer und auch bei vorsichtiger Würdigung schwere Mängel.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
@@ -1210,11 +1208,11 @@
           <p>- Sie von der SPD nicken, das freut mich -, die Dinge ganz gründlich zu besprechen und bei dieser Debatte auch zu überlegen, wie wir in Deutschland durch mögliche innerstaatliche Maßnahmen, etwa im Bereich der Landwirtschaft, die gröbsten Härten für die Menschen abwenden können, die nach dem jetzigen politischen Stand der Dinge die Agenda 2000 durch massive Einkommensverluste bezahlen sollen. Die Agenda 2000 ist weiß Gott kein großer Wurf. Sie greift wesentlich zu kurz. Es kommt darauf an, daß wir mit unseren innerstaatlichen Möglichkeiten das zum Besseren korrigieren, was dieser Regierung auf europäischer Ebene nicht gelungen ist.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Vizepräsidentin Petra Bläss:</speaker>
           <p>Es spricht jetzt der Staatsminister im Auswärtigen Amt, Günter Verheugen.</p>
         </sp>
-        <sp who="Günter Verheugen" parliamentary_group="NA" role="government" position="Staatsminister im Auswärtigen Amt" party="SPD" name="Günter Verheugen">
+        <sp who="Günter Verheugen" parliamentary_group="NA" role="government" position="Staatsminister im Auswärtigen Amt" who_original="Günter Verheugen" party="SPD" name="Günter Verheugen">
           <speaker>Günter Verheugen, Staatsminister im Auswärtigen Amt:</speaker>
           <p>Frau Präsidentin! Meine sehr verehrten Damen und Herren! Ich mache einmal einen Vorschlag zur Güte: Ich glaube, daß die etwas aufgeregten Reaktionen des bayerischen Ministerpräsidenten - der hier, wie auch bei der letzten Unterrichtung der Ministerpräsidenten durch den Bundeskanzler, nicht mehr anwesend ist - und der Kollegen Haussmann und Hintze zurückgestellt werden sollten, bis wir die tatsächlichen Zahlen haben. Es hat doch gar keinen Zweck, jetzt ein Ergebnis zu beurteilen, dessen Einzelheiten niemand hier bewerten kann, weil sie nicht vorliegen. Herr Hintze, machen Sie bitte den Übersetzern keinen Vorwurf dafür, daß Sie, wenn morgens um viertel nach sechs die Verhandlun- gen abgeschlossen sind, mittags keine deutsche Fassung haben können. Wir sind froh, daß wir um sieben Uhr eine englische Fassung hatten. Das sollten Sie bitte verstehen.</p>
           <stage type="interjection">(Hans Michelbach [CDU/CSU]: Wichtig ist, daß Sie wissen, was drinsteht! Aber das wissen Sie ja gar nicht!)</stage>
@@ -1237,7 +1235,7 @@
           <p>- Schreien Sie doch nicht dazwischen. Hier geht es wirklich um ein sehr ernstes Thema. - Sie war dadurch ausgelöst worden, daß unsere französischen Partner nicht verstanden haben, warum wir das Thema Kofinanzierung auf der Tagesordnung der Agendaverhandlungen gelassen haben, obwohl Frankreich ganz klar gesagt hatte: Wir machen das unter keinen Umständen mit. - Ich muß Ihnen wirklich sagen: Das war der späteste Zeitpunkt, das Thema fallenzulassen. Frankreich hat selbstverständlich erwartet, daß der engste Partner in dem Augenblick, in dem er weiß, daß Frankreich etwas als eine Zumutung betrachtet, die es nicht akzeptieren wird, dieses Thema nicht weiter verfolgt. Wenn wir Ihrem Rat gefolgt wären, wäre das deutsch-französische Verhältnis jetzt in Trümmern. Das müssen Sie ganz deutlich sehen. Das konnte man nicht riskieren.</p>
           <stage type="interjection">(Beifall bei der SPD - Widerspruch bei der CDU/CSU)</stage>
           <p>Wenn Sie also Kritik üben wollen, daß ein ganz bestimmtes Instrument nicht angewandt werden kann, melden Sie diese Kritik bitte in Paris bei Herrn Präsident Chirac an, der ja seine Gründe hat, warum er das nicht wollte.</p>
-          <p>Bei den anderen Punkten ist es genauso. Sie tun geradezu so, als lägen hier die Elemente auf dem Tisch, und Deutschland bräuchte nur noch zuzugreifen: Wir nehmen dieses Element, wir nehmen jenes Element; dann setzen wir das zusammen, und alle anderen haben dann gefälligst zu parieren - als ginge es in Europa immer nur nach der Mütze eines einzigen Landes! Sie müssen eine Lösung finden, der 15 Staaten zustimmen können, nicht nur einer. All diese wunderschönen Elemente - wir  kennen sie und hatten sie immer im Blick - haben leider einen schwerwiegenden Nachteil: Über kein einziges dieser Instrumente konnte mit allen 15 EU-Staaten eine Einigung erreicht werden.</p>
+          <p>Bei den anderen Punkten ist es genauso. Sie tun geradezu so, als lägen hier die Elemente auf dem Tisch, und Deutschland bräuchte nur noch zuzugreifen: Wir nehmen dieses Element, wir nehmen jenes Element; dann setzen wir das zusammen, und alle anderen haben dann gefälligst zu parieren - als ginge es in Europa immer nur nach der Mütze eines einzigen Landes! Sie müssen eine Lösung finden, der 15 Staaten zustimmen können, nicht nur einer. All diese wunderschönen Elemente - wir kennen sie und hatten sie immer im Blick - haben leider einen schwerwiegenden Nachteil: Über kein einziges dieser Instrumente konnte mit allen 15 EU-Staaten eine Einigung erreicht werden.</p>
           <p>Was macht man in einem solchen Fall, angesichts einer Lage, die wir in Europa noch nie hatten: eine zurückgetretene EU-Kommission,</p>
           <stage type="interjection">(Joachim Hörster [CDU/CSU]: Eine Amateurmannschaft aus Bonn!)</stage>
           <p>eine Kosovo-Krise auf dem Höhepunkt</p>
@@ -1245,7 +1243,7 @@
           <p>und das schwierigste und umfangreichste Finanzpaket in der Geschichte der Europäischen Union auf der Tagesordnung? Gemäß Ihrem Rat hätten wir den Gipfel nach einigen Stunden abbrechen und sagen sollen: Leider können die deutschen Vorstellungen hier nicht durch- gesetzt werden, lassen wir es also sein! -</p>
           <stage type="interjection">(Friedrich Merz [CDU/CSU]: Keiner von uns hat gesagt, daß Sie ihn abbrechen sollen!)</stage>
           <p>Herr Hintze, das ist doch eine lächerliche Vorstellung.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
           <p>In einer solchen Situation steht man immer vor der Frage: Ist es dieses eine Element wert, daß in Europa ein völlig falsches Signal gesetzt wird, daß der Einigungsprozeß zum Stehen kommt, daß vielleicht sogar ein Rückschritt erfolgt? Sie würden dann genau wie ich immer sagen: Nein, der Prozeß der europäischen Einigung ist wichtiger als ein einzelnes Element. So haben wir uns verhalten; das war auch richtig so.</p>
           <p>Ich will Ihnen noch etwas sagen: Eine Reihe von Außenministern und Regierungschefs in Europa haben im vergangenen Jahr, vor der Bundestagswahl, wissen lassen, warum sie wollen, daß die Agenda 2000 unter deutscher Präsidentschaft behandelt wird. Die Agenda war alt genug; man hätte sie bereits im vergangenen Jahr abschließen können. Es war aber gewollt, daß dies unter deutscher Präsidentschaft geschieht. Was glauben Sie, warum? Dafür gibt es einen sehr einfachen Grund; darauf kann jeder leicht kommen. Der Grund war der Gedanke, daß Deutschland im Rahmen seiner Präsidentschaft in dem Zwang, einen Kompromiß anzubieten, am Ende auch bereit sein würde, diesen Kompromiß zu bezahlen.</p>
           <p>Darum war es notwendig, zu Beginn der Präsidentschaft deutlich zu machen, daß es für uns eine Grenze gibt. Diese Grenze wurde klar beschrieben: Neben der Stabilisierung und der Beachtung der Haushaltsdisziplin mußte erreicht werden, daß bezüglich der Lastenverteilung innerhalb der EU Gerechtigkeit eintritt.</p>
@@ -1257,13 +1255,13 @@
           <p>Wenn ich unter all das einen Strich ziehe, dann komme ich zu dem Ergebnis:</p>
           <stage type="interjection">(Hans Michelbach [CDU/CSU]: Desaster!)</stage>
           <p>Dieser Gipfel ist, verglichen mit vielen anderen in den zurückliegenden Jahren, der wahrscheinlich erfolgreichste Gipfel in der Geschichte deutscher EU-Präsidentschaften gewesen.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN - Lachen bei der CDU/CSU und der F.D.P.)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN - Lachen bei der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Vizepräsidentin Petra Bläss:</speaker>
-          <p>Jetzt spricht der Kollege Dr. Gerd Müller, CDU/CSU-Fraktion. </p>
+          <p>Jetzt spricht der Kollege Dr. Gerd Müller, CDU/CSU-Fraktion.</p>
         </sp>
-        <sp who="Dr. Gerd Müller" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CSU" name="Gerd Müller">
+        <sp who="Gerd Müller" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Gerd Müller" party="CSU" name="Gerd Müller">
           <speaker>Dr. Gerd Müller (CDU/CSU):</speaker>
           <p>Herr Staatsminister Verheugen, nach einem solchen Gipfel leidet man offensichtlich ein wenig an Wahrnehmungsstörungen. Man erkennt nicht, wie die Wirklichkeit aussieht.</p>
           <stage type="interjection">(Dr. Peter Ramsauer [CDU/CSU]: So ist es!)</stage>
@@ -1291,11 +1289,11 @@
           <p>Herzlichen Dank.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU und der F.D.P. - Dr. Jürgen Meyer [Ulm] [SPD]: Da lacht sogar Herr Stoiber!)</stage>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Vizepräsidentin Petra Bläss:</speaker>
           <p>Es spricht jetzt der Kollege Dr. Helmut Lippelt, Bündnis 90/Die Grünen.</p>
         </sp>
-        <sp who="Dr. Helmut Lippelt" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Helmut Lippelt">
+        <sp who="Helmut Lippelt" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Helmut Lippelt" party="GRUENE" name="Helmut Lippelt">
           <speaker>Dr. Helmut Lippelt (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Ich komme zu dem ernsteren Thema zurück. Wir haben hier gestern und heute Worte leidenschaftlicher Empörung und der Anklage von Herrn Gysi für seine Fraktion</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Scheinheilig!)</stage>
@@ -1316,14 +1314,14 @@
           <p>Das Regime begeht ja Morde am ethnisch andersartigen, aber staatsrechtlich eigenen Volk. Das ist das Problem. Ich möchte den Kollegen Gysi gern fragen, ob er denn glaubt, daß eine wirkliche Weltfriedensordnung, die wir ja alle erst entwickeln müssen, innerstaatlichen Völkermord übersehen kann. Ich glaube, sie kann es nicht, meine Freunde glauben es auch nicht. Deshalb trägt die Mehrheit meiner Fraktion diesen Einsatz mit, auch wenn wir beschimpft werden mit den Worten, daß das ein erstmaliger deutscher Kriegseinsatz sei.</p>
           <stage type="interjection">(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD, der CDU/CSU und der F.D.P.)</stage>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Vizepräsidentin Petra Bläss:</speaker>
-          <p>Es spricht jetzt der Bundesminister der Verteidigung, Rudolf Scharping. </p>
+          <p>Es spricht jetzt der Bundesminister der Verteidigung, Rudolf Scharping.</p>
         </sp>
-        <sp who="Rudolf Scharping" parliamentary_group="NA" role="government" position="Bundesminister der Verteidigung" party="SPD" name="Rudolf Scharping">
+        <sp who="Rudolf Scharping" parliamentary_group="NA" role="government" position="Bundesminister der Verteidigung" who_original="Rudolf Scharping" party="SPD" name="Rudolf Scharping">
           <speaker>Rudolf Scharping, Bundesminister der Verteidigung:</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Es ist richtig, daß wir im Zusammenhang mit Europa auch über das Kosovo reden. Denn was wir in Europa, zunächst in seinem westlichen Teil, als ein einzigartiges Modell an Zivilisation und Friedenssicherung durch Integration zu schätzen gelernt haben, ist ja Ergebnis schwerer Prüfungen. Manches für die Zukunft erwächst offenbar nur aus solchen schweren Prüfungen.</p>
-          <p>Die Bundesregierung ist davon überzeugt, daß wir den Idealen der europäischen Aufklärung, des europäischen Humanismus ins Gesicht schlagen würden, wenn wir nach der Methode verfahren würden, die uns gestern anempfohlen wurde. Diese Methode lautet: Wenn zehn Menschen zu ertrinken drohen und ich nur einen retten kann, lasse ich es lieber ganz bleiben; dann sind jedenfalls alle gleichbehandelt. - Diese zynische Argumentation nimmt nicht zur Kenntnis, daß man einerseits für Menschenrechte, für Freiheit und für Demokratie mit einem durchaus weltweiten, nämlich universellen Anspruch eintritt und andererseits weiß, welche begrenzten Handlungsmöglichkeiten man hat, gerade militärisch.  Wer aus diesem Dilemma den Schluß zieht, seine Verantwortung überhaupt nicht mehr wahrzunehmen, seine Handlungsmöglichkeiten überhaupt nicht mehr einzusetzen, der handelt, Herr Kollege Gysi, in meinen Augen völlig verantwortungslos.</p>
+          <p>Die Bundesregierung ist davon überzeugt, daß wir den Idealen der europäischen Aufklärung, des europäischen Humanismus ins Gesicht schlagen würden, wenn wir nach der Methode verfahren würden, die uns gestern anempfohlen wurde. Diese Methode lautet: Wenn zehn Menschen zu ertrinken drohen und ich nur einen retten kann, lasse ich es lieber ganz bleiben; dann sind jedenfalls alle gleichbehandelt. - Diese zynische Argumentation nimmt nicht zur Kenntnis, daß man einerseits für Menschenrechte, für Freiheit und für Demokratie mit einem durchaus weltweiten, nämlich universellen Anspruch eintritt und andererseits weiß, welche begrenzten Handlungsmöglichkeiten man hat, gerade militärisch. Wer aus diesem Dilemma den Schluß zieht, seine Verantwortung überhaupt nicht mehr wahrzunehmen, seine Handlungsmöglichkeiten überhaupt nicht mehr einzusetzen, der handelt, Herr Kollege Gysi, in meinen Augen völlig verantwortungslos.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
           <p>Ich weiß nicht, wie es anderen Mitgliedern in diesem Hause geht, aber ich erinnere mich sehr gut an Erfahrungen, die im Jahre 1968 begonnen haben. Das ist übrigens ein Umstand, den Sie gestern wohlweislich verschwiegen haben: diese eigenartige Form des sozialistischen Internationalismus, die es da gegeben hat.</p>
           <stage type="interjection">(Zuruf von der PDS: Auf der Schiene bewegen Sie sich!)</stage>
@@ -1356,15 +1354,15 @@
           <p>Das kann man nicht machen. Das ist nicht verantwortbar.</p>
           <stage type="interjection">(Beifall bei der SPD, dem BÜNDNIS 90/DIE GRÜNEN und der F.D.P.)</stage>
           <p>Wir müssen auch keine Diskussionen über Themen führen, die wirklich keine Themen sind. Wenn jemand beginnt, Befürchtungen auszuräumen, die er selbst in die Welt gesetzt hat, dann ist das sein höchst privates Anliegen. Das soll er dann auch tun. Aber die Wirkung solcher geäußerten Befürchtungen auf die Öffentlichkeit und auf die eingesetzten Soldaten und ihre Familien sollten doch vorher sorgfältig bedacht werden.</p>
-          <p>Ich habe in diesem Hause einige Male dafür geworben, daß es einen außen- und sicherheitspolitischen Konsens in Deutschland gibt. Ich halte ihn aus vielen Gründen für wertvoll. Er bewährt sich unter anderem in der jetzigen Situation. Für Deutschland ist dies eine Prüfung und zugleich mit Blick auf seine Geschichte eine gute Erfahrung, daß es sich zum erstenmal in einer so schwierigen Situation in völliger Übereinstimmung mit 2608 Deutscher Bundestag - 14. Wahlperiode - 31. Sitzung. Bonn, Freitag, den 26. März 1999 Deutscher Bundestag - 14. Wahlperiode - 31. Sitzung. Bonn, Freitag, den 26. März 1999 2601 Deutscher Bundestag - 14. Wahlperiode - 245. Sitzung, Bonn, Donnerstag, den 25. Juni 1998 2607 Europa und mit den westlichen Demokratien befindet. Es sollte uns allen bewußt bleiben: Wenn diese schwierige Zeit vorbei ist - hoffentlich bald; es liegt an Milosevic -, dann müssen Voraussetzungen für eine andere Zeit geschaffen werden, die den Menschen eine größere Hoffnung vermittelt und die anknüpft an die Erfahrungen, die wir in den letzten Jahrzehnten Gott sei Dank sammeln konnten.</p>
+          <p>Ich habe in diesem Hause einige Male dafür geworben, daß es einen außen- und sicherheitspolitischen Konsens in Deutschland gibt. Ich halte ihn aus vielen Gründen für wertvoll. Er bewährt sich unter anderem in der jetzigen Situation. Für Deutschland ist dies eine Prüfung und zugleich mit Blick auf seine Geschichte eine gute Erfahrung, daß es sich zum erstenmal in einer so schwierigen Situation in völliger Übereinstimmung mit Europa und mit den westlichen Demokratien befindet. Es sollte uns allen bewußt bleiben: Wenn diese schwierige Zeit vorbei ist - hoffentlich bald; es liegt an Milosevic -, dann müssen Voraussetzungen für eine andere Zeit geschaffen werden, die den Menschen eine größere Hoffnung vermittelt und die anknüpft an die Erfahrungen, die wir in den letzten Jahrzehnten Gott sei Dank sammeln konnten.</p>
           <p>Vielen Dank.</p>
           <stage type="interjection">(Anhaltender Beifall bei der SPD und beim BÜNDNIS 90/DIE GRÜNEN - Beifall bei der F.D.P. sowie bei Abgeordneten der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Vizepräsidentin Petra Bläss:</speaker>
           <p>Zu einer Kurzintervention erteile ich dem Kollegen Dr. Gregor Gysi das Wort.</p>
         </sp>
-        <sp who="Dr. Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" party="PDS" name="Gregor Gysi">
+        <sp who="Gregor Gysi" parliamentary_group="PDS" role="mp" position="NA" who_original="Gregor Gysi" party="PDS" name="Gregor Gysi">
           <speaker>Dr. Gregor Gysi (PDS):</speaker>
           <p>Herr Bundesverteidigungsminister, Sie haben mich unter anderem dafür kritisiert, daß ich gestern nicht auf den Einmarsch in die CSSR und auch nicht auf das Kriegsrecht in Polen eingegangen bin. Es gab für mich zumindest gestern dafür auch keinen Grund. Aber ich will das gerne tun.</p>
           <p>Der Einmarsch der damaligen Sowjetunion und der anderen Länder des Warschauer Pakts mit Ausnahme von Rumänien in die CSSR war ein klarer Verstoß gegen das Völkerrecht. Er war nach meiner tiefsten Überzeugung übrigens auch völlig antisozialistisch und deshalb scharf zu verurteilen.</p>
@@ -1376,12 +1374,12 @@
           <p>Wenn man das überwinden und demokratischer gestalten will, wenn man dadurch auch zu einer anderen Friedensordnung kommen will, dann ist dagegen nichts zu sagen. Nur, wir haben es nicht wirklich überwunden, wir haben keine neue Friedensordnung. Wir schaffen die alte Ordnung ab und setzen keine neue Ordnung an die Stelle, sondern nur das Recht der militärischen Macht und des Geldes. Das werden sich noch ganz andere in ganz anderen Situationen herausnehmen. Davor wird man doch wenigstens warnen dürfen. Darum ging es mir, weil ich glaube, daß hinterher diese Welt eine andere sein wird, als sie es vorher war. Ich glaube nicht an den Krieg als Mittel der Politik.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Vizepräsidentin Petra Bläss:</speaker>
           <p>Zu einer weiteren Kurzintervention erteile ich dem Kollegen Paul Breuer, CDU/CSU-Fraktion, das Wort.</p>
           <stage type="interjection">(Rezzo Schlauch [BÜNDNIS 90/DIE GRÜNEN]: Wo ist denn Herr Rühe? Gestern war er auch nicht da!)</stage>
         </sp>
-        <sp who="Paul Breuer" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Paul Breuer">
+        <sp who="Paul Breuer" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Paul Breuer" party="CDU" name="Paul Breuer">
           <speaker>Paul Breuer (CDU/CSU):</speaker>
           <p>Frau Präsidentin! Meine Damen und Herren! Ohne jeden Zweifel und ohne jeden Vorbehalt können wir dem Sinn dessen, was Bundesverteidigungsminister Scharping gesagt hat, zustimmen.</p>
           <stage type="interjection">(Ingrid Matthäus-Maier [SPD]: Sehr gut!)</stage>
@@ -1404,26 +1402,25 @@
           <p>Wir sollten uns hier gegenseitig versichern, daß wir auch dann, wenn etwas schiefgeht und deutsche Soldaten zu Schaden kommen, dazu bereit sind, grundsätzliche Solidarität zu üben und nicht in etwas zu verfallen, was nicht nur unseren Soldaten, sondern uns alle in erheblicher Weise belasten könnte. Das ist das eigentlich Wichtige.</p>
           <stage type="interjection">(Beifall bei der CDU/CSU)</stage>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Vizepräsidentin Petra Bläss:</speaker>
           <p>Zu Erwiderung Herr Bundesminister Scharping, bitte.</p>
         </sp>
-        <sp who="Rudolf Scharping" parliamentary_group="NA" role="government" position="Bundesminister der Verteidigung" party="SPD" name="Rudolf Scharping">
+        <sp who="Rudolf Scharping" parliamentary_group="NA" role="government" position="Bundesminister der Verteidigung" who_original="Rudolf Scharping" party="SPD" name="Rudolf Scharping">
           <speaker>Rudolf Scharping, Bundesminister der Verteidigung:</speaker>
           <p>Herr Kollege Breuer, damit wir uns nicht falsch verstehen: Ich kann gut nachvollziehen, daß es andere Verpflichtungen gibt. Gestatten Sie mir - bei allem Respekt und bei aller Wertschätzung einer Grundsolidarität - eine offene Bemerkung: Wenn die Fülle der Interviews mit der Fülle der Abwesenheit stark korreliert, dann ist es etwas schwierig, noch miteinander zu reden.</p>
           <stage type="interjection">(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
           <p>Ansonsten geht es mir um einen einzigen Punkt, der mit Konsensdruck überhaupt nichts zu tun hat: Man sollte sehr vorsichtig damit umgehen, Fragen aufzuwerfen, in denen alle beteiligten Staaten - die Bundesrepublik Deutschland, Frankreich, Großbritannien oder die USA - einig sind. Auch die amerikanische Außenministerin Madeleine Albright hat es gerade noch einmal öffentlich gesagt: Wir haben nicht die Absicht, über die vorhandenen Mandate hinauszugehen.</p>
           <p>Es wäre ganz gut, keine Befürchtung in die Welt zu setzen, um am Ende als derjenige auftreten zu können, der die Grenze gegen diese Befürchtung gezogen hat. Denn damit wird unterstellt - das macht, wohlgemerkt, nur in dieser Frage den Konsens etwas schwierig -, andere hätten möglicherweise die Absicht, die hinter dieser Befürchtung steht. Wie Sie vielleicht verstehen, lasse ich mir das nicht so gerne gefallen.</p>
-          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</stage>
+          <stage type="interjection">(Beifall bei der SPD und dem BÜNDNIS 90/ DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Vizepräsidentin Petra Bläss:</speaker>
           <p>Als nächster Redner hat das Wort der Kollege Christian Ströbele, Bünd-</p>
           <p>nis 90/Die Grünen.</p>
-        </sp>
-        <sp who="Hans-Christian Ströbele" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Hans-Christian Ströbele">
-          <speaker>Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN):</speaker>
-          <p>Frau Präsidentin! Verehrte Kolleginnen und Kollegen! Verehrte Damen und Herren! Ich spreche jetzt für die Frauen - vor allen Dingen - und Männer meiner Fraktion, die sich schon in der letzten und auch in dieser Legislaturperiode immer konsequent gegen den Einsatz deutscher Soldaten out of area eingesetzt haben und dies auch bei ihrem Stimmverhalten hier im Hause gezeigt haben.</p>
+          <p>Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜ-</p>
+          <p>NEN): Frau Präsidentin! Verehrte Kolleginnen und Kollegen! Verehrte Damen und Herren! Ich spreche jetzt für die Frauen - vor allen Dingen - und Männer meiner Fraktion, die sich schon in der letzten und auch in dieser Legislaturperiode immer konsequent gegen den Einsatz deutscher Soldaten out of area eingesetzt haben und dies auch bei</p>
+          <p>ihrem Stimmverhalten hier im Hause gezeigt haben.</p>
           <p>Herr Bundesminister, auch ich bin geprägt von einer jahrelangen Ohnmacht. Ich kann Ihre Gefühle nachvollziehen. Meine Ohnmacht bestand darin, daß ich Jahre vor dem Fernseher saß und mit ansehen mußte, wie in Vietnam ein Krieg geführt wurde, der - ich will versuchen, das neutral zu formulieren -</p>
           <stage type="interjection">(Zuruf von der CDU/CSU: Das ist es jetzt schon nicht mehr!)</stage>
           <p>Hunderttausende von Menschen das Leben kostete, während wir hier in Europa saßen und daran nichts ändern konnten. Ich habe die Forderung der Friedensbewegung "Nie wieder Krieg!" immer so verstanden - das will ich klarstellend zu dem sagen, was ich gestern geäußert habe und was zum Teil kritisiert worden ist -, daß ich mich mit meinem politischen Handeln, mit meinem ganzen politischen Engagement dafür einsetze, daß sich deutsche Soldaten an keinem Krieg mehr beteiligen.</p>
@@ -1442,17 +1439,18 @@
           <p>Auch wir überlegen uns natürlich, was man machen kann. Von unserem Minister ist vorhin darauf hingewiesen worden: Wenn Milosevic und die Serben erklären, auch sie wollen die Autonomie hinnehmen, akzeptieren und garantieren, dann kann man sofort telefonieren und das Ganze abbrechen.</p>
           <p>Ich sage Ihnen aber - das kann man jeden Tag in der Zeitung lesen -: Die Sache scheitert doch für den Kosovo im Augenblick nicht an der Frage der Autonomie, wenigstens nicht verbal. Vielmehr gibt es keinen anderen Weg, als NATO-Truppen im Kosovo zu implantieren oder einrücken zu lassen und dort zu stationieren. Das ist doch das Entscheidende. Da frage ich mich: Mußte man sich den Forderungen der UCK und denen der USA so weit unterwerfen, daß man über andere Möglichkeiten wie etwa über die Stationierung einer Friedenstruppe unter UNO-Mandat überhaupt nicht mehr diskutiert hat?</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
-          <p>Muß man sich auch heute noch so weit unterwerfen, daß man von Milosevic fordert: Wenn du die sofortige Implantierung von UNO-Truppen im Kosovo nicht sofort akzeptierst, dann bomben wir weiter? Heißt das wirklich, daß Sie sagen, die Entscheidung liegt allein bei Milosevic? Müssen er und die serbische Regierung sich in dieser Weise unterwerfen? Oder können wir nicht eine sofortige Beendigung des Bombardements, natürlich eine sofortige Beendigung der Gewalttätigkeiten der Serben im Kosovo, einen Wiederbeginn von Verhandlungen fordern mit dem Ziel, eine abgesicherte Autonomie für den Kosovo zu garantieren? Wir können doch nicht nur mit diesem Prestigedenken sagen: Es geht nicht anders als mit den Truppen der NATO.</p>
+          <p>Muß man sich auch heute noch so weit unterwerfen, daß man von Milosevic fordert: Wenn du die sofortige Implantierung von UNO-Truppen im Kosovo nicht sofort akzeptierst, dann bomben wir weiter? Heißt das wirklich, daß Sie sagen, die Entscheidung liegt allein bei Milosevic? Müssen er und die serbische Regierung sich in dieser Weise unterwerfen? Oder können wir nicht</p>
+          <p>eine sofortige Beendigung des Bombardements, natürlich eine sofortige Beendigung der Gewalttätigkeiten der Serben im Kosovo, einen Wiederbeginn von Verhandlungen fordern mit dem Ziel, eine abgesicherte Autonomie für den Kosovo zu garantieren? Wir können doch nicht nur mit diesem Prestigedenken sagen: Es geht nicht anders als mit den Truppen der NATO.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
           <p>Würde man diesen Vorschlag heute machen, hätten wir eine Chance, daß dieses Töten, daß der Krieg dort beendet werden könnte.</p>
           <p>Ich bitte Sie, ich fordere die Bundesregierung auf: Stellen Sie diesen Krieg und unsere deutsche Beteiligung ein! Beenden Sie das Ganze! Versuchen Sie, auf dem Verhandlungsweg weiterzukommen. Die Situation der Menschen im Kosovo würde sich dadurch sofort verbessern.</p>
           <stage type="interjection">(Beifall der Abg. Annelie Buntenbach [BÜND- NIS 90/DIE GRÜNEN] sowie bei der PDS)</stage>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Vizepräsidentin Petra Bläss:</speaker>
           <p>Zu einer Kurzintervention erteile ich dem Kollegen Gernot Erler das Wort.</p>
         </sp>
-        <sp who="Gernot Erler" parliamentary_group="SPD" role="mp" position="NA" party="SPD" name="Gernot Erler">
+        <sp who="Gernot Erler" parliamentary_group="SPD" role="mp" position="NA" who_original="Gernot Erler" party="SPD" name="Gernot Erler">
           <speaker>Gernot Erler (SPD):</speaker>
           <p>Herr Kollege Ströbele, ich bin Ihnen dankbar, daß Sie heute im Deutschen Bundestag etwas leisere Töne angeschlagen haben als gestern. Wir wissen ja auch, daß Sie hier nicht die Mehrheitsmeinung Ihrer Fraktion vertreten. Aber Ihre Äußerungen können nicht ohne Hinterfragung im Raum stehenbleiben.</p>
           <p>Sie haben im Grunde genommen noch einmal behauptet, daß es eine Alternative dazu gegeben hätte,</p>
@@ -1471,11 +1469,11 @@
           <p>Eine Voraussetzung dafür ist, daß dieser furchtbare Krieg, der von serbischer Seite und leider in serbischem Namen geführt wird, aufhört. Dieses Signal muß von dort kommen.</p>
           <stage type="interjection">(Beifall bei der SPD, der CDU/CSU und der F.D.P. sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Vizepräsidentin Petra Bläss:</speaker>
           <p>Zur Erwiderung Herr Kollege Ströbele, bitte.</p>
         </sp>
-        <sp who="Hans-Christian Ströbele" parliamentary_group="BÜNDNIS 90/DIE GRÜNEN" role="mp" position="NA" party="Bündnis 90/Die Grünen" name="Hans-Christian Ströbele">
+        <sp who="Hans-Christian Ströbele" parliamentary_group="GRUENE" role="mp" position="NA" who_original="Hans-Christian Ströbele" party="GRUENE" name="Hans-Christian Ströbele">
           <speaker>Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN):</speaker>
           <p>Ich freue mich, daß wir endlich zum Austausch von Argumenten kommen und nicht bei Polemik hängenbleiben.</p>
           <p>Herr Kollege, ich sehe das anders. Sie haben die Situation so geschildert, wie auch ich sie nie gewollt habe. Ich würde nie sagen: Lassen wir das alles! Nur, wir befinden uns im Augenblick im Krieg. Wenn man einen Krieg beenden will - das ist immer so gewesen und sollte auch jetzt so sein -, sollte man als erstes sagen: Wir lassen die Waffen auf beiden Seiten schweigen. Wir treffen eine Übereinkunft; ab dieser Stunde gibt es keinen Waffengang mehr.</p>
@@ -1494,7 +1492,7 @@
           <p>Deshalb nochmals mein Appell: Stellen Sie die Luftangriffe ein, setzen Sie sich in der NATO dafür ein, daß das auch die anderen tun, und beginnen Sie morgen wieder mit Verhandlungen! Jeder Tag Verhandlungen - selbst wenn er noch so mühselig ist - ist besser als das, was im Augenblick im Kosovo passiert.</p>
           <stage type="interjection">(Beifall bei der PDS)</stage>
         </sp>
-        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" party="PDS" name="Petra Bläss">
+        <sp who="Petra Bläss" parliamentary_group="NA" role="presidency" position="Vizepräsidentin" who_original="Petra Bläss" party="PDS" name="Petra Bläss-Rafajlovski">
           <speaker>Vizepräsidentin Petra Bläss:</speaker>
           <p>Ich schließe die Aussprache.</p>
           <p>Der Entschließungsantrag der Fraktion der CDU/CSU auf der Drucksache 14/675 soll zur federführenden Beratung an den Ausschuß für die Angelegenheiten der</p>
@@ -1502,6 +1500,7 @@
           <p>Wir kommen jetzt zur Abstimmung über den Entschließungsantrag der Fraktion der PDS auf der Drucksache 14/669. Wer stimmt für diesen Entschließungsantrag? - Gegenprobe! - Enthaltungen? - Der Entschließungsantrag ist gegen die Stimmen der PDS-Fraktion bei einer Enthaltung aus der Fraktion Bündnis 90/Die Grünen abgelehnt.</p>
           <p>Wir sind damit am Schluß unserer Tagesordnung. Ich berufe die nächste Sitzung des Deutschen Bundestages auf Montag, den 19. April 1999, 12 Uhr ein. Diese Sitzung wird in Berlin durchgeführt.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluß: 15.31 Uhr)</stage>
         </sp>
       </div>
     </body>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -9,9 +9,9 @@
       </titleStmt>
       <editionStmt>
         <edition>
-          <package>ctk.plpr.bt.pdf</package>
-          <version>0.2.3</version>
-          <birthday>2016-03-21</birthday>
+          <package>frappp</package>
+          <version>0.4.1.9010</version>
+          <birthday>2023-05-17</birthday>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -22,7 +22,7 @@
       <sourceDesc>
         <filetype>pdf</filetype>
         <url>http://dipbt.bundestag.de/doc/btp/17/17002.pdf</url>
-        <date>07.10.15 19:34</date>
+        <date>2015-10-07</date>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -35,15 +35,17 @@
   </teiHeader>
   <text>
     <body>
-      <div type="agenda_item" n="1" what="" desc="(Beifall bei der CDU/CSU und der FDP) ">
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+      <div type="agenda_item" n="1" what="debate" desc="Debatte">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Nehmen Sie bitte Platz. Die Sitzung ist eröffnet.</p>
           <p>Guten Morgen, liebe Kolleginnen und Kollegen, ich begrüße Sie alle herzlich zur zweiten Sitzung des Deutschen Bundestages in der neuen Legislaturperiode.</p>
-          <p>Ich rufe den Tagesordnungspunkt 1 auf: Wahl der Bundeskanzlerin Dazu hat mir der Herr Bundespräsident mitgeteilt: Gemäß Artikel 63 Absatz 1 des Grundgesetzes für die Bundesrepublik Deutschland schlage ich dem Deutschen Bundestag vor, Frau Dr. Angela Merkel zur Bundeskanzlerin zu wählen.</p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP) </stage>
+          <p>Ich rufe den Tagesordnungspunkt 1 auf:</p>
+          <p>Wahl der Bundeskanzlerin Dazu hat mir der Herr Bundespräsident mitgeteilt:</p>
+          <p>Gemäß Artikel 63 Absatz 1 des Grundgesetzes für die Bundesrepublik Deutschland schlage ich dem Deutschen Bundestag vor, Frau Dr. Angela Merkel zur Bundeskanzlerin zu wählen.</p>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
           <p>Eine besondere Überraschung scheint dieser Vorschlag nicht auszulösen.</p>
-          <stage type="interjection">(Heiterkeit) </stage>
+          <stage type="interjection">(Heiterkeit)</stage>
           <p>Ich bitte nun um Aufmerksamkeit für einige Hinweise zu unserem Wahlverfahren. Zu dieser Wahl sind die Stimmen der Mehrheit der Mitglieder des Bundestages, also mindestens 312 Stimmen, erforderlich. Nach unserer Geschäftsordnung wird die Bundeskanzlerin mit verdeckten Stimmkarten, also geheim, gewählt. Sie benötigen für die Wahl einen Wahlausweis, den Sie, soweit noch nicht geschehen, in Ihren Stimmkartenfächern vorfinden. Bitte kontrollieren Sie, ob der Wahlausweis Ihren Namen trägt. Die für die Wahl gültige Stimmkarte und den amtlichen Wahlumschlag erhalten Sie nach Aufruf Ihres Namens von den Schriftführerinnen und Schriftführern an den Ausgabetischen hier oben links und rechts neben den Wahlkabinen. Um einen reibungslosen Ablauf zu ermöglichen, bitte ich Sie, genauso wie gestern von Ihren Plätzen aus über die seitlichen Zugänge und nicht durch den Mittelgang zu den Ausgabetischen zu gehen.</p>
           <p>Nachdem Sie die Stimmkarte in eine der Wahlkabinen gekennzeichnet und in den Wahlumschlag gelegt haben, gehen Sie bitte zu den Wahlurnen hier vor dem Rednerpult. Sie dürfen Ihre Stimmkarte nur in der Wahlkabine ankreuzen und müssen ebenfalls noch in der Wahlkabine die Stimmkarte in den Umschlag legen. Die Schriftführerinnen und Schriftführer sind verpflichtet, jeden, der seine Stimmkarte außerhalb der Wahlkabine kennzeichnet oder in den Umschlag legt, zurückzuweisen. Immerhin besteht in diesem Fall noch die Möglichkeit einer ordnungsgemäßen Wiederholung der gerade beschriebenen Prozedur.</p>
           <p>Gültig sind nur Stimmkarten mit einem Kreuz bei „ja“, „nein“ oder „enthalte mich“. Ungültig sind Stimmen auf nichtamtlichen Stimmkarten oder solchen Stimmkarten, die mehr als ein Kreuz, andere Namen oder Zusätze enthalten.</p>
@@ -52,233 +54,277 @@
           <p>Darf ich um ein Signal bitten, ob die Schriftführerinnen und Schriftführer ihre Plätze bereits eingenommen haben? – Das ist der Fall.</p>
           <p>Der Kollege Winkler macht mich darauf aufmerksam, dass an der Urne links von mir die Regierung fehle. Das halte ich für ein doppeltes Missverständnis. Die Regierung fehlt bei diesem Wahlgang sicher nicht, aber vielleicht ein Vertreter der Koalition. Das sollten wir vielleicht komplettieren. – Sehr gut. Nun ist auch diesem liebenswürdigen Wunsch der Opposition Rechnung getragen.</p>
           <p>Damit eröffne ich den Wahlgang und bitte, mit dem Aufruf der Namen zu beginnen.</p>
-          <stage type="interjection">(Namensaufruf und Wahl) </stage>
+          <stage type="interjection">(Namensaufruf und Wahl)</stage>
           <p>Liebe Kolleginnen und Kollegen, ich frage Sie, ob irgendein Mitglied des Hauses anwesend ist, das seine Stimmkarte noch nicht abgegeben hat. – Ich habe den Eindruck, dass inzwischen auch die Schriftführerinnen und Schriftführer ihre Stimmkarten abgegeben haben.</p>
           <p>Gibt es daran von irgendeiner Seite Widerspruch oder Zweifel? – Das ist nicht der Fall. Dann schließe ich hiermit den Wahlgang.</p>
           <p>Für die Auszählung der Stimmen unterbreche ich die Sitzung für voraussichtlich etwa 20 Minuten. Wir werden nach Auszählung der Stimmen in geeigneter Weise akustisch darauf aufmerksam machen, dass die Sitzung zur Bekanntgabe des Ergebnisses wieder eröffnet wird.</p>
           <p>Die Sitzung ist unterbrochen.</p>
-          <stage type="interjection">(Unterbrechung von 10.34 bis 10.58 Uhr) </stage>
+          <stage type="interjection">(Unterbrechung von 10.34 bis 10.58 Uhr)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Liebe Kolleginnen und Kollegen, ich bitte Sie, wieder Platz zu nehmen, und teile Ihnen dann das Ergebnis des Wahlgangs mit. – Abgegebene Stimmen 612, davon ungültig keine. Mit Ja haben gestimmt 323 Mitglieder des Hauses.</p>
-          <stage type="interjection">(Langanhaltender Beifall bei der CDU/CSU und der FDP) </stage>
+          <stage type="interjection">(Langanhaltender Beifall bei der CDU/CSU und der FDP)</stage>
           <p>Mit Nein gestimmt haben 285 Mitglieder des Hauses.</p>
-          <stage type="interjection">(Beifall bei Abgeordneten der LINKEN) </stage>
-          <p>– Das mit den geheimen Abstimmungen hatten wir schon einmal. – </p>
-          <stage type="interjection">(Heiterkeit) </stage>
-          <p>Enthaltungen gab es 4.1) Nach Art. 63 Abs. 2 des Grundgesetzes ist zur Bundeskanzlerin gewählt, wer die Stimmen der Mehrheit der Mitglieder des Bundestages auf sich vereinigt. Ich stelle fest, dass Frau Dr. Angela Merkel mit der erforderlichen Mehrheit der Stimmen der Mitglieder des Deutschen Bundestages zur Bundeskanzlerin der Bundesrepublik Deutschland gewählt ist. Ich darf Sie fragen, Frau Abgeordnete Dr. Merkel: Nehmen Sie diese Wahl an?</p>
-        </sp>
-        <sp who="Dr. Angela Merkel" parliamentary_group="CDU/CSU" role="mp" position="NA" party="CDU" name="Angela Merkel">
-          <speaker>Dr. Angela Merkel (CDU/CSU):</speaker>
-          <p>Herr Präsident, ich nehme die Wahl an und bedanke mich für das Vertrauen.</p>
-          <stage type="interjection">(Langanhaltender Beifall bei der CDU/CSU und der FDP – Die Abgeordneten der CDU/CSU und der FDP erheben sich – Abgeordnete aller Fraktionen beglückwünschen Abg. Dr. Angela Merkel [CDU/CSU]) </stage>
-        </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
-          <speaker>Präsident Dr. Norbert Lammert:</speaker>
-          <p>Frau Bundeskanzlerin, im Namen all der Kolleginnen und Kollegen des Hauses, die Ihnen noch nicht persönlich ihre Aufwartung machen konnten, möchte ich Ihnen ganz herzlich die Glückwünsche des ganzen Hauses zu 1)Verzeichnis der Teilnehmer der Abstimmung siehe Anlage 2.</p>
-          <p>Ihrer Wahl übermitteln und auch ganz persönlich für die Bewältigung der großen Aufgabe, die vor Ihnen liegt, Kraft, Erfolg und Gottes Segen wünschen.</p>
-          <stage type="interjection">(Beifall im ganzen Hause) </stage>
-          <p>Das Ergebnis der Wahl werde ich unverzüglich dem Herrn Bundespräsidenten mitteilen. Nach Ausfertigung und Überreichung der Urkunde findet die Vereidigung der Kanzlerin um 13 Uhr hier im Plenarsaal statt.</p>
-          <p>Bis dahin unterbreche ich die Sitzung.</p>
-          <stage type="interjection">(Unterbrechung von 11.04 bis 13.01 Uhr) </stage>
-        </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
-          <speaker>Präsident Dr. Norbert Lammert:</speaker>
-          <p>Die unterbrochene Sitzung ist wieder eröffnet.</p>
-          <p>Ich rufe den Tagesordnungspunkt 2 auf: Eidesleistung der Bundeskanzlerin Der Herr Bundespräsident hat mir mit Schreiben vom heutigen Tage mitgeteilt:  Gemäß Artikel 63 Absatz 2 des Grundgesetzes für die Bundesrepublik Deutschland habe ich heute Frau Dr. Angela Merkel zur Bundeskanzlerin ernannt.</p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN) </stage>
-          <p>Nach Art. 64 Abs. 2 des Grundgesetzes leistet die Bundeskanzlerin bei der Amtsübernahme vor dem Deutschen Bundestag den in Art. 56 des Grundgesetzes vorgesehenen Eid.</p>
-          <p>Frau Bundeskanzlerin, ich bitte Sie, zur Eidesleistung zu mir zu kommen.</p>
-          <stage type="interjection">(Die Anwesenden erheben sich) </stage>
+          <stage type="interjection">(Beifall bei Abgeordneten der LINKEN)</stage>
+          <p>– Das mit den geheimen Abstimmungen hatten wir schon einmal. –</p>
+          <stage type="interjection">(Heiterkeit)</stage>
+          <p>Enthaltungen gab es 4. 1)</p>
+          <p>Nach Art. 63 Abs. 2 des Grundgesetzes ist zur Bundeskanzlerin gewählt, wer die Stimmen der Mehrheit der Mitglieder des Bundestages auf sich vereinigt. Ich stelle fest, dass Frau Dr. Angela Merkel mit der erforderlichen Mehrheit der Stimmen der Mitglieder des Deutschen Bundestages zur Bundeskanzlerin der Bundesrepublik Deutschland gewählt ist. Ich darf Sie fragen, Frau Abgeordnete Dr. Merkel: Nehmen Sie diese Wahl an?</p>
         </sp>
       </div>
-      <div type="agenda_item" n="2" what="" desc="(Beifall bei der CDU/CSU und der FDP sowie bei Abgeordneten des BÜNDNISSES 90/DI...">
-        <sp who="Dr. Angela Merkel" parliamentary_group="NA" role="government" position="Bundeskanzlerin" party="CDU" name="Angela Merkel">
+      <div type="agenda_item" n="2" what="debate" desc="Debatte">
+        <sp who="Angela Merkel" parliamentary_group="CDU/CSU" role="mp" position="NA" who_original="Angela Merkel" party="CDU" name="Angela Merkel">
+          <speaker>Dr. Angela Merkel (CDU/CSU):</speaker>
+          <p>Herr Präsident, ich nehme die Wahl an und bedanke mich für das Vertrauen.</p>
+          <stage type="interjection">(Langanhaltender Beifall bei der CDU/CSU und der FDP – Die Abgeordneten der CDU/ CSU und der FDP erheben sich – Abgeordnete aller Fraktionen beglückwünschen Abg. Dr. Angela Merkel [CDU/CSU])</stage>
+        </sp>
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
+          <speaker>Präsident Dr. Norbert Lammert:</speaker>
+          <p>Frau Bundeskanzlerin, im Namen all der Kolleginnen und Kollegen des Hauses, die Ihnen noch nicht persönlich ihre Aufwartung machen konnten, möchte ich Ihnen ganz herzlich die Glückwünsche des ganzen Hauses zu 1) Verzeichnis der Teilnehmer der Abstimmung siehe Anlage 2.</p>
+          <p>Ihrer Wahl übermitteln und auch ganz persönlich für die Bewältigung der großen Aufgabe, die vor Ihnen liegt, Kraft, Erfolg und Gottes Segen wünschen.</p>
+          <stage type="interjection">(Beifall im ganzen Hause)</stage>
+          <p>Das Ergebnis der Wahl werde ich unverzüglich dem Herrn Bundespräsidenten mitteilen. Nach Ausfertigung und Überreichung der Urkunde findet die Vereidigung der Kanzlerin um 13 Uhr hier im Plenarsaal statt.</p>
+          <p>Bis dahin unterbreche ich die Sitzung.</p>
+          <stage type="interjection">(Unterbrechung von 11.04 bis 13.01 Uhr)</stage>
+        </sp>
+      </div>
+      <div type="agenda_item" n="3" what="debate" desc="Debatte">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
+          <speaker>Präsident Dr. Norbert Lammert:</speaker>
+          <p>Die unterbrochene Sitzung ist wieder eröffnet.</p>
+          <p>Ich rufe den Tagesordnungspunkt 2 auf:</p>
+          <p>Eidesleistung der Bundeskanzlerin Der Herr Bundespräsident hat mir mit Schreiben vom heutigen Tage mitgeteilt:</p>
+          <p>Gemäß Artikel 63 Absatz 2 des Grundgesetzes für die Bundesrepublik Deutschland habe ich heute Frau Dr. Angela Merkel zur Bundeskanzlerin ernannt.</p>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</stage>
+          <p>Nach Art. 64 Abs. 2 des Grundgesetzes leistet die Bundeskanzlerin bei der Amtsübernahme vor dem Deutschen Bundestag den in Art. 56 des Grundgesetzes vorgesehenen Eid.</p>
+          <p>Frau Bundeskanzlerin, ich bitte Sie, zur Eidesleistung zu mir zu kommen.</p>
+          <stage type="interjection">(Die Anwesenden erheben sich)</stage>
+        </sp>
+      </div>
+      <div type="agenda_item" n="4" what="debate" desc="Debatte">
+        <sp who="Angela Merkel" parliamentary_group="NA" role="government" position="Bundeskanzlerin" who_original="Angela Merkel" party="CDU" name="Angela Merkel">
           <speaker>Dr. Angela Merkel, Bundeskanzlerin:</speaker>
           <p>Ich schwöre, dass ich meine Kraft dem Wohle des deutschen Volkes widmen, seinen Nutzen mehren, Schaden von ihm wenden, das Grundgesetz und die Gesetze des Bundes wahren und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegenüber jedermann üben werde. So wahr mir Gott helfe.</p>
-          <stage type="interjection">(Anhaltender Beifall bei der CDU/CSU und der FDP – Beifall bei Abgeordneten der SPD, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN) </stage>
+          <stage type="interjection">(Anhaltender Beifall bei der CDU/CSU und der FDP – Beifall bei Abgeordneten der SPD, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Meine Damen und Herren! Liebe Kolleginnen und Kollegen! Ich stelle nicht nur für unser Protokoll fest, dass die Frau Bundeskanzlerin den vorgeschriebenen Eid vor dem Deutschen Bundestag geleistet hat.</p>
           <p>Ich darf Ihnen noch einmal alle guten Wünsche für dieses Amt mit auf den Weg geben.</p>
-          <p>Wir unterbrechen jetzt die Sitzung bis 15 Uhr. Dann wird die wahrscheinlich nur noch mäßig überraschende Liste der Mitglieder der Bundesregierung  </p>
-          <stage type="interjection">(Heiterkeit bei der CDU/CSU und der FDP – Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Mäßig?) </stage>
+          <p>Wir unterbrechen jetzt die Sitzung bis 15 Uhr. Dann wird die wahrscheinlich nur noch mäßig überraschende Liste der Mitglieder der Bundesregierung</p>
+          <stage type="interjection">(Heiterkeit bei der CDU/CSU und der FDP – Renate Künast [BÜNDNIS 90/DIE GRÜNEN]: Mäßig?)</stage>
           <p>nach förmlicher Ausfertigung der Urkunden durch den Bundespräsidenten bekannt gegeben und werden die Mitglieder der Bundesregierung vereidigt.</p>
           <p>Ich unterbreche die Sitzung bis 15 Uhr.</p>
-          <stage type="interjection">(Unterbrechung von 13.05 bis 15.00 Uhr) </stage>
+          <stage type="interjection">(Unterbrechung von 13.05 bis 15.00 Uhr)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+      </div>
+      <div type="agenda_item" n="5" what="debate" desc="Debatte">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Liebe Kolleginnen und Kollegen! Verehrte Gäste!</p>
-          <p>Wir setzen unsere unterbrochene Sitzung mit dem Tagesordnungspunkt 3 fort: Bekanntgabe der Bildung der Bundesregierung  Gemeint ist selbstverständlich die Zusammensetzung der Bundesregierung und nicht, was man unter dem gleichen Begriff sonst verstehen muss und sollte.</p>
-          <stage type="interjection">(Jürgen Trittin [BÜNDNIS 90/DIE GRÜNEN]: Auf die Idee wären wir nicht gekom- men, Herr Präsident!) </stage>
-          <p>Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt: Gemäß Artikel 64 Absatz 1 des Grundgesetzes für die Bundesrepublik Deutschland habe ich heute auf Vorschlag der Frau Bundeskanzlerin ernannt: Herrn Dr. Guido Westerwelle zum Bundesminister des Auswärtigen, </p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP sowie der Abg. Dr. Gesine Lötzsch [DIE LINKE]) </stage>
-          <p>Herrn Dr. Thomas de Maizière zum Bundesminister des Innern, </p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP sowie der Abg. Dr. Gesine Lötzsch [DIE LINKE]) </stage>
-          <p>Frau Sabine Leutheusser-Schnarrenberger zur Bundesministerin der Justiz, </p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP sowie bei Abgeordneten der SPD, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN) </stage>
-          <p>Herrn Dr. Wolfgang Schäuble zum Bundesminister der Finanzen, </p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP) </stage>
-          <p>Herrn Rainer Brüderle zum Bundesminister für Wirtschaft und Technologie, </p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP) </stage>
-          <p>Herrn Dr. Franz Josef Jung zum Bundesminister für Arbeit und Soziales, </p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP) </stage>
-          <p>Frau Ilse Aigner zur Bundesministerin für Ernährung, Landwirtschaft und Verbraucherschutz, </p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP) </stage>
-          <p>Herrn Dr. Karl-Theodor zu Guttenberg zum Bundesminister der Verteidigung, </p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP) </stage>
-          <p>Frau Dr. Ursula von der Leyen zur Bundesministerin für Familie, Senioren, Frauen und Jugend, </p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP) </stage>
-          <p>Herrn Dr. Philipp Rösler zum Bundesminister für Gesundheit, </p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP) </stage>
-          <p>Herrn Dr. Peter Ramsauer zum Bundesminister für Verkehr, Bau und Stadtentwicklung, </p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP) </stage>
-          <p>Herrn Dr. Norbert Röttgen zum Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit, </p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP) </stage>
-          <p>Frau Professor Dr. Annette Schavan zur Bundesministerin für Bildung und Forschung, </p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP) </stage>
-          <p>Herrn Dirk Niebel zum Bundesminister für wirtschaftliche Zusammenarbeit und Entwicklung </p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP – La- chen bei Abgeordneten der SPD, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN) </stage>
+          <p>Wir setzen unsere unterbrochene Sitzung mit dem Tagesordnungspunkt 3 fort:</p>
+          <p>Bekanntgabe der Bildung der Bundesregierung Gemeint ist selbstverständlich die Zusammensetzung der Bundesregierung und nicht, was man unter dem gleichen Begriff sonst verstehen muss und sollte.</p>
+          <stage type="interjection">(Jürgen Trittin [BÜNDNIS 90/DIE GRÜNEN]: Auf die Idee wären wir nicht gekom men, Herr Präsident!)</stage>
+          <p>Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt:</p>
+          <p>Gemäß Artikel 64 Absatz 1 des Grundgesetzes für die Bundesrepublik Deutschland habe ich heute auf Vorschlag der Frau Bundeskanzlerin ernannt:</p>
+          <p>Herrn Dr. Guido Westerwelle zum Bundesminister des Auswärtigen,</p>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP sowie der Abg. Dr. Gesine Lötzsch [DIE LINKE])</stage>
+          <p>Herrn Dr. Thomas de Maizière zum Bundesminister des Innern,</p>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP sowie der Abg. Dr. Gesine Lötzsch [DIE LINKE])</stage>
+          <p>Frau Sabine Leutheusser-Schnarrenberger zur Bundesministerin der Justiz,</p>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP sowie bei Abgeordneten der SPD, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
+          <p>Herrn Dr. Wolfgang Schäuble zum Bundesminister der Finanzen,</p>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
+          <p>Herrn Rainer Brüderle zum Bundesminister für Wirtschaft und Technologie,</p>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
+          <p>Herrn Dr. Franz Josef Jung zum Bundesminister für Arbeit und Soziales,</p>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
+          <p>Frau Ilse Aigner zur Bundesministerin für Ernährung, Landwirtschaft und Verbraucherschutz,</p>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
+          <p>Herrn Dr. Karl-Theodor zu Guttenberg zum Bundesminister der Verteidigung,</p>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
+          <p>Frau Dr. Ursula von der Leyen zur Bundesministerin für Familie, Senioren, Frauen und Jugend,</p>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
+          <p>Herrn Dr. Philipp Rösler zum Bundesminister für Gesundheit,</p>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
+          <p>Herrn Dr. Peter Ramsauer zum Bundesminister für Verkehr, Bau und Stadtentwicklung,</p>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
+          <p>Herrn Dr. Norbert Röttgen zum Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit,</p>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
+          <p>Frau Professor Dr. Annette Schavan zur Bundesministerin für Bildung und Forschung,</p>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
+          <p>Herrn Dirk Niebel zum Bundesminister für wirtschaftliche Zusammenarbeit und Entwicklung</p>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP – Lachen bei Abgeordneten der SPD, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</stage>
           <p>sowie Herrn Ronald Pofalla zum Bundesminister für besondere Aufgaben.</p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP) </stage>
-          <p>Ich rufe nun unseren Tagesordnungspunkt 4 auf: Eidesleistung der Bundesminister Meine Damen und Herren, nach Art. 64 Abs. 2 des Grundgesetzes leisten die Bundesminister bei der Amtsübernahme vor dem Deutschen Bundestag den in Art. 56 des Grundgesetzes vorgesehenen Eid.</p>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP)</stage>
+          <p>Ich rufe nun unseren Tagesordnungspunkt 4 auf:</p>
+          <p>Eidesleistung der Bundesminister Meine Damen und Herren, nach Art. 64 Abs. 2 des Grundgesetzes leisten die Bundesminister bei der Amtsübernahme vor dem Deutschen Bundestag den in Art. 56 des Grundgesetzes vorgesehenen Eid.</p>
           <p>Ich werde den Eid vorsprechen und bitte dann die Mitglieder der Bundesregierung, den Eid mit den Worten „Ich schwöre es, so wahr mir Gott helfe“ oder „Ich schwöre es“ zu bekräftigen. Den Text der Eidesformel haben Sie bereits heute Mittag zur Kenntnis genommen.</p>
-          <p>Ich trage ihn noch einmal vor: Ich schwöre, dass ich meine Kraft dem Wohle des deutschen Volkes widmen, seinen Nutzen mehren, Schaden von ihm wenden, das Grundgesetz und die Gesetze des Bundes wahren und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde.</p>
+          <p>Ich trage ihn noch einmal vor:</p>
+          <p>Ich schwöre, dass ich meine Kraft dem Wohle des deutschen Volkes widmen, seinen Nutzen mehren, Schaden von ihm wenden, das Grundgesetz und die Gesetze des Bundes wahren und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde.</p>
           <p>Ich darf jetzt die Bundesminister zur Eidesleistung bitten und sie fragen, ob sie bereit sind, diesen Eid zu leisten.</p>
-          <stage type="interjection">(Die Anwesenden erheben sich) </stage>
+          <stage type="interjection">(Die Anwesenden erheben sich)</stage>
           <p>Zunächst der Bundesminister des Auswärtigen, Herr Dr. Guido Westerwelle?</p>
         </sp>
       </div>
-      <div type="agenda_item" n="3" what="" desc="Ich werde den Eid vorsprechen und bitte dann die Mitglieder der Bundesregierung,...">
-        <sp who="Dr. Guido Westerwelle" parliamentary_group="NA" role="government" position="Bundesminister des Auswärtigen" party="FDP" name="Guido Westerwelle">
+      <div type="agenda_item" n="6" what="debate" desc="Debatte">
+        <sp who="Guido Westerwelle" parliamentary_group="NA" role="government" position="Bundesminister des Auswärtigen" who_original="Guido Westerwelle" party="FDP" name="Guido Westerwelle">
           <speaker>Dr. Guido Westerwelle, Bundesminister des Auswärtigen:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Der Bundesminister des Innern, Dr. Thomas de Maizière?</p>
         </sp>
-        <sp who="Dr. Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister desInnern" party="CDU" name="Thomas de Maizière">
-          <speaker>Dr. Thomas de Maizière, Bundesminister desInnern:</speaker>
+      </div>
+      <div type="agenda_item" n="7" what="debate" desc="Debatte">
+        <sp who="Thomas de Maizière" parliamentary_group="NA" role="government" position="Bundesminister des Innern" who_original="Thomas de Maizière" party="CDU" name="Thomas de Maizière">
+          <speaker>Dr. Thomas de Maizière, Bundesminister des Innern:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Die Bundesministerin der Justiz, Frau Sabine Leutheusser-Schnarrenberger?</p>
         </sp>
-        <sp who="Sabine Leutheusser-Schnarrenberger" parliamentary_group="NA" role="government" position="Bundesministerin der Justiz" party="FDP" name="Sabine Leutheusser-Schnarrenberger">
+      </div>
+      <div type="agenda_item" n="8" what="debate" desc="Debatte">
+        <sp who="Sabine Leutheusser-Schnarrenberger" parliamentary_group="NA" role="government" position="Bundesministerin der Justiz" who_original="Sabine Leutheusser-Schnarrenberger" party="FDP" name="Sabine Leutheusser-Schnarrenberger">
           <speaker>Sabine Leutheusser-Schnarrenberger, Bundesministerin der Justiz:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Der Bundesminister der Finanzen, Dr. Wolfgang Schäuble?</p>
         </sp>
-        <sp who="Dr. Wolfgang Schäuble" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" party="CDU" name="Wolfgang Schäuble">
+      </div>
+      <div type="agenda_item" n="9" what="debate" desc="Debatte">
+        <sp who="Wolfgang Schäuble" parliamentary_group="NA" role="government" position="Bundesminister der Finanzen" who_original="Wolfgang Schäuble" party="CDU" name="Wolfgang Schäuble">
           <speaker>Dr. Wolfgang Schäuble, Bundesminister der Finanzen:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Der Bundesminister für Wirtschaft und Technologie, Rainer Brüderle?</p>
         </sp>
-        <sp who="Rainer Brüderle" parliamentary_group="NA" role="government" position="Bundesminister für Wirtschaft undTechnologie" party="FDP" name="Rainer Brüderle">
-          <speaker>Rainer Brüderle, Bundesminister für Wirtschaft undTechnologie:</speaker>
+      </div>
+      <div type="agenda_item" n="10" what="debate" desc="Debatte">
+        <sp who="Rainer Brüderle" parliamentary_group="NA" role="government" position="Bundesminister für Wirtschaft und Technologie" who_original="Rainer Brüderle" party="FDP" name="Rainer Brüderle">
+          <speaker>Rainer Brüderle, Bundesminister für Wirtschaft und Technologie:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Der Bundesminister für Arbeit und Soziales, Dr. Franz Josef Jung?</p>
         </sp>
-        <sp who="Dr. Franz Josef Jung" parliamentary_group="NA" role="government" position="Bundesminister für Arbeitund Soziales" party="CDU" name="Franz Josef Jung">
-          <speaker>Dr. Franz Josef Jung, Bundesminister für Arbeitund Soziales:</speaker>
+      </div>
+      <div type="agenda_item" n="11" what="debate" desc="Debatte">
+        <sp who="Franz Josef Jung" parliamentary_group="NA" role="government" position="Bundesminister für Arbeit und Soziales" who_original="Franz Josef Jung" party="CDU" name="Franz Josef Jung">
+          <speaker>Dr. Franz Josef Jung, Bundesminister für Arbeit und Soziales:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Die Bundesministerin für Ernährung, Landwirtschaft und Verbraucherschutz, Ilse Aigner?</p>
         </sp>
-        <sp who="Ilse Aigner" parliamentary_group="NA" role="government" position="Bundesministerin für Ernährung, Landwirtschaft und Verbraucherschutz" party="CSU" name="Ilse Aigner">
+      </div>
+      <div type="agenda_item" n="12" what="debate" desc="Debatte">
+        <sp who="Ilse Aigner" parliamentary_group="NA" role="government" position="Bundesministerin für Ernährung, Landwirtschaft und Verbraucherschutz" who_original="Ilse Aigner" party="CSU" name="Ilse Aigner">
           <speaker>Ilse Aigner, Bundesministerin für Ernährung, Landwirtschaft und Verbraucherschutz:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
-          <p>Der Bundesminister der Verteidigung, Dr. Karl-Theodor zu Guttenberg?</p>
+          <p>Der Bundesminister der Verteidigung, Dr. Karl- Theodor zu Guttenberg?</p>
         </sp>
-        <sp who="Dr. Karl-Theodor Freiherr zu Guttenberg" parliamentary_group="NA" role="government" position="Bundesminister der Verteidigung" party="CSU" name="Karl-Theodor zu Guttenberg">
+      </div>
+      <div type="agenda_item" n="13" what="debate" desc="Debatte">
+        <sp who="Karl-Theodor Freiherr zu Guttenberg" parliamentary_group="NA" role="government" position="Bundesminister der Verteidigung" who_original="Karl-Theodor Freiherr zu Guttenberg" party="CSU" name="Karl-Theodor zu Guttenberg">
           <speaker>Dr. Karl-Theodor Freiherr zu Guttenberg, Bundesminister der Verteidigung:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Die Bundesministerin für Familie, Senioren, Frauen und Jugend, Frau Dr. Ursula von der Leyen?</p>
         </sp>
-        <sp who="Dr. Ursula von der Leyen" parliamentary_group="NA" role="government" position="Bundesministerin fürFamilie, Senioren, Frauen und Jugend" party="CDU" name="Ursula von der Leyen">
-          <speaker>Dr. Ursula von der Leyen, Bundesministerin fürFamilie, Senioren, Frauen und Jugend:</speaker>
+      </div>
+      <div type="agenda_item" n="14" what="debate" desc="Debatte">
+        <sp who="Ursula von der Leyen" parliamentary_group="NA" role="government" position="Bundesministerin für Familie, Senioren, Frauen und Jugend" who_original="Ursula von der Leyen" party="CDU" name="Ursula von der Leyen">
+          <speaker>Dr. Ursula von der Leyen, Bundesministerin für Familie, Senioren, Frauen und Jugend:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Der Bundesminister für Gesundheit, Dr. Philipp Rösler?</p>
         </sp>
-        <sp who="Dr. Philipp Rösler" parliamentary_group="NA" role="government" position="Bundesminister für Gesundheit" party="FDP" name="Philipp Rösler">
+      </div>
+      <div type="agenda_item" n="15" what="debate" desc="Debatte">
+        <sp who="Philipp Rösler" parliamentary_group="NA" role="government" position="Bundesminister für Gesundheit" who_original="Philipp Rösler" party="FDP" name="Philipp Rösler">
           <speaker>Dr. Philipp Rösler, Bundesminister für Gesundheit:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Der Bundesminister für Verkehr, Bau und Stadtentwicklung, Dr. Peter Ramsauer?</p>
         </sp>
-        <sp who="Dr. Peter Ramsauer" parliamentary_group="NA" role="government" position="Bundesminister für Verkehr,Bau und Stadtentwicklung" party="CSU" name="Peter Ramsauer">
-          <speaker>Dr. Peter Ramsauer, Bundesminister für Verkehr,Bau und Stadtentwicklung:</speaker>
+      </div>
+      <div type="agenda_item" n="16" what="debate" desc="Debatte">
+        <sp who="Peter Ramsauer" parliamentary_group="NA" role="government" position="Bundesminister für Verkehr, Bau und Stadtentwicklung" who_original="Peter Ramsauer" party="CSU" name="Peter Ramsauer">
+          <speaker>Dr. Peter Ramsauer, Bundesminister für Verkehr, Bau und Stadtentwicklung:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Der Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit, Dr. Norbert Röttgen?</p>
         </sp>
-        <sp who="Dr. Norbert Röttgen" parliamentary_group="NA" role="government" position="Bundesminister für Umwelt,Naturschutz und Reaktorsicherheit" party="CDU" name="Norbert Röttgen">
-          <speaker>Dr. Norbert Röttgen, Bundesminister für Umwelt,Naturschutz und Reaktorsicherheit:</speaker>
+      </div>
+      <div type="agenda_item" n="17" what="debate" desc="Debatte">
+        <sp who="Norbert Röttgen" parliamentary_group="NA" role="government" position="Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit" who_original="Norbert Röttgen" party="CDU" name="Norbert Röttgen">
+          <speaker>Dr. Norbert Röttgen, Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Die Bundesministerin für Bildung und Forschung, Frau Dr. Annette Schavan?</p>
         </sp>
-        <sp who="Dr. Annette Schavan" parliamentary_group="NA" role="government" position="Bundesministerin für Bildung und Forschung" party="CDU" name="Annette Schavan">
+      </div>
+      <div type="agenda_item" n="18" what="debate" desc="Debatte">
+        <sp who="Annette Schavan" parliamentary_group="NA" role="government" position="Bundesministerin für Bildung und Forschung" who_original="Annette Schavan" party="CDU" name="Annette Schavan">
           <speaker>Dr. Annette Schavan, Bundesministerin für Bildung und Forschung:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Der Bundesminister für wirtschaftliche Zusammenarbeit und Entwicklung, Dirk Niebel?</p>
         </sp>
-        <sp who="Dirk Niebel" parliamentary_group="NA" role="government" position="Bundesminister für wirtschaftliche Zusammenarbeit und Entwicklung" party="FDP" name="Dirk Niebel">
+      </div>
+      <div type="agenda_item" n="19" what="debate" desc="Debatte">
+        <sp who="Dirk Niebel" parliamentary_group="NA" role="government" position="Bundesminister für wirtschaftliche Zusammenarbeit und Entwicklung" who_original="Dirk Niebel" party="FDP" name="Dirk Niebel">
           <speaker>Dirk Niebel, Bundesminister für wirtschaftliche Zusammenarbeit und Entwicklung:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Der Bundesminister für besondere Aufgaben, Ronald Pofalla?</p>
         </sp>
-        <sp who="Ronald Pofalla" parliamentary_group="NA" role="government" position="Bundesminister für besondere Aufgaben" party="CDU" name="Ronald Pofalla">
+      </div>
+      <div type="agenda_item" n="20" what="debate" desc="Debatte">
+        <sp who="Ronald Pofalla" parliamentary_group="NA" role="government" position="Bundesminister für besondere Aufgaben" who_original="Ronald Pofalla" party="CDU" name="Ronald Pofalla">
           <speaker>Ronald Pofalla, Bundesminister für besondere Aufgaben:</speaker>
           <p>Ich schwöre es, so wahr mir Gott helfe.</p>
-          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP sowie bei Abgeordneten der SPD) </stage>
+          <stage type="interjection">(Beifall bei der CDU/CSU und der FDP sowie bei Abgeordneten der SPD)</stage>
         </sp>
-        <sp who="Dr. Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" party="CDU" name="Norbert Lammert">
+        <sp who="Norbert Lammert" parliamentary_group="NA" role="presidency" position="Präsident" who_original="Norbert Lammert" party="CDU" name="Norbert Lammert">
           <speaker>Präsident Dr. Norbert Lammert:</speaker>
           <p>Meine Damen und Herren, die Mitglieder der Bundesregierung haben den nach Art. 64 Abs. 2 des Grundgesetzes vorgeschriebenen Eid vor dem Deutschen Bundestag geleistet. Ich spreche allen Mitgliedern der Bundesregierung persönlich und im Namen des ganzen Hauses die besten Wünsche für die übernommenen Aufgaben aus.</p>
-          <p>Ich rufe nun unseren Tagesordnungspunkt 5 auf: Beratung des Antrags der Fraktionen CDU/CSU, SPD, FDP, DIE LINKE und BÜNDNIS 90/DIE GRÜNEN  Bestimmung des Verfahrens für die Berechnung der Stellenanteile der Fraktionen – Drucksache 17/4 – Hierzu gibt es eine interfraktionelle Vereinbarung, dass die Abstimmung ohne Aussprache erfolgen soll.</p>
+          <p>Ich rufe nun unseren Tagesordnungspunkt 5 auf:</p>
+          <p>Beratung des Antrags der Fraktionen CDU/CSU, SPD, FDP, DIE LINKE und BÜNDNIS 90/DIE GRÜNEN Bestimmung des Verfahrens für die Berechnung der Stellenanteile der Fraktionen – Drucksache 17/4 – Hierzu gibt es eine interfraktionelle Vereinbarung, dass die Abstimmung ohne Aussprache erfolgen soll.</p>
           <p>Sind Sie damit einverstanden? – Das ist offenkundig der Fall. Dann verfahren wir so.</p>
           <p>Wir kommen zur Abstimmung über den interfraktionellen Antrag zur Bestimmung des Verfahrens für die Berechnung der Stellenanteile der Fraktionen auf der Drucksache 17/4. Wer stimmt für diesen Antrag? – Möchte jemand dagegen stimmen? – Möchte sich jemand der Stimme enthalten? – Das ist nicht der Fall. Dann ist der Antrag einstimmig angenommen.</p>
           <p>Wir sind damit am Schluss unserer heutigen Tagesordnung.</p>
           <p>Ich berufe die nächste Sitzung des Deutschen Bundestages ein auf Dienstag, den 10. November 2009, um 11 Uhr.</p>
           <p>Die Sitzung ist geschlossen.</p>
+          <stage type="interjection">(Schluss: 15.11 Uhr)</stage>
         </sp>
       </div>
     </body>
